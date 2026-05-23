@@ -10,22 +10,22 @@
 
 /* ── Design tokens ──────────────────────────────────────────── */
 :root {
-	--c-bg:       #030514;
-	--c-surface:  #0A0E28;
-	--c-border:   #1B234B;
-	--c-text:     #e8e8e8;
-	--c-muted:    #6070a8;
-	--c-gold:     #c9a84c;
+	--c-bg: #030514;
+	--c-surface: #0a0e28;
+	--c-border: #1b234b;
+	--c-text: #e8e8e8;
+	--c-muted: #6070a8;
+	--c-gold: #c9a84c;
 	--c-gold-dim: #8a6f2e;
 
-	--c-hover:              #11143D;
-	--c-surface-gold:       #1B131B;
-	--c-surface-gold-hover: #221B33;
-	--c-green:              #6abf69;
-	--c-surface-green:      #0A171D;
-	--c-surface-green-hover:#101E25;
+	--c-hover: #11143d;
+	--c-surface-gold: #1b131b;
+	--c-surface-gold-hover: #221b33;
+	--c-green: #6abf69;
+	--c-surface-green: #0a171d;
+	--c-surface-green-hover: #101e25;
 
-	--c-cyan: #4daad5;
+	--c-cyan: #729ed8;
 	--c-link: var(--c-cyan);
 
 	--f-display: "DM Serif Display", Georgia, serif;
