@@ -2,6 +2,7 @@
 // src/pages/countries.astro
 import Base from '../layouts/Base.astro';
 import { getCountries, getContestIndex } from '../lib/data.ts';
+import { countryFlag } from '../lib/utils.ts';
 
 const countries = getCountries();
 const index = getContestIndex();
@@ -51,7 +52,7 @@ const countryList = Object.entries(statsMap)
           <tr>
             <td>
               <a href={`/country/${c.code}`} class="country-link">
-                {c.name}
+                <span class="flag">{countryFlag(c.code)}</span>{c.name}
               </a>
               <span class="badge mono">{c.code}</span>
             </td>
@@ -104,4 +105,5 @@ const countryList = Object.entries(statsMap)
   .countries-table .right { text-align: right; }
 
   .country-link { font-weight: 500; margin-right: 0.5rem; }
+  .flag { font-family: sans-serif; margin-right: 0.35em; }
 </style>

@@ -295,6 +295,7 @@ export interface CountryAppearance {
   contestantId: number;
   finalPlace: number | null;
   finalPoints: number | null;
+  cancelled: boolean;
 }
 
 /**
@@ -306,28 +307,34 @@ export function getCountryHistory(countryCode: string): CountryAppearance[] {
   const appearances: CountryAppearance[] = [];
 
   for (const entry of index) {
-    const contestant = entry.contestants.find(
+    const contestants = entry.contestants.filter(
       (c) => c.country === countryCode,
     );
-    if (!contestant) continue;
+    if (contestants.length === 0) continue;
 
     // To get placement we need the full contest detail
     const detail = getContest(entry.year);
+    const cancelled = detail.rounds.every((r) => r.performances === null);
     const finalRound = detail.rounds.find((r) => r.name === "final");
-    const finalPerf = finalRound?.performances?.find(
-      (p) => p.contestantId === contestant.id,
-    );
 
-    appearances.push({
-      year: entry.year,
-      artist: contestant.artist,
-      song: contestant.song,
-      contestantId: contestant.id,
-      finalPlace: finalPerf?.place ?? null,
-      finalPoints:
-        finalPerf?.scores.find((s) => s.name === "total")?.points ?? null,
-    });
+    for (const contestant of contestants) {
+      const finalPerf = finalRound?.performances?.find(
+        (p) => p.contestantId === contestant.id,
+      );
+
+      appearances.push({
+        year: entry.year,
+        artist: contestant.artist,
+        song: contestant.song,
+        contestantId: contestant.id,
+        finalPlace: finalPerf?.place ?? null,
+        finalPoints:
+          finalPerf?.scores.find((s) => s.name === "total")?.points ?? null,
+        cancelled,
+      });
+    }
   }
 
-  return appearances.sort((a, b) => a.year - b.year);
+  // Sort chronologically; within the same year preserve contestant ID order
+  return appearances.sort((a, b) => a.year - b.year || a.contestantId - b.contestantId);
 }

@@ -198,12 +198,13 @@ npm run build
 - `global.css` — design tokens
 - `index.astro` — homepage
 - `contests.astro` — all editions table
-- `countries.astro` — country listing with stats
-- `contest/[year].astro` — full contest page: final scoreboard + ScoreBreakdown + SemifinalsView
-- `country/[code].astro` — country history page
+- `countries.astro` — country listing with stats + emoji flags
+- `contest/[year].astro` — full contest page: unified round tab group via ContestTabs
+- `country/[code].astro` — country history page; cancelled editions show "Cancelled" badge instead of DNQ
 - `Search.svelte` — live search island (queries /data/index.json)
 - `ScoreBreakdown.svelte` — interactive voter detail panel
-- `SemifinalsView.svelte` — semifinal results tabs on contest page
+- `ContestTabs.svelte` — unified tab group: SF1 → SF2 → Grand Final (default); jury/tele
+  columns appear automatically in semi tabs when the data contains split scores (e.g. 2022, 2026)
 - ESC 2026 data — hand-crafted `src/data/contests/2026.json` with aggregate jury/tele
   totals; per-country vote breakdowns pending official API update
 - `public/data` — symlink `public/data → ../src/data`; `npm run sync:data` recreates it
@@ -214,27 +215,25 @@ npm run build
 - Error/404 page
 - Pagination or virtual scroll for the contests table (70 rows is fine for now)
 - Per-country vote breakdowns for 2026 — run `npm run fetch:year -- 2026` once API updates
-- **Semifinal jury/tele split** — `SemifinalsView.svelte` currently shows only the `total`
-  score per country. For years > 2015 the `scores` array on each performance contains
-  separate `jury` and `public` score entries alongside `total`; show all three columns
-  in those years (same pattern already used in `ScoreBreakdown.svelte` for the final).
-- **Sortable scoreboard headers** — the results table on `contest/[year].astro` should
-  let the user re-sort by: final placement (default), running order, and country name
-  A–Z. Implement as a Svelte island (or reactive sort state in the existing page) so
-  clicking a column header cycles through the sort modes. Applies to both the final
-  table and the semifinal tables in `SemifinalsView.svelte`.
+- **Sortable scoreboard headers** — the results table in `ContestTabs.svelte` should let
+  the user re-sort by: final placement (default), running order, and country name A–Z.
+  Clicking a column header cycles through sort modes. Applies to both the final table
+  and the semifinal tables.
 - **Semifinal + final score columns on country page** — `country/[code].astro` history
   table currently shows only the final result. Add two score columns: "SF" (the
   contestant's semifinal total, `null` for years without semis or for automatic
   qualifiers) and "Final" (grand final total, `null` if the country did not qualify).
-  Data is available via `getCountryHistory()` — extend it to also return
-  `semifinalPlace` and `semifinalPoints` from the appropriate semifinal round.
-- **Unified round tab group** — `contest/[year].astro` renders `SemifinalsView` and the
-  main final scoreboard separately. Merge them into a single tab group ordered:
-  Semi-final 1 → Semi-final 2 (if present) → Grand Final, with Grand Final as the
-  default active tab. Only show SF tabs if the contest has semifinal rounds in the data.
+  Extend `getCountryHistory()` to also return `semifinalPlace` and `semifinalPoints`
+  from the appropriate semifinal round.
 - Consider: voting bias charts (which countries always vote for each other)
 - Consider: timeline view showing a country's placements across all years
+
+### 🐛 Known issues / gotchas
+- 1956: each country sent two songs. `getCountryHistory` handles this correctly (uses
+  `.filter()` not `.find()`). The 1956 contest page shows all 14 performers with `—`
+  for place/score (votes were never made public — only the winner is known).
+- Cancelled editions (2020): `getCountryHistory` returns `cancelled: true` on the
+  appearance; the country page renders a "Cancelled" badge instead of "DNQ".
 
 ### 🐛 Known issues / gotchas
 - Svelte 5 uses runes (`$state`, `$derived`, `$effect`, `$props`) — do NOT

@@ -83,7 +83,9 @@ const bestPlace = Math.min(...history.map(h => h.finalPlace ?? Infinity));
                   ? <span class="gold">🏆 1st</span>
                   : h.finalPlace !== null
                     ? <span class="muted">{h.finalPlace}{ordinal(h.finalPlace)}</span>
-                    : <span class="muted">DNQ</span>
+                    : h.cancelled
+                      ? <span class="badge--cancelled">Cancelled</span>
+                      : <span class="muted">DNQ</span>
                 }
               </td>
               <td class="right mono">
@@ -171,4 +173,13 @@ const bestPlace = Math.min(...history.map(h => h.finalPlace ?? Infinity));
 
   .year-link { color: var(--c-gold); font-weight: 500; }
   .song-cell em { color: var(--c-muted); }
+  .badge--cancelled {
+    font-size: 0.68rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--c-muted);
+    border: 1px solid var(--c-border);
+    border-radius: 3px;
+    padding: 0.1em 0.4em;
+  }
 </style>
