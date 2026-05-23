@@ -22,9 +22,11 @@ No backend. No database. Data lives as local JSON files fetched at build time.
 - Maintained by the EurovisionAPI org (formerly josago97)
 - Dataset repo: `https://github.com/EurovisionAPI/dataset`
 - Coverage: Senior ESC 1956–2025, Junior ESC 2003–present
-- **Missing: ESC 2026** (Vienna, Bulgaria won with "Bangaranga" by Dara, 516 pts)
-  — the dataset maintainer is expected to update soon after the May 2026 final.
-  Gap-fill with: `npm run fetch:year 2026` once it lands.
+- **ESC 2026** (Vienna, Bulgaria won with "Bangaranga" by Dara, 516 pts)
+  — hand-crafted `src/data/contests/2026.json` exists with aggregate jury/tele
+  totals (cross-checked from EurovisionWorld, ESCCovers, ESC Insight, Eurovoix).
+  Per-country vote breakdowns are **not yet available** (stored as empty objects).
+  Replace with official data once the API dataset updates: `npm run fetch:year -- 2026`.
 - Data quality: independently verified against Wikipedia 2024+2025, zero diffs.
 - The API is hobbyist-hosted on a free ASP.NET tier. May go down. The local
   JSON snapshots in `src/data/` are the source of truth for the running app.
@@ -53,37 +55,31 @@ eurovision-app/
 ├── scripts/
 │   └── fetch-all.ts                 ← build-time data fetch script
 ├── public/
-│   └── data/                        ← symlink or copy of src/data/ for client JS
-│       ├── countries.json
-│       └── senior/
-│           ├── index.json           ← flattened search index (all contestants+winners)
-│           ├── years.json
-│           ├── contests.json
-│           └── contests/
-│               ├── 1956.json
-│               └── ...
+│   └── data/                        ← must be populated for Search to work in browser
+│       └── README.md                ← setup instructions (symlink or copy from src/data/)
 └── src/
     ├── data/                        ← server-side JSON (read by Astro at build time)
     │   ├── countries.json
-    │   ├── senior/
-    │   │   ├── index.json
-    │   │   ├── years.json
-    │   │   ├── contests.json
-    │   │   └── contests/{year}.json
-    │   └── junior/
-    │       └── (same structure)
+    │   ├── index.json               ← flattened search index (all contestants+winners)
+    │   ├── years.json
+    │   ├── contests.json
+    │   └── contests/
+    │       ├── 1956.json
+    │       └── ... (1956–2026)
     ├── lib/
     │   ├── api/
     │   │   ├── types.ts             ← ALL TypeScript interfaces (source of truth)
     │   │   └── client.ts            ← typed fetch wrapper, retry logic, batch helpers
-    │   └── data.ts                  ← server-side read helpers (fs, not fetch)
+    │   ├── data.ts                  ← server-side read helpers (fs, not fetch)
+    │   └── utils.ts                 ← countryFlag(), ordinal()
     ├── layouts/
     │   └── Base.astro               ← shell, nav, footer
     ├── styles/
     │   └── global.css               ← design tokens, reset, typography, utilities
     ├── components/
-    │   ├── Search.svelte            ← client-side search island (fetches index.json)
-    │   └── ScoreBreakdown.svelte    ← interactive vote detail (click country → voters)
+    │   ├── Search.svelte            ← client-side search island (fetches /data/index.json)
+    │   ├── ScoreBreakdown.svelte    ← interactive vote detail (click country → voters)
+    │   └── SemifinalsView.svelte    ← semifinal results tabs for contest page
     └── pages/
         ├── index.astro              ← homepage: hero + recent winners grid
         ├── contests.astro           ← all editions table
@@ -100,7 +96,7 @@ eurovision-app/
 
 ```
 fetch-all.ts → src/data/  ← Astro pages read at build/SSR time via data.ts
-                          ← Search.svelte fetches /data/senior/index.json at runtime
+                          ← Search.svelte fetches /data/index.json at runtime
                              (needs public/data/ to be populated — see setup below)
 ```
 
@@ -178,6 +174,9 @@ npm run fetch:data:contestants
 # Gap-fill a single year
 npm run fetch:year -- 2026
 
+# Recreate public/data symlink (if broken)
+npm run sync:data
+
 # Dev server
 npm run dev
 
@@ -194,38 +193,35 @@ npm run build
 - `client.ts` — live API client with retry/concurrency
 - `fetch-all.ts` — build-time data dump script, writes index.json
 - `data.ts` — server-side read helpers (getResolvedContest, search, getCountryHistory)
+- `utils.ts` — `countryFlag()` (emoji flag from ISO code) + `ordinal()` suffix helper
 - `Base.astro` — layout shell
 - `global.css` — design tokens
 - `index.astro` — homepage
 - `contests.astro` — all editions table
 - `countries.astro` — country listing with stats
-- `contest/[year].astro` — full scoreboard page
+- `contest/[year].astro` — full contest page: final scoreboard + ScoreBreakdown + SemifinalsView
 - `country/[code].astro` — country history page
-- `Search.svelte` — live search island (queries /data/senior/index.json)
+- `Search.svelte` — live search island (queries /data/index.json)
 - `ScoreBreakdown.svelte` — interactive voter detail panel
+- `SemifinalsView.svelte` — semifinal results tabs on contest page
+- ESC 2026 data — hand-crafted `src/data/contests/2026.json` with aggregate jury/tele
+  totals; per-country vote breakdowns pending official API update
+- `public/data` — symlink `public/data → ../src/data`; `npm run sync:data` recreates it
 
 ### 🔲 Still to build
-- `public/data` setup (symlink or copy step after fetch)
 - Contestant detail page: `/contest/{year}/contestant/{id}` (lyrics, BPM, jury)
 - Junior ESC pages (routes mirror senior, just swap type)
-- `ordinal()` helper currently duplicated in country page — move to `src/lib/utils.ts`
 - Error/404 page
 - Pagination or virtual scroll for the contests table (70 rows is fine for now)
-- `--year 2026` gap-fill once the API dataset updates
+- Per-country vote breakdowns for 2026 — run `npm run fetch:year -- 2026` once API updates
 - Consider: voting bias charts (which countries always vote for each other)
 - Consider: timeline view showing a country's placements across all years
 
 ### 🐛 Known issues / gotchas
-- `ordinal()` in `country/[code].astro` is in a `<script>` tag but called in
-  the template — it should be moved to the frontmatter or a utils file since
-  Astro component scripts don't expose functions to the template that way.
-  Fix: define `function ordinal(n: number)` in the `---` frontmatter.
-- The Search component fetches `/data/senior/index.json` — this path only
-  works if `public/data/` is set up. Add the copy step to package.json.
-- `data.ts` uses `import.meta.url` + Node `fs` — only works in Astro
-  server context (SSR or build time), not in client bundles.
 - Svelte 5 uses runes (`$state`, `$derived`, `$effect`, `$props`) — do NOT
   use Svelte 4 reactive syntax (`$:`, `export let`).
+- `data.ts` uses Node `fs` — only works in Astro server context (build/SSR),
+  never import it from client-side code or Svelte components.
 
 ---
 
@@ -240,4 +236,4 @@ npm run build
 
 ---
 
-*Last updated: May 2026. Written for handoff to Claude Code.*
+*Last updated: 2026-05-23.*

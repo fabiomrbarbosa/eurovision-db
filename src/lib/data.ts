@@ -13,7 +13,6 @@
 
 import { readFileSync } from "fs";
 import { join } from "path";
-import { fileURLToPath } from "url";
 import type {
   ContestantDetail,
   ContestantReference,
@@ -30,11 +29,7 @@ import type {
 // Path helpers
 // ---------------------------------------------------------------------------
 
-const DATA_DIR = join(
-  fileURLToPath(import.meta.url),
-  "../../..",   // src/lib → src → project root
-  "src/data",
-);
+const DATA_DIR = join(process.cwd(), "src/data");
 
 function readJson<T>(filePath: string): T {
   return JSON.parse(readFileSync(filePath, "utf-8")) as T;
