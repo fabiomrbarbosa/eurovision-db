@@ -192,21 +192,26 @@ npm run build
 - `types.ts` — full typed schema
 - `client.ts` — live API client with retry/concurrency
 - `fetch-all.ts` — build-time data dump script, writes index.json
-- `data.ts` — server-side read helpers (getResolvedContest, search, getCountryHistory)
+- `data.ts` — server-side read helpers; `CountryAppearance` includes `finalRunning`,
+  `finalPlace`, `finalPoints`, `cancelled`
 - `utils.ts` — `countryFlag()` (emoji flag from ISO code) + `ordinal()` suffix helper
 - `Base.astro` — layout shell
 - `global.css` — design tokens
 - `index.astro` — homepage
 - `contests.astro` — all editions table
-- `countries.astro` — country listing with stats + emoji flags
+- `countries.astro` — country listing with stats + emoji flags; all columns sortable
 - `contest/[year].astro` — full contest page: unified round tab group via ContestTabs
-- `country/[code].astro` — country history page; cancelled editions show "Cancelled" badge instead of DNQ
+- `country/[code].astro` — country history; sortable columns; "Cancelled" badge for 2020;
+  Run column shows grand final draw number (null for DNQ)
 - `Search.svelte` — live search island (queries /data/index.json)
 - `ScoreBreakdown.svelte` — interactive voter detail panel
-- `ContestTabs.svelte` — unified tab group: SF1 → SF2 → Grand Final (default); jury/tele
-  columns appear automatically in semi tabs when the data contains split scores (e.g. 2022, 2026)
+- `ContestTabs.svelte` — unified tab group: SF1 → SF2 → Grand Final (default); all
+  columns sortable (sort resets on tab switch); jury/tele columns appear automatically
+  when data contains split scores (e.g. 2022, 2026); Run column shows draw/lineup order;
+  ScoreBreakdown hidden for years with no score data (e.g. 1956)
 - ESC 2026 data — hand-crafted `src/data/contests/2026.json` with aggregate jury/tele
-  totals; per-country vote breakdowns pending official API update
+  totals; per-country vote breakdowns pending official API update; semi running order
+  not yet available (shows `—`)
 - `public/data` — symlink `public/data → ../src/data`; `npm run sync:data` recreates it
 
 ### 🔲 Still to build
@@ -215,31 +220,22 @@ npm run build
 - Error/404 page
 - Pagination or virtual scroll for the contests table (70 rows is fine for now)
 - Per-country vote breakdowns for 2026 — run `npm run fetch:year -- 2026` once API updates
-- **Sortable scoreboard headers** — the results table in `ContestTabs.svelte` should let
-  the user re-sort by: final placement (default), running order, and country name A–Z.
-  Clicking a column header cycles through sort modes. Applies to both the final table
-  and the semifinal tables.
 - **Semifinal + final score columns on country page** — `country/[code].astro` history
-  table currently shows only the final result. Add two score columns: "SF" (the
-  contestant's semifinal total, `null` for years without semis or for automatic
-  qualifiers) and "Final" (grand final total, `null` if the country did not qualify).
-  Extend `getCountryHistory()` to also return `semifinalPlace` and `semifinalPoints`
-  from the appropriate semifinal round.
+  table shows only the final result. Add SF place/points columns for years with semis.
+  Extend `getCountryHistory()` to return `semifinalPlace` and `semifinalPoints`.
 - Consider: voting bias charts (which countries always vote for each other)
 - Consider: timeline view showing a country's placements across all years
-
-### 🐛 Known issues / gotchas
-- 1956: each country sent two songs. `getCountryHistory` handles this correctly (uses
-  `.filter()` not `.find()`). The 1956 contest page shows all 14 performers with `—`
-  for place/score (votes were never made public — only the winner is known).
-- Cancelled editions (2020): `getCountryHistory` returns `cancelled: true` on the
-  appearance; the country page renders a "Cancelled" badge instead of "DNQ".
 
 ### 🐛 Known issues / gotchas
 - Svelte 5 uses runes (`$state`, `$derived`, `$effect`, `$props`) — do NOT
   use Svelte 4 reactive syntax (`$:`, `export let`).
 - `data.ts` uses Node `fs` — only works in Astro server context (build/SSR),
   never import it from client-side code or Svelte components.
+- 1956: each country sent two songs. `getCountryHistory` handles this correctly (uses
+  `.filter()` not `.find()`). The 1956 contest page shows all 14 performers with `—`
+  for place/score (votes were never made public — only the winner is known).
+- Cancelled editions (2020): `getCountryHistory` returns `cancelled: true` on the
+  appearance; the country page renders a "Cancelled" badge instead of "DNQ".
 
 ---
 

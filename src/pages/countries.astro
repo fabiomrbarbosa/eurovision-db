@@ -1,109 +1,192 @@
 ---
 // src/pages/countries.astro
-import Base from '../layouts/Base.astro';
-import { getCountries, getContestIndex } from '../lib/data.ts';
-import { countryFlag } from '../lib/utils.ts';
+import Base from "../layouts/Base.astro";
+import { getCountries, getContestIndex } from "../lib/data.ts";
+import { countryFlag } from "../lib/utils.ts";
 
 const countries = getCountries();
 const index = getContestIndex();
 
 // Build stats per country
-const statsMap: Record<string, { appearances: number; wins: number; lastYear: number }> = {};
+const statsMap: Record<
+	string,
+	{ appearances: number; wins: number; lastYear: number }
+> = {};
 for (const entry of index) {
-  for (const c of entry.contestants) {
-    if (!statsMap[c.country]) statsMap[c.country] = { appearances: 0, wins: 0, lastYear: 0 };
-    statsMap[c.country].appearances++;
-    statsMap[c.country].lastYear = Math.max(statsMap[c.country].lastYear, entry.year);
-  }
-  if (entry.winner) {
-    const code = entry.winner.country;
-    if (!statsMap[code]) statsMap[code] = { appearances: 0, wins: 0, lastYear: 0 };
-    statsMap[code].wins++;
-  }
+	for (const c of entry.contestants) {
+		if (!statsMap[c.country])
+			statsMap[c.country] = { appearances: 0, wins: 0, lastYear: 0 };
+		statsMap[c.country].appearances++;
+		statsMap[c.country].lastYear = Math.max(
+			statsMap[c.country].lastYear,
+			entry.year,
+		);
+	}
+	if (entry.winner) {
+		const code = entry.winner.country;
+		if (!statsMap[code])
+			statsMap[code] = { appearances: 0, wins: 0, lastYear: 0 };
+		statsMap[code].wins++;
+	}
 }
 
 const countryList = Object.entries(statsMap)
-  .map(([code, stats]) => ({
-    code,
-    name: countries[code] ?? code,
-    ...stats,
-  }))
-  .sort((a, b) => b.wins - a.wins || b.appearances - a.appearances);
+	.map(([code, stats]) => ({
+		code,
+		name: countries[code] ?? code,
+		...stats,
+	}))
+	.sort((a, b) => b.wins - a.wins || b.appearances - a.appearances);
 ---
 
 <Base title="Countries">
-  <div class="container">
-    <header class="page-header">
-      <h1>Countries</h1>
-      <p class="muted">{countryList.length} countries have participated in the Senior contest</p>
-    </header>
+	<div class="container">
+		<header class="page-header">
+			<h1>Countries</h1>
+			<p class="muted">
+				{countryList.length} countries have participated in the Senior contest
+			</p>
+		</header>
 
-    <table class="countries-table">
-      <thead>
-        <tr>
-          <th>Country</th>
-          <th class="right">Wins</th>
-          <th class="right">Appearances</th>
-          <th class="right">Last entry</th>
-        </tr>
-      </thead>
-      <tbody>
-        {countryList.map(c => (
-          <tr>
-            <td>
-              <a href={`/country/${c.code}`} class="country-link">
-                <span class="flag">{countryFlag(c.code)}</span>{c.name}
-              </a>
-              <span class="badge mono">{c.code}</span>
-            </td>
-            <td class="right mono">
-              {c.wins > 0
-                ? <span class="gold">{c.wins}</span>
-                : <span class="muted">—</span>
-              }
-            </td>
-            <td class="right mono muted">{c.appearances}</td>
-            <td class="right mono muted">{c.lastYear}</td>
-          </tr>
-        ))}
-      </tbody>
-    </table>
-  </div>
+		<table class="countries-table">
+			<thead>
+				<tr>
+					<th data-sort="name">Country</th>
+					<th class="right" data-sort="wins">Wins</th>
+					<th class="right" data-sort="appearances">Appearances</th>
+					<th class="right" data-sort="last">Last entry</th>
+				</tr>
+			</thead>
+			<tbody>
+				{
+					countryList.map((c) => (
+						<tr data-name={c.name} data-wins={c.wins} data-appearances={c.appearances} data-last={c.lastYear}>
+							<td>
+								<a href={`/country/${c.code}`} class="country-link">
+									<span class="flag">{countryFlag(c.code)}</span>
+									{c.name}
+								</a>
+							</td>
+							<td class="right mono">
+								{c.wins > 0 ? (
+									<span class="gold">{c.wins}</span>
+								) : (
+									<span class="muted">—</span>
+								)}
+							</td>
+							<td class="right mono muted">{c.appearances}</td>
+							<td class="right mono muted">{c.lastYear}</td>
+						</tr>
+					))
+				}
+			</tbody>
+		</table>
+	</div>
 </Base>
 
 <style>
-  .page-header {
-    padding-block: 3rem 2rem;
-    border-bottom: 1px solid var(--c-border);
-    margin-bottom: 0;
-  }
-  .page-header h1 { margin-bottom: 0.25rem; }
+	.page-header {
+		padding-block: 3rem 2rem;
+		border-bottom: 1px solid var(--c-border);
+		margin-bottom: 0;
+	}
+	.page-header h1 {
+		margin-bottom: 0.25rem;
+	}
 
-  .countries-table {
-    width: 100%;
-    border-collapse: collapse;
-    font-size: 0.9rem;
-  }
-  .countries-table th {
-    font-family: var(--f-mono);
-    font-size: 0.72rem;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-    color: var(--c-muted);
-    font-weight: 400;
-    padding: 0.75rem 1rem;
-    text-align: left;
-    border-bottom: 1px solid var(--c-border);
-  }
-  .countries-table th.right { text-align: right; }
-  .countries-table td {
-    padding: 0.65rem 1rem;
-    border-bottom: 1px solid color-mix(in srgb, var(--c-border) 55%, transparent);
-    vertical-align: middle;
-  }
-  .countries-table tr:hover td { background: var(--c-surface); }
-  .countries-table .right { text-align: right; }
+	.countries-table {
+		width: 100%;
+		border-collapse: collapse;
+		font-size: 0.9rem;
+	}
+	.countries-table th {
+		font-family: var(--f-mono);
+		font-size: 0.72rem;
+		text-transform: uppercase;
+		letter-spacing: 0.08em;
+		color: var(--c-muted);
+		font-weight: 400;
+		padding: 0.75rem 1rem;
+		text-align: left;
+		border-bottom: 1px solid var(--c-border);
+	}
+	.countries-table th.right {
+		text-align: right;
+	}
+	.countries-table td {
+		padding: 0.65rem 1rem;
+		border-bottom: 1px solid
+			color-mix(in srgb, var(--c-border) 55%, transparent);
+		vertical-align: middle;
+	}
+	.countries-table tr:hover td {
+		background: var(--c-surface);
+	}
+	.countries-table .right {
+		text-align: right;
+	}
 
-  .country-link { font-weight: 500; margin-right: 0.5rem; }
-  .flag { font-family: sans-serif; margin-right: 0.35em; }
+	.country-link {
+		font-weight: 500;
+		margin-right: 0.5rem;
+	}
+	.flag {
+		font-family: sans-serif;
+		margin-right: 0.35em;
+	}
+
+	/* ── Sortable headers ─────────────────────────────────── */
+	.countries-table th[data-sort] {
+		cursor: pointer;
+		user-select: none;
+		white-space: nowrap;
+	}
+	.countries-table th[data-sort]:hover { color: var(--c-text); }
+	.countries-table th.th-sorted { color: var(--c-gold); }
+	.countries-table th.th-sorted::after { content: ' ↑'; }
+	.countries-table th.th-sorted.th-sorted-desc::after { content: ' ↓'; }
 </style>
+
+<script>
+  const table = document.querySelector('.countries-table') as HTMLTableElement | null;
+  if (table) {
+    const tbody = table.querySelector('tbody') as HTMLTableSectionElement;
+    let col = 'wins', dir = 'desc';
+    const numCols = new Set(['wins', 'appearances', 'last']);
+    const defaults: Record<string, string> = { name: 'asc', wins: 'desc', appearances: 'desc', last: 'desc' };
+
+    function refresh() {
+      table.querySelectorAll('th[data-sort]').forEach(el => {
+        const th = el as HTMLElement;
+        const key = th.dataset.sort;
+        th.classList.toggle('th-sorted', key === col);
+        th.classList.toggle('th-sorted-desc', key === col && dir === 'desc');
+      });
+    }
+
+    function sort() {
+      const rows = [...tbody.querySelectorAll('tr')] as HTMLElement[];
+      rows.sort((a, b) => {
+        const av = a.dataset[col] ?? '';
+        const bv = b.dataset[col] ?? '';
+        const raw = numCols.has(col)
+          ? Number(av) - Number(bv)
+          : av.localeCompare(bv);
+        return dir === 'asc' ? raw : -raw;
+      });
+      rows.forEach(r => tbody.appendChild(r));
+      refresh();
+    }
+
+    table.querySelectorAll('th[data-sort]').forEach(el =>
+      el.addEventListener('click', () => {
+        const next = (el as HTMLElement).dataset.sort ?? '';
+        if (col === next) dir = dir === 'asc' ? 'desc' : 'asc';
+        else { col = next; dir = defaults[next] ?? 'asc'; }
+        sort();
+      })
+    );
+
+    refresh(); // show initial indicator without re-sorting
+  }
+</script>

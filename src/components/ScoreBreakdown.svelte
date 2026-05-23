@@ -164,8 +164,6 @@
   /* ── Selector ───────────────────────────────────────────────── */
   .selector {
     background: var(--c-surface);
-    overflow-y: auto;
-    max-height: 600px;
   }
   .selector-row {
     display: flex;

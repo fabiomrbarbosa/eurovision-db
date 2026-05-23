@@ -27,6 +27,7 @@ const results = contest.results.map(r => {
     ...r,
     countryName: getCountryName(r.country, countries),
     inFinal: finalPerf !== undefined,
+    finalRunning: finalPerf?.running ?? null,
     finalPlace: finalPerf?.place ?? null,
     finalTotal: finalPerf?.scores.find(s => s.name === 'total')?.points ?? null,
     finalJury: finalPerf?.scores.find(s => s.name === 'jury')?.points ?? null,
@@ -91,17 +92,14 @@ const semiRounds = contest.rounds
     <!-- Page header -->
     <header class="contest-header">
       {contest.logoUrl && (
-        <img src={contest.logoUrl} alt={`ESC ${year} logo`} class="contest-logo" />
+        <img src={contest.logoUrl} width="186" alt={`ESC ${year} logo`} class="contest-logo" />
       )}
       <div class="contest-meta">
         <p class="eyebrow mono gold">Eurovision Song Contest</p>
-        <h1><span class="flag">{countryFlag(contest.country)}</span> {year}</h1>
+        <h1><span class="flag">{countryFlag(contest.country)}</span> {contest.city} {year}</h1>
         <p class="venue">
-          {contest.arena} · {contest.city}
-          {intendedName
-            ? <>, hosted on behalf of <strong>{intendedName}</strong></>
-            : <>, {hostCountryName}</>
-          }
+          {contest.arena} · {hostCountryName}
+          {intendedName && (<>, hosted on behalf of <strong>{intendedName}</strong></>)}
         </p>
         {contest.slogan && <p class="slogan muted">"{contest.slogan}"</p>}
         <div class="meta-row">
@@ -164,6 +162,7 @@ const semiRounds = contest.rounds
               countryName: r.countryName,
               artist: r.artist,
               song: r.song,
+              running: r.finalRunning,
               finalPlace: r.finalPlace,
               finalTotal: r.finalTotal,
               finalJury: r.finalJury,
@@ -184,16 +183,20 @@ const semiRounds = contest.rounds
   /* ── Contest header ─────────────────────────────────────────── */
   .contest-header {
     display: flex;
+    flex-direction: column;
     align-items: flex-start;
     gap: 2rem;
     padding-block: 3rem 2.5rem;
     border-bottom: 1px solid var(--c-border);
     margin-bottom: 3rem;
   }
+  @media (min-width: 640px) {
+    .contest-header { flex-direction: row; }
+  }
   .contest-logo {
-    width: 100px;
+    width: 186px;
     flex-shrink: 0;
-    opacity: 0.9;
+		background-color: white;
   }
   .eyebrow {
     font-size: 0.75rem;

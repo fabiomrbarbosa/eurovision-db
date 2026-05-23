@@ -31,6 +31,7 @@
     countryName: string;
     artist: string;
     song: string;
+    running: number | null;
     finalPlace: number | null;
     finalTotal: number | null;
     finalJury: number | null;
@@ -50,21 +51,84 @@
     hasJuryTele: boolean;
   } = $props();
 
-  // Grand Final is always the last tab; semiRounds may be empty
+  // ── Tab state ────────────────────────────────────────────────
   const tabs = [...semiRounds.map(r => r.label), 'Grand Final'];
   let activeIdx = $state(semiRounds.length); // default to Grand Final
-
   const isGrandFinal = $derived(activeIdx === semiRounds.length);
 
-  const semiSorted = $derived(
-    isGrandFinal
-      ? ([] as SemiEntry[])
-      : [...semiRounds[activeIdx].entries].sort((a, b) => {
-          if (a.place === null && b.place === null) return (a.running ?? 0) - (b.running ?? 0);
-          if (a.place === null) return 1;
-          if (b.place === null) return -1;
-          return a.place - b.place;
-        })
+  // ── Sort state ───────────────────────────────────────────────
+  type SortKey = 'place' | 'running' | 'country' | 'artist' | 'song' | 'total' | 'jury' | 'tele';
+  const defaultDir: Record<SortKey, 'asc' | 'desc'> = {
+    place: 'asc', running: 'asc', country: 'asc', artist: 'asc', song: 'asc',
+    total: 'desc', jury: 'desc', tele: 'desc',
+  };
+
+  let sortKey = $state<SortKey>('place');
+  let sortDir = $state<'asc' | 'desc'>('asc');
+
+  function switchTab(i: number) {
+    activeIdx = i;
+    sortKey = 'place';
+    sortDir = 'asc';
+  }
+
+  function sortBy(key: SortKey) {
+    if (sortKey === key) sortDir = sortDir === 'asc' ? 'desc' : 'asc';
+    else { sortKey = key; sortDir = defaultDir[key]; }
+  }
+
+  // Nulls always sort last regardless of direction
+  function cmp(a: string | number | null, b: string | number | null, dir: 'asc' | 'desc'): number {
+    if (a === null && b === null) return 0;
+    if (a === null) return 1;
+    if (b === null) return -1;
+    const raw = typeof a === 'string' && typeof b === 'string'
+      ? a.localeCompare(b as string)
+      : (a as number) - (b as number);
+    return dir === 'asc' ? raw : -raw;
+  }
+
+  // ── Sorted data ──────────────────────────────────────────────
+  const finalSorted = $derived.by(() =>
+    [...finalists].sort((a, b) => {
+      switch (sortKey) {
+        case 'running': return cmp(a.running, b.running, sortDir);
+        case 'country': return cmp(a.countryName, b.countryName, sortDir);
+        case 'artist':  return cmp(a.artist, b.artist, sortDir);
+        case 'song':    return cmp(a.song, b.song, sortDir);
+        case 'total':   return cmp(a.finalTotal, b.finalTotal, sortDir);
+        case 'jury':    return cmp(a.finalJury, b.finalJury, sortDir);
+        case 'tele':    return cmp(a.finalTele, b.finalTele, sortDir);
+        default:        return cmp(a.finalPlace, b.finalPlace, sortDir);
+      }
+    })
+  );
+
+  const semiSorted = $derived.by(() => {
+    if (isGrandFinal) return [] as SemiEntry[];
+    return [...semiRounds[activeIdx].entries].sort((a, b) => {
+      switch (sortKey) {
+        case 'country': return cmp(a.countryName, b.countryName, sortDir);
+        case 'artist':  return cmp(a.artist, b.artist, sortDir);
+        case 'song':    return cmp(a.song, b.song, sortDir);
+        case 'running': return cmp(a.running, b.running, sortDir);
+        case 'total':   return cmp(a.total, b.total, sortDir);
+        case 'jury':    return cmp(a.scores.find(s => s.name === 'jury')?.points ?? null, b.scores.find(s => s.name === 'jury')?.points ?? null, sortDir);
+        case 'tele':    return cmp(a.scores.find(s => s.name === 'public')?.points ?? null, b.scores.find(s => s.name === 'public')?.points ?? null, sortDir);
+        default:
+          if (a.place === null && b.place === null) return cmp(a.running, b.running, 'asc');
+          return cmp(a.place, b.place, sortDir);
+      }
+    });
+  });
+
+  const finalBreakdownResults = $derived(
+    finalSorted.map(r => ({
+      country: r.country,
+      countryName: r.countryName,
+      place: r.finalPlace,
+      scores: r.scores as { name: string; points: number; votes: Record<string, number> }[],
+    }))
   );
 
   const semiBreakdownResults = $derived(
@@ -76,25 +140,18 @@
     }))
   );
 
-  const finalBreakdownResults = $derived(
-    finalists.map(r => ({
-      country: r.country,
-      countryName: r.countryName,
-      place: r.finalPlace,
-      scores: r.scores as { name: string; points: number; votes: Record<string, number> }[],
-    }))
-  );
+  const activeSemiDate = $derived(!isGrandFinal ? semiRounds[activeIdx]?.date : null);
 
-  const activeSemiDate = $derived(
-    !isGrandFinal ? semiRounds[activeIdx]?.date : null
-  );
-
-  // Detect jury/tele split from the actual scores in the active semi round
   const semiHasJuryTele = $derived(
     !isGrandFinal &&
     semiRounds[activeIdx].entries.some(e =>
       e.scores.some(s => s.name === 'jury' && s.points !== null)
     )
+  );
+
+  const finalHasScores = $derived(finalists.some(r => r.scores.length > 0));
+  const semiHasScores = $derived(
+    !isGrandFinal && semiRounds[activeIdx].entries.some(e => e.scores.length > 0)
   );
 </script>
 
@@ -106,7 +163,7 @@
         aria-selected={activeIdx === i}
         class="tab-btn"
         class:active={activeIdx === i}
-        onclick={() => { activeIdx = i; }}
+        onclick={() => switchTab(i)}
       >
         {label}
       </button>
@@ -119,19 +176,20 @@
       <table class="results-table">
         <thead>
           <tr>
-            <th class="col-place">#</th>
-            <th>Country</th>
-            <th>Artist</th>
-            <th>Song</th>
+            <th class="col-place th-sort" class:sorted={sortKey === 'place'} class:sorted-desc={sortKey === 'place' && sortDir === 'desc'} onclick={() => sortBy('place')}>#</th>
+            <th class="col-run th-sort" class:sorted={sortKey === 'running'} class:sorted-desc={sortKey === 'running' && sortDir === 'desc'} onclick={() => sortBy('running')}>Run</th>
+            <th class="th-sort" class:sorted={sortKey === 'country'} class:sorted-desc={sortKey === 'country' && sortDir === 'desc'} onclick={() => sortBy('country')}>Country</th>
+            <th class="th-sort" class:sorted={sortKey === 'artist'} class:sorted-desc={sortKey === 'artist' && sortDir === 'desc'} onclick={() => sortBy('artist')}>Artist</th>
+            <th class="th-sort" class:sorted={sortKey === 'song'} class:sorted-desc={sortKey === 'song' && sortDir === 'desc'} onclick={() => sortBy('song')}>Song</th>
             {#if hasJuryTele}
-              <th class="right">Jury</th>
-              <th class="right">Tele</th>
+              <th class="right th-sort" class:sorted={sortKey === 'jury'} class:sorted-desc={sortKey === 'jury' && sortDir === 'desc'} onclick={() => sortBy('jury')}>Jury</th>
+              <th class="right th-sort" class:sorted={sortKey === 'tele'} class:sorted-desc={sortKey === 'tele' && sortDir === 'desc'} onclick={() => sortBy('tele')}>Tele</th>
             {/if}
-            <th class="right">Total</th>
+            <th class="right th-sort" class:sorted={sortKey === 'total'} class:sorted-desc={sortKey === 'total' && sortDir === 'desc'} onclick={() => sortBy('total')}>Total</th>
           </tr>
         </thead>
         <tbody>
-          {#each finalists as r}
+          {#each finalSorted as r}
             <tr class:row--winner={r.finalPlace === 1}>
               <td class="place-cell mono">
                 {#if r.finalPlace === 1}
@@ -140,6 +198,7 @@
                   <span class="muted">{r.finalPlace ?? '—'}</span>
                 {/if}
               </td>
+              <td class="run-cell mono muted">{r.running ?? '—'}</td>
               <td>
                 <a href={`/country/${r.country}`} class="country-link">
                   <span class="flag">{countryFlag(r.country)}</span>{r.countryName}
@@ -159,12 +218,14 @@
         </tbody>
       </table>
 
-      <div class="breakdown-wrapper">
-        <p class="breakdown-hint muted">Select a country to see who voted for them.</p>
-        {#key activeIdx}
-          <ScoreBreakdown results={finalBreakdownResults} {countries} {hasJuryTele} />
-        {/key}
-      </div>
+      {#if finalHasScores}
+        <div class="breakdown-wrapper">
+          <p class="breakdown-hint muted">Select a country to see who voted for them.</p>
+          {#key activeIdx}
+            <ScoreBreakdown results={finalBreakdownResults} {countries} {hasJuryTele} />
+          {/key}
+        </div>
+      {/if}
     {/if}
 
   {:else}
@@ -176,15 +237,16 @@
     <table class="results-table">
       <thead>
         <tr>
-          <th class="col-place">#</th>
-          <th>Country</th>
-          <th>Artist</th>
-          <th>Song</th>
+          <th class="col-place th-sort" class:sorted={sortKey === 'place'} class:sorted-desc={sortKey === 'place' && sortDir === 'desc'} onclick={() => sortBy('place')}>#</th>
+          <th class="col-run th-sort" class:sorted={sortKey === 'running'} class:sorted-desc={sortKey === 'running' && sortDir === 'desc'} onclick={() => sortBy('running')}>Run</th>
+          <th class="th-sort" class:sorted={sortKey === 'country'} class:sorted-desc={sortKey === 'country' && sortDir === 'desc'} onclick={() => sortBy('country')}>Country</th>
+          <th class="th-sort" class:sorted={sortKey === 'artist'} class:sorted-desc={sortKey === 'artist' && sortDir === 'desc'} onclick={() => sortBy('artist')}>Artist</th>
+          <th class="th-sort" class:sorted={sortKey === 'song'} class:sorted-desc={sortKey === 'song' && sortDir === 'desc'} onclick={() => sortBy('song')}>Song</th>
           {#if semiHasJuryTele}
-            <th class="right">Jury</th>
-            <th class="right">Tele</th>
+            <th class="right th-sort" class:sorted={sortKey === 'jury'} class:sorted-desc={sortKey === 'jury' && sortDir === 'desc'} onclick={() => sortBy('jury')}>Jury</th>
+            <th class="right th-sort" class:sorted={sortKey === 'tele'} class:sorted-desc={sortKey === 'tele' && sortDir === 'desc'} onclick={() => sortBy('tele')}>Tele</th>
           {/if}
-          <th class="right">Total</th>
+          <th class="right th-sort" class:sorted={sortKey === 'total'} class:sorted-desc={sortKey === 'total' && sortDir === 'desc'} onclick={() => sortBy('total')}>Total</th>
           <th class="col-q">Q</th>
         </tr>
       </thead>
@@ -192,6 +254,7 @@
         {#each semiSorted as entry}
           <tr class:row-q={entry.qualified}>
             <td class="place-cell mono muted">{entry.place ?? '—'}</td>
+            <td class="run-cell mono muted">{entry.running ?? '—'}</td>
             <td>
               <a href={`/country/${entry.country}`} class="country-link">
                 <span class="flag">{countryFlag(entry.country)}</span>{entry.countryName}
@@ -216,12 +279,14 @@
       </tbody>
     </table>
 
-    <div class="breakdown-wrapper">
-      <p class="breakdown-hint muted">Select a country to see who voted for them.</p>
-      {#key activeIdx}
-        <ScoreBreakdown results={semiBreakdownResults} {countries} hasJuryTele={semiHasJuryTele} />
-      {/key}
-    </div>
+    {#if semiHasScores}
+      <div class="breakdown-wrapper">
+        <p class="breakdown-hint muted">Select a country to see who voted for them.</p>
+        {#key activeIdx}
+          <ScoreBreakdown results={semiBreakdownResults} {countries} hasJuryTele={semiHasJuryTele} />
+        {/key}
+      </div>
+    {/if}
   {/if}
 </div>
 
@@ -277,6 +342,7 @@
     padding: 0.6rem 0.75rem;
     text-align: left;
     border-bottom: 1px solid var(--c-border);
+    white-space: nowrap;
   }
   .results-table th.right { text-align: right; }
   .results-table td {
@@ -288,8 +354,10 @@
   .results-table .right { text-align: right; }
 
   .col-place { width: 2.5rem; }
+  .col-run { width: 2.5rem; }
   .col-q { width: 2.5rem; text-align: center; }
   .place-cell { width: 2.5rem; }
+  .run-cell { width: 2.5rem; }
   .song-cell em { color: var(--c-muted); }
 
   /* Grand Final winner row */
@@ -299,6 +367,13 @@
   /* Semi qualified row */
   .row-q td { background: #0f130e; }
   .row-q:hover td { background: #141a12; }
+
+  /* ── Sortable headers ───────────────────────────────────────── */
+  .th-sort { cursor: pointer; user-select: none; }
+  .th-sort:hover { color: var(--c-text); }
+  .th-sort.sorted { color: var(--c-gold); }
+  .th-sort.sorted::after { content: ' ↑'; }
+  .th-sort.sorted.sorted-desc::after { content: ' ↓'; }
 
   /* ── Score badges ───────────────────────────────────────────── */
   .q-badge {

@@ -293,6 +293,7 @@ export interface CountryAppearance {
   artist: string;
   song: string;
   contestantId: number;
+  finalRunning: number | null;
   finalPlace: number | null;
   finalPoints: number | null;
   cancelled: boolean;
@@ -327,6 +328,7 @@ export function getCountryHistory(countryCode: string): CountryAppearance[] {
         artist: contestant.artist,
         song: contestant.song,
         contestantId: contestant.id,
+        finalRunning: finalPerf?.running ?? null,
         finalPlace: finalPerf?.place ?? null,
         finalPoints:
           finalPerf?.scores.find((s) => s.name === "total")?.points ?? null,
