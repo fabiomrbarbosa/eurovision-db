@@ -1,0 +1,365 @@
+---
+// src/pages/contest/[year].astro
+import Base from '../../layouts/Base.astro';
+import ScoreBreakdown from '../../components/ScoreBreakdown.svelte';
+import SemifinalsView from '../../components/SemifinalsView.svelte';
+import { getYears, getResolvedContest, getCountryName, getCountries } from '../../lib/data.ts';
+import { countryFlag } from '../../lib/utils.ts';
+
+export async function getStaticPaths() {
+  const years = getYears();
+  return years.map(year => ({ params: { year: String(year) } }));
+}
+
+const { year: yearParam } = Astro.params;
+const year = parseInt(yearParam, 10);
+
+const countries = getCountries();
+const contest = getResolvedContest(year);
+const hasJuryTele = year > 2015;
+
+// Enrich results with country names
+const results = contest.results.map(r => {
+  const finalPerf = r.performances.find(p => p.round === 'final');
+  const semiPerf = r.performances.find(p =>
+    p.round === 'semifinal1' || p.round === 'semifinal2' || p.round === 'semifinal'
+  );
+  return {
+    ...r,
+    countryName: getCountryName(r.country, countries),
+    finalPlace: finalPerf?.place ?? null,
+    finalTotal: finalPerf?.scores.find(s => s.name === 'total')?.points ?? null,
+    finalJury: finalPerf?.scores.find(s => s.name === 'jury')?.points ?? null,
+    finalTele: finalPerf?.scores.find(s => s.name === 'public')?.points ?? null,
+    semiPlace: semiPerf?.place ?? null,
+    qualifiedFromSemi: finalPerf !== undefined || !semiPerf,
+    scores: finalPerf?.scores ?? [],
+  };
+});
+
+const finalist = results.filter(r => r.finalPlace !== null);
+
+const hostCountryName = getCountryName(contest.country, countries);
+const intendedName = contest.intendedCountry
+  ? getCountryName(contest.intendedCountry, countries)
+  : null;
+
+const cancelled = contest.cancelled;
+
+// Build semifinal round data for SemifinalsView
+const qualifiedToFinalIds = new Set(
+  results.filter(r => r.finalPlace !== null).map(r => r.id)
+);
+const semiRoundOrder: Record<string, number> = { semifinal: 0, semifinal1: 1, semifinal2: 2 };
+const semiLabelMap: Record<string, string> = {
+  semifinal: 'Semi-final',
+  semifinal1: 'Semi-final 1',
+  semifinal2: 'Semi-final 2',
+};
+const semiRounds = contest.rounds
+  .filter(r => r.name in semiRoundOrder && r.performances !== null)
+  .sort((a, b) => (semiRoundOrder[a.name] ?? 0) - (semiRoundOrder[b.name] ?? 0))
+  .map(round => ({
+    label: semiLabelMap[round.name] ?? round.name,
+    date: round.date,
+    entries: (round.performances ?? [])
+      .sort((a, b) => (a.running ?? 0) - (b.running ?? 0))
+      .map(perf => {
+        const c = contest.contestantsById[perf.contestantId];
+        return {
+          running: perf.running,
+          place: perf.place,
+          country: c.country,
+          countryName: getCountryName(c.country, countries),
+          artist: c.artist,
+          song: c.song,
+          total: perf.scores.find(s => s.name === 'total')?.points ?? null,
+          qualified: qualifiedToFinalIds.has(perf.contestantId),
+          scores: perf.scores,
+        };
+      }),
+  }));
+const hasSemis = semiRounds.length > 0;
+---
+
+<Base
+  title={`${year} Eurovision`}
+  description={`Eurovision Song Contest ${year} in ${contest.city}. Full results, scores and voting breakdown.`}
+>
+  <div class="container">
+
+    <!-- Page header -->
+    <header class="contest-header">
+      {contest.logoUrl && (
+        <img src={contest.logoUrl} alt={`ESC ${year} logo`} class="contest-logo" />
+      )}
+      <div class="contest-meta">
+        <p class="eyebrow mono gold">Eurovision Song Contest</p>
+        <h1><span class="flag">{countryFlag(contest.country)}</span>{year}</h1>
+        <p class="venue">
+          {contest.arena} · {contest.city}
+          {intendedName
+            ? <>, hosted on behalf of <strong>{intendedName}</strong></>
+            : <>, {hostCountryName}</>
+          }
+        </p>
+        {contest.slogan && <p class="slogan muted">"{contest.slogan}"</p>}
+        <div class="meta-row">
+          {contest.presenters.length > 0 && (
+            <span class="meta-item">
+              <span class="mono muted" style="font-size:0.72rem;text-transform:uppercase;letter-spacing:0.08em">Hosted by</span>
+              {contest.presenters.join(' · ')}
+            </span>
+          )}
+          {contest.broadcasters.length > 0 && (
+            <span class="meta-item">
+              <span class="mono muted" style="font-size:0.72rem;text-transform:uppercase;letter-spacing:0.08em">Broadcaster</span>
+              {contest.broadcasters.join(' · ')}
+            </span>
+          )}
+        </div>
+      </div>
+    </header>
+
+    {cancelled ? (
+      <!-- Cancelled contest notice -->
+      <section class="cancelled-notice">
+        <p class="cancelled-label mono">Contest cancelled</p>
+        <p class="cancelled-desc">
+          This edition was cancelled and no performances took place.
+          {contest.contestants.length > 0 && (
+            <> {contest.contestants.length} acts had been selected before cancellation.</>
+          )}
+        </p>
+        {contest.contestants.length > 0 && (
+          <table class="results-table selected-acts">
+            <thead>
+              <tr>
+                <th>Country</th>
+                <th>Artist</th>
+                <th>Song</th>
+              </tr>
+            </thead>
+            <tbody>
+              {contest.contestants.map(c => (
+                <tr>
+                  <td><a href={`/country/${c.country}`} class="country-link"><span class="flag">{countryFlag(c.country)}</span>{getCountryName(c.country, countries)}</a></td>
+                  <td>{c.artist}</td>
+                  <td class="song-cell"><em>{c.song}</em></td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        )}
+      </section>
+    ) : (
+      <>
+        <!-- Grand Final results -->
+        <section class="results-section">
+          <h2>Grand Final</h2>
+          <table class="results-table">
+            <thead>
+              <tr>
+                <th>#</th>
+                <th>Country</th>
+                <th>Artist</th>
+                <th>Song</th>
+                {hasJuryTele ? (
+                  <>
+                    <th class="right">Jury</th>
+                    <th class="right">Tele</th>
+                  </>
+                ) : null}
+                <th class="right">Total</th>
+              </tr>
+            </thead>
+            <tbody>
+              {finalist.map(r => (
+                <tr class:list={[r.finalPlace === 1 && 'row--winner']}>
+                  <td class="place-cell mono">
+                    {r.finalPlace === 1
+                      ? <span class="gold">🏆</span>
+                      : <span class="muted">{r.finalPlace ?? '—'}</span>
+                    }
+                  </td>
+                  <td>
+                    <a href={`/country/${r.country}`} class="country-link">
+                      <span class="flag">{countryFlag(r.country)}</span>{r.countryName}
+                    </a>
+                  </td>
+                  <td>{r.artist}</td>
+                  <td class="song-cell"><em>{r.song}</em></td>
+                  {hasJuryTele ? (
+                    <>
+                      <td class="right mono muted">{r.finalJury ?? '—'}</td>
+                      <td class="right mono muted">{r.finalTele ?? '—'}</td>
+                    </>
+                  ) : null}
+                  <td class="right mono">
+                    <span class:list={['pts', r.finalPlace === 1 && 'pts--gold']}>
+                      {r.finalTotal ?? '—'}
+                    </span>
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </section>
+
+        <!-- Score breakdown (Svelte interactive) -->
+        {finalist.length > 0 && (
+          <section class="breakdown-section">
+            <h2>Voting breakdown</h2>
+            <p class="muted" style="margin-bottom:1.5rem;font-size:0.875rem">
+              Select a country to see who voted for them.
+            </p>
+            <ScoreBreakdown
+              client:load
+              results={finalist.map(r => ({
+                country: r.country,
+                countryName: r.countryName,
+                place: r.finalPlace,
+                scores: r.scores,
+              }))}
+              countries={countries}
+              hasJuryTele={hasJuryTele}
+            />
+          </section>
+        )}
+
+        <!-- Semifinals with full scores -->
+        {hasSemis && (
+          <section class="results-section">
+            <h2>Semi-finals</h2>
+            <SemifinalsView
+              client:load
+              rounds={semiRounds}
+              countries={countries}
+            />
+          </section>
+        )}
+      </>
+    )}
+
+  </div>
+</Base>
+
+<style>
+  /* ── Contest header ─────────────────────────────────────────── */
+  .contest-header {
+    display: flex;
+    align-items: flex-start;
+    gap: 2rem;
+    padding-block: 3rem 2.5rem;
+    border-bottom: 1px solid var(--c-border);
+    margin-bottom: 3rem;
+  }
+  .contest-logo {
+    width: 100px;
+    flex-shrink: 0;
+    opacity: 0.9;
+  }
+  .eyebrow {
+    font-size: 0.75rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    margin-bottom: 0.35rem;
+  }
+  .contest-header h1 { font-size: clamp(2.5rem, 6vw, 4rem); }
+  .venue { margin-top: 0.4rem; color: var(--c-muted); }
+  .slogan { margin-top: 0.3rem; font-style: italic; }
+  .meta-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    margin-top: 1rem;
+  }
+  .meta-item {
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+    font-size: 0.875rem;
+  }
+
+  /* ── Results sections ───────────────────────────────────────── */
+  .results-section { margin-bottom: 4rem; }
+  .results-section h2 {
+    font-family: var(--f-mono);
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--c-muted);
+    font-weight: 400;
+    margin-bottom: 1rem;
+  }
+  .semi-section { opacity: 0.7; }
+
+  /* ── Results table ──────────────────────────────────────────── */
+  .results-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9rem;
+  }
+  .results-table th {
+    font-family: var(--f-mono);
+    font-size: 0.68rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--c-muted);
+    font-weight: 400;
+    padding: 0.6rem 0.75rem;
+    text-align: left;
+    border-bottom: 1px solid var(--c-border);
+  }
+  .results-table th.right { text-align: right; }
+  .results-table td {
+    padding: 0.6rem 0.75rem;
+    border-bottom: 1px solid color-mix(in srgb, var(--c-border) 50%, transparent);
+    vertical-align: middle;
+  }
+  .results-table tr:hover td { background: var(--c-surface); }
+  .results-table .right { text-align: right; }
+
+  .row--winner td { background: #1a1608; }
+  .row--winner:hover td { background: #201c0a; }
+
+  .place-cell { width: 2.5rem; }
+  .song-cell em { color: var(--c-muted); }
+  .country-link { font-weight: 500; }
+  .flag { font-family: var(--f-body); font-style: normal; margin-right: 0.3em; }
+  .pts { font-weight: 500; }
+  .pts--gold { color: var(--c-gold); }
+
+  /* ── Cancelled notice ──────────────────────────────────────── */
+  .cancelled-notice {
+    padding-block: 2rem 4rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+  .cancelled-label {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--c-muted);
+  }
+  .cancelled-desc {
+    font-size: 0.95rem;
+    color: var(--c-muted);
+    max-width: 60ch;
+    margin-bottom: 1rem;
+  }
+  .selected-acts { opacity: 0.65; }
+
+  /* ── Breakdown section ──────────────────────────────────────── */
+  .breakdown-section { margin-bottom: 4rem; }
+  .breakdown-section h2 {
+    font-family: var(--f-mono);
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--c-muted);
+    font-weight: 400;
+    margin-bottom: 0.5rem;
+  }
+</style>

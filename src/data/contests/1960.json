@@ -1,0 +1,443 @@
+{
+  "year": 1960,
+  "arena": "Royal Festival Hall",
+  "city": "London",
+  "country": "GB",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/images/logos/senior/1960.png",
+  "broadcasters": [
+    "BBC"
+  ],
+  "presenters": [
+    "Catherine (Katie) Boyle"
+  ],
+  "contestants": [
+    {
+      "id": 0,
+      "country": "FR",
+      "artist": "Jacqueline Boyer",
+      "song": "Tom Pillibi",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1960/contestants/0"
+    },
+    {
+      "id": 1,
+      "country": "GB",
+      "artist": "Bryan Johnson",
+      "song": "Looking High, High, High",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1960/contestants/1"
+    },
+    {
+      "id": 2,
+      "country": "MC",
+      "artist": "François Deguelt",
+      "song": "Ce soir-là",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1960/contestants/2"
+    },
+    {
+      "id": 3,
+      "country": "NO",
+      "artist": "Nora Brockstedt",
+      "song": "Voi-voi",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1960/contestants/3"
+    },
+    {
+      "id": 4,
+      "country": "DE",
+      "artist": "Wyn Hoop",
+      "song": "Bonne nuit ma chérie",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1960/contestants/4"
+    },
+    {
+      "id": 5,
+      "country": "BE",
+      "artist": "Fud Leclerc",
+      "song": "Mon amour pour toi",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1960/contestants/5"
+    },
+    {
+      "id": 6,
+      "country": "AT",
+      "artist": "Harry Winter",
+      "song": "Du hast mich so fasziniert",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1960/contestants/6"
+    },
+    {
+      "id": 7,
+      "country": "CH",
+      "artist": "Anita Traversi",
+      "song": "Cielo e terra",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1960/contestants/7"
+    },
+    {
+      "id": 8,
+      "country": "IT",
+      "artist": "Renato Rascel",
+      "song": "Romantica",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1960/contestants/8"
+    },
+    {
+      "id": 9,
+      "country": "SE",
+      "artist": "Siw Malmkvist",
+      "song": "Alla andra får varann",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1960/contestants/9"
+    },
+    {
+      "id": 10,
+      "country": "DK",
+      "artist": "Katy Bødtger",
+      "song": "Det var en yndig tid",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1960/contestants/10"
+    },
+    {
+      "id": 11,
+      "country": "NL",
+      "artist": "Rudi Carrell",
+      "song": "Wat een geluk",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1960/contestants/11"
+    },
+    {
+      "id": 12,
+      "country": "LU",
+      "artist": "Camillo Felgen",
+      "song": "So laang we's du do bast",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1960/contestants/12"
+    }
+  ],
+  "rounds": [
+    {
+      "name": "final",
+      "date": "1960-03-29",
+      "time": null,
+      "performances": [
+        {
+          "contestantId": 0,
+          "running": 13,
+          "place": 1,
+          "scores": [
+            {
+              "name": "total",
+              "points": 32,
+              "votes": {
+                "AT": 1,
+                "BE": 3,
+                "DK": 4,
+                "DE": 1,
+                "IT": 0,
+                "LU": 1,
+                "MC": 5,
+                "NL": 2,
+                "NO": 5,
+                "SE": 4,
+                "CH": 1,
+                "GB": 5
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 1,
+          "running": 1,
+          "place": 2,
+          "scores": [
+            {
+              "name": "total",
+              "points": 25,
+              "votes": {
+                "AT": 3,
+                "BE": 1,
+                "DK": 0,
+                "FR": 0,
+                "DE": 1,
+                "IT": 2,
+                "LU": 5,
+                "MC": 1,
+                "NL": 5,
+                "NO": 2,
+                "SE": 1,
+                "CH": 4
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 2,
+          "running": 8,
+          "place": 3,
+          "scores": [
+            {
+              "name": "total",
+              "points": 15,
+              "votes": {
+                "AT": 0,
+                "BE": 0,
+                "DK": 2,
+                "FR": 3,
+                "DE": 7,
+                "IT": 0,
+                "LU": 1,
+                "NL": 0,
+                "NO": 0,
+                "SE": 0,
+                "CH": 1,
+                "GB": 1
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 3,
+          "running": 6,
+          "place": 4,
+          "scores": [
+            {
+              "name": "total",
+              "points": 11,
+              "votes": {
+                "AT": 1,
+                "BE": 1,
+                "DK": 2,
+                "FR": 1,
+                "DE": 0,
+                "IT": 0,
+                "LU": 0,
+                "MC": 0,
+                "NL": 1,
+                "SE": 0,
+                "CH": 4,
+                "GB": 1
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 4,
+          "running": 11,
+          "place": 4,
+          "scores": [
+            {
+              "name": "total",
+              "points": 11,
+              "votes": {
+                "AT": 2,
+                "BE": 2,
+                "DK": 0,
+                "FR": 4,
+                "IT": 0,
+                "LU": 0,
+                "MC": 2,
+                "NL": 0,
+                "NO": 0,
+                "SE": 1,
+                "CH": 0,
+                "GB": 0
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 5,
+          "running": 5,
+          "place": 6,
+          "scores": [
+            {
+              "name": "total",
+              "points": 9,
+              "votes": {
+                "AT": 1,
+                "DK": 0,
+                "FR": 0,
+                "DE": 1,
+                "IT": 3,
+                "LU": 0,
+                "MC": 0,
+                "NL": 0,
+                "NO": 0,
+                "SE": 4,
+                "CH": 0,
+                "GB": 0
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 6,
+          "running": 7,
+          "place": 7,
+          "scores": [
+            {
+              "name": "total",
+              "points": 6,
+              "votes": {
+                "BE": 1,
+                "DK": 2,
+                "FR": 0,
+                "DE": 0,
+                "IT": 1,
+                "LU": 0,
+                "MC": 0,
+                "NL": 0,
+                "NO": 0,
+                "SE": 0,
+                "CH": 0,
+                "GB": 2
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 7,
+          "running": 9,
+          "place": 8,
+          "scores": [
+            {
+              "name": "total",
+              "points": 5,
+              "votes": {
+                "AT": 2,
+                "BE": 0,
+                "DK": 0,
+                "FR": 0,
+                "DE": 0,
+                "IT": 1,
+                "LU": 1,
+                "MC": 0,
+                "NL": 0,
+                "NO": 1,
+                "SE": 0,
+                "GB": 0
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 8,
+          "running": 12,
+          "place": 8,
+          "scores": [
+            {
+              "name": "total",
+              "points": 5,
+              "votes": {
+                "AT": 0,
+                "BE": 1,
+                "DK": 0,
+                "FR": 0,
+                "DE": 0,
+                "LU": 1,
+                "MC": 2,
+                "NL": 1,
+                "NO": 0,
+                "SE": 0,
+                "CH": 0,
+                "GB": 0
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 9,
+          "running": 2,
+          "place": 10,
+          "scores": [
+            {
+              "name": "total",
+              "points": 4,
+              "votes": {
+                "AT": 0,
+                "BE": 0,
+                "DK": 0,
+                "FR": 2,
+                "DE": 0,
+                "IT": 1,
+                "LU": 0,
+                "MC": 0,
+                "NL": 1,
+                "NO": 0,
+                "CH": 0,
+                "GB": 0
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 10,
+          "running": 4,
+          "place": 10,
+          "scores": [
+            {
+              "name": "total",
+              "points": 4,
+              "votes": {
+                "AT": 0,
+                "BE": 0,
+                "FR": 0,
+                "DE": 0,
+                "IT": 0,
+                "LU": 1,
+                "MC": 0,
+                "NL": 0,
+                "NO": 2,
+                "SE": 0,
+                "CH": 0,
+                "GB": 1
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 11,
+          "running": 10,
+          "place": 12,
+          "scores": [
+            {
+              "name": "total",
+              "points": 2,
+              "votes": {
+                "AT": 0,
+                "BE": 1,
+                "DK": 0,
+                "FR": 0,
+                "DE": 0,
+                "IT": 1,
+                "LU": 0,
+                "MC": 0,
+                "NO": 0,
+                "SE": 0,
+                "CH": 0,
+                "GB": 0
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 12,
+          "running": 3,
+          "place": 13,
+          "scores": [
+            {
+              "name": "total",
+              "points": 1,
+              "votes": {
+                "AT": 0,
+                "BE": 0,
+                "DK": 0,
+                "FR": 0,
+                "DE": 0,
+                "IT": 1,
+                "MC": 0,
+                "NL": 0,
+                "NO": 0,
+                "SE": 0,
+                "CH": 0,
+                "GB": 0
+              }
+            }
+          ]
+        }
+      ],
+      "disqualifieds": null
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "year": 1958,
+  "arena": "AVRO Studios",
+  "city": "Hilversum",
+  "country": "NL",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/images/logos/senior/1958.png",
+  "broadcasters": [
+    "NOS"
+  ],
+  "presenters": [
+    "Hannie Lips"
+  ],
+  "contestants": [
+    {
+      "id": 0,
+      "country": "FR",
+      "artist": "André Claveau",
+      "song": "Dors mon amour",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1958/contestants/0"
+    },
+    {
+      "id": 1,
+      "country": "CH",
+      "artist": "Lys Assia",
+      "song": "Giorgio",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1958/contestants/1"
+    },
+    {
+      "id": 2,
+      "country": "IT",
+      "artist": "Domenico Modugno",
+      "song": "Nel blu, dipinto di blu",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1958/contestants/2"
+    },
+    {
+      "id": 3,
+      "country": "SE",
+      "artist": "Alice Babs",
+      "song": "Lilla stjärna",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1958/contestants/3"
+    },
+    {
+      "id": 4,
+      "country": "BE",
+      "artist": "Fud Leclerc",
+      "song": "Ma petite chatte",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1958/contestants/4"
+    },
+    {
+      "id": 5,
+      "country": "AT",
+      "artist": "Liane Augustin",
+      "song": "Die ganze Welt braucht Liebe",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1958/contestants/5"
+    },
+    {
+      "id": 6,
+      "country": "DE",
+      "artist": "Margot Hielscher",
+      "song": "Für zwei Groschen Musik",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1958/contestants/6"
+    },
+    {
+      "id": 7,
+      "country": "DK",
+      "artist": "Raquel Rastenni",
+      "song": "Jeg rev et blad ud af min dagbog",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1958/contestants/7"
+    },
+    {
+      "id": 8,
+      "country": "NL",
+      "artist": "Corry Brokken",
+      "song": "Heel de wereld",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1958/contestants/8"
+    },
+    {
+      "id": 9,
+      "country": "LU",
+      "artist": "Solange Berry",
+      "song": "Un grand amour",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1958/contestants/9"
+    }
+  ],
+  "rounds": [
+    {
+      "name": "final",
+      "date": "1958-03-12",
+      "time": null,
+      "performances": [
+        {
+          "contestantId": 0,
+          "running": 3,
+          "place": 1,
+          "scores": [
+            {
+              "name": "total",
+              "points": 27,
+              "votes": {
+                "AT": 7,
+                "BE": 1,
+                "DK": 9,
+                "DE": 1,
+                "IT": 6,
+                "LU": 1,
+                "NL": 0,
+                "SE": 1,
+                "CH": 1
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 1,
+          "running": 10,
+          "place": 2,
+          "scores": [
+            {
+              "name": "total",
+              "points": 24,
+              "votes": {
+                "AT": 0,
+                "BE": 2,
+                "DK": 0,
+                "FR": 3,
+                "DE": 0,
+                "IT": 4,
+                "LU": 5,
+                "NL": 6,
+                "SE": 4
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 2,
+          "running": 1,
+          "place": 3,
+          "scores": [
+            {
+              "name": "total",
+              "points": 13,
+              "votes": {
+                "AT": 1,
+                "BE": 4,
+                "DK": 0,
+                "FR": 1,
+                "DE": 4,
+                "LU": 0,
+                "NL": 1,
+                "SE": 1,
+                "CH": 1
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 3,
+          "running": 5,
+          "place": 4,
+          "scores": [
+            {
+              "name": "total",
+              "points": 10,
+              "votes": {
+                "AT": 1,
+                "BE": 1,
+                "DK": 0,
+                "FR": 0,
+                "DE": 0,
+                "IT": 0,
+                "LU": 3,
+                "NL": 2,
+                "CH": 3
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 4,
+          "running": 7,
+          "place": 5,
+          "scores": [
+            {
+              "name": "total",
+              "points": 8,
+              "votes": {
+                "AT": 0,
+                "DK": 1,
+                "FR": 0,
+                "DE": 5,
+                "IT": 0,
+                "LU": 0,
+                "NL": 0,
+                "SE": 1,
+                "CH": 1
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 5,
+          "running": 9,
+          "place": 5,
+          "scores": [
+            {
+              "name": "total",
+              "points": 8,
+              "votes": {
+                "BE": 1,
+                "DK": 0,
+                "FR": 3,
+                "DE": 0,
+                "IT": 0,
+                "LU": 1,
+                "NL": 0,
+                "SE": 1,
+                "CH": 2
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 6,
+          "running": 8,
+          "place": 7,
+          "scores": [
+            {
+              "name": "total",
+              "points": 5,
+              "votes": {
+                "AT": 1,
+                "BE": 1,
+                "DK": 0,
+                "FR": 2,
+                "IT": 0,
+                "LU": 0,
+                "NL": 0,
+                "SE": 1,
+                "CH": 0
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 7,
+          "running": 6,
+          "place": 8,
+          "scores": [
+            {
+              "name": "total",
+              "points": 3,
+              "votes": {
+                "AT": 0,
+                "BE": 0,
+                "FR": 1,
+                "DE": 0,
+                "IT": 0,
+                "LU": 0,
+                "NL": 1,
+                "SE": 1,
+                "CH": 0
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 8,
+          "running": 2,
+          "place": 9,
+          "scores": [
+            {
+              "name": "total",
+              "points": 1,
+              "votes": {
+                "AT": 0,
+                "BE": 0,
+                "DK": 0,
+                "FR": 0,
+                "DE": 0,
+                "IT": 0,
+                "LU": 0,
+                "SE": 0,
+                "CH": 1
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 9,
+          "running": 4,
+          "place": 9,
+          "scores": [
+            {
+              "name": "total",
+              "points": 1,
+              "votes": {
+                "AT": 0,
+                "BE": 0,
+                "DK": 0,
+                "FR": 0,
+                "DE": 0,
+                "IT": 0,
+                "NL": 0,
+                "SE": 0,
+                "CH": 1
+              }
+            }
+          ]
+        }
+      ],
+      "disqualifieds": null
+    }
+  ]
+}

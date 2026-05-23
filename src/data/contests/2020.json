@@ -1,0 +1,332 @@
+{
+  "year": 2020,
+  "arena": "Rotterdam Ahoy",
+  "city": "Rotterdam",
+  "country": "NL",
+  "intendedCountry": null,
+  "slogan": "Open Up",
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/images/logos/senior/2020.png",
+  "broadcasters": [
+    "AVROTROS",
+    "NOS",
+    "NPO"
+  ],
+  "presenters": [
+    "Edsilia Rombley",
+    "Chantal Janzen",
+    "Jan Smit",
+    "Nikkie de Jager"
+  ],
+  "contestants": [
+    {
+      "id": 0,
+      "country": "AL",
+      "artist": "Arilena Ara",
+      "song": "Fall From The Sky",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/2020/contestants/0"
+    },
+    {
+      "id": 1,
+      "country": "AM",
+      "artist": "Athena Manoukian",
+      "song": "Chains On You",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/2020/contestants/1"
+    },
+    {
+      "id": 2,
+      "country": "AU",
+      "artist": "Montaigne",
+      "song": "Don't Break Me",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/2020/contestants/2"
+    },
+    {
+      "id": 3,
+      "country": "AT",
+      "artist": "Vincent Bueno",
+      "song": "Alive",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/2020/contestants/3"
+    },
+    {
+      "id": 4,
+      "country": "AZ",
+      "artist": "Efendi",
+      "song": "Cleopatra",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/2020/contestants/4"
+    },
+    {
+      "id": 5,
+      "country": "BY",
+      "artist": "VAL",
+      "song": "Da vidna",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/2020/contestants/5"
+    },
+    {
+      "id": 6,
+      "country": "BE",
+      "artist": "Hooverphonic",
+      "song": "Release Me",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/2020/contestants/6"
+    },
+    {
+      "id": 7,
+      "country": "BG",
+      "artist": "Victoria",
+      "song": "Tears Getting Sober",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/2020/contestants/7"
+    },
+    {
+      "id": 8,
+      "country": "HR",
+      "artist": "Damir Kedžo",
+      "song": "Divlji vjetre",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/2020/contestants/8"
+    },
+    {
+      "id": 9,
+      "country": "CY",
+      "artist": "Sandro",
+      "song": "Running",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/2020/contestants/9"
+    },
+    {
+      "id": 10,
+      "country": "CZ",
+      "artist": "Benny Cristo",
+      "song": "Kemama",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/2020/contestants/10"
+    },
+    {
+      "id": 11,
+      "country": "DK",
+      "artist": "Ben & Tan",
+      "song": "Yes",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/2020/contestants/11"
+    },
+    {
+      "id": 12,
+      "country": "EE",
+      "artist": "Uku Suviste",
+      "song": "What Love Is",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/2020/contestants/12"
+    },
+    {
+      "id": 13,
+      "country": "FI",
+      "artist": "Aksel",
+      "song": "Looking Back",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/2020/contestants/13"
+    },
+    {
+      "id": 14,
+      "country": "FR",
+      "artist": "Tom Leeb",
+      "song": "The Best in Me",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/2020/contestants/14"
+    },
+    {
+      "id": 15,
+      "country": "GE",
+      "artist": "Tornike Kipiani",
+      "song": "Take Me As I Am",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/2020/contestants/15"
+    },
+    {
+      "id": 16,
+      "country": "DE",
+      "artist": "Ben Dolic",
+      "song": "Violent Thing",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/2020/contestants/16"
+    },
+    {
+      "id": 17,
+      "country": "GR",
+      "artist": "Stefania",
+      "song": "Superg!rl​",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/2020/contestants/17"
+    },
+    {
+      "id": 18,
+      "country": "IS",
+      "artist": "Daði & Gagnamagnið",
+      "song": "Think About Things",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/2020/contestants/18"
+    },
+    {
+      "id": 19,
+      "country": "IE",
+      "artist": "Lesley Roy",
+      "song": "Story Of My Life",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/2020/contestants/19"
+    },
+    {
+      "id": 20,
+      "country": "IL",
+      "artist": "Eden Alene",
+      "song": "Feker Libi",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/2020/contestants/20"
+    },
+    {
+      "id": 21,
+      "country": "IT",
+      "artist": "Diodato",
+      "song": "Fai rumore",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/2020/contestants/21"
+    },
+    {
+      "id": 22,
+      "country": "LV",
+      "artist": "Samanta Tīna",
+      "song": "Still Breathing",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/2020/contestants/22"
+    },
+    {
+      "id": 23,
+      "country": "LT",
+      "artist": "The Roop",
+      "song": "On Fire",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/2020/contestants/23"
+    },
+    {
+      "id": 24,
+      "country": "MT",
+      "artist": "Destiny",
+      "song": "All of My Love",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/2020/contestants/24"
+    },
+    {
+      "id": 25,
+      "country": "MD",
+      "artist": "Natalia Gordienko",
+      "song": "Prison",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/2020/contestants/25"
+    },
+    {
+      "id": 26,
+      "country": "NL",
+      "artist": "Jeangu Macrooy",
+      "song": "Grow",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/2020/contestants/26"
+    },
+    {
+      "id": 27,
+      "country": "MK",
+      "artist": "Vasil",
+      "song": "You",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/2020/contestants/27"
+    },
+    {
+      "id": 28,
+      "country": "NO",
+      "artist": "Ulrikke",
+      "song": "Attention",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/2020/contestants/28"
+    },
+    {
+      "id": 29,
+      "country": "PL",
+      "artist": "Alicja",
+      "song": "Empires",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/2020/contestants/29"
+    },
+    {
+      "id": 30,
+      "country": "PT",
+      "artist": "Elisa",
+      "song": "Medo de sentir",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/2020/contestants/30"
+    },
+    {
+      "id": 31,
+      "country": "RO",
+      "artist": "Roxen",
+      "song": "Alcohol You",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/2020/contestants/31"
+    },
+    {
+      "id": 32,
+      "country": "RU",
+      "artist": "Little Big",
+      "song": "Uno",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/2020/contestants/32"
+    },
+    {
+      "id": 33,
+      "country": "SM",
+      "artist": "Senhit",
+      "song": "Freaky!",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/2020/contestants/33"
+    },
+    {
+      "id": 34,
+      "country": "RS",
+      "artist": "Hurricane",
+      "song": "Hasta la vista",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/2020/contestants/34"
+    },
+    {
+      "id": 35,
+      "country": "SI",
+      "artist": "Ana Soklič",
+      "song": "Voda",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/2020/contestants/35"
+    },
+    {
+      "id": 36,
+      "country": "ES",
+      "artist": "Blas Cantó",
+      "song": "Universo",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/2020/contestants/36"
+    },
+    {
+      "id": 37,
+      "country": "SE",
+      "artist": "The Mamas",
+      "song": "Move",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/2020/contestants/37"
+    },
+    {
+      "id": 38,
+      "country": "CH",
+      "artist": "Gjon's Tears",
+      "song": "Répondez-moi",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/2020/contestants/38"
+    },
+    {
+      "id": 39,
+      "country": "UA",
+      "artist": "Go_A",
+      "song": "Solovey",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/2020/contestants/39"
+    },
+    {
+      "id": 40,
+      "country": "GB",
+      "artist": "James Newman",
+      "song": "My Last Breath",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/2020/contestants/40"
+    }
+  ],
+  "rounds": [
+    {
+      "name": "semifinal2",
+      "date": "2020-05-14",
+      "time": "19:00:00",
+      "performances": null,
+      "disqualifieds": null
+    },
+    {
+      "name": "semifinal1",
+      "date": "2020-05-12",
+      "time": "19:00:00",
+      "performances": null,
+      "disqualifieds": null
+    },
+    {
+      "name": "final",
+      "date": "2020-05-16",
+      "time": "19:00:00",
+      "performances": null,
+      "disqualifieds": null
+    }
+  ]
+}

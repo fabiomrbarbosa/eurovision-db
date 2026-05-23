@@ -1,0 +1,131 @@
+---
+// src/pages/contests.astro
+import Base from '../layouts/Base.astro';
+import { getContestIndex, getCountryName, getCountries } from '../lib/data.ts';
+import { countryFlag } from '../lib/utils.ts';
+
+const countries = getCountries();
+const contests = getContestIndex()
+  .sort((a, b) => b.year - a.year)
+  .map(e => ({
+    year: e.year,
+    city: e.city,
+    countryCode: e.country,
+    country: getCountryName(e.country, countries),
+    intendedCountry: e.intendedCountry
+      ? getCountryName(e.intendedCountry, countries)
+      : null,
+    slogan: e.slogan,
+    winner: e.winner
+      ? { ...e.winner, countryName: getCountryName(e.winner.country, countries) }
+      : null,
+    contestantCount: e.contestants.length,
+  }));
+---
+
+<Base title="All Contests">
+  <div class="container">
+    <header class="page-header">
+      <h1>All Contests</h1>
+      <p class="muted">{contests.length} editions · 1956–present</p>
+    </header>
+
+    <table class="contest-table">
+      <thead>
+        <tr>
+          <th>Year</th>
+          <th>Host</th>
+          <th>Winner</th>
+          <th>Song</th>
+          <th class="right">Points</th>
+          <th class="right">Entries</th>
+        </tr>
+      </thead>
+      <tbody>
+        {contests.map(c => (
+          <tr>
+            <td>
+              <a href={`/contest/${c.year}`} class="year-link mono">
+                {c.year}
+              </a>
+            </td>
+            <td>
+              <span class="flag">{countryFlag(c.countryCode)}</span>
+              <span>{c.city}</span>
+              <span class="muted">, {c.country}</span>
+              {c.intendedCountry && (
+                <span class="badge" title={`Intended host: ${c.intendedCountry}`}>
+                  ↳ {c.intendedCountry}
+                </span>
+              )}
+            </td>
+            <td>
+              {c.winner
+                ? <><span class="flag">{countryFlag(c.winner.country)}</span><a href={`/country/${c.winner.country}`}>{c.winner.countryName}</a></>
+                : <span class="muted">—</span>
+              }
+            </td>
+            <td class="song-cell">
+              {c.winner
+                ? <><strong>{c.winner.artist}</strong> · <em>{c.winner.song}</em></>
+                : <span class="muted">—</span>
+              }
+            </td>
+            <td class="right mono">
+              {c.winner?.points
+                ? <span class="badge badge--gold">{c.winner.points}</span>
+                : <span class="muted">—</span>
+              }
+            </td>
+            <td class="right mono muted">{c.contestantCount}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+</Base>
+
+<style>
+  .page-header {
+    padding-block: 3rem 2rem;
+    border-bottom: 1px solid var(--c-border);
+    margin-bottom: 0;
+  }
+  .page-header h1 { margin-bottom: 0.25rem; }
+
+  .contest-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9rem;
+  }
+  .contest-table th {
+    font-family: var(--f-mono);
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--c-muted);
+    font-weight: 400;
+    padding: 0.75rem 1rem;
+    text-align: left;
+    border-bottom: 1px solid var(--c-border);
+  }
+  .contest-table th.right { text-align: right; }
+
+  .contest-table td {
+    padding: 0.7rem 1rem;
+    border-bottom: 1px solid color-mix(in srgb, var(--c-border) 60%, transparent);
+    vertical-align: middle;
+  }
+  .contest-table tr:hover td { background: var(--c-surface); }
+  .contest-table .right { text-align: right; }
+
+  .year-link {
+    font-size: 1rem;
+    font-weight: 500;
+    color: var(--c-gold);
+    white-space: nowrap;
+  }
+  .song-cell { max-width: 280px; }
+  .song-cell em { color: var(--c-muted); font-style: italic; }
+  .flag { margin-right: 0.35em; }
+</style>

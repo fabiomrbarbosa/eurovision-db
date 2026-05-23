@@ -1,0 +1,230 @@
+---
+// src/pages/index.astro
+import Base from "../layouts/Base.astro";
+import Search from "../components/Search.svelte";
+import { countryFlag } from "../lib/utils.ts";
+
+// These imports will work once fetch-all.ts has been run
+// and src/data/ is populated. During first run before data
+// exists, getContestIndex will throw — handle gracefully.
+let recentWinners: Array<{
+	year: number;
+	city: string;
+	countryCode: string;
+	winner: {
+		artist: string;
+		song: string;
+		countryCode: string;
+		points: number | null;
+	} | null;
+}> = [];
+
+try {
+	const { getContestIndex } = await import("../lib/data.ts");
+	recentWinners = getContestIndex()
+		.sort((a, b) => b.year - a.year)
+		.slice(0, 8)
+		.map((e) => ({
+			year: e.year,
+			city: e.city,
+			countryCode: e.country,
+			winner: e.winner
+				? {
+						artist: e.winner.artist,
+						song: e.winner.song,
+						countryCode: e.winner.country,
+						points: e.winner.points,
+					}
+				: null,
+		}));
+} catch {
+	// Data not yet fetched — show empty state
+}
+
+const hasData = recentWinners.length > 0;
+---
+
+<Base title="Eurovision Archive">
+	<section class="hero container">
+		<p class="hero-eyebrow mono gold">1956 — present</p>
+		<h1>Eurovision<br />Song Contest<br />Archive</h1>
+		<p class="hero-sub">
+			Every contest, every song, every vote.<br />
+			Search 70 years of Eurovision history.
+		</p>
+
+		<div class="search-wrapper">
+			<Search client:load />
+		</div>
+	</section>
+
+	{
+		hasData ? (
+			<section class="recent container">
+				<h2>Recent editions</h2>
+				<div class="winners-grid">
+					{recentWinners.map((e) => (
+						<a href={`/contest/${e.year}`} class="winner-card">
+							<span class="winner-year mono">
+								<span class="flag">{countryFlag(e.countryCode)}</span>
+								{e.year}
+							</span>
+							<span class="winner-city muted">{e.city}</span>
+							{e.winner && (
+								<span class="winner-song">
+									<span class="flag">{countryFlag(e.winner.countryCode)}</span>
+									<strong>{e.winner.artist}</strong>
+									<span class="muted"> · {e.winner.song}</span>
+								</span>
+							)}
+							{e.winner?.points && (
+								<span class="badge badge--gold">{e.winner.points} pts</span>
+							)}
+						</a>
+					))}
+				</div>
+				<div class="cta-row">
+					<a href="/contests" class="link-all">
+						All contests →
+					</a>
+					<a href="/countries" class="link-all">
+						Browse by country →
+					</a>
+				</div>
+			</section>
+		) : (
+			<section class="no-data container">
+				<div class="no-data-box">
+					<p class="mono muted">
+						No data found in <code>src/data/</code>
+					</p>
+					<p>Run the fetch script to populate the archive:</p>
+					<pre class="code-block">npm run fetch:data</pre>
+				</div>
+			</section>
+		)
+	}
+</Base>
+
+<style>
+	/* ── Hero ───────────────────────────────────────────────────── */
+	.hero {
+		padding-block: clamp(4rem, 10vh, 8rem);
+	}
+	.hero-eyebrow {
+		font-size: 0.8rem;
+		letter-spacing: 0.15em;
+		margin-bottom: 1rem;
+		text-transform: uppercase;
+	}
+	.hero h1 {
+		font-size: clamp(3rem, 8vw, 6rem);
+		font-weight: 900;
+		line-height: 1.05;
+		margin-bottom: 1.5rem;
+	}
+	.hero h1 em {
+		font-style: italic;
+		color: var(--c-gold);
+	}
+	.hero-sub {
+		font-size: 1.1rem;
+		color: var(--c-muted);
+		max-width: 40ch;
+		margin-bottom: 2.5rem;
+	}
+	.search-wrapper {
+		max-width: 540px;
+	}
+
+	/* ── Recent winners ─────────────────────────────────────────── */
+	.recent {
+		padding-bottom: 4rem;
+	}
+	.recent h2 {
+		margin-bottom: 1.5rem;
+		font-size: 1.1rem;
+		text-transform: uppercase;
+		letter-spacing: 0.1em;
+		font-family: var(--f-mono);
+		color: var(--c-muted);
+		font-weight: 400;
+	}
+	.winners-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+		gap: 1px;
+		background: var(--c-border);
+		border: 1px solid var(--c-border);
+		border-radius: var(--radius);
+		overflow: hidden;
+		margin-bottom: 2rem;
+	}
+	.winner-card {
+		display: flex;
+		flex-direction: column;
+		gap: 0.3rem;
+		padding: 1.25rem 1.5rem;
+		background: var(--c-surface);
+		color: var(--c-text);
+		transition: background 0.12s;
+		text-decoration: none;
+	}
+	.winner-card:hover {
+		background: #1e1e1e;
+	}
+	.winner-year {
+		font-size: 1.4rem;
+		font-weight: 500;
+		color: var(--c-gold);
+	}
+	.winner-city {
+		font-size: 0.8rem;
+	}
+	.winner-song {
+		font-size: 0.9rem;
+		margin-top: 0.25rem;
+		display: flex;
+		align-items: baseline;
+		gap: 0.35em;
+		flex-wrap: wrap;
+	}
+	.flag {
+		font-family: var(--f-body);
+		font-style: normal;
+		margin-right: 0.25em;
+	}
+
+	/* ── CTA row ────────────────────────────────────────────────── */
+	.cta-row {
+		display: flex;
+		gap: 2rem;
+	}
+	.link-all {
+		font-size: 0.875rem;
+		font-weight: 500;
+	}
+
+	/* ── No data state ──────────────────────────────────────────── */
+	.no-data {
+		padding-block: 4rem;
+	}
+	.no-data-box {
+		border: 1px solid var(--c-border);
+		border-radius: var(--radius);
+		padding: 2rem;
+		max-width: 480px;
+		display: flex;
+		flex-direction: column;
+		gap: 0.75rem;
+	}
+	.code-block {
+		font-family: var(--f-mono);
+		font-size: 0.85rem;
+		background: var(--c-bg);
+		border: 1px solid var(--c-border);
+		border-radius: var(--radius);
+		padding: 0.75rem 1rem;
+		color: var(--c-gold);
+	}
+</style>

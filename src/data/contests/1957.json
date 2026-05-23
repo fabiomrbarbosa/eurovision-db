@@ -1,0 +1,317 @@
+{
+  "year": 1957,
+  "arena": "Großer Sendesaal des Hessischen Rundfunks",
+  "city": "Frankfurt",
+  "country": "DE",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/images/logos/senior/1957.png",
+  "broadcasters": [
+    "ARD"
+  ],
+  "presenters": [
+    "Anaïd Iplicjian"
+  ],
+  "contestants": [
+    {
+      "id": 0,
+      "country": "NL",
+      "artist": "Corry Brokken",
+      "song": "Net als toen",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1957/contestants/0"
+    },
+    {
+      "id": 1,
+      "country": "FR",
+      "artist": "Paule Desjardins",
+      "song": "La Belle Amour",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1957/contestants/1"
+    },
+    {
+      "id": 2,
+      "country": "DK",
+      "artist": "Birthe Wilke & Gustav Winckler",
+      "song": "Skibet skal sejle i nat",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1957/contestants/2"
+    },
+    {
+      "id": 3,
+      "country": "LU",
+      "artist": "Danièle Dupré",
+      "song": "Tant de peine",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1957/contestants/3"
+    },
+    {
+      "id": 4,
+      "country": "DE",
+      "artist": "Margot Hielscher",
+      "song": "Telefon, Telefon",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1957/contestants/4"
+    },
+    {
+      "id": 5,
+      "country": "IT",
+      "artist": "Nunzio Gallo",
+      "song": "Corde della mia chitarra",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1957/contestants/5"
+    },
+    {
+      "id": 6,
+      "country": "GB",
+      "artist": "Patricia Bredin",
+      "song": "All",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1957/contestants/6"
+    },
+    {
+      "id": 7,
+      "country": "BE",
+      "artist": "Bobbejaan Schoepen",
+      "song": "Straatdeuntje",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1957/contestants/7"
+    },
+    {
+      "id": 8,
+      "country": "CH",
+      "artist": "Lys Assia",
+      "song": "L'Enfant que j'étais",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1957/contestants/8"
+    },
+    {
+      "id": 9,
+      "country": "AT",
+      "artist": "Bob Martin",
+      "song": "Wohin, kleines Pony?",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1957/contestants/9"
+    }
+  ],
+  "rounds": [
+    {
+      "name": "final",
+      "date": "1957-03-03",
+      "time": null,
+      "performances": [
+        {
+          "contestantId": 0,
+          "running": 6,
+          "place": 1,
+          "scores": [
+            {
+              "name": "total",
+              "points": 31,
+              "votes": {
+                "AT": 6,
+                "BE": 5,
+                "DK": 3,
+                "FR": 4,
+                "DE": 1,
+                "IT": 1,
+                "LU": 3,
+                "CH": 7,
+                "GB": 1
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 1,
+          "running": 8,
+          "place": 2,
+          "scores": [
+            {
+              "name": "total",
+              "points": 17,
+              "votes": {
+                "AT": 0,
+                "BE": 2,
+                "DK": 2,
+                "DE": 6,
+                "IT": 0,
+                "LU": 4,
+                "NL": 1,
+                "CH": 0,
+                "GB": 2
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 2,
+          "running": 9,
+          "place": 3,
+          "scores": [
+            {
+              "name": "total",
+              "points": 10,
+              "votes": {
+                "AT": 0,
+                "BE": 0,
+                "FR": 0,
+                "DE": 0,
+                "IT": 3,
+                "LU": 0,
+                "NL": 5,
+                "CH": 0,
+                "GB": 2
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 3,
+          "running": 2,
+          "place": 4,
+          "scores": [
+            {
+              "name": "total",
+              "points": 8,
+              "votes": {
+                "AT": 3,
+                "BE": 0,
+                "DK": 0,
+                "FR": 0,
+                "DE": 0,
+                "IT": 4,
+                "NL": 0,
+                "CH": 0,
+                "GB": 1
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 4,
+          "running": 7,
+          "place": 4,
+          "scores": [
+            {
+              "name": "total",
+              "points": 8,
+              "votes": {
+                "AT": 0,
+                "BE": 1,
+                "DK": 0,
+                "FR": 6,
+                "IT": 1,
+                "LU": 0,
+                "NL": 0,
+                "CH": 0,
+                "GB": 0
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 5,
+          "running": 4,
+          "place": 6,
+          "scores": [
+            {
+              "name": "total",
+              "points": 7,
+              "votes": {
+                "AT": 0,
+                "BE": 1,
+                "DK": 1,
+                "FR": 0,
+                "DE": 0,
+                "LU": 1,
+                "NL": 2,
+                "CH": 0,
+                "GB": 2
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 6,
+          "running": 3,
+          "place": 7,
+          "scores": [
+            {
+              "name": "total",
+              "points": 6,
+              "votes": {
+                "AT": 1,
+                "BE": 1,
+                "DK": 0,
+                "FR": 0,
+                "DE": 0,
+                "IT": 0,
+                "LU": 1,
+                "NL": 1,
+                "CH": 2
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 7,
+          "running": 1,
+          "place": 8,
+          "scores": [
+            {
+              "name": "total",
+              "points": 5,
+              "votes": {
+                "AT": 0,
+                "DK": 2,
+                "FR": 0,
+                "DE": 2,
+                "IT": 0,
+                "LU": 0,
+                "NL": 0,
+                "CH": 1,
+                "GB": 0
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 8,
+          "running": 10,
+          "place": 8,
+          "scores": [
+            {
+              "name": "total",
+              "points": 5,
+              "votes": {
+                "AT": 0,
+                "BE": 0,
+                "DK": 2,
+                "FR": 0,
+                "DE": 1,
+                "IT": 1,
+                "LU": 1,
+                "NL": 0,
+                "GB": 0
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 9,
+          "running": 5,
+          "place": 10,
+          "scores": [
+            {
+              "name": "total",
+              "points": 3,
+              "votes": {
+                "BE": 0,
+                "DK": 0,
+                "FR": 0,
+                "DE": 0,
+                "IT": 0,
+                "LU": 0,
+                "NL": 1,
+                "CH": 0,
+                "GB": 2
+              }
+            }
+          ]
+        }
+      ],
+      "disqualifieds": null
+    }
+  ]
+}

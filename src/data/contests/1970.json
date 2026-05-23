@@ -1,0 +1,399 @@
+{
+  "year": 1970,
+  "arena": "RAI Congrescentrum",
+  "city": "Amsterdam",
+  "country": "NL",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/images/logos/senior/1970.png",
+  "broadcasters": [
+    "NOS"
+  ],
+  "presenters": [
+    "Willy Dobbe"
+  ],
+  "contestants": [
+    {
+      "id": 0,
+      "country": "IE",
+      "artist": "Dana",
+      "song": "All Kinds of Everything",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1970/contestants/0"
+    },
+    {
+      "id": 1,
+      "country": "GB",
+      "artist": "Mary Hopkin",
+      "song": "Knock, Knock (Who's There?)",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1970/contestants/1"
+    },
+    {
+      "id": 2,
+      "country": "DE",
+      "artist": "Katja Ebstein",
+      "song": "Wunder gibt es immer wieder",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1970/contestants/2"
+    },
+    {
+      "id": 3,
+      "country": "CH",
+      "artist": "Henri Dès",
+      "song": "Retour",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1970/contestants/3"
+    },
+    {
+      "id": 4,
+      "country": "FR",
+      "artist": "Guy Bonnet",
+      "song": "Marie-Blanche",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1970/contestants/4"
+    },
+    {
+      "id": 5,
+      "country": "ES",
+      "artist": "Julio Iglesias",
+      "song": "Gwendolyne",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1970/contestants/5"
+    },
+    {
+      "id": 6,
+      "country": "NL",
+      "artist": "Patricia & Hearts of Soul",
+      "song": "Waterman",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1970/contestants/6"
+    },
+    {
+      "id": 7,
+      "country": "IT",
+      "artist": "Gianni Morandi",
+      "song": "Occhi di ragazza",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1970/contestants/7"
+    },
+    {
+      "id": 8,
+      "country": "BE",
+      "artist": "Jean Vallée",
+      "song": "Viens l'oublier",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1970/contestants/8"
+    },
+    {
+      "id": 9,
+      "country": "MC",
+      "artist": "Dominique Dussault",
+      "song": "Marlène",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1970/contestants/9"
+    },
+    {
+      "id": 10,
+      "country": "YU",
+      "artist": "Eva Sršen",
+      "song": "Pridi, dala ti bom cvet",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1970/contestants/10"
+    },
+    {
+      "id": 11,
+      "country": "LU",
+      "artist": "David-Alexandre Winter",
+      "song": "Je suis tombé du ciel",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1970/contestants/11"
+    }
+  ],
+  "rounds": [
+    {
+      "name": "final",
+      "date": "1970-03-21",
+      "time": "19:00:00",
+      "performances": [
+        {
+          "contestantId": 0,
+          "running": 12,
+          "place": 1,
+          "scores": [
+            {
+              "name": "total",
+              "points": 32,
+              "votes": {
+                "BE": 9,
+                "FR": 1,
+                "DE": 2,
+                "IT": 0,
+                "LU": 2,
+                "MC": 0,
+                "NL": 5,
+                "ES": 3,
+                "CH": 6,
+                "GB": 4,
+                "YU": 0
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 1,
+          "running": 7,
+          "place": 2,
+          "scores": [
+            {
+              "name": "total",
+              "points": 26,
+              "votes": {
+                "BE": 0,
+                "FR": 2,
+                "DE": 4,
+                "IE": 3,
+                "IT": 2,
+                "LU": 2,
+                "MC": 4,
+                "NL": 3,
+                "ES": 0,
+                "CH": 2,
+                "YU": 4
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 2,
+          "running": 11,
+          "place": 3,
+          "scores": [
+            {
+              "name": "total",
+              "points": 12,
+              "votes": {
+                "BE": 0,
+                "FR": 0,
+                "IE": 2,
+                "IT": 1,
+                "LU": 3,
+                "MC": 1,
+                "NL": 0,
+                "ES": 4,
+                "CH": 1,
+                "GB": 0,
+                "YU": 0
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 3,
+          "running": 2,
+          "place": 4,
+          "scores": [
+            {
+              "name": "total",
+              "points": 8,
+              "votes": {
+                "BE": 0,
+                "FR": 2,
+                "DE": 2,
+                "IE": 1,
+                "IT": 0,
+                "LU": 0,
+                "MC": 0,
+                "NL": 2,
+                "ES": 0,
+                "GB": 1,
+                "YU": 0
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 4,
+          "running": 6,
+          "place": 4,
+          "scores": [
+            {
+              "name": "total",
+              "points": 8,
+              "votes": {
+                "BE": 0,
+                "DE": 0,
+                "IE": 3,
+                "IT": 1,
+                "LU": 0,
+                "MC": 2,
+                "NL": 0,
+                "ES": 0,
+                "CH": 0,
+                "GB": 0,
+                "YU": 2
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 5,
+          "running": 9,
+          "place": 4,
+          "scores": [
+            {
+              "name": "total",
+              "points": 8,
+              "votes": {
+                "BE": 0,
+                "FR": 0,
+                "DE": 0,
+                "IE": 0,
+                "IT": 3,
+                "LU": 2,
+                "MC": 3,
+                "NL": 0,
+                "CH": 0,
+                "GB": 0,
+                "YU": 0
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 6,
+          "running": 1,
+          "place": 7,
+          "scores": [
+            {
+              "name": "total",
+              "points": 7,
+              "votes": {
+                "BE": 0,
+                "FR": 0,
+                "DE": 0,
+                "IE": 0,
+                "IT": 3,
+                "LU": 0,
+                "MC": 0,
+                "ES": 0,
+                "CH": 0,
+                "GB": 1,
+                "YU": 3
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 7,
+          "running": 3,
+          "place": 8,
+          "scores": [
+            {
+              "name": "total",
+              "points": 5,
+              "votes": {
+                "BE": 0,
+                "FR": 0,
+                "DE": 2,
+                "IE": 0,
+                "LU": 0,
+                "MC": 0,
+                "NL": 0,
+                "ES": 2,
+                "CH": 0,
+                "GB": 0,
+                "YU": 1
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 8,
+          "running": 5,
+          "place": 8,
+          "scores": [
+            {
+              "name": "total",
+              "points": 5,
+              "votes": {
+                "FR": 3,
+                "DE": 0,
+                "IE": 1,
+                "IT": 0,
+                "LU": 1,
+                "MC": 0,
+                "NL": 0,
+                "ES": 0,
+                "CH": 0,
+                "GB": 0,
+                "YU": 0
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 9,
+          "running": 10,
+          "place": 8,
+          "scores": [
+            {
+              "name": "total",
+              "points": 5,
+              "votes": {
+                "BE": 1,
+                "FR": 2,
+                "DE": 0,
+                "IE": 0,
+                "IT": 0,
+                "LU": 0,
+                "NL": 0,
+                "ES": 1,
+                "CH": 1,
+                "GB": 0,
+                "YU": 0
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 10,
+          "running": 4,
+          "place": 11,
+          "scores": [
+            {
+              "name": "total",
+              "points": 4,
+              "votes": {
+                "BE": 0,
+                "FR": 0,
+                "DE": 0,
+                "IE": 0,
+                "IT": 0,
+                "LU": 0,
+                "MC": 0,
+                "NL": 0,
+                "ES": 0,
+                "CH": 0,
+                "GB": 4
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 11,
+          "running": 8,
+          "place": 12,
+          "scores": [
+            {
+              "name": "total",
+              "points": 0,
+              "votes": {
+                "BE": 0,
+                "FR": 0,
+                "DE": 0,
+                "IE": 0,
+                "IT": 0,
+                "MC": 0,
+                "NL": 0,
+                "ES": 0,
+                "CH": 0,
+                "GB": 0,
+                "YU": 0
+              }
+            }
+          ]
+        }
+      ],
+      "disqualifieds": null
+    }
+  ]
+}

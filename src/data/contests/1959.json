@@ -1,0 +1,357 @@
+{
+  "year": 1959,
+  "arena": "Palais des Festivals",
+  "city": "Cannes",
+  "country": "FR",
+  "intendedCountry": null,
+  "slogan": null,
+  "logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/images/logos/senior/1959.png",
+  "broadcasters": [
+    "RTF"
+  ],
+  "presenters": [
+    "Jacqueline Joubert"
+  ],
+  "contestants": [
+    {
+      "id": 0,
+      "country": "NL",
+      "artist": "Teddy Scholten",
+      "song": "Een beetje",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1959/contestants/0"
+    },
+    {
+      "id": 1,
+      "country": "GB",
+      "artist": "Pearl Carr & Teddy Johnson",
+      "song": "Sing Little Birdie",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1959/contestants/1"
+    },
+    {
+      "id": 2,
+      "country": "FR",
+      "artist": "Jean Philippe",
+      "song": "Oui, oui, oui, oui",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1959/contestants/2"
+    },
+    {
+      "id": 3,
+      "country": "CH",
+      "artist": "Christa Williams",
+      "song": "Irgendwoher",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1959/contestants/3"
+    },
+    {
+      "id": 4,
+      "country": "DK",
+      "artist": "Birthe Wilke",
+      "song": "Uh, jeg ville ønske jeg var dig",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1959/contestants/4"
+    },
+    {
+      "id": 5,
+      "country": "IT",
+      "artist": "Domenico Modugno",
+      "song": "Piove",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1959/contestants/5"
+    },
+    {
+      "id": 6,
+      "country": "BE",
+      "artist": "Bob Benny",
+      "song": "Hou toch van mij",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1959/contestants/6"
+    },
+    {
+      "id": 7,
+      "country": "DE",
+      "artist": "Alice and Ellen Kessler",
+      "song": "Heut' woll'n wir tanzen geh'n",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1959/contestants/7"
+    },
+    {
+      "id": 8,
+      "country": "SE",
+      "artist": "Brita Borg",
+      "song": "Augustin",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1959/contestants/8"
+    },
+    {
+      "id": 9,
+      "country": "AT",
+      "artist": "Ferry Graf",
+      "song": "Der K. und K. Kalypso aus Wien",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1959/contestants/9"
+    },
+    {
+      "id": 10,
+      "country": "MC",
+      "artist": "Jacques Pills",
+      "song": "Mon ami Pierrot",
+      "url": "https://eurovisionapi.runasp.net/api/senior/contests/1959/contestants/10"
+    }
+  ],
+  "rounds": [
+    {
+      "name": "final",
+      "date": "1959-03-11",
+      "time": null,
+      "performances": [
+        {
+          "contestantId": 0,
+          "running": 5,
+          "place": 1,
+          "scores": [
+            {
+              "name": "total",
+              "points": 21,
+              "votes": {
+                "AT": 3,
+                "BE": 3,
+                "DK": 0,
+                "FR": 4,
+                "DE": 2,
+                "IT": 7,
+                "MC": 1,
+                "SE": 0,
+                "CH": 0,
+                "GB": 1
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 1,
+          "running": 10,
+          "place": 2,
+          "scores": [
+            {
+              "name": "total",
+              "points": 16,
+              "votes": {
+                "AT": 2,
+                "BE": 2,
+                "DK": 1,
+                "FR": 1,
+                "DE": 0,
+                "IT": 0,
+                "MC": 2,
+                "NL": 5,
+                "SE": 0,
+                "CH": 3
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 2,
+          "running": 1,
+          "place": 3,
+          "scores": [
+            {
+              "name": "total",
+              "points": 15,
+              "votes": {
+                "AT": 1,
+                "BE": 2,
+                "DK": 4,
+                "DE": 4,
+                "IT": 1,
+                "MC": 2,
+                "NL": 0,
+                "SE": 0,
+                "CH": 1,
+                "GB": 0
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 3,
+          "running": 8,
+          "place": 4,
+          "scores": [
+            {
+              "name": "total",
+              "points": 14,
+              "votes": {
+                "AT": 1,
+                "BE": 1,
+                "DK": 2,
+                "FR": 0,
+                "DE": 1,
+                "IT": 0,
+                "MC": 1,
+                "NL": 0,
+                "SE": 3,
+                "GB": 5
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 4,
+          "running": 2,
+          "place": 5,
+          "scores": [
+            {
+              "name": "total",
+              "points": 12,
+              "votes": {
+                "AT": 2,
+                "BE": 0,
+                "FR": 0,
+                "DE": 0,
+                "IT": 1,
+                "MC": 1,
+                "NL": 1,
+                "SE": 4,
+                "CH": 1,
+                "GB": 2
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 5,
+          "running": 3,
+          "place": 6,
+          "scores": [
+            {
+              "name": "total",
+              "points": 9,
+              "votes": {
+                "AT": 0,
+                "BE": 1,
+                "DK": 0,
+                "FR": 3,
+                "DE": 0,
+                "MC": 1,
+                "NL": 0,
+                "SE": 1,
+                "CH": 3,
+                "GB": 0
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 6,
+          "running": 11,
+          "place": 6,
+          "scores": [
+            {
+              "name": "total",
+              "points": 9,
+              "votes": {
+                "AT": 0,
+                "DK": 2,
+                "FR": 0,
+                "DE": 3,
+                "IT": 0,
+                "MC": 1,
+                "NL": 1,
+                "SE": 0,
+                "CH": 0,
+                "GB": 2
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 7,
+          "running": 6,
+          "place": 8,
+          "scores": [
+            {
+              "name": "total",
+              "points": 5,
+              "votes": {
+                "AT": 0,
+                "BE": 1,
+                "DK": 0,
+                "FR": 2,
+                "IT": 1,
+                "MC": 0,
+                "NL": 0,
+                "SE": 0,
+                "CH": 1,
+                "GB": 0
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 8,
+          "running": 7,
+          "place": 9,
+          "scores": [
+            {
+              "name": "total",
+              "points": 4,
+              "votes": {
+                "AT": 0,
+                "BE": 0,
+                "DK": 1,
+                "FR": 0,
+                "DE": 0,
+                "IT": 0,
+                "MC": 0,
+                "NL": 3,
+                "CH": 0,
+                "GB": 0
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 9,
+          "running": 9,
+          "place": 9,
+          "scores": [
+            {
+              "name": "total",
+              "points": 4,
+              "votes": {
+                "BE": 0,
+                "DK": 0,
+                "FR": 0,
+                "DE": 0,
+                "IT": 0,
+                "MC": 1,
+                "NL": 0,
+                "SE": 2,
+                "CH": 1,
+                "GB": 0
+              }
+            }
+          ]
+        },
+        {
+          "contestantId": 10,
+          "running": 4,
+          "place": 11,
+          "scores": [
+            {
+              "name": "total",
+              "points": 1,
+              "votes": {
+                "AT": 1,
+                "BE": 0,
+                "DK": 0,
+                "FR": 0,
+                "DE": 0,
+                "IT": 0,
+                "NL": 0,
+                "SE": 0,
+                "CH": 0,
+                "GB": 0
+              }
+            }
+          ]
+        }
+      ],
+      "disqualifieds": null
+    }
+  ]
+}

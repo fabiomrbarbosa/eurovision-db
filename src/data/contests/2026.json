@@ -1,0 +1,844 @@
+{
+	"_note": "PARTIAL DATA — ESC 2026, Vienna. Aggregate jury/tele totals are sourced from EurovisionWorld, ESCCovers, ESC Insight and Eurovoix (cross-checked). Per-country vote breakdowns in all rounds are NOT YET AVAILABLE and are represented as empty objects {}. Replace this file with the official EurovisionAPI dataset release once published. Run: npm run fetch:year -- 2026",
+	"_sources": [
+		"https://www.esccovers.com/results-from-the-final-of-eurovision-2026/ (full final table: place, total, jury, tele, running order)",
+		"https://eurovoix.com/2026/05/17/eurovision-2026-semi-final-results-revealed/ (semi-final totals: tele + jury = total per country)",
+		"https://escinsight.com/2026/05/17/16-facts-and-stats-from-the-2026-eurovision-song-contest/ (placements 20-25, facts)",
+		"https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2026 (contestants, songs, structure)"
+	],
+	"year": 2026,
+	"arena": "Wiener Stadthalle",
+	"city": "Vienna",
+	"country": "AT",
+	"intendedCountry": null,
+	"slogan": "United By Music",
+	"logoUrl": "https://raw.githubusercontent.com/EurovisionAPI/dataset/main/images/logos/senior/2026.png",
+	"broadcasters": ["Österreichischer Rundfunk (ORF)"],
+	"presenters": ["Victoria Swarovski", "Michael Ostrowski", "Emily Busvine"],
+	"contestants": [
+		{
+			"id": 0,
+			"country": "BG",
+			"artist": "Dara",
+			"song": "Bangaranga",
+			"url": "https://eurovisionapi.runasp.net/api/senior/contests/2026/contestants/0"
+		},
+		{
+			"id": 1,
+			"country": "IL",
+			"artist": "Noam Bettan",
+			"song": "Michelle",
+			"url": "https://eurovisionapi.runasp.net/api/senior/contests/2026/contestants/1"
+		},
+		{
+			"id": 2,
+			"country": "RO",
+			"artist": "Alexandra Căpitănescu",
+			"song": "Choke Me",
+			"url": "https://eurovisionapi.runasp.net/api/senior/contests/2026/contestants/2"
+		},
+		{
+			"id": 3,
+			"country": "AU",
+			"artist": "Delta Goodrem",
+			"song": "Eclipse",
+			"url": "https://eurovisionapi.runasp.net/api/senior/contests/2026/contestants/3"
+		},
+		{
+			"id": 4,
+			"country": "IT",
+			"artist": "Sal Da Vinci",
+			"song": "Per sempre sì",
+			"url": "https://eurovisionapi.runasp.net/api/senior/contests/2026/contestants/4"
+		},
+		{
+			"id": 5,
+			"country": "FI",
+			"artist": "Linda Lampenius & Pete Parkkonen",
+			"song": "Liekinheitin",
+			"url": "https://eurovisionapi.runasp.net/api/senior/contests/2026/contestants/5"
+		},
+		{
+			"id": 6,
+			"country": "DK",
+			"artist": "Søren Torpegaard Lund",
+			"song": "Før vi går hjem",
+			"url": "https://eurovisionapi.runasp.net/api/senior/contests/2026/contestants/6"
+		},
+		{
+			"id": 7,
+			"country": "MD",
+			"artist": "Satoshi",
+			"song": "Viva, Moldova!",
+			"url": "https://eurovisionapi.runasp.net/api/senior/contests/2026/contestants/7"
+		},
+		{
+			"id": 8,
+			"country": "UA",
+			"artist": "Leléka",
+			"song": "Ridnym",
+			"url": "https://eurovisionapi.runasp.net/api/senior/contests/2026/contestants/8"
+		},
+		{
+			"id": 9,
+			"country": "GR",
+			"artist": "Akylas",
+			"song": "Ferto",
+			"url": "https://eurovisionapi.runasp.net/api/senior/contests/2026/contestants/9"
+		},
+		{
+			"id": 10,
+			"country": "FR",
+			"artist": "Monroe",
+			"song": "Regarde !",
+			"url": "https://eurovisionapi.runasp.net/api/senior/contests/2026/contestants/10"
+		},
+		{
+			"id": 11,
+			"country": "PL",
+			"artist": "Alicja",
+			"song": "Pray",
+			"url": "https://eurovisionapi.runasp.net/api/senior/contests/2026/contestants/11"
+		},
+		{
+			"id": 12,
+			"country": "AL",
+			"artist": "Alis",
+			"song": "Nân",
+			"url": "https://eurovisionapi.runasp.net/api/senior/contests/2026/contestants/12"
+		},
+		{
+			"id": 13,
+			"country": "NO",
+			"artist": "Jonas Lovv",
+			"song": "Ya Ya Ya",
+			"url": "https://eurovisionapi.runasp.net/api/senior/contests/2026/contestants/13"
+		},
+		{
+			"id": 14,
+			"country": "HR",
+			"artist": "Lelek",
+			"song": "Andromeda",
+			"url": "https://eurovisionapi.runasp.net/api/senior/contests/2026/contestants/14"
+		},
+		{
+			"id": 15,
+			"country": "CZ",
+			"artist": "Daniel Žižka",
+			"song": "Crossroads",
+			"url": "https://eurovisionapi.runasp.net/api/senior/contests/2026/contestants/15"
+		},
+		{
+			"id": 16,
+			"country": "RS",
+			"artist": "Lavina",
+			"song": "Kraj mene",
+			"url": "https://eurovisionapi.runasp.net/api/senior/contests/2026/contestants/16"
+		},
+		{
+			"id": 17,
+			"country": "MT",
+			"artist": "Aidan",
+			"song": "Bella",
+			"url": "https://eurovisionapi.runasp.net/api/senior/contests/2026/contestants/17"
+		},
+		{
+			"id": 18,
+			"country": "CY",
+			"artist": "Antigoni",
+			"song": "Jalla",
+			"url": "https://eurovisionapi.runasp.net/api/senior/contests/2026/contestants/18"
+		},
+		{
+			"id": 19,
+			"country": "SE",
+			"artist": "Felicia",
+			"song": "My System",
+			"url": "https://eurovisionapi.runasp.net/api/senior/contests/2026/contestants/19"
+		},
+		{
+			"id": 20,
+			"country": "BE",
+			"artist": "Essyla",
+			"song": "Dancing on the Ice",
+			"url": "https://eurovisionapi.runasp.net/api/senior/contests/2026/contestants/20"
+		},
+		{
+			"id": 21,
+			"country": "AT",
+			"artist": "Cosmó",
+			"song": "Tanzschein",
+			"url": "https://eurovisionapi.runasp.net/api/senior/contests/2026/contestants/21"
+		},
+		{
+			"id": 22,
+			"country": "DE",
+			"artist": "Sarah Engels",
+			"song": "Fire",
+			"url": "https://eurovisionapi.runasp.net/api/senior/contests/2026/contestants/22"
+		},
+		{
+			"id": 23,
+			"country": "LT",
+			"artist": "Lion Ceccah",
+			"song": "Sólo quiero más",
+			"url": "https://eurovisionapi.runasp.net/api/senior/contests/2026/contestants/23"
+		},
+		{
+			"id": 24,
+			"country": "GB",
+			"artist": "Look Mum No Computer",
+			"song": "TBA",
+			"url": "https://eurovisionapi.runasp.net/api/senior/contests/2026/contestants/24"
+		},
+		{
+			"id": 25,
+			"country": "GE",
+			"artist": "Bzikebi",
+			"song": "On Replay",
+			"url": "https://eurovisionapi.runasp.net/api/senior/contests/2026/contestants/25"
+		},
+		{
+			"id": 26,
+			"country": "EE",
+			"artist": "Vanilla Ninja",
+			"song": "Too Epic to Be True",
+			"url": "https://eurovisionapi.runasp.net/api/senior/contests/2026/contestants/26"
+		},
+		{
+			"id": 27,
+			"country": "PT",
+			"artist": "Bandidos do Cante",
+			"song": "Rosa",
+			"url": "https://eurovisionapi.runasp.net/api/senior/contests/2026/contestants/27"
+		},
+		{
+			"id": 28,
+			"country": "ME",
+			"artist": "Tamara Živković",
+			"song": "Nova zora",
+			"url": "https://eurovisionapi.runasp.net/api/senior/contests/2026/contestants/28"
+		},
+		{
+			"id": 29,
+			"country": "SM",
+			"artist": "Senhit feat. Boy George",
+			"song": "Superstar",
+			"url": "https://eurovisionapi.runasp.net/api/senior/contests/2026/contestants/29"
+		},
+		{
+			"id": 30,
+			"country": "LV",
+			"artist": "Atvara",
+			"song": "Ēnā",
+			"url": "https://eurovisionapi.runasp.net/api/senior/contests/2026/contestants/30"
+		},
+		{
+			"id": 31,
+			"country": "AM",
+			"artist": "Simón",
+			"song": "Paloma rumba",
+			"url": "https://eurovisionapi.runasp.net/api/senior/contests/2026/contestants/31"
+		},
+		{
+			"id": 32,
+			"country": "LU",
+			"artist": "Eva Marija",
+			"song": "Mother Nature",
+			"url": "https://eurovisionapi.runasp.net/api/senior/contests/2026/contestants/32"
+		},
+		{
+			"id": 33,
+			"country": "CH",
+			"artist": "Veronica Fusaro",
+			"song": "Alice",
+			"url": "https://eurovisionapi.runasp.net/api/senior/contests/2026/contestants/33"
+		},
+		{
+			"id": 34,
+			"country": "AZ",
+			"artist": "Jiva",
+			"song": "Just Go",
+			"url": "https://eurovisionapi.runasp.net/api/senior/contests/2026/contestants/34"
+		}
+	],
+	"rounds": [
+		{
+			"name": "semifinal1",
+			"_note": "Totals confirmed. Per-country vote breakdowns PENDING official data release.",
+			"date": "2026-05-12",
+			"time": "21:00:00",
+			"disqualifieds": null,
+			"performances": [
+				{
+					"contestantId": 1,
+					"running": null,
+					"place": 1,
+					"scores": [
+						{ "name": "total", "points": 269, "votes": {} },
+						{ "name": "public", "points": 163, "votes": {} },
+						{ "name": "jury", "points": 106, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 11,
+					"running": null,
+					"place": 2,
+					"scores": [
+						{ "name": "total", "points": 247, "votes": {} },
+						{ "name": "public", "points": 110, "votes": {} },
+						{ "name": "jury", "points": 137, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 5,
+					"running": null,
+					"place": 3,
+					"scores": [
+						{ "name": "total", "points": 227, "votes": {} },
+						{ "name": "public", "points": 100, "votes": {} },
+						{ "name": "jury", "points": 127, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 7,
+					"running": null,
+					"place": 4,
+					"scores": [
+						{ "name": "total", "points": 208, "votes": {} },
+						{ "name": "public", "points": 146, "votes": {} },
+						{ "name": "jury", "points": 62, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 16,
+					"running": null,
+					"place": 5,
+					"scores": [
+						{ "name": "total", "points": 187, "votes": {} },
+						{ "name": "public", "points": 131, "votes": {} },
+						{ "name": "jury", "points": 56, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 14,
+					"running": null,
+					"place": 6,
+					"scores": [
+						{ "name": "total", "points": 175, "votes": {} },
+						{ "name": "public", "points": 90, "votes": {} },
+						{ "name": "jury", "points": 85, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 9,
+					"running": null,
+					"place": 7,
+					"scores": [
+						{ "name": "total", "points": 159, "votes": {} },
+						{ "name": "public", "points": 71, "votes": {} },
+						{ "name": "jury", "points": 88, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 23,
+					"running": null,
+					"place": 8,
+					"scores": [
+						{ "name": "total", "points": 101, "votes": {} },
+						{ "name": "public", "points": 55, "votes": {} },
+						{ "name": "jury", "points": 46, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 19,
+					"running": null,
+					"place": 9,
+					"scores": [
+						{ "name": "total", "points": 96, "votes": {} },
+						{ "name": "public", "points": 17, "votes": {} },
+						{ "name": "jury", "points": 79, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 20,
+					"running": null,
+					"place": 10,
+					"scores": [
+						{ "name": "total", "points": 91, "votes": {} },
+						{ "name": "public", "points": 10, "votes": {} },
+						{ "name": "jury", "points": 81, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 26,
+					"running": null,
+					"place": 11,
+					"scores": [
+						{ "name": "total", "points": 79, "votes": {} },
+						{ "name": "public", "points": 46, "votes": {} },
+						{ "name": "jury", "points": 33, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 27,
+					"running": null,
+					"place": 12,
+					"scores": [
+						{ "name": "total", "points": 74, "votes": {} },
+						{ "name": "public", "points": 35, "votes": {} },
+						{ "name": "jury", "points": 39, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 28,
+					"running": null,
+					"place": 13,
+					"scores": [
+						{ "name": "total", "points": 71, "votes": {} },
+						{ "name": "public", "points": 45, "votes": {} },
+						{ "name": "jury", "points": 26, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 29,
+					"running": null,
+					"place": 14,
+					"scores": [
+						{ "name": "total", "points": 41, "votes": {} },
+						{ "name": "public", "points": 23, "votes": {} },
+						{ "name": "jury", "points": 18, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 25,
+					"running": null,
+					"place": 15,
+					"scores": [
+						{ "name": "total", "points": 5, "votes": {} },
+						{ "name": "public", "points": 2, "votes": {} },
+						{ "name": "jury", "points": 3, "votes": {} }
+					]
+				}
+			]
+		},
+		{
+			"name": "semifinal2",
+			"_note": "Totals confirmed. Per-country vote breakdowns PENDING official data release.",
+			"date": "2026-05-14",
+			"time": "21:00:00",
+			"disqualifieds": null,
+			"performances": [
+				{
+					"contestantId": 0,
+					"running": null,
+					"place": 1,
+					"scores": [
+						{ "name": "total", "points": 278, "votes": {} },
+						{ "name": "public", "points": 184, "votes": {} },
+						{ "name": "jury", "points": 94, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 2,
+					"running": null,
+					"place": 2,
+					"scores": [
+						{ "name": "total", "points": 234, "votes": {} },
+						{ "name": "public", "points": 147, "votes": {} },
+						{ "name": "jury", "points": 87, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 3,
+					"running": null,
+					"place": 3,
+					"scores": [
+						{ "name": "total", "points": 222, "votes": {} },
+						{ "name": "public", "points": 85, "votes": {} },
+						{ "name": "jury", "points": 137, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 13,
+					"running": null,
+					"place": 4,
+					"scores": [
+						{ "name": "total", "points": 206, "votes": {} },
+						{ "name": "public", "points": 97, "votes": {} },
+						{ "name": "jury", "points": 109, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 6,
+					"running": null,
+					"place": 5,
+					"scores": [
+						{ "name": "total", "points": 199, "votes": {} },
+						{ "name": "public", "points": 75, "votes": {} },
+						{ "name": "jury", "points": 124, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 8,
+					"running": null,
+					"place": 6,
+					"scores": [
+						{ "name": "total", "points": 174, "votes": {} },
+						{ "name": "public", "points": 99, "votes": {} },
+						{ "name": "jury", "points": 75, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 12,
+					"running": null,
+					"place": 7,
+					"scores": [
+						{ "name": "total", "points": 158, "votes": {} },
+						{ "name": "public", "points": 113, "votes": {} },
+						{ "name": "jury", "points": 45, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 17,
+					"running": null,
+					"place": 8,
+					"scores": [
+						{ "name": "total", "points": 143, "votes": {} },
+						{ "name": "public", "points": 59, "votes": {} },
+						{ "name": "jury", "points": 84, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 15,
+					"running": null,
+					"place": 9,
+					"scores": [
+						{ "name": "total", "points": 142, "votes": {} },
+						{ "name": "public", "points": 34, "votes": {} },
+						{ "name": "jury", "points": 108, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 18,
+					"running": null,
+					"place": 10,
+					"scores": [
+						{ "name": "total", "points": 122, "votes": {} },
+						{ "name": "public", "points": 75, "votes": {} },
+						{ "name": "jury", "points": 47, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 33,
+					"running": null,
+					"place": 11,
+					"scores": [
+						{ "name": "total", "points": 108, "votes": {} },
+						{ "name": "public", "points": 60, "votes": {} },
+						{ "name": "jury", "points": 48, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 32,
+					"running": null,
+					"place": 12,
+					"scores": [
+						{ "name": "total", "points": 60, "votes": {} },
+						{ "name": "public", "points": 34, "votes": {} },
+						{ "name": "jury", "points": 26, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 30,
+					"running": null,
+					"place": 13,
+					"scores": [
+						{ "name": "total", "points": 49, "votes": {} },
+						{ "name": "public", "points": 21, "votes": {} },
+						{ "name": "jury", "points": 28, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 31,
+					"running": null,
+					"place": 14,
+					"scores": [
+						{ "name": "total", "points": 49, "votes": {} },
+						{ "name": "public", "points": 19, "votes": {} },
+						{ "name": "jury", "points": 30, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 34,
+					"running": null,
+					"place": 15,
+					"scores": [
+						{ "name": "total", "points": 2, "votes": {} },
+						{ "name": "public", "points": 0, "votes": {} },
+						{ "name": "jury", "points": 2, "votes": {} }
+					]
+				}
+			]
+		},
+		{
+			"name": "final",
+			"_note": "Place, total points, jury and televote totals confirmed. Running order confirmed. Per-country vote breakdowns PENDING official data release.",
+			"date": "2026-05-16",
+			"time": "21:00:00",
+			"disqualifieds": null,
+			"performances": [
+				{
+					"contestantId": 0,
+					"running": 12,
+					"place": 1,
+					"scores": [
+						{ "name": "total", "points": 516, "votes": {} },
+						{ "name": "public", "points": 312, "votes": {} },
+						{ "name": "jury", "points": 204, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 1,
+					"running": 3,
+					"place": 2,
+					"scores": [
+						{ "name": "total", "points": 343, "votes": {} },
+						{ "name": "public", "points": 220, "votes": {} },
+						{ "name": "jury", "points": 123, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 2,
+					"running": 24,
+					"place": 3,
+					"scores": [
+						{ "name": "total", "points": 296, "votes": {} },
+						{ "name": "public", "points": 232, "votes": {} },
+						{ "name": "jury", "points": 64, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 3,
+					"running": 8,
+					"place": 4,
+					"scores": [
+						{ "name": "total", "points": 287, "votes": {} },
+						{ "name": "public", "points": 122, "votes": {} },
+						{ "name": "jury", "points": 165, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 4,
+					"running": 22,
+					"place": 5,
+					"scores": [
+						{ "name": "total", "points": 281, "votes": {} },
+						{ "name": "public", "points": 147, "votes": {} },
+						{ "name": "jury", "points": 134, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 5,
+					"running": 17,
+					"place": 6,
+					"scores": [
+						{ "name": "total", "points": 279, "votes": {} },
+						{ "name": "public", "points": 138, "votes": {} },
+						{ "name": "jury", "points": 141, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 6,
+					"running": 1,
+					"place": 7,
+					"scores": [
+						{ "name": "total", "points": 243, "votes": {} },
+						{ "name": "public", "points": 78, "votes": {} },
+						{ "name": "jury", "points": 165, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 7,
+					"running": 16,
+					"place": 8,
+					"scores": [
+						{ "name": "total", "points": 226, "votes": {} },
+						{ "name": "public", "points": 183, "votes": {} },
+						{ "name": "jury", "points": 43, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 8,
+					"running": 7,
+					"place": 9,
+					"scores": [
+						{ "name": "total", "points": 221, "votes": {} },
+						{ "name": "public", "points": 167, "votes": {} },
+						{ "name": "jury", "points": 54, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 9,
+					"running": 6,
+					"place": 10,
+					"scores": [
+						{ "name": "total", "points": 220, "votes": {} },
+						{ "name": "public", "points": 147, "votes": {} },
+						{ "name": "jury", "points": 73, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 10,
+					"running": 15,
+					"place": 11,
+					"scores": [
+						{ "name": "total", "points": 158, "votes": {} },
+						{ "name": "public", "points": 14, "votes": {} },
+						{ "name": "jury", "points": 144, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 11,
+					"running": 18,
+					"place": 12,
+					"scores": [
+						{ "name": "total", "points": 150, "votes": {} },
+						{ "name": "public", "points": 17, "votes": {} },
+						{ "name": "jury", "points": 133, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 12,
+					"running": 5,
+					"place": 13,
+					"scores": [
+						{ "name": "total", "points": 145, "votes": {} },
+						{ "name": "public", "points": 85, "votes": {} },
+						{ "name": "jury", "points": 60, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 13,
+					"running": 23,
+					"place": 14,
+					"scores": [
+						{ "name": "total", "points": 134, "votes": {} },
+						{ "name": "public", "points": 19, "votes": {} },
+						{ "name": "jury", "points": 115, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 14,
+					"running": 13,
+					"place": 15,
+					"scores": [
+						{ "name": "total", "points": 124, "votes": {} },
+						{ "name": "public", "points": 71, "votes": {} },
+						{ "name": "jury", "points": 53, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 15,
+					"running": 11,
+					"place": 16,
+					"scores": [
+						{ "name": "total", "points": 113, "votes": {} },
+						{ "name": "public", "points": 9, "votes": {} },
+						{ "name": "jury", "points": 104, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 16,
+					"running": 9,
+					"place": 17,
+					"scores": [
+						{ "name": "total", "points": 90, "votes": {} },
+						{ "name": "public", "points": 52, "votes": {} },
+						{ "name": "jury", "points": 38, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 17,
+					"running": 10,
+					"place": 18,
+					"scores": [
+						{ "name": "total", "points": 89, "votes": {} },
+						{ "name": "public", "points": 8, "votes": {} },
+						{ "name": "jury", "points": 81, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 18,
+					"running": 21,
+					"place": 19,
+					"scores": [
+						{ "name": "total", "points": 75, "votes": {} },
+						{ "name": "public", "points": 34, "votes": {} },
+						{ "name": "jury", "points": 41, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 19,
+					"running": 14,
+					"place": 20,
+					"scores": [
+						{ "name": "total", "points": null, "votes": {} },
+						{ "name": "public", "points": null, "votes": {} },
+						{ "name": "jury", "points": null, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 20,
+					"running": 19,
+					"place": 21,
+					"scores": [
+						{ "name": "total", "points": null, "votes": {} },
+						{ "name": "public", "points": null, "votes": {} },
+						{ "name": "jury", "points": null, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 21,
+					"running": 25,
+					"place": 22,
+					"scores": [
+						{ "name": "total", "points": null, "votes": {} },
+						{ "name": "public", "points": null, "votes": {} },
+						{ "name": "jury", "points": null, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 22,
+					"running": 2,
+					"place": 23,
+					"scores": [
+						{ "name": "total", "points": null, "votes": {} },
+						{ "name": "public", "points": null, "votes": {} },
+						{ "name": "jury", "points": null, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 23,
+					"running": 4,
+					"place": 24,
+					"scores": [
+						{ "name": "total", "points": null, "votes": {} },
+						{ "name": "public", "points": null, "votes": {} },
+						{ "name": "jury", "points": null, "votes": {} }
+					]
+				},
+				{
+					"contestantId": 24,
+					"running": 20,
+					"place": 25,
+					"scores": [
+						{ "name": "total", "points": 1, "votes": {} },
+						{ "name": "public", "points": null, "votes": {} },
+						{ "name": "jury", "points": null, "votes": {} }
+					]
+				}
+			]
+		}
+	]
+}
