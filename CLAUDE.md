@@ -214,6 +214,25 @@ npm run build
 - Error/404 page
 - Pagination or virtual scroll for the contests table (70 rows is fine for now)
 - Per-country vote breakdowns for 2026 — run `npm run fetch:year -- 2026` once API updates
+- **Semifinal jury/tele split** — `SemifinalsView.svelte` currently shows only the `total`
+  score per country. For years > 2015 the `scores` array on each performance contains
+  separate `jury` and `public` score entries alongside `total`; show all three columns
+  in those years (same pattern already used in `ScoreBreakdown.svelte` for the final).
+- **Sortable scoreboard headers** — the results table on `contest/[year].astro` should
+  let the user re-sort by: final placement (default), running order, and country name
+  A–Z. Implement as a Svelte island (or reactive sort state in the existing page) so
+  clicking a column header cycles through the sort modes. Applies to both the final
+  table and the semifinal tables in `SemifinalsView.svelte`.
+- **Semifinal + final score columns on country page** — `country/[code].astro` history
+  table currently shows only the final result. Add two score columns: "SF" (the
+  contestant's semifinal total, `null` for years without semis or for automatic
+  qualifiers) and "Final" (grand final total, `null` if the country did not qualify).
+  Data is available via `getCountryHistory()` — extend it to also return
+  `semifinalPlace` and `semifinalPoints` from the appropriate semifinal round.
+- **Unified round tab group** — `contest/[year].astro` renders `SemifinalsView` and the
+  main final scoreboard separately. Merge them into a single tab group ordered:
+  Semi-final 1 → Semi-final 2 (if present) → Grand Final, with Grand Final as the
+  default active tab. Only show SF tabs if the contest has semifinal rounds in the data.
 - Consider: voting bias charts (which countries always vote for each other)
 - Consider: timeline view showing a country's placements across all years
 
