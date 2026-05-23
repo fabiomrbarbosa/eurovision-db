@@ -44,14 +44,11 @@ try {
 const hasData = recentWinners.length > 0;
 ---
 
-<Base title="Eurovision Archive">
+<Base title="Eurovision Database">
 	<section class="hero container">
-		<p class="hero-eyebrow mono gold">1956 — present</p>
-		<h1>Eurovision<br />Song Contest<br />Archive</h1>
-		<p class="hero-sub">
-			Every contest, every song, every vote.<br />
-			Search 70 years of Eurovision history.
-		</p>
+		<p class="hero-eyebrow mono gold">Every contest, every song, every vote.</p>
+		<h1>Eurovision<br />Song Contest<br />Database</h1>
+		<p class="hero-sub">Search 70 years of Eurovision history.</p>
 
 		<div class="search-wrapper">
 			<Search client:load />
@@ -98,7 +95,7 @@ const hasData = recentWinners.length > 0;
 					<p class="mono muted">
 						No data found in <code>src/data/</code>
 					</p>
-					<p>Run the fetch script to populate the archive:</p>
+					<p>Run the fetch script to populate the database:</p>
 					<pre class="code-block">npm run fetch:data</pre>
 				</div>
 			</section>
@@ -119,9 +116,10 @@ const hasData = recentWinners.length > 0;
 	}
 	.hero h1 {
 		font-size: clamp(3rem, 8vw, 6rem);
-		font-weight: 700;
+		font-weight: 500;
 		line-height: 1.05;
 		margin-bottom: 1.5rem;
+		letter-spacing: -0.02em;
 	}
 	.hero h1 em {
 		font-style: italic;
@@ -171,12 +169,12 @@ const hasData = recentWinners.length > 0;
 		text-decoration: none;
 	}
 	.winner-card:hover {
-		background: #1e1e1e;
+		background: var(--c-hover);
 	}
 	.winner-year {
 		font-size: 1.4rem;
 		font-weight: 500;
-		color: var(--c-gold);
+		color: var(--c-link);
 	}
 	.winner-city {
 		font-size: 0.8rem;
@@ -184,6 +182,7 @@ const hasData = recentWinners.length > 0;
 	.winner-song {
 		font-size: 0.9rem;
 		margin-top: 0.25rem;
+		margin-bottom: 0.5rem;
 		display: flex;
 		align-items: baseline;
 		gap: 0.35em;

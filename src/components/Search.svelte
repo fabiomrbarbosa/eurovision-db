@@ -4,6 +4,7 @@
   // Fetches the index once on mount, then filters locally.
 
   import { onMount } from 'svelte';
+  import { countryFlag } from '../lib/utils.ts';
 
   interface ContestantEntry {
     id: number;
@@ -23,6 +24,7 @@
   interface SearchHit {
     type: 'contest' | 'contestant';
     year: number;
+    flag: string;
     label: string;
     sublabel: string;
     href: string;
@@ -81,6 +83,7 @@
         results.push({
           type: 'contest',
           year: entry.year,
+          flag: countryFlag(entry.country),
           label: `${entry.year} · ${entry.city}`,
           sublabel: countryName(entry.country),
           href: `/contest/${entry.year}`,
@@ -100,6 +103,7 @@
           results.push({
             type: 'contestant',
             year: entry.year,
+            flag: countryFlag(c.country),
             label: `${c.artist} — ${c.song}`,
             sublabel: `${countryName(c.country)} · ${entry.year}`,
             href: `/contest/${entry.year}`,
@@ -149,6 +153,7 @@
           onkeydown={(e) => e.key === 'Enter' && select(hit.href)}
           tabindex="0"
         >
+          <span class="hit-flag">{hit.flag}</span>
           <span class="hit-label">{hit.label}</span>
           <span class="hit-sub">{hit.sublabel}</span>
           {#if hit.type === 'contest'}
@@ -224,7 +229,7 @@
     transition: background 0.1s;
   }
   li:last-child { border-bottom: none; }
-  li:hover, li:focus { background: #1e1e1e; outline: none; }
+  li:hover, li:focus { background: var(--c-hover); outline: none; }
 
   .hit-label { font-size: 0.9rem; flex-shrink: 0; }
   .hit-sub {
@@ -239,7 +244,7 @@
     font-family: var(--f-mono);
     font-size: 0.65rem;
     padding: 0.1em 0.4em;
-    background: #1f1a0e;
+    background: var(--c-surface-gold);
     border: 1px solid var(--c-gold-dim);
     color: var(--c-gold);
     border-radius: var(--radius);

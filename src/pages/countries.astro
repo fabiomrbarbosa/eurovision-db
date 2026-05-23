@@ -156,7 +156,7 @@ const countryList = Object.entries(statsMap)
     const defaults: Record<string, string> = { name: 'asc', wins: 'desc', appearances: 'desc', last: 'desc' };
 
     function refresh() {
-      table.querySelectorAll('th[data-sort]').forEach(el => {
+      table!.querySelectorAll('th[data-sort]').forEach(el => {
         const th = el as HTMLElement;
         const key = th.dataset.sort;
         th.classList.toggle('th-sorted', key === col);

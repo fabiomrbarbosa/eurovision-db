@@ -13,6 +13,11 @@ export async function getStaticPaths() {
 const { year: yearParam } = Astro.params;
 const year = parseInt(yearParam, 10);
 
+const years = getYears();
+const yearIdx = years.indexOf(year);
+const prevYear = yearIdx > 0 ? years[yearIdx - 1] : null;
+const nextYear = yearIdx < years.length - 1 ? years[yearIdx + 1] : null;
+
 const countries = getCountries();
 const contest = getResolvedContest(year);
 const hasJuryTele = year > 2015;
@@ -91,11 +96,7 @@ const semiRounds = contest.rounds
 
     <!-- Page header -->
     <header class="contest-header">
-      {contest.logoUrl && (
-        <img src={contest.logoUrl} width="186" alt={`ESC ${year} logo`} class="contest-logo" />
-      )}
       <div class="contest-meta">
-        <p class="eyebrow mono gold">Eurovision Song Contest</p>
         <h1><span class="flag">{countryFlag(contest.country)}</span> {contest.city} {year}</h1>
         <p class="venue">
           {contest.arena} · {hostCountryName}
@@ -117,7 +118,20 @@ const semiRounds = contest.rounds
           )}
         </div>
       </div>
+
+      <img src={`/images/logos/${year}.png`} width="186" alt={`ESC ${year} logo`} class="contest-logo" />
     </header>
+
+		<nav class="edition-nav">
+			{prevYear
+				? <a href={`/contest/${prevYear}`} class="edition-nav-link">← {prevYear}</a>
+				: <span />
+			}
+			{nextYear
+				? <a href={`/contest/${nextYear}`} class="edition-nav-link">{nextYear} →</a>
+				: <span />
+			}
+		</nav>
 
     {cancelled ? (
       <!-- Cancelled contest notice -->
@@ -184,20 +198,29 @@ const semiRounds = contest.rounds
   .contest-header {
     display: flex;
     flex-direction: column;
-    align-items: flex-start;
+		align-items: flex-start;
+    justify-content: space-between;
     gap: 2rem;
     padding-block: 3rem 2.5rem;
     border-bottom: 1px solid var(--c-border);
-    margin-bottom: 3rem;
+    margin-bottom: 1.5rem;
   }
-  @media (min-width: 640px) {
-    .contest-header { flex-direction: row; }
-  }
+
   .contest-logo {
     width: 186px;
     flex-shrink: 0;
 		background-color: white;
   }
+
+	@media (min-width: 640px) {
+    .contest-header { flex-direction: row; }
+  }
+
+		@media (max-width: 639px) {
+		.contest-meta {	order: 2 }
+		.contest-logo {	order: 1 }
+  }
+
   .eyebrow {
     font-size: 0.75rem;
     letter-spacing: 0.15em;
@@ -219,6 +242,25 @@ const semiRounds = contest.rounds
     gap: 0.15rem;
     font-size: 0.875rem;
   }
+
+  /* ── Edition navigation ─────────────────────────────────────── */
+  .edition-nav {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 3rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid var(--c-border);
+  }
+  .edition-nav-link {
+    font-family: var(--f-mono);
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--c-muted);
+    text-decoration: none;
+    transition: color 0.12s;
+  }
+  .edition-nav-link:hover { color: var(--c-link); }
 
   /* ── Results section wrapper ────────────────────────────────── */
   .results-section { margin-bottom: 4rem; }

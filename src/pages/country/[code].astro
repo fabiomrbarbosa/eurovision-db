@@ -83,13 +83,15 @@ const bestPlace = Math.min(...history.map((h) => h.finalPlace ?? Infinity));
 							.slice()
 							.reverse()
 							.map((h) => (
-								<tr class:list={[h.finalPlace === 1 && "row--winner"]}
+								<tr
+									class:list={[h.finalPlace === 1 && "row--winner"]}
 									data-year={h.year}
 									data-artist={h.artist}
 									data-song={h.song}
-									data-place={h.finalPlace ?? ''}
-									data-run={h.finalRunning ?? ''}
-									data-points={h.finalPoints ?? ''}>
+									data-place={h.finalPlace ?? ""}
+									data-run={h.finalRunning ?? ""}
+									data-points={h.finalPoints ?? ""}
+								>
 									<td>
 										<a href={`/contest/${h.year}`} class="year-link mono">
 											{h.year}
@@ -103,19 +105,14 @@ const bestPlace = Math.min(...history.map((h) => h.finalPlace ?? Infinity));
 										{h.finalPlace === 1 ? (
 											<span class="gold">🏆 1st</span>
 										) : h.finalPlace !== null ? (
-											<span class="muted">
-												{h.finalPlace}
-												{ordinal(h.finalPlace)}
-											</span>
+											<span class="muted">{h.finalPlace}{ordinal(h.finalPlace)}</span>
 										) : h.cancelled ? (
 											<span class="badge--cancelled">Cancelled</span>
 										) : (
 											<span class="muted">DNQ</span>
 										)}
 									</td>
-									<td class="right mono muted">
-										{h.finalRunning ?? '—'}
-									</td>
+									<td class="right mono muted">{h.finalRunning ?? "—"}</td>
 									<td class="right mono">
 										{h.finalPoints !== null ? (
 											<span class:list={[h.finalPlace === 1 && "gold"]}>
@@ -219,14 +216,14 @@ const bestPlace = Math.min(...history.map((h) => h.finalPlace ?? Infinity));
 	}
 
 	.row--winner td {
-		background: #1a1608;
+		background: var(--c-surface-gold);
 	}
 	.row--winner:hover td {
-		background: #201c0a;
+		background: var(--c-surface-gold-hover);
 	}
 
 	.year-link {
-		color: var(--c-gold);
+		color: var(--c-link);
 		font-weight: 500;
 	}
 	.song-cell em {
@@ -248,61 +245,85 @@ const bestPlace = Math.min(...history.map((h) => h.finalPlace ?? Infinity));
 		user-select: none;
 		white-space: nowrap;
 	}
-	.history-table th[data-sort]:hover { color: var(--c-text); }
-	.history-table th.th-sorted { color: var(--c-gold); }
-	.history-table th.th-sorted::after { content: ' ↑'; }
-	.history-table th.th-sorted.th-sorted-desc::after { content: ' ↓'; }
+	.history-table th[data-sort]:hover {
+		color: var(--c-text);
+	}
+	.history-table th.th-sorted {
+		color: var(--c-gold);
+	}
+	.history-table th.th-sorted::after {
+		content: " ↑";
+	}
+	.history-table th.th-sorted.th-sorted-desc::after {
+		content: " ↓";
+	}
 </style>
 
 <script>
-  const tableEl = document.querySelector('.history-table') as HTMLTableElement | null;
-  if (tableEl) {
-    const table = tableEl; // stable non-null ref for inner function closures
-    const tbody = table.querySelector('tbody') as HTMLTableSectionElement;
-    let col = 'year', dir = 'desc';
-    const numCols = new Set(['year', 'place', 'run', 'points']);
-    const defaults: Record<string, string> = { year: 'desc', artist: 'asc', song: 'asc', place: 'asc', run: 'asc', points: 'desc' };
+	const tableEl = document.querySelector(
+		".history-table",
+	) as HTMLTableElement | null;
+	if (tableEl) {
+		const table = tableEl; // stable non-null ref for inner function closures
+		const tbody = table.querySelector("tbody") as HTMLTableSectionElement;
+		let col = "year",
+			dir = "desc";
+		const numCols = new Set(["year", "place", "run", "points"]);
+		const defaults: Record<string, string> = {
+			year: "desc",
+			artist: "asc",
+			song: "asc",
+			place: "asc",
+			run: "asc",
+			points: "desc",
+		};
 
-    // Empty string (null values) always sort last regardless of direction
-    function numVal(v: string): number { return v === '' ? Infinity : Number(v); }
+		// Empty string (null values) always sort last regardless of direction
+		function numVal(v: string): number {
+			return v === "" ? Infinity : Number(v);
+		}
 
-    function refresh() {
-      table.querySelectorAll('th[data-sort]').forEach(el => {
-        const th = el as HTMLElement;
-        const key = th.dataset.sort;
-        th.classList.toggle('th-sorted', key === col);
-        th.classList.toggle('th-sorted-desc', key === col && dir === 'desc');
-      });
-    }
+		function refresh() {
+			table.querySelectorAll("th[data-sort]").forEach((el) => {
+				const th = el as HTMLElement;
+				const key = th.dataset.sort;
+				th.classList.toggle("th-sorted", key === col);
+				th.classList.toggle("th-sorted-desc", key === col && dir === "desc");
+			});
+		}
 
-    function sort() {
-      const rows = [...tbody.querySelectorAll('tr')] as HTMLElement[];
-      rows.sort((a, b) => {
-        const av = a.dataset[col] ?? '';
-        const bv = b.dataset[col] ?? '';
-        if (numCols.has(col)) {
-          const na = numVal(av), nb = numVal(bv);
-          // Infinity (null) always last, regardless of direction
-          if (na === Infinity && nb === Infinity) return 0;
-          if (na === Infinity) return 1;
-          if (nb === Infinity) return -1;
-          return dir === 'asc' ? na - nb : nb - na;
-        }
-        return dir === 'asc' ? av.localeCompare(bv) : bv.localeCompare(av);
-      });
-      rows.forEach(r => tbody.appendChild(r));
-      refresh();
-    }
+		function sort() {
+			const rows = [...tbody.querySelectorAll("tr")] as HTMLElement[];
+			rows.sort((a, b) => {
+				const av = a.dataset[col] ?? "";
+				const bv = b.dataset[col] ?? "";
+				if (numCols.has(col)) {
+					const na = numVal(av),
+						nb = numVal(bv);
+					// Infinity (null) always last, regardless of direction
+					if (na === Infinity && nb === Infinity) return 0;
+					if (na === Infinity) return 1;
+					if (nb === Infinity) return -1;
+					return dir === "asc" ? na - nb : nb - na;
+				}
+				return dir === "asc" ? av.localeCompare(bv) : bv.localeCompare(av);
+			});
+			rows.forEach((r) => tbody.appendChild(r));
+			refresh();
+		}
 
-    table.querySelectorAll('th[data-sort]').forEach(el =>
-      el.addEventListener('click', () => {
-        const next = (el as HTMLElement).dataset.sort ?? '';
-        if (col === next) dir = dir === 'asc' ? 'desc' : 'asc';
-        else { col = next; dir = defaults[next] ?? 'asc'; }
-        sort();
-      })
-    );
+		table.querySelectorAll("th[data-sort]").forEach((el) =>
+			el.addEventListener("click", () => {
+				const next = (el as HTMLElement).dataset.sort ?? "";
+				if (col === next) dir = dir === "asc" ? "desc" : "asc";
+				else {
+					col = next;
+					dir = defaults[next] ?? "asc";
+				}
+				sort();
+			}),
+		);
 
-    refresh(); // show initial indicator without re-sorting
-  }
+		refresh(); // show initial indicator without re-sorting
+	}
 </script>

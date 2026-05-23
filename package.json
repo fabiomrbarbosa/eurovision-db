@@ -10,7 +10,8 @@
     "fetch:data:junior": "npx tsx scripts/fetch-all.ts --type junior",
     "fetch:data:contestants": "npx tsx scripts/fetch-all.ts --contestants",
     "fetch:year": "npx tsx scripts/fetch-all.ts --year",
-    "sync:data": "rm -rf public/data && ln -s ../src/data public/data"
+    "sync:data": "rm -rf public/data && ln -s ../src/data public/data",
+    "fetch:logos": "npx tsx scripts/fetch-logos.ts"
   },
   "dependencies": {
     "@astrojs/svelte": "^8.1.1",

@@ -164,6 +164,7 @@
   /* ── Selector ───────────────────────────────────────────────── */
   .selector {
     background: var(--c-surface);
+		overflow-y: scroll;
   }
   .selector-row {
     display: flex;
@@ -182,8 +183,8 @@
     transition: background 0.1s;
   }
   .selector-row:last-child { border-bottom: none; }
-  .selector-row:hover { background: #1e1e1e; }
-  .selector-row.active { background: #1a1608; border-left: 2px solid var(--c-gold); }
+  .selector-row:hover { background: var(--c-hover); }
+  .selector-row.active { background: var(--c-surface-gold); border-left: 2px solid var(--c-gold); }
 
   .sel-place { width: 1.8rem; flex-shrink: 0; font-size: 0.78rem; }
   .sel-name { flex: 1; }

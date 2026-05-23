@@ -1,101 +1,106 @@
 ---
-import '../styles/global.css';
+import "../styles/global.css";
 
 interface Props {
-  title: string;
-  description?: string;
+	title: string;
+	description?: string;
 }
 
 const {
-  title,
-  description = 'Eurovision Song Contest archive — every contest, every song, every vote.',
+	title,
+	description = "Eurovision Song Contest database — every contest, every song, every vote.",
 } = Astro.props;
 ---
 
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>{title} · Eurovision Archive</title>
-    <meta name="description" content={description} />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-  </head>
-  <body>
-    <header class="site-header">
-      <nav class="container nav-inner">
-        <a href="/" class="nav-logo mono gold">ESC</a>
-        <ul class="nav-links">
-          <li><a href="/contests">Contests</a></li>
-          <li><a href="/countries">Countries</a></li>
-        </ul>
-      </nav>
-    </header>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>{title} · Eurovision Database</title>
+		<meta name="description" content={description} />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+	</head>
+	<body>
+		<header class="site-header">
+			<nav class="container nav-inner">
+				<a href="/" class="nav-logo mono gold">🤍 ESC DB</a>
+				<ul class="nav-links">
+					<li><a href="/contests">Contests</a></li>
+					<li><a href="/countries">Countries</a></li>
+				</ul>
+			</nav>
+		</header>
 
-    <main>
-      <slot />
-    </main>
+		<main>
+			<slot />
+		</main>
 
-    <footer class="site-footer">
-      <div class="container footer-inner">
-        <span class="mono muted">Eurovision Archive</span>
-        <span class="muted">
-          Data via <a href="https://eurovisionapi.runasp.net" target="_blank" rel="noopener">EurovisionAPI</a>
-        </span>
-      </div>
-    </footer>
-  </body>
+		<footer class="site-footer">
+			<div class="container footer-inner">
+				<span class="mono muted">Eurovision Database</span>
+				<span class="muted">
+					Data via <a
+						href="https://eurovisionapi.runasp.net"
+						target="_blank"
+						rel="noopener">EurovisionAPI</a
+					>
+				</span>
+			</div>
+		</footer>
+	</body>
 </html>
 
 <style>
-  /* ── Header ─────────────────────────────────────────────────── */
-  .site-header {
-    border-bottom: 1px solid var(--c-border);
-    position: sticky;
-    top: 0;
-    z-index: 10;
-    background: var(--c-bg);
-  }
-  .nav-inner {
-    display: flex;
-    align-items: center;
-    gap: 2rem;
-    padding-block: 1rem;
-  }
-  .nav-logo {
-    font-size: 1rem;
-    font-weight: 500;
-    letter-spacing: 0.1em;
-    text-decoration: none;
-  }
-  .nav-links {
-    display: flex;
-    list-style: none;
-    gap: 1.5rem;
-  }
-  .nav-links a {
-    color: var(--c-muted);
-    font-size: 0.875rem;
-    font-weight: 500;
-    transition: color 0.12s;
-  }
-  .nav-links a:hover {
-    color: var(--c-text);
-    text-decoration: none;
-  }
+	/* ── Header ─────────────────────────────────────────────────── */
+	.site-header {
+		border-bottom: 1px solid var(--c-border);
+		position: sticky;
+		top: 0;
+		z-index: 10;
+		background: var(--c-bg);
+	}
+	.nav-inner {
+		display: flex;
+		align-items: center;
+		gap: 2rem;
+		padding-block: 1rem;
+	}
+	.nav-logo {
+		font-size: 1rem;
+		font-weight: 500;
+		letter-spacing: 0.1em;
+		text-decoration: none;
+		color: var(--c-link);
+	}
+	.nav-links {
+		display: flex;
+		list-style: none;
+		gap: 1.5rem;
+	}
+	.nav-links a {
+		color: var(--c-muted);
+		font-size: 0.875rem;
+		font-weight: 500;
+		transition: color 0.12s;
+	}
+	.nav-links a:hover {
+		color: var(--c-text);
+		text-decoration: none;
+	}
 
-  /* ── Footer ─────────────────────────────────────────────────── */
-  .site-footer {
-    border-top: 1px solid var(--c-border);
-    margin-top: 4rem;
-  }
-  .footer-inner {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding-block: 1.5rem;
-    font-size: 0.8rem;
-    gap: 1rem;
-    flex-wrap: wrap;
-  }
+	/* ── Footer ─────────────────────────────────────────────────── */
+	.site-footer {
+		border-top: 1px solid var(--c-border);
+		margin-top: 4rem;
+	}
+	.footer-inner {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		padding-block: 1.5rem;
+		font-size: 0.8rem;
+		gap: 1rem;
+		flex-wrap: wrap;
+	}
 </style>

@@ -1,4 +1,5 @@
 <script lang="ts">
+  import { untrack } from 'svelte';
   import ScoreBreakdown from './ScoreBreakdown.svelte';
   import { countryFlag } from '../lib/utils.ts';
 
@@ -52,8 +53,8 @@
   } = $props();
 
   // ── Tab state ────────────────────────────────────────────────
-  const tabs = [...semiRounds.map(r => r.label), 'Grand Final'];
-  let activeIdx = $state(semiRounds.length); // default to Grand Final
+  const tabs = $derived([...semiRounds.map(r => r.label), 'Grand Final']);
+  let activeIdx = $state(untrack(() => semiRounds.length)); // default to Grand Final
   const isGrandFinal = $derived(activeIdx === semiRounds.length);
 
   // ── Sort state ───────────────────────────────────────────────
@@ -361,12 +362,12 @@
   .song-cell em { color: var(--c-muted); }
 
   /* Grand Final winner row */
-  .row--winner td { background: #1a1608; }
-  .row--winner:hover td { background: #201c0a; }
+  .row--winner td { background: var(--c-surface-gold); }
+  .row--winner:hover td { background: var(--c-surface-gold-hover); }
 
   /* Semi qualified row */
-  .row-q td { background: #0f130e; }
-  .row-q:hover td { background: #141a12; }
+  .row-q td { background: var(--c-surface-green); }
+  .row-q:hover td { background: var(--c-surface-green-hover); }
 
   /* ── Sortable headers ───────────────────────────────────────── */
   .th-sort { cursor: pointer; user-select: none; }
@@ -380,7 +381,7 @@
     font-family: var(--f-mono);
     font-size: 0.68rem;
     font-weight: 500;
-    color: #6abf69;
+    color: var(--c-green);
     letter-spacing: 0.05em;
   }
   .pts-gold { color: var(--c-gold); font-weight: 500; }
@@ -388,7 +389,7 @@
 
   /* ── Links ──────────────────────────────────────────────────── */
   .country-link { font-weight: 500; color: var(--c-text); }
-  .country-link:hover { color: var(--c-gold); text-decoration: none; }
+  .country-link:hover { color: var(--c-link); text-decoration: none; }
   .flag { font-family: sans-serif; margin-right: 0.3em; }
 
   /* ── Breakdown ──────────────────────────────────────────────── */

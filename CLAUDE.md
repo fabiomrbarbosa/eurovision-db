@@ -1,4 +1,4 @@
-# Eurovision Archive — Project Brief for Claude Code
+# Eurovision Database — Project Brief for Claude Code
 
 This file is the persistent memory and briefing for AI-assisted development.
 Read it at the start of every session before touching any code.
@@ -13,6 +13,8 @@ including jury/televote breakdown. Browse a country's full participation history
 
 **Stack:** Astro 4 (static output) + Svelte 5 (interactive islands) + TypeScript.
 No backend. No database. Data lives as local JSON files fetched at build time.
+
+**Senior ESC only** — no Junior ESC routes or data folders needed.
 
 ---
 
@@ -53,10 +55,13 @@ eurovision-app/
 ├── tsconfig.json
 ├── CLAUDE.md                        ← you are here
 ├── scripts/
-│   └── fetch-all.ts                 ← build-time data fetch script
+│   ├── fetch-all.ts                 ← build-time data fetch script
+│   └── fetch-logos.ts               ← downloads contest logos to public/images/logos/
 ├── public/
-│   └── data/                        ← must be populated for Search to work in browser
-│       └── README.md                ← setup instructions (symlink or copy from src/data/)
+│   ├── favicon.svg                  ← 💙 emoji SVG favicon
+│   ├── images/
+│   │   └── logos/                   ← offline contest logos: {year}.png
+│   └── data/                        ← symlink → ../src/data (Search runtime access)
 └── src/
     ├── data/                        ← server-side JSON (read by Astro at build time)
     │   ├── countries.json
@@ -114,26 +119,44 @@ Recommended: add to `scripts/fetch-all.ts` or `package.json`:
 
 ## Design system
 
-Aesthetic: **editorial / archival** — dark ground, restrained gold accent,
-generous whitespace. Inspired by museum catalogues and score notation.
+Aesthetic: **editorial / archival** — deep navy ground, gold winner accent,
+cyan links, generous whitespace. Inspired by museum catalogues and score notation.
 
 ```
---c-bg:       #0d0d0d      dark background
---c-surface:  #161616      cards, tables
---c-border:   #2a2a2a      all dividers
---c-text:     #e8e8e8      body text
---c-muted:    #666666      secondary text, labels
---c-gold:     #c9a84c      accent — winners, active state, year links
---c-gold-dim: #8a6f2e      borders of gold-accented elements
+/* Base neutrals (all derived by fixed RGB deltas from --c-bg) */
+--c-bg:                #030514   deep navy-black background
+--c-surface:           #0A0E28   cards, tables
+--c-border:            #1B234B   all dividers
+--c-text:              #e8e8e8   body text
+--c-muted:             #6070A8   secondary text, labels
+--c-hover:             #11143D   row/card hover
 
---f-display:  Playfair Display   → headings (h1–h4)
---f-body:     Inter              → body prose
---f-mono:     IBM Plex Mono      → scores, codes, year numbers, labels
+/* Semantic surface tints */
+--c-surface-gold:      #1B131B   winner row bg
+--c-surface-gold-hover:#221B33   winner row hover
+--c-surface-green:     #0A171D   qualified row bg
+--c-surface-green-hover:#101E25  qualified row hover
+
+/* Accent palette */
+--c-gold:              #c9a84c   winner highlights, badges, active states
+--c-gold-dim:          #8a6f2e   borders of gold elements
+--c-green:             #6abf69   qualified badge text
+--c-cyan:              #4daad5   raw cyan hue
+--c-link:    var(--c-cyan)       all hyperlinks (change --c-cyan to retheme links)
+
+--f-display:  DM Serif Display  → headings (h1–h4)
+--f-body:     Inter             → body prose
+--f-mono:     IBM Plex Mono     → scores, codes, year numbers, labels
 ```
 
-Rule: scores and year numbers always use `--f-mono`. Section labels use
-`font-family: var(--f-mono); text-transform: uppercase; letter-spacing: 0.1em`
-at small size — never use bold headings for these.
+**Token rules:**
+
+- Never hardcode hex values in component or page styles — always use a token.
+- `--c-link` is the single source of truth for hyperlink colour; it aliases `--c-cyan`.
+- `--c-gold` is reserved for winner/score semantics. Navigation links use `--c-link`.
+- Scores and year numbers always use `--f-mono`. Section labels use
+  `font-family: var(--f-mono); text-transform: uppercase; letter-spacing: 0.1em`
+  at small size — never bold headings for these.
 
 ---
 
@@ -165,13 +188,15 @@ npm install
 # Fetch all senior data (run once, or after each contest)
 npm run fetch:data
 
-# Fetch junior data
-npm run fetch:data:junior
-
 # Fetch contestant detail (lyrics, BPM, jury names — large, optional)
 npm run fetch:data:contestants
 
-# Gap-fill a single year
+# Download all contest logos to public/images/logos/{year}.png (safe to re-run)
+npm run fetch:logos
+
+# Gap-fill a single year — WARNING: clobbers years.json, contests.json, index.json
+# with only that year's data. Back up src/data/contests/{year}.json first,
+# and prefer npm run fetch:data (full run) when possible.
 npm run fetch:year -- 2026
 
 # Recreate public/data symlink (if broken)
@@ -213,6 +238,10 @@ npm run build
   totals; per-country vote breakdowns pending official API update; semi running order
   not yet available (shows `—`)
 - `public/data` — symlink `public/data → ../src/data`; `npm run sync:data` recreates it
+- `public/favicon.svg` — 💙 emoji SVG favicon
+- `public/images/logos/{year}.png` — offline contest logos; `npm run fetch:logos` downloads all
+- Contest logo `<img>` on `[year].astro` uses local `/images/logos/{year}.png` (not GitHub URL)
+- `scripts/fetch-logos.ts` — downloads logos from EurovisionAPI GitHub dataset; skips existing files
 
 ### 🔲 Still to build
 - Contestant detail page: `/contest/{year}/contestant/{id}` (lyrics, BPM, jury)
@@ -250,4 +279,4 @@ npm run build
 
 ---
 
-*Last updated: 2026-05-23.*
+*Last updated: 2026-05-24.*
