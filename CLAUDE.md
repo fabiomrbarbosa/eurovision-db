@@ -144,9 +144,9 @@ official Eurovision website and museum catalogues.
 --c-magenta:           #de3268   nav logo, CTA links
 --c-link:    var(--c-cyan)       all hyperlinks (change --c-cyan to retheme links)
 
---f-display:  DM Serif Display  → headings (h1–h4)
---f-body:     Inter             → body prose
---f-mono:     IBM Plex Mono     → scores, codes, year numbers, labels
+--f-display:  Geist Pixel Circle → headings (h1–h4); self-hosted woff2 from geist npm pkg
+--f-body:     Geist Sans        → body prose; variable woff2, self-hosted
+--f-mono:     Geist Mono        → scores, codes, year numbers, labels; variable woff2, self-hosted
 ```
 
 **Token rules:**
@@ -229,7 +229,8 @@ npm run build
 - `utils.ts` — `countryFlagUrl()` (heart flag image URL from ISO code) + `ordinal()` suffix helper
 - `Base.astro` — layout shell; nav logo in `--c-magenta`
 - `global.css` — design tokens; Eurovision-inspired palette; `.flag` global rule for inline images;
-  content links (td a, p a, footer) have always-visible underlines via `color-mix`
+  content links (td a, p a, footer) have always-visible underlines via `color-mix`;
+  fonts self-hosted via `@font-face` from `/public/fonts/` (Geist Sans, Geist Mono, Geist Pixel Circle)
 - `index.astro` — homepage: hero + recent winners grid; `public/images/emblem.svg` as
   fixed `cover` background watermark at low opacity
 - `contests.astro` — all editions table
@@ -241,7 +242,7 @@ npm run build
   1956 two-songs-per-country correctly; balanced two-line display for fragmented histories
 - `Search.svelte` — live search island (queries /data/index.json and /data/countries.json)
 - `ScoreBreakdown.svelte` — interactive voter detail panel; `WLD` voter shown as
-  "Rest of the World" with no flag
+  "Rest of the World" with its heart flag (`/images/flags/wld.svg`)
 - `ContestTabs.svelte` — unified tab group: SF1 → SF2 → Grand Final (default); all
   columns sortable (sort resets on tab switch); jury/tele columns appear automatically
   when data contains split scores (e.g. 2022, 2026); Run column shows draw/lineup order;
