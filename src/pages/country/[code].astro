@@ -74,18 +74,18 @@ const [yearsLine1, yearsLine2] = splitForDisplay(ranges);
 					<span class="stat-value mono gold">{wins}</span>
 					<span class="stat-label muted">Win{wins !== 1 ? "s" : ""}</span>
 				</div>
-				<div class="stat">
-					<span class="stat-value mono">{appearances}</span>
-					<span class="stat-label muted">Appearances</span>
-				</div>
 				{
-					bestPlace !== Infinity && (
+					wins === 0 && bestPlace !== Infinity && (
 						<div class="stat">
 							<span class="stat-value mono">{bestPlace}{ordinal(bestPlace)}</span>
 							<span class="stat-label muted">Best place</span>
 						</div>
 					)
 				}
+				<div class="stat">
+					<span class="stat-value mono">{appearances}</span>
+					<span class="stat-label muted">Appearances</span>
+				</div>
 				{
 					yearsLine1 && (
 						<div class="stat">

@@ -251,9 +251,10 @@ npm run build
   actual consecutive participation ranges (not a simple A–B span), deduped to handle
   1956 two-songs-per-country correctly; single unbroken range renders at full stat size
   on one line; fragmented histories use smaller two-line display balanced by character count;
-  Best place rendered as ordinal (1st, 2nd…); Final column shows `—` (not "DNQ") for
-  contestants who appeared in the final round but have no recorded place (1956);
-  table wrapped in `.table-scroll` for mobile
+  Best place rendered as ordinal (1st, 2nd…) and placed before Appearances;
+  hidden when wins > 0 (1st place is already implied); Final column shows `—`
+  (not "DNQ") for contestants who appeared in the final round but have no recorded
+  place (1956); table wrapped in `.table-scroll` for mobile
 - `Search.svelte` — live search island (queries /data/index.json and /data/countries.json)
 - `ScoreBreakdown.svelte` — interactive voter detail panel; `WLD` voter shown as
   "Rest of the World" with its heart flag (`/images/flags/wld.svg`); "Votes received by"
@@ -319,4 +320,4 @@ npm run build
 
 ---
 
-*Last updated: 2026-05-24 (session 2).*
+*Last updated: 2026-05-24 (session 3).*
