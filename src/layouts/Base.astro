@@ -1,5 +1,6 @@
 ---
 import "../styles/global.css";
+import SearchModal from "../components/SearchModal.svelte";
 
 interface Props {
 	title: string;
@@ -29,6 +30,9 @@ const {
 					<li><a href="/contests">Contests</a></li>
 					<li><a href="/countries">Countries</a></li>
 				</ul>
+				<div class="nav-search">
+					<SearchModal client:load />
+				</div>
 			</nav>
 		</header>
 
@@ -90,6 +94,9 @@ const {
 	.nav-links a:hover {
 		color: var(--c-text);
 		text-decoration: none;
+	}
+	.nav-search {
+		margin-left: auto;
 	}
 
 	/* ── Footer ─────────────────────────────────────────────────── */
