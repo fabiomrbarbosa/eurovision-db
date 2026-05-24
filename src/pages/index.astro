@@ -51,8 +51,10 @@ const hasData = recentWinners.length > 0;
 <Base title="Eurovision Database">
 	<div class="emblem-bg" aria-hidden="true"></div>
 	<section class="hero container">
-		<p class="hero-eyebrow mono gold">Every contest, every song, every vote.</p>
-		<h1>Eurovision<br />Song Contest<br />Database</h1>
+		<p class="hero-eyebrow mono">Every contest, every song, every vote.</p>
+		<h1>
+			<span class="sans">Eurovision<br />Song Contest</span><br />Database
+		</h1>
 		<p class="hero-sub">Search 70 years of Eurovision history.</p>
 
 		<div class="search-wrapper">
@@ -124,6 +126,7 @@ const hasData = recentWinners.length > 0;
 		letter-spacing: 0.15em;
 		margin-bottom: 1rem;
 		text-transform: uppercase;
+		color: var(--c-cyan);
 	}
 	.hero h1 {
 		font-size: clamp(3rem, 8vw, 6rem);
@@ -162,10 +165,10 @@ const hasData = recentWinners.length > 0;
 	.winners-grid {
 		display: grid;
 		grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-		gap: 1px;
-		background: var(--c-border);
-		border: 1px solid var(--c-border);
+		border-top: 1px solid var(--c-border);
+		border-left: 1px solid var(--c-border);
 		border-radius: var(--radius);
+		background: rgba(0, 0, 0, 0.5);
 		overflow: hidden;
 		margin-bottom: 2rem;
 	}
@@ -174,7 +177,8 @@ const hasData = recentWinners.length > 0;
 		flex-direction: column;
 		gap: 0.3rem;
 		padding: 1.25rem 1.5rem;
-		background: var(--c-surface);
+		border-right: 1px solid var(--c-border);
+		border-bottom: 1px solid var(--c-border);
 		color: var(--c-text);
 		transition: background 0.12s;
 		text-decoration: none;
@@ -220,8 +224,9 @@ const hasData = recentWinners.length > 0;
 		inset: 0;
 		background: url("/images/emblem.svg") no-repeat center center;
 		background-size: cover;
-		opacity: 0.1;
+		opacity: 1;
 		pointer-events: none;
+		mix-blend-mode: overlay;
 		z-index: -1;
 	}
 

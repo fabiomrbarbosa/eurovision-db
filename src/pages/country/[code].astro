@@ -40,7 +40,12 @@ function computeRanges(years: number[]): string[] {
 }
 
 function splitForDisplay(ranges: string[]): [string, string] {
-	if (ranges.length <= 1) return [ranges[0] ?? '', ''];
+	if (ranges.length === 0) return ['', ''];
+	if (ranges.length === 1) {
+		const parts = ranges[0].split('–');
+		if (parts.length === 1) return [parts[0], ''];
+		return [parts[0] + '–', parts[1]];
+	}
 	const total = ranges.reduce((sum, r) => sum + r.length, 0) + (ranges.length - 1) * 2;
 	const half = total / 2;
 	let cum = 0, best = 1, bestDiff = Infinity;

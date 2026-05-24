@@ -85,7 +85,7 @@
   <div class="panel">
     {#if selected && selectedRow}
       <div class="panel-header">
-        <p class="mono gold" style="font-size:0.72rem;text-transform:uppercase;letter-spacing:0.1em">
+        <p class="mono cyan" style="font-size:0.72rem;text-transform:uppercase;letter-spacing:0.1em">
           Votes received by
         </p>
         <h3><img class="flag" src={countryFlagUrl(selectedRow.country)} alt="" /> {selectedRow.countryName}</h3>
@@ -156,7 +156,7 @@
     display: grid;
     grid-template-columns: 260px 1fr;
     gap: 1px;
-    background: var(--c-border);
+    background:rgba(0,0,0,0.5);
     border: 1px solid var(--c-border);
     border-radius: var(--radius);
     overflow: hidden;
@@ -195,7 +195,6 @@
 
   /* ── Panel ──────────────────────────────────────────────────── */
   .panel {
-    background: var(--c-bg);
     overflow-y: auto;
   }
   .panel-header {

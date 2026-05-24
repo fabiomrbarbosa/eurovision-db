@@ -36,7 +36,7 @@ const countryList = Object.entries(statsMap)
 		name: countries[code] ?? code,
 		...stats,
 	}))
-	.sort((a, b) => b.wins - a.wins || b.appearances - a.appearances);
+	.sort((a, b) => a.name.localeCompare(b.name));
 ---
 
 <Base title="Countries">
@@ -151,7 +151,7 @@ const countryList = Object.entries(statsMap)
   const table = document.querySelector('.countries-table') as HTMLTableElement | null;
   if (table) {
     const tbody = table.querySelector('tbody') as HTMLTableSectionElement;
-    let col = 'wins', dir = 'desc';
+    let col = 'name', dir = 'asc';
     const numCols = new Set(['wins', 'appearances', 'last']);
     const defaults: Record<string, string> = { name: 'asc', wins: 'desc', appearances: 'desc', last: 'desc' };
 

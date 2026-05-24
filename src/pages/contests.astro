@@ -33,17 +33,23 @@ const contests = getContestIndex()
     <table class="contest-table">
       <thead>
         <tr>
-          <th>Year</th>
-          <th>Host</th>
-          <th>Winner</th>
-          <th>Song</th>
-          <th class="right">Points</th>
-          <th class="right">Entries</th>
+          <th data-sort="year">Year</th>
+          <th data-sort="host">Host</th>
+          <th data-sort="winner">Winner</th>
+          <th>Winning song</th>
+          <th class="right" data-sort="score">Winning score</th>
+          <th class="right" data-sort="entries">Entries</th>
         </tr>
       </thead>
       <tbody>
         {contests.map(c => (
-          <tr>
+          <tr
+            data-year={c.year}
+            data-host={c.country}
+            data-winner={c.winner?.countryName ?? ''}
+            data-score={c.winner?.points ?? 0}
+            data-entries={c.contestantCount}
+          >
             <td>
               <a href={`/contest/${c.year}`} class="year-link mono">
                 {c.year}
@@ -110,6 +116,11 @@ const contests = getContestIndex()
     border-bottom: 1px solid var(--c-border);
   }
   .contest-table th.right { text-align: right; }
+  .contest-table th[data-sort] { cursor: pointer; user-select: none; }
+  .contest-table th[data-sort]:hover { color: var(--c-text); }
+  .contest-table th.th-sorted { color: var(--c-gold); }
+  .contest-table th.th-sorted::after { content: ' ↑'; }
+  .contest-table th.th-sorted.th-sorted-desc::after { content: ' ↓'; }
 
   .contest-table td {
     padding: 0.7rem 1rem;
@@ -130,3 +141,47 @@ const contests = getContestIndex()
   .song-cell em { color: var(--c-muted); font-style: italic; }
   .flag { margin-right: 0.35em; }
 </style>
+
+<script>
+  const table = document.querySelector('.contest-table') as HTMLTableElement | null;
+  if (table) {
+    const tbody = table.querySelector('tbody') as HTMLTableSectionElement;
+    let col = 'year', dir = 'desc';
+    const numCols = new Set(['year', 'score', 'entries']);
+    const defaults: Record<string, string> = { year: 'desc', host: 'asc', winner: 'asc', score: 'desc', entries: 'desc' };
+
+    function refresh() {
+      table!.querySelectorAll('th[data-sort]').forEach(el => {
+        const th = el as HTMLElement;
+        const key = th.dataset.sort;
+        th.classList.toggle('th-sorted', key === col);
+        th.classList.toggle('th-sorted-desc', key === col && dir === 'desc');
+      });
+    }
+
+    function sort() {
+      const rows = [...tbody.querySelectorAll('tr')] as HTMLElement[];
+      rows.sort((a, b) => {
+        const av = a.dataset[col] ?? '';
+        const bv = b.dataset[col] ?? '';
+        const raw = numCols.has(col)
+          ? Number(av) - Number(bv)
+          : av.localeCompare(bv);
+        return dir === 'asc' ? raw : -raw;
+      });
+      rows.forEach(r => tbody.appendChild(r));
+      refresh();
+    }
+
+    table.querySelectorAll('th[data-sort]').forEach(el =>
+      el.addEventListener('click', () => {
+        const next = (el as HTMLElement).dataset.sort ?? '';
+        if (col === next) dir = dir === 'asc' ? 'desc' : 'asc';
+        else { col = next; dir = defaults[next] ?? 'desc'; }
+        sort();
+      })
+    );
+
+    refresh();
+  }
+</script>

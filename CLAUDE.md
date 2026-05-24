@@ -141,7 +141,7 @@ official Eurovision website and museum catalogues.
 --c-gold-dim:          #9a7018   borders of gold elements
 --c-green:             #6abf69   qualified badge text
 --c-cyan:              #00d4ff   raw cyan hue
---c-magenta:           #de3268   nav logo, CTA links
+--c-magenta:           #fd2494   nav logo, CTA links
 --c-link:    var(--c-cyan)       all hyperlinks (change --c-cyan to retheme links)
 
 --f-display:  Geist Pixel Circle → headings (h1–h4); self-hosted woff2 from geist npm pkg
@@ -227,22 +227,30 @@ npm run build
 - `data.ts` — server-side read helpers; `CountryAppearance` includes `finalRunning`,
   `finalPlace`, `finalPoints`, `cancelled`; `getCountryName()` maps `WLD` → "Rest of the World"
 - `utils.ts` — `countryFlagUrl()` (heart flag image URL from ISO code) + `ordinal()` suffix helper
-- `Base.astro` — layout shell; nav logo in `--c-magenta`
+- `Base.astro` — layout shell; nav logo "🩷 Eurovision DB" in `--c-magenta`
 - `global.css` — design tokens; Eurovision-inspired palette; `.flag` global rule for inline images;
   content links (td a, p a, footer) have always-visible underlines via `color-mix`;
-  fonts self-hosted via `@font-face` from `/public/fonts/` (Geist Sans, Geist Mono, Geist Pixel Circle)
-- `index.astro` — homepage: hero + recent winners grid; `public/images/emblem.svg` as
-  fixed `cover` background watermark at `opacity: 0.1`; emblem fill is `#3065F5` (Eurovision blue)
-- `contests.astro` — all editions table
-- `countries.astro` — country listing with win/appearance stats; all columns sortable
-- `contest/[year].astro` — full contest page: unified round tab group via ContestTabs
+  fonts self-hosted via `@font-face` from `/public/fonts/` (Geist Sans, Geist Mono, Geist Pixel Circle);
+  ambient background spheres via `body::before` (cyan, top-right) and `body::after` (magenta, bottom-left)
+  using `radial-gradient` + `color-mix` at 10% intensity, `position: fixed; z-index: -1`
+- `index.astro` — homepage: hero + recent winners grid; winner cards separated by real CSS borders
+  (top+left on container, right+bottom on each card — no gap/background hack); `public/images/emblem.svg`
+  as fixed watermark with `mix-blend-mode: overlay`; emblem fill is `#3065F5` (Eurovision blue)
+- `contests.astro` — all editions table; columns: Year, Host, Winner, Winning song, Winning score,
+  Entries; sortable by Year (default desc), Host country, Winner country, Winning score, Entries
+- `countries.astro` — country listing with win/appearance stats; all columns sortable;
+  default sort: alphabetical by country name
+- `contest/[year].astro` — full contest page: unified round tab group via ContestTabs;
+  contest logo capped at `max-height: 175px; max-width: 240px` with `height: auto; width: auto`
 - `country/[code].astro` — country history; sortable columns; "Cancelled" badge for 2020;
   Run column shows grand final draw number (null for DNQ); "Active years" stat shows
   actual consecutive participation ranges (not a simple A–B span), deduped to handle
-  1956 two-songs-per-country correctly; balanced two-line display for fragmented histories
+  1956 two-songs-per-country correctly; single range splits to two lines with hyphen on
+  first line (e.g. "2015–" / "2026"); balanced two-line display for fragmented histories
 - `Search.svelte` — live search island (queries /data/index.json and /data/countries.json)
 - `ScoreBreakdown.svelte` — interactive voter detail panel; `WLD` voter shown as
-  "Rest of the World" with its heart flag (`/images/flags/wld.svg`)
+  "Rest of the World" with its heart flag (`/images/flags/wld.svg`); "Votes received by"
+  label uses `--c-cyan`
 - `ContestTabs.svelte` — unified tab group: SF1 → SF2 → Grand Final (default); all
   columns sortable (sort resets on tab switch); jury/tele columns appear automatically
   when data contains split scores (e.g. 2022, 2026); Run column shows draw/lineup order;
