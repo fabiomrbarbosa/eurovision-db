@@ -58,24 +58,27 @@ function splitForDisplay(ranges: string[]): [string, string] {
 }
 
 const ranges = computeRanges(history.map((h) => h.year));
-const singleRange = ranges.length === 1;
+// Count individual 4-digit year numbers visible: "1956–1965" → 2, "1956" → 1
+const yearNumberCount = ranges.reduce((sum, r) => sum + r.split('–').length, 0);
+const oneLiner = yearNumberCount <= 5;
 const [yearsLine1, yearsLine2] = splitForDisplay(ranges);
 ---
 
 <Base
 	title={countryName}
-	description={`${countryName} at the Eurovision Song Contest — ${appearances} appearances, ${wins} wins.`}
+	description={`${countryName} at the Eurovision Song Contest — ${appearances} appearances${wins > 0 ? `, ${wins} win${wins !== 1 ? 's' : ''}` : bestPlace !== Infinity ? `, best place ${bestPlace}${ordinal(bestPlace)}` : ''}.`}
 >
 	<div class="container">
 		<header class="country-header">
 			<h1><img class="flag" src={countryFlagUrl(code)} alt="" />{countryName}</h1>
 			<div class="stats-row">
-				<div class="stat">
-					<span class="stat-value mono gold">{wins}</span>
-					<span class="stat-label muted">Win{wins !== 1 ? "s" : ""}</span>
-				</div>
 				{
-					wins === 0 && bestPlace !== Infinity && (
+					wins > 0 ? (
+						<div class="stat">
+							<span class="stat-value mono gold">{wins}</span>
+							<span class="stat-label muted">Win{wins !== 1 ? "s" : ""}</span>
+						</div>
+					) : bestPlace !== Infinity && (
 						<div class="stat">
 							<span class="stat-value mono">{bestPlace}{ordinal(bestPlace)}</span>
 							<span class="stat-label muted">Best place</span>
@@ -89,8 +92,8 @@ const [yearsLine1, yearsLine2] = splitForDisplay(ranges);
 				{
 					yearsLine1 && (
 						<div class="stat">
-							<span class:list={["stat-value mono", !singleRange && "years-value"]}>
-								{singleRange ? ranges[0] : <>{yearsLine1}{yearsLine2 && <><br />{yearsLine2}</>}</>}
+							<span class:list={["stat-value mono", !oneLiner && "years-value"]}>
+								{oneLiner ? ranges.join(', ') : <>{yearsLine1}{yearsLine2 && <>,<br />{yearsLine2}</>}</>}
 							</span>
 							<span class="stat-label muted">Active years</span>
 						</div>

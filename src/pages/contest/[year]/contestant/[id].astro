@@ -1,25 +1,36 @@
 ---
 // src/pages/contest/[year]/contestant/[id].astro
-import Base from '../../../../layouts/Base.astro';
-import LyricsTabs from '../../../../components/LyricsTabs.svelte';
-import { getYears, getContest, getContestantDetail, getCountryName, getCountries } from '../../../../lib/data.ts';
-import { countryFlagUrl, ordinal } from '../../../../lib/utils.ts';
-import { existsSync } from 'fs';
-import { join } from 'path';
+import Base from "../../../../layouts/Base.astro";
+import LyricsTabs from "../../../../components/LyricsTabs.svelte";
+import {
+	getYears,
+	getContest,
+	getContestantDetail,
+	getCountryName,
+	getCountries,
+} from "../../../../lib/data.ts";
+import { countryFlagUrl, ordinal } from "../../../../lib/utils.ts";
+import { existsSync } from "fs";
+import { join } from "path";
 
 export function getStaticPaths() {
-  const years = getYears();
-  const paths: { params: { year: string; id: string } }[] = [];
-  for (const year of years) {
-    const contest = getContest(year);
-    for (const c of contest.contestants) {
-      const filePath = join(process.cwd(), 'src/data/contestants', String(year), `${c.id}.json`);
-      if (existsSync(filePath)) {
-        paths.push({ params: { year: String(year), id: String(c.id) } });
-      }
-    }
-  }
-  return paths;
+	const years = getYears();
+	const paths: { params: { year: string; id: string } }[] = [];
+	for (const year of years) {
+		const contest = getContest(year);
+		for (const c of contest.contestants) {
+			const filePath = join(
+				process.cwd(),
+				"src/data/contestants",
+				String(year),
+				`${c.id}.json`,
+			);
+			if (existsSync(filePath)) {
+				paths.push({ params: { year: String(year), id: String(c.id) } });
+			}
+		}
+	}
+	return paths;
 }
 
 const { year: yearParam, id: idParam } = Astro.params;
@@ -34,36 +45,61 @@ const countryName = getCountryName(detail.country, countries);
 
 // Gather performances across all rounds
 const roundLabelMap: Record<string, string> = {
-  final: 'Grand Final',
-  semifinal: 'Semi-final',
-  semifinal1: 'Semi-final 1',
-  semifinal2: 'Semi-final 2',
+	final: "Grand Final",
+	semifinal: "Semi-final",
+	semifinal1: "Semi-final 1",
+	semifinal2: "Semi-final 2",
 };
-const roundOrder: Record<string, number> = { semifinal: 0, semifinal1: 1, semifinal2: 2, final: 3 };
+const roundOrder: Record<string, number> = {
+	semifinal: 0,
+	semifinal1: 1,
+	semifinal2: 2,
+	final: 3,
+};
 
 const performances = contest.rounds
-  .map(round => {
-    const perf = round.performances?.find(p => p.contestantId === id);
-    if (!perf) return null;
-    const total = perf.scores.find(s => s.name === 'total')?.points ?? null;
-    const jury  = perf.scores.find(s => s.name === 'jury')?.points ?? null;
-    const tele  = perf.scores.find(s => s.name === 'public')?.points ?? null;
-    return { round: round.name, label: roundLabelMap[round.name] ?? round.name, place: perf.place, total, jury, tele };
-  })
-  .filter(Boolean)
-  .sort((a, b) => (roundOrder[a!.round] ?? 0) - (roundOrder[b!.round] ?? 0)) as {
-    round: string; label: string; place: number | null; total: number | null; jury: number | null; tele: number | null;
-  }[];
+	.map((round) => {
+		const perf = round.performances?.find((p) => p.contestantId === id);
+		if (!perf) return null;
+		const total = perf.scores.find((s) => s.name === "total")?.points ?? null;
+		const jury = perf.scores.find((s) => s.name === "jury")?.points ?? null;
+		const tele = perf.scores.find((s) => s.name === "public")?.points ?? null;
+		return {
+			round: round.name,
+			label: roundLabelMap[round.name] ?? round.name,
+			place: perf.place,
+			total,
+			jury,
+			tele,
+		};
+	})
+	.filter(Boolean)
+	.sort(
+		(a, b) => (roundOrder[a!.round] ?? 0) - (roundOrder[b!.round] ?? 0),
+	) as {
+	round: string;
+	label: string;
+	place: number | null;
+	total: number | null;
+	jury: number | null;
+	tele: number | null;
+}[];
 
 // API occasionally returns a bare string instead of string[] for single-value fields
 const toArr = (v: string | string[] | null | undefined): string[] =>
-  !v ? [] : Array.isArray(v) ? v : [v];
+	!v ? [] : Array.isArray(v) ? v : [v];
 
-const originalLyrics = detail.lyrics.find(l => l.type === 0);
+const originalLyrics = detail.lyrics.find((l) => l.type === 0);
 const languages = originalLyrics?.languages ?? [];
 
 // Credits: combine writers/composers/lyricists, dedup
-const allWriters = [...new Set([...toArr(detail.writers), ...toArr(detail.composers), ...toArr(detail.lyricists)])];
+const allWriters = [
+	...new Set([
+		...toArr(detail.writers),
+		...toArr(detail.composers),
+		...toArr(detail.lyricists),
+	]),
+];
 const hasJuryTele = year > 2015;
 
 const videoUrl = detail.videoUrls?.[0] ?? null;
@@ -73,355 +109,401 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
 ---
 
 <Base {title} {description}>
-  <div class="container">
+	<div class="container">
+		<!-- Hero -->
+		<header class="contestant-header">
+			<div class="contestant-meta">
+				<div class="contestant-eyebrow">
+					<a href={`/country/${detail.country}`} class="country-link">
+						<img class="flag" src={countryFlagUrl(detail.country)} alt="" />{
+							countryName
+						}
+					</a>
+					<span class="muted">·</span>
+					<a href={`/contest/${year}`} class="edition-link muted"
+						>Eurovision {year}</a
+					>
+				</div>
+				<h1>{detail.artist}</h1>
+				<p class="song-title">"{detail.song}"</p>
+			</div>
 
-    <!-- Back nav -->
-    <nav class="back-nav">
-      <a href={`/contest/${year}`} class="back-link">← ESC {year}</a>
-    </nav>
+			<!-- Performance results -->
+			{
+				performances.length > 0 && (
+					<div class="results-row">
+						{performances.map((p) => (
+							<div class="result-pill">
+								<span class="result-label">{p.label}</span>
+								<span class="result-place mono">
+									{p.place != null ? `${p.place}${ordinal(p.place)}` : "—"}
+								</span>
+								{p.total != null && (
+									<span class="result-pts mono muted">{p.total} pts</span>
+								)}
+								{hasJuryTele && p.jury != null && (
+									<span class="result-split mono muted">
+										J {p.jury} · T {p.tele}
+									</span>
+								)}
+							</div>
+						))}
+					</div>
+				)
+			}
+		</header>
 
-    <!-- Hero -->
-    <header class="contestant-header">
-      <div class="contestant-eyebrow">
-        <a href={`/country/${detail.country}`} class="country-link">
-          <img class="flag" src={countryFlagUrl(detail.country)} alt="" />{countryName}
-        </a>
-        <span class="muted">·</span>
-        <a href={`/contest/${year}`} class="edition-link muted">Eurovision {year}</a>
-      </div>
-      <h1>{detail.artist}</h1>
-      <p class="song-title">"{detail.song}"</p>
+		<div class="contestant-body">
+			<!-- Left column: video + lyrics -->
+			<div class="col-main">
+				{
+					videoUrl && (
+						<section class="section-video">
+							<div class="video-embed">
+								<iframe
+									src={videoUrl}
+									title={`${detail.artist} — ${detail.song}`}
+									allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+									allowfullscreen
+								/>
+							</div>
+						</section>
+					)
+				}
 
-      <!-- Performance results -->
-      {performances.length > 0 && (
-        <div class="results-row">
-          {performances.map(p => (
-            <div class="result-pill">
-              <span class="result-label">{p.label}</span>
-              <span class="result-place mono">
-                {p.place != null ? `${p.place}${ordinal(p.place)}` : '—'}
-              </span>
-              {p.total != null && (
-                <span class="result-pts mono muted">{p.total} pts</span>
-              )}
-              {hasJuryTele && p.jury != null && (
-                <span class="result-split mono muted">J {p.jury} · T {p.tele}</span>
-              )}
-            </div>
-          ))}
-        </div>
-      )}
-    </header>
+				{
+					detail.lyrics.length > 0 && (
+						<section class="section-lyrics">
+							<h2 class="section-heading">Lyrics</h2>
+							<LyricsTabs lyrics={detail.lyrics} client:load />
+						</section>
+					)
+				}
+			</div>
 
-    <div class="contestant-body">
+			<!-- Right column: metadata + credits + broadcast -->
+			<aside class="col-side">
+				<!-- Song metadata -->
+				<section class="side-section">
+					<h2 class="section-heading">Song</h2>
+					<dl class="meta-list">
+						{
+							languages.length > 0 && (
+								<>
+									<dt>Language</dt>
+									<dd>
+										{languages
+											.map((l) => l.charAt(0).toUpperCase() + l.slice(1))
+											.join(", ")}
+									</dd>
+								</>
+							)
+						}
+						{
+							detail.bpm != null && (
+								<>
+									<dt>BPM</dt>
+									<dd class="mono">{detail.bpm}</dd>
+								</>
+							)
+						}
+						{
+							detail.tone && (
+								<>
+									<dt>Key</dt>
+									<dd class="mono">{detail.tone}</dd>
+								</>
+							)
+						}
+						{
+							detail.artistPeople && detail.artistPeople.length > 0 && (
+								<>
+									<dt>
+										{detail.artistPeople.length === 1 ? "Real name" : "Members"}
+									</dt>
+									<dd>{detail.artistPeople.join(", ")}</dd>
+								</>
+							)
+						}
+					</dl>
+				</section>
 
-      <!-- Left column: video + lyrics -->
-      <div class="col-main">
+				<!-- Credits -->
+				{
+					allWriters.length > 0 ||
+					detail.stageDirector ||
+					toArr(detail.backings).length > 0 ||
+					toArr(detail.dancers).length > 0 ||
+					detail.conductor ? (
+						<section class="side-section">
+							<h2 class="section-heading">Credits</h2>
+							<dl class="meta-list">
+								{allWriters.length > 0 && (
+									<>
+										<dt>Written by</dt>
+										<dd>{allWriters.join(", ")}</dd>
+									</>
+								)}
+								{detail.stageDirector && (
+									<>
+										<dt>Stage direction</dt>
+										<dd>{detail.stageDirector}</dd>
+									</>
+								)}
+								{toArr(detail.backings).length > 0 && (
+									<>
+										<dt>Backing vocals</dt>
+										<dd>{toArr(detail.backings).join(", ")}</dd>
+									</>
+								)}
+								{toArr(detail.dancers).length > 0 && (
+									<>
+										<dt>Dancers</dt>
+										<dd>{toArr(detail.dancers).join(", ")}</dd>
+									</>
+								)}
+								{detail.conductor && (
+									<>
+										<dt>Conductor</dt>
+										<dd>{detail.conductor}</dd>
+									</>
+								)}
+							</dl>
+						</section>
+					) : null
+				}
 
-        {videoUrl && (
-          <section class="section-video">
-            <div class="video-embed">
-              <iframe
-                src={videoUrl}
-                title={`${detail.artist} — ${detail.song}`}
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen
-              ></iframe>
-            </div>
-          </section>
-        )}
+				<!-- Broadcasting -->
+				{
+					(detail.broadcaster ||
+						detail.spokesperson ||
+						toArr(detail.commentators).length > 0 ||
+						toArr(detail.jury).length > 0) && (
+						<section class="side-section">
+							<h2 class="section-heading">Broadcast</h2>
+							<dl class="meta-list">
+								{detail.broadcaster && (
+									<>
+										<dt>Broadcaster</dt>
+										<dd>{detail.broadcaster}</dd>
+									</>
+								)}
+								{detail.spokesperson && (
+									<>
+										<dt>Spokesperson</dt>
+										<dd>{detail.spokesperson}</dd>
+									</>
+								)}
+								{toArr(detail.commentators).length > 0 && (
+									<>
+										<dt>Commentators</dt>
+										<dd>{toArr(detail.commentators).join(", ")}</dd>
+									</>
+								)}
+								{toArr(detail.jury).length > 0 && (
+									<>
+										<dt>National jury</dt>
+										<dd>{toArr(detail.jury).join(", ")}</dd>
+									</>
+								)}
+							</dl>
+						</section>
+					)
+				}
+			</aside>
+		</div>
+	</div>
 
-        {detail.lyrics.length > 0 && (
-          <section class="section-lyrics">
-            <h2 class="section-heading">Lyrics</h2>
-            <LyricsTabs lyrics={detail.lyrics} client:load />
-          </section>
-        )}
-      </div>
+	<style>
+		/* ── Header ───────────────────────────────────────────────── */
+		.contestant-header {
+			display: flex;
+			flex-direction: column;
+			justify-content: space-between;
+			gap: 1.5rem;
+			padding-top: 2rem;
+			padding-bottom: 2rem;
+			margin-bottom: 1.5rem;
+			margin-bottom: 2.5rem;
+			border-bottom: 1px solid var(--c-border);
+		}
+		@media (min-width: 900px) {
+			.contestant-header {
+				flex-direction: row;
+			}
+		}
+		.contestant-eyebrow {
+			display: flex;
+			align-items: center;
+			gap: 0.5rem;
+			margin-bottom: 0.75rem;
+			font-size: 0.9rem;
+		}
+		.country-link {
+			display: inline-flex;
+			align-items: center;
+			gap: 0.3em;
+			color: var(--c-text);
+			font-weight: 500;
+		}
+		.country-link:hover {
+			color: var(--c-link);
+			text-decoration: none;
+		}
+		.edition-link {
+			text-decoration: none;
+		}
+		.edition-link:hover {
+			color: var(--c-link);
+		}
 
-      <!-- Right column: metadata + credits + broadcast -->
-      <aside class="col-side">
+		.contestant-header h1 {
+			font-size: clamp(2.5rem, 6vw, 4rem);
+			line-height: 1.05;
+			margin-bottom: 0.3rem;
+		}
+		.song-title {
+			font-size: clamp(1.1rem, 3vw, 1.5rem);
+			font-style: italic;
+			color: var(--c-muted);
+		}
 
-        <!-- Song metadata -->
-        <section class="side-section">
-          <h2 class="section-heading">Song</h2>
-          <dl class="meta-list">
-            {languages.length > 0 && (
-              <>
-                <dt>Language</dt>
-                <dd>{languages.map(l => l.charAt(0).toUpperCase() + l.slice(1)).join(', ')}</dd>
-              </>
-            )}
-            {detail.bpm != null && (
-              <>
-                <dt>BPM</dt>
-                <dd class="mono">{detail.bpm}</dd>
-              </>
-            )}
-            {detail.tone && (
-              <>
-                <dt>Key</dt>
-                <dd class="mono">{detail.tone}</dd>
-              </>
-            )}
-            {detail.artistPeople && detail.artistPeople.length > 0 && (
-              <>
-                <dt>{detail.artistPeople.length === 1 ? 'Real name' : 'Members'}</dt>
-                <dd>{detail.artistPeople.join(', ')}</dd>
-              </>
-            )}
-          </dl>
-        </section>
+		/* ── Results pills ────────────────────────────────────────── */
+		.results-row {
+			display: flex;
+			flex-wrap: wrap;
+			gap: 0.75rem;
+		}
+		.result-pill {
+			display: flex;
+			flex-direction: column;
+			gap: 0.2rem;
+			padding: 0.75rem 1rem;
+			background: rgba(0, 0, 0, 0.5);
+			border: 1px solid var(--c-border);
+			border-radius: 4px;
+			min-width: 9rem;
+		}
+		.result-label {
+			font-family: var(--f-mono);
+			font-size: 0.68rem;
+			text-transform: uppercase;
+			letter-spacing: 0.08em;
+			color: var(--c-muted);
+		}
+		.result-place {
+			font-size: 1.4rem;
+			font-weight: 600;
+			line-height: 1;
+			color: var(--c-text);
+		}
+		.result-pts {
+			font-size: 0.8rem;
+		}
+		.result-split {
+			font-size: 0.75rem;
+		}
 
-        <!-- Credits -->
-        {allWriters.length > 0 || detail.stageDirector || toArr(detail.backings).length > 0 || toArr(detail.dancers).length > 0 || detail.conductor ? (
-          <section class="side-section">
-            <h2 class="section-heading">Credits</h2>
-            <dl class="meta-list">
-              {allWriters.length > 0 && (
-                <>
-                  <dt>Written by</dt>
-                  <dd>{allWriters.join(', ')}</dd>
-                </>
-              )}
-              {detail.stageDirector && (
-                <>
-                  <dt>Stage direction</dt>
-                  <dd>{detail.stageDirector}</dd>
-                </>
-              )}
-              {toArr(detail.backings).length > 0 && (
-                <>
-                  <dt>Backing vocals</dt>
-                  <dd>{toArr(detail.backings).join(', ')}</dd>
-                </>
-              )}
-              {toArr(detail.dancers).length > 0 && (
-                <>
-                  <dt>Dancers</dt>
-                  <dd>{toArr(detail.dancers).join(', ')}</dd>
-                </>
-              )}
-              {detail.conductor && (
-                <>
-                  <dt>Conductor</dt>
-                  <dd>{detail.conductor}</dd>
-                </>
-              )}
-            </dl>
-          </section>
-        ) : null}
+		/* ── Body layout ──────────────────────────────────────────── */
+		.contestant-body {
+			display: grid;
+			grid-template-columns: 1fr;
+			gap: 3rem;
+			padding-bottom: 4rem;
+		}
+		@media (min-width: 900px) {
+			.contestant-body {
+				grid-template-columns: 1fr 22rem;
+				align-items: start;
+			}
+		}
 
-        <!-- Broadcasting -->
-        {(detail.broadcaster || detail.spokesperson || toArr(detail.commentators).length > 0 || toArr(detail.jury).length > 0) && (
-          <section class="side-section">
-            <h2 class="section-heading">Broadcast</h2>
-            <dl class="meta-list">
-              {detail.broadcaster && (
-                <>
-                  <dt>Broadcaster</dt>
-                  <dd>{detail.broadcaster}</dd>
-                </>
-              )}
-              {detail.spokesperson && (
-                <>
-                  <dt>Spokesperson</dt>
-                  <dd>{detail.spokesperson}</dd>
-                </>
-              )}
-              {toArr(detail.commentators).length > 0 && (
-                <>
-                  <dt>Commentators</dt>
-                  <dd>{toArr(detail.commentators).join(', ')}</dd>
-                </>
-              )}
-              {toArr(detail.jury).length > 0 && (
-                <>
-                  <dt>National jury</dt>
-                  <dd>{toArr(detail.jury).join(', ')}</dd>
-                </>
-              )}
-            </dl>
-          </section>
-        )}
+		/* ── Video ────────────────────────────────────────────────── */
+		.section-video {
+			margin-bottom: 2.5rem;
+		}
+		.video-embed {
+			position: relative;
+			padding-bottom: 56.25%;
+			height: 0;
+			overflow: hidden;
+			border-radius: 4px;
+			background: #000;
+		}
+		.video-embed iframe {
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			border: 0;
+		}
 
-      </aside>
-    </div>
+		/* ── Sections ─────────────────────────────────────────────── */
+		.section-lyrics {
+		}
+		.section-heading {
+			font-family: var(--f-mono);
+			font-size: 0.72rem;
+			text-transform: uppercase;
+			letter-spacing: 0.1em;
+			color: var(--c-muted);
+			margin-bottom: 1rem;
+			padding-bottom: 0.5rem;
+			border-bottom: 1px solid var(--c-border);
+		}
 
-  </div>
+		/* ── Lyrics ───────────────────────────────────────────────── */
+		.lyric-block {
+			margin-bottom: 2rem;
+		}
+		.lyric-meta {
+			display: flex;
+			align-items: baseline;
+			gap: 0.75rem;
+			margin-bottom: 1rem;
+		}
+		.lyric-type {
+			font-size: 0.72rem;
+			text-transform: uppercase;
+			letter-spacing: 0.08em;
+			color: var(--c-gold);
+		}
+		.lyric-langs {
+			font-size: 0.8rem;
+		}
+		.lyric-stanza {
+			white-space: pre-line;
+			line-height: 1.75;
+			margin-bottom: 1.25rem;
+			font-size: 0.9rem;
+			color: var(--c-text);
+		}
+
+		/* ── Sidebar sections ─────────────────────────────────────── */
+		.side-section {
+			margin-bottom: 2rem;
+		}
+
+		/* ── Meta list (dt/dd pairs) ──────────────────────────────── */
+		.meta-list {
+			display: grid;
+			grid-template-columns: auto 1fr;
+			gap: 0.4rem 1rem;
+			font-size: 0.875rem;
+		}
+		.meta-list dt {
+			font-family: var(--f-mono);
+			font-size: 0.72rem;
+			text-transform: uppercase;
+			letter-spacing: 0.06em;
+			color: var(--c-muted);
+			padding-top: 0.1em;
+			white-space: nowrap;
+		}
+		.meta-list dd {
+			color: var(--c-text);
+			line-height: 1.5;
+		}
+	</style>
 </Base>
-
-<style>
-  /* ── Back nav ─────────────────────────────────────────────── */
-  .back-nav {
-    padding-top: 2rem;
-    margin-bottom: 1.5rem;
-  }
-  .back-link {
-    font-family: var(--f-mono);
-    font-size: 0.8rem;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-    color: var(--c-muted);
-  }
-  .back-link:hover { color: var(--c-link); }
-
-  /* ── Header ───────────────────────────────────────────────── */
-  .contestant-header {
-    padding-bottom: 2rem;
-    border-bottom: 1px solid var(--c-border);
-    margin-bottom: 2.5rem;
-  }
-  .contestant-eyebrow {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-    margin-bottom: 0.75rem;
-    font-size: 0.9rem;
-  }
-  .country-link {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.3em;
-    color: var(--c-text);
-    font-weight: 500;
-  }
-  .country-link:hover { color: var(--c-link); text-decoration: none; }
-  .edition-link { text-decoration: none; }
-  .edition-link:hover { color: var(--c-link); }
-
-  .contestant-header h1 {
-    font-size: clamp(2.5rem, 6vw, 4rem);
-    line-height: 1.05;
-    margin-bottom: 0.3rem;
-  }
-  .song-title {
-    font-size: clamp(1.1rem, 3vw, 1.5rem);
-    font-style: italic;
-    color: var(--c-muted);
-    margin-bottom: 1.5rem;
-  }
-
-  /* ── Results pills ────────────────────────────────────────── */
-  .results-row {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.75rem;
-  }
-  .result-pill {
-    display: flex;
-    flex-direction: column;
-    gap: 0.2rem;
-    padding: 0.75rem 1rem;
-    background: var(--c-surface);
-    border: 1px solid var(--c-border);
-    border-radius: 4px;
-    min-width: 9rem;
-  }
-  .result-label {
-    font-family: var(--f-mono);
-    font-size: 0.68rem;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-    color: var(--c-muted);
-  }
-  .result-place {
-    font-size: 1.4rem;
-    font-weight: 600;
-    line-height: 1;
-    color: var(--c-text);
-  }
-  .result-pts { font-size: 0.8rem; }
-  .result-split { font-size: 0.75rem; }
-
-  /* ── Body layout ──────────────────────────────────────────── */
-  .contestant-body {
-    display: grid;
-    grid-template-columns: 1fr;
-    gap: 3rem;
-    padding-bottom: 4rem;
-  }
-  @media (min-width: 900px) {
-    .contestant-body {
-      grid-template-columns: 1fr 22rem;
-      align-items: start;
-    }
-  }
-
-  /* ── Video ────────────────────────────────────────────────── */
-  .section-video { margin-bottom: 2.5rem; }
-  .video-embed {
-    position: relative;
-    padding-bottom: 56.25%;
-    height: 0;
-    overflow: hidden;
-    border-radius: 4px;
-    background: #000;
-  }
-  .video-embed iframe {
-    position: absolute;
-    top: 0; left: 0;
-    width: 100%; height: 100%;
-    border: 0;
-  }
-
-  /* ── Sections ─────────────────────────────────────────────── */
-  .section-lyrics { }
-  .section-heading {
-    font-family: var(--f-mono);
-    font-size: 0.72rem;
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
-    color: var(--c-muted);
-    margin-bottom: 1rem;
-    padding-bottom: 0.5rem;
-    border-bottom: 1px solid var(--c-border);
-  }
-
-  /* ── Lyrics ───────────────────────────────────────────────── */
-  .lyric-block { margin-bottom: 2rem; }
-  .lyric-meta {
-    display: flex;
-    align-items: baseline;
-    gap: 0.75rem;
-    margin-bottom: 1rem;
-  }
-  .lyric-type {
-    font-size: 0.72rem;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-    color: var(--c-gold);
-  }
-  .lyric-langs { font-size: 0.8rem; }
-  .lyric-stanza {
-    white-space: pre-line;
-    line-height: 1.75;
-    margin-bottom: 1.25rem;
-    font-size: 0.9rem;
-    color: var(--c-text);
-  }
-
-  /* ── Sidebar sections ─────────────────────────────────────── */
-  .side-section { margin-bottom: 2rem; }
-
-  /* ── Meta list (dt/dd pairs) ──────────────────────────────── */
-  .meta-list {
-    display: grid;
-    grid-template-columns: auto 1fr;
-    gap: 0.4rem 1rem;
-    font-size: 0.875rem;
-  }
-  .meta-list dt {
-    font-family: var(--f-mono);
-    font-size: 0.72rem;
-    text-transform: uppercase;
-    letter-spacing: 0.06em;
-    color: var(--c-muted);
-    padding-top: 0.1em;
-    white-space: nowrap;
-  }
-  .meta-list dd {
-    color: var(--c-text);
-    line-height: 1.5;
-  }
-</style>

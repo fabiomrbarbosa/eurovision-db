@@ -73,34 +73,45 @@ html {
 	-webkit-overflow-scrolling: touch;
 }
 
-/* Ambient background spheres — cyan top-right, magenta bottom-left */
+/* Ambient background spheres — cyan top-right, magenta bottom-left.
+   Noise overlay (html::after) dithers any residual banding. */
+
+/* SVG fractal-noise tile, tiled at 200 px, soft-light blend */
+html::after {
+	content: "";
+	position: fixed;
+	inset: 0;
+	background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+	background-repeat: repeat;
+	background-size: 200px 200px;
+	background-color: var(--c-bg);
+	opacity: 1;
+	mix-blend-mode: soft-light;
+	pointer-events: none;
+	z-index: -2;
+}
+
 body::before,
 body::after {
 	content: "";
 	position: fixed;
-	width: 70vmax;
-	height: 70vmax;
+	width: 50vmax;
+	height: 50vmax;
 	border-radius: 50%;
 	pointer-events: none;
-	z-index: -1;
+	z-index: -3;
+	opacity: 0.075;
+	filter: blur(200px);
 }
 body::before {
-	background: radial-gradient(
-		circle,
-		color-mix(in srgb, var(--c-cyan) 10%, transparent),
-		transparent 70%
-	);
-	top: -25vmax;
-	right: -25vmax;
+	background: var(--c-cyan);
+	top: -15vmax;
+	right: -15vmax;
 }
 body::after {
-	background: radial-gradient(
-		circle,
-		color-mix(in srgb, var(--c-magenta) 10%, transparent),
-		transparent 70%
-	);
-	bottom: -25vmax;
-	left: -25vmax;
+	background: var(--c-magenta);
+	bottom: -15vmax;
+	left: -15vmax;
 }
 
 a {
@@ -206,4 +217,9 @@ h3 {
 	background: var(--c-surface-gold);
 	border-color: var(--c-gold-dim);
 	color: var(--c-gold);
+}
+.badge--magenta {
+	background: color-mix(in srgb, var(--c-magenta) 8%, var(--c-bg));
+	border-color: color-mix(in srgb, var(--c-magenta) 35%, transparent);
+	color: var(--c-magenta);
 }

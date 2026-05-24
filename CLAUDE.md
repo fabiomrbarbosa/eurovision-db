@@ -236,7 +236,8 @@ npm run build
 - `fetch-all.ts` — build-time data dump script, writes index.json
 - `data.ts` — server-side read helpers; `CountryAppearance` includes `finalRunning`,
   `finalPlace`, `finalPoints`, `participatedInFinal`, `cancelled`;
-  `getCountryName()` maps `WLD` → "Rest of the World"
+  `getCountryName()` maps `WLD` → "Rest of the World";
+  `ContestIndexEntry` includes `cancelled: boolean` (derived from all rounds having null performances)
 - `utils.ts` — `countryFlagUrl()` (heart flag image URL from ISO code) + `ordinal()` suffix helper
 - `Base.astro` — layout shell; nav logo "🩷 Eurovision DB" in `--c-magenta`
 - `global.css` — design tokens; Eurovision-inspired palette; `.flag` global rule for inline images;
@@ -244,11 +245,17 @@ npm run build
   fonts self-hosted via `@font-face` from `/public/fonts/` (Geist Sans, Geist Mono — no Pixel font);
   `--f-display` is an alias for `--f-mono`; `html { overflow-x: hidden }` + `.table-scroll` utility
   (`overflow-x: auto`) prevent tables from stretching the viewport on mobile;
-  ambient background spheres via `body::before` (cyan, top-right) and `body::after` (magenta, bottom-left)
-  using `radial-gradient` + `color-mix` at 10% intensity, `position: fixed; z-index: -1`
+  ambient background spheres: `body::before` (cyan, top-right) and `body::after` (magenta, bottom-left)
+  are solid `color-mix` circles with `filter: blur(200px+)` at `z-index: -3` — solid colour + blur
+  avoids the `transparent` keyword (= `rgba(0,0,0,0)`) that caused gradient banding toward black;
+  `html::after` is an SVG fractal-noise data-URI tile (`mix-blend-mode: soft-light; z-index: -2`)
+  that dithers any residual banding; `base.footer` has `background: var(--c-bg)` so it sits
+  over the ambient layer; `.badge--magenta` for cancelled-contest badges (dark tint bg, magenta text)
 - `index.astro` — homepage: hero + recent winners grid; winner cards separated by real CSS borders
   (top+left on container, right+bottom on each card — no gap/background hack); `public/images/emblem.svg`
-  as fixed watermark with `mix-blend-mode: overlay`; emblem fill is `#3065F5` (Eurovision blue)
+  as fixed watermark with `mix-blend-mode: overlay`; emblem fill is `#3065F5` (Eurovision blue);
+  each card uses `flex-direction: column; justify-content: space-between` with `card-top` (flag + city + year)
+  and `card-bottom` (winner song + score badge, or `badge--magenta` "Cancelled" for 2020)
 - `contests.astro` — all editions table; columns: Year, Host, Winner, Winning song, Winning score,
   Entries; sortable by Year (default desc), Host country, Winner country, Winning score, Entries;
   table wrapped in `.table-scroll` for mobile
@@ -259,12 +266,12 @@ npm run build
 - `country/[code].astro` — country history; sortable columns; "Cancelled" badge for 2020;
   Run column shows grand final draw number (null for DNQ); "Active years" stat shows
   actual consecutive participation ranges (not a simple A–B span), deduped to handle
-  1956 two-songs-per-country correctly; single unbroken range renders at full stat size
-  on one line; fragmented histories use smaller two-line display balanced by character count;
-  Best place rendered as ordinal (1st, 2nd…) and placed before Appearances;
-  hidden when wins > 0 (1st place is already implied); Final column shows `—`
-  (not "DNQ") for contestants who appeared in the final round but have no recorded
-  place (1956); table wrapped in `.table-scroll` for mobile
+  1956 two-songs-per-country correctly; two-line display kicks in when visible year-number
+  count > 5 (`yearNumberCount = ranges.reduce(sum + r.split('–').length, 0) <= 5`); comma
+  is preserved before the line break; single-line histories render at full stat size;
+  Wins stat hidden when 0 (shows Best place ordinal instead, hidden if no final place known);
+  Final column shows `—` (not "DNQ") for contestants who appeared in the final round but have
+  no recorded place (1956); table wrapped in `.table-scroll` for mobile
 - `Search.svelte` — live search island (queries /data/index.json and /data/countries.json);
   `listEl` declared with `$state()` for reactive binding; a11y `onkeydown` handler on result `<li>`
 - `ScoreBreakdown.svelte` — interactive voter detail panel; `WLD` voter shown as
@@ -304,6 +311,9 @@ npm run build
 - Build fix: contestant page guards all nullable array fields (`dancers`, `backings`,
   `commentators`, `jury` etc.) with `toArr()` helper — API occasionally returns a bare string
   for single-value entries instead of a `string[]`
+- `SearchModal.svelte` — modal backdrop uses plain navy overlay (`color-mix` 85%); no
+  `backdrop-filter: blur()` (removed — amplified pre-existing gradient dithering in the
+  background spheres by re-sampling the composited pixel buffer)
 
 ### 🔲 Still to build
 
@@ -348,4 +358,4 @@ npm run build
 
 ---
 
-*Last updated: 2026-05-25 (session 5).*
+*Last updated: 2026-05-25 (session 6).*

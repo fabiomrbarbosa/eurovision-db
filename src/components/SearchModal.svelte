@@ -78,9 +78,7 @@
   .modal-backdrop {
     position: fixed;
     inset: 0;
-    background: color-mix(in srgb, var(--c-bg) 60%, transparent);
-    backdrop-filter: blur(6px);
-    -webkit-backdrop-filter: blur(6px);
+    background: color-mix(in srgb, var(--c-bg) 85%, transparent);
     z-index: 100;
     display: flex;
     align-items: flex-start;

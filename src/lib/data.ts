@@ -97,6 +97,7 @@ export interface ContestIndexEntry {
     song: string;
     points: number | null;
   } | null;
+  cancelled: boolean;
 }
 
 let _index: ContestIndexEntry[] | null = null;
@@ -139,6 +140,7 @@ export function getContestIndex(): ContestIndexEntry[] {
               points: winnerPerf!.scores.find((s) => s.name === "total")?.points ?? null,
             }
           : null,
+        cancelled: detail.rounds.every((r) => r.performances === null),
       };
     })
     .sort((a, b) => a.year - b.year);
