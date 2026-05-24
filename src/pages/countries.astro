@@ -2,7 +2,7 @@
 // src/pages/countries.astro
 import Base from "../layouts/Base.astro";
 import { getCountries, getContestIndex } from "../lib/data.ts";
-import { countryFlag } from "../lib/utils.ts";
+import { countryFlagUrl } from "../lib/utils.ts";
 
 const countries = getCountries();
 const index = getContestIndex();
@@ -63,7 +63,7 @@ const countryList = Object.entries(statsMap)
 						<tr data-name={c.name} data-wins={c.wins} data-appearances={c.appearances} data-last={c.lastYear}>
 							<td>
 								<a href={`/country/${c.code}`} class="country-link">
-									<span class="flag">{countryFlag(c.code)}</span>
+									<img class="flag" src={countryFlagUrl(c.code)} alt="" />
 									{c.name}
 								</a>
 							</td>
@@ -127,11 +127,11 @@ const countryList = Object.entries(statsMap)
 	}
 
 	.country-link {
+		color: var(--c-text);
 		font-weight: 500;
 		margin-right: 0.5rem;
 	}
 	.flag {
-		font-family: sans-serif;
 		margin-right: 0.35em;
 	}
 

@@ -4,7 +4,7 @@
   // Fetches the index once on mount, then filters locally.
 
   import { onMount } from 'svelte';
-  import { countryFlag } from '../lib/utils.ts';
+  import { countryFlagUrl } from '../lib/utils.ts';
 
   interface ContestantEntry {
     id: number;
@@ -83,7 +83,7 @@
         results.push({
           type: 'contest',
           year: entry.year,
-          flag: countryFlag(entry.country),
+          flag: countryFlagUrl(entry.country),
           label: `${entry.year} · ${entry.city}`,
           sublabel: countryName(entry.country),
           href: `/contest/${entry.year}`,
@@ -103,7 +103,7 @@
           results.push({
             type: 'contestant',
             year: entry.year,
-            flag: countryFlag(c.country),
+            flag: countryFlagUrl(c.country),
             label: `${c.artist} — ${c.song}`,
             sublabel: `${countryName(c.country)} · ${entry.year}`,
             href: `/contest/${entry.year}`,
@@ -153,7 +153,7 @@
           onkeydown={(e) => e.key === 'Enter' && select(hit.href)}
           tabindex="0"
         >
-          <span class="hit-flag">{hit.flag}</span>
+          <img class="hit-flag" src={hit.flag} alt="" />
           <span class="hit-label">{hit.label}</span>
           <span class="hit-sub">{hit.sublabel}</span>
           {#if hit.type === 'contest'}
@@ -221,12 +221,19 @@
 
   li {
     display: flex;
-    align-items: baseline;
+    align-items: center;
     gap: 0.6rem;
     padding: 0.65rem 1rem;
     cursor: pointer;
     border-bottom: 1px solid color-mix(in srgb, var(--c-border) 50%, transparent);
     transition: background 0.1s;
+  }
+
+  .hit-flag {
+    display: inline-block;
+    height: 1.1em;
+    width: auto;
+    flex-shrink: 0;
   }
   li:last-child { border-bottom: none; }
   li:hover, li:focus { background: var(--c-hover); outline: none; }

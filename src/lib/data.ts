@@ -14,12 +14,9 @@
 import { readFileSync } from "fs";
 import { join } from "path";
 import type {
-  ContestantDetail,
   ContestantReference,
   ContestantWithResults,
   ContestDetail,
-  ContestReference,
-  ContestSummary,
   CountryMap,
   ResolvedContest,
   RoundName,
@@ -56,6 +53,7 @@ export function getCountryName(
   code: string,
   countries?: CountryMap,
 ): string {
+  if (code === 'WLD') return 'Rest of the World';
   const map = countries ?? getCountries();
   return map[code] ?? code;
 }
@@ -66,26 +64,6 @@ export function getCountryName(
 
 export function getYears(): number[] {
   return readJson<number[]>(dataPath("years.json"));
-}
-
-// ---------------------------------------------------------------------------
-// Contest list / references
-// ---------------------------------------------------------------------------
-
-export function getContestReferences(): ContestReference[] {
-  return readJson<ContestReference[]>(dataPath("contests.json"));
-}
-
-/** Returns contest references enriched with resolved country names. */
-export function getContestSummaries(): ContestSummary[] {
-  const countries = getCountries();
-  return getContestReferences().map((ref) => ({
-    ...ref,
-    countryName: getCountryName(ref.country, countries),
-    intendedCountryName: ref.intendedCountry
-      ? getCountryName(ref.intendedCountry, countries)
-      : null,
-  }));
 }
 
 // ---------------------------------------------------------------------------
@@ -182,106 +160,6 @@ export function getResolvedContest(year: number): ResolvedContest {
 
   const cancelled = detail.rounds.every((r) => r.performances === null);
   return { ...detail, contestantsById, results, cancelled };
-}
-
-// ---------------------------------------------------------------------------
-// Contestant detail (only available if --contestants flag was used)
-// ---------------------------------------------------------------------------
-
-export function getContestantDetail(
-  year: number,
-  id: number,
-): ContestantDetail | null {
-  try {
-    return readJson<ContestantDetail>(
-      dataPath("contestants", String(year), `${id}.json`),
-    );
-  } catch {
-    // File doesn't exist — contestant detail wasn't fetched
-    return null;
-  }
-}
-
-// ---------------------------------------------------------------------------
-// Search helpers
-// ---------------------------------------------------------------------------
-
-export interface SearchResult {
-  type: "contest" | "contestant";
-  year: number;
-  // For contest hits
-  city?: string;
-  country?: string;
-  countryName?: string;
-  // For contestant hits
-  artist?: string;
-  song?: string;
-  contestantCountry?: string;
-  contestantCountryName?: string;
-  contestantId?: number;
-}
-
-/**
- * Searches the contest index for matching years, cities, countries,
- * artists, and song titles. Case-insensitive substring match.
- *
- * Returns results ranked: exact matches first, then partial.
- */
-export function search(query: string, limit = 50): SearchResult[] {
-  if (!query.trim()) return [];
-
-  const q = query.toLowerCase();
-  const countries = getCountries();
-  const index = getContestIndex();
-  const results: SearchResult[] = [];
-
-  for (const entry of index) {
-    const hostCountryName = getCountryName(entry.country, countries).toLowerCase();
-    const intendedName = entry.intendedCountry
-      ? getCountryName(entry.intendedCountry, countries).toLowerCase()
-      : null;
-
-    // Contest-level match (year, city, country, slogan)
-    if (
-      String(entry.year).includes(q) ||
-      entry.city.toLowerCase().includes(q) ||
-      hostCountryName.includes(q) ||
-      (intendedName && intendedName.includes(q)) ||
-      (entry.slogan && entry.slogan.toLowerCase().includes(q))
-    ) {
-      results.push({
-        type: "contest",
-        year: entry.year,
-        city: entry.city,
-        country: entry.country,
-        countryName: getCountryName(entry.country, countries),
-      });
-    }
-
-    // Contestant-level match (artist, song, country)
-    for (const c of entry.contestants) {
-      const contestantCountryName = getCountryName(c.country, countries).toLowerCase();
-      if (
-        c.artist.toLowerCase().includes(q) ||
-        c.song.toLowerCase().includes(q) ||
-        contestantCountryName.includes(q)
-      ) {
-        results.push({
-          type: "contestant",
-          year: entry.year,
-          artist: c.artist,
-          song: c.song,
-          contestantCountry: c.country,
-          contestantCountryName: getCountryName(c.country, countries),
-          contestantId: c.id,
-        });
-      }
-    }
-
-    if (results.length >= limit) break;
-  }
-
-  return results.slice(0, limit);
 }
 
 // ---------------------------------------------------------------------------

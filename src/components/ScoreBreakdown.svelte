@@ -1,6 +1,7 @@
 <script lang="ts">
   // src/components/ScoreBreakdown.svelte
   // Interactive: click a country to see who voted for them and how.
+  import { countryFlagUrl } from '../lib/utils.ts';
 
   interface Score {
     name: string;
@@ -48,7 +49,7 @@
     return Object.entries(totalVotes)
       .map(([code, pts]) => ({
         code,
-        name: countries[code] ?? code,
+        name: code === 'WLD' ? 'Rest of the World' : (countries[code] ?? code),
         total: pts,
         jury: juryVotes[code] ?? null,
         tele: teleVotes[code] ?? null,
@@ -71,6 +72,7 @@
         <span class="sel-place mono muted">
           {row.place === 1 ? '🏆' : row.place ?? '—'}
         </span>
+        <img class="flag" src={countryFlagUrl(row.country)} alt="" />
         <span class="sel-name">{row.countryName}</span>
         <span class="sel-pts mono">
           {getScore(row, 'total') ?? '—'}
@@ -86,7 +88,7 @@
         <p class="mono gold" style="font-size:0.72rem;text-transform:uppercase;letter-spacing:0.1em">
           Votes received by
         </p>
-        <h3>{selectedRow.countryName}</h3>
+        <h3><img class="flag" src={countryFlagUrl(selectedRow.country)} alt="" /> {selectedRow.countryName}</h3>
         <div class="panel-totals">
           <div class="ptotal">
             <span class="ptotal-val mono">
@@ -126,7 +128,7 @@
           <tbody>
             {#each voterDetails() as voter}
               <tr>
-                <td>{voter.name}</td>
+                <td>{#if voter.code !== 'WLD'}<img class="flag" src={countryFlagUrl(voter.code)} alt="" /> {/if}{voter.name}</td>
                 {#if hasJuryTele}
                   <td class="right mono muted">{voter.jury ?? '—'}</td>
                   <td class="right mono muted">{voter.tele ?? '—'}</td>

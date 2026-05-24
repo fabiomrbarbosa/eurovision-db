@@ -38,7 +38,6 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const DATA_DIR = join(__dirname, "../src/data");
 
 const args = process.argv.slice(2);
-const FLAG_CONTESTANTS = args.includes("--contestants");
 const YEAR_FILTER = args.includes("--year")
   ? parseInt(args[args.indexOf("--year") + 1], 10)
   : null;
@@ -69,11 +68,10 @@ function log(msg: string) {
 async function main() {
   console.log(`\n🎵 Eurovision data fetch`);
   if (YEAR_FILTER) console.log(`   Filtering to year: ${YEAR_FILTER}`);
-  if (FLAG_CONTESTANTS) console.log(`   Contestant detail: enabled`);
 
   ensureDir(DATA_DIR);
 
-  // 1. Countries (shared)
+  // 1. Countries
   log("Fetching countries...");
   const countries = await eurovisionApi.countries();
   writeJson(join(DATA_DIR, "countries.json"), countries);
@@ -84,15 +82,7 @@ async function main() {
   const filteredYears = YEAR_FILTER ? years.filter((y) => y === YEAR_FILTER) : years;
   writeJson(join(DATA_DIR, "years.json"), filteredYears);
 
-  // 3. All contest references
-  log("Fetching contest references...");
-  const allRefs = await eurovisionApi.contests("senior");
-  const filteredRefs = YEAR_FILTER
-    ? allRefs.filter((c) => c.year === YEAR_FILTER)
-    : allRefs;
-  writeJson(join(DATA_DIR, "contests.json"), filteredRefs);
-
-  // 4. Individual contest details (with rounds + scores)
+  // 3. Individual contest details (with rounds + scores)
   log(`Fetching contest details (${filteredYears.length} years)...`);
   const contestsDir = join(DATA_DIR, "contests");
   ensureDir(contestsDir);
@@ -119,29 +109,7 @@ async function main() {
 
   console.log(`\n  ✓ ${filteredDetails.length} contest files written`);
 
-  // 5. Contestant detail (optional — large, ~1 request per entry per year)
-  if (FLAG_CONTESTANTS) {
-    log("Fetching contestant details...");
-    const contestantsDir = join(DATA_DIR, "contestants");
-
-    for (const detail of filteredDetails) {
-      console.log(`  Year ${detail.year} — ${detail.contestants.length} contestants`);
-      const yearDir = join(contestantsDir, String(detail.year));
-      ensureDir(yearDir);
-
-      const contestants = await eurovisionApi.allContestants(
-        detail.year,
-        "senior",
-        6,
-      );
-
-      for (const contestant of contestants) {
-        writeJson(join(yearDir, `${contestant.id}.json`), contestant);
-      }
-    }
-  }
-
-  // 6. Summary: write a merged index for fast search/listing
+  // 4. Summary: write a merged index for fast search/listing
   log("Writing contest index...");
   const index = filteredDetails.map((detail) => ({
     year: detail.year,

@@ -7,11 +7,9 @@
     "build": "astro build",
     "preview": "astro preview",
     "fetch:data": "npx tsx scripts/fetch-all.ts",
-    "fetch:data:junior": "npx tsx scripts/fetch-all.ts --type junior",
-    "fetch:data:contestants": "npx tsx scripts/fetch-all.ts --contestants",
     "fetch:year": "npx tsx scripts/fetch-all.ts --year",
-    "sync:data": "rm -rf public/data && ln -s ../src/data public/data",
-    "fetch:logos": "npx tsx scripts/fetch-logos.ts"
+    "fetch:logos": "npx tsx scripts/fetch-logos.ts",
+    "fetch:flags": "npx tsx scripts/fetch-flags.ts"
   },
   "dependencies": {
     "@astrojs/svelte": "^8.1.1",

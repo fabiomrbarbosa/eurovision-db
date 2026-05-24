@@ -1,7 +1,7 @@
 <script lang="ts">
   import { untrack } from 'svelte';
   import ScoreBreakdown from './ScoreBreakdown.svelte';
-  import { countryFlag } from '../lib/utils.ts';
+  import { countryFlagUrl } from '../lib/utils.ts';
 
   interface Score {
     name: string;
@@ -202,7 +202,7 @@
               <td class="run-cell mono muted">{r.running ?? '—'}</td>
               <td>
                 <a href={`/country/${r.country}`} class="country-link">
-                  <span class="flag">{countryFlag(r.country)}</span>{r.countryName}
+                  <img class="flag" src={countryFlagUrl(r.country)} alt="" />{r.countryName}
                 </a>
               </td>
               <td>{r.artist}</td>
@@ -258,7 +258,7 @@
             <td class="run-cell mono muted">{entry.running ?? '—'}</td>
             <td>
               <a href={`/country/${entry.country}`} class="country-link">
-                <span class="flag">{countryFlag(entry.country)}</span>{entry.countryName}
+                <img class="flag" src={countryFlagUrl(entry.country)} alt="" />{entry.countryName}
               </a>
             </td>
             <td>{entry.artist}</td>

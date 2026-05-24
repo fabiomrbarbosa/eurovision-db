@@ -3,7 +3,7 @@
 import Base from '../../layouts/Base.astro';
 import ContestTabs from '../../components/ContestTabs.svelte';
 import { getYears, getResolvedContest, getCountryName, getCountries } from '../../lib/data.ts';
-import { countryFlag } from '../../lib/utils.ts';
+import { countryFlagUrl } from '../../lib/utils.ts';
 
 export async function getStaticPaths() {
   const years = getYears();
@@ -97,7 +97,7 @@ const semiRounds = contest.rounds
     <!-- Page header -->
     <header class="contest-header">
       <div class="contest-meta">
-        <h1><span class="flag">{countryFlag(contest.country)}</span> {contest.city} {year}</h1>
+        <h1><img class="flag" src={countryFlagUrl(contest.country)} alt="" /> {contest.city} {year}</h1>
         <p class="venue">
           {contest.arena} · {hostCountryName}
           {intendedName && (<>, hosted on behalf of <strong>{intendedName}</strong></>)}
@@ -119,7 +119,7 @@ const semiRounds = contest.rounds
         </div>
       </div>
 
-      <img src={`/images/logos/${year}.png`} width="186" alt={`ESC ${year} logo`} class="contest-logo" />
+      <img src={`/images/logos/${year}.png`} alt={`ESC ${year} logo`} class="contest-logo" />
     </header>
 
 		<nav class="edition-nav">
@@ -155,7 +155,7 @@ const semiRounds = contest.rounds
             <tbody>
               {contest.contestants.map(c => (
                 <tr>
-                  <td><a href={`/country/${c.country}`} class="country-link"><span class="flag">{countryFlag(c.country)}</span>{getCountryName(c.country, countries)}</a></td>
+                  <td><a href={`/country/${c.country}`} class="country-link"><img class="flag" src={countryFlagUrl(c.country)} alt="" />{getCountryName(c.country, countries)}</a></td>
                   <td>{c.artist}</td>
                   <td class="song-cell"><em>{c.song}</em></td>
                 </tr>
@@ -207,7 +207,9 @@ const semiRounds = contest.rounds
   }
 
   .contest-logo {
-    width: 186px;
+		width: auto;
+		height: 100%;
+		max-height: 175px;
     flex-shrink: 0;
 		background-color: white;
   }

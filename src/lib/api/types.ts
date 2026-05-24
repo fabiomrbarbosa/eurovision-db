@@ -209,15 +209,6 @@ export interface Lyrics {
 // ---------------------------------------------------------------------------
 
 /**
- * A lightweight contest entry used for listing and search.
- * Merges ContestReference with resolved country name.
- */
-export interface ContestSummary extends ContestReference {
-  countryName: string;
-  intendedCountryName: string | null;
-}
-
-/**
  * A contestant enriched with their round results, for display in contest pages.
  * Merges ContestantReference with performances from all rounds.
  */

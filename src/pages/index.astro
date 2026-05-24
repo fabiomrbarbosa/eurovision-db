@@ -2,7 +2,7 @@
 // src/pages/index.astro
 import Base from "../layouts/Base.astro";
 import Search from "../components/Search.svelte";
-import { countryFlag } from "../lib/utils.ts";
+import { countryFlagUrl } from "../lib/utils.ts";
 
 // These imports will work once fetch-all.ts has been run
 // and src/data/ is populated. During first run before data
@@ -10,6 +10,7 @@ import { countryFlag } from "../lib/utils.ts";
 let recentWinners: Array<{
 	year: number;
 	city: string;
+	country: string;
 	countryCode: string;
 	winner: {
 		artist: string;
@@ -20,13 +21,15 @@ let recentWinners: Array<{
 }> = [];
 
 try {
-	const { getContestIndex } = await import("../lib/data.ts");
+	const { getContestIndex, getCountries, getCountryName } = await import("../lib/data.ts");
+	const countries = getCountries();
 	recentWinners = getContestIndex()
 		.sort((a, b) => b.year - a.year)
 		.slice(0, 8)
 		.map((e) => ({
 			year: e.year,
 			city: e.city,
+			country: getCountryName(e.country, countries),
 			countryCode: e.country,
 			winner: e.winner
 				? {
@@ -45,6 +48,7 @@ const hasData = recentWinners.length > 0;
 ---
 
 <Base title="Eurovision Database">
+	<div class="emblem-bg" aria-hidden="true"></div>
 	<section class="hero container">
 		<p class="hero-eyebrow mono gold">Every contest, every song, every vote.</p>
 		<h1>Eurovision<br />Song Contest<br />Database</h1>
@@ -62,14 +66,16 @@ const hasData = recentWinners.length > 0;
 				<div class="winners-grid">
 					{recentWinners.map((e) => (
 						<a href={`/contest/${e.year}`} class="winner-card">
-							<span class="winner-year mono">
-								<span class="flag">{countryFlag(e.countryCode)}</span>
+							<span class="winner-year display">
+								<img class="flag" src={countryFlagUrl(e.countryCode)} alt="" />
 								{e.year}
 							</span>
-							<span class="winner-city muted">{e.city}</span>
+							<span class="winner-city muted">
+								{e.city}, {e.country}
+							</span>
 							{e.winner && (
 								<span class="winner-song">
-									<span class="flag">{countryFlag(e.winner.countryCode)}</span>
+									<img class="flag" src={countryFlagUrl(e.winner.countryCode)} alt="" />
 									<strong>{e.winner.artist}</strong>
 									<span class="muted"> · {e.winner.song}</span>
 								</span>
@@ -174,7 +180,7 @@ const hasData = recentWinners.length > 0;
 	.winner-year {
 		font-size: 1.4rem;
 		font-weight: 500;
-		color: var(--c-link);
+		color: var(--c-text);
 	}
 	.winner-city {
 		font-size: 0.8rem;
@@ -189,8 +195,6 @@ const hasData = recentWinners.length > 0;
 		flex-wrap: wrap;
 	}
 	.flag {
-		font-family: var(--f-body);
-		font-style: normal;
 		margin-right: 0.25em;
 	}
 
@@ -202,6 +206,18 @@ const hasData = recentWinners.length > 0;
 	.link-all {
 		font-size: 0.875rem;
 		font-weight: 500;
+		color: var(--c-magenta);
+	}
+
+	/* ── Emblem background ──────────────────────────────────────── */
+	.emblem-bg {
+		position: fixed;
+		inset: 0;
+		background: url('/images/emblem.svg') no-repeat center center;
+		background-size: cover;
+		opacity: 0.04;
+		pointer-events: none;
+		z-index: -1;
 	}
 
 	/* ── No data state ──────────────────────────────────────────── */

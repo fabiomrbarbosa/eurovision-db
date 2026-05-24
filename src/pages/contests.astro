@@ -2,7 +2,7 @@
 // src/pages/contests.astro
 import Base from '../layouts/Base.astro';
 import { getContestIndex, getCountryName, getCountries } from '../lib/data.ts';
-import { countryFlag } from '../lib/utils.ts';
+import { countryFlagUrl } from '../lib/utils.ts';
 
 const countries = getCountries();
 const contests = getContestIndex()
@@ -50,7 +50,7 @@ const contests = getContestIndex()
               </a>
             </td>
             <td>
-              <span class="flag">{countryFlag(c.countryCode)}</span>
+              <img class="flag" src={countryFlagUrl(c.countryCode)} alt="" />
               <span>{c.city}</span>
               <span class="muted">, {c.country}</span>
               {c.intendedCountry && (
@@ -61,7 +61,7 @@ const contests = getContestIndex()
             </td>
             <td>
               {c.winner
-                ? <><span class="flag">{countryFlag(c.winner.country)}</span><a href={`/country/${c.winner.country}`}>{c.winner.countryName}</a></>
+                ? <><img class="flag" src={countryFlagUrl(c.winner.country)} alt="" /><a href={`/country/${c.winner.country}`} class="winner-country">{c.winner.countryName}</a></>
                 : <span class="muted">—</span>
               }
             </td>
@@ -125,6 +125,7 @@ const contests = getContestIndex()
     color: var(--c-link);
     white-space: nowrap;
   }
+  .winner-country { color: var(--c-text); }
   .song-cell { max-width: 280px; }
   .song-cell em { color: var(--c-muted); font-style: italic; }
   .flag { margin-right: 0.35em; }

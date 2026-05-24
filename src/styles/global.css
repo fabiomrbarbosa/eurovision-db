@@ -10,23 +10,23 @@
 
 /* ── Design tokens ──────────────────────────────────────────── */
 :root {
-	--c-bg: #030514;
-	--c-surface: #0a142b;
-	--c-border: #1b294e;
+	--c-bg: #05041a;
+	--c-surface: #0c0b28;
+	--c-border: #1e1e50;
 	--c-text: #e8e8e8;
-	--c-muted: #5882b3;
-	--c-gold: #c9a84c;
-	--c-gold-dim: #8a6f2e;
+	--c-muted: #8a90c8;
+	--c-gold: #f0b429;
+	--c-gold-dim: #9a7018;
 
-	--c-hover: #121e3c;
-	--c-surface-gold: #1b191e;
-	--c-surface-gold-hover: #222136;
+	--c-hover: #14143a;
+	--c-surface-gold: #1a1025;
+	--c-surface-gold-hover: #241530;
 	--c-green: #6abf69;
-	--c-surface-green: #0a1d20;
-	--c-surface-green-hover: #102428;
+	--c-surface-green: #0a1020;
+	--c-surface-green-hover: #10142a;
 
-	--c-cyan: #29c2d6;
-	--c-magenta: #e04878;
+	--c-cyan: #00d4ff;
+	--c-magenta: #de3268;
 	--c-link: var(--c-cyan);
 
 	--f-display: "DM Serif Display", Georgia, serif;
@@ -59,6 +59,20 @@ html {
 a {
 	color: var(--c-link);
 	text-decoration: none;
+	text-underline-offset: 3px;
+	text-decoration-thickness: 1px;
+}
+/* Content links — always underlined, dim at rest, full on hover */
+td a,
+p a,
+.footer-inner a {
+	text-decoration: underline;
+	text-decoration-color: color-mix(in srgb, currentColor 35%, transparent);
+}
+td a:hover,
+p a:hover,
+.footer-inner a:hover {
+	text-decoration-color: currentColor;
 }
 a:hover {
 	text-decoration: underline;
@@ -66,6 +80,12 @@ a:hover {
 img {
 	max-width: 100%;
 	display: block;
+}
+.flag {
+	display: inline-block;
+	height: 1.2em;
+	width: auto;
+	vertical-align: -0.15em;
 }
 
 /* ── Layout ─────────────────────────────────────────────────── */
@@ -95,6 +115,9 @@ h3 {
 
 .mono {
 	font-family: var(--f-mono);
+}
+.display {
+	font-family: var(--f-display);
 }
 .muted {
 	color: var(--c-muted);

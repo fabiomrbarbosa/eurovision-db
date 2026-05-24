@@ -6,7 +6,7 @@ import {
 	getCountryHistory,
 	getContestIndex,
 } from "../../lib/data.ts";
-import { countryFlag, ordinal } from "../../lib/utils.ts";
+import { countryFlagUrl, ordinal } from "../../lib/utils.ts";
 
 export async function getStaticPaths() {
 	const index = getContestIndex();
@@ -25,6 +25,34 @@ const history = getCountryHistory(code);
 const wins = history.filter((h) => h.finalPlace === 1).length;
 const appearances = history.length;
 const bestPlace = Math.min(...history.map((h) => h.finalPlace ?? Infinity));
+
+function computeRanges(years: number[]): string[] {
+	if (years.length === 0) return [];
+	const sorted = [...new Set(years)].sort((a, b) => a - b);
+	const segs: Array<[number, number]> = [];
+	let s = sorted[0], p = sorted[0];
+	for (let i = 1; i < sorted.length; i++) {
+		if (sorted[i] === p + 1) p = sorted[i];
+		else { segs.push([s, p]); s = sorted[i]; p = sorted[i]; }
+	}
+	segs.push([s, p]);
+	return segs.map(([a, b]) => a === b ? `${a}` : `${a}–${b}`);
+}
+
+function splitForDisplay(ranges: string[]): [string, string] {
+	if (ranges.length <= 1) return [ranges[0] ?? '', ''];
+	const total = ranges.reduce((sum, r) => sum + r.length, 0) + (ranges.length - 1) * 2;
+	const half = total / 2;
+	let cum = 0, best = 1, bestDiff = Infinity;
+	for (let i = 1; i < ranges.length; i++) {
+		cum += ranges[i - 1].length + (i > 1 ? 2 : 0);
+		const diff = Math.abs(cum - half);
+		if (diff < bestDiff) { bestDiff = diff; best = i; }
+	}
+	return [ranges.slice(0, best).join(', '), ranges.slice(best).join(', ')];
+}
+
+const [yearsLine1, yearsLine2] = splitForDisplay(computeRanges(history.map((h) => h.year)));
 ---
 
 <Base
@@ -33,7 +61,7 @@ const bestPlace = Math.min(...history.map((h) => h.finalPlace ?? Infinity));
 >
 	<div class="container">
 		<header class="country-header">
-			<h1><span class="flag">{countryFlag(code)}</span>{countryName}</h1>
+			<h1><img class="flag" src={countryFlagUrl(code)} alt="" />{countryName}</h1>
 			<div class="stats-row">
 				<div class="stat">
 					<span class="stat-value mono gold">{wins}</span>
@@ -52,10 +80,10 @@ const bestPlace = Math.min(...history.map((h) => h.finalPlace ?? Infinity));
 					)
 				}
 				{
-					history.length > 0 && (
+					yearsLine1 && (
 						<div class="stat">
-							<span class="stat-value mono">
-								{history[0].year}–{history[history.length - 1].year}
+							<span class="stat-value mono years-value">
+								{yearsLine1}{yearsLine2 && <><br />{yearsLine2}</>}
 							</span>
 							<span class="stat-label muted">Active years</span>
 						</div>
@@ -165,9 +193,13 @@ const bestPlace = Math.min(...history.map((h) => h.finalPlace ?? Infinity));
 		gap: 0.1rem;
 	}
 	.stat-value {
-		font-size: 2rem;
+		font-size: 3rem;
 		font-weight: 500;
 		line-height: 1;
+	}
+	.years-value {
+		font-size: 1rem;
+		line-height: 1.5;
 	}
 	.stat-label {
 		font-size: 0.75rem;
