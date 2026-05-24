@@ -11,21 +11,22 @@
 /* ── Design tokens ──────────────────────────────────────────── */
 :root {
 	--c-bg: #030514;
-	--c-surface: #0a0e28;
-	--c-border: #1b234b;
+	--c-surface: #0a142b;
+	--c-border: #1b294e;
 	--c-text: #e8e8e8;
-	--c-muted: #6070a8;
+	--c-muted: #5882b3;
 	--c-gold: #c9a84c;
 	--c-gold-dim: #8a6f2e;
 
-	--c-hover: #11143d;
-	--c-surface-gold: #1b131b;
-	--c-surface-gold-hover: #221b33;
+	--c-hover: #121e3c;
+	--c-surface-gold: #1b191e;
+	--c-surface-gold-hover: #222136;
 	--c-green: #6abf69;
-	--c-surface-green: #0a171d;
-	--c-surface-green-hover: #101e25;
+	--c-surface-green: #0a1d20;
+	--c-surface-green-hover: #102428;
 
-	--c-cyan: #729ed8;
+	--c-cyan: #29c2d6;
+	--c-magenta: #d4406a;
 	--c-link: var(--c-cyan);
 
 	--f-display: "DM Serif Display", Georgia, serif;
