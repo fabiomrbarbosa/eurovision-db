@@ -128,7 +128,7 @@
           <tbody>
             {#each voterDetails() as voter}
               <tr>
-                <td>{#if voter.code !== 'WLD'}<img class="flag" src={countryFlagUrl(voter.code)} alt="" /> {/if}{voter.name}</td>
+                <td><img class="flag" src={countryFlagUrl(voter.code)} alt="" /> {voter.name}</td>
                 {#if hasJuryTele}
                   <td class="right mono muted">{voter.jury ?? '—'}</td>
                   <td class="right mono muted">{voter.tele ?? '—'}</td>

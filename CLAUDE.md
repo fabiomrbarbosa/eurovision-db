@@ -282,8 +282,8 @@ npm run build
 - Cancelled editions (2020): `getCountryHistory` returns `cancelled: true` on the
   appearance; the country page renders a "Cancelled" badge instead of "DNQ".
 - `WLD` is a special voter code meaning "Rest of the World" (used in some scoring systems).
-  `getCountryName('WLD')` returns "Rest of the World"; `ScoreBreakdown` suppresses the
-  flag image for that row.
+  `getCountryName('WLD')` returns "Rest of the World"; `public/images/flags/wld.svg` exists
+  and is shown like any other voter flag in `ScoreBreakdown`.
 
 ---
 
