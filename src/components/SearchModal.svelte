@@ -5,6 +5,17 @@
   let open = $state(false);
 
   $effect(() => {
+    const onShortcut = (e: KeyboardEvent) => {
+      if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+        e.preventDefault();
+        open = true;
+      }
+    };
+    window.addEventListener('keydown', onShortcut);
+    return () => window.removeEventListener('keydown', onShortcut);
+  });
+
+  $effect(() => {
     if (!open) return;
     // Lock body scroll and focus the input once the panel is in the DOM
     document.body.style.overflow = 'hidden';
@@ -23,6 +34,7 @@
 <button class="search-trigger" onclick={() => open = true} aria-label="Open search">
   <span class="trigger-icon mono">⌕</span>
   <span class="trigger-label">Search</span>
+  <kbd class="trigger-kbd">⌘K</kbd>
 </button>
 
 {#if open}
@@ -38,7 +50,9 @@
       role="dialog"
       aria-modal="true"
       aria-label="Search"
+      tabindex="-1"
       onclick={(e) => e.stopPropagation()}
+      onkeydown={(e) => { if (e.key === 'Escape') open = false; }}
     >
       <Search />
     </div>
@@ -70,8 +84,23 @@
     font-size: 1.1rem;
     line-height: 1;
   }
+  .trigger-kbd {
+    font-family: var(--f-mono);
+    font-size: 0.7rem;
+    color: var(--c-border);
+    border: 1px solid var(--c-border);
+    border-radius: 3px;
+    padding: 0.1em 0.35em;
+    line-height: 1;
+    background: none;
+    transition: color 0.12s, border-color 0.12s;
+  }
+  .search-trigger:hover .trigger-kbd {
+    color: var(--c-muted);
+    border-color: var(--c-muted);
+  }
   @media (max-width: 480px) {
-    .trigger-label { display: none; }
+    .trigger-label, .trigger-kbd { display: none; }
   }
 
   /* ── Backdrop ────────────────────────────────────────────────── */

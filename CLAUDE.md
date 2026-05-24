@@ -313,7 +313,10 @@ npm run build
   for single-value entries instead of a `string[]`
 - `SearchModal.svelte` — modal backdrop uses plain navy overlay (`color-mix` 85%); no
   `backdrop-filter: blur()` (removed — amplified pre-existing gradient dithering in the
-  background spheres by re-sampling the composited pixel buffer)
+  background spheres by re-sampling the composited pixel buffer); ⌘K / Ctrl+K global
+  shortcut opens the modal (always-on `$effect`, `e.preventDefault()` to suppress browser
+  defaults); `⌘K` kbd hint shown in trigger button, hidden on mobile; `modal-panel` has
+  `tabindex="-1"` and an Escape `onkeydown` handler to satisfy Svelte a11y rules
 
 ### 🔲 Still to build
 
