@@ -23,7 +23,9 @@
     "Harri Baumgartner",
     "Stefan Nagl"
   ],
-  "dancers": "Rajmonda Bulku",
+  "dancers": [
+    "Rajmonda Bulku"
+  ],
   "stageDirector": "Dan Shipton, Ross Nicholson",
   "composers": [
     "Alis Kallaçi"

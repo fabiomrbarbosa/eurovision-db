@@ -794,7 +794,7 @@
           ]
         },
         {
-          "contestantId": 21,
+          "contestantId": 23,
           "running": 12,
           "place": 8,
           "scores": [
@@ -5289,7 +5289,7 @@
           ]
         },
         {
-          "contestantId": 21,
+          "contestantId": 23,
           "running": 19,
           "place": 22,
           "scores": [
@@ -5547,7 +5547,7 @@
           ]
         },
         {
-          "contestantId": 23,
+          "contestantId": 21,
           "running": 25,
           "place": 24,
           "scores": [

@@ -55,11 +55,15 @@ const performances = contest.rounds
     round: string; label: string; place: number | null; total: number | null; jury: number | null; tele: number | null;
   }[];
 
+// API occasionally returns a bare string instead of string[] for single-value fields
+const toArr = (v: string | string[] | null | undefined): string[] =>
+  !v ? [] : Array.isArray(v) ? v : [v];
+
 const originalLyrics = detail.lyrics.find(l => l.type === 0);
 const languages = originalLyrics?.languages ?? [];
 
 // Credits: combine writers/composers/lyricists, dedup
-const allWriters = [...new Set([...(detail.writers ?? []), ...(detail.composers ?? []), ...(detail.lyricists ?? [])])];
+const allWriters = [...new Set([...toArr(detail.writers), ...toArr(detail.composers), ...toArr(detail.lyricists)])];
 const hasJuryTele = year > 2015;
 
 const videoUrl = detail.videoUrls?.[0] ?? null;
@@ -170,7 +174,7 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
         </section>
 
         <!-- Credits -->
-        {allWriters.length > 0 || detail.stageDirector || detail.backings?.length || detail.dancers?.length || detail.conductor ? (
+        {allWriters.length > 0 || detail.stageDirector || toArr(detail.backings).length > 0 || toArr(detail.dancers).length > 0 || detail.conductor ? (
           <section class="side-section">
             <h2 class="section-heading">Credits</h2>
             <dl class="meta-list">
@@ -186,16 +190,16 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
                   <dd>{detail.stageDirector}</dd>
                 </>
               )}
-              {detail.backings && detail.backings.length > 0 && (
+              {toArr(detail.backings).length > 0 && (
                 <>
                   <dt>Backing vocals</dt>
-                  <dd>{detail.backings.join(', ')}</dd>
+                  <dd>{toArr(detail.backings).join(', ')}</dd>
                 </>
               )}
-              {detail.dancers && detail.dancers.length > 0 && (
+              {toArr(detail.dancers).length > 0 && (
                 <>
                   <dt>Dancers</dt>
-                  <dd>{detail.dancers.join(', ')}</dd>
+                  <dd>{toArr(detail.dancers).join(', ')}</dd>
                 </>
               )}
               {detail.conductor && (
@@ -209,7 +213,7 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
         ) : null}
 
         <!-- Broadcasting -->
-        {(detail.broadcaster || detail.spokesperson || detail.commentators?.length || detail.jury?.length) && (
+        {(detail.broadcaster || detail.spokesperson || toArr(detail.commentators).length > 0 || toArr(detail.jury).length > 0) && (
           <section class="side-section">
             <h2 class="section-heading">Broadcast</h2>
             <dl class="meta-list">
@@ -225,16 +229,16 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
                   <dd>{detail.spokesperson}</dd>
                 </>
               )}
-              {detail.commentators && detail.commentators.length > 0 && (
+              {toArr(detail.commentators).length > 0 && (
                 <>
                   <dt>Commentators</dt>
-                  <dd>{detail.commentators.join(', ')}</dd>
+                  <dd>{toArr(detail.commentators).join(', ')}</dd>
                 </>
               )}
-              {detail.jury && detail.jury.length > 0 && (
+              {toArr(detail.jury).length > 0 && (
                 <>
                   <dt>National jury</dt>
-                  <dd>{detail.jury.join(', ')}</dd>
+                  <dd>{toArr(detail.jury).join(', ')}</dd>
                 </>
               )}
             </dl>

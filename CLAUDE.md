@@ -298,6 +298,12 @@ npm run build
   `white-space: pre-line` to preserve line breaks within stanzas
 - `src/data/contestants/` — 1830 ContestantDetail JSON files covering all years (1956–2026),
   fetched with `npm run fetch:data -- --contestants`
+- Data fix: `2026/21.json` (AT/Cosmó) and `2026/23.json` (LT/Lion Ceccah) were swapped due
+  to an upstream API bug; contestant detail files corrected and `contestantId` references in
+  `2026.json` rounds swapped accordingly (Austria final-only as host; Lithuania semi+final)
+- Build fix: contestant page guards all nullable array fields (`dancers`, `backings`,
+  `commentators`, `jury` etc.) with `toArr()` helper — API occasionally returns a bare string
+  for single-value entries instead of a `string[]`
 
 ### 🔲 Still to build
 
@@ -342,4 +348,4 @@ npm run build
 
 ---
 
-*Last updated: 2026-05-24 (session 4).*
+*Last updated: 2026-05-25 (session 5).*

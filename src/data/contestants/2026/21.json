@@ -1,52 +1,53 @@
 {
   "id": 21,
-  "country": "LT",
-  "artist": "Lion Ceccah",
-  "song": "Sólo quiero más",
+  "country": "AT",
+  "artist": "Cosmó",
+  "song": "Tanzschein",
   "videoUrls": [
-    "https://www.youtube-nocookie.com/embed/RYmEt4mm_oU",
-    "https://www.youtube-nocookie.com/embed/_0kkvvTc3hQ",
-    "https://www.youtube-nocookie.com/embed/mPZMHqSsoeo",
-    "https://www.youtube-nocookie.com/embed/7vfjX-KkcKs",
-    "https://www.youtube-nocookie.com/embed/yeYEYUHDgyc",
-    "https://www.youtube-nocookie.com/embed/QTITz2ZL0Uo",
-    "https://www.youtube-nocookie.com/embed/SeYY-foPft0"
+    "https://www.youtube-nocookie.com/embed/54QfFpYXFH4",
+    "https://www.youtube-nocookie.com/embed/F9YqxdIzPQk",
+    "https://www.youtube-nocookie.com/embed/IPvJbGy5_o0",
+    "https://www.youtube-nocookie.com/embed/zPGP9ZphxiY",
+    "https://www.youtube-nocookie.com/embed/rxuzqCafHbQ",
+    "https://www.youtube-nocookie.com/embed/HoBaDtTcSBA",
+    "https://www.youtube-nocookie.com/embed/uXnqX-to7X8"
   ],
-  "bpm": 125,
-  "tone": "C# minor",
+  "bpm": 130,
+  "tone": "F minor",
   "artistPeople": [
-    "Lion Ceccah"
+    "Benjamin Gedeon"
   ],
   "backings": [
-    "Diana Anisko",
-    "Greta Paukštė",
-    "Justa Rubežiūtė",
-    "Justinas Stanevičius"
+    "Sandro Hummitsch"
   ],
-  "dancers": null,
-  "stageDirector": "Mantas Frolenko, Povilas Varvuolis",
-  "composers": [
-    "Aurimas Galvelis",
-    "Tomas Alenčikas"
+  "dancers": [
+    "Daxia Webers",
+    "Renae Francis Hughes",
+    "Reuben Williamson",
+    "Tyresse Hare"
   ],
+  "stageDirector": "Dan Shipton, Ross Nicholson",
+  "composers": null,
   "conductor": null,
-  "lyricists": [
-    "Tomas Alenčikas"
+  "lyricists": null,
+  "writers": [
+    "Benjamin Gedeon",
+    "Elias Stejskal",
+    "Ella Stern"
   ],
-  "writers": null,
-  "broadcaster": "LRT",
+  "broadcaster": "ORF",
   "commentators": [
-    "Ramūnas Zilnys"
+    "Andi Knoll"
   ],
   "jury": [
-    "Benas Kukenys",
-    "Darius Dapkus",
-    "Justė Komskytė-Vaiciekiūtė",
-    "Kamilė Tumelytė",
-    "Marijanas Staniulėnas",
-    "Paulina Skrabytė",
-    "Rokas Jančiauskas"
+    "Ilia Hollweg",
+    "Jakob Stiedl",
+    "Lena Schaur",
+    "Lukas Perman",
+    "Michael Bencsics",
+    "Nastja Zahour",
+    "Tina Ruprechter"
   ],
-  "spokesperson": "Lukas Radzevičius",
+  "spokesperson": "Philipp Hansa",
   "lyrics": []
 }
