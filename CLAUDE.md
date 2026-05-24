@@ -144,9 +144,9 @@ official Eurovision website and museum catalogues.
 --c-magenta:           #fd2494   nav logo, CTA links
 --c-link:    var(--c-cyan)       all hyperlinks (change --c-cyan to retheme links)
 
---f-display:  Geist Pixel Circle → headings (h1–h4); self-hosted woff2 from geist npm pkg
+--f-display:  alias for --f-mono (Geist Mono) → headings; no separate display font
 --f-body:     Geist Sans        → body prose; variable woff2, self-hosted
---f-mono:     Geist Mono        → scores, codes, year numbers, labels; variable woff2, self-hosted
+--f-mono:     Geist Mono        → scores, codes, year numbers, labels, headings; variable woff2, self-hosted
 ```
 
 **Token rules:**
@@ -225,19 +225,23 @@ npm run build
 - `client.ts` — live API client with retry/concurrency
 - `fetch-all.ts` — build-time data dump script, writes index.json
 - `data.ts` — server-side read helpers; `CountryAppearance` includes `finalRunning`,
-  `finalPlace`, `finalPoints`, `cancelled`; `getCountryName()` maps `WLD` → "Rest of the World"
+  `finalPlace`, `finalPoints`, `participatedInFinal`, `cancelled`;
+  `getCountryName()` maps `WLD` → "Rest of the World"
 - `utils.ts` — `countryFlagUrl()` (heart flag image URL from ISO code) + `ordinal()` suffix helper
 - `Base.astro` — layout shell; nav logo "🩷 Eurovision DB" in `--c-magenta`
 - `global.css` — design tokens; Eurovision-inspired palette; `.flag` global rule for inline images;
   content links (td a, p a, footer) have always-visible underlines via `color-mix`;
-  fonts self-hosted via `@font-face` from `/public/fonts/` (Geist Sans, Geist Mono, Geist Pixel Circle);
+  fonts self-hosted via `@font-face` from `/public/fonts/` (Geist Sans, Geist Mono — no Pixel font);
+  `--f-display` is an alias for `--f-mono`; `html { overflow-x: hidden }` + `.table-scroll` utility
+  (`overflow-x: auto`) prevent tables from stretching the viewport on mobile;
   ambient background spheres via `body::before` (cyan, top-right) and `body::after` (magenta, bottom-left)
   using `radial-gradient` + `color-mix` at 10% intensity, `position: fixed; z-index: -1`
 - `index.astro` — homepage: hero + recent winners grid; winner cards separated by real CSS borders
   (top+left on container, right+bottom on each card — no gap/background hack); `public/images/emblem.svg`
   as fixed watermark with `mix-blend-mode: overlay`; emblem fill is `#3065F5` (Eurovision blue)
 - `contests.astro` — all editions table; columns: Year, Host, Winner, Winning song, Winning score,
-  Entries; sortable by Year (default desc), Host country, Winner country, Winning score, Entries
+  Entries; sortable by Year (default desc), Host country, Winner country, Winning score, Entries;
+  table wrapped in `.table-scroll` for mobile
 - `countries.astro` — country listing with win/appearance stats; all columns sortable;
   default sort: alphabetical by country name
 - `contest/[year].astro` — full contest page: unified round tab group via ContestTabs;
@@ -245,8 +249,11 @@ npm run build
 - `country/[code].astro` — country history; sortable columns; "Cancelled" badge for 2020;
   Run column shows grand final draw number (null for DNQ); "Active years" stat shows
   actual consecutive participation ranges (not a simple A–B span), deduped to handle
-  1956 two-songs-per-country correctly; single range splits to two lines with hyphen on
-  first line (e.g. "2015–" / "2026"); balanced two-line display for fragmented histories
+  1956 two-songs-per-country correctly; single unbroken range renders at full stat size
+  on one line; fragmented histories use smaller two-line display balanced by character count;
+  Best place rendered as ordinal (1st, 2nd…); Final column shows `—` (not "DNQ") for
+  contestants who appeared in the final round but have no recorded place (1956);
+  table wrapped in `.table-scroll` for mobile
 - `Search.svelte` — live search island (queries /data/index.json and /data/countries.json)
 - `ScoreBreakdown.svelte` — interactive voter detail panel; `WLD` voter shown as
   "Rest of the World" with its heart flag (`/images/flags/wld.svg`); "Votes received by"
@@ -255,7 +262,8 @@ npm run build
   columns sortable (sort resets on tab switch); jury/tele columns appear automatically
   when data contains split scores (e.g. 2022, 2026); Run column shows draw/lineup order;
   ScoreBreakdown hidden for years with no score data (e.g. 1956); place numbers render
-  in full text colour (only the trophy 🏆 uses `--c-gold` for 1st place)
+  in full text colour (only the trophy 🏆 uses `--c-gold` for 1st place);
+  both SF and Final tables wrapped in `.table-scroll` for mobile
 - ESC 2026 data — hand-crafted `src/data/contests/2026.json` with aggregate jury/tele
   totals; per-country vote breakdowns pending official API update; semi running order
   not yet available (shows `—`)
@@ -291,6 +299,9 @@ npm run build
   never made public — only the winner is known).
 - Cancelled editions (2020): `getCountryHistory` returns `cancelled: true` on the
   appearance; the country page renders a "Cancelled" badge instead of "DNQ".
+- 1956 DNQ: `CountryAppearance.participatedInFinal` is `true` when a `finalPerf` entry
+  exists in the data (even if `place` is null). The country page shows `—` for
+  "participated but no place recorded" and "DNQ" only when `participatedInFinal` is false.
 - `WLD` is a special voter code meaning "Rest of the World" (used in some scoring systems).
   `getCountryName('WLD')` returns "Rest of the World"; `public/images/flags/wld.svg` exists
   and is shown like any other voter flag in `ScoreBreakdown`.
@@ -308,4 +319,4 @@ npm run build
 
 ---
 
-*Last updated: 2026-05-24.*
+*Last updated: 2026-05-24 (session 2).*

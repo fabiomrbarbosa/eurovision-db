@@ -174,6 +174,7 @@ export interface CountryAppearance {
   finalRunning: number | null;
   finalPlace: number | null;
   finalPoints: number | null;
+  participatedInFinal: boolean;
   cancelled: boolean;
 }
 
@@ -210,6 +211,7 @@ export function getCountryHistory(countryCode: string): CountryAppearance[] {
         finalPlace: finalPerf?.place ?? null,
         finalPoints:
           finalPerf?.scores.find((s) => s.name === "total")?.points ?? null,
+        participatedInFinal: !!finalPerf,
         cancelled,
       });
     }

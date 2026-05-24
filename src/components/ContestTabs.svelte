@@ -174,6 +174,7 @@
   {#if isGrandFinal}
     <!-- Grand Final tab -->
     {#if finalists.length > 0}
+      <div class="table-scroll">
       <table class="results-table">
         <thead>
           <tr>
@@ -218,6 +219,7 @@
           {/each}
         </tbody>
       </table>
+      </div>
 
       {#if finalHasScores}
         <div class="breakdown-wrapper">
@@ -235,6 +237,7 @@
       <p class="semi-date mono muted">{activeSemiDate}</p>
     {/if}
 
+    <div class="table-scroll">
     <table class="results-table">
       <thead>
         <tr>
@@ -279,6 +282,7 @@
         {/each}
       </tbody>
     </table>
+    </div>
 
     {#if semiHasScores}
       <div class="breakdown-wrapper">

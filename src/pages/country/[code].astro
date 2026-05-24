@@ -57,7 +57,9 @@ function splitForDisplay(ranges: string[]): [string, string] {
 	return [ranges.slice(0, best).join(', '), ranges.slice(best).join(', ')];
 }
 
-const [yearsLine1, yearsLine2] = splitForDisplay(computeRanges(history.map((h) => h.year)));
+const ranges = computeRanges(history.map((h) => h.year));
+const singleRange = ranges.length === 1;
+const [yearsLine1, yearsLine2] = splitForDisplay(ranges);
 ---
 
 <Base
@@ -79,7 +81,7 @@ const [yearsLine1, yearsLine2] = splitForDisplay(computeRanges(history.map((h) =
 				{
 					bestPlace !== Infinity && (
 						<div class="stat">
-							<span class="stat-value mono">{bestPlace}</span>
+							<span class="stat-value mono">{bestPlace}{ordinal(bestPlace)}</span>
 							<span class="stat-label muted">Best place</span>
 						</div>
 					)
@@ -87,8 +89,8 @@ const [yearsLine1, yearsLine2] = splitForDisplay(computeRanges(history.map((h) =
 				{
 					yearsLine1 && (
 						<div class="stat">
-							<span class="stat-value mono years-value">
-								{yearsLine1}{yearsLine2 && <><br />{yearsLine2}</>}
+							<span class:list={["stat-value mono", !singleRange && "years-value"]}>
+								{singleRange ? ranges[0] : <>{yearsLine1}{yearsLine2 && <><br />{yearsLine2}</>}</>}
 							</span>
 							<span class="stat-label muted">Active years</span>
 						</div>
@@ -99,6 +101,7 @@ const [yearsLine1, yearsLine2] = splitForDisplay(computeRanges(history.map((h) =
 
 		<section class="history-section">
 			<h2>Contest history</h2>
+			<div class="table-scroll">
 			<table class="history-table">
 				<thead>
 					<tr>
@@ -141,6 +144,8 @@ const [yearsLine1, yearsLine2] = splitForDisplay(computeRanges(history.map((h) =
 											<span class="muted">{h.finalPlace}{ordinal(h.finalPlace)}</span>
 										) : h.cancelled ? (
 											<span class="badge--cancelled">Cancelled</span>
+										) : h.participatedInFinal ? (
+											<span class="muted">—</span>
 										) : (
 											<span class="muted">DNQ</span>
 										)}
@@ -160,6 +165,7 @@ const [yearsLine1, yearsLine2] = splitForDisplay(computeRanges(history.map((h) =
 					}
 				</tbody>
 			</table>
+			</div>
 		</section>
 	</div>
 </Base>
@@ -198,13 +204,13 @@ const [yearsLine1, yearsLine2] = splitForDisplay(computeRanges(history.map((h) =
 		gap: 0.1rem;
 	}
 	.stat-value {
-		font-size: 3rem;
+		font-size: 2.25rem;
 		font-weight: 500;
 		line-height: 1;
 	}
 	.years-value {
 		font-size: 1rem;
-		line-height: 1.5;
+		line-height: 1.125;
 	}
 	.stat-label {
 		font-size: 0.75rem;

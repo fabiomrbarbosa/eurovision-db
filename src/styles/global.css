@@ -2,8 +2,7 @@
    Eurovision App — Global Styles
    Aesthetic: editorial/archival. Dark ground, single gold
    accent, generous whitespace.
-   Typefaces: Geist Pixel Circle (headings) · Geist Mono
-   (scores/data) · Geist Sans (body prose)
+   Typefaces: Geist Mono (headings/scores/data) · Geist Sans (body prose)
    ============================================================ */
 
 @font-face {
@@ -17,13 +16,6 @@
 	font-family: "Geist Mono";
 	src: url("/fonts/GeistMono-Variable.woff2") format("woff2");
 	font-weight: 100 900;
-	font-display: swap;
-}
-
-@font-face {
-	font-family: "Geist Pixel Circle";
-	src: url("/fonts/GeistPixel-Circle.woff2") format("woff2");
-	font-weight: 400;
 	font-display: swap;
 }
 
@@ -48,7 +40,7 @@
 	--c-magenta: #fd2494;
 	--c-link: var(--c-cyan);
 
-	--f-display: "Geist Pixel Circle", monospace;
+	--f-display: var(--f-mono);
 	--f-body: "Geist Sans", system-ui, sans-serif;
 	--f-mono: "Geist Mono", "Courier New", monospace;
 
@@ -73,6 +65,12 @@ html {
 	font-size: clamp(15px, 1.1vw, 17px);
 	line-height: 1.6;
 	-webkit-font-smoothing: antialiased;
+	overflow-x: hidden;
+}
+
+.table-scroll {
+	overflow-x: auto;
+	-webkit-overflow-scrolling: touch;
 }
 
 /* Ambient background spheres — cyan top-right, magenta bottom-left */
@@ -148,7 +146,8 @@ h1,
 h2 {
 	font-family: var(--f-display);
 	line-height: 1.15;
-	font-weight: 500;
+	font-weight: 600;
+	letter-spacing: -0.035em;
 }
 h1 {
 	font-size: clamp(2rem, 5vw, 3.5rem);
