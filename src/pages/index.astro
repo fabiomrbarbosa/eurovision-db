@@ -21,7 +21,8 @@ let recentWinners: Array<{
 }> = [];
 
 try {
-	const { getContestIndex, getCountries, getCountryName } = await import("../lib/data.ts");
+	const { getContestIndex, getCountries, getCountryName } =
+		await import("../lib/data.ts");
 	const countries = getCountries();
 	recentWinners = getContestIndex()
 		.sort((a, b) => b.year - a.year)
@@ -66,7 +67,7 @@ const hasData = recentWinners.length > 0;
 				<div class="winners-grid">
 					{recentWinners.map((e) => (
 						<a href={`/contest/${e.year}`} class="winner-card">
-							<span class="winner-year display">
+							<span class="winner-year">
 								<img class="flag" src={countryFlagUrl(e.countryCode)} alt="" />
 								{e.year}
 							</span>
@@ -75,7 +76,11 @@ const hasData = recentWinners.length > 0;
 							</span>
 							{e.winner && (
 								<span class="winner-song">
-									<img class="flag" src={countryFlagUrl(e.winner.countryCode)} alt="" />
+									<img
+										class="flag"
+										src={countryFlagUrl(e.winner.countryCode)}
+										alt=""
+									/>
 									<strong>{e.winner.artist}</strong>
 									<span class="muted"> · {e.winner.song}</span>
 								</span>
@@ -213,9 +218,9 @@ const hasData = recentWinners.length > 0;
 	.emblem-bg {
 		position: fixed;
 		inset: 0;
-		background: url('/images/emblem.svg') no-repeat center center;
+		background: url("/images/emblem.svg") no-repeat center center;
 		background-size: cover;
-		opacity: 0.04;
+		opacity: 0.1;
 		pointer-events: none;
 		z-index: -1;
 	}

@@ -232,7 +232,7 @@ npm run build
   content links (td a, p a, footer) have always-visible underlines via `color-mix`;
   fonts self-hosted via `@font-face` from `/public/fonts/` (Geist Sans, Geist Mono, Geist Pixel Circle)
 - `index.astro` — homepage: hero + recent winners grid; `public/images/emblem.svg` as
-  fixed `cover` background watermark at low opacity
+  fixed `cover` background watermark at `opacity: 0.1`; emblem fill is `#3065F5` (Eurovision blue)
 - `contests.astro` — all editions table
 - `countries.astro` — country listing with win/appearance stats; all columns sortable
 - `contest/[year].astro` — full contest page: unified round tab group via ContestTabs
