@@ -196,7 +196,7 @@
                 {#if r.finalPlace === 1}
                   <span class="gold">🏆</span>
                 {:else}
-                  <span class="muted">{r.finalPlace ?? '—'}</span>
+                  <span>{r.finalPlace ?? '—'}</span>
                 {/if}
               </td>
               <td class="run-cell mono muted">{r.running ?? '—'}</td>

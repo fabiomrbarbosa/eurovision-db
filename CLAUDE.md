@@ -254,7 +254,8 @@ npm run build
 - `ContestTabs.svelte` — unified tab group: SF1 → SF2 → Grand Final (default); all
   columns sortable (sort resets on tab switch); jury/tele columns appear automatically
   when data contains split scores (e.g. 2022, 2026); Run column shows draw/lineup order;
-  ScoreBreakdown hidden for years with no score data (e.g. 1956)
+  ScoreBreakdown hidden for years with no score data (e.g. 1956); place numbers render
+  in full text colour (only the trophy 🏆 uses `--c-gold` for 1st place)
 - ESC 2026 data — hand-crafted `src/data/contests/2026.json` with aggregate jury/tele
   totals; per-country vote breakdowns pending official API update; semi running order
   not yet available (shows `—`)
