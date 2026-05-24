@@ -1,0 +1,60 @@
+{
+  "id": 10,
+  "country": "ES",
+  "artist": "Eva Santamaria",
+  "song": "Hombres",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/3qBedshMn1s",
+    "https://www.youtube-nocookie.com/embed/1TsE1oFslTg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Hombres",
+      "content": "Todos los hombres son tan egoístas\nQue han confundido macho con machista\nTodos los hombres son tan presumidos\nQue han olvidado ser agradecidos\n\nEllos son así por naturaleza\nViven dominados por su vanidad\nCorren impulsados por sus ansias de ganar\nY nada más\nPonen el cerebro, nunca el corazón\nVuelan como cuervos a tu alrededor\nY al sexo llaman amor\n\nEllos son así desde la prehistoria\nSiguen los caprichos de su voluntad\nCuando tienen todo, siempre quieren mucho más\nEs lo normal\n\nDigan lo que digan, tienen la razón\nHagan lo que hagan, te lo digo yo\nNo saben pedir perdón\n\nTodos los hombres son desordenados\nY siguen siendo niños malcriados\nTodos los hombres son tan especiales\nQue han conseguido ser todos iguales\n\nPero si no están, nos sentimos solas\nDicen palabritas con sabor a miel\nCosas tan bonitas que nos hacen suspirar\nY enloquecer\n\nHombres y mujeres en la intimidad\nSon como dos faros en la oscuridad\nComo dos misterios parar desvelar\nSon complementarios como guerra y paz\nComo sol y luna, como tierra y mar\nSon irresistibles, son como un imán\nQue al mundo hace girar\n\nDigan lo que digan, tienen la razón\nHagan lo que hagan, te lo digo yo\nNo saben pedir perdón\n\nHombres y mujeres en la intimidad\nSon como dos faros en la oscuridad\nComo dos misterios parar desvelar\nSon complementarios como guerra y paz\nComo sol y luna, como tierra y mar\nSon irresistibles, son como un imán\nQue al mundo hace girar\n\nHombres y mujeres en la intimidad\nSon como dos faros en la oscuridad\nComo dos misterios parar desvelar\nSon complementarios como guerra y paz\nComo sol y luna, como tierra y mar\nSon irresistibles, ѕon como un imán\nQue al mundo hace girаr"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Men",
+      "content": "All men are so selfish\nThat they've mistaken male for macho\nAll men are so conceited\nThat they've forgotten to be thankful\n\nThey're like this by nature\nThey live, ruled by their vanity\nThey run, driven by their longing for winning\nAnd nothing else\nThey use their brain, never their heart\nThey fly like crows around you\nAnd they say love for sex\n\nThey're like this since prehistory\nThey follow the whims of their will\nWhen they've got everything, they always want much more\nIt's normal\n\nWhatever they may say, they're right\nWhatever they may do, I'm telling you\nThey can't say sorry\n\nAll men are untidy\nAnd they keep being spoiled children\nAll men are so special\nThat they've managed to be all the same\n\nBut if they're not around, we feel lonely\nThey say little honeymouthed words\nSuch beautiful things that make us sigh\nAnd drive us crazy\n\nMen and women in intimacy\nAre like two lighthouses in the dark\nLike two mysteries to be solved\nThey're complementary like war and peace\nLike sun and moon, like land and sea\nThey're irresistible, they're like a magnet\nThat makes the world go round\n\nWhatever they may say, they're right\nWhatever they may do, I'm telling you\nThey can't say sorry\n\nMen and women in intimacy\nAre like two lighthouses in the dark\nLike two mysteries to be solved\nThey're complementary like war and peace\nLike sun and moon, like land and sea\nThey're irresistible, they're like a magnet\nThat makes the world go round\n\nMen and women in intimacy\nAre like two lighthouses in the dark\nLike two mysteries to be solved\nThey're complementary like war and peace\nLike sun and moon, like land and sea\nThey're irresistible, they're like a magnet\nThat mаkeѕ the world go round"
+    }
+  ],
+  "bpm": 103,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Eva María Delgado"
+  ],
+  "backings": [
+    "Eva Muedra",
+    "Francisco Santiago López",
+    "Joaquín Eduardo López",
+    "Kenny O'Brien",
+    "Leyla Hoyle"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Carlos Toro",
+    "Christian de Walden",
+    "Ralf Steinman"
+  ],
+  "conductor": "Eduardo Leiva",
+  "lyricists": [
+    "Carlos Toro"
+  ],
+  "writers": null,
+  "broadcaster": "TVE",
+  "commentators": [
+    "José Luis Uribarri"
+  ],
+  "jury": null,
+  "spokesperson": "María Ángeles Balañac"
+}

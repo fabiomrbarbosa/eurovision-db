@@ -1,0 +1,49 @@
+{
+  "id": 11,
+  "country": "DE",
+  "artist": "Lou",
+  "song": "Let's Get Happy",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/zK484ulgM50",
+    "https://www.youtube-nocookie.com/embed/2TuM525xE48"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Let's Get Happy",
+      "content": "(Doob doo doobn da dap da…)\n(Doob doo doobn da dap da…)\n(Doob doo doobn da dap da…)\nWhoah…\n\nLast night in the discotheque\nAll my friends seemed to look and wait\nJust lookin' for trouble\n'Cause everything's drivin' 'em mad\n(Yeah, drivin' 'em mad)\n\nNo fun, not a smilin' face\nAnd down at heart in so many ways\nHey, baby, what's on?\nAnd why's everyone so sad?\n\nLet's get happy and let's be friends\nFor tomorrow never, never ends\nAnd our world will be all new\nLet's get happy and let's be gay\nAll our troubles, they will fade away\nAnd the promise I will send you\nHits you on a brand new day\n\n(Doob doo doobn da dap da…)\nYeah, yeah\n(On that day, everything will be okay)\n\nSee the girl with the high heel shoes\nI wanna know why she's got the blues\nDon't ya stop a-rockin'\nAnd get the ball a-rollin' tonight\n(Yeah, get the ball a-rollin' tonight)\n\nEveryone's kinda cool and stressed\nGotta move, or you'll miss the best\nWhatever you do now\nYou just gotta do it right\n\nLet's get happy and let's be friends\nFor tomorrow never, never ends\nAnd our world will be all new\nLet's get happy and let's be gay\nAll our troubles, they will fade away\nAnd the promise I will send you\nHits you on a brand new day\n\n(Doob doo doobn da dap da…)\nOn a brand new day\n(Doob doo doobn da dap da…)\nWe will be on our way\n(Doob doo doobn da dap da…)\nAnd we'll have lots of fun together\n(That's right)\n\nLet's get happy and let's be friends\nFor tomorrow never, never ends\nAnd our world will be all new\nLet's get happy and let's be gay\nAll our troubles, they will fade away\nAnd the promise I will send you\nHits you on a brand new day\n\n(Let's stop feelin' sad and down)\n(Let's just take off from the ground)\nWhoah… let'ѕ get hаppy"
+    }
+  ],
+  "bpm": 145,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Louise Hoffner"
+  ],
+  "backings": [
+    "Claudet De Moura-Bosch",
+    "Daniela Burghardt",
+    "Julian Feiffel",
+    "Mira Elben",
+    "Ron van Lankeren"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ralph Siegel"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Gunter Johansen"
+  ],
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Peter Urban"
+  ],
+  "jury": null,
+  "spokesperson": "Axel Bulthaupt"
+}

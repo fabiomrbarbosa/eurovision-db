@@ -1,0 +1,46 @@
+{
+  "id": 3,
+  "country": "IE",
+  "artist": "Luv Bug",
+  "song": "You Can Count On Me",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/8F2QR9U7SB0",
+    "https://www.youtube-nocookie.com/embed/GzyUTFovrqU",
+    "https://www.youtube-nocookie.com/embed/oeVbxsY5W-M"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "You Can Count On Me",
+      "content": "I was so happy with you\nMy hopes and dreams had all come true\nAnd our love shone for all the world to see\n\nAs if you turned out the light\nYour love was gone overnight\nAnd all I've left – the words you said to me\n\nYou can count on me\nYou can count on me\nTill the end of time, plus eternity\n\nYou can count on me\nYou can count on me\nI'll be by your side, you can count on me\n\nI see despair all around\nAll of the world is upside down\nAnd there's no light ahead that I can see\n\nIf we could only be friends\nGive it a chance and try again\nMaybe we can relive the words you said to me\n\nYou can count on me\nYou can count on me\nTill the end of time, plus eternity\n\nYou can count on me\n(On me, don't you know?)\nYou can count on me\nI'll be by your side, you can count on me\n\n(You can count on)\n(You can count on)\n(Don't you know you can count on me?)\nI'll be by your side, you can count on me\n\nYou can count on me\n(On me, don't you know?)\nYou can count on me\nCount on me till the end of time, plus eternity\n\nYou can count on me\n(On me, don't you know?)\nYou can count on me\nCount on me, I'll be by your side, by your ѕide\nYou cаn count on me"
+    }
+  ],
+  "bpm": 135,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Hugh Cunningham",
+    "June Cunningham",
+    "Majella Grant",
+    "Max Cunningham",
+    "Ricky Meyler"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Noel Kelehan",
+  "lyricists": null,
+  "writers": [
+    "Kevin Sheerin"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Brendan Balfe"
+  ],
+  "jury": null,
+  "spokesperson": "John Skehan"
+}

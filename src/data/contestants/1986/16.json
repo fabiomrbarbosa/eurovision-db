@@ -1,0 +1,59 @@
+{
+  "id": 16,
+  "country": "FR",
+  "artist": "Cocktail Chic",
+  "song": "Européennes",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/EgwmqUy6ku0",
+    "https://www.youtube-nocookie.com/embed/F25JBwqFrzQ",
+    "https://www.youtube-nocookie.com/embed/L4HIKOa8YYw",
+    "https://www.youtube-nocookie.com/embed/DxNsUheFqX8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Européennes",
+      "content": "On a l'cœur évasion\nQuand y'a plus d'soleil dans la maison\nEnvie de s'envoler\nQuelques heures d'avion pour tout changer\n\nAmsterdam, Copenhague ou Capri\nC'est super pour faire mille folies\n\nOn est Européennes\nEt les choses qu'on aime\nOn les trouve ici, de Londres à Paris\nMême si la musique est branchée\nEn direct de Radio L.A.\n\nEuropéennes, et nous, quand on aime\nC'est l'amour français, un peu libéré\nLe vieux continent, ça nous plaît\nSur fond de musique USA\n\nOn a tous dans le cœur\nUne chanson qui parle d'Été indien\nDes affiches en couleur\nDe couchers de soleil africains\n\nOn préfère le sourire de l'Italie\nL'Angleterre, Boy George et Lady Di\n\nOn est Européennes\nEt les choses qu'on aime\nOn les trouve ici, de Londres à Paris\nMême si la musique est branchée\nEn direct de Radio L.A.\n\nEuropéennes, et nous, quand on aime\nC'est l'amour français, un peu libéré\nLe vieux continent, ça nous plaît\nSur fond de musique USA\nHé...\n\nOn est toutes Européennes\nEt les choses qu'on aime\nOn les trouve ici, de Londres à Paris\nIl fait beau en Californie\nMais Saint-Tropez est bien аussi\n\nEuropéenneѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "European girls",
+      "content": "We feel like going away\nWhen there's no more sunshine in the house\nWe want to take off\nA few hours in a plane to change everything\n\nAmsterdam, Copenhagen or Capri\nIt's super to do a thousand foolish things\n\nWe're European girls\nAnd the things we love\nWe find them here, from London to Paris\nEven if the music is connected\nLive from Radio L.A.\n\nEuropean girls, and when we love someone\nIt's the French love, a bit liberated\nWe like the old continent\nWith background music USA\n\nWe all have in our hearts\nA song about Indian summer\nColour posters\nOf African sunsets\n\nWe prefer the smile of Italy\nEngland, Boy George and Lady Di\n\nWe're European girls\nAnd the things we love\nWe find them here, from London to Paris\nEven if the music is connected\nLive from Radio L.A.\n\nEuropean girls, and when we love someone\nIt's the French love, a bit liberated\nWe like the old continent\nWith background music USA\nHey...\n\nWe're all European girls\nAnd the things we love\nWe find them here, from London to Paris\nThe weather is nice in California\nBut Saint-Tropez is also good\n\nEuropeаn girlѕ"
+    }
+  ],
+  "bpm": 105,
+  "tone": "E major",
+  "artistPeople": [
+    "Catherine Bonnevay",
+    "Dominique Poulain",
+    "Francine Chantereau",
+    "Martine Latorre"
+  ],
+  "backings": [
+    "Georges Costa",
+    "Michel Costa"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Jean-Claude Petit",
+  "lyricists": null,
+  "writers": [
+    "Georges Costa",
+    "Michel Costa"
+  ],
+  "broadcaster": "A2F",
+  "commentators": [
+    "Patrice Laffont"
+  ],
+  "jury": null,
+  "spokesperson": "Patricia Lesieur"
+}

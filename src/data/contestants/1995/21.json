@@ -1,0 +1,52 @@
+{
+  "id": 21,
+  "country": "HU",
+  "artist": "Csaba Szigeti",
+  "song": "Új név egy régi ház falán",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Ok86PTKzv0s",
+    "https://www.youtube-nocookie.com/embed/MWh6EATr3q0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "hungarian"
+      ],
+      "displayedLanguages": null,
+      "title": "Új név egy régi ház falán",
+      "content": "A terem lassan elsötétül\nZsúfolt már a nézőtér\nArcok lenn a félhomályban\nNézem, hátha eljöttél\nDe attól félek már\nBárhol állsz, a sűrűségben elveszel\nHa itt leszel\nHa most nem látlak, nem tudom\nMikor lesz rá újabb alkalom\n\nTegnap néhány ismerősöm\nMondott rólad néhány szót\nTúl vagy már a rosz időkön\nNikor minden mindegy volt\nHívtunk volna már\nDe a régi számon amit tudtam\nMás felel, vagy senki sem\nMáshol laksz, vagy mással élsz?\nHa találkozunk, majd mindent elmesélsz\n\nÚj név a régi ház falán\nÚj év ez könnyebb lesz talán\nMás kép egy album másik oldalán\nÚj név a régi ház falán\nÚj év ez könnyebb lesz talán\nMásképp minden értelmetlen volna már\n\nÚj név a régi ház falán\nÚj év ez könnyebb lesz talán\nMás kép egy album máѕik oldаlán\nÚj név…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "A new name on the old house wall",
+      "content": "The hall is slowly getting darker\nThe auditorium is already crowded\nFaces down there in the semi-darkness\nI'm looking, maybe you have come\nBut I'm afraid\nWherever you are, you're lost in the crowd\nIf you are here\nIf I don't see you now, I don't know\nWhen there will be another chance\n\nYesterday some friends told me\nSome words about you\nYou went through bad times\nWhen everything was the same\nWe already called you\nBut at the old number that I knew\nSomebody else answered or nobody\nAre you staying or living somewhere else?\nWhen we meet, you have to tell me everything\n\nA new name on the old house wall\nA new year, maybe it will be easier\nAnother photograph on a new page of the album\nA new name on the old house wall\nA new year, maybe it will be easier\nOtherwise everything would be more incomprehensible\n\nA new name on the old house wall\nA new year, maybe it will be eaѕier\nAnother photograph on a new page of the album\nA new nаme…"
+    }
+  ],
+  "bpm": 163,
+  "tone": "C major",
+  "artistPeople": [
+    "Csaba Szigeti"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ferenc Balázs"
+  ],
+  "conductor": "Miklós Malek",
+  "lyricists": [
+    "Attila Horváth"
+  ],
+  "writers": null,
+  "broadcaster": "MTV",
+  "commentators": [
+    "István Vágó"
+  ],
+  "jury": null,
+  "spokesperson": "Katalin Bogyay"
+}

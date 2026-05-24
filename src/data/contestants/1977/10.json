@@ -1,0 +1,68 @@
+{
+  "id": 10,
+  "country": "IL",
+  "artist": "Ilanit",
+  "song": "Ah-haa-vah Hee Shir Lish-naa-yim",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/8An6k975YQM",
+    "https://www.youtube-nocookie.com/embed/clet4lL7rsQ",
+    "https://www.youtube-nocookie.com/embed/blWF99c9XAA"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": [
+        "ivrit"
+      ],
+      "title": "Ah-haa-vah Hee Shir Lish-naa-yim",
+      "content": "Ken, ken, ze shuv mitnagen\nZemer shir yashan noshan\nShenichtav mechadash bishvilcha\nAshir oto lecha\n\nVeshuv onim kinorot\nAf ani kmo meitar\nSheno'ad lemangina achat\nHamangina shelcha\n\nYashiru hashamaim\nAhava hi shir lishnaim\nHa'olam kulo tsochek elai veshar\nKama tov, kama tov\n\nYashiru hashamaim\nAhava hi shir lishnaim\nKi shiri hu hashir shelcha\n\nKen, ken, ze shuv mitnagen\nZemer shir yashan noshan\nShehayom po bishnaim nashir\nBishnaim nashir\n\nKi hashir lo nigmar\nTamid hu yushar\nTamid\n\n(Yashiru hashamaim)\n(Ahava hi shir lishnaim)\nHa'olam kulo tsochek elai veshar\nKama tov, kama tov\n\n(Yashiru hashamaim)\nZe ole veholem\nKmo tupim shebalev\n(Ahava hi shir lishnaim)\nIm hazemer haze\n\nHa'olam kulo tsochek elai veshar\nKama tov, kama tov\n\nYashiru hashamaim\nAhava hi shir lishnaim\nKi shircha hu hаshir ѕheli"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": [
+        "עברית"
+      ],
+      "title": "אהבה היא שיר לשניים",
+      "content": "כן, כן, זה שוב מתנגן\nזמר שיר ישן נושן\nשנכתב מחדש בשבילך\nאשיר אותו לך\n\nושוב עונים כינורות\nאף אני כמו מיתר\nשנועד למנגינה אחת\nהמנגינה שלך\n\nישירו השמיים\nאהבה היא שיר לשניים\nהעולם כולו צוחק אליי ושר\nכמה טוב, כמה טוב\n\nישירו השמיים\nאהבה היא שיר לשניים\nכי שירי הוא השיר שלך\n\nכן, כן, זה שוב מתנגן\nזמר שיר ישן נושן\nשהיום פה בשניים נשיר\nבשניים נשיר\n\nכי השיר לא נגמר\nתמיד הוא יושר\nתמיד\n\n(ישירו השמיים)\n(אהבה היא שיר לשניים)\nהעולם כולו צוחק אליי ושר\nכמה טוב, כמה טוב\n\n(ישירו השמיים)\nזה עולה והולם\nכמו תופים שבלב\n(אהבה היא שיר לשניים)\nעם הזמר הזה\n\nהעולם כולו צוחק אליי ושר\nכמה טוב, כמה טוב\n\nישירו השמיים\nאהבה היא שיר לשניים\nכי שירך הוא השיר שלי"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Love is a song for two",
+      "content": "Yes, yes, it's playing again\nAn old refrain\nThe was rewritten especially for you\nI shall sing it to you\n\nAnd violins reply again\nEven I am like a string\nThat was meant for one tune\nYour tune\n\nThe heavens will sing\nLove is a song for two\nThe whole world laughs with me and sings\nHow nice it is, how nice it is\n\nThe heavens will sing\nLove is a song for two\nFor my song is your song\n\nYes, yes, it's playing again\nAn old refrain\nThat we will sing today in a duet\nWe will sing in a duet\n\nFor the song is not over\nIt will always be sung\nAlways\n\n(The heavens will sing)\n(Love is a song for two)\nThe whole world laughs with me and sings\nHow nice it is, how nice it is\n\n(The heavens will sing)\nIt is rising and thumping\nLike drums in the heart\n(Love is a song for two)\nWith this tune\n\nThe whole world laughs with me and sings\nHow nice it is, how nice it is\n\nThe heavens will sing\nLove is а song for two\nFor your song is my ѕong"
+    }
+  ],
+  "bpm": 102,
+  "tone": "E major",
+  "artistPeople": [
+    "Hanna Dresner-Tzakh (חנה דרזנר)"
+  ],
+  "backings": [
+    "Katherine Dyer",
+    "Kiera Birch",
+    "Susan Galloway"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Eldad Shrem"
+  ],
+  "conductor": "Eldad Shrem",
+  "lyricists": [
+    "Edna Peleg"
+  ],
+  "writers": null,
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Yitzhak Shim'oni"
+}

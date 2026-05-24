@@ -1,0 +1,67 @@
+{
+  "id": 16,
+  "country": "CH",
+  "artist": "Marius Bear",
+  "song": "Boys Do Cry",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/hq2HCmHv5p4",
+    "https://www.youtube-nocookie.com/embed/EnsqrM40uaY",
+    "https://www.youtube-nocookie.com/embed/e6DMf-hVi7s",
+    "https://www.youtube-nocookie.com/embed/HAdu0H9UU6c",
+    "https://www.youtube-nocookie.com/embed/8Hr3bZLD070",
+    "https://www.youtube-nocookie.com/embed/EvYtKKtJQMQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Boys Do Cry",
+      "content": "In my room, lives a boy who could be blue\nAnd you might never know, oh, oh\nYou think he's cavalier, he would shed more than a crocodile tear\nIf you'd go, oh\n\nHearts they get broken\nGod only knows why\nAnd sometimes aeroplanes, fall down from the sky\nAnd mountains they crumble and rivers they run dry\nAnd oh, boys do cry\n\nWhen night falls, and the moon is all we see\nDon't fear the wolf that lives in me, oh, oh\nYou think he's tough enough, he would cry love till the sun comes up\nIf you go, ooh\n\nHearts they get broken\nGod only knows why\nAnd sometimes aeroplanes, fall down from the sky\nAnd mountains they crumble and rivers they run dry\nAnd oh, boys do cry\nAnd how they cry\n\nMountains they crumble аnd rivers they run dry\nAnd oh, boyѕ do cry"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "Jongens Huilen Wel",
+      "content": "In mijn kamer, leeft een jongen die blauw kon zijn\nEn je weet het misschien nooit, oh, oh\nJe denkt dat hij arrogant is, hij zou meer dan een krokodillentraan laten\nAls je zou gaan, oh\n\nHarten worden gebroken\nGod is de enige die weet waarom\nEn soms vallen vliegtuigen uit de lucht\nEn bergen brokkelen af en rivieren gaan droogstaan\nEn oh, jongens huilen wel\n\nWanneer het nacht wordt, en de maan alles is wat we zien\nWees niet bang voor de weerwolf die leeft in mij, oh, oh\nJe denkt dat hij stoer genoeg is, hij zou liefde huilen tot de zon opkomt\nAls je gaat, ooh\n\nHarten worden gebroken\nGod is de enige die weet waarom\nEn soms vallen vliegtuigen uit de lucht\nEn bergen brokkelen af en rivieren gaan droogstaan\nEn oh, jongens huilen wel\nEn hoe ze huilen\n\nBergen brokkelen af en rivieren gaan droogstaаn\nEn oh, jongenѕ huilen wel"
+    }
+  ],
+  "bpm": 120,
+  "tone": "F major",
+  "artistPeople": [
+    "Marius Hügli"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Sacha Jean-Baptiste",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Marius Bear",
+    "Martin Gallop"
+  ],
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Boris Piffaretti",
+    "Clarissa Tami",
+    "Francesca Margiotta",
+    "Gjon's Tears",
+    "Jean-Marc Richard",
+    "Nicolas Tanner",
+    "Sven Epiney"
+  ],
+  "jury": [
+    "Anna Känzig",
+    "Elias Bertini",
+    "Sandro Dietrich",
+    "Veronica Tracchia",
+    "Yvan Franel"
+  ],
+  "spokesperson": "Julie Berthollet"
+}

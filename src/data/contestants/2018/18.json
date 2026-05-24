@@ -1,0 +1,84 @@
+{
+  "id": 18,
+  "country": "RS",
+  "artist": "Sanja Ilić & Balkanika",
+  "song": "Nova deca",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/WRQWQShbPHU",
+    "https://www.youtube-nocookie.com/embed/g0tS6oTseNw",
+    "https://www.youtube-nocookie.com/embed/S5eC-HSEYPs",
+    "https://www.youtube-nocookie.com/embed/R_2MU320hKs",
+    "https://www.youtube-nocookie.com/embed/iRTTHstJHh4",
+    "https://www.youtube-nocookie.com/embed/vT7VVfa-y_s",
+    "https://www.youtube-nocookie.com/embed/W3Xd22-HLw4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "serbian"
+      ],
+      "displayedLanguages": [
+        "srpski"
+      ],
+      "title": "Nova deca",
+      "content": "Aj, da ja danem\nI da zaštu sum te mila\nA što ne gi dadne, eh\nNa na na\n\nSvet je naš\ni vreme prestaje da žuri\nkad si sa mnom ti\n\nSvet je naš\ni s'osmehom se budim\nzato što postojiš ti\n\nSve je jasnije\nsunce sija drugačije\n\nSvet je naš\ni nova deca s' nama stvaraju bolji svet\n\nAj, da ja danem\nI da\nA što ne gi dadne, eh\nBolji svet\n\nSvet je naš\ni vreme prestaje da žuri\nkad si sa mnom ti\n\nSvet je naš\ni s'osmehom se budim\nzato što postojiš ti\n\nSve je jasnije\nsunce sija drugačije\n\nSvet je naš\ni nova deca s' nama stvaraju bolji svet\n\nNa na na na na na ne\nNa na ne, na na, ah ah\nNa na ne, na na ne\nNa na ne, na na ne\n\nSve je jasnije\nsunce sija drugačije\n\nSvet je naš\ni nova deca s' nama stvarаju bolji ѕvet"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "serbian"
+      ],
+      "displayedLanguages": [
+        "српски"
+      ],
+      "title": "Нова деца",
+      "content": "Ај, да ја данем\nИ да зашту сум те мила\nА што не ги дадне, ех\nНа на на\n\nСвет је наш \nи време престаје да жури \nкад си са мном ти\n\nСвет је наш \nи с осмехом се будим\nзато што постојиш ти\n\nСве је јасније\nсунце сија другачије\n\nСвет је наш\nи нова деца с нама стварају бољи свет\n\nАј, да ја данем\nИ да\nА што не ги дадне, ех\nБољи свет\n\nСвет је наш \nи време престаје да жури \nкад си са мном ти\n\nСвет је наш \nи с осмехом се будим\nзато што постојиш ти\n\nСве је јасније\nсунце сија другачије\n\nСвет је наш\nи нова деца с нама стварају бољи свет\n\nНа на на на на не\nНа на не, на на, ах ах\nНа на не, на на не\nНа на не, на на не\n\nСве је јасније\nсунце сија другачије\n\nСвет је наш\nи нова деца с нама стварају бољи свет"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "New Children",
+      "content": "Oh, may I rest\nAnd why have I done this to you, dear\nAnd why don't we give them\nNa na na\n\nThe world is ours\nAnd time stops flying\nWhen you're with me\n\nThe world is ours\nAnd I wake up with a smile\nBecause you are there\n\nEverything is clearer\nThe sun shines differently\n\nThe world is ours\nAnd new children are creating a better world with us\n\nOh, may I rest\nAnd yes\nAnd why don't we give them\nA better world\n\nThe world is ours\nAnd time stops flying\nWhen you're with me\n\nThe world is ours\nAnd I wake up with a smile\nBecause you are there\n\nEverything is clearer\nThe sun shines differently\n\nThe world is ours\nAnd new children are creating a better world with us\n\nNa na na na na na ne\nNa na ne, na na, ah ah\nNa na ne, na na ne\nNa na ne, na na ne\n\nEverything is clearer\nThe sun shines differently\n\nThe world is ours\nAnd new children are creating а better world with uѕ"
+    }
+  ],
+  "bpm": 125,
+  "tone": "F# major",
+  "artistPeople": [
+    "Aleksandar Radulović",
+    "Danica Krstić",
+    "Iva Banićević",
+    "Ljubomir Dimitrijević",
+    "Mladen Lukić",
+    "Nevena Stamenković"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Gorčin Stojanović",
+  "composers": [
+    "Aleksandar Ilić",
+    "Tatjana Karajanov Ilić"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Danica Krstajić"
+  ],
+  "writers": null,
+  "broadcaster": "RTS",
+  "commentators": [
+    "Duška Vučinić-Lučić",
+    "Silvana Grujić",
+    "Tamara Petković"
+  ],
+  "jury": [
+    "Bojana Stamenov",
+    "Dejan Cukić",
+    "Garavi Sokak",
+    "Rade Radivojević",
+    "Tijana Milošević"
+  ],
+  "spokesperson": "Dragana Kosjerina"
+}

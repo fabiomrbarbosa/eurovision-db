@@ -1,0 +1,41 @@
+{
+  "id": 1,
+  "country": "IE",
+  "artist": "Marc Roberts",
+  "song": "Mysterious Woman",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/GV_3B13Q3xs",
+    "https://www.youtube-nocookie.com/embed/-DJ4EVJ5jxM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Mysterious Woman",
+      "content": "I saw you at an airport\nTicket in your hand\nI got a feeling in my heart\nI didn't understand\n\nSomething in the way you were\nSomething foreign in your eyes\nMade me wish that I could share\nOne moment of your life\n\nMysterious woman\nI wonder, did you see\nThe kind of spell you put on me?\nMysterious woman\nI wish I could find the key\nTo the kind of spell you put on me\n\nThe room was full of faces\nBut you stood out from the crowd\nPeople going places\nFar away beyond the clouds\nWere you from the streets of Paris\nOr the coast of Italy?\nOr were you from as far away\nAs the gulf of Araby?\n\nMysterious woman\nI wonder, did you see\nThe kind of spell you put on me?\nMysterious woman\nI wish I could find the key\nTo the kind of spell you put on me\n\nDid I imagine you smiled\nOr were my thoughts going wild?\n\nSuddenly you were going\nThe speaker called your plane\nThere was no way of knowing\nIf I'd ever see you again\n\nBut this brief, so brief encounter\nWill always stay with me\nI will always treasure\nThe bittersweet memory\n\nMysterious woman\nI wonder, did you see\nThe kind of spell you put on me?\nMysterious woman\nIt'll always be а mystery\nThe kind of ѕpell you put on me"
+    }
+  ],
+  "bpm": 145,
+  "tone": "G major",
+  "artistPeople": [
+    "Séan Hegarty"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "John Farry"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Pat Kenny"
+  ],
+  "jury": null,
+  "spokesperson": "Eileen Dunne"
+}

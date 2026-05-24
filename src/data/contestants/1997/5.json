@@ -1,0 +1,56 @@
+{
+  "id": 5,
+  "country": "ES",
+  "artist": "Marcos Llunas",
+  "song": "Sin rencor",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/9QHn0VULbYU",
+    "https://www.youtube-nocookie.com/embed/i7GyVlTVKQg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Sin rencor",
+      "content": "Hoy es un día triste, mi amor\nNos dimos cuenta que llegamos al fin\nFin de un camino, fin de un amor\nY nos dimos cuenta los dos\n\nFue maravilloso pasar\nEsos días felices que poder recordar\nSe apaga la llama, se apaga el amor\nPero el corazón siempre sentirá...\n\nQue eres algo especial\nQue no habrá nadie igual\nPor eso te pido\nQue no haya rencor\nSi nos vemos de nuevo, amor\nFueron tantos los días felices\nFue tanto el amor que me diste\nJúramelo sin rencor\n\nTe deseo todo lo mejor\nQue lo que aprendimos nos sirva a los dos\nAdiós, mi vida, ya sabes que\nYo por ti sentiré...\n\nQue eres algo especial\nQue no habrá nadie igual\nPor eso te pido\nQue no haya rencor\nSi nos vemos de nuevo amor\nFueron tantos los días felices\nFue tanto el amor que me diste\nSólo júrame, por favor\n\nQue no habrá rencor\nSi nos vemos de nuevo amor\nSiempre habrá algo especial entre tú y yo\nQue entre los dos todo seguirá\nSin rencor, sin rencor\n\nSi buscas un amigo\nA tu lado me tendrás\n\nEntre tú y yo\nQue no habrá rencor\nSiempre habrá algo eѕpeciаl entre tú y yo\nSin rencor"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Without grudge",
+      "content": "Today is a sad day, my love\nWe realised we came to the end\nEnd of a road, end of a love\nAnd we both realised it\n\nIt was wonderful to spend\nThose unforgettable, happy days\nOur flame dies out, our love dies out\nBut our heart will always feel...\n\nThat you're someone special\nThat no one will be the same\nThat's why I ask you\nThat there won't be grudge\nIf we meet again, love\nThere were so many happy days\nYou gave me so much love\nSwear it to me, without grudge\n\nI wish you all the best\nMay the things we learnt help us both\nGoodbye, sweetheart, you know that\nI'll feel for you...\n\nThat you're someone special\nThat no one will be the same\nThat's why I ask you\nThat there won't be grudge\nIf we meet again, love\nThere were so many happy days\nYou gave me so much love\nJust swear to me, please\n\nMay there never be grudge\nIf we meet again, love\nThere'll always be something special between you and me\nThat between us both everything will stay\nWithout grudge, without grudge\n\nIf you search a friend\nI'll be by your side\n\nBetween you and me\nMay there never be grudge\nThere'll always be something ѕpecial between you аnd me\nWithout grudge"
+    }
+  ],
+  "bpm": 132,
+  "tone": "G minor",
+  "artistPeople": [
+    "Marcos Gómez Llunas"
+  ],
+  "backings": [
+    "David Simó",
+    "Eva Gris",
+    "Jordi Bonell",
+    "Jordi Portaz",
+    "Mosa García"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Toni Xuclà",
+  "lyricists": null,
+  "writers": [
+    "Marcos Llunas"
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "José Luis Uribarri"
+  ],
+  "jury": null,
+  "spokesperson": "Belén Fernández de Henestrosa"
+}

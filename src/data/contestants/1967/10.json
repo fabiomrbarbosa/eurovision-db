@@ -1,0 +1,52 @@
+{
+  "id": 10,
+  "country": "IT",
+  "artist": "Claudio Villa",
+  "song": "Non andare più lontano",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/FlnJLOjsV44",
+    "https://www.youtube-nocookie.com/embed/r2Wfa1LvZ0w"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Non andare più lontano",
+      "content": "Amore, amore, non andare più lontano\nIl mondo non è quello dei tuoi sogni\nLa gente non è come pensi tu\n\nAmore, amore, non andare più lontano\nE stringimi le mani per capire\nChe io posso piangere per te\n\nAl tuo paese, la terra è sempre umida di nebbia\nE le persone sono tutte uguali:\nNon hanno tanti sogni come te\n\nIo le ho guardate, non hanno neanche il pane per campare\nNon hanno niente, ma si sanno amare\nE allora sono ricche più di te\n\nAmore, amore, non andare più lontano\nIl mondo non è quello dei tuoi sogni\nLa gente non è come pensi tu\n\nAmore, amore, non andare più lontano\nE stringimi le mani per capire\nChe io posso piangere per te\n\nAmore\n\nAmore, amore, non andare più lontano\nE stringimi le mani per capire\nChe io posѕo piangere per te\n\nAmore... amore... аmore"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Don't go far away anymore",
+      "content": "My love, my love, don't go far away anymore\nThe world is not the one from your dreams\nPeople are not as you think\n\nMy love, my love, don't go far away anymore\nAnd hold my hands to understand\nThat I can cry for you\n\nIn your countryside, the earth is always damp of mist\nAnd people are all the same\nThey don't have as many dreams as you have\n\nI've watched them, they even don't have bread for living\nThey don't have anything, but they know how to love\nAnd now they're richer than you\n\nMy love, my love, don't go far away anymore\nThe world is not the one from your dreams\nPeople are not as you think\n\nMy love, my love, don't go far away anymore\nAnd hold my hands to understand\nThat I can cry for you\n\nMy love\n\nMy love, my love, don't go far away anymore\nAnd hold my hands to underѕtand\nThat I cаn cry for you\n\nMy love... my love... my love"
+    }
+  ],
+  "bpm": 97,
+  "tone": "E minor",
+  "artistPeople": [
+    "Claudio Pica"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Gino Mescoli"
+  ],
+  "conductor": "Giancarlo Chiaramello",
+  "lyricists": [
+    "Vito Pallavicini"
+  ],
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Renato Tagliani"
+  ],
+  "jury": null,
+  "spokesperson": "Mike Bongiorno"
+}

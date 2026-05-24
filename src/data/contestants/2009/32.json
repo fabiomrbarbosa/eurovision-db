@@ -1,0 +1,56 @@
+{
+  "id": 32,
+  "country": "CH",
+  "artist": "Lovebugs",
+  "song": "The Highest Heights",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/OqBhqj5nIpE",
+    "https://www.youtube-nocookie.com/embed/CseWa_d43ck"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The highest heights",
+      "content": "I climb a tree, so mighty high\nI see the world from just beneath the sky\nThe dreams I dream, they take me high\nOh, it's always worth a try\n\nThe time is now, so stop the tease\nAnd may I have your attention, please\nThe time has come, the curtains call\n\nWill you catch me when I fall? Oh yeah\nFrom the highest heights of all? Oh yeah\n\nI climb this tree, the highest heights\nFrom beneath the stars, I see little lights\nThe dreams I dream demand their rights\nOh\n\nWill you catch me when I fall? Oh yeah\nFrom the highest heights of all? Oh yeah\n\nHow will I ever know?\nI've always gotta know\nWill you catch me?\n\nWill you catch me when I fall? Oh yeah\nFrom the highest heightѕ of all? Oh yeah\nWill you cаtch me?"
+    }
+  ],
+  "bpm": 118,
+  "tone": "F major",
+  "artistPeople": [
+    "Adrian Sieber",
+    "Florian Senn",
+    "Simon Ramseier",
+    "Stefan Wagner",
+    "Thomas Rechberger"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Adrian Sieber",
+    "Florian Senn",
+    "Thomas Rechberger"
+  ],
+  "broadcaster": "SRG SSR idée suisse",
+  "commentators": [
+    "Jean-Marc Richard",
+    "Nicolas Tanner",
+    "Sandy Altermatt",
+    "Sven Epiney"
+  ],
+  "jury": [
+    "Emel Aykanat",
+    "Giovanni Zamai",
+    "Jean-Marie Fontana",
+    "Judith Wernli",
+    "Michael von der Heide"
+  ],
+  "spokesperson": "Cécile Bähler"
+}

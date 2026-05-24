@@ -1,0 +1,59 @@
+{
+  "id": 17,
+  "country": "NO",
+  "artist": "Merethe Trøan",
+  "song": "Visjoner",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/qXwOpjX1Cu4",
+    "https://www.youtube-nocookie.com/embed/TTnfYyq9h88",
+    "https://www.youtube-nocookie.com/embed/Glq3puxs2gs"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "norwegian"
+      ],
+      "displayedLanguages": null,
+      "title": "Visjoner",
+      "content": "Visjoner fra en drøm gir refleksjoner og en bønn\nLa fremtiden bli vår\nVi høster bare det vi sår\nHva har vi så forstått av tiden som er gått?\nKan fortid bære fremtidens barn?\n\nEt sekel ebber ut, en ny tid banker på vår dør\nHar fremgang ført oss vill?\nFortidens ild har varme glør\nNaturen har fått sår, verdier står på spill\nNå ser vi alle feil fra i går\n\nMen håpet det er tent, det kan vel aldri bli for sent\nAt kunnskapen slår rot\nSom gir oss skapertrang og mot\nKultur, det er en arv til folket i vårt land\nDet er et speil av tidenes gang\n\nGi oss en soloppgang med barnelatter og sang\nVi elsker far og mor\nHar kjærlighet å gi til søster og bror\nGi oss en soloppgang og la vår drøm være sann\nSammen på håpets vei går vi hand i hand\n\nVi har kun denne jord, la morgendagen bli en venn\nVis nestekjærlighet\nSå får du ærlighet igjen\nLa liten og la stor få dele samme bord\nI vennskap som lever og gror\n\nGi oss en soloppgang med barnelatter og sang\nVi elsker far og mor\nHar kjærlighet å gi til søster og bror\nGi oss en soloppgang og la vår drøm være sann\nSammen på håpets vei går vi hand i hand\n\n(Gi oss en soloppgang med barnelatter og sang)\n(Vi elsker far og mor)\n(Har kjærlighet å gi til søster og bror)\nGi oss en soloppgang og la vår drøm være sann\nSammen på håpetѕ vei går vi hand i hаnd"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Visions",
+      "content": "Visions from a dream provides reflection and a prayer\nLet the future belong to us\nWe only reap what we sow\nWhat have we understood then, of the time that has passed?\nCan the past carry the children of the future?\n\nA century is ebbing out, a new era is knocking on our door\nHas progress led us astray?\nThe fire of the past contains hot embers\nNature is wounded, values are at stake\nNow we see all of yesterday's mistakes\n\nBut the hope has been lit, it can never be too late\nFor knowledge to put down roots\nWhich provide us with courage and a will to create\nCulture is a heritage for the people of our country\nA mirror of times passed by\n\nGive us a dawn with children's laughter and song\nWe love our father and mother\nWe have love to give to our sister and brother\nGive us a sunrise and let our dream be true\nTogether on the path of hope we walk hand in hand\n\nWe only have this earth, let tomorrow become a friend\nShow love to your fellow man\nAnd you will have honesty in return\nLet big and small share the same table\nIn a friendship which is alive and growing\n\nGive us a dawn with children's laughter and song\nWe love our father and mother\nWe have love to give to our sister and brother\nGive us a sunrise and let our dream be true\nTogether on the path of hope we walk hand in hand\n\n(Give us a dawn with children's laughter and song)\n(We love our father and mother)\n(We have love to give to our sister and brother)\nGive us a sunriѕe and let our dream be true\nTogether on the path of hope we walk hand in hаnd"
+    }
+  ],
+  "bpm": 123,
+  "tone": "C minor",
+  "artistPeople": [
+    "Merethe Trøan"
+  ],
+  "backings": [
+    "Berit Lohne",
+    "Hilde Kjeldsen",
+    "Leif Digernes",
+    "Marian Lisland",
+    "Per Øystein Sørensen"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Robert Morley"
+  ],
+  "conductor": "Rolf Løvland",
+  "lyricists": [
+    "Eva Jansen"
+  ],
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "John Andreassen"
+  ],
+  "jury": null,
+  "spokesperson": "Sverre Christophersen"
+}

@@ -1,0 +1,53 @@
+{
+  "id": 16,
+  "country": "MC",
+  "artist": "Tereza",
+  "song": "Bien plus fort",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/n0EoZQiH7ro",
+    "https://www.youtube-nocookie.com/embed/7y5uOGjIUfI",
+    "https://www.youtube-nocookie.com/embed/9m71Pq42A40"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Bien plus fort",
+      "content": "Bien plus fort que le vent\nEt plus grand que la terre\nEst ton amour pour moi\nEst mon amour pour toi\nAujourd'hui et demain et toujours\n\nBien plus rouge que le sang\nEt plus dur que la pierre\nEst ton amour pour moi\nEst mon amour pour toi\nAujourd'hui et demain, mon amour\n\nAlors ouvre tes bras\nEmmène-moi loin d'ici\nJe veux vivre avec toi\nEt rire avec ta bouche\nEt pleurer de tes yeux\nEt chanter et danser et te savoir heureux\n\nPlus brûlant que le feu\nEt plus doux que la pluie\nEst ton amour pour moi\nEst mon amour pour toi\nAujourd'hui et demain et toujours\n\nBien plus loin que la vie\nEt par dessus la mort\nEst ton amour pour moi\nEѕt mon amour pour toi\nAujourd'hui et demain, mon amour\nMon amour, mon аmour"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Much stronger",
+      "content": "Much stronger than the wind\nAnd bigger than the earth\nIs your love for me\nIs my love for you\nToday and tomorrow and always\n\nMuch redder than blood\nAnd harder than stone\nIs your love for me\nIs my love for you\nToday and tomorrow, my love\n\nSo open your arms\nTake me far from here\nI want to live with you\nAnd laugh with your mouth\nAnd cry with your eyes\nAnd sing and dance and know you happy\n\nFierier than the fire\nAnd sweeter than the rain\nIs your love for me\nIs my love for you\nToday and tomorrow and always\n\nMuch further than life\nAnd beyond death\nIs your love for me\nIѕ my love for you\nToday аnd tomorrow, my love\nMy love, my love"
+    }
+  ],
+  "bpm": 79,
+  "tone": "F major",
+  "artistPeople": [
+    "Tereza Kesovija"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Gérard Bourgeois"
+  ],
+  "conductor": "Alain Goraguer",
+  "lyricists": [
+    "Jean-Max Rivière"
+  ],
+  "writers": null,
+  "broadcaster": "TMC",
+  "commentators": [
+    "François Deguelt"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

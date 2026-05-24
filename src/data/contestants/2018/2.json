@@ -1,0 +1,62 @@
+{
+  "id": 2,
+  "country": "AT",
+  "artist": "Cesár Sampson",
+  "song": "Nobody But You",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/a8Yvzo1puoE",
+    "https://www.youtube-nocookie.com/embed/usUA5BfU9pg",
+    "https://www.youtube-nocookie.com/embed/I8MyztgOTv8",
+    "https://www.youtube-nocookie.com/embed/1vGFeXbm04Y",
+    "https://www.youtube-nocookie.com/embed/3OCT4sosrQo",
+    "https://www.youtube-nocookie.com/embed/aca2yb9_qqs",
+    "https://www.youtube-nocookie.com/embed/7T3hg_Y1xAo"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Nobody But You",
+      "content": "Lord I'm gonna get so high tonight\nI'm gonna let the floodgates open wide\nI'm in open water\nThis is what I need\nAnd though I try to get you off my mind\n\nAnd I get no sleep\nI'm in too deep\nI can't let you leave\n\nIt wouldn't be right letting you go running away from love\nAin't nobody but you I can hold onto\nSo am I wrong giving my all making you stay tonight?\nAin't nobody but you I can hold onto\n\nLord, I'm gonna bring you back tonight\nOh you're running circles round my mind\nAfter your words have been my bible\nHow could I search for someone new?\nWhen I really want you by my side\n\nAnd I get no sleep\nI'm in too deep\nTo let you leave\n\nIt wouldn't be right letting you go running away from love\nAin't nobody but you I can hold onto\nSo am I wrong giving my all making you stay tonight?\nAin't nobody but you I can hold onto\n\nDon't make me tear my heart out\nI'm shaking till I fall down\nDon't make me tear my heart out\nDon't make me tear my heart out\nI'm shaking till I fall down\nDon't make me tear my heart out\n\nIt wouldn't be right letting you go running away\nAin't nobody but you I can hold onto\nSo am I wrong giving my all making you ѕtay tonight?\nAin't nobody but you I can hold onto\nIt wouldn't be right letting you go running away from love\nAin't nobody but you I cаn hold onto\nAin't nobody but you"
+    }
+  ],
+  "bpm": 85,
+  "tone": "G major",
+  "artistPeople": [
+    "Cesár Sampson"
+  ],
+  "backings": [
+    "Kiko Pereira",
+    "Rachelle Jeanty",
+    "Ricardo Soler",
+    "Sandra Kurzweil",
+    "Sunay Balkan"
+  ],
+  "dancers": null,
+  "stageDirector": "Marvin Dietmann",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Borislav Milanov",
+    "Cesár Sampson",
+    "Joacim Persson",
+    "Johan Alkenäs",
+    "Sebastian Arman"
+  ],
+  "broadcaster": "ORF",
+  "commentators": [
+    "Andi Knoll"
+  ],
+  "jury": [
+    "Florian Cojocaru",
+    "Hannes Tschürtz",
+    "Ina Regen",
+    "Monika Ballwein",
+    "Nathan Trent"
+  ],
+  "spokesperson": "Katharina Bellowitsch"
+}

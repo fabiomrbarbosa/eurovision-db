@@ -1,0 +1,72 @@
+{
+  "id": 1,
+  "country": "AZ",
+  "artist": "Farid Mammadov",
+  "song": "Hold Me",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/S7C3S2zuVp8",
+    "https://www.youtube-nocookie.com/embed/b4PWtkrDi-s",
+    "https://www.youtube-nocookie.com/embed/71JHq2M0_2o",
+    "https://www.youtube-nocookie.com/embed/x5Qx5ZsYZQU",
+    "https://www.youtube-nocookie.com/embed/MaKZiwefeco"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Hold Me",
+      "content": "Should have seen it coming when I saw you\nShould have had the sense to stop and walk away\nIt was gonna turn out complicated\nWe've hit overload, about to explode\n\nIf love was a mountain\nI'd climb up to the highest of them all\nI'd swim across the ocean if you'd call\nI'm lost in your smile\nFreefalling for miles\n\nHold me, just unfold me\nUnchain my soul, give me love, make me whole\nHold me, if it's only for this moment in time\nNow I'm yours and you're mine\nSo hold me\n\nTake a little time then you'll know better\nThen to think about giving in on the one you love\nCan we go back and freeze the moment?\nWhere we used to be free, was only you and me\n\nHold me, just unfold me\nUnchain my soul, give me love, make me whole\nHold me, if it's only for this moment in time\nNow I'm yours and you're mine\n\nRemember how we used to laugh\nBut now you're running from the past\nLet's find a way to carry on\nRemember how love used to be\nYou said I was your fantasy\nCan't take another night alone\nSo come on home\n\nHold me, just unfold me\nUnchain my soul, give me love, make me whole\nHold me, if it's only for this moment in time\nNow I'm yourѕ аnd you're mine\nSo hold me"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "serbian"
+      ],
+      "displayedLanguages": null,
+      "title": "Zagrli me",
+      "content": "Trebao sam da shvatim kad sam te video\nTrebao sam imati razuma da stanem i odem\nBilo je jasno da će postati komplikovano\nPreopterećeni smo, pred eksplozijom smo\n\nKad bi ljubav bila planina\nPopeo bih se na najvišu od svih\nPreplivao bih okean ako me pozoveš\nIzgubljen sam u tvom osmehu\nSlobodan pad u nedogled\n\nZagrli me, samo me otvori\nOslobodi moju dušu, daj mi ljubav, učini me celim\nZagrli me, makar samo za ovaj trenutak u vremenu\nSada sam tvoj, a ti si moja\nZato me zagrli\n\nOdvoji malo vremena pa ćeš bolje znati\nDa ne odustaješ od onoga koga voliš\nMožemo li se vratiti i zamrznuti trenutak?\nKad smo bili slobodni, samo ti i ja\n\nZagrli me, samo me otvori\nOslobodi moju dušu, daj mi ljubav, učini me celim\nZagrli me, makar samo za ovaj trenutak u vremenu\nSada sam tvoj, a ti si moja\n\nSeti se kako smo se smejali\nA sada bežiš od prošlosti\nHajde da pronađemo način da nastavimo\nSeti se kako je ljubav nekad bila\nRekao si da sam ti bila fantazija\nNe mogu još jednu noć da provedem sam\nZato se vrati kući\n\nZagrli me, samo me otvori\nOslobodi moju dušu, daj mi ljubav, učini me celim\nZagrli me, makar samo za ovaj trenutak u vremenu\nSada sam tvoj, a ti ѕi moja\nZato me zаgrli"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Abrázame",
+      "content": "Debiera haberlo visto venir cuando te vi\nDebiera haber tenido el sentido común de pararme y alejarme\nVa a volverse complicado\nHemos llegado a la sobrecarga, a punto de explotar\n\nSi el amor fuera una montaña\nEscalaría la más alta de todas\nNadaría a través del océano si me llamases\nMe hallo perdido en tu sonrisa\nEn caída libre a lo largo de muchas millas\n\nAbrázame, sólo desdóblame\nDesencadena mi alma, dame amor, complétame\nAbrázame, aunque sólo sea durante este momento\nAhora soy tuyo y tú eres mía\nAsí que abrázame\n\nTómate un poco de tiempo y lo sabrás\nDespués piensa en ceder ante quien amas\n¿Podemos dar marcha atrás y congelar el momento\nCuando éramos libres, cuando éramos sólo tú y yo?\n\nAbrázame, sólo desdóblame\nDesencadena mi alma, dame amor, complétame\nAbrázame, aunque sólo sea durante este momento\nAhora soy tuyo y tú eres mía\n\nRecuerda cómo nos reíamos\nSin embargo, ahora huyes del pasado\nHallemos el modo de continuar\nRecuerda cómo éramos\nDecías que yo era tu fantasía\nNo puedo aguantar otra noche solo\nAsí que regresa a casa\n\nAbrázame, sólo desdóblame\nDesencadena mi alma, dame amor, complétame\nAbrázame, aunque sólo sea durante este momento\nAhora soy tuyo y tú eres mía\nAsi pueѕ, abrázаme"
+    }
+  ],
+  "bpm": 90,
+  "tone": "Bb minor",
+  "artistPeople": [
+    "Farid Mammadov"
+  ],
+  "backings": [
+    "Alvaro Estrella",
+    "Fernando Fuentes",
+    "Jennie Jahns"
+  ],
+  "dancers": [
+    "Iyrine Nevmyvanaya",
+    "Pykh"
+  ],
+  "stageDirector": "Fokas Evangelinos",
+  "composers": [
+    "Dimitris Kontopoulos"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "John Ballard",
+    "Ralph Charlie Al Fahel"
+  ],
+  "writers": null,
+  "broadcaster": "İctimai",
+  "commentators": [
+    "Konul Arifgizi"
+  ],
+  "jury": null,
+  "spokesperson": "Tamilla Shirinova"
+}

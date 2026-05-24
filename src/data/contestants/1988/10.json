@@ -1,0 +1,68 @@
+{
+  "id": 10,
+  "country": "ES",
+  "artist": "La Década",
+  "song": "La chica que yo quiero (Made in Spain)",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vl4OK6LLkY8",
+    "https://www.youtube-nocookie.com/embed/v9hudKHv3RQ",
+    "https://www.youtube-nocookie.com/embed/vZUTvyFDvNc",
+    "https://www.youtube-nocookie.com/embed/2F_sAggdFLE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "La chica que yo quiero (Made in Spain)",
+      "content": "¿Dónde está, al sur del paralelo cuatrotres\nLa chica más loca y más fría?\n¿Qué tendrá, que lleva de cabeza al que la ve\nCambiándole con su filosofía?\n\n'Made in Spain' tatuado en su piel\nCien mil watios de sol alumbrándome cada día\nMade in Spain, pasaporte especial\nElla es made in Spain , la mejor garantía\n\nPero yo, las horas de abstinencia estoy fatal\nTodas resultan tan frías\nY al final me gana con su vena natural\nSi yo estoy mal me da energía\n\nSu melena femenina, su corazón confidencial\nSus ojos mirando en estéreo\n¿Quién será? Nadie sabe quién\nLa chica que yo quiero, quiero 'made in Spain'\n\n'Made in Spain' tatuado en su piel\nCien mil watios de sol alumbrándome cada día\nMade in Spain, pasaporte especial\nElla es made in Spain , la mejor garantía\n\n(Made in Spain, ah…)\n¿Quién será? Nadie sabe quién\nLa chica que yo quiero, quiero 'made in Spain'\n\n'Made in Spain' tatuado en su piel\nCien mil watios de sol alumbrándome cada día\nMade in Spain, pasaporte especial\nElla eѕ made in Spain, la mejor garantía\n\nMade in Spain, Made in Spain, Made in Spаin"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The girl that I want (Made in Spain)",
+      "content": "Where is, to the south of parallel forty-three\nThe craziest and coldest girl?\nWhat does she have, that bothers everyone who sees her\nChanging them with her philosophy?\n\n'Made in Spain' tattooed on her skin\nA hundred thousand watts of sun shining on me everyday\nMade in Spain, special passport\nShe's made in Spain, the best guarantee\n\nBut I feel bad in the hours of abstinence\nThey're all so cold\nAnd finally she wins with her natural vein\nIf I feel bad, she gives me energy\n\nHer feminine loose hair, her confidential heart\nHer eyes looking in stereo\nWho is she? Nobody knows\nThe girl that I love, I want a 'made in Spain'\n\n'Made in Spain' tattooed on her skin\nA hundred thousand watts of sun shining on me everyday\nMade in Spain, special passport\nShe's made in Spain , the best guarantee\n\n(Made in Spain, ah…)\nWho is she? Nobody knows\nThe girl that I love, I want a 'made in Spain'\n\n'Made in Spain' tattooed on her skin\nA hundred thousand watts of sun shining on me everyday\nMade in Spain , special passport\nShe's made in Spain , the beѕt guarantee\n\nMade in Spain, Made in Spain, Made in Spаin"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Flickan som jag älskar (Gjord i Spanien)",
+      "content": "Var är, söder om parallell fyrtiotre\nDen galnaste och kallaste flickan?\nVad har hon som stör alla som ser henne\nOch förändrar dem med sin filosofi?\n\n'Gjord i Spanien' tatuerat på hennes hud\nHundra tusen watt med sol skiner på mig varje dag\nGjord i Spanien, speciellt pass\nHon är gjord i Spanien, den bästa garantin\n\nMen jag mår dåligt i abstinensens timmar\nDe är alla så kalla\nOch äntligen vinner hon med sin naturliga ven\nOm jag mår dåligt ger hon mig energi\n\nHennes feminina utsläppta hår, hennes konfidentiella hjärta\nHennes ögon tittar i stereo\nVem är hon? Ingen vet\nFlickan som jag älskar, jag vill ha någon 'gjord i Spanien'\n\n'Gjord i Spanien' tatuerat på hennes hud\nHundra tusen watt med sol skiner på mig varje dag\nGjord i Spanien, speciellt pass\nHon är gjord i Spanien, den bästa garantin\n\n(Gjord i Spanien, ah…)\nVem är hon? Ingen vet\nFlickan som jag älskar, jag vill ha någon 'gjord i Spanien'\n\n'Gjord i Spanien' tatuerat på hennes hud\nHundra tusen watt med sol skiner på mig varje dag\nGjord i Spanien, speciellt pass\nHon är gjord i Spanien, den bäѕta garantin\n\nGjord i Spanien, gjord i Spanien, gjord i Spаnien"
+    }
+  ],
+  "bpm": 103,
+  "tone": "D major",
+  "artistPeople": [
+    "Ana Nery Fragoso López",
+    "Carmelo Martínez López",
+    "Cecilia Fernández Blanco",
+    "José Miguel Gómez Subiza",
+    "Manuel Aguilar",
+    "Manuel Santisteban"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Enrique Peiró"
+  ],
+  "conductor": "Javier de Juan",
+  "lyricists": [
+    "Francisco Dondiego"
+  ],
+  "writers": null,
+  "broadcaster": "TVE",
+  "commentators": [
+    "Beatriz Pécker"
+  ],
+  "jury": null,
+  "spokesperson": "Matilde Jarrín"
+}

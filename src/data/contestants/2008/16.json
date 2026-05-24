@@ -1,0 +1,57 @@
+{
+  "id": 16,
+  "country": "AL",
+  "artist": "Olta Boka",
+  "song": "Zemrën e lamë peng",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/CmvA5kfNsig",
+    "https://www.youtube-nocookie.com/embed/jrc7XpFn9kA",
+    "https://www.youtube-nocookie.com/embed/yRLz2nLdpI0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "albanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Zemrën e lamë peng",
+      "content": "Ora si zemër troket\nOra e çmendur rend, akrepa nuk ka\nKohën vodhe ti nga jeta ime\nBora e zerit tënd mbi zemrën time ra\nMbuloi strehën e fundit të dashurisë\n\nHa… ha…\nDhe ndalen akrepat atje\n\nDitë pas ditë, ne\nRrahje pas rrahje, më kot kerkuam\nOrë e përkryer\nNjë zemër jo kurrë s'mund të jetë\n\nNatë pas natë, ne\nRrahje pas rrahje, ne të larguar\nPor jo, nuk mundëm\nSe zemrën të dy e lamë peng\nAh…\n\nOra si zemër troket\nOra e çmendur rend, akrepa nuk ka\nKohën vodhe ti nga jeta ime\n(Bora e zerit tënd) mbi zemrën time ra\nMbuloi strehën e fundit të dashurisë\n\nHa… ha…\nDhe ndalen akrepat atje\n\nDitë pas ditë, ne\nRrahje pas rrahje, më kot kerkuam\nOrë e përkryer\nNje zemër jo kurrë s'mund të jetë\n\nNatë pas natë, ne\nRrahje paѕ rrahje, ne të larguar\nPor jo, nuk mundëm\nSe zemrën të dy e lamë peng\nHа…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "We put our hearts at stake",
+      "content": "The clock ticks like a heart\nThe clock runs crazy, it has no hands\nYou stole the time from my life\nThe coldness of your voice fell on my heart\nCovering the last shelter of love\n\nHa… ha…\nAnd the hands of time stop there\n\nDay after day, we\nBeat after beat, we looked in vain\nFor the perfect clock\nWhich a heart can never be\n\nNight after night, we\nBeat after beat, we grew apart\nBut no, we couldn't\nBecause we both put our hearts at stake\nAh…\n\nThe clock ticks like a heart\nThe clock runs crazy, it has no hands\nYou stole the time from my life\n(The coldness of your voice) fell on my heart\nCovering the last shelter of love\n\nHa… ha…\nAnd the hands of time stop there\n\nDay after day, we\nBeat after beat, we looked in vain\nFor the perfect clock\nWhich a heart can never be\n\nNight after night, we\nBeat after beat, we grew apart\nBut no, we couldn't\nBecause we both put our hearts at ѕtake\nHа…"
+    }
+  ],
+  "bpm": 127,
+  "tone": "C minor",
+  "artistPeople": [
+    "Olta Boka"
+  ],
+  "backings": [
+    "Genci Myftaraj",
+    "Gridi Kraja",
+    "Mariola Miso"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Adrian Hila"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Pandi Laço"
+  ],
+  "writers": null,
+  "broadcaster": "RTSH",
+  "commentators": [
+    "Leon Menkshi"
+  ],
+  "jury": null,
+  "spokesperson": "Leon Menkshi"
+}

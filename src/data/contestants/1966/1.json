@@ -1,0 +1,55 @@
+{
+  "id": 1,
+  "country": "SE",
+  "artist": "Lill Lindfors & Svante Thuresson",
+  "song": "Nygammal vals",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/hPfg829wkC0",
+    "https://www.youtube-nocookie.com/embed/OqqX14-OSJ4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Nygammal vals (Hip man svinaherde)",
+      "content": "För länge sedan i världen fanns\nEn svinaherde, en stenhipp man\nOch en prinsessa, stolt jungfru hon var\nEn dag möttes de och han steg fram och sa:\n\nKors i karamellen, vilken schysst mam'sell du verkar vara\nTitta vilken klänning, jätteklämmig\nÄr det maskerad, va?\nStick iväg från stigen, du var mig en osedvanlig lurk\nJag är prinsessa, ganska så sipp\nJag heter kunnigunda, konungens gull\nDu, simma långsamt, var lite hipp\nHör när jag trummelummar på min kastrull\n\nDigga digga pop...\n\nTjong i medaljongen, en så'n festlig sång du trumma' nyss, va?\nLär du bara mig att trummelumma får du mun min kyssa\nMun har varje jänta, kan man inte tänka sig en slant?\nDricker ur bäcken, lever av mull\nHar man en slant på fickan kan man stå lull\nDu var en fräck en, får inget gull\nMen jag vill trummelumma på din kastrull\n\nDigga digga pop...\n\nKlang i kantarellen, det var väldans, bruden har visst bråttom\nVad i hela friden ser du i den? Grytor finns det gott om\nGrytan där den låter skönt, den ljuder grönt, en lajbans klang\nVi gör ett avtal, ta't eller stick\nJag blir hipp svinaherde, du kungens gull\nJag som prinsessa? Visst man är hipp\nTa då min trummelumma, ta min kastrull\n\nHan som prinsessa, hipp man i clips\nHivades ut från hovet av en patrull\nHon svinaherde, sipp brud i slips\nGjorde var männ'ska galen, spelte kastrull\nDöden i grytan byta bort sin kаѕtrull"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "New-Old Waltz (Hip pig breeder)",
+      "content": "Once upon a time there was\nA pig breeder, a really cool man\nAnd a princess, a proud maiden she was\nOne day they met and he stepped up to her and said:\n\nGosh almighty, you seem to be a cool lady\nLook at that dress, really happening\nIs there a fancy dress party or something?\nGet lost, you're such a peasant\nI'm a princess, rather prudish\nMy name is Cunigunda, the king's sweetheart\nHey, take it easy, chill out\nListen to me drumming on my saucepan\n\nDig dig pop...\n\nOops, such a groovy tune you drummed just there\nIf you teach me how to drum you can kiss me\nEvery girl has a mouth, what about a coin instead?\nI drink from the brook, I eat soil\nIf you have a coin in your pocket you're better off\nYou're such a cheeky devil, you won't get any gold\nBut I want to drum on your saucepan\n\nDig dig pop...\n\nBang, gosh, the girl's in a hurry\nWhat's so special about it? There are lots of saucepans\nThat saucepan sounds groovy, a cool sound, a nice ring to it\nLet's make a deal, take it or leave it\nI'll be a hip pig breeder, and you can be the king's sweetheart\nMe as a princess? Sure, I'm hip\nThen take my drum, take my saucepan\n\nHe, as a princess, a hip man wearing clip-on ties\nWas thrown out of the castle by the guards\nShe, as a pig breeder, a prudish chick wearing a tie\nDrove everybody mad, playing her saucepan\nTrading your ѕaucepan turned out to be a really bad ideа"
+    }
+  ],
+  "bpm": 172,
+  "tone": "G major",
+  "artistPeople": [
+    "Maj Lillemor Lindfors",
+    "Svante Thuresson"
+  ],
+  "backings": [
+    "Sahib Shihab"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Bengt Arne Wallin"
+  ],
+  "conductor": "Gert Ove Andersson",
+  "lyricists": [
+    "Björn Lindroth"
+  ],
+  "writers": null,
+  "broadcaster": "SR",
+  "commentators": [
+    "Sven Lindahl"
+  ],
+  "jury": null,
+  "spokesperson": "Edvard Matz"
+}

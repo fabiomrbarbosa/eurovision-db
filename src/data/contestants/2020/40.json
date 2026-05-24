@@ -1,0 +1,50 @@
+{
+  "id": 40,
+  "country": "GB",
+  "artist": "James Newman",
+  "song": "My Last Breath",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/6iS-lV909T4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "My Last Breath",
+      "content": "Some people let go\nSome people let love slip away\nBut I'm gonna hold on\nWhen no one believes, I'll keep the faith\n\nAnd I know that we're in trouble\nBut I swear that we'll survive\n\nIf we were deep-sea divers\nAnd no one came to find us\nIf you had nothing left\nI'd give you my last breath\nI'd give you my last breath\n\nWe all need a lifeline\nSomeone to call when we're alone\nIt's all good in the good times\nBut I'll still be there when it all goes wrong\nYes, I will\n\nIf we were deep-sea divers\nAnd no one came to find us\nIf you had nothing left\nI'd give you my last breath\nI'd give you my last breath\n\nAnd I know that we're in trouble\nBut I swear that we'll survive\n\nIf we were deep-sea divers\nAnd no one came to find us\nIf you had nothing left\nI'd give you my last breath\nI'd give you my last breath\nI'd give you my laѕt breаth"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Viimeinen hengenvetoni",
+      "content": "Jotkut päästävät irti\nJotkut antavat rakkauden lipua pois\nMutta aion pitää kiinni\nKun kukaan ei usko, pidän silti uskon\n\nJa tiedän, että meillä on vaikeaa\nMutta vannon, että selviämme\n\nJos olisimme syvänmeren sukeltajia\nEikä kukaan tulisi meitä etsimään\nJos sinulla ei olisi mitään jäljellä\nAntaisin sinulle viimeisen hengenvetoni\nAntaisin sinulle viimeisen hengenvetoni\n\nMe kaikki tarvitsemme turvaverkon\nJonkun, jolle soittaa, kun olemme yksin\nKaikki on hyvin hyvinä aikoina\nMutta olen silti siinä, kun kaikki menee pieleen\nKyllä, olen\n\nJos olisimme syvänmeren sukeltajia\nEikä kukaan tulisi meitä etsimään\nJos sinulla ei olisi mitään jäljellä\nAntaisin sinulle viimeisen hengenvetoni\nAntaisin sinulle viimeisen hengenvetoni\n\nJa tiedän, että meillä on vaikeaa\nMutta vannon, että selviämme\n\nJos olisimme syvänmeren sukeltajia\nEikä kukaan tulisi meitä etsimään\nJos sinulla ei olisi mitään jäljellä\nAntaisin sinulle viimeisen hengenvetoni\nAntaisin sinulle viimeisen hengenvetoni\nAntаisin sinulle viimeiѕen hengenvetoni"
+    }
+  ],
+  "bpm": 90,
+  "tone": "Ab minor",
+  "artistPeople": [
+    "James Richard Newman"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Adam Argyle",
+    "Ed Drewett",
+    "Iain Farquharson",
+    "James Newman"
+  ],
+  "broadcaster": "BBC",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

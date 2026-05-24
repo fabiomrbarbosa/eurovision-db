@@ -1,0 +1,69 @@
+{
+  "id": 10,
+  "country": "FI",
+  "artist": "Softengine",
+  "song": "Something Better",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/3FDWaFfo1CU",
+    "https://www.youtube-nocookie.com/embed/a-NSVFBKU-4",
+    "https://www.youtube-nocookie.com/embed/ZHzbt-t-eo4",
+    "https://www.youtube-nocookie.com/embed/izGvzrOI4WI",
+    "https://www.youtube-nocookie.com/embed/ubv6QvjCcK8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Something Better",
+      "content": "Even human bound\nPeople rolling dice\nImage on the ground\nSuch a novel life\nHe thought\nWhile knowing nothing at all\n\nEvery option noted\nOr tendency made\nThey will carry on\nUntil the perfect day\nShe said\nWhile knowing nothing at all\n\nAll the rules wide known\nThey mean nothing to mean\nEverything I'm used to\nSeems to be\nFine misshapen\nMade up fantasy\nShould let go\nShould let go\n\nBut we found something better\nPlain answer\nHowever\nFor I'll not\nSurrender\nWe found something better\n\nVis-a-vis\nEstranged\nAnd we got close\nTrust full of lies\nSure how it goes\nThey told\nWhile knowing nothing at all\n\nTalking loud 'bout future\nIn our hands\nExchanging dreams\nAnd how they'll last\nNo, no\nStill knowing nothing at all\n\nBut we found something better\nPlain answer\nHowever\nFor I'll not\nSurrender\nWe found something better\n\nAll these words\nReflected back to me\nAll these words\nI'm buying why?\nAll these words\nThe live's grand mystery\nAll these words\nA sweet white lie\n\nAll these words\nShe meant to say to me\nAll these words\nAgainst my faith\nAll these words\nBefore she passed away\nAll these words\nWe'll never, never, never change\n\nwe found something better\nPlain аnswer\nHowever\nFor I'll not\nSurrender\n\nWe found ѕomething better\nWe found…\nWe found..\nWe found…\nWe found…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Кое-что получше",
+      "content": "Даже привязанные к человеку\nЛюди бросают кости\nИзображение на земле\nТакая необычная жизнь\nОн думал\nХотя совсем ничего не знал\n\nОтмечал все варианты\nИли наметил тенденцию\nОни будут продолжать\nПока не наступит идеальный день\nСказала она\nПри этом ничего не зная\n\nВсе правила широко известны\nОни ничего не значат, чтобы что-то значить\nВсё, к чему я привык\nКажется\nПрекрасным, деформированным\nВыдуманной фантазией\nНадо это отпустить\nНадо это отпустить\n\nНо мы нашли кое-что получше\nПростой ответ\nОднако\nИбо я не буду\nСдаться\nМы нашли кое-что получше\n\nВ отношении\nОтчужденный\nИ мы сблизились\nДоверие, полное лжи\nУверенные в том, как все происходит\nОни сказали\nХотя вообще ничего не знали\n\nГромко говорили о будущем\nВсё в наших руках\nОбменивались мечтами\nИ о том, как долго они продлятся\nНет, нет\nПо-прежнему ничего не зная\n\nНо мы нашли кое-что получше\nПростой ответ\nОднако\nИбо я не собираюсь\nСдаться\nМы нашли кое-что получше\n\nВсе эти слова\nВсплыли в моей памяти\nВсе эти слова\nЯ покупаю, но зачем?\nВсе эти слова\nВеликая тайна жизни\nВсе эти слова\nСладкая невинная ложь\n\nВсе эти слова\nОна хотела сказать мне\nВсе эти слова\nПротиворечат моей вере\nВсе эти слова\nПеред тем, как она умерла\nВсе эти слова\nМы никогда, никогда, никогда не изменимся\n\nМы нашли кое-что получше\nПростой ответ\nОднако\nИбо я не собираюсь\nСдаться\n\nМы нашли кое-что получше\nМы нашли…\nМы нашли.\nМы нашли…\nМы нашли…"
+    }
+  ],
+  "bpm": 146,
+  "tone": "C major",
+  "artistPeople": [
+    "Topi Latukka",
+    "Eero Keskinen",
+    "Henri Oskár",
+    "Ossi Mäkelä",
+    "Tuomo Alarinta"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Topi Latukka"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Henri Oskár",
+    "Topi Latukka"
+  ],
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Eva Frantz",
+    "Johan Lindroos",
+    "Jorma Hietamäki",
+    "Sanna Pirkkalainen"
+  ],
+  "jury": [
+    "Annette Lundell",
+    "Jaako Hurme",
+    "Kaija Kärkinen",
+    "Rauli Eskolin",
+    "Saara Törmä"
+  ],
+  "spokesperson": "Redrama"
+}

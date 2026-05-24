@@ -1,0 +1,55 @@
+{
+  "id": 29,
+  "country": "LT",
+  "artist": "Linas ir Simona",
+  "song": "What's Happened To Your Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/7BlU6y_ZghY",
+    "https://www.youtube-nocookie.com/embed/8-SMpWeMKfI",
+    "https://www.youtube-nocookie.com/embed/WaBBFTgQ8qU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "What's Happened To Your Love",
+      "content": "What's happened to your love?\nWhat's happened to my love?\nWe've been together for so long\nBut now the feeling's gone\n\nWhat's happened to your love?\nWhat's happened to my love?\nWe've been together for so long\nBut now the feeling's gone\nBut now the feeling's gone\n\nCould you give me one more try?\nI will never make you cry\nYes, I've made mistakes before\nGive your hand, let's go for more\n\nOh baby, you came back again\nYour eyes are shining like a flame\nI thought that I forgot your touch\nBut now I love you so much\n\nWhat's happened to your love?\nWhat's happened to my love?\nWe've been together for so long\nBut now the feeling's gone\n\nWhat's happened to your love?\nWhat's happened to my love?\nWe've been together for so long\nBut now the feeling's gone\nBut now the feeling's gone\n\nI do remember your first words\nSilence breaking down my heart\nI wanna dream about sky blue\nIf I can, darling, stay with you\n\nLet's walk, we did it for the first time\nAlong the wavy sea shoreline\nPlease smile, you always did to me, and just to me\nOh baby, tell, what do you feel?\n\nWhat's happened to your love?\nWhat's happened to my love?\nWe've been together for so long\nBut now the feeling's gone\n\nWhat's happened to your love?\nWhat's hаppened to my love?\nWe've been together for so long\nBut now the feeling's gone\nBut now the feeling'ѕ gone"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "lithuanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Kas įvyko tavo meilei",
+      "content": "Kas įvyko tavo meilei?\nKas įvyko tavo meilei?\nMes tiek laiko buvom kartu\nBet dabar tas jausmas dingęs\n\nKas įvyko tavo meilei?\nKas įvyko tavo meilei?\nMes tiek laiko buvom kartu\nBet dabar tas jausmas dingęs\nBet dabar tas jausmas dingęs\n\nAr galėtum duoti man dar vieną bandymą\nAš niekad nepriversiu tavęs verkti\nTaip, klaidų prieš tai padariau\nDuok savo ranką, einam už daugiau\n\nO mažule, tu vėl sugrįžai\nTavo akys spindi kaip liepsna\nAš maniau kad pamiršau tavo prisilietimą\nBet dabar tave taip myliu\n\nKas įvyko tavo meilei?\nKas įvyko tavo meilei?\nMes tiek laiko buvom kartu\nBet dabar tas jausmas dingęs\n\nKas įvyko tavo meilei?\nKas įvyko tavo meilei?\nMes tiek laiko buvom kartu\nBet dabar tas jausmas dingęs\nBet dabar tas jausmas dingęs\n\nAš dar prisimenu tavo pirmus žodžius\nTyla sulaužo mano širdį\nAš noriu sapnuoti apie mėlynus debesis\nJei galiu, brangioji, likti su tavimi\n\nEinam, darėm tai pirmą kartą\nPalei banguotą jūros pakrantę\nPrašau šypsokis, kaip visada man, ir tik man\nO mažule, pasakyk, ką jauti?\n\nKas įvyko tavo meilei?\nKas įvyko tavo meilei?\nMes tiek laiko buvom kartu\nBet dabar tas jausmas dingęs\n\nKas įvyko tavo meilei?\nKas įvyko tavo meilei?\nMes tiek laiko buvom kartu\nBet dabar tas jausmas dingęs\nBet dabar tas jausmаs dingęѕ"
+    }
+  ],
+  "bpm": 143,
+  "tone": "A major",
+  "artistPeople": [
+    "Linas Adomaitis",
+    "Simona Jakubėnaitė"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Linas Adomaitis",
+    "Michalis Antoniou"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Camden-MS"
+  ],
+  "writers": null,
+  "broadcaster": "LRT",
+  "commentators": [
+    "Darius Užkuraitis"
+  ],
+  "jury": null,
+  "spokesperson": "Rolandas Vilkončius"
+}

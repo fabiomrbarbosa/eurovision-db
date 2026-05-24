@@ -1,0 +1,49 @@
+{
+  "id": 15,
+  "country": "AZ",
+  "artist": "Nadir Rustamli",
+  "song": "Fade To Black",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/tegPzHEL4ms",
+    "https://www.youtube-nocookie.com/embed/ILbQwIau1Ms",
+    "https://www.youtube-nocookie.com/embed/TGd1AFKR_-E",
+    "https://www.youtube-nocookie.com/embed/AGlwpf1iVhU",
+    "https://www.youtube-nocookie.com/embed/lwpI5KO6F40"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Fade To Black",
+      "content": "Stay\nThe story barely started\nCan't you\nStay\nDo you really want no part of this\nOnce so sweet\nReverie\nYou back off slowly through the door\nYou always go and blame the weather\nThe weather\n\nIt hurts so fast\nWhen love goes bad\nUntil at last\nWe fade to black\n\nAnd I'm numb, numb\nNumb, numb\n\nWait\nI need some time to fix this can't you wait ?\nWe can't afford to miss this\nYou back off slowly through the door\nYou always go and blame the weather\nThe weather\n\nIt hurts so fast\nWhen love goes bad\nUntil at last\nWe fade to black\n\nAnd I'm numb, numb\nNumb, numb\n\nWe're living in a memory\nThe present is the price I pay\nFade to black\nWe Fade to black\n\nIt hurts so fast\nWhen love goes bad\nUntil at laѕt\nWe fade to blаck"
+    }
+  ],
+  "bpm": 130,
+  "tone": "A minor",
+  "artistPeople": [
+    "Nadir Rəşid oğlu Rüstəmli"
+  ],
+  "backings": null,
+  "dancers": [
+    "Luc Boris André"
+  ],
+  "stageDirector": "Mads Enggaard",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Anderz Wrethov",
+    "Andreas Johansson",
+    "Sebastian Schub",
+    "Thomas Stengaard"
+  ],
+  "broadcaster": "İctimai",
+  "commentators": [
+    "Murad Arif"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

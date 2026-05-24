@@ -1,0 +1,60 @@
+{
+  "id": 24,
+  "country": "BE",
+  "artist": "Barbara Dex",
+  "song": "Iemand als jij",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/13d64amN_h8",
+    "https://www.youtube-nocookie.com/embed/QvbDI8MGlrg",
+    "https://www.youtube-nocookie.com/embed/r8QYNJFQydo"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "Iemand als jij",
+      "content": "Ik heb nog nooit iemand zo lief gehad\nAl m'n twijfels zijn voorgoed voorbij\nNooit had ik eerder dat fijn gevoel\nJij bent alles wat ik bedoel\n\nIn je ogen zie ik dat hemelsblauw\nEen warm gevoel waar ik van hou\nIk heb nog nooit iemand zo lief gehad\nZo een iemand als jij\n\nWaar ik ook ben, jij zult bij me zijn\nMet jou vind ik steeds de juiste weg\nOh… ik heb nog nooit iemand zo lief gehad\nZo een iemand als jij\n\nJij zult altijd in mijn gedachten zijn\nWat er ook met ons gebeuren mag\nWeet heel zeker dat ik op je wacht\nZelfs in 't midden van de nacht\n\nJij geeft mij vleugels, dat vrije gevoel\nDat is het nu juist wat ik bedoel\nIk heb nog nooit iemand zo lief gehad\nZo een iemand als jij\nZo een iemand als…\n\nIemand аlѕ jij"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Someone like you",
+      "content": "I have never loved someone this way before\nAll my doubts are over forever\nI never had this nice feeling before\nYou're everything what I mean\n\nIn your eyes I see that heavenly-blue\nA warm feeling that I love\nI have never loved someone this way before\nSuch a someone like you\n\nWherever I am, you'll be with me\nWith you, I can always find the right way\nOh… I have never loved someone this way before\nSuch a someone like you\n\nYou'll be in my thoughts forever\nWhatever may happen to us\nKnow for sure that I'll wait for you\nEven in the middle of the night\n\nYou give me wings, a free feeling\nNow, that's exactly what I mean\nI have never loved someone this way before\nSuch a someone like you\nSuch а ѕomeone like…\n\nSomeone like you"
+    }
+  ],
+  "bpm": 145,
+  "tone": "G major",
+  "artistPeople": [
+    "Barbara Deckx"
+  ],
+  "backings": [
+    "Gregoir Cibos",
+    "Heidi Boumans",
+    "Jan Moeskops",
+    "Jimmy Van Hoppe",
+    "Peter Meulemans"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Marc Vliegen"
+  ],
+  "conductor": "Bert Candries",
+  "lyricists": [
+    "Tobana"
+  ],
+  "writers": null,
+  "broadcaster": "BRTN",
+  "commentators": [
+    "André Vermeulen",
+    "Claude Delacroix"
+  ],
+  "jury": null,
+  "spokesperson": "Anne Ploegaerts"
+}

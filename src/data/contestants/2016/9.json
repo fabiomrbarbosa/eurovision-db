@@ -1,0 +1,64 @@
+{
+  "id": 9,
+  "country": "BE",
+  "artist": "Laura Tesoro",
+  "song": "What's the Pressure",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/xDBjhAGaeWg",
+    "https://www.youtube-nocookie.com/embed/iP3USrYpr5w",
+    "https://www.youtube-nocookie.com/embed/IMZH2w7IfhM",
+    "https://www.youtube-nocookie.com/embed/kr8uENNXSYc",
+    "https://www.youtube-nocookie.com/embed/KY9SNpTmHWE",
+    "https://www.youtube-nocookie.com/embed/B2rZZTLbLjo"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "What's the Pressure",
+      "content": "Don't ask me why the sun is shining\nNot after the day is done\nThe evening falls bright\nBring out the best in me, I see\n\nMassive falls weighing down people all around\nBut they don't seem to mind at all\nAnd I will try to stand my ground, won't be bound\nBring out the best in me\n\nWhat's the pressure?\nYou will grow, you will know in the end\nThat this is fiction\nIt's in your mind, live your life the best\n\nDon't ask me why the sun is shining\nIt brings me all joy and hope and light\nEven though these rules they, they try to take over me\nTry to take over me, I see\n\nMassive falls weighing down people all around\nBut they don't seem to mind at all\nAnd I will try to stand my ground, won't be bound\nBring out the best in me\n\nWhat's the pressure?\nYou will grow, you will know in the end\nThat this is fiction\nIt's in your mind, live your life the best\n\nNow what's the pressure?\nThis is fiction\nIt's in your mind, live your life the best\n\nYou gotta do what you wanna do\nYou gotta be who you wanna be\nSo tell me, what's the pressure?\n\nNow what's the pressure?\n'Cause this is fiction\nIt's in your mind, live your life the best\n\nNow what's the pressure?\nYou will know and you will know in the end\nThаt this is fiction\nIt's in your mind, live your life the beѕt"
+    }
+  ],
+  "bpm": 117,
+  "tone": "B major",
+  "artistPeople": [
+    "Laura Tesoro"
+  ],
+  "backings": [
+    "Kevin van der Meer",
+    "Laurens Hagens",
+    "Melany Bhola",
+    "Rebecca Louis",
+    "Tanja Daese"
+  ],
+  "dancers": null,
+  "stageDirector": "Hans Pannecoucke",
+  "composers": [
+    "Louis Favre",
+    "Sanne Putseys",
+    "Yannick Werther"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Birsen Uçar",
+    "Sanne Putseys"
+  ],
+  "writers": null,
+  "broadcaster": "VRT",
+  "commentators": [
+    "Jean-Louis Lahaye",
+    "Maureen Louys",
+    "Peter Van de Veire"
+  ],
+  "jury": [
+    "Aurélie Van Rompay",
+    "Axel Hirsoux",
+    "Jo Lemaire",
+    "Leen Demaré",
+    "Tom Helsen"
+  ],
+  "spokesperson": "Umesh Vangaver"
+}

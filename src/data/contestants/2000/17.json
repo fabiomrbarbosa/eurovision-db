@@ -1,0 +1,56 @@
+{
+  "id": 17,
+  "country": "ES",
+  "artist": "Serafín Zubiri",
+  "song": "Colgado de un sueño",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/UulDX2lWHJw",
+    "https://www.youtube-nocookie.com/embed/0CX5wdO6Mn8",
+    "https://www.youtube-nocookie.com/embed/kdTyNh0phos"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Colgado de un sueño",
+      "content": "Colgado de un sueño\nEn lo alto del cielo intento vivir\nEl mundo a lo lejos\nParece pequeño visto desde aquí\nQué me importa que se diga de mí\nQue no tengo los pies en el suelo\nNo saben que vuelo en vez de dormir\n\nAquí no hay límites a mis deseos\nNada me pueden prohibir\nNavego libre por mis pensamientos\nQué no me bajen de aquí\nAquí hay espacio para mis anhelos\nTodo se puede cumplir\nQue no me obliguen a pisar el suelo\nQue sólo quiero seguir\nColgado de un sueño\n\nFlotando en el aire sin miedo a caer\nQue el mundo es pequeño\nY todas mis ansias no caben en él\nQué me importa que se diga de mí\nQue no tengo los pies en el suelo\nColgado en mi sueño consigo vivir\n\nAquí no hay límites a mis deseos\nNada me pueden prohibir\nNavego libre por mis pensamientos\nQué no me bajen de aquí\nAquí hay espacio para mis anhelos\nTodo se puede cumplir\nQue no me obliguen a pisar el suelo\nQue sólo quiero seguir\nColgado de un sueño\nColgado de un sueño\nColgаdo de un ѕueño"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Hanging from a dream",
+      "content": "Hanging from a dream\nHigh in the sky, I try to live\nThe world in the distance\nSeems small, seen from here\nI don't care what people say of me\nThat I don't have my feet on the floor\nThey don't know that I fly instead of sleeping\n\nThere are no limits to my wishes here\nNothing can be forbidden\nI'm sailing free through my thoughts\nDon't take me off of here\nThere is room for my longings here\nEverything can come true\nDon't make me go to the floor\nI just want to remain\nHanging from a dream\n\nFloating in the air without fear to fall\nThe world is small\nAnd all my anxieties don't fit into it\nI don't care what people say of me\nThat I don't have my feet on the floor\nHanging from my dream, I manage to live\n\nThere are no limits to my wishes here\nNothing can be forbidden\nI'm sailing free through my thoughts\nDon't take me off of here\nThere is room to my longings here\nEverything can come true\nDon't make me go to the floor\nI juѕt want to remain\nHanging from a dream\nHanging from a dream\nHanging from a dreаm"
+    }
+  ],
+  "bpm": 114,
+  "tone": "C major",
+  "artistPeople": [
+    "Serafín Lizoain Vidondo"
+  ],
+  "backings": [
+    "Adel Hakki",
+    "Ángel Mora",
+    "Paloma Blanco",
+    "Susan Martín"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "José María Purón"
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "José Luis Uribarri"
+  ],
+  "jury": null,
+  "spokesperson": "Hugo de Campos"
+}

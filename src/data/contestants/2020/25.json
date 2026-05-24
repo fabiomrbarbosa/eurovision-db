@@ -1,0 +1,51 @@
+{
+  "id": 25,
+  "country": "MD",
+  "artist": "Natalia Gordienko",
+  "song": "Prison",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/RnD1ApDo5_k",
+    "https://www.youtube-nocookie.com/embed/D0qc6GKVw5M",
+    "https://www.youtube-nocookie.com/embed/spHzNyVVQUE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Prison",
+      "content": "I don't want to feel you\nI don't want to feel you this close\nI don't want to hold you\nDo I want to hold or let go\nI don't want to fight the night\nInside with you\n\nI am surrounded by walls\nCovered with all your memories\nWish this were solitary no\nWalking with me in the halls\nSo, there is no forgetting\nI know you 'll never let me\n\nI don't want to be with you\nI don't want to be without you\nI don't want to be with you\nI don't want to be without you\n\nPrison\nI can't escape from this\nPrison\nLove is a fool's prison\n\nI don't want to need you\nI don't want to seem so desperate\nI don't want tell you\nI don't want to hear it's useless\nI don't want to fight the night\nInside with you\n\nI am surrounded by walls\nCovered with all your memories\nWish this were solitary\n\nI don't want to be with you\nI don't want to be without you\nI don't want to be with you\nI don't want to be without you\n\nPrison\nI can't escape from this\nPrison\nLove is a fool's prison\n\nPrison\nI can't escape from this\nPrison\nLove is а fool's priѕon"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "romanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Închisoare",
+      "content": "Nu vreau să te simt\nNu vreau să te simt atât de aproape\nNu vreau să te ţin\nVreau să țin sau să las să plece\nNu vreau să lupt noaptea\nÎnăuntru cu tine\n\nSunt înconjurat de ziduri\nAcoperită cu toate amintirile tale\nMi-aș dori ca acest lucru să fie solitar nr\nMergând cu mine în holuri\nDeci, nu există nici o uitare\nȘtiu că nu mă vei lăsa niciodată\n\nNu vreau să fiu cu tine\nNu vreau să fiu fără tine\nNu vreau să fiu cu tine\nNu vreau să fiu fără tine\n\nÎnchisoare\nNu pot scăpa de asta\nÎnchisoare\nDragostea este închisoare prostului\n\nNu vreau să am nevoie de tine\nNu vreau să par atât de disperat\nNu vreau să-ţi spun\nNu vreau să aud că e inutil\nNu vreau să lupt noaptea\nÎnăuntru cu tine\n\nSunt înconjurat de ziduri\nAcoperită cu toate amintirile tale\nMi-aș dori să fie solitar\n\nNu vreau să fiu cu tine\nNu vreau să fiu fără tine\nNu vreau să fiu cu tine\nNu vreau să fiu fără tine\n\nÎnchisoare\nNu pot scăpa de asta\nÎnchisoare\nDragostea este închisoare prostului\n\nÎnchisoare\nNu pot scăpa de asta\nÎnchisoare\nDragostea este închisoаre proѕtului"
+    }
+  ],
+  "bpm": 103,
+  "tone": "E minor",
+  "artistPeople": [
+    "Natalia Gordienko"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Dimitris Kontopoulos",
+    "Philipp Kirkorov",
+    "Sharon Vaughn"
+  ],
+  "broadcaster": "TRM",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": 23,
+  "country": "MT",
+  "artist": "Fabrizio Faniello",
+  "song": "I Do",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/kiORqJIala8",
+    "https://www.youtube-nocookie.com/embed/9vEgfCg-7Zg",
+    "https://www.youtube-nocookie.com/embed/zTjgrUm77BU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I Do",
+      "content": "'Cause I do, I do, I do\nI do, I do, I love you like a fool\n(Love you like a fool)\n\nI've been there by your side\nWe've been laughing, we have cried\nKept the piece of heart you gave\nFrom our breakup day\n\nYou left me, still, I know\nYou didn't have a choice\nWaiting for the day we're back together\n\nI won't give you up, I'll never stop\nI got a piece of your heart, I can't get enough\n'Cause I do, I do, I do\nI do, I do, I love you like a fool\n(Love you like a fool)\n\nOur lives were torn apart\nI know we'll get a brand new start\nWhen the world just can't decide\nWhere we lay our love\n\nWe've done our time alone\nAnd never will again\nWaiting for the day we're back together\n\nI won't give you up, I'll never stop\nI got a piece of your heart, I can't get enough\n'Cause I do, I do, I do\nI do, I do, I need you\n\nI won't give you up, I'll never stop\nI got a piece of your heart, I can't get enough\n'Cause I do, I do, I do\nI do, I do, I love you like a fool\n(Love you like a fool)\n\nWaiting for the day when I hear you say\nOur love is here to stay\n\nI won't give you up, I'll never stop (Never stop)\nI got a piece of your heart, I can't get enough\n'Cause I do, I do, I do (Oh yes, I do)\nI do, I do, I need you\n\nI won't give you up, I'll never stop\nI got a piece of your heart, I can't get enough\n'Cause I do, I do, I do (Yes, I do)\nI do, I do, I do (Yeѕ, I do)\nI do, I do, I love you like a fool\n(Love you like а fool)"
+    }
+  ],
+  "bpm": 136,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Fabrizio Faniello"
+  ],
+  "backings": [
+    "Toni Dominos",
+    "Veronica Harriet"
+  ],
+  "dancers": null,
+  "stageDirector": "Alex Panayi",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Aldo Spiteri",
+    "Fabrizio Faniello"
+  ],
+  "broadcaster": "PBS",
+  "commentators": [
+    "Eileen Montesin"
+  ],
+  "jury": null,
+  "spokesperson": "Moira Delia"
+}

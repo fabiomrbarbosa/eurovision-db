@@ -1,0 +1,51 @@
+{
+  "id": 21,
+  "country": "IT",
+  "artist": "Diodato",
+  "song": "Fai rumore",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/TA57rugucwk",
+    "https://www.youtube-nocookie.com/embed/xZTpwo4tSac",
+    "https://www.youtube-nocookie.com/embed/m7IPsH9v3Rc",
+    "https://www.youtube-nocookie.com/embed/A410y4a0oWU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Fai rumore",
+      "content": "Sai che cosa penso\nChe non dovrei pensare\nChe se poi penso sono un animale\nE se ti penso tu sei un'anima\nMa forse è questo temporale\nChe mi porta da te\nE lo so non dovrei farmi trovare\nSenza un ombrello anche se\n\nHo capito che\nPer quanto io fugga\nTorno sempre a te\nChe fai rumore qui\nE non lo so se mi fa bene\nSe il tuo rumore mi conviene\nMa fai rumore sì\nChe non lo posso sopportare\nQuesto silenzio innaturale\nTra me e te\n\nE me ne vado in giro senza parlare\nSenza un posto a cui arrivare\nConsumo le mie scarpe\nE forse le mie scarpe\nSanno bene dove andare\nChe mi ritrovo negli stessi posti\nProprio quei posti che dovevo evitare\nE faccio finta di non ricordare\nE faccio finta di dimenticare\n\nMa capisco che\nPer quanto io fugga\nTorno sempre a te\nChe fai rumore qui\nE non lo so se mi fa bene\nSe il tuo rumore mi conviene\nMa fai rumore sì\nChe non lo posso sopportare\nQuesto silenzio innaturale\nTra me e te\n\nMa fai rumore sì\nChe non lo posso sopportare\nQuesto silenzio innaturale\nE non ne voglio fare a meno oramai\nDi quel bellisѕimo rumore che fаi"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Make Noise",
+      "content": "Do you know what I think?\nThat I shouldn't be thinking\nThat if I then think, I'm an animal\nAnd if I think about you, you're a soul\nBut maybe it's this storm\nThat takes me to you\nAnd I know I shouldn't find myself\nWithout an umbrella, even though\n\nI understood that\nHowever much I run away\nI always return to you\nWho makes noise here\nAnd I don't know if it's good for me\nIf your noise fits me\nBut make noise, yes\nBecause I can't stand\nThis unnatural silence\nBetween you and me\n\nAnd I go around without speaking\nWithout a destination to arrive to\nI'm wearing down my shoes\nAnd perhaps my shoes\nKnow all too well where to go\nThat I find myself in the same places again\nExactly those places that I should have avoided\nAnd I pretend I don't remember\nAnd I pretend to forget\n\nBut I understand that\nHowever much I run away\nI always return to you\nWho makes noise here\nAnd I don't know if it's good for me\nIf your noise fits me\nBut make noise, yes\nBecause I can't stand\nThis unnatural silence\nBetween you and me\n\nBut make noise, yes\nBecause I can't stand\nThis unnatural silence\nAnd now I don't want to do without\nThis beautiful noiѕe you mаke"
+    }
+  ],
+  "bpm": 143,
+  "tone": "F# major",
+  "artistPeople": [
+    "Antonio Diodato"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Antonio Diodato",
+    "Edwyn Roberts"
+  ],
+  "broadcaster": "RAI",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

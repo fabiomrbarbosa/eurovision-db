@@ -1,0 +1,53 @@
+{
+  "id": 11,
+  "country": "MD",
+  "artist": "Zdob și Zdub",
+  "song": "So Lucky",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/nHAY_OVN_gY",
+    "https://www.youtube-nocookie.com/embed/IqrnwSY8PAk",
+    "https://www.youtube-nocookie.com/embed/lV540FTufdE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "So lucky",
+      "content": "So lucky, so lucky\n\nFlashes, ray ban glasses\nI move with ease in my convertible breeze (So lucky)\nMartini, whiskey on the rocks\nLife on the top, my party never stops (So lucky)\n\nWinner, a dusk to dawn sinner\nLove traded in for lust, it's emotions I don't trust (So lucky)\nOn top, the cream of the crop\nYou know I love to rock, the fun will never stop (So lucky)\n\nYou see, it's all about me\nThe servants and the king, I'm the ruler of the world (So lucky)\nA tug, she pulls me like a drug\nI want her on the rug, but she's not that kind of girl (So lucky)\n\nI see you where the lights glow\nYou pull me in your private side show\nAnd now I see your moves in slo-mo\nI try to kiss you, but you slip away\n\nYet you never walk away from me\nAre you a shadow of what might be?\nWhy should one woman stand above the rest?\nThere is a mystery to you deep beneath the flesh\n\n(So lucky, so lucky, so lucky, so lucky)\n\nThose eyes pulling me in, a body made to sin\nBut I can not win  (So lucky)\nWait, I'm ready at the gate, don't tell me it's too late\nHer fire starts to melt my heart (So lucky)\n\nShe's clean, not part of any scene\nShe's more like a dream I don't want to wake up from (So lucky)\nI see, she's somehow changing me\nShe's where I want to be, can't stand a moment without her (So lucky)\nAnymore\n\nI see you where the lights glow\nYou pull me in your private side show\nAnd now I see your moves in slo-mo\nI try to kiss you, but you slip away\n\nYet you never walk away from me\nAre you a shadow of what might be?\nWhy should one woman stand above the rest?\nThere is a mystery to you deep beneаth the fleѕh\n\nSo lucky!"
+    }
+  ],
+  "bpm": 148,
+  "tone": "E minor",
+  "artistPeople": [
+    "Andrei Cebotari",
+    "Mihail Gincu",
+    "Roman Iagupov",
+    "Sveatoslav Starus",
+    "Valeriu Mazîlu"
+  ],
+  "backings": [
+    "Tatjana Ilescu"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Marc Elsner",
+    "Mihai Gîncu",
+    "Roman Iagupov"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Andy Shuman",
+    "Marc Elsner"
+  ],
+  "writers": null,
+  "broadcaster": "TRM",
+  "commentators": [
+    "Marcel Spătari"
+  ],
+  "jury": null,
+  "spokesperson": "Geta Burlacu"
+}

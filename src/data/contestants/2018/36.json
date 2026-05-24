@@ -1,0 +1,70 @@
+{
+  "id": 36,
+  "country": "BY",
+  "artist": "Alekseev",
+  "song": "Forever",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ywy_y24v_ao",
+    "https://www.youtube-nocookie.com/embed/YU2My4BPX34",
+    "https://www.youtube-nocookie.com/embed/KUA6M7-scHk",
+    "https://www.youtube-nocookie.com/embed/e7GQxh_c55E",
+    "https://www.youtube-nocookie.com/embed/d9AYhmvq-Sw",
+    "https://www.youtube-nocookie.com/embed/y-tD-b6AB0E",
+    "https://www.youtube-nocookie.com/embed/lOrGuD2CQUA"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Forever",
+      "content": "It must be something that we call love\nWherever I go I'm coming back\nAnd time cannot knock me off my track\nThis resolution is final\n\nIt must be something that we call love\nIt's when you're craving to say her name\nAnd my reality seems to break apart with her arrival\n\nNo need to worry, rain falling down\nIt's our happiest story\nAnd there's no one around\nWe will go for it\nAnd I know you'll be mine forever\n\nWindows wide open, flying so high\nBoth of us roaming through magnificent skies\nRain keeps on falling\nAnd I know you'll be mine forever\n\nIt must be something that we call a dream\nWhen all you told me, I know by heart\nThe type of beauty I call supreme\nAnd how it's driving me crazy\n\nNo need to worry, rain falling down\nIt's our happiest story\nAnd there's no one around\nWe will go for it\nAnd I know you'll be mine forever\n\nWindows wide open, flying so high\nBoth of us roaming through magnificent skies\nRain keeps on falling\nAnd I know you'll be mine forever\n\nYou'll always sing me something new\nI will always follow\nWhen I first saw you here\nI knew that I was blind before you\n\nNo need to worry, rain falling down\nIt's our happiest story\nAnd there's no one around\nWe will go for it\nAnd I know you'll be mine forever\n\nWindows wide open, flying so high\nBoth of us roaming through magnificent skies\nRain keepѕ on fаlling\nAnd I know you'll be mine forever"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Навсегда",
+      "content": "Наверно, это и есть любовь\nКогда дороги ведут к тебе\nНе остановится стрелок бег\nИ не вернётся обратно\n\nНаверно, это и есть любовь\nКогда бессонница в тишине\nВсё переломится вдруг во мне - сейчас, и так внезапно\n\nБольно не будет, с неба - вода\nМы счастливые люди\nПод дождём без зонта\nНас не отпустит\nЯ с тобой навсегда, навсегда\n\nОкна откроем, выше взлетай\nДальше нас двое - мы шагнём через край\nТолько с тобою\nС тобой - так и знай! Навсегда\n\nНаверно, это и есть мечта, когда слова твои наизусть\nБесчеловечная красота с ума свела меня, словно\nИ мне глаза твои - высота. и я лечу в них, и не боюсь\nИ вдруг закончится тишина. Вдыхай, вдыхай меня снова\n\nБольно не будет, с неба - вода\nМы счастливые люди\nПод дождём без зонта\nНас не отпустит\nЯ с тобой навсегда, навсегда\n\nОкна откроем, выше взлетай\nДальше нас двое - мы шагнём через край\nТолько с тобою\nС тобой - так и знай! Навсегда\n\nСпоёт мне песню новую\nИ позовёт с собою\nТы постучишься в дверь мою\nИ я тебе открою\n\nБольно не будет, с неба - вода\nМы счастливые люди\nПод дождём без зонта\nНас не отпустит\nЯ с тобой навсегда, навсегда\n\nОкна откроем, выше взлетай\nДальше нас двое - мы шагнём через край\nТолько с тобою\nС тобой - так и знай! Навсегда"
+    }
+  ],
+  "bpm": 115,
+  "tone": "A minor",
+  "artistPeople": [
+    "Nikita Vladimirovich Alekseev"
+  ],
+  "backings": [
+    "Anna Kilchenko",
+    "Anyanya Udongwo",
+    "Valeriya Khomenko",
+    "Vilen Kilchenko"
+  ],
+  "dancers": [
+    "Yulia Zima"
+  ],
+  "stageDirector": "Oleg Bodnarchuk",
+  "composers": [
+    "Kirill Pavlov"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Yevgeny Matyushenko"
+  ],
+  "writers": null,
+  "broadcaster": "BTRC",
+  "commentators": [
+    "Evgeny Perlin"
+  ],
+  "jury": [
+    "Alex Nabeev",
+    "Iskui Abalyan",
+    "Svetlana Statsenko",
+    "Tatsiana Parhamovich",
+    "Vladimir Bogdan"
+  ],
+  "spokesperson": "Arciom Lukjanienka, Ksenia"
+}

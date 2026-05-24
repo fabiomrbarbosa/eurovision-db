@@ -1,0 +1,55 @@
+{
+  "id": 37,
+  "country": "HR",
+  "artist": "Franka",
+  "song": "Crazy",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/YxBLFbW5BqE",
+    "https://www.youtube-nocookie.com/embed/Il3_lTWw4XA",
+    "https://www.youtube-nocookie.com/embed/GhihoXukZp4",
+    "https://www.youtube-nocookie.com/embed/zPisrCwcWpY",
+    "https://www.youtube-nocookie.com/embed/sh-GdDcMExg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Crazy",
+      "content": "You make me feel\nYou got me deep inside this love\nYou make my heart go...\nWhen I saw your eyes, boy\nYou're just like a movie black and white\nYou made me go - oh\nStraight out of my mind\n\nI swear, that I...\nI will remember\nRoses and horses in the rain\nMake it forever\nAnd I go\n\nCrazy\nGo crazy for your love Crazy\nGo crazy for your love\nLo-o-o-ove\nLo-o-o-ove\n\nI love you\nfor this love knows no reason, no games Just like Bonnie and Clyde\nWe walk the road together,\nNo fear, no breaks.\n\nYou light up my world,\nNo I need no diamonds and pearls not that kind of girl\nOver the moon\nI'll be your queen\nAnd I'll be your fool\n\nSay you remember\nRoses and horses in the rain\nMake it forever\nAnd I go\n\nCrazy\nGo crazy for your love Crazy\nGo crazy for your love\nLo-o-o-ove\nLo-o-o-ove\n\nAin't no runnin', no turning back Now I'm caught in your web,\nIs it real I keep asking myself\nSweet fantasy,\nI can't help it\nCan't hide it\nI'm shooting across the ѕky\n\nI'm crazy for you love Crazy, I go crazy, I go crаzy Lo-o-o-ove"
+    }
+  ],
+  "bpm": 98,
+  "tone": "A minor",
+  "artistPeople": [
+    "Franka Batelić Ćorluka"
+  ],
+  "backings": [
+    "Djordjija Palić",
+    "Martina Ivanković"
+  ],
+  "dancers": null,
+  "stageDirector": "Igor Barberić",
+  "composers": [
+    "Branimir Mihaljević"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Franka Batelić Ćorluka"
+  ],
+  "writers": null,
+  "broadcaster": "HRT",
+  "commentators": [
+    "Duško Ćurlić"
+  ],
+  "jury": [
+    "Gina Damjanović",
+    "Lara Antić Prskalo",
+    "Miroslav Lesić",
+    "Mustafa Softić",
+    "Zdenka Kovačiček"
+  ],
+  "spokesperson": "Uršula Tolj"
+}

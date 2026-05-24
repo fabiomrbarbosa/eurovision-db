@@ -1,0 +1,62 @@
+{
+  "id": 3,
+  "country": "LU",
+  "artist": "Vicky",
+  "song": "L'amour est bleu",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/8uncLrAqIU8",
+    "https://www.youtube-nocookie.com/embed/YPYmjd10VV4",
+    "https://www.youtube-nocookie.com/embed/9FIw_SVGW4o"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "L'amour est bleu",
+      "content": "Doux, doux, l'amour est doux\nDouce est ma vie, ma vie dans tes bras\nDoux, doux, l'amour est doux\nDouce est ma vie, ma vie près de toi\n\nBleu, bleu, l'amour est bleu\nBerce mon cœur, mon cœur amoureux\nBleu, bleu, l'amour est bleu\nBleu comme le ciel qui joue dans tes yeux\n\nComme l'eau, comme l'eau qui court\nMoi, mon cœur court après ton amour\n\nGris, gris, l'amour est gris\nPleure mon cœur lorsque tu t'en vas\nGris, gris, le ciel est gris\nTombe la pluie quand tu n'es plus là\n\nLe vent, le vent gémit\nPleure le vent lorsque tu t'en vas\nLe vent, le vent maudit\nPleure mon cœur quand tu n'es plus là\n\nComme l'eau, comme l'eau qui court\nMoi, mon cœur court après ton amour\n\nBleu, bleu, l'amour est bleu\nLe ciel est bleu lorsque tu reviens\nBleu, bleu, l'amour est bleu\nL'amour est bleu quand tu prends ma main\n\nFou, fou, l'amour est fou\nFou comme toi et fou comme moi\nBleu, bleu, l'amour est bleu\nL'amour est bleu quand je suis à toi\n\nL'amour est bleu quаnd je suiѕ à toi"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": null,
+      "title": "Η αγάπη είναι μπλε",
+      "content": "Γλυκιά, γλυκιά, η αγάπη είναι γλυκιά\nΓλυκιά είναι η ζωή μου, η ζωή μου στην αγκάλη σου\nΓλυκιά, γλυκιά, η αγάπη είναι γλυκιά\nΓλυκιά είναι η ζωή μου, η ζωή μου κοντά σου\n\nΜπλε, μπλε, η αγάπη είναι μπλε\nΚρατά την καρδιά μου, την καρδιά μου την ερωτευμένη\nΜπλε, μπλε, η αγάπη είναι μπλε\nΜπλε όπως τον ουρανό που παίζει στα μάτια σου\n\nΣαν το νερό, σαν το νερό που τρέχει\nΕγώ, η καρδιά μου, τρέχει μετά την αγάπη σου\n\nΓκρι, γκρι, η αγάπη είναι γκρι\nΗ καρδιά μου κλαίει από τότε που έφυγες\nΓκρι, γκρι, ο ουρανός είναι γκρι\nΠέφτει η βροχή όταν δεν είσαι εδώ πια\n\nΟ άνεμος, ο άνεμος θρηνεί\nΚλαίει ο άνεμος από τότε που έφυγες\nΟ άνεμος, ο καταραμένος άνεμος\nΗ καρδιά μου κλαίει από τότε που έφυγες\n\nΣαν το νερό, σαν το νερό που τρέχει\nΕγώ, η καρδιά μου, τρέχει μετά την αγάπη σου\n\nΜπλε, μπλε, η αγάπη είναι μπλε\nΟ ουρανός είναι μπλε, σαν επιστρέψεις\nΜπλε, μπλε, η αγάπη είναι μπλε\nΗ αγάπη είναι μπλε όταν μου παίρνεις το χέρι\n\nΤρελή, τρελή, η αγάπη είναι τρελή\nΤρελή σαν εσένα και τρελή σαν εμένα\nΜπλε, μπλε, η αγάπη είναι μπλε\nΗ αγάπη είναι μπλε όταν είμαι δικιά σου\n\nΗ αγάπη είναι μπλε όταν είμαι δικιά σου"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Love is blue",
+      "content": "Sweet, sweet, love is sweet\nSweet is my life, my life in your arms\nSweet, sweet, love is sweet\nSweet is my life, my life close to you\n\nBlue, blue, love is blue\nCradle my heart, my loving heart\nBlue, blue, love is blue\nBlue like the sky which play in your eyes\n\nLike the water, like the running water\nMe, my heart runs after your love\n\nGrey, grey, love is grey\nMy heart weeps since you went away\nGrey, grey, the sky is grey\nThe rain falls when you're not there anymore\n\nThe wind, the wind moans\nThe wind weeps since you went away\nThe wind, the cursed wind\nMy heart weeps when you're not there anymore\n\nLike the water, like the running water\nMe, my heart runs after your love\n\nBlue, blue, love is blue\nThe sky is blue when you return\nBlue, blue, love is blue\nLove is blue when you take my hand\n\nMad, mad, love is mad\nMad like you and mad like me\nBlue, blue, love is blue\nLove is blue when I am yours\n\nLove is blue when I аm yourѕ"
+    }
+  ],
+  "bpm": 112,
+  "tone": "G major",
+  "artistPeople": [
+    "Vassiliki Papathanassiou"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "André Popp"
+  ],
+  "conductor": "Claude Denjean",
+  "lyricists": [
+    "Pierre Cour"
+  ],
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": [
+    "Jacques Navadic"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

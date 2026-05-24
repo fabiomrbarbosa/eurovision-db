@@ -1,0 +1,64 @@
+{
+  "id": 23,
+  "country": "BY",
+  "artist": "3+2",
+  "song": "Butterflies",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/MvK2KU2zfzA",
+    "https://www.youtube-nocookie.com/embed/Ynsr_paC5vM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Butterflies",
+      "content": "I'm gonna tell you what 's inside my soul\nWe are so fragile, just like melting snow\nWe've got to come to see the beauty of love\nAnd imagine, and imagine, just imagine\n\nAnd we're like butterflies flying to the sun\nThe sun will never let us look inside\nI believe that this'll be opened up\nBut at the right time\nHeartfully just wait for it, it will come\n\nAnd even if you often were so wrong\nAnd you denied the miracle's possible\nBut you have got to see it anyway\nAnd imagine, and imagine, just imagine\n\nAnd we're like butterflies flying to the sun\nThe sun will never let us look inside\nI believe that this'll be opened up\nBut at the right time\nHeartfully just wait for it, it will come\n\nAnd we're like butterflies flying to the sun (The sun)\nThe sun will never let us look inside (Look inside, I believe)\nI believe that this'll be opened up\nBut at the right time\nHeartfully just wait for it\nAnd аll the secretѕ will come, come out"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Бабочки",
+      "content": "Пою я о надеждах и любви в своей душе\nВедь наша жизнь растает словно снег\nИ мы должны увидеть красоту любви\nИ представить, и представить, просто представить\n\nПодобно бабочкам, летим на солнца свет\nНо тайну жизни, заслоняет солнца тень\nИ верю я, нам приоткроют небеса\nЗавесы тайны\nХрани надежду ты в душе, Время придёт\n\nИ даже если часто ошибались вы\nИ не хватало сил поверить в чудеса\nВы всё равно должны увидеть путь к любви\nИ представить, и представить, просто представить\n\nПодобно бабочкам, летим на солнца свет\nНо тайну жизни, заслоняет солнца тень\nИ верю я, нам приоткроют небеса\nЗавесы тайны\nХрани надежду ты в душе, Время придёт\n\nПодобно бабочкам, летим на солнца свет\nНо тайну жизни, заслоняет солнца тень\nИ верю я, нам приоткроют небеса\nЗавесы тайны\nХрани надежду ты в душе\nВремя придёт"
+    }
+  ],
+  "bpm": 77,
+  "tone": "F major",
+  "artistPeople": [
+    "Artyom Mihalenko",
+    "Egiazar Farashyan",
+    "Yulia Shishko"
+  ],
+  "backings": [
+    "Alyona Karpovich",
+    "Ninel Karpovich",
+    "Robert Wells"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Maxim Fadeev"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Malka Chaplin"
+  ],
+  "writers": null,
+  "broadcaster": "BTRC",
+  "commentators": [
+    "Denis Kurian"
+  ],
+  "jury": [
+    "Anatoly Yarmolenko",
+    "Ludmila Borodina",
+    "Unknown",
+    "Unknown",
+    "Unknown"
+  ],
+  "spokesperson": "Aleksei Grishin"
+}

@@ -1,0 +1,55 @@
+{
+  "id": 3,
+  "country": "HR",
+  "artist": "Maja Blagdan",
+  "song": "Sveta ljubav",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Wzgful7Gl8U",
+    "https://www.youtube-nocookie.com/embed/cLxeu3JsuPE",
+    "https://www.youtube-nocookie.com/embed/f89rZ-lkDzM",
+    "https://www.youtube-nocookie.com/embed/hI2lWhtY_V4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "croatian"
+      ],
+      "displayedLanguages": null,
+      "title": "Sveta ljubav",
+      "content": "Ja ti priznajem sve\nSve je glupo sad bez tebe\nI dok hladna kiša pada na grad\nTko zna gdje si ti sad?\n\nAjaja jajajaja… moja ljubav si ti\nOvo je vrijeme bez milosti\nTi si divlja rijeka na putu mom\nA ja te volim i s njom\n\nSunce moru putuje, moje srce luduje\nDaj mi snage, sveta ljubavi\nSunce moru putuje, moje srce luduje\nDaj mi snage, sveta ljubavi\n\nJa živim za nas\nZemlja nosi moj glas\nU dubinu duše jer tu je moj dom\nA ja te volim i s njom\n\nHej… sunce moru putuje, moje srce luduje\nDaj mi snage, sveta ljubavi\nSunce moru putuje, moje srce luduje\nDaj mi snage, (sveta ljubavi)\n\nDaj mi snage, ѕveta ljubаvi"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Divine love",
+      "content": "I admit it all to you\nEverything is meaningless without you\nAnd while the cold rain falls down onto the city\nWho knows where you are?\n\nAyaya yayayaya… you are my love\nThese are merciless times\nYou're a wild river on my path\nYet I love you still\n\nThe sun travels to the sea, my heart is going crazy\nGive me strength, oh divine love\nThe sun travels to the sea, my heart is going crazy\nGive me strength, oh divine love\n\nI live for us\nThe earth carries my voice\nTo the depths of your soul, for that's my home\nYet I love you still\n\nHey… the sun travels to the sea, my heart is going crazy\nGive me strength, oh divine love\nThe sun travels to the sea, my heart is going crаzy\nGive me strength, (oh divine love)\n\nGive me ѕtrength, oh divine love"
+    }
+  ],
+  "bpm": 154,
+  "tone": "F major",
+  "artistPeople": [
+    "Maja Blagdan"
+  ],
+  "backings": [
+    "Nikša Bratoš",
+    "Slavko Pintarić Pišta"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Alan Bejlinski",
+  "lyricists": null,
+  "writers": [
+    "Zrinko Tutić"
+  ],
+  "broadcaster": "HRT",
+  "commentators": [
+    "Aco Kostadinov"
+  ],
+  "jury": null,
+  "spokesperson": "Danijela Trbović"
+}

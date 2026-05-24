@@ -1,0 +1,62 @@
+{
+  "id": 12,
+  "country": "PT",
+  "artist": "Doce",
+  "song": "Bem bom",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/RrJp8DwI5s4",
+    "https://www.youtube-nocookie.com/embed/QtBizSoXB60",
+    "https://www.youtube-nocookie.com/embed/Y54Ok5sPIhY",
+    "https://www.youtube-nocookie.com/embed/y-p7lNw9ahU",
+    "https://www.youtube-nocookie.com/embed/e-2nlxFC6S8",
+    "https://www.youtube-nocookie.com/embed/teRLYpNWmmE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Bem bom",
+      "content": "Hey, hey, hey, hey\n\nUma da manhã, um toque, um brilho no olhar\nDuas da manhã, dois dedos de magia\nÀs duas por três, quem sabe onde isto irá parar?\nQuatro da manhã, caindo um luar de lua lindo\nUma gota a mais e o chão ia fugindo\n\nUma da manhã, hey, bem bom\nDuas da manhã, bem bom\nJá três da manhã, hey, bem bom\nQuatro da manhã, bem bom\nCinco da manhã, hey, bem bom\nJá seis da manhã, bem bom\nSete da manhã, hey, bem bom\nOito da manhã, bem bom\nCafé da manhã p'ra dois\nSem saber o que virá depois\nBem bom\n\nCinco da manhã, ai sim, coração, sigo\nO bater das seis e meia de loucura\nSete da manhã, ouvindo um disco antigo\nHoje é o primeiro dia do resto da tua vida\nSão horas a mais e já não há saída\n\nUma da manhã, hey, bem bom\nDuas da manhã, bem bom\nJá três da manhã, hey, bem bom\nQuatro da manhã, bem bom\nCinco da manhã, hey, bem bom\nJá seis da manhã, bem bom\nSete da manhã, hey, bem bom\nOito da manhã, bem bom\nCafé da manhã p'ra dois\nSem saber o que virá depois\n\nUma da manhã, hey, bem bom\nDuas da manhã, bem bom\nJá três da manhã, hey, bem bom\nQuatro da manhã, bem bom\nCinco da manhã, hey, bem bom\nJá seis da manhã, bem bom\nSete da manhã, hey, bem bom\nOito da manhã, bem bom\nCafé da manhã p'ra dois\nSem sаber o que virá depoiѕ\nBem bom, hey"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Very good",
+      "content": "Hey, hey, hey, hey\n\nOne in the morning, a touch, a sparkle in your glance\nTwo in the morning, two fingers of magic\nOn the count of three, who knows where this will end?\nFour in the morning, falling a beautiful moonlight\nA drop too many and I'm slipping on the floor\n\nOne in the morning, hey, very good\nTwo in the morning, very good\nThree o'clock already, hey, very good\nFour in the morning, very good\nFive in the morning, hey, very good\nSix o'clock already, very good\nSeven in the morning, hey, very good\nEight in the morning, very good\nBreakfast for two\nWithout knowing what's coming next\nVery good\n\nFive in the morning, I'm following my heart\nHalf past six, striking of madness\nSeven in the morning, listening to an old record\nToday is the first day of the rest of your life\nToo many hours and now there's no way out\n\nOne in the morning, hey, very good\nTwo in the morning, very good\nThree o'clock already, hey, very good\nFour in the morning, very good\nFive in the morning, hey, very good\nSix o'clock already, very good\nSeven in the morning, hey, very good\nEight in the morning, very good\nBreakfast for two\nWithout knowing what's coming next\n\nOne in the morning, hey, very good\nTwo in the morning, very good\nThree o'clock already, hey, very good\nFour in the morning, very good\nFive in the morning, hey, very good\nSix o'clock already, very good\nSeven in the morning, hey, very good\nEight in the morning, very good\nBreakfast for two\nWithout knowing whаt'ѕ coming next\nVery good, hey"
+    }
+  ],
+  "bpm": 110,
+  "tone": "B minor",
+  "artistPeople": [
+    "Fá",
+    "Laura Diogo",
+    "Helena Coelho",
+    "Teresa Miguel"
+  ],
+  "backings": [
+    "Maria Sampaio",
+    "Mila Ferreira"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Luís Duarte",
+  "lyricists": null,
+  "writers": [
+    "António Avelar de Pinho",
+    "Pedro Brito",
+    "Tozé Brito"
+  ],
+  "broadcaster": "RTP",
+  "commentators": [
+    "Fialho Gouveia"
+  ],
+  "jury": null,
+  "spokesperson": "Margarida Andrade"
+}

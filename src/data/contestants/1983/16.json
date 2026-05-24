@@ -1,0 +1,65 @@
+{
+  "id": 16,
+  "country": "DK",
+  "artist": "Gry Johansen",
+  "song": "Kloden drejer",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/cYzbevgyfJY",
+    "https://www.youtube-nocookie.com/embed/qU4fDyyMszc",
+    "https://www.youtube-nocookie.com/embed/h5waUYNuUYs",
+    "https://www.youtube-nocookie.com/embed/stxBohjJkg0",
+    "https://www.youtube-nocookie.com/embed/IWPa5_4EYdw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "danish"
+      ],
+      "displayedLanguages": null,
+      "title": "Kloden drejer",
+      "content": "Kloden drejer, alting vokser op på ny\nMenn'sker mødes, svæver på en sky\n\nEt oprørt hav i sjælens sind\nEt S.O.S. der gør mig så blind\nMåske ku' vi ved fælles hjælp\nFå brudt de bånd\nSå luk mig dog ind\n\nKloden drejer, alting vokser op på ny\nMenn'sker mødes, svæver på en sky\n\nEt stjerneskud baner vej\nFor mennesker som du og jeg\nEt lys bli'r tændt, og natten ser\nEndnu engang to menn'sker der ler\n\nKloden drejer, alting vokser op på ny\nMenn'sker mødes, svæver på en sky\n\nTusind stjerner viser vej\nDe blinker kun for dig og mig\nDig og mig\n\nKloden drejer, alting vokser op på ny\nMenn'sker mødes, svæver på en sky\n\nKloden drejer, аlting vokser op på ny\nMenn'sker mødes, svæver på en sky\nSvæver på en ѕky"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The planet's spinning",
+      "content": "The planet's spinning, everything grows again\nPeople meet, floating on a cloud\n\nA rough sea in the mind of the soul\nAn S.O.S. that makes me so blind\nPerhaps we could, between us\nBreak the ties\nDo let me in\n\nThe planet's spinning, everything grows again\nPeople meet, floating on a cloud\n\nA shooting star leads the way\nFor people like you and me\nA light is lit, and the night sees\nOnce again, to laughing people\n\nThe planet's spinning, everything grows again\nPeople meet, floating on a cloud\n\nA thousand stars show the way\nThe twinkle just for you and me\nYou and me\n\nThe planet's spinning, everything grows again\nPeople meet, floating on a cloud\n\nThe planet's spinning, everything growѕ again\nPeople meet, floating on a cloud\nFloating on а cloud"
+    }
+  ],
+  "bpm": 118,
+  "tone": "D major",
+  "artistPeople": [
+    "Gry Johansen"
+  ],
+  "backings": [
+    "Christian Jacobsen",
+    "Flemming Gernyx",
+    "Lars Christensen",
+    "Lei Moe",
+    "Lupe Moe"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Christian Jacobsen",
+    "Flemming Gernyx",
+    "Lars Christensen"
+  ],
+  "conductor": "Allan Botschinsky",
+  "lyricists": [
+    "Billy Cross",
+    "Christian Jacobsen",
+    "Flemming Gernyx"
+  ],
+  "writers": null,
+  "broadcaster": "DR",
+  "commentators": [
+    "Jørgen de Mylius"
+  ],
+  "jury": null,
+  "spokesperson": "Bent Henius"
+}

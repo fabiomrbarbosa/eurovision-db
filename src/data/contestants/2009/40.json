@@ -1,0 +1,55 @@
+{
+  "id": 40,
+  "country": "BE",
+  "artist": "Copycat",
+  "song": "Copycat",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/8qVdSbiYT8w",
+    "https://www.youtube-nocookie.com/embed/uoCrJEqS214"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Copycat",
+      "content": "Way down in Memphis, Tennessee\nThere's a guy looking just like me\nWearing the same blue suede shoes\nSinging the same old blues\n\nWay down in the US of A\nThere's a guy doing things my way\nCombing the same greasy hair\nHugging the same teddy bear\n\nHe's a copycat, trying to steal my soul\nBut he's too fat to rock 'n' roll\nHe's a copycat, trying to steal my soul\nBut he's too fat to rock 'n' roll\n\nWay down in the deep deep South\nThere's a guy with a girly mouth\nEating the same banana sandwich\nDressed in the same kind of kitsch\n\nWay down by the Mississippi river\nThere's a guy with a voice that quivers\nDriving the same Cadillac car\nChasing the same lucky star\n\nHe's a copycat, trying to steal my soul\nBut he's too fat to rock 'n' roll\nHe's a copycat, trying to steal my soul\nBut he's too fat to rock 'n' roll\n\nWay down in America\nThere's a guy, rich and arrogant\nDating my fair Priscilla\nHe makes me want to hire a killer\n\nWay down in the land of the brave\nThere's a guy lying in his grave\n'Cause nobody duplicating my jive\nWill never get away with that alive\n\nHe was a copycat, trying to steal my soul\nNow he's too dead to rock 'n' roll\nHe was a copycat, trying to steal my soul\nNow he's too dead to rock 'n' roll\n\n(Copycat) To rock 'n' roll, rock 'n' roll, rock 'n' roll...\n(He's too dead) To rock 'n' roll, rock 'n' roll, rock 'n' roll...\n(Copy-copycat, copycat)\n(Copy-copycat, copycat)\n(Copy-copycat, copycat)\n(Copy-copycat, copycat) He waѕ a copycаt"
+    }
+  ],
+  "bpm": 88,
+  "tone": "D major",
+  "artistPeople": [
+    "Lenn Dauphin",
+    "Benjamin Schoos",
+    "Desta Hailé",
+    "Marie-Ange Tchai",
+    "Patrick Ouchène"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Miam Monster Miam"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Jacques Duvall"
+  ],
+  "writers": null,
+  "broadcaster": "RTBF",
+  "commentators": [
+    "André Vermeulen",
+    "Jean-Louis Lahaye",
+    "Jean-Pierre Hautier"
+  ],
+  "jury": [
+    "Corrado Falciglia",
+    "Isabelle Monnart",
+    "Manu Champagne",
+    "Marie-Paule Lemmens",
+    "Pierre Guyaut"
+  ],
+  "spokesperson": "Maureen Louys"
+}

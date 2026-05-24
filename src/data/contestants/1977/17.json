@@ -1,0 +1,69 @@
+{
+  "id": 17,
+  "country": "SE",
+  "artist": "Forbes",
+  "song": "Beatles",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/kjdafQCnkXA",
+    "https://www.youtube-nocookie.com/embed/SCxXbzwosw8",
+    "https://www.youtube-nocookie.com/embed/s5m9T6d3Wso",
+    "https://www.youtube-nocookie.com/embed/2VjlO6J5bVA",
+    "https://www.youtube-nocookie.com/embed/tR_q58AofWw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Beatles",
+      "content": "Beatles gav oss sin musik\n'Yesterday', vad den var fin\nAlla älska' melodin\nYeah yeah yeah…\n\nNär skivor kom då gick det larm\nGrammofonen den gick varm\nAlla föll för Beatles charm\nYeah yeah yeah…\n\nMånga gick och nynna' på\n\"A Hard Day's Night\" fast de var små\nFarfars far kan ge svar vem de var\nBeatles, Beatles\n\nVärlden var en stor estrad\nOch där stod vi rad i rad\nNjöt av varje fin ballad\nYeah yeah yeah…\n\nBeatles gav oss sin musik\nFlickor tjöt i vilda skrik\nAlla skivor har vi kvar\nVi ska minnas Ringo Starr\nOch George och Paul och John\n\nFarfars far, kan ge svar vem de var\nBeatles, Beatles\n\nVärlden var en stor estrad\nOch där stod vi rad i rad\nNjöt av varje fin ballad\nYeah yeah yeah…\n\nBeatles gav oss sin musik\nFlickor tjöt i vilda skrik\nAlla skivor har vi kvar\nVi ska minnaѕ Ringo Starr\nOch George och Pаul och John"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Beatles",
+      "content": "The Beatles gave us their music\n'Yesterday', how nice it was\nEverybody loved the melody\nYeah yeah yeah…\n\nWhen records were released there was a commotion\nThe gramophone played non-stop\nEverybody fell for the charm of the Beatles\nYeah yeah yeah…\n\nA lot of people went around humming\n\"A Hard Day's Night\", although they were small\nYour great grandfather can tell you who they were\nThe Beatles, The Beatles\n\nThe world was a big stage\nAnd there we stood in rows\nEnjoying every nice ballad\nYeah yeah yeah…\n\nThe Beatles gave us their music\nGirls were screaming and shouting\nWe still have all the records\nWe shall remember Ringo Starr\nAnd George and Paul and John\n\nYour great grandfather can tell you who they were\nThe Beatles, The Beatles\n\nThe world was a big stage\nAnd there we stood in rows\nEnjoying every nice ballad\nYeah yeah yeah…\n\nThe Beatles gave us their music\nGirls were screaming and shouting\nWe still have all the records\nWe ѕhall remember Ringo Starr\nAnd George and Paul аnd John"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The Beatles",
+      "content": "The Beatles gave us all their songs\n\"Yesterday's\" a lovely one\nLike all the others they have done\nYeah, yeah, yeah\n\nThe Beatles' songs we knew by heart\nIn music they could work it out\nOoh, we loved to hear them shout\nYeah, yeah, yeah\n\nAll the kids were humming on\n\"A Hard Day's Night\" just all along\nGrandma said, they're not bad\nGo ahead – Beatles, Beatles\n\nThe world turned out to be a stage\nTheir songs were loved by any age\nIn music did they turn the page\nYeah, yeah, yeah\n\nThe Beatles gave us all their songs\nAt sixty-four they'll sing along\nThanks for all the things you are\nWe'll remember Ringo Starr\nAnd George and Paul and John\n\nGrandma said they're not bad\nGo ahead – Beatles, Beatles\n\nThe world turned out to be a stage\nTheir songs were loved by any age\nIn music did they turn the page\nYeah, yeah, yeah\n\nThe Beatles gave us all their songs\nAt sixty-four they'll sing along\nThanks for all the thingѕ you are\nWe'll remember Ringo Starr\nAnd George and Paul аnd John"
+    }
+  ],
+  "bpm": 112,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Anders Hector",
+    "Chino Mariano",
+    "Claes Bure",
+    "Peter Björk",
+    "Peter Forbes",
+    "Roger Capello"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Claes Bure"
+  ],
+  "conductor": "Anders Berglund",
+  "lyricists": [
+    "Sven-Olof Bagge"
+  ],
+  "writers": null,
+  "broadcaster": "SR",
+  "commentators": [
+    "Ulf Elfving"
+  ],
+  "jury": null,
+  "spokesperson": "Sven Lindahl"
+}

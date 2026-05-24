@@ -1,0 +1,57 @@
+{
+  "id": 19,
+  "country": "LU",
+  "artist": "Modern Times",
+  "song": "Donne-moi une chance",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/6NmMFSeel0I",
+    "https://www.youtube-nocookie.com/embed/--wbty1c8rE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "luxembourgish",
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Donne-moi une chance",
+      "content": "Whoa… ooh…\n\nSeule, le regard dans la nuit\nUne étoile qui brille, peut-être pour moi\nPas facile de dire que ma vie chavire\nJ'ai besoin de toi\nC'est un jeu que l'on doit vivre\nJe veux savoir si la partie est perdue\nMais je veux encore y croire\nTe dire très fort tous mes espoirs\n\nDonne-moi une chance de te dire\nLes mots pour te conduire\nSur les chemins de tes désirs\nDonne-moi une chance de te dire\nLes mots pour te séduire\nVivre à nouveau tous nos plaisirs\n\nDréi méng Welt an eng kleng léiw Suerg\nSief méng Rous, déi och ëmmer fir mech bléit\nSief mäi Stär an der Nuecht\nMais je veux encore y croire\nTe dire très fort tous mes espoirs\n\nDonne-moi une chance de te dire\nLes mots pour te conduire\nSur les chemins de tes désirs\nDonne-moi une chance de te dire\nLes mots pour te séduire\nVivre à nouveau tous nos plaisirs\n\nDemain, peut-être, tu t'en iras très loin\nMais donne-moi ma chance, j'ai tant besoin de toi\n\nDonne-moi une chance de te dire\nLes mots pour te conduire\nSur les chemins de tes désirs\nDonne-moi une chance de te dire\nLes mots pour te séduire\nVivre à nouveau tous nos plаisirѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Give me a chance",
+      "content": "Whoa… ooh…\n\nAlone, looking into the night\nA star shines, maybe for me\nIt's not easy to say that my life capsizes\nI need you\nIt's a game we've got to live\nI want to know if I already lost it\nBut I still want to believe in it\nTelling you about all my hopes\n\nGive me a chance to tell you\nThe words that will lead you\nOn the road of your desires\nGive me a chance to tell you\nThe words to seduce you\nTo live all our pleasures again\n\nTurn my world with a bit of nice care\nBe my rose that always blossoms for me\nBe my star in the night\nBut I still want to believe in it\nTell you about all my hopes\n\nGive me a chance to tell you\nThe words that will lead you\nOn the road of your desires\nGive me a chance to tell you\nThe words to seduce you\nTo live all our pleasures again\n\nMaybe tomorrow you'll be going far away\nBut give me my chance, I need you so much\n\nGive me a chance to tell you\nThe words that will lead you\nOn the road of your desires\nGive me a chance to tell you\nThe words to seduce you\nTo live all our pleasureѕ agаin"
+    }
+  ],
+  "bpm": 142,
+  "tone": "C major",
+  "artistPeople": [
+    "Germain Martin",
+    "Simone Weis"
+  ],
+  "backings": [
+    "Patrick Alessi",
+    "Rick Nell",
+    "Ruth"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Francis Goya",
+  "lyricists": null,
+  "writers": [
+    "Jimmy Martin",
+    "Patrick Hippert"
+  ],
+  "broadcaster": "CLT",
+  "commentators": [
+    "Maurice Molitor"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

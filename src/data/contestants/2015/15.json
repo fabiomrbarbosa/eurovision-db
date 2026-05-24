@@ -1,0 +1,62 @@
+{
+  "id": 15,
+  "country": "AM",
+  "artist": "Genealogy",
+  "song": "Face The Shadow",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Z6O8pr7HH94",
+    "https://www.youtube-nocookie.com/embed/BYXr2FccjKE",
+    "https://www.youtube-nocookie.com/embed/VVVvgD0-Mu0",
+    "https://www.youtube-nocookie.com/embed/rJ1HgKxnUxw",
+    "https://www.youtube-nocookie.com/embed/XoKX4en8Kvw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Face The Shadow",
+      "content": "We find so many ways of fooling our heart\nPlaying too many games, trying to hide\nWhen you follow your dream, surrender the sorrow inside\nFace every shadow you deny\n\nFeels like so many times life was unfair\nWill you run and forget all the despair?\nIf it’s breaking you down, remember the power inside\nFace every shadow you deny\n\nTime is ticking and you keep thinking\nThat you are tricking your heart\n\nSo don’t deny\nEver, don’t deny\nBaby, don’t deny\nYou and I\n\nAcross the ocean of blues happy you’ll be\nOnce you’ve risen you are meant to be free\nWhen you’re feeling afraid remember there’s hope inside\nFace every shadow purified\n\nTime is ticking and you keep thinking\n(Time is ticking, thinking)\nThat you are tricking your heart\n\nSo don’t deny\nEver, don’t deny\nListen, don’t deny (I don’t want you to deny)\nYou and I\n\nDon’t deny\nEver, don’t deny\nListen, don’t deny (Liѕten)\nDon’t deny you аnd I"
+    }
+  ],
+  "bpm": 121,
+  "tone": "G major",
+  "artistPeople": [
+    "Essaï",
+    "Inga Arshakyan",
+    "Mary-Jean O'Doherty Vasmatzian",
+    "Stephanie Topalian",
+    "Tamar Mardirossian Kaprelian",
+    "Vahe Tilbian"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Armen Martirosyan"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Inna Mkrtchyan"
+  ],
+  "writers": null,
+  "broadcaster": "AMPTV",
+  "commentators": [
+    "Aram MP3",
+    "Arevik Udumyan",
+    "Avet Barseghyan",
+    "Erik Antaranyan",
+    "Hermine Stepanyan",
+    "Vahe Khanamiryan"
+  ],
+  "jury": [
+    "Aram MP3",
+    "Aren Bayadyan",
+    "Grigor Dzhumashutov Nazaryan",
+    "Leyla Andranik Saribekyan",
+    "Nune Martik Yesayan"
+  ],
+  "spokesperson": "Lilit Muradyan"
+}

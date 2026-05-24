@@ -1,0 +1,48 @@
+{
+  "id": 30,
+  "country": "MD",
+  "artist": "Geta Burlacu",
+  "song": "A Century Of Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/nnXup0BaHhs",
+    "https://www.youtube-nocookie.com/embed/JCz4UlOWMPk",
+    "https://www.youtube-nocookie.com/embed/DFRqIXRrR90",
+    "https://www.youtube-nocookie.com/embed/osSmui1NZY4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "A century of love",
+      "content": "The rain has touched my steps\nThe rain has touched my smile\nI'm going to its depth\nIt takes me to the sky\n\nAll the stars are falling down and now\nI can reach the rainbow\nHold my hand and come with me\nTo my other way of being\n\nThis is all I mean\nBe my everything\nAnd remember\nOur dreams together\n\nThis is all I need\nBe my everything\nAnd live forever\nEver, ever\n\nAll I need\nIs to find a little place to live\nIn your heart\nThat's what I want\n\nAnd to find the words to say\nTo find the words I've never said\nThe words I need to touch your world\nAnd your life to breathe your soul\n\nA century is now not enough for your love\n\nThis is all I need\nThis is all I mean\nBe my everything\nAnd remember\nOur dreams together\n\nThis is all I mean\nBe my everything\nAnd live forever\nEver, ever\n\nAll I need\nIs to find a little place to live\nIn your heart\nThat's what I want\n\nAnd to find the words to say\nTo find the words I've never said\nThe words I need to touch your world\nAnd your life to breаthe your soul\n\nA century iѕ now not enough for my love"
+    }
+  ],
+  "bpm": 140,
+  "tone": "D major",
+  "artistPeople": [
+    "Georgeta Burlacu-Povorozniuc"
+  ],
+  "backings": [
+    "Petru Haruta"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Oleg Baraliuc"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Viorica Demici"
+  ],
+  "writers": null,
+  "broadcaster": "TRM",
+  "commentators": [
+    "Lucia Danu",
+    "Vitalie Rotaru"
+  ],
+  "jury": null,
+  "spokesperson": "Vitalie Rotaru"
+}

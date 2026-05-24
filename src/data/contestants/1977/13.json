@@ -1,0 +1,61 @@
+{
+  "id": 13,
+  "country": "NO",
+  "artist": "Anita Skorgan",
+  "song": "Casanova",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/x8QNTw668l8",
+    "https://www.youtube-nocookie.com/embed/TktOCP_iVEc",
+    "https://www.youtube-nocookie.com/embed/w1mjlnR9SvA",
+    "https://www.youtube-nocookie.com/embed/IjS2-Sm6P8Q",
+    "https://www.youtube-nocookie.com/embed/KKuQXxcqLoU",
+    "https://www.youtube-nocookie.com/embed/v-mbY47i0ac"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "norwegian"
+      ],
+      "displayedLanguages": null,
+      "title": "Casanova",
+      "content": "Har du sett en mann med godt humør?\nEn som tror han er en stor sjarmør?\nAlle tiders Don Juan, kaller seg for Supermann\nVet det godt, for jeg er gift med ham\n\nHan dro hjemmefra en fredag kveld\nSkulle gå en tur og tok farvel\nMen nå er jeg litt i tvil, borte er jo dress og bil\nKan jeg ta det hele med et smil?\n\nFor han er den store Casanova\nDanseløve, alle tiders Don Juan\nJa, han er den store Casanova\nHelt på topp i stil og sjarm\n\nHar du sett en mann, jeg bare spør?\nEn som tror han er en stor sjarmør?\nAlle tiders Don Juan, kaller seg for Supermann\nHils og si at jeg er gift med ham\n\nFor han er den store Casanova\nDanseløve, alle tiders Don Juan\nJa, han er den store Casanova\nHelt på topp i stil og sjarm\n\nFor han er den store Casanova (Oh Casanova)\nDanseløve, alle tiders Don Juan (Oh Don Juan)\nJa, han er den store Casanova\nHelt på topp i stil og sjarm\n\nFor han er den store Casanova (Oh Casanova)\nDanseløve, alle tiders Don Juan (Oh Don Juan)\nJa, han er den store Casanova\nHelt på topp i stil og sjarm\n\nAlle tiderѕ Don Juan, jа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Casanova",
+      "content": "Have you seen a cheerful man?\nSomeone who thinks he has lots of charm?\nDon Juan of all times, calls himself Superman\nI should know, I'm married to him\n\nHe left home a Friday night\nWas going out for a walk and said goodbye\nBut now I'm a bit doubtful, his suit and car are gone\nCan I take it all with a smile?\n\nBecause he is the great Casanova\nA great dancer, Don Juan of all times\nYes, he is the great Casanova\nTop scores for style and charm\n\nHave you seen a man, I only ask?\nSomeone who thinks he has lots of charm?\nDon Juan of all times, calls himself Superman\nSay hi and say I'm married to him\n\nBecause he is the great Casanova\nA great dancer, Don Juan of all times\nYes, he is the great Casanova\nTop scores for style and charm\n\nBecause he is the great Casanova (Oh Casanova)\nA great dancer, Don Juan of all times (Oh Don Juan)\nYes, he is the great Casanova\nTop scores for style and charm\n\nBecause he is the great Casanova (Oh Casanova)\nA great dancer, Don Juan of all times (Oh Don Juan)\nYes, he is the great Casanova\nTop scores for style and charm\n\nDon Juan of all timeѕ, yeаh"
+    }
+  ],
+  "bpm": 119,
+  "tone": "A minor",
+  "artistPeople": [
+    "Anita Skorgan"
+  ],
+  "backings": [
+    "Anne Lise Gjøstøl",
+    "Anne Sofie Qvale",
+    "George Keller",
+    "Gro Bergsland"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Svein Strugstad"
+  ],
+  "conductor": "Carsten Klouman",
+  "lyricists": [
+    "Dag Nordtømme"
+  ],
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "John Andreassen"
+  ],
+  "jury": null,
+  "spokesperson": "Sverre Christophersen"
+}

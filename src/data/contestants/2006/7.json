@@ -1,0 +1,46 @@
+{
+  "id": 7,
+  "country": "AM",
+  "artist": "André",
+  "song": "Without Your Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/FbsnjmFk-1s",
+    "https://www.youtube-nocookie.com/embed/HTZBTFDf6O4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Without Your Love",
+      "content": "Drumming hearts and your silent words of love\nThey still remain in the shades of night\nWill you go? Will you ever save my storming soul?\nI need to know\n\nShould I live, should I die without your love?\nShould I smile, should I cry without your love?\nShould I fall, should I fly without your love?\nAll I can is only living for you, breathing for you\n\nWhat I lose, what I find without your love?\nWhat I say, what I hide without your love?\nWhat I have in my mind without your love?\nTell me what I have to do, since I love you\n\nFly with me, take my wings and dream away\nThe stars will lead to the heavens' way\nOne's for sure:\nThere's a thousand ways to say goodbye\nWhat you'll decide?\n\nShould I live, should I die without your love?\nShould I smile, should I cry without your love?\nShould I fall, should I fly without your love?\nAll I can is only living for you, breathing for you\n\nWhat I lose, what I find without your love?\nWhat I say, what I hide without your love?\nWhat I have in my mind without your love?\nTell me what I have to do, since I love you\n\nShould I live, should I die without your love?\nShould I smile, should I cry without your love?\nShould I fall, should I fly without your love?\nAll I can is only living for you, breathing for you\n\nShould I live, should I die without your love?\nShould I smile, should I cry without your love?\nShould I fall, should I fly without your love?\nAll I can is only living for you, breathing for you\n\nWhat I lose, what I find without your love?\nWhat I say, what I hide without your love?\nWhat I have in my mind without your love?\nTell me what I have to do, becаuѕe I love you"
+    }
+  ],
+  "bpm": 166,
+  "tone": "A minor",
+  "artistPeople": [
+    "Andrey Hovnanyan"
+  ],
+  "backings": [
+    "Shprot"
+  ],
+  "dancers": null,
+  "stageDirector": "Anush Hovnanyan",
+  "composers": [
+    "Armen Martirosyan"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Catherine Bekian"
+  ],
+  "writers": null,
+  "broadcaster": "AMPTV",
+  "commentators": [
+    "Felix Khachatryan",
+    "Gohar Gasparyan"
+  ],
+  "jury": null,
+  "spokesperson": "Gohar Gasparyan"
+}

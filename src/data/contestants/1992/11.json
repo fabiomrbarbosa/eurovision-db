@@ -1,0 +1,58 @@
+{
+  "id": 11,
+  "country": "DK",
+  "artist": "Kenny & Lotte",
+  "song": "Alt det som ingen ser",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/qmgcJmwJ0Nc",
+    "https://www.youtube-nocookie.com/embed/_SKk6wvxYuk",
+    "https://www.youtube-nocookie.com/embed/TCkwauBV3e0",
+    "https://www.youtube-nocookie.com/embed/TCbxpxE5IiI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "danish"
+      ],
+      "displayedLanguages": null,
+      "title": "Alt det som ingen ser",
+      "content": "Min fyr ble' sur og han er gået hjem\nSå er du lis'som mig til fest alene?\nJeg kender ham, der' ingen dør på klem\nSå' du vel fri i nat sku' jeg mene\nHør sig mig, tror du, at jeg' en pige, der falder for enhver?\nDet vidste jeg, du ville si', så hvorfor bli'r vi egentlig her?\n\nNår alt det som ingen ser\nDet har ingen ondt af, næ, tak, jeg bli'r tilbage\nAlt det som ingen ved\nDet ka' ikke komme de andre ved, forstår du?\nJa, alt det som ingen ser\nDet har ingen ondt af, et frikvarter er OK\nHvis det' til kærlighed, og hvis det kun er os der ved besked\n\nHva' si'r du, syn's du bare vi ska' gå?\nGi' mig en grund til at vi ikk' sku' gør' det\nEt øjeblik, mens jeg ta'r frakken på\nDet' er om at turde, mens man tør det\nVi ta'r en vogn, mens der er en at få, uden at sanse tid og sted\nEr det ulovligt at satse på en times tid til kærlighed?\n\nNår alt det som ingen ser\nDet har ingen ondt af, som denne her affære\nAlt det som ingen ved\nDet ka' ikke komme de andre ved\n\nHva' gør vi nu hvis nogen ser os gå fra festen?\nJo, for resten\nJeg har et trick der ikk' blamer' os:\nVi er gået, for du har fået\nEn enkelt tår mer' end du sku' ha'\nJa, den er go' med dig\nNu finder jeg en dør at ta', så ingen ser vi er på vej\n\nFor alt det som ingen ser\nDet har ingen ondt af, som denne her affære\nAlt det som ingen ved\nDet ka' ikke komme de andre ved\nDu ved at alt det som ingen ser\nDet har ingen ondt af, et frikvarter er OK\nLynet ka' let slå ned, vi' kun et ѕekund frа kærlighed"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "All the things that nobody sees",
+      "content": "My friend got angry, he's gone home\nSo just like me you're alone at the party?\nI know him, there's no chance left\nThen you're free tonight, I take it\nNow tell me, do you think I'm a girl, who'd fall for anybody?\nI knew you'd say that, so why do we stay here?\n\nWhen all the things that nobody sees\nNobody minds that, no thanks, I'll stay here\nAll the things that nobody knows\nThat can't be any of their business, you see?\nYes, all the things that nobody sees\nNobody minds that, a break is OK\nIf it's for love and if we're the only ones who know\n\nWhat do you say, do you just think we should leave?\nGive me a reason why we shouldn't do it\nJust a moment, while I put on my coat\nIt's all about daring, while you dare it\nWe'll take a taxi, while we can get one without sensing time and place\nIs it illegal to aim at an hour for love?\n\nWhen all the things that nobody sees\nNobody minds that, like this affair\nAll the things that nobody knows\nThat can't be any of their business\n\nWhat do we do, if someone sees us leave the party?\nYes, by the way\nI know a trick that won't disgrace us:\nWe've left, because you've had\nA drop more than you should have\nDon't give me that\nNow I'll find a door to use, so nobody will see that we're on our way\n\nFor, all the things that nobody sees\nNobody minds that, like this affair\nAll the things that nobody knows\nThat can't be any of their business\nYou know that, all the things that nobody sees\nNobody minds that, a break is OK\nLightning can easily strike, we're only a ѕecond awаy from love"
+    }
+  ],
+  "bpm": 130,
+  "tone": "A major",
+  "artistPeople": [
+    "Kenny Lübcke",
+    "Lotte Feder"
+  ],
+  "backings": [
+    "Jacob Launbjerg",
+    "Lei Moe",
+    "Lupe Moe",
+    "Peter Busborg"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Henrik Krogsgaard",
+  "lyricists": null,
+  "writers": [
+    "Carsten Warming"
+  ],
+  "broadcaster": "DR",
+  "commentators": [
+    "Jørgen de Mylius"
+  ],
+  "jury": null,
+  "spokesperson": "Bent Henius"
+}

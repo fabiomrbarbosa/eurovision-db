@@ -1,0 +1,54 @@
+{
+  "id": 18,
+  "country": "TR",
+  "artist": "Semiha Yankı",
+  "song": "Seninle bir dakika",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/9CDIda8--hI",
+    "https://www.youtube-nocookie.com/embed/aPsi2c_5ObM",
+    "https://www.youtube-nocookie.com/embed/MokYkMcMBUY",
+    "https://www.youtube-nocookie.com/embed/F2oNL3fLrpc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "turkish"
+      ],
+      "displayedLanguages": null,
+      "title": "Seninle bir dakika",
+      "content": "Seninle bir dakika, mutlandırıyor beni\nBir dakika siliyor canım, yılların özlemini\nSeninle bir dakika, mutlandırıyor beni\nBir dakika siliyor canım, yılların özlemini\n\nHasret tükenmez gibi, kavuşmak bir dakika\nSevmek bir ömür sürer, sevişmek bir dakika\n\nLa la la la la la la…\n\nSeninle buluşmamız, bir dakikada geçti\nGözlerim gözlerini canım, bir dakikada içti\nSeninle buluşmamız, bir dakikada geçti\nGözlerim gözlerini canım, bir dakikada içti\n\nHasret tükenmez gibi, kavuşmak bir dakika\nSevmek bir ömür sürer, sevişmek bir dakika\n\nHasret tükenmez gibi, kavuşmak bir dakika\nSevmek bir ömür sürer, ѕevişmek bir dakika\n\nLa la la la la la lа…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "A minute with you",
+      "content": "A minute with you, makes me happy\nOne minute darling, to forget these lost years\nA minute with you, makes me happy\nOne minute darling, to forget these lost years\n\nDesire is endless, seeing each other only lasts one minute\nLove lasts a whole life, making love only a minute\n\nLa la la la la la la…\n\nWe met each other, only one minute\nDarling, my eyes were drinking from your eyes for one minute\nWe met each other, only one minute\nDarling, my eyes were drinking from your eyes for one minute\n\nDesire is endless, seeing each other only lasts one minute\nLove lasts a whole life, making love only a minute\n\nDesire is endless, seeing each other only lasts one minute\nLove lastѕ a whole life, making love only a minute\n\nLa la la la la la lа…"
+    }
+  ],
+  "bpm": 164,
+  "tone": "B minor",
+  "artistPeople": [
+    "Semiha Yankı"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Kemal Ebcioğlu"
+  ],
+  "conductor": "Timur Selçuk",
+  "lyricists": [
+    "Hikmet Münir Ebcioğlu"
+  ],
+  "writers": null,
+  "broadcaster": "TRT",
+  "commentators": [
+    "Bülend Özveren"
+  ],
+  "jury": null,
+  "spokesperson": "Bülent Osma"
+}

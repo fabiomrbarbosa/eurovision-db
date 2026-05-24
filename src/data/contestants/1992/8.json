@@ -1,0 +1,57 @@
+{
+  "id": 8,
+  "country": "NL",
+  "artist": "Humphrey Campbell",
+  "song": "Wijs me de weg",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/zR1U48pyxA0",
+    "https://www.youtube-nocookie.com/embed/p77cJBmTCS0",
+    "https://www.youtube-nocookie.com/embed/M_Rq57W66Nc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "Wijs me de weg",
+      "content": "Ik heb mezelf gezocht in boeken en landen ver van hier\nZo is mijn leven, maar hoever je ook zoekt\nDe waarheid is niemand gegeven\n\nWijs me de weg naar het nieuwe land\nWijs me de weg, neem me bij de hand\nWijs me de weg naar mensen om me heen\n\nLeer me te zien dat het anders kan\nEn bovendien met een beter plan\nWijs me de weg, de weg voor iedereen\n\nIk heb mezelf gezocht, hier en in andere landen\nEn ben op zoek geweest naar vrienden voor altijd (hohoho)\nIk vond de waarheid, maar heb haar weer zien stranden\nDe dwaze dromen, gestolen door de tijd (hohoho)\n\nWat is dit leven? Hoever kun je komen?\nWie kan je helpen? Gevoel of verstand?\nDe weg die je zoekt in jezelf\nHoudt nooit op, staat niet stil, laat je leven\n\nWijs me de weg naar m'n eigen zin\nWijs me de weg naar een nieuw begin\nWijs me de weg naar liefde voor аltijd\n\nWijs me de weg\nOh, oh\nLoop mee\n\nWijs me de weg\nWijs me de weg\nWijѕ me de weg"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Show me the way",
+      "content": "I searched for myself in books and in far-away countries\nThat's my life, but no matter how far you search\nNobody holds the truth\n\nShow me the way to the new country\nShow me the way, take me by the hand\nShow me the way to people around me\n\nTeach me to see that it can be done otherwise\nAnd moreover with a better plan\nShow me the way, the way for everyone\n\nI searched for myself, here and in other countries\nAnd have been in search of friends for eternity (hohoho)\nI found the truth, but I've seen it stranding again\nThe stupid dreams, stolen by the time (hohoho)\n\nWhat is this life? How far can you go?\nWhich one can help you? Feeling or reason?\nThe way you search for in yourself\nNever stops, never stands still, lets you live\n\nShow me the way to my own sense\nShow me the way to a new beginning\nShow me the way to love for alwayѕ\n\nShow me the way\nOh, oh\nWalk along\n\nShow me the way\nShow me the way\nShow me the wаy"
+    }
+  ],
+  "bpm": 123,
+  "tone": "F minor",
+  "artistPeople": [
+    "Humphrey Campbell"
+  ],
+  "backings": [
+    "Ben Campbell",
+    "Carlo Campbell",
+    "Carmen d'Souza",
+    "Edwin Schimscheimer",
+    "Ruth Jacott"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Harry van Hoof",
+  "lyricists": null,
+  "writers": [
+    "Edwin Schimscheimer"
+  ],
+  "broadcaster": "NOS",
+  "commentators": [
+    "Willem van Beusekom"
+  ],
+  "jury": null,
+  "spokesperson": "Herman Slager"
+}

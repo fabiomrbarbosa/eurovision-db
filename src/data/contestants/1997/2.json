@@ -1,0 +1,59 @@
+{
+  "id": 2,
+  "country": "TR",
+  "artist": "Şebnem Paker & Etnic",
+  "song": "Dinle",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/m5J6-bCMz3Y",
+    "https://www.youtube-nocookie.com/embed/JF3Bqthmkgk",
+    "https://www.youtube-nocookie.com/embed/uzog3kiQ_n4",
+    "https://www.youtube-nocookie.com/embed/OJONlYr9Vd8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "turkish"
+      ],
+      "displayedLanguages": null,
+      "title": "Dinle",
+      "content": "Hiç geçmiyor günler sensiz\nGeceler yine kimesesiz\nAh… sevdiğim, nerdesin? Kimdesin?\nSana sormaya varmıyor dilim, dinle\n\nDeli aşkımın sonu var mıdır\nDiye sormadan severim seni\nAcı dinmeden, gece bitmeden\nYola düşmeden bulurum seni\n\nBana yar mıdır, adı var mıdır\nDiye sormadan bilirim seni\nGöze girmeden, dile gelmeden\nYüze gülmeden severim seni\n\nAh… sevdiğim, nerdesin? Kimdesin?\nSana sormaya varmıyor dilim, dinle\n\nDeli aşkımın sonu var mıdır\nDiye sormadan severim seni\nAcı dinmeden, gece bitmeden\nYola düşmeden bulurum seni\n\nBana yar mıdır, adı var mıdır\nDiye sormadan bilirim seni\nGöze girmeden, dile gelmeden\nYüze gülmeden severim seni\n\n(Sorsaydın) adı var mıdır?\n(Gerçekten) bana yar mıdır?\n(Bilseydin) sonu var mıdır?\n(Sessizce) severim seni\n\n(Sorsaydın) adı var mıdır?\n(Gerçekten) bana yar mıdır?\n(Bilseydin) sonu vаr mıdır?\n(Sessizce) severim ѕeni"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Listen",
+      "content": "The days don't pass without you\nThe nights are again without you\nAh… where are you my love? With whom are you?\nI couldn't dare to ask you, so listen\n\nIs this the end of this crazy love?\nWithout asking that I love you\nWithout ending the pain, without ending the night\nWithout going onto the roads, I can find you\n\nIs he my darling, has he got a name?\nWithout asking that I know you\nWithout meeting, without talking\nWithout smiling to your face, I love you\n\nAh… where are you my love? With whom are you?\nI couldn't dare to ask you, so listen\n\nIs this the end of this crazy love?\nWithout asking that I love you\nWithout ending the pain, without ending the night\nWithout going onto the roads, I can find you\n\nIs he my darling, has he got a name?\nWithout asking that I know you\nWithout meeting, without talking\nWithout smiling to your face, I love you\n\n(You had better ask it) has he got a name?\n(Really) does he love me?\n(You had better learn it) is there an end to it?\n(In silence) I love you\n\n(You had better ask it) has he got a name?\n(Really) does he love me?\n(You had better learn it) is there аn end to it?\n(In ѕilence) I love you"
+    }
+  ],
+  "bpm": 102,
+  "tone": "C minor",
+  "artistPeople": [
+    "Ahmet Koç",
+    "Ali Koç",
+    "Ercan Irmak",
+    "Eylem Pelit",
+    "Şebnem Paker",
+    "Süleyman Alnıtemiz"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Levent Çoker"
+  ],
+  "conductor": "Levent Çoker",
+  "lyricists": [
+    "Mehtap Alnıtemiz"
+  ],
+  "writers": null,
+  "broadcaster": "TRT",
+  "commentators": [
+    "Bülend Özveren"
+  ],
+  "jury": null,
+  "spokesperson": "Ömer Önder"
+}

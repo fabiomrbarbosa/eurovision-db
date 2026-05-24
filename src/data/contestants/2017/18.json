@@ -1,0 +1,63 @@
+{
+  "id": 18,
+  "country": "GR",
+  "artist": "Demy",
+  "song": "This is Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/iO14p2uCzkM",
+    "https://www.youtube-nocookie.com/embed/f2g9oAaoCeU",
+    "https://www.youtube-nocookie.com/embed/nVrlEB1bN3w",
+    "https://www.youtube-nocookie.com/embed/RP7JNf9MxtM",
+    "https://www.youtube-nocookie.com/embed/fjvHk6ilY8M",
+    "https://www.youtube-nocookie.com/embed/MoHnVULbGVY",
+    "https://www.youtube-nocookie.com/embed/BdFQtUa6Mpk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "This is Love",
+      "content": "Holding on to what we had can be so complicated\nCould be time to move along and face it, no more debating\nWatch the river running dry\nNow it's time to say goodbye\n\nThere's an echo in my head\nThere's a story still unread\nAnd I need you here tonight\nWalk away, don't turn around\nI will never let you down\nI won't let you see me cry\n\nThere's an echo in my head\nThere's a crossroad up ahead\nHow I want you here\nForever and ever and ever and ever\nI'm not giving up\n\nThis is love\nReaching out for the stars\nYou and me as one\nEverywhere this is love\n\nThis is love\n\nHolding on to what we had can be so self-destroying\nRemember how we laughed and played around till night met the morning?\nWatch the sun set in the sky\nThere will never be goodbye\n\nThere's an echo in my head\nThere's a story still unread\nAnd I need you here tonight\nWalk away, don't turn around\nI will never let you down\nHow I want you here\nForever and ever and ever and ever\nI'm not giving up\n\nThis is love\nReaching out for the stars\nYou and me as one\nEverywhere this is love\n\nThis is love\nReaching out for the stars\nYou and me аs one\nThis iѕ love"
+    }
+  ],
+  "bpm": 128,
+  "tone": "F major",
+  "artistPeople": [
+    "Dimitra Papadea (Δήμητρα Παπαδέα)"
+  ],
+  "backings": [
+    "Erasmia Markidi",
+    "Evgenia Liakou",
+    "Iasonas Mandilas",
+    "Paris Paraskevadis-Planets"
+  ],
+  "dancers": [
+    "Marcos Giakoumoglou"
+  ],
+  "stageDirector": "Fokas Evangelinos",
+  "composers": [
+    "Dimitris Kontopoulos"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "John Ballard",
+    "Romy Papadea"
+  ],
+  "writers": null,
+  "broadcaster": "ERT",
+  "commentators": [
+    "Giorgos Kapoutzidis",
+    "Maria Kozakou"
+  ],
+  "jury": [
+    "Akis Anastasiadis",
+    "Aris Petrakis",
+    "Dimitris Ougarezos",
+    "Vicky Gerothodorou",
+    "Xenia Ghali"
+  ],
+  "spokesperson": "Constantinos Christoforou"
+}

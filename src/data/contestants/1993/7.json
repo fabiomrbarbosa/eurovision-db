@@ -1,0 +1,55 @@
+{
+  "id": 7,
+  "country": "MT",
+  "artist": "William Mangion",
+  "song": "This Time",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Bxx_mGpwgi0",
+    "https://www.youtube-nocookie.com/embed/iDhYcPhS-Jg",
+    "https://www.youtube-nocookie.com/embed/l9QAAjLMmGk",
+    "https://www.youtube-nocookie.com/embed/_Byva7zRvT0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "This Time",
+      "content": "Oo baby, when I'm alone with you, you show your love for me\nI beleived that our love was for real, but I knew it was too good to be true\n\nOh baby, baby, when I found out that you were foolin' around with my heart\nIt hurt so much, pain unexplained\nHow could you do it? - I thought I found love\n\nThis time I'm gonna stand on my own\nI said, now, baby, this time I won't be missin' you at all\nNo, no, now, baby, this time I'll be strong, I won't fall in love again\n\nYou thought I was usin' your love, wastin' all your time, that's where you were wrong\nOh baby, baby, when I found out that you went wrong with foolin' around with my little heart\nIt hurt so much, pain unexplained\nHow could you do it when I thought I found love?\n\nThis time I'm gonna stand on my own\nSaid, now, baby, this time I won't be missin' you at all\nNo, no, now, baby, baby, I'll be strong, I'll be strong, yeah\n(This time)\nThis time I won't be needin' your lovin' for me, baby\nBaby, babe, baby, I'm gettin' by\nThis time I'll be ѕtrong, I won't fall in love agаin"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "maltese"
+      ],
+      "displayedLanguages": null,
+      "title": "Issa",
+      "content": "Fis-skiet, meta konna flimkien\nInt urejtni l-imħabba tieghek\nFik emmint, ħallejtni mingħajr dubju\nQatt ma ntbaħt kull darba li kont miegħek\n\nKif weġġgħajtni meta sirt naf li int\nBdiltni bla rażan, bl-amment\nDjieq ta' qalb, m'hemx kliem jiddeskrivi l-imrar ġo fija\nTradejtni vilment\n\nIssa, daqsekk, għalik mhux fil-bżonn – isma x'ser ngħidlek\nIssa, in-nuqqas tiegħek m'għadux jgħodd – daqsekk biżżejjed\nIssa, tgħallimt ma nerrġax nieħu l-istess żball\n\nInt ħsibt li kont ninqeda bik, naħlilek żmienek\nHemm fejn int żbaljajt\n\nKif weġġgħajtni meta sirt naf li int\nBdiltni bla rażan, bl-amment\nDjieq ta' qalb, m'hemx kliem jiddeskrivi l-imrar ġo fija\nTradejtni vilment\n\nIssa, daqsekk, għalik mhux fil-bżonn – isma x'ser ngħidlek\nIssa, in-nuqqas tiegħek m'għadux jgħodd – daqsekk biżżejjed\nIssa, tgħallimt ma nerrġax, qatt ma nerrġa nieħu l-istess żball\n\nIssa! L-imrar ġo fija! Tradejtni vilment\nIssa, tgħallimt ma nerrġax nieħu l-istesѕ żbаll"
+    }
+  ],
+  "bpm": 91,
+  "tone": "F major",
+  "artistPeople": [
+    "William Mangion"
+  ],
+  "backings": [
+    "Christopher Scicluna",
+    "Debbie Scerri",
+    "Moira Stafrace",
+    "Phyllisienne Brincat"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Joseph Sammut",
+  "lyricists": null,
+  "writers": [
+    "William Mangion"
+  ],
+  "broadcaster": "PBM",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Kevin Drake"
+}

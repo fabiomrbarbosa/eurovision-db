@@ -1,0 +1,72 @@
+{
+  "id": 8,
+  "country": "BA",
+  "artist": "Regina",
+  "song": "Bistra voda",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/TcRWjoEkzMk",
+    "https://www.youtube-nocookie.com/embed/liGJ3zo8uW4",
+    "https://www.youtube-nocookie.com/embed/O-SKzo0WwK8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "bosnian"
+      ],
+      "displayedLanguages": null,
+      "title": "Bistra voda",
+      "content": "Pitao sam neke ljude\nU mome kraju gdje mi duša stanuje\nJednu tajnu za mene\nKažu, kriješ draga\n\nPitao sam da mi vrate\nOno vrijeme, dane, sate\nProljeće na ljubav miriše\nTako kažu\n\nRodi me u majsku zoru\nKupaj me u bistroj vodi\nČuvam jedan svijet kad svi drugi odu\nČuvam te dok sam živ\n\nUkradi malo sunca za nas\nNemaš sutra, nemaš danas\nLako je, kad ti pjesma srce nađe\n\nRodi me u majsku zoru\nKupaj me u bistroj vodi\nČuvam jedan svijet kad svi drugi odu\nČuvam te dok sam živ\n\nRodi me u majsku zoru\nKupaj me u bistroj vodi\nČuvam jedan svijet kad svi drugi odu\nČuvam te dok ѕаm živ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Clear Water",
+      "content": "I asked some people\nIn the neighbourhood, where my soul resides\nA secret from me\nThey say you are hiding, dear\n\nI asked that they return to me\nThat time, the old hours, the spring\nThat love is in the air\nThey say\n\nGive birth to me at dawn in May\nBathe me in the clear water\nI guard one world, when all others leave\nI guard you as long as I'm alive\n\nSteal a bit of sun for us\nThere's no tomorrow, there's no today\nIt all becomes easy as the song finds the heart\n\nGive birth to me at dawn in May\nBathe me in the clear water\nI guard one world, when all others leave\nI guard you as long as I'm alive\n\nGive birth to me at dawn in May\nBathe me in the clear water\nI guard one world, when all others leave\nI guard you as long aѕ I'm аlive"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Klart vatten",
+      "content": "Jag frågade några människor\nI grannskapet, var håller min själ hus\nEn hemlighet från mig\nSäger de att du döljer, älskade\n\nJag bad dem att ge mig tillbaka\nDen tiden, de gamla timmarna, våren\nNär kärleken är i luften\nDe säger\n\nFöd mig vid gryningen i Maj\nBada mig i det klara vattnet\nJag vaktar en värld, när alla andra drar\nJag vaktar dig så länge jag lever\n\nSno en bit sol åt oss\nDet finns ingen morgondag, finns ingen idag\nAllt blir enkelt när sången finner hjärtat\n\nFöd mig vid gryningen i Maj\nBada mig i det klara vattnet\nJag vaktar en värld, när alla andra drar\nJag vaktar dig så länge jag lever\n\nFöd mig vid gryningen i Maj\nBada mig i det klara vattnet\nJag vaktar en värld, när alla andra drar\nJag vaktar dig ѕå länge jаg lever"
+    }
+  ],
+  "bpm": 152,
+  "tone": "F# minor",
+  "artistPeople": [
+    "Aleksandar Čović",
+    "Bojan Milićević",
+    "Davor Ebner",
+    "Denis Čabrić"
+  ],
+  "backings": [
+    "Danijela Večerinović",
+    "Elma Selimović"
+  ],
+  "dancers": null,
+  "stageDirector": "Boris Miljković",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Aleksandar Čović"
+  ],
+  "broadcaster": "BHRT",
+  "commentators": [
+    "Dejan Kukrić"
+  ],
+  "jury": [
+    "Adi Mulahalilović",
+    "Damir Šehanović",
+    "Maja Tatić",
+    "Miroslav Maraus",
+    "Vesna Andrée-Zaimović"
+  ],
+  "spokesperson": "Laka"
+}

@@ -1,0 +1,76 @@
+{
+  "id": 20,
+  "country": "SE",
+  "artist": "Malena Ernman",
+  "song": "La Voix",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/xE9Pl3mqRbo",
+    "https://www.youtube-nocookie.com/embed/5WH2OwJeMBE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french",
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "La voix",
+      "content": "Can you keep a secret?\nCan you keep a secret?\nI'm in love with you\nCan you make a promise?\nCan you make a promise?\nStay forever true, oh…\nThen I'm forever yours\n\nJe t'aime, amour, quand j'entends la voix\nJe t'aime, ma vie, c'est jamais sans toi\nJ'vis ma vie pour toi, c'est l'univers pour moi\nJe t'aime, amour, quand j'entends la voix\n\nTell me what you're feelin'\nTell me what you're feelin'\nI just wanna know\nTell me what you're dreamin'\nTell me what you're dreamin'\nLet your feelings show, oh…\nStay and don't let go\n\nJe t'aime, amour, quand j'entends la voix\nJe t'aime, ma vie, c'est jamais sans toi\nJ'vis ma vie pour toi, c'est l'univers pour moi\nJe t'aime, amour, quand j'entends la voix\n\n(Je t'aime, amour, quand j'entends la voix)\n(Je t'aime, ma vie, c'est jamais sans toi)\nJ'vis ma vie pour toi, c'est l'univers pour moi\nJe t'aime, amour, quand j'entends la voix\nJ'entends la voix, la voix…\n(Je t'aime, amour, quand j'entendѕ lа voix)"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": null,
+      "title": "הקול",
+      "content": "האם אתה יכול לשמור סוד?\nהאם אתה יכול לשמור סוד?\nאני אוהבת אותך\nהאם אתה יכול להבטיח?\nהאם אתה יכול להבטיח?\nהישאר אמיתי לנצח, הו…\nוכך תמיד אהיה שלך\n\nאני אוהבת אותך, אהובי, כשאני שומעת את הקול\nאני אוהבת אותך, חיי הם לעולם לא בלעדיך\nאני חיה עבורך, עבורי זה כל היקום\nאני אוהבת אותך, אהובי, כשאני שומעת את הקול\n\nאמור לי מה אתה מרגיש\nאמור לי מה אתה מרגיש\nאני רק רוצה לדעת\nאמור לי על מה אתה חולם\nאמור לי על מה אתה חולם\nהנח לרגשותיך להיראות, הו…\nהישאר ואל תעזוב\n\nאני אוהבת אותך, אהובי, כשאני שומעת את הקול\nאני אוהבת אותך, חיי הם אף פעם לא בלעדיך\nאני חיה עבורך, עבורי זה כל היקום\nאני אוהבת אותך, אהובי, כשאני שומעת את הקול\n\n(אני אוהבת אותך, אהובי, כשאני שומעת את הקול)\n(אני אוהבת אותך, חיי הם אף פעם לא בלעדיך)\nאני חיה עבורך, עבורי זה כל היקום\nאני אוהבת אותך, אהובי, כשאני שומעת את הקול\nכשאני שומעת את הקול, הקול\n(אני אוהבת אותך, אהובי, כשאני שומעת את הקול)"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The Voice",
+      "content": "Can you keep a secret?\nCan you keep a secret?\nI'm in love with you\nCan you make a promise?\nCan you make a promise?\nStay forever true, oh…\nThen I'm forever yours\n\nI love you, my love, when I hear the voice\nI love you, my life is never without you\nI live my life for you, it's the universe for me\nI love you, my love, when I hear the voice\n\nTell me what you're feelin'\nTell me what you're feelin'\nI just wanna know\nTell me what you're dreamin'\nTell me what you're dreamin'\nLet your feelings show, oh…\nStay and don't let go\n\nI love you, my love, when I hear the voice\nI love you, my life is never without you\nI live my life for you, it's the universe for me\nI love you, my love, when I hear the voice\n\n(I love you, my love, when I hear the voice)\n(I love you, my life is never without you)\nI live my life for you, it's the univerѕe for me\nI love you, my love, when I hear the voice\nI hear the voice, the voice\n(I love you, my love, when I heаr the voice)"
+    }
+  ],
+  "bpm": 128,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Malena Ernman"
+  ],
+  "backings": [
+    "Anna-Maria Hallgarn",
+    "Dea Norberg",
+    "Jessica Marberger",
+    "Malin Nilsson",
+    "Tine Matulessy"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Fredrik Kempe"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Fredrik Kempe",
+    "Malena Ernman"
+  ],
+  "writers": null,
+  "broadcaster": "SVT",
+  "commentators": [
+    "Edward af Sillén",
+    "Shirley Clamp"
+  ],
+  "jury": [
+    "Anna Charlotta Gunnarson",
+    "L-G Alsenius",
+    "Magnus Carlsson",
+    "Michael Cederberg",
+    "Sarah Dawn Finer"
+  ],
+  "spokesperson": "Sarah Dawn Finer"
+}

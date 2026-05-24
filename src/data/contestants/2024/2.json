@@ -1,0 +1,359 @@
+{
+  "id": 2,
+  "country": "UA",
+  "artist": "alyona alyona & Jerry Heil",
+  "song": "Teresa & Maria",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/d4N82wPpdg8",
+    "https://www.youtube-nocookie.com/embed/ZFkuLfA9E_c",
+    "https://www.youtube-nocookie.com/embed/-qjs54ZTRBQ",
+    "https://www.youtube-nocookie.com/embed/k_8cNbF8FLI",
+    "https://www.youtube-nocookie.com/embed/KnjXRNlWpwo",
+    "https://www.youtube-nocookie.com/embed/Xr__T6pX1no",
+    "https://www.youtube-nocookie.com/embed/9vrpXfTMseU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "ukrainian",
+        "english"
+      ],
+      "displayedLanguages": [
+        "ukrayinska",
+        "english"
+      ],
+      "title": "Teresa & Maria",
+      "content": "Dzhere-dzhere-dzherelo\nProbyva sobi shliakh\nShcho by shcho by ne bulo\nSvit na yiyi plechakh\n\nMani-mani-manivtsi\nZvyvysti, skeliasti\nAle znai: v tvoyiy rutsi\nTvoye vlasne shchastia\n\nDavai, mala, palai\nI'm not holy, I'm alive\n\nZ namy Mama Tereza i Diva Maria\nBosi, niby po lezu, ishly po zemli\nWith us mama Teresa, Diva Maria\nAll the Divas were born as human beings\n\nZ namy Mama Tereza i Diva Maria\nBosi, niby po lezu, ishly po zemli\nWith us mama Teresa, Diva Maria\nAll the Divas were born as human beings\n\nNavit shche zmalia my shukaly shliakh\nTa zhyttia - petlia, niby dlia tykh khto padaie\nNa svoikh plechakh shche male divcha\nNese z boliu chan i vbacha, shcho to vada ye\nZnovu ne taka, to nadto miaka\nOdiah na kistkakh, holiaka chy to pid vinets\nDe tvoie dytia? Shcho tvoie zhyttia?\nTa roky zh letiat! I zatiam: skoro vzhe kinets\nI khai khtos khoche aby my zlamalys\nKhai buva v tobi zariadu\nNe po likot, a po palets\nI khai khtos khova za posmishkoiu\nNenavyst i zazdrist\nKoly ty puskayesh v sertse hniv\nDobra y liubovi zamist\nAle v nebi ye sviati\nYikh nohy bachyly tsyu zemlyu, znayesh\nTviy ternystyi shliakh\nSame tomu ye ne daremno\nI khai bude duzhe strashno y temno\nI chasom ne lehko\nTa z toboyu zavzhdy budut\nZ neba sliduvaty predky\n\nZ namy Mama Tereza i Diva Maria\nBosi, niby po lezu, ishly po zemli\nWith us mama Teresa, Diva Maria\nAll the Divas were born as human beings\n\nZ namy Mama Tereza i Diva Maria\nBosi, niby po lezu, yshly po zemli\nWith us mama Teresa, Diva Maria\nAll the Divas were born as humаn beingѕ"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "ukrainian",
+        "english"
+      ],
+      "displayedLanguages": [
+        "українська",
+        "english"
+      ],
+      "title": "Teresa & Maria",
+      "content": "Джере-джере-джерело\nПробива собі шлях\nЩо би що би не було\nСвіт на її плечах\n\nМані-мані-манівці\nЗвивисті, скелясті\nАле знай: в твоїй руці\nТвоє власне щастя\n\nДавай, мала, палай\nI'm not holy, I'm alive\n\nЗ нами Мама Тереза і Діва Марія\nБосі, ніби по лезу, йшли по землі\nWith us Mama Teresa, Diva Maria\nAll the Divas were born as human beings\n\nЗ нами Мама Тереза і Діва Марія\nБосі, ніби по лезу, йшли по землі\nWith us Mama Teresa, Diva Maria\nAll the Divas were born as human beings\n\nНавіть ще змаля ми шукали шлях\nТа життя - петля, ніби для тих, хто падає\nНа своїх плечах ще мале дівча\nНесе з болю чан і вбача, що то вада є\nЗнову не така, то надто м'яка\nОдяг на кістках, голяка чи то під вінець\nДе твоє дитя? Що твоє життя?\nТа роки ж летять! І затям: скоро вже кінець\nІ хай хтось хоче аби ми зламались\nХай бува в тобі заряду\nНе по лікоть а по палець\nІ хай хтось хова за посмішкою\nНенависть і заздрість\nКоли ти пускаєш в серце гнів\nДобра любові замість\nАле в небі є святі\nЇх ноги бачили цю землю, знаєш\nТвій тернистий шлях\nСаме тому є не даремно\nІ хай буде дуже страшно й темно\nІ часом не легко\nТа з тобою завжди будуть\nЗ неба слідувати предки\n\nЗ нами Мама Тереза і Діва Марія\nБосі, ніби по лезу, йшли по землі\nWith us Mama Teresa, Diva Maria\nAll the Divas were born as human beings\n\nЗ нами Мама Тереза і Діва Марія\nБосі, ніби по лезу, йшли по землі\nWith us Mama Teresa, Diva Maria\nAll the Divas were born as humаn beingѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "arabic"
+      ],
+      "displayedLanguages": null,
+      "title": "تيريزا وماريا",
+      "content": "تيا-تيا-تيار\nيشق طريقه\nمهما، مهما كان\nالعالم على كتفيها\n\nالمن-المن-المنعطفات\nمتعرج، صخري\nلكن اعلم: أنها في يدك\nسعادتك الخاصة\n\nهيا، يا عزيزتي، تضيء\nأنا لست مقدسة، أنا على قيد الحياة\n\nمعنا الأم تريزا ومريم العذراء\nحافي القدمين، كما لو كان على النصل، مشى على الأرض\nمعنا ماما تيريزا، ديفا ماريا\nكل « الديفات » ولدوا كبشر\n\nمعنا الأم تريزا ومريم العذراء\nحافي القدمين، كما لو كان على النصل، مشى على الأرض\nمعنا ماما تيريزا، ديفا ماريا\nكل « الديفات » ولدوا كبشر\n\nحتى منذ الصغر، كنا نبحث عن طريقة\nلكن الحياة عبارة عن حلقة، كما لو كانت لأولئك الذين يسقطون\nلا تزال فتاة صغيرة على كتفيها\nتحمل دلو بالألم وترى أن هناك عيبًا\nأنت لست على حق مرة أخرى، أنت ضعيفة جدًا\nملابس معلقة على عظامك، عارية أو على وشك الزواج\nحيث طفلك؟ ماهي حياتك؟\nلكن السنوات تطير! وبعد ذلك: سينتهي قريبا\nودعهم يريدون منا أن ننكسر\nأحياناً عندكي إلى قدراً محدوداً من الطاقة\nلا يصل إلى الكوع، بل إلى الإصبع\nودعهم يختبئون خلف ابتسامة\nالكراهية والحسد\nعندما تترك الغضب في قلبك\nبدلا من اللطف والحب\nلكن هناك قديسين في السماء\nلقد رأت أقدامهم هذه الأرض، كما تعلمون\nطريقك الشائك\nهذا هو السبب في أنه ليس عبثا\nوليكن مخيفًا ومظلمًا جدًا\nوأحيانًا لا يكون الأمر سهلاً\nلكنهم سيكونون معك دائمًا\nأسلاف يتبعون من السماء\n\nمعنا الأم تريزا ومريم العذراء\nحافي القدمين، كما لو كان على النصل، مشى على الأرض\nمعنا ماما تيريزا، ديفا ماريا\nكل « الديفات » ولدوا كبشر\n\nمعنا الأم تريزا ومريم العذراء\nحافي القدمين، كما لو كان على النصل، مشى على الأرض\nمعنا ماما تيريزا، ديفا ماريا\nكل « الديفات » ولدوا كبشر"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "norwegian"
+      ],
+      "displayedLanguages": null,
+      "title": "Teresa & Maria",
+      "content": "Ein be-be-bekk\nFinn sin eigen veg\nSame-same kva\nVerda blir boren på skuldrene hennar\n\nOmve-omve-omvegar\nKronglete, steinete\nMen vit dette: ho er i di hand\nDi eiga lukke\n\nKom igjen, vesle jente, løft hovudet\nEg er ikkje heilag, eg er i live\n\nMor Teresa og Jomfru Maria er med oss\nBerrføtte, som på ein knivsegg, vandra dei på jorda\nMed oss Mor Teresa, Diva Maria\nAlle divaer vart fødde som menneskje\n\nMor Teresa og Jomfru Maria er med oss\nBerrføtte, som på ein knivsegg, vandra dei på jorda\nMed oss Mor Teresa, Diva Maria\nAlle divaer vart fødde som menneskje\n\nAlt frå vi var unge, såg vi etter ein veg\nMen livet går i rundgang, som om det var for dei som fell\nEi lita jente ber framleis på skuldrene sine\nSmertefullt, ei bøtte, og ho veit det er noko gale\nDu tek feil igjen, du er for ettergjevande\nKleda heng på deg, naken eller gifteklar\nKor er barnet ditt? Kva er livet ditt?\nMen åra flyg! Og så: snart er det over\nOg lat dei berre ønskje at vi bryt\nNokre gonger orkar du ikkje meir\nIkkje opp til olbogen, berre opp til fingeren\nOg lat dei berre skjule seg bak eit glis\nHat og sjalusi\nNår du slepper sinnet inn i hjarta ditt\nI staden for venleik og kjærleik\nMen det finst helgenar i himmelen\nFøtene deira har sett dette landet, veit du\nDin tornete sti\nDerfor er det ikkje fortapt\nOg lat det berre vera nifst og mørkt\nNokre gonger er det ikkje lett\nMen dei vil alltid vere der med deg\nForfedrane følgjer med deg frå himmelen\n\nMor Teresa og Jomfru Maria er med oss\nBerrføtte, som på ein knivsegg, vandra dei på jorda\nMed oss Mor Teresa, Diva Maria\nAlle divaer vart fødde som menneskje\n\nMor Teresa og Jomfru Maria er med oss\nBerrføtte, som på ein knivsegg, vandra dei på jorda\nMed oss Mor Teresa, Diva Maria\nAlle divaer vаrt fødde som menneѕkje"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": null,
+      "title": "תרזה ומריה",
+      "content": "זרם זרם זרם בא\nמתקרב אלינו\nלא משנה, משנה כבר מה\nהעולם על כתפייה\n\nמעקף-עוקף-עוקף פה\nוקוציו של אבן\nאבל תדע, הכל בידיים שלך\nבעיקר שמחתך\n\nבואי, ילדה, תזרחי\nאני לא טהורה, אני חיה\n\nאמא תרזה ומריה הבתולה איתנו\nברגליים יחפות, הן הולכות על אדמה כהייתה חרב חדה\nאיתנו אמא תרזה, והדיווה מריה\nכל הדיוות נולדו כבנות אדם\n\nאמא תרזה ומריה הבתולה איתנו\nברגליים יחפות, הן הולכות על אדמה כהייתה חרב חדה\nאיתנו אמא תרזה, והדיווה מריה\nכל הדיוות נולדו כבנות אדם\n\nאפילו מגיל צעיר, אנחנו מחפשות דרך\nאבל החיים זו לולאה, בשביל אלו שנשברים\nילדה קטנה מחזיקה על כתפייה, מלאת כאב\nדלי מים גדול והיא איתנה, אבל היא יודעת שהיא סוחבת פגם\nאתה שוב טועה, עם נפש עדינה מדי\nבגדייך תלויים על עצמותייך, את ערומה או שתתחתני כבר\nאיפה הבת שלך? איפה החיים שלך?\nאבל החיים ממשיכים! ובסוף, הכל ייגמר\nתני להם את הרצון לשבור אותנו\nלפעמים פשוט אין כוח\nנותנת את האצבע לוקחים את כל היד, אז תתני את המרפק\nלהתחבא מאחורי חיוך\nשנאה, קנאה, כעס עמוק בלב שלך\nתני מקום לאהבה, לנדיבות ולחמלה\nיש מלאכים בגן עדן\nכפות רגליהם יודעות את האדמה\nאת דרך הקוצים שבחרת לך\nזה לא סתם\nזה חשוך, פחד אלוהים נורא\nולפעמים זה לא פשוט\nלא קל, מסובך\nאבל אבות אבותייך יהיו איתך\nאיתך מהשמיים\n\nאמא תרזה ומריה הבתולה איתנו\nברגליים יחפות, הן הולכות על אדמה כהייתה חרב חדה\nאיתנו אמא תרזה, והדיווה מריה\nכל הדיוות נולדו כבנות אדם\n\nאמא תרזה ומריה הבתולה איתנו\nברגליים יחפות, הן הולכות על אדמה כהייתה חרב חדה\nאיתנו אמא תרזה, והדיווה מריה\nכל הדיוות נולדו כבנות אדם"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "romanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Teresa și Maria",
+      "content": "Izvorul curge curgând\nÎși croiește drum\nCeva, ceva nu era\nLumea pe umerii ei\n\nMâini-mâini-mânere\nSă dansezi, să sări\nDar știi: în mâinile tale\nE fericirea ta proprie\n\nHai, micuță, continuă\nNu sunt sfânt, sunt în viață\n\nCu noi Mama Teresa și Diva Maria\nMergând pe pământ desculți, ca pe o cărare\nCu noi Mama Teresa și Diva Maria\nToate Divele s-au născut ca ființe umane\n\nCu noi Mama Teresa și Diva Maria\nMergând pe pământ desculți, ca pe o cărare\nCu noi Mama Teresa și Diva Maria\nToate Divele s-au născut ca ființe umane\n\nChiar și atunci când eram mici, căutam un drum\nȘi viața - un cerc, parcă pentru cei care cad\nPe umerii noștri era o fetiță mică\nSimțind durerea și realizând că lumea e grea\nNu mereu așa, uneori prea blândă\nHaine pe degete, dezbrăcată sau sub vină\nUnde este copilul tău? Ce este cu viața ta?\nAnii trec! Și gândește-te: aproape că e sfârșitul\nȘi poate cineva vrea să ne înfrângem\nPoate că ai avut o încărcătură în tine\nNu pe umăr, ci pe degete\nȘi poate cineva se ascunde în spatele râsului\nUra și invidie\nCând îți deschizi inima pentru furie\nDragostea bună în loc\nDar în cer există sfinți\nPicioarele lor au călcat pământul, știi\nDrumul tău plin de spini\nDe aceea nu este în zadar\nȘi poate va fi foarte înfricoșător și întunecat\nȘi uneori nu va fi ușor\nDar vor fi mereu alături de tine\nÎnsoțindu-te din ceruri strămoșii\n\nCu noi Mama Teresa și Diva Maria\nMergând pe pământ desculți, ca pe o cărare\nCu noi Mama Teresa și Diva Maria\nToate Divele s-au născut ca ființe umane\n\nCu noi Mama Teresa și Diva Maria\nMergând pe pământ desculți, ca pe o cărare\nCu noi Mama Teresa și Diva Maria\nToate Divele s-au năѕcut ca ființe umаne"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "czech"
+      ],
+      "displayedLanguages": null,
+      "title": "Teresa & Maria",
+      "content": "Střídavý proud\nSi razí cestu\nBez ohledu na to, co se děje\nSvět je na jejích bedrech\n\nDeto-deto-detours\nDeštivé, kamenité\nAle věz: máš ji v ruce\nTvé vlastní štěstí\n\nNo tak, holčičko, rozsviť se\nNejsem svatá, jsem živá\n\nMatka Tereza a Panna Maria jsou s námi\nBosá, jako na ostří, kráčela po zemi\nS námi Mama Teresa, Diva Maria\nVšechny Divy se narodily jako lidské bytosti\n\nMatka Tereza a Panna Maria jsou s námi\nBosé, jako na ostří, kráčely po zemi\nS námi Mama Teresa, Diva Maria\nVšechny Divy se narodily jako lidské bytosti\n\nUž od mládí jsme hledaly cestu\nAle život je smyčka, jako pro ty, kdo padají\nDěvčátko na ramenou stále nosí\nBolestně, kbelík a ví, že je to vada\nZase nemáš pravdu, jsi příliš měkká\nŠaty ti visí na kostech, nahá nebo se jdeš vdát\nKde je tvé dítě? Co je tvůj život?\nVždyť léta letí! A pak: brzy bude konec\nA ať nás chtějí zlomit\nNěkdy máš jen tolik energie\nNe po lokty, ale po prsty\nA ať se schovají za úsměv\nNenávist a závist\nKdyž do svého srdce vpustíš hněv\nMísto laskavosti a lásky\nAle v nebi jsou svatí\nJejich nohy viděly tuto zemi, víš\nTvou trnitou cestu\nProto není marná\nA ať je velmi děsivá a temná\nA někdy to není snadné\nAle vždycky budou s tebou\nPředkové, kteří tě sledují z nebe\n\nMatka Tereza a Panna Maria jsou s námi\nBosé, jako na ostří, kráčely po zemi\nS námi Mama Teresa, Diva Maria\nVšechny Divy se narodily jako lidské bytosti\n\nMatka Tereza a Panna Maria jsou s námi\nBosé, jako na ostří, kráčely po zemi\nS námi Mama Teresa, Diva Maria\nVšechny Divy se narodily jаko lidská bytoѕt"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "croatian"
+      ],
+      "displayedLanguages": null,
+      "title": "Tereza i Marija",
+      "content": "Iz-iz-izvor\nProbija si put\nŠto god, što god bilo\nSvijet je na njenim ramenima\n\nObi-obi-obilaznice\nVijugave, kamenite\nAli znaj: u tvojim rukama\nTvoja je vlastita sreća\n\nHajde, malena zasjaj\nNisam sveta, živa sam\n\nS nama Majka Tereza i Djeva Marija\nBose, kao po oštrici, su hodale po zemlji\nS nama, Majka Tereza, Djeva Marija\nSve Dive rođene su kao ljudska bića\n\nS nama Majka Tereza i Djeva Marija\nBose, kao po oštrici, su hodale po zemlji\nS nama, Majka Tereza, Djeva Marija\nSve Dive rođene su kao ljudska bića\n\nVeć smo odmalena tražili put\nAli život – omča kao da je za one koji padaju\nNa svojim ramenima još djevojčica\nNosi od boli kotao i vidi kako to mana je\nOpet, nije takva, previše je meka\nOdjeće na kostima, gola ili ispod vijenca\nGdje je tvoje dijete? Što je tvoj život?\nAli godine lete! I zatim: skoro je gotovo\nI neka netko želi da se slomimo\nNeka bude u tebi snage\nAko ne u ruci, a onda u palcu\nI neka se netko krije iza osmijeha\nMržnja i zavist\nKad ti pustiš u srce gnjev\nUmjesto dobrote i ljubavi\nAli na nebu su sveci\nNjihove noge vidjele su ovu zemlju, znaj\nTvoj trnoviti put\nSamim time nije uzalud\nI neka bude vrlo strašno i mračno\nI ponekad nelagano\nAli s tobom zauvijek bit će\nS neba pratnja svetaca\n\nS nama Majka Tereza i Djeva Marija\nBose, kao po oštrici, su hodale po zemlji\nS nama, Majka Tereza, Djeva Marija\nSve Dive rođene su kao ljudska bića\n\nS nama Majka Tereza i Djeva Marija\nBose, kao po oštrici, su hodale po zemlji\nS nama, Majka Tereza, Djeva Marija\nSve Dive rođene su kao ljudѕka bićа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Teresa & Maria",
+      "content": "La sou-sou-source\nSculpte son chemin\nPeu importe\nLe monde est sur ses épaules\n\nLe che-che-chemin\nEst sinueux et rocheux\nMais sache que : dans tes mains\nSe trouve ton propre bonheur\n\nAllez, petite fille, éclaire-toi\nJe ne suis pas sainte, je suis vivante\n\nMère Teresa et Diva Maria sont avec nous\nPieds nus, comme sur une lame, marchent sur la terre\nAvec nous mère Teresa, diva Maria\nToutes les divas sont nées humaines\n\nMère Teresa et Diva Maria sont avec nous\nPieds nus, comme sur une lame, marchent sur la terre\nAvec nous mère Teresa, diva Maria\nToutes les divas sont nées humaines\n\nMême quand on était petites, on cherchait un chemin\nEt la vie est une boucle, et pour ceux qui sont entrain de tomber\nSur ses épaules, toujours une jeune fille\nElle porte un fardeau de douleur, le voyant comme un défaut\nEncore comme elle ne devrait pas être, ou trop tendre\nDes vêtements sur ses os, nue ou descendant de l'allée\nOù est ton enfant ? Qu'est-ce que ta vie ?\nMais les années volent ! Tu devrais être au courant : la fin est proche\nEt quelqu'un peut vouloir qu'on se détruise\nQue de l'énergie soit en toi\nPas jusqu'au coude, mais jusqu'au doigt\nQue quelqu'un cache de la haine\nEt de l'envie derrière un sourire\nQuand tu laisses de la colère dans ton cœur\nAu lieu de la gentillesse et de l'amour\nMais il y a des saints dans le ciel\nLeurs pieds ont vu cette terre, tu sais\nC'est pourquoi tu es épineux\nChemin n'est pas en vain\nEt même si ça peut faire peur et être sombre\nEt parfois difficile\nMais tu auras toujours tes ancêtres\nQui te suivent du paradis\n\nMère Teresa et Diva Maria sont avec nous\nPieds nus, comme sur une lame, marchent sur la terre\nAvec nous mère Teresa, diva Maria\nToutes les divas sont nées humaines\n\nMère Teresa et Diva Maria sont avec nous\nPieds nus, comme sur une lame, marchent sur la terre\nAvec nous mère Teresa, diva Maria\nToutes les divas sont nées humаineѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "indonesian"
+      ],
+      "displayedLanguages": null,
+      "title": "Teresa & Maria",
+      "content": "Gu-gu-gugur\nMengukir jalannya\nTak peduli apa\nDunia ada di pundaknya\n\nJa-ja-jalan\nBerliku dan berbatu\nTapi kau harus tahu: kebahagiaanmu sendiri\nAda di tanganmu\n\nAyo, gadis kecil, nyalakan apinya\nAku tidak suci, aku hidup\n\nBunda Teresa dan Diva Maria bersama kita\nBertelanjang kaki, seolah di atas bilah, mereka berjalan di tanah\nBersama kita mama Teresa, Diva Maria\nSemua Diva terlahir sebagai manusia\n\nBunda Teresa dan Diva Maria bersama kita\nBertelanjang kaki, seolah di atas bilah, mereka berjalan di tanah\nBersama kita mama Teresa, Diva Maria\nSemua Diva terlahir sebagai manusia\n\nBahkan saat kita masih kecil, kita mencari jalan\nDan hidup adalah lingkaran, seolah untuk mereka yang sedang jatuh\nDi pundaknya, masih seorang gadis muda\nDia membawa beban rasa sakit, melihatnya sebagai cacat\nSekali lagi tidak seperti yang seharusnya, atau terlalu lembut\nPakaian di tulangnya, telanjang atau berjalan menuju altar\nDi mana anakmu? Apa kehidupanmu?\nNamun tahun-tahun berlalu dengan cepat! Kau harus sadar: akhir sudah dekat\nDan semoga seseorang ingin kita hancur\nSemoga ada energi di dalam dirimu\nTidak sedalam siku, tapi sedalam jari\nDan semoga seseorang menyembunyikan kebencian\nDan iri hati di balik senyuman\nSaat kau membiarkan amarah masuk ke dalam hatimu\nAlih-alih kebaikan dan cinta\nTapi ada orang suci di langit\nKaki mereka telah melihat bumi ini, kau tahu\nItulah mengapa jalanmu yang berduri\nTidak sia-sia\nDan meskipun mungkin sangat menakutkan dan gelap\nDan terkadang tidak mudah\nTapi kau akan selalu memiliki leluhurmu\nMengikutimu dari surga\n\nBunda Teresa dan Diva Maria bersama kita\nBertelanjang kaki, seolah-olah di atas bilah, mereka berjalan di tanah\nBersama kita mama Teresa, Diva Maria\nSemua Diva lahir sebagai manusia\n\nBunda Teresa dan Diva Maria bersama kita\nBertelanjang kaki, seolah-olah di atas bilah, mereka berjalan di tanah\nBersama kita mama Teresa, Diva Maria\nSemua Diva lahir sebagai manuѕiа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": null,
+      "title": "Τερέζα και Μαρία",
+      "content": "Πη-Πη-Πηγή\nΣκαλίζει το δρόμο του\nΌ,τι-ό,τι κι αν συμβεί\nΟ κόσμος είναι στους ώμους της\n\nΜόνο-Μόνο-Μονοπάτια\nΕλικοειδή, βραχώδη\nΑλλά να ξέρεις ότι στο χέρι σου\nΗ δική σου ευτυχία\n\nΈλα, μικρό κορίτσι, βάλε φωτιές\nΔεν είμαι αγία, είμαι ζωντανή\n\nΗ Μητέρα Τερέζα και η Παναγία είναι μαζί μας\nΞυπόλητες, σαν σε λεπίδα, περπάτησαν στο έδαφος\nΗ Μητέρα Τερέζα και η Παναγία είναι μαζί μας\nΌλες οι παρθένες γεννήθηκαν ως ανθρώπινα όντα\n\nΗ Μητέρα Τερέζα και η Παναγία είναι μαζί μας\nΞυπόλητες, σαν σε λεπίδα, περπάτησαν στο έδαφος\nΗ Μητέρα Τερέζα και η Παναγία είναι μαζί μας\nΌλες οι παρθένες γεννήθηκαν ως ανθρώπινα όντα\n\nΑκόμα και όταν ήμασταν μικρές, ψάχναμε για έναν τρόπο\nΑλλά η ζωή είναι ένας βρόγχος, σαν για όσες πέφτουν\nΣτους ώμους της, ακόμα ένα κοριτσάκι\nΚουβαλάει το βάρος του πόνου, βλέποντάς το ως ελάττωμα\nΠάλι δεν είναι όπως θα έπρεπε να είναι, ή πολύ τρυφερή\nΡούχα στα κόκκαλα, γυμνά ή κάτω από τη κορώνα γάμου\nΠού είναι το παιδί σου; Ποια είναι η ζωή σου;\nΤα χρόνια περνάνε! Και να θυμάσαι: σύντομα τελειώνουν\nΚαι ας θέλει κάποιος να μας σπάσει\nΚαι ας έχεις δύναμη\nΌχι μέχρι τον αγκώνα, αλλά μέχρι το δάχτυλο\nΚαι ας κρύβεται κάποιος πίσω από ένα χαμόγελο\nΜίσος και φθόνος\nΌταν αφήνεις το θυμό να μπει στην καρδιά σου\nΑντί για την καλοσύνη και αγάπη\nΑλλά υπάρχουν άγιοι στον ουρανό\nΤα πόδια τους έχουν δει αυτή τη γη, ξέρεις\nΟ ακανθώδης τρόπος σου\nΓι' αυτό δεν είναι μάταιος\nΚαι αν και μπορεί να είναι πολύ τρομακτικό και σκοτεινό\nΚαι μερικές φορές δεν είναι εύκολο\nΑλλά θα έχεις πάντα τους προγόνους σου\nΝα σε ακολουθούν από τον ουρανό\n\nΗ Μητέρα Τερέζα και η Παναγία είναι μαζί μας\nΞυπόλητες, σαν σε λεπίδα, περπάτησαν στο έδαφος\nΗ Μητέρα Τερέζα και η Παναγία είναι μαζί μας\nΌλες οι παρθένες γεννήθηκαν ως ανθρώπινα όντα\n\nΗ Μητέρα Τερέζα και η Παναγία είναι μαζί μας\nΞυπόλητες, σαν σε λεπίδα, περπάτησαν στο έδαφος\nΗ Μητέρα Τερέζα και η Παναγία είναι μαζί μας\nΌλες οι παρθένες γεννήθηκαν ως ανθρώπινα όντα"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Teresa & Maria",
+      "content": "Spri-spri-spring\nCarves its way\nNo matter what\nThe world is on her shoulders\n\nPa-pa-path\nIs winding and rocky\nBut you should know: your own happiness\nIs in your hands\n\nCome on, little girl, light up\nI'm not holy, I'm alive\n\nMother Teresa and Diva Maria are with us\nBarefoot, as if on a blade, they walked on the ground\nWith us mama Teresa, Diva Maria\nAll the Divas were born as human beings\n\nMother Teresa and Diva Maria are with us\nBarefoot, as if on a blade, they walked on the ground\nWith us mama Teresa, Diva Maria\nAll the Divas were born as human beings\n\nEven when we were little, we searched for a path\nAnd life is a loop, as if for those who are falling\nOn her shoulders, still a young girl\nShe carries a burden of pain, seeing it as a flaw\nAgain not as she should be, or too tender\nClothes on her bones, naked or going down the aisle\nWhere is your child? What is your life?\nBut the years are flying! You should be aware: the end is near\nAnd may someone want us to break\nMay there be energy in you\nNot the elbow-deep, but the finger-deep\nAnd may someone hide hatred\nAnd envy behind a smile\nWhen you let anger into your heart\nInstead of kindness and love\nBut there are saints in the sky\nTheir feet have seen this earth, you know\nThat's why your thorny\nPath is not in vain\nAnd though it may be very scary and dark\nAnd sometimes not easy\nBut you'll always have your ancestors\nFollowing you from heaven\n\nMother Teresa and Diva Maria are with us\nBarefoot, as if on a blade, they walked on the ground\nWith us mama Teresa, Diva Maria\nAll the Divas were born as human beings\n\nMother Teresa and Diva Maria are with us\nBarefoot, as if on a blade, they walked on the ground\nWith us mama Teresa, Diva Maria\nAll the Divas were born as humаn beingѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "ukrainian"
+      ],
+      "displayedLanguages": null,
+      "title": "Тереза і Марія",
+      "content": "Джере-джере-джерело\nПробива собі шлях\nЩо би що би не було\nСвіт на її плечах\n\nМані-мані-манівці\nЗвивисті, скелясті\nАле знай: в твоїй руці\nТвоє власне щастя\n\nДавай, мала, палай\nЯ не свята, я жива\n\nЗ нами Мама Тереза і Діва Марія\nБосі, ніби по лезу, йшли по землі\nЗ нами Мама Тереза, Діва Марія\nУсі Діви народилися людьми\n\nЗ нами Мама Тереза і Діва Марія\nБосі, ніби по лезу, йшли по землі\nЗ нами Мама Тереза, Діва Марія\nУсі Діви народилися людьми\n\nНавіть ще змаля ми шукали шлях\nТа життя - петля, ніби для тих, хто падає\nНа своїх плечах ще мале дівча\nНесе з болю чан і вбача, що то вада є\nЗнову не така, то надто м'яка\nОдяг на кістках, голяка чи то під вінець\nДе твоє дитя? Що твоє життя?\nТа роки ж летять! І затям: скоро вже кінець\nІ хай хтось хоче аби ми зламались\nХай бува в тобі заряду\nНе по лікоть а по палець\nІ хай хтось хова за посмішкою\nНенависть і заздрість\nКоли ти пускаєш в серце гнів\nДобра любові замість\nАле в небі є святі\nЇх ноги бачили цю землю, знаєш\nТвій тернистий шлях\nСаме тому є не даремно\nІ хай буде дуже страшно й темно\nІ часом не легко\nТа з тобою завжди будуть\nЗ неба слідувати предки\n\nЗ нами Мама Тереза і Діва Марія\nБосі, ніби по лезу, йшли по землі\nЗ нами Мама Тереза, Діва Марія\nУсі Діви народилися людьми\n\nЗ нами Мама Тереза і Діва Марія\nБосі, ніби по лезу, йшли по землі\nЗ нами Мама Тереза, Діва Марія\nУсі Діви народилися людьми"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "belarusian"
+      ],
+      "displayedLanguages": null,
+      "title": "Тэрэза і Марыя",
+      "content": "Крыні-крыні-крыніца\nПрабівае сабе шлях\nШто б што б не было\nСвет на яе плячах\n\nСцеж-сцеж-сцежкі\nЗвілісты, камяністы\nАле ведай: у тваёй руцэ\nТваё ўласнае шчасце\n\nДавай, малая, палай\nЯ не святая, я жывая\n\nЗ намі Мама Тэрэза і Дзіва Марыя\nБосыя, нібы па лязе, ішлі па зямлі\nЗ намі Мама Тэрэза і Дзіва Марыя\nУсе Дзівы былі народжаныя смяротнымі людзьмі\n\nЗ намі Мама Тэрэза і Дзіва Марыя\nБосыя, нібы па лязе, ішлі па зямлі\nЗ намі Мама Тэрэза і Дзіва Марыя\nУсе Дзівы былі народжаныя смяротнымі людзьмі\n\nЯшчэ з дзяцінства мы шукалі шлях\nАле жыццё - пятля, як для тых, хто падае\nНа яе плячах, яшчэ малая дзяўчына\nНясе чан ад болю і бачыць, што там загана\nЗноў не така, занадта мякка\nВопратка на касцях, голая ці пад вянец\nДзе тваё дзіця? Што тваё жыццё?\nАле гады ж ляцяць! І потым: хутка ўжо канец\nІ хай нехта хоча, каб мы зламаліся\nХай будзе ў табе зарад\nНе да локця, а да пальца\nІ хай нехта хавае за ўсмешкай\nНянавісць і зайздрасць\nКалі ты ўпускаеш гнеў у сваё сэрца\nДабра, каханні замест\nАле на небе ёсць святыя\nІх ногі бачылі гэтую зямлю, ведаеш\nТвой цярністы шлях\nМенавіта таму гэта не дарма\nІ хай будзе вельмі страшна і цёмна\nІ часам не лёгка\nТая з табою заўсёды будуць\nЗ неба прытрымліваць продкі\n\nЗ намі Мама Тэрэза і Дзіва Марыя\nБосыя, нібы па лязе, ішлі па зямлі\nЗ намі Мама Тэрэза і Дзіва Марыя\nУсе Дзівы былі народжаныя смяротнымі людзьмі\n\nЗ намі Мама Тэрэза і Дзіва Марыя\nБосыя, нібы па лязе, ішлі па зямлі\nЗ намі Мама Тэрэза і Дзіва Марыя\nУсе Дзівы былі народжаныя смяротнымі людзьмі"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Teresa & Maria",
+      "content": "Fon-fon-fonte\nSi fa strada\nQualunque cosa sia, qualunque cosa non sia\nIl mondo è sulle sue spalle\n\nSenti-senti-sentieri\nTortuosi, rocciosi\nMa sai che nelle tue mani\nLa tua propria felicità\n\nDai, piccola, accendi\nNon sono santa, sono viva\n\nSono con noi Mama Teresa e la Vergine Maria\nA piedi nudi, come su una lama, camminarono sulla terra\nSono con noi Mama Teresa e la Vergine Maria\nTutte le Dive sono nate come esseri umani\n\nSono con noi Mama Teresa e la Vergine Maria\nA piedi nudi, come su una lama, camminarono sulla terra\nSono con noi Mama Teresa e la Vergine Maria\nTutte le Dive sono nate come esseri umani\n\nFin da piccoli cercavamo la strada\nMa la vita è un cappio per chi cade\nSulle sue spalle una bambina porta una tinozza\nPorta con sé una tinozza di dolore e ne vede il difetto\nNon è così di nuovo, sei troppo morbida\nI vestiti sono appesi alle ossa, sei nuda o ti sposerai\nDov'è il tuo bambino? Che cos'è la tua vita?\nMa gli anni volano! E poi: presto sarà tutto finito\nE che qualcuno ci voglia rompere\nE che sia pieno di carica\nNon fino al gomito, ma fino al dito\nE che qualcuno si nasconda dietro un sorriso\nOdio e invidia\nQuando fai entrare la rabbia nel tuo cuore\nInvece della bontà dell'amore\nMa ci sono santi in cielo\nI loro piedi sono passati su questa terra, lo sai\nIl tuo percorso pietroso\nEcco perché non è vano\nE anche se può essere molto spaventoso e buio\nE a volte non è facile\nMa con te ci saranno sempre\nDal cielo seguire gli antenati\n\nSono con noi Mama Teresa e la Vergine Maria\nA piedi nudi, come su una lama, camminarono sulla terra\nSono con noi Mama Teresa e la Vergine Maria\nTutte le Dive sono nate come esseri umani\n\nSono con noi Mama Teresa e la Vergine Maria\nA piedi nudi, come su una lama, camminarono sulla terra\nSono con noi Mama Teresa e la Vergine Maria\nTutte le Dive sono nate come esѕeri umаni"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "armenian"
+      ],
+      "displayedLanguages": null,
+      "title": "Թերեզա ու Մարիամ",
+      "content": "Առվա-Առվա-առվակը\nԻր հունն է բացում\nԻնչ էլ ինչ էլ որ լինի\nԱշխարհը իր ուսերին տանում\n\nԱրա-արա-արահետներ\nՈլոր ու քարոտ\nԲայց իմացիր քո ձեռքում է\nՔո երջանկությունը\n\nԳնա, փորքրիկ, հոսիր\nԵս սուրբ չեմ, ես ողջ եմ\n\nՄեզ հետ Մայր Թերեզան է ու Սուրբ Մարիամն է\nՈտաբոբիկ քայլել են գենտնի վրա ինչպես սայրի վրա\nՄեզ հետ Մայր Թերեզան է ու Սուրբ Մարիամն է\nԲոլոր սրբերը ծնվել են որպես սովորական մարդիկ\n\nՄեզ հետ Մայր Թերեզան է ու Սուրբ Մարիամն է\nՈտաբոբիկ քայլել են գենտնի վրա ինչպես սայրի վրա\nՄեզ հետ Մայր Թերեզան է ու Սուրբ Մարիամն է\nԲոլոր սրբերը ծնվել են որպես սովորական մարդիկ\n\nՄանկուց մենք ուղի ենք փնտրում\nԲայց կյանքը շրջապտույտ է նրանց համար ովքեր կատրվում են\nԻր ուսերի վրա դեռ փոքր աղջիկը\nՑավով տանում է կուժը ու հասկանում որ սա սխալ է\nԴու ճիշտ չես նորից, դու չափազանց փափուկ ես\nՇորերը կմախքի վրա, մերկ նշանվելու ես\nՈ՞ւր է քո երեխան։ Ի՞նչ եղավ քո կյանքին։\nԲայց տարիները անցնում են ու հիշիր շուտով վերջը կգա\nՆրանց ովքեր ուզում էին որ մենք կոտրվենք\nԵրբեմն դու այնքան եռանդ ունես\nՈչ թե մինչև արմունկ այլ մինչև մատեր\nԹող նրանք թաքնվեն ժպիտի տակ\nԱտելության ու նախանձի\nԵրբ դու թողնում ես ջղայնությունը սրտում տեղ գտնի\nԲարության ու սիրո փոխարեն\nԲայց երկնքում սրբերն կան\nՆրանց ոտքերը տեսել են երկիրը, գիտես\nՃանապարհը քարքարոտ է\nԱյդ պատճառով ամեն ինչ իզուր չէ\nՈւ ուղին կլինի վախենալու ու մութ\nՈւ երբեմն դժվար\nԲայց քեզ միշտ\nԵրկնքից կհետևեն նախնիները\n\nՄեզ հետ Մայր Թերեզան է ու Սուրբ Մարիամն է\nՈտաբոբիկ քայլել են գենտնի վրա ինչպես սայրի վրա\nՄեզ հետ Մայր Թերեզան է ու Սուրբ Մարիամն է\nԲոլոր սրբերը ծնվել են որպես սովորական մարդիկ\n\nՄեզ հետ Մայր Թերեզան է ու Սուրբ Մարիամն է\nՈտաբոբիկ քայլել են գենտնի վրա ինչպես սայրի վրա\nՄեզ հետ Մայր Թերեզան է ու Սուրբ Մարիամն է\nԲոլոր սրբերը ծնվել են որպես սովորական մարդիկ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "serbian"
+      ],
+      "displayedLanguages": null,
+      "title": "Tereza i Marija",
+      "content": "Izvo-izvo-izvor\nProbija svoj put\nNije bitno šta se desi\nCeo svet je na njenim ramenima\n\nSta-sta-staza\nJe krivudava i kamenita\nAli znaj: Tvoja sreća\nUvek je u tvojim rukama\n\nHajde, mala, sijaj\nJa nisam sveta, ja sam živa\n\nS nama majka Tereza i devica Marija\nBose, kao po trnju, hodale zemljom\nS nama majka Tereza i devica Marija\nSvi sveci su rođeni kao ljudska bića\n\nS nama majka Tereza i devica Marija\nBose, kao po trnju, hodale zemljom\nS nama majka Tereza i devica Marija\nSvi sveci su rođeni kao ljudska bića\n\nČak i kad smo bile male tražile smo put\nZa one koje padaju, život je poput petlje\nMala devojčica na svojim ramenima\nNosi breme puno bola i gleda na njega kao na manu\nOpet, nije kao što treba da bude, ili previđe ranjiva\nOdeća na njenim kostima, gola šeta kroz redove\nGde ti je dete? Šta ti sa životom?\nAli godine lete! Budi svesna: Kraj je blizu\nBude li neko pokušao da te slomi\nNek u tebi bude energije\nNe do laktova, nego do prstiju\nI bude li neko krio mržnju\nI pohlepu iza osmeha\nKada pustiš ljutnju u srce\nUmesto dobrote i ljubavi\nAli sveci su na nebu\nNjihova stopala su hodala našom zemljom, znaj\nZato tvoj trnoviti put\nNije bio uzaludan\nI možda jeste vrlo taman i strašan\nI ponekad nije lako\nAli ćeš uvek imati svoje pretke\nKoji te prate iz Raja\n\nS nama majka Tereza i devica Marija\nBose, kao po trnju, hodale zemljom\nS nama majka Tereza i devica Marija\nSvi sveci su rođeni kao ljudska bića\n\nS nama majka Tereza i devica Marija\nBose, kao po trnju, hodale zemljom\nS nama majka Tereza i devica Marija\nSvi sveci su rođeni kao ljudѕka bićа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "uzbek"
+      ],
+      "displayedLanguages": null,
+      "title": "Tereza va Mariyam",
+      "content": "Ma-Ma-manba\nUning yo'lini qilish\nBu nima\nDunyo uning yelkasida\n\nMani-mani-mani\nO'rash, tosh\nAmmo buni biling: sizning qo'lingizda\nO'zingizning baxtingiz\n\nKel, mala, yonmoq\nMen avliyo emasman, tirikman\n\nOna Tereza va bokira Maryam biz bilan\nYalang oyoq, xuddi pichoqda, ular yerda yurishdi\nOna Tereza va bokira Maryam biz bilan\nBarcha Virgolar inson bo'lib tug'ilgan\n\nOna Tereza va bokira Maryam biz bilan\nYalang oyoq, xuddi pichoqda, ular yerda yurishdi\nOna Tereza va bokira Maryam biz bilan\nBarcha Virgolar inson bo'lib tug'ilgan\n\nBolaligimizdan ham biz yo'l izladik\nBu hayot pastadir, go'yo yiqilganlar uchun\nUning yelkasida hali ham kichkina qiz bor\nOg'riqdan va biror narsa borligini ko'rib, idishni olib yuradi\nShunga qaramay, unchalik emas, keyin juda yumshoq\nSuyaklardagi kiyimlar, yalang'och yoki yo'lakdan pastga\nFarzandingiz qayerda? Sizning hayotingiz nima?\nYillar o'tmoqda! Va ma'nosi: oxiri yaqinda keladi\nVa kimdir bizni buzishimizni xohlasin\nSizda zaryad bo'lsin\nTirsakka emas, barmoqqa\nVa kimdir tabassum orqasida yashirinsin\nNafrat va hasad\nG'azabni yuragingizga kiritganingizda\nO'rniga mehribon sevgi\nAmmo osmonda azizlar bor\nBilasizmi, ularning oyoqlari bu erni ko'rgan\nSizning tikanli yo'lingiz\nShuning uchun bor\nVa bu juda qo'rqinchli va qorong'i bo'lsin\nVa ba'zida bu oson emas\nHa, ular doimo siz bilan bo'lishadi\nAjdodlarga ergashish uchun osmondan\n\nOna Tereza va bokira Maryam biz bilan\nYalang oyoq, xuddi pichoqda, ular yerda yurishdi\nOna Tereza va bokira Maryam biz bilan\nBarcha Virgolar inson bo'lib tug'ilgan\n\nOna Tereza va bokira Maryam biz bilan\nYalang oyoq, xuddi pichoqda, ular yerda yurishdi\nOna Tereza va bokira Maryam biz bilan\nBarcha Virgolar inѕon bo'lib tug'ilgаn"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "bulgarian"
+      ],
+      "displayedLanguages": null,
+      "title": "Тереза и Мария",
+      "content": "Изво-изво-извор\nПробива си път\nКаквото и да е, каквото и да не е\nСветът е на нейните рамене\n\nПът-път-пътеки\nКриволичещи, скалисти\nНо знай: в твоите ръце\nТвоето собствено щастие\n\nДавай, малката, разпали се\nАз не съм свята, аз съм жива\n\nС нас са Мама Тереза и Дева Мария\nБоси, като по нож, те вървели по земята\nС нас са Мама Тереза и Дева Мария\nВсички Деви са били родени като човешки същества\n\nС нас са Мама Тереза и Дева Мария\nБоси, като по нож, те вървели по земята\nС нас са Мама Тереза и Дева Мария\nВсички Деви са били родени като човешки същества\n\nОще от малки търсехме пътя\nНо животът е примка за тези, които падат\nНа раменете си малко момиче носи чан\nНоси с болка чана и вижда, че е недостатък\nОтново не така, твърде мека си\nДрехите висят на костите ти, гола си или ще се жениш\nКъде е детето ти? Какъв е животът ти?\nНо годините летят! И след това: скоро всичко ще свърши\nИ нека някой иска да ни счупи\nИ нека да си пълна със заряд\nНе до лакътя, а до пръста\nИ нека някой да се крие зад усмивка\nНенавист и завист\nКогато допуснеш гнева в сърцето си\nВместо добротата на любовта\nНо в небето има светии\nНозете им са виждали тази земя, знаеш\nТвоят път е каменист\nИ затова не е напразен\nИ нека бъде много страшно и тъмно\nИ понякога нелесно\nНо с теб винаги ще бъдат\nПредците, следващи те от небето\n\nС нас са Мама Тереза и Дева Мария\nБоси, като по нож, те вървели по земята\nС нас са Мама Тереза и Дева Мария\nВсички Деви са били родени като човешки същества\n\nС нас са Мама Тереза и Дева Мария\nБоси, като по нож, те вървели по земята\nС нас са Мама Тереза и Дева Мария\nВсички Деви са били родени като човешки същества"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "albanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Tereza & Maria",
+      "content": "Burimi gjarpëron\nHap rrugën përpara\nÇfarëdo që të ndodhë\nE mban botën mbi supe pa ndalja\n\nRrugët dredha-dredha\nShkëmbinj të ashpër në terr\nPor dije: lumturia jote\nNë duart e tua fle\n\nHajde, vajzë, ndiz shpirtin e zjarrtë\nS'jam shenjtore, jam e gjallë dhe flakë\n\nMe ne është Nëna Tereza dhe Diva Maria\nTë zbathura, si mbi thika, ecën mbi tokë\nMe ne është Nëna Tereza dhe Diva Maria\nTë gjitha Divat lindën si njerëz, nga toka u rritën\n\nMe ne është Nëna Tereza dhe Diva Maria\nTë zbathura, si mbi thika, ecën mbi tokë\nMe ne është Nëna Tereza dhe Diva Maria\nTë gjitha Divat lindën si njerëz, nga toka u rritën\n\nQë të vogla kërkonim rrugën drejt dritës\nPor jeta si një lak për ata që bien pa shpresë\nNjë vajzë e vogël, me dhimbje mbi supe të vetme\nShikon vështirësitë dhe ngre shpresën nga e meta\nPërsëri ndjehet e papërsosur, tepër e butë\nNjë kockë e brishtë në jetë, e zhveshur, përballë fatit të sertë\nKu është fëmija yt? Çfarë është jeta jote?\nVitet ikin, koha s'pret, fundi po afrohet\nDhe nëse dikush do që të thyhemi në shpirt\nLe të mbetet forca jote deri në fund\nDeri në gishtin e fundit\nDhe nëse dikush fsheh pas buzëqeshjes\nUrrejtje e zili\nMos lejo zemërimin të marrë\nVendin e dashurisë\nPor në qiell ka të shenjtë\nKëmbët e tyre prekën këtë tokë, e di\nRruga jote plot gjemba\nS'është kotësi\nDhe ndonëse është\nE errët dhe e frikshme\nGjithmonë do të jenë me ty\nTë ndjekin nga qielli, të parët e tu\n\nMe ne është Nëna Tereza dhe Diva Maria\nTë zbathura, si mbi thika, ecën mbi tokë\nMe ne është Nëna Tereza dhe Diva Maria\nTë gjitha Divat lindën si njerëz, nga toka u rritën\n\nMe ne është Nëna Tereza dhe Diva Maria\nTë zbathura, si mbi thika, ecën mbi tokë\nMe ne është Nëna Tereza dhe Diva Maria\nTë gjitha Divat lindën ѕi njerëz, nga tokа u rritën"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Teresa & Maria",
+      "content": "Kevä-kevä-kevät\nKaivertaa tiensä\nEi väliä mitä\nMaailma on hänen hartiallaan\n\nPol-pol-polku\nOn mutkainen ja kivinen\nMutta sinun pitäsisi tietää: sinun oma onnesi\nOn käsissäsi\n\nTule, pieni tyttö, sytytä\nEn ole pyhä, olen elossa\n\nÄiti Teresa ja Diva Maria on kanssamme\nPaljain jaloin, kuin olisi terällä, he kävelivät maan päällä\nMeidän kanssamme äiti Teresa, Diva Maria\nKaikki Divat olivat syntyneet kuin ihmiset\n\nÄiti Teresa ja Diva Maria on kanssamme\nPaljain jaloin, kuin olisi terällä, he kävelivät maan päällä\nMeidän kanssamme äiti Teresa, Diva Maria\nKaikki Divat olivat syntyneet kuin ihmiset\n\nJopa silloin kun olimme pieniä, etsimme polkua\nJa elämä on silmukka, kuin niille, jotka putoavat\nHänen hartiallaan, silti pieni tyttö\nHän kantaa kivun taakkaa, nähdä sen virheenä\nEi edelleenkään kuinka hänen pitäisi olla, tai liian herkkä\nVaatteet hänen luissaan, alasti tai käytävällä\nMissä on lapsesi? Mikä on elämäsi?\nMutta vuodet lentävät! Mutta sinun pitäisi olla tietoinen: loppu on lähellä\nJa haluaako joku meidän rikkovan\nSaa sinussa olla energiaa\nEi kyynärpäähän vaan sormeen asti\nJa saa joku piilotella vihaa\nJa kateutta silmien takana\nKun päästät vihan sydämeesi\nYstävällisyyden ja rakkauden sijaan\nMutta taivaalla on henkiä\nHeidän jalat ovat nähneet tämän maapallon, tiedäthän\nSiksi sinun valtaistuimesi\nPolku ei ole turha\nJa vaikka se voi olla hyvin pelottavaa ja synkkää\nJa joskus ei helppoa\nMutta sinulla tulee aina olemaan sinun esivanhemmat\nSeuraamaan sinua taivaalla\n\nÄiti Teresa ja Diva Maria on kanssamme\nPaljain jaloin, kuin olisi terällä, he kävelivät maan päällä\nMeidän kanssamme äiti Teresa, Diva Maria\nKaikki Divat olivat syntyyneet ihmisiksi\n\nÄiti Teresa ja Diva Maria on kanssamme\nPaljain jaloin, kuin olisi terällä, he kävelivät maan päällä\nMeidän kanssamme äiti Teresa, Diva Maria\nKaikki Divat olivаt syntyyneet ihmisikѕi"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "catalan"
+      ],
+      "displayedLanguages": null,
+      "title": "Teresa i Maria",
+      "content": "Un corre-corre-corrent\nObrint el seu camí\nNo importa, no importa el què\nEl món és a les seves espatlles\n\nDesvi-desvi-desviaments\nSinuosos, rocosos\nPerò que sàpigues: és a la teva mà\nLa teva pròpia felicitat\n\nVinga, nena petita, brilla\nNo soc santa, estic viva\n\nAmb nosaltres Mare Teresa i Verge Maria\nDescalces, com sobre una espasa, caminant per terra\nAmb nosaltres Mare Teresa, Verge Maria\nTotes les Verges van néixer com un éssers humans\n\nAmb nosaltres Mare Teresa i Verge Maria\nDescalces, com sobre una espasa, caminant per terra\nAmb nosaltres Mare Teresa, Verge Maria\nTotes les Verges van néixer com un éssers humans\n\nFins i tot des d'una curta edat buscàvem una manera\nPerò la vida és un bucle, com per als que cauen\nUna nena petita encara porta a les espatlles\nDolorosament un cubell i sap que és un defecte\nT'equivoques un altre cop, ets massa tou\nRoba penjant dels teus ossos, nu o anant a casar-te\nOn és el teu fill? On és la teva vida?\nPerò els anys passen volant! I llavors: aviat acabarà\nI deixa que vulguin que ens trenquem\nDe vegades la teva energia arriba al seu límit\nNo fins al colze, sinó fins al dit\nI deixa que s'amaguin darrere un somriure\nOdi i enveja\nQuan deixes que l'odi entri al teu cor\nEn lloc de l'amabilitat i l'amor\nPerò hi ha sants al cel\nEls seus peus han vist aquesta terra, saps\nEl teu camí punxegut\nPer això no és en va\nI deixa que sigui molt terrorífic i fosc\nI de vegades no és fàcil\nPerò sempre estaran amb tu\nAncestres que et segueixen des del cel\n\nAmb nosaltres Mare Teresa i Verge Maria\nDescalces, com sobre una espasa, caminant per terra\nAmb nosaltres Mare Teresa, Verge Maria\nTotes les Verges van néixer com un éssers humans\n\nAmb nosaltres Mare Teresa i Verge Maria\nDescalces, com sobre una espasa, caminant per terra\nAmb nosaltres Mare Teresa, Verge Maria\nTotes les Verges van néixer com un éssers humаnѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "Teresa & Maria",
+      "content": "Een stro-stro-stroom\nMaakt zijn route\nHet maakt niet uit wat\nDe wereld rust op haar schouders\n\nOmlei-omlei-omleidingen\nRegende, steen\nMaar weet dit: ligt in jouw hand\nJouw eigen blijdschap\n\nKom op, schat verbrand\nIk ben niet heilig, ik leef\n\nMoeder Teresa en maagd Maria zijn met ons\nBlotevoeten, alsof op een blad, loopt op de grond\nSamen met ons moeder teresa, diva maria\nAlle divas zijn geboren als een mens\n\nMoeder teresa en maagd Maria zijn met ons\nBlotevoeten, alsof op een blad, loopt op de grond\nSamen met ons moeder teresa, diva maria\nAlle divas zijn geboren als een mens\n\nZelfs van een jonge leeftijd, we zochten voor een manier\nMaar het leven is een lus, ook zo voor de mensen die vallen\nEen klein meisje is het nog steeds aan het dragen op haar schouders\nPijnlijk, een emmer en ze weet dat het een fout is\nJe hebt weer niet gelijk, je bent te zacht\nKleding hangt op jouw botten, naakt of je gaat trouwen\nWaar is jouw kind? waar is jouw leven?\nMaar de jaren gaan snel voorbij! en dan: snel zou het over gaan\nEn laat hun weg gaan van ons\nSoms hebt jij alleen zoveel energie\nHet is niet aan de elleboog, maar het is aan de vinger\nEn laat hen verstoppen achter een lach\nHaat en jaloers\nWanneer laat je jouw woede in je hart\nIn plaats van aardigheid en liefde\nMaar er is een sint in de hemel\nHun voeten hebben dit land gezien, je weet het\nJouw stekelige hart\nDaarom is het niet tevergeefs\nEn laat het heel eng en donker te zijn\nEn soms is het niet makkelijk\nMaar zij zijn altijd bij jou\nVoorouders volgen jou vanaf de hemel\n\nMoeder teresa en maagd Maria zijn met ons\nBlotevoeten, alsof op een blad, loopte op de grond\nSamen met ons moeder teresa, diva maria\nAlle divas zijn geboren als een mens\n\nMoeder teresa en maagd Maria zijn met ons\nBlotevoeten, alsof op een blad, loopte op de grond\nSamen met ons moeder teresa, diva maria\nAlle divas zijn geboren аls een menѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Teresa & Maria",
+      "content": "En bä-bä-bäck\nHittar sin väg\nOav-oavsett vad\nHon bär världen på sina axlar\n\nOmvä-omvä-omvägar\nRegniga, steniga\nMen vet det här: den är i din hand\nDin egen lycka\n\nKom igen, lilla flicka, lys nu\nJag är inte helig, jag är vid liv\n\nMed oss är Moder Teresa och Jungfru Maria\nBarfota, som på en klinga, vandrade på marken\nMed oss Moder Teresa, Jungfru Maria\nAlla divor föddes som människor\n\nMed oss är Moder Teresa och Jungfru Maria\nBarfota, som på en klinga, vandrade på marken\nMed oss Moder Teresa, Jungfru Maria\nAlla divor föddes som människor\n\nÄven från en ung ålder letade vi efter en väg\nMen livet går i loop, som om det vore för dem som faller\nEn liten flicka bär än på axlarna\nI smärta, en hink och hon vet att det är ett fel\nDu har fel igen, du är för mjuk\nKläder hänger på ben, är du naken eller ska du gifta dig?\nVar är barnet? Vad är ditt liv?\nMen åren går förbi! Och sen: snart är det över\nOch låt dem vilja att vi brister\nIbland orkar man inte mer\nInte upp till armbågen, men upp till fingret\nOch låt dem gömma sig bakom ett leende\nHat och avund\nNär man släpper ilska in i hjärtat\nIstället för vänlighet och kärlek\nMen i himlen finns det helgon\nDeras fötter har ju sett det här landet\nDin taggiga väg\nDet är därför det inte är förgäves\nOch låt det vara så läskigt och mörkt\nOch ibland är det inte lätt\nMen de kommer alltid vara med dig\nFörfäder följer dig i himlen\n\nMed oss är Moder Teresa och Jungfru Maria\nBarfota, som på en klinga, vandrade på marken\nMed oss Moder Teresa, Jungfru Maria\nAlla divor föddes som människor\n\nMed oss är Moder Teresa och Jungfru Maria\nBarfota, som på en klinga, vandrade på marken\nMed oss Moder Teresa, Jungfru Maria\nAllа divor föddes som männiѕkor"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Тереза и Мария",
+      "content": "Родни-родни-родник\nПробивает себе путь\nЧто бы, что бы ни было\nМир на её плечах\n\nТропи-тропи-тропинки\nИзвилистые, каменистые\nНо знай: в твоей руке\nТвоё собственное счастье\n\nДавай, маленькая, пылай\nЯ не святая, я живая\n\nС нами Мама Тереза и Дева Мария\nБосые, будто по лезвию, шли по земле\nС нами Мама Тереза и Дева Мария\nВсе Дивы рождались простыми людьми\n\nС нами Мама Тереза и Дева Мария\nБосые, будто по лезвию, шли по земле\nС нами Мама Тереза и Дева Мария\nВсе Дивы рождались простыми людьми\n\nДаже с детства мы искали путь\nНо жизнь — петля, будто для тех, кто падает\nНа своих плечах ещё маленькая девочка\nНесёт с болью чан и видит, что такой недостаток существует\nОпять не такая, то слишком мягкая\nОдежда на костях, голышом или под венец\nГде твой ребенок? Что с твоей жизнью?\nНо годы же летят! И запомни: скоро будет конец\nИ пусть кто-то хочет, чтобы мы сломались\nПусть в тебе будет заряд\nНе по локоть, а по палец\nИ пусть кто-то прячет за улыбкой\nНенависть и зависть\nКогда ты пускаешь в сердце гнев\nВместо добра, любви\nНо в небесах есть святые\nИх ноги видели эту землю, знаешь\nТвой тернистый путь\nВот поэтому всё не зря\nИ пусть будет очень страшно и темно\nИ порой нелегко\nНо с тобой всегда будут\nС неба следовать предки\n\nС нами Мама Тереза и Дева Мария\nБосые, будто по лезвию, шли по земле\nС нами Мама Тереза и Дева Мария\nВсе Дивы рождались простыми людьми\n\nС нами Мама Тереза и Дева Мария\nБосые, будто по лезвию, шли по земле\nС нами Мама Тереза и Дева Мария\nВсе Дивы рождались простыми людьми"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "turkish"
+      ],
+      "displayedLanguages": null,
+      "title": "Teresa & Maria",
+      "content": "​\n​\n​\n​\n\nKaynak yolunu buluyor\nNe olursa olsun dünya omuzlarında\nKıvrımlı, dolambaçlı, kayalık yollar\nAma şunu bil ki, kendi mutluluğun senin elinde\n\nHadi küçüğüm, alev al\nKutsal değilim, hayattayım\n\nMama Teresa ve Diva Maria bizimle\nYalınayak bir şekilde, sanki bir bıçağın üzerindeymiş gibi yerde yürüdüler\nMama Teresa, Diva Maria bizimle\nBütün Divalar insan olarak doğdular\n\nMama Teresa ve Diva Maria bizimle\nYalınayak bir şekilde, sanki bir bıçağın üzerindeymiş gibi yerde yürüdüler\nMama Teresa, Diva Maria bizimle\nBütün Divalar insan olarak doğdular\n\nÇocukluğumuzdan beri bir yol arıyorduk\nBu hayat sanki bocalayanlar için bir döngü\nKüçük bir kız hala kendi omuzlarında\nBir kova acıyı taşıyor ve bunu bir kusur olarak görüyor\nYine olması gerektiği gibi değil, bu sefer çok yumuşak\nVeya bir deri bir kemik, neredeyse çıplak veya bakire bir gelin gibi\nÇocuğun nerede, hayatınla ne yapıyorsun?\nAma yıllar uçup gidiyor ve bunun anlamı: tüm bunlar yakında sona erecek\nBirileri bizim kırılmamızı umut edebilir\nGücün tükenebilir\nKolunu dirseğe kadar değil, parmağa kadar kaldırabiliyorsundur sadece\nVe onlar birilerinin bir gülümsemenin arkasına saklanıyor olabilirler\nOnların nefreti ve kıskançlığı\nYüreğini öfke doldurduğunda\nİyilik ve sevgi yerine\nYine de göklerde azizler var\nAyakları bu Dünya ile buluştu, biliyorsun\nİşte tam da bu yüzden dikenli yoluna\nBoşuna basılmıyor\nVe bu durum çok korkutucu ve karanlık olabilir\nVe bazen kolay da değildir\nAma her zaman izleneceksin\nGöklerdeki ataların tarafından\n\nMama Teresa ve Diva Maria bizimle\nYalınayak bir şekilde, sanki bir bıçağın üzerindeymiş gibi yerde yürüdüler\nMama Teresa, Diva Maria bizimle\nBütün Divalar insan olarak doğdular\n\nMama Teresa ve Diva Maria bizimle\nYalınayak bir şekilde, sanki bir bıçağın üzerindeymiş gibi yerde yürüdüler\nMama Teresa, Diva Maria bizimle\nBütün Divalar inѕan olarak doğdulаr"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Teresa & Maria",
+      "content": "Früh-Früh-Frühling\nEr banht sich seinen Weg\nEgal was auch kommen mag\nDie Welt liegt auf ihren Schultern\n\nPfad-Pfad-Pfad\nIst stürmisch und steinig\nDoch solltest Du wissen: Dein eigenes Glück\nLiegt in deinen Händen\n\nKomm, kleines Mädchen, leuchte auf\nIch bin nicht heilig, ich lebe\n\nMutter Teresa und Diva Maria sind mit uns\nBarfuß, wie auf einer Klinge, schritten sie über den Boden\nMit uns Mama Teresa, Diva Maria\nAlle Divas waren als Menschen geboren\n\nMutter Teresa und Diva Maria sind mit uns\nBarfuß, wie auf einer Klinge, schritten sie über den Boden\nMit uns Mama Teresa, Diva Maria\nAlle Divas waren als Menschen geboren\n\nSelbst als wir noch klein waren, suchten wir nach einem Pfad\nUnd das Leben ist ein Kreislauf, als wäre es für die Fallenden\nAuf ihren Schultern, noch immer ein junges Mädchen\nSie trägt eine Last des Schmerzes, sieht es als ein Fehler\nWieder nicht, wie sie sein sollte, oder zu zart\nKleider auf ihren Knochen, nackt oder den Gang hinuntergehen\nWo ist dein Kind? Was ist dein Leben?\nAber die Jahre verfliegen! Du solltest dir bewusst sein: Das Ende nähert sich\nUnd möge jemand, dass wir zerbrechen\nMöge Energie in dir sein\nNicht bis zum Ellbogen, sondern bis zu den Fingern\nUnd möge jemand den Hals verbergen\nUnd Neid hinter seinem Lächeln verstecken\nWenn du Wut in dein Herz lässt\nStatt Gütigkeit und Liebe\nAber dort sind Heilige am Himmel\nIhre Füße haben die Erde erblickt, weißt du\nDarum bist du dornig\nDer Pfad ist nicht umsonst\nUnd selbst wenn es sehr unheimlich und dunkel sein mag\nUnd manchmal nicht einfach ist\nAber du wirst immer deine Vorfahren haben\nDie dir vom Himmel aus folgen\n\nMutter Teresa und Diva Maria sind mit uns\nBarfuß, wie auf einer Klinge, schritten sie über den Boden\nMit uns Mama Teresa, Diva Maria\nAlle Divas waren als Menschen geboren\n\nMutter Teresa und Diva Maria sind mit uns\nBarfuß, wie auf einer Klinge, schritten sie über den Boden\nMit uns Mama Teresa, Diva Maria\nAlle Divas waren аls Menѕchen geboren"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Teresa & Maria",
+      "content": "Um ri-ri-riacho\nSegue o seu percurso\nNada o pode parar\nO mundo está nos seus ombros\n\nPer-per-percalços\nChuva, rochas\nMas lembra-te: na tua mão está\nA tua própria felicidade\n\nAnda lá, pequenina, brilha\nNão sou sagrada, estou viva\n\nA Madre Teresa e a Santa Maria estão connosco\nDescalças, como se sobre uma lámina, caminham no chão\nConnosco Madre Teresa e Santa Maria\nTodas as santas nasceram humanas\n\nA Madre Teresa e a Santa Maria estão connosco\nDescalças, como se sobre uma lámina, caminham no chão\nConnosco Madre Teresa e Santa Maria\nTodas as santas nasceram humanas\n\nMesmo desde pequenas, procuramos uma maneira\nMas a vida é um ciclo, e como se daqueles que caíram se tratasse\nUma menina sobre os ombros\nAinda carrega a dor e vê que falha algo\nOutra vez não, és demasiado fraca\nA roupa pousada sobre os teus ossos, nua ou vais-te casar\nOnde está o teu filho? O que é a tua vida?\nMas os anos passam a correr! E então tudo acaba\nE deixa que desejem que desistamos\nÀs vezes a tua energia é limitada\nNão te dá pelo cotovelo, mas sim pelo dedo\nE deixa-os esconder-se detrás de um sorriso\nÓdio e inveja\nQuando deixas que a raiva entre no teu coração\nEm vez da bondade e do amor\nMas existem santos no céu\nOs pés deles viram esta terra, sabes\nPor isso o teu caminho de espinhos\nNão é em vão\nÉ escuro e assustador\nÀs vezes não é fácil\nMas eles vão estar sempre lá ao teu lado\nOs teus antepassados seguem-te sempre do céu\n\nA Madre Teresa e a Santa Maria estão connosco\nDescalças, como se sobre uma lámina, caminham no chão\nConnosco Madre Teresa e Santa Maria\nTodas as santas nasceram humanas\n\nA Madre Teresa e a Santa Maria estão connosco\nDescalças, como se sobre uma lámina, caminham no chão\nConnosco Madre Teresa e Santa Maria\nTodas as santas nasceram humanаѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Teresa y María",
+      "content": "Una co-co-corriente\nHaciendo su camino\nNo importa, no importa qué\nEl mundo está sobre sus hombros\n\nDes-des-desvíos\nLluviosos, rocosos\nPero debes saber esto: está en tu mano\nTu propia felicidad\n\nVamos niña, ánimo\nNo soy santa, estoy viva\n\nLa Madre Teresa y la Virgen María están con nosotros\nDescalzas, como sobre una espada, caminaban por el suelo\nCon nosotros la Madre Teresa, Diva María\nTodas las Divas nacieron como seres humanos\n\nLa Madre Teresa y la Virgen María están con nosotros\nDescalzas, como sobre una espada, caminaban por el suelo\nCon nosotros la Madre Teresa, Diva María\nTodas las Divas nacieron como seres humanos\n\nYa desde pequeños buscábamos una manera\nPero la vida es un bucle, igual para los que caen\nUna niña todavía lleva sobre sus hombros\nDolorosamente, un balde y ella sabe que es un defecto\nNo tienes razón otra vez, eres demasiado suave\nRopa colgada sobre tus huesos, desnuda o yendo a casarte\n¿Donde esta tu hijo? ¿Qué es tu vida?\n¡Pero los años pasan volando! Y luego: pronto todo terminará\nDéjalos que deseen que nos rompamos\nA veces solo tienes cierta energía\nNo hasta el codo, sino hasta el dedo\nY déjalos esconderse detrás de una sonrisa\nOdio y envidia\nCuando dejas que la ira entre en tu corazón\nEn lugar de bondad y amor\nPero hay santos en el cielo\nSus pies han visto esta tierra, ¿sabes?\nTu camino espinoso\nPor eso no es en vano\nAunque sea muy aterrador y oscuro\nY a veces no es fácil\nPero siempre estarán contigo\nAncestros que te siguen desde el cielo\n\nLa Madre Teresa y la Virgen María están con nosotros\nDescalzas, como sobre una espada, caminaban por el suelo\nCon nosotros la Madre Teresa, Diva María\nTodas las Divas nacieron como seres humanos\n\nLa Madre Teresa y la Virgen María están con nosotros\nDescalzas, como sobre una espada, caminaban por el suelo\nCon nosotros la Madre Teresa, Diva María\nTodas las Divas nacieron como seres humаnoѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "hungarian"
+      ],
+      "displayedLanguages": null,
+      "title": "Teréz és Mária",
+      "content": "Egy fo-fo-folyó\nSaját útján folyik\nNem számít-nem számít semmi\nA világot cipeli a vállain\n\nKerü-kerü-kerülők\nKanyargósak, sziklásak\nDe tudd ezt: a te kezedben van\nA saját boldogságod\n\nGyerünk, kis lány, világítsd meg\nNem vagyok szent, élek\n\nTeréz Anya és Szűz Mária velünk vannak\nMezitláb, mintha egy pengén sétáltak volna a földön\nVelünk van Teréz Anya, Díva Mária\nMinden Díva emberként született\n\nTeréz Anya és Szűz Mária velünk vannak\nMezitláb, mintha egy pengén sétáltak volna a földön\nVelünk van Teréz Anya, Díva Mária\nMinden Díva emberként született\n\nMár fiatal kortól kezdve, egy utat keresünk\nDe az élet egy körforgás, legalábbis azoknak akik elesnek\nEgy kislány még mindig a vállain cipel\nFájdalmasan, egy vödröt és tudja hogy ez egy hiba\nMegint nincs igazad, túl gyenge vagy\nRuhák lógnak a csontjaidon, mesztelen leszel vagy házasodsz\nHol a gyereked? Milyen az életed?\nDe az évek továbbszállnak! És utána: hamarosan vége lesz\nÉd hadd akarják hogy összetörjünk\nNéha csak annyi energiád van\nNem könyékig, hanem ujjakig\nÉs hadd bújjanak egy mosoly mögé\nGyűlölét és irigység\nAmikor beengeded a haragot a szívedbe\nA kedvesség és szeretet helyett\nDe vannak szentek a mennyben\nAz ő lábuk is megjárta ezt a földet, te is tudod\nA tüskés utadat\nEzért ez nem hiábavaló\nÉs hadd legyen rémisztő és sötét\nÉs néha ez nem egyszerű\nDe ők mindig veled lesznek\nŐsök akik követnek az égből\n\nTeréz Anya és Szűz Mária velünk vannak\nMezitláb, mintha egy pengén sétáltak volna\nVelünk van Teréz Anya, Díva Mária\nMinden Díva emberként született\n\nTeréz Anya és Szűz Mária velünk vannak\nMezitláb, mintha egy pengén sétáltak volna\nVelünk van Teréz Anya, Díva Mária\nMinden Dívа emberként ѕzületett"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "chinese"
+      ],
+      "displayedLanguages": null,
+      "title": "德蕾莎與瑪莉亞",
+      "content": "泉—泉—泉源\n鑿出了自己的道路\n無論　無論如何\n世界背負在她肩上\n\n小—小—小徑\n既蜿蜒又多石\n但要知道：在你的手中\n掌握著你自己的幸福\n\n來吧　親愛的　燃燒吧\n我並不聖潔　我是活著的凡人\n\n德蕾莎母親和聖母瑪莉亞與我們同在\n雙腳赤裸　猶如在刀刃上　她們走過大地\n伴隨我們　德蕾莎母親　聖母瑪莉亞\n世上天后皆生而為人\n\n德蕾莎母親和聖母瑪莉亞與我們同在\n雙腳赤裸　猶如在刀刃上　她們走過大地\n伴隨我們　德蕾莎母親　聖母瑪莉亞\n世上天后皆生而為人\n\n就算我們還小　我們就在尋找一條道路\n但生命是個繩套　就像為絆倒的人們而存在\n肩上扛著一個年輕女孩\n她擔著痛苦的包袱　將它看作缺陷\n又不像她的樣子　又或者她太溫柔\n衣不蔽體　赤身裸體　然後行過走道\n妳的孩子在哪？　妳的生活過得如何？\n但歲月飛逝啊！　妳該知道：一切就將終結\n而願有人希望我們破碎\n願力量充滿妳的軀體\n不只延及雙肘　而是深入十指\n也願有人在微笑後頭\n藏著憎恨與嫉妒\n在妳讓憤怒進入心房\n而非愛的仁慈之時\n但天上存在著聖人\n他們的雙腿曾遍及大地　你知道的\n妳那布滿荊棘的道路\n就是如此　絕非徒然\n或許它令人畏懼　黑暗無邊\n有時也寸步難行\n但你總是有陪伴著你的\n在天上追隨你的先人\n\n德蕾莎母親和聖母瑪莉亞與我們同在\n雙腳赤裸　猶如在刀刃上　她們走過大地\n伴隨我們　德蕾莎母親　聖母瑪莉亞\n世上天后皆生而為人\n\n德蕾莎母親和聖母瑪莉亞與我們同在\n雙腳赤裸　猶如在刀刃上　她們走過大地\n伴隨我們　德蕾莎母親　聖母瑪莉亞\n世上天后皆生而為人"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "polish"
+      ],
+      "displayedLanguages": null,
+      "title": "Teresa & Maria",
+      "content": "Źródło-źródło-źródełko\nPrzebija sobie szlak\nCo by co by nie było\nŚwiat na jej ramionach\n\nMano-mano-manowce\nKręte i skaliste\nAle wiedz: w twojej ręce\nTwoje własne szczęście\n\nDawaj, mała, pałaj\nNie jestem święta, jestem żywa\n\nZ nami Mama Teresa i Panna Maryja\nBose, niby po ostrzu, szły po ziemi\nZ nami Mama Teresa i Panna Maryja\nWszystkie Panny urodziły się jako ludzie\n\nZ nami Mama Teresa i Panna Maryja\nBose, niby po ostrzu, szły po ziemi\nZ nami Mama Teresa i Panna Maryja\nWszystkie Panny urodziły się jako ludzie\n\nNawet za młodu, szukałyśmy drogi\nAle życie jest pętlą, jakby dla tych, które padają\nNa swoich ramionach jeszcze małe dziewczę\nNiesie z bólu dzban i widzi, jest to wada\nZnów nie taka, zanadto miękka\nUbrania na kościach, naga czy to w wianku\nGdzie twoje dziecko? Czym twoje życie?\nAle lata lecą! I pamiętaj: niedługo już koniec\nI niech chcą abyśmy się złamały\nNiech będzie w tobie energia\nNie po łokieć, a po palec\nI niech chowają za uśmieszkiem\nNienawiść i zazdrość\nKiedy ty wpuszczasz w serce gniew\nZamiast dobra miłości\nAle w niebie są święci\nIch nogi widziały tą ziemię, wiesz\nTwoja cierniowa droga\nDlatego nie jest daremna\nI niech będzie strasznie i ciemno\nI czasem nie lekko\nLecz z tobą zawsze będą\nZ nieba podążać przodkowie\n\nZ nami Mama Teresa i Panna Maryja\nBose, niby po ostrzu, szły po ziemi\nZ nami Mama Teresa i Panna Maryja\nWszystkie Panny urodziły się jako ludzie\n\nZ nami Mama Teresa i Panna Maryja\nBose, niby po ostrzu, szły po ziemi\nZ nami Mama Teresa i Panna Maryja\nWszystkie Panny urodziły ѕię jаko ludzie"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "latvian"
+      ],
+      "displayedLanguages": null,
+      "title": "Terēze & Marija",
+      "content": "Pava-pava-pavasaris\nGriež savu ceļu\nLai vai kas\nPasaule ir uz viņas pleciem\n\nCe-ce-ceļš\nIr līkumains un akmeņains\nBet jums vajadzētu zināt: jūsu pašu laime\nIr tavās rokās\n\nNāc, meitiņ, iededzies\nEs neesmu svēta, es esmu dzīva\n\nMāte Terēze un Dievmāte Marija ir ar mums\nBasām kājām, it kā uz asmens, viņas gāja pa zemi\nAr mums Māte Terēze, Dievmāte Marija\nVisas Dievmātes ir dzimušas kā cilvēki\n\nMāte Terēze un Dievmāte Marija ir ar mums\nBasām kājām, it kā uz asmens, viņas gāja pa zemi\nAr mums Māte Terēze, Dievmāte Marija\nVisas Dievmnātes ir dzimušas kā cilvēki\n\nPat tad, kad bijām mazi, mēs meklējām ceļu\nUn dzīve ir cilpa, it kā tiem, kas krīt\nUz pleciem vēl jauna meitene\nViņa nes sāpju nastu, redzot to kā trūkumu\nAtkal ne tāda, kādai viņai vajadzētu būt, vai pārāk maiga\nDrēbes uz viņas kauliem, kaila vai iet pa eju\nKur ir tavs bērns? Kāda ir tava dzīve?\nBet gadi skrien vēja spārniem! Jums jāapzinās: beigas ir tuvu\nUn lai kāds vēlas, lai mēs salūztam\nLai tevī ir enerģija\nNevis līdz elkonim, bet līdz pirkstam\nUn lai kāds slēpj naidu\nUn aiz smaida skaudība\nKad ielaid dusmas savā sirdī\nLabestības un mīlestības vietā\nBet debesīs ir svētie\nViņu kājas ir redzējušas šo zemi, jūs zināt\nTāpēc tu esi ērkšķaina\nCeļš nav veltīgs\nUn, lai gan tas var būt ļoti biedējoši un tumši\nUn dažreiz tas nav viegli\nBet tev vienmēr būs tavi senči\nKas sekos tev no debesīm\n\nMāte Terēze un Dievmāte Marija ir ar mums\nBasām kājām, it kā uz asmens, viņas gāja pa zemi\nPie mums Māte Terēze, Dievmāte Marija\nVisas Dievmātes ir dzimušas kā cilvēki\n\nMāte Terēze un Dievmāte Marija ir ar mums\nBasām kājām, it kā uz asmens, viņi gāja pa zemi\nPie mums mamma Terēze, Dievmāte Marija\nVisas Dievmātes ir dzimušаѕ kā cilvēki"
+    }
+  ],
+  "bpm": 114,
+  "tone": "G minor",
+  "artistPeople": [
+    "Alyona Savranenko",
+    "Yana Shemaeva"
+  ],
+  "backings": [
+    "Oleksandra Makarovska",
+    "Viktoriia Hunchenko"
+  ],
+  "dancers": null,
+  "stageDirector": "Tanu Muino",
+  "composers": [
+    "Alyona Savranenko",
+    "Ivan Klymenko",
+    "Yana Shemaeva"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Alyona Savranenko",
+    "Anton Chilibi",
+    "Ivan Klymenko",
+    "Yana Shemaeva"
+  ],
+  "writers": null,
+  "broadcaster": "UA:PBC",
+  "commentators": [
+    "Timur Miroshnychenko"
+  ],
+  "jury": [
+    "Alyosha",
+    "Iryna Gorova",
+    "Kostiantyn Tomilchenko",
+    "Maksym Nahorniak",
+    "Olena Kolyadenko"
+  ],
+  "spokesperson": "Jamala"
+}

@@ -1,0 +1,67 @@
+{
+  "id": 34,
+  "country": "PT",
+  "artist": "Conan Osíris",
+  "song": "Telemóveis",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/SIGn9_yMLn4",
+    "https://www.youtube-nocookie.com/embed/DWoA-7kF5R4",
+    "https://www.youtube-nocookie.com/embed/xSbp8lwCQp8",
+    "https://www.youtube-nocookie.com/embed/5IrNfYeWZWI",
+    "https://www.youtube-nocookie.com/embed/RRbrL_eXGZg",
+    "https://www.youtube-nocookie.com/embed/Q1tkstZdEjU",
+    "https://www.youtube-nocookie.com/embed/K0Oj8N03rZg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Telemóveis",
+      "content": "Eu parti o telemóvel\nA tentar ligar para o céu\nPa' saber se eu mato a saudade\nOu quem morre sou eu\n\nE quem mata quem\nQuem mata quem mata\nQuem mata quem\nNem eu sei\n\nQuando eu souber\nEu não ligo a mais ninguém\n\nE se a vida ligar\nSe a vida mandar mensagem\nSe ela não parar\nE tu não tiveres coragem de atender\nTu já sabes o que é que vai acontecer\n\nEu vou descer a minha escada\nVou estragar o telemóvel\nO telele\nEu vou partir o telemóvel\nO teu e o meu\nE eu vou estragar o telemóvel\nEu quero viver e escangalhar o telemóvel\n\nE se eu partir o telemóvel\nEu só parto aquilo que é meu\nTou para ver se a saudade morre\nVai na volta, quem morre sou eu\n\nE quem mata quem mata\nEu nem sei\nA chibaria nunca viu nascer ninguém\n\nEu partia telemóveis\nMas eu nunca mais parto o meu\nEu sei que a ѕaudade tá morta\nQuem mandou a flecha fui eu\n\nQuem mandou a flechа fui eu\nFui eu"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Cellphones",
+      "content": "I broke my cellphone\nTrying to call heaven\nTo know if I would kill this longing\nOr if I would die instead\n\nAnd who kills whom?\nWho kills who kills?\nWho kills whom?\nEven I don't know\n\nWhen I do know\nI won't call anyone else\n\nAnd if life calls\nIf life sends a text\nIf it doesn't stop\nIf you don't have the guts to pick up\nYou already know what will happen\n\nI will go down my stairs\nI will ruin the cellphone\nThe celly\nI will break the cellphone\nYours and mine\nAnd I will ruin the cellphone\nI want to live and break the cellphone to pieces\n\nAnd what if I break the cellphone?\nI only break what's mine\nI'm waiting to see if this longing dies\nMaybe, it'll turn out that I'll die instead\n\nWho kills who kills?\nI don't even know\nSnitches don't see anyone being born\n\nI used to break cellphones\nBut I'll never break mine again\nI know this longing is dead\nThe one who sent the arrow was me\n\nThe one who sent the arrow was me\nIt wаѕ me"
+    }
+  ],
+  "bpm": 123,
+  "tone": "F minor",
+  "artistPeople": [
+    "Tiago Miranda"
+  ],
+  "backings": [
+    "Patrícia Antunes",
+    "Patrícia Silveira"
+  ],
+  "dancers": [
+    "João Reis"
+  ],
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Conan Osíris"
+  ],
+  "broadcaster": "RTP",
+  "commentators": [
+    "José Carlos Malato",
+    "Nuno Galopim"
+  ],
+  "jury": [
+    "Ana Cláudia",
+    "Ana Paulo",
+    "Matay",
+    "Paulo Castelo",
+    "Renato Júnior"
+  ],
+  "spokesperson": "Inês Lopes Gonçalves"
+}

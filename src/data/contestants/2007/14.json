@@ -1,0 +1,76 @@
+{
+  "id": 14,
+  "country": "SI",
+  "artist": "Alenka Gotar",
+  "song": "Cvet Z Juga",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/KKrOMagZnMI",
+    "https://www.youtube-nocookie.com/embed/R-Xp6kUnITU",
+    "https://www.youtube-nocookie.com/embed/PLjQyE-jlsw",
+    "https://www.youtube-nocookie.com/embed/MfbTxYRN5mc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "slovene"
+      ],
+      "displayedLanguages": null,
+      "title": "Cvet Z Juga",
+      "content": "Vzemi, vzemi cvet v roko\nNe sprašuj kako bom brez tebe\nDaj ga na prsi svoje\nNaj spomin ti bo na mene\n\nMoj beli cvet\nMoj daljni svet\nDaj, vrni se, moj bodi spet\nZa vedno vse moje v življenju tvoje je\nCvet z juga, blizu morja še\nJaz čakam te\nŠe čakam te\n\n(Moj beli cvet)\n\nLjubim nekaj, česar več ni\nLe privid si mi iz daljnih dni\n\nMoj beli cvet (Moj beli cvet, moj beli cvet)\nMoj daljni svet (Moj beli cvet, moj beli cvet)\nDaj, vrni se, moj bodi spet\nZa vedno vse moje v življenju tvoje je\nCvet z juga, blizu morja še\nJaz čakam te\n\n(Moj beli cvet)\n(Moj daljni svet)\n(Daj, vrni se, moj bodi spet)\nZa vedno vѕe moje v življenju tvoje je\nCvet z juga, blizu morja še\nJaz čakam te\nŠe čakаm te"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Flower of the south",
+      "content": "Take, take this flower in your hand\nDon't ask how I'll manage without you\nPut it on your heart\nLet it remind you of me\n\nMy white flower\nMy faraway world\nCome, return, be mine again\nEverything of me is forever yours in this lifetime\nFlower of the south, still close to the sea\nI'm waiting for you\nI'm still waiting for you\n\n(My white flower)\n\nI love something that is not there anymore\nYou're just my vision from times past\n\nMy white flower (My white flower, my white flower)\nMy faraway world (My white flower, my white flower)\nCome, return, be mine again\nEverything of me is forever yours in this lifetime\nFlower of the south, still close to the sea\nI'm waiting for you\n\n(My white flower)\n(My faraway world)\n(Come, return, be mine again)\nEverything of me is forever yours in this lifetime\nFlower of the south, still close to the sea\nI'm waiting for you\nI'm ѕtill wаiting for you"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Flor del Sur",
+      "content": "Toma, toma la flor en tu mano\nNo me preguntes cómo estaré sin ti\nPonlo en tu pecho\nQue sea tu recuerdo de mí\n\nMi flor blanca\nMi mundo lejano\nVen, vuelve, sé mía de nuevo\nPara siempre todo lo mío en la vida es tuyo\nUna flor del sur, cerca del mar\nYo te estoy esperando\nTe estoy esperando\n\n(Mi flor blanca)\n\nAmo algo que ya no existe\nSólo eres una ilusión de días lejanos\n\nMi flor blanca, mi flor blanca\nMi mundo lejano (Mi flor blanca, mi flor blanca)\nVen, vuelve, sé mía de nuevo\nPara siempre todo lo mío en la vida es tuyo\nUna flor del sur, cerca del mar\nYo te estoy esperando\n\n(Mi flor blanca)\n(Mi mundo lejano)\n(Ven, vuelve, sé mío de nuevo)\nSiempre todo lo mío en tu vida es tuyo\nUna flor del sur, cerca del mar\nYo te estoy esperando\nTe estoy eѕperаndo"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Flower of the South",
+      "content": "Take this flower, take it now\nPlease don't ask me how will I live\nPut it, put it close to your heart\nAnd when we're apart, I'l still feel\n\nWhite flower of mine, cold world of yours\nHow long apart, how long, who knows?\nBring him back to me, too long he's captured in my dream\nMy precious flower of the south, I'm by the sea, waiting for him\n\n(White flower of mine)\n\nPut it, put it close to your heart\nAnd when we're apart, I'll still feel\n\nWhite flower of mine (How long apart)\nCold world of yours (How long apart)\nHow long apart, how long, who knows?\nBring him back to me, too long he's captured in my dream\nMy precious flower of the south, I'm by the sea\n\n(White flower of mine, cold world of yours)\n(How long apart, how long, who knows?)\nBring him back to me, too long he's captured in my dream\nMy precious flower of the south, I'm by the ѕea, wаiting for him"
+    }
+  ],
+  "bpm": 125,
+  "tone": "C minor",
+  "artistPeople": [
+    "Alenka Gotar"
+  ],
+  "backings": [
+    "Amira Hidić",
+    "Andrej Babić",
+    "Martina Majerle",
+    "Polona Furlan",
+    "Rudi Bučar"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Andrej Babić"
+  ],
+  "broadcaster": "RTVSLO",
+  "commentators": [
+    "Mojca Mavec"
+  ],
+  "jury": null,
+  "spokesperson": "Peter Poles"
+}

@@ -1,0 +1,71 @@
+{
+  "id": 41,
+  "country": "CY",
+  "artist": "Christos Mylordos",
+  "song": "San Aggelos S'agapisa",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/1t0czUf9nJU",
+    "https://www.youtube-nocookie.com/embed/fmGLd3zqW9Q"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ellinika"
+      ],
+      "title": "San Aggelos S’agapisa",
+      "content": "Tis monaxyas mu tis stoes monahos perpatao\nO dhromos ine makrinos ki opu me pas tha pao\nMe stavroses, me matoses ki as pethena ya sena\nTo dhakri mu erree san ema, loya xehasmena\n\nPisteva pos i angeli zune sta onira mas\nPsemata omos pisteva vriskonde anamesa mas\nMya poli erimi kardhya san efiyes makrya mu\nYirna xana se kartero, asteri ke hara mu\n\nSton gipo tis agapis mas, piga ya na se psaxo\nSto plithos omos hathikes, dhen boresa na klapso\nTo stavrodhromi tis psihis ki o mistikos mas dhipnos\nHathikane sto dhyava su, eklise pya o kiklos\n\nSan angelos s'agapisa, yirna stin angalya mu\nPes mu ke pali m'agapas, litrose tin gardhya mu\nSan angelos s'agapisa, yirna stin angalya mu\nEla xana ki odhiyise sto fos tin erimya mu\n\nSan angelos s'agapisa\nSan angelos s'agapiѕа"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ελληνικά"
+      ],
+      "title": "Σαν άγγελος σ'αγάπησα",
+      "content": "Της μοναξιάς μου τις στοές μονάχος περπατάω\nΟ δρόμος είναι μακρινός κι όπου με πας θα πάω\nΜε σταύρωσες, με μάτωσες κι ας πέθαινα για σένα\nΤο δάκρυ μου έρρεε σαν αίμα, λόγια ξεχασμένα\n\nΠίστευα πως οι άγγελοι ζούνε στα όνειρά μας\nΨέματα όμως πίστευα βρίσκονται ανάμεσά μας\nΜια πολύ έρημη καρδιά σαν έφυγες μακριά μου\nΓυρνά ξανά σε καρτερώ, αστέρι και χαρά μου\n\nΣτον κήπο της αγάπης μας, πήγα για να σε ψάξω\nΣτο πλήθος όμος χάθηκες, δεν μπόρεσα να κλάψω\nΤο σταυροδρόμι της ψυχής κι ο μυστικός μας δείπνος\nΧάθηκανε στο διάβα σου, έκλεσε πιά ο κύκλος\n\nΣαν άγγελος σ'αγάπησα, γύρνα στην αγκαλιά μου\nΠες μου και πάλι μ'αγαπάς, λύτρωσε την καρδιά μου\nΣαν άγγελος σ'αγάπησα, γύρνα στην αγκαλιά μου\nΈλα ξανά κι οδήγησε στο φως την ερημιά μου\n\nΣαν άγγελος σ'αγάπησα\nΣαν άγγελος σ'αγάπησα"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I loved you like an angel",
+      "content": "I walk alone at my lonely galleries\nThe road is long and wherever you guide me, I will go\nYou crucified me, you made me bleed even when I was dying for you\nMy tears flowed like blood, forgotten words\n\nI used to believe that angels live in our dreams\nBut I used to believe in lies, they live among us\nA desolate heart when you went away from me\nCome back, I'm waiting for you, my star and my happiness\n\nIn the garden of our love I tried to find you\nBut you hid in the crowd and I could not cry\nThe crossroads of the soul, and our secret supper\nLost on our path, the circle has been closed now\n\nI loved you like an angel, come back to my embrace\nTell me one more time that you love me, redeem my heart\nI loved you like an angel, come back to my embrace\nCome again and guide my wildernesѕ to the light\n\nI loved you like an angel\nI loved you like an аngel"
+    }
+  ],
+  "bpm": 162,
+  "tone": "E minor",
+  "artistPeople": [
+    "Christos Mylordos"
+  ],
+  "backings": [
+    "Aggelos Agathangelou",
+    "Antoniou Antonis",
+    "Chrissie Andreou",
+    "Christos Nicolao",
+    "Pavlos Polichrinis"
+  ],
+  "dancers": null,
+  "stageDirector": "Fotis Nikolaou",
+  "composers": [
+    "Andreas Anastasiou"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Michalis Antoniou"
+  ],
+  "writers": null,
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Melina Karageorgiou"
+  ],
+  "jury": null,
+  "spokesperson": "Loukas Hamatsos"
+}

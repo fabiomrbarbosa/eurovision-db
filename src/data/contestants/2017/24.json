@@ -1,0 +1,66 @@
+{
+  "id": 24,
+  "country": "DE",
+  "artist": "Levina",
+  "song": "Perfect Life",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/t1KKjykH6fw",
+    "https://www.youtube-nocookie.com/embed/y7pUKkSrXFY",
+    "https://www.youtube-nocookie.com/embed/t4qUwRS6HRM",
+    "https://www.youtube-nocookie.com/embed/dpESkcTVdkk",
+    "https://www.youtube-nocookie.com/embed/hGKlfc-_6ys",
+    "https://www.youtube-nocookie.com/embed/WP6lTjrPWj0",
+    "https://www.youtube-nocookie.com/embed/UFbtw66W_-o"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Perfect Life",
+      "content": "I come alive \nInside the light of the unexpected \nMaybe I thrive \nOutside the comfort zone \nWhat is a prize without a fight \nYeah I got addicted \nTo what I thought I wanted \nAnd all along\n\nI've been walking asleep \nDreaming awake \nFinding I bend but I don't break \nAlmost a sinner \nNearly a saint \nFinding with every breath I take \nI'm not afraid \nOf making mistakes \nSometimes it's wrong before it's right \nThat's what you call a perfect life\n\nGathering thorns from the stems of a thousand roses \nWeathering storms on the long way home \nI look for the sweet in every bitter moment tasted \nIn every last mistake I see the other side\n\nI've been walking asleep \nDreaming awake \nFinding I bend but I don't break \nAlmost a sinner \nNearly a saint \nFinding with every breath I take \nI'm not afraid \nOf making mistakes \nSometimes it's wrong before it's right \nThat's what you call a perfect life\n\nDon't need a resolution \nTo know I'll be alright \nI'll be alright\n\nI've been walking asleep \nDreaming awake \nFinding I bend but I don't break \nAlmost a sinner \nNearly a saint \nFinding with every breath I take \nI'm not afraid \nOf making mistakes \nSometimes it's wrong before it's right \nThat's what you call a perfect \nThat's what you call a perfect life\n\nI come аlive \nInѕide the light of the unexpected"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Vollkommenes Leben",
+      "content": "Ich werde lebendig\nIm Lichte des Unerwarteten\nVielleicht, bin ich erfolgreich\nAußerhalb der Komfortzone\nWas ist schon ein Preis ohne einen Kampf\nJa, ich wurde süchtig\nNach dem, von dem ich dachte, das ich es wollte\nSchon immer\n\nIch bin schlafgewandelt\nHabe mit offenen Augen geträumt\nFinde, dass ich mich beuge, aber nicht breche\nIch bin fast ein Sünder\nBeinahe ein Heiliger\nIch finde mit jedem Atemzug, den ich nehme\nDass ich keine Angst habe\nFehler zu machen\nManchmal ist es falsch bevor es richtig ist\nDas nennt man ein vollkommenes Leben\n\nIch sammle Dornen von den Stängeln tausender Rosen\nÜberstehe Stürme auf dem langen Weg nach Hause\nIch suche nach dem Süßen in jedem bitteren Augenblick, den ich geschmeckt habe\nIn jedem letzten Fehler sehe ich die andere Seite\n\nIch bin schlafgewandelt\nHabe mit offenen Augen geträumt\nFinde, dass ich mich beuge, aber nicht breche\nIch bin fast ein Sünder\nBeinahe ein Heiliger\nIch finde mit jedem Atemzug, den ich nehme\nDass ich keine Angst habe\nFehler zu machen\nManchmal ist es falsch bevor es richtig ist\nDas nennt man ein vollkommenes Leben\n\n<span class=\"lyrics_question_mark\" title=\"Edit lyrics\"><i class=\"fa fa-question-circle-o\"></i></span>\n<span class=\"lyrics_question_mark\" title=\"Edit lyrics\"><i class=\"fa fa-question-circle-o\"></i></span>\n<span class=\"lyrics_question_mark\" title=\"Edit lyrics\"><i class=\"fa fa-question-circle-o\"></i></span>\n\nIch bin schlafgewandelt\nHabe mit offenen Augen geträumt\nFinde, dass ich mich beuge, aber nicht breche\nIch bin fast ein Sünder\nBeinahe ein Heiliger\nIch finde mit jedem Atemzug, den ich nehme\nDass ich keine Angst habe\nFehler zu machen\nManchmal ist es falsch bevor es richtig ist\nDas nennt man ein vollkommenes\nDas nennt man ein vollkommenes Leben\n\nIch werde lebendig\nIm Lichte deѕ Unerwаrteten"
+    }
+  ],
+  "bpm": 124,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Isabella Levina Lueen"
+  ],
+  "backings": [
+    "Esther Cowens",
+    "Louise Mills"
+  ],
+  "dancers": null,
+  "stageDirector": "Marvin Dietmann",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Dave Bassett",
+    "Lindsey Ray",
+    "Lindy Robbins"
+  ],
+  "broadcaster": "NDR",
+  "commentators": [
+    "Peter Urban"
+  ],
+  "jury": [
+    "Adel Tawil",
+    "Andreas Herbig",
+    "Joy Denalane",
+    "Nicole",
+    "Wincent Weiss"
+  ],
+  "spokesperson": "Barbara Schöneberger"
+}

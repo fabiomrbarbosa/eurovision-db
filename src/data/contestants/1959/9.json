@@ -1,0 +1,50 @@
+{
+  "id": 9,
+  "country": "AT",
+  "artist": "Ferry Graf",
+  "song": "Der K. und K. Kalypso aus Wien",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vYwxry6G-jQ",
+    "https://www.youtube-nocookie.com/embed/GN0yfFm-WuQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Der K. und K. Kalypso aus Wien",
+      "content": "Kalypso aus Caracas?\nKalypso aus Rio? O nein!\nKalypso aus Mexiko?\nAus Wien muß er sein!\n\nDas ist der K. und K. Kalypso aus Wien\nDer Kalypso aus Wien\nDa spürt man hie und da auch Straußmelodien\nDoch etwas Paprika liegt ebenfalls drin\nIm K. und K. Kalypso aus Wien\nIm Kalypso aus Wien\n\nDer kommt nicht aus Ecuador\nDer ist nicht aus Spanien, o nein!\nDer kommt mir nur spanisch vor\nWoher kann der sein?\n\nDas ist der K. und K. Kalypso aus Wien\nDer Kalypso aus Wien\nDen tanzen viele wie die Polka aus Brünn\nUnd mancher jodelt noch im Schlaf vor sich hin:\nDen K. und K.\nD-lo-hi-ti... d-lo-hi-ti... o-lo-hi-ti... o-lo-hi-ti...\nDen K. und K. Kalypso aus Wien\nDen Kalypso aus Wien\n\nDas ist der K. und K. Kalypso aus Wien\nDer Kalypso aus Wien\nDen tanzen viele wie die Polka aus Brünn\nUnd mancher jodelt noch im Schlaf vor sich hin:\nDen K. und K.\nD-lo-hi-ti... o-lo-hi-ti... o-lo-hi-ti... o-lo-hi-ti...\nDen K. und K. Kalypso aus Wien\nDen Kalypso аuѕ Wien"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The K. and K. calypso from Vienna",
+      "content": "Calypso from Caracas?\nCalypso from Rio de Janeiro? Oh no!\nCalypso from Mexico?\nIt must be from Vienna!\n\nThat is the K. and K. calypso from Vienna\nThe calypso from Vienna\nNow and then, you can also hear melodies of Strauss\nBut a bit of red pepper is also included\nIn the K. and K. calypso from Vienna\nIn the calypso from Vienna\n\nIt doesn't come from Ecuador\nIt isn't from Spain, oh no!\nIt seems to be just Spanish to me\nWhere can it be from?\n\nThat is the K. and K. calypso from Vienna\nThe calypso from Vienna\nMany people dance it like the polka from Brno\nAnd some yodel when they sleep without a sense\nThe K. and K.\nD-lo-hi-ti,... o-lo-hi-ti... o-lo-hi-ti... o-lo-hi-ti...\nThe K. and K. calypso from Vienna\nThe calypso from Vienna\n\nThat is the K. and K. calypso from Vienna\nThe calypso from Vienna\nMany people dance it like the polka from Brno\nAnd some yodel when they sleep without a sense\nThe K. and K.\nD-lo-hi-ti,... o-lo-hi-ti... o-lo-hi-ti... o-lo-hi-ti...\nThe K. and K. calypso from Vienna\nThe calypѕo from Viennа"
+    }
+  ],
+  "bpm": 154,
+  "tone": "G minor",
+  "artistPeople": [
+    "Ferry Graf"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Norbert Pawlicki"
+  ],
+  "conductor": "Franck Pourcel",
+  "lyricists": [
+    "Günther Leopold"
+  ],
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Karl Bruck"
+}

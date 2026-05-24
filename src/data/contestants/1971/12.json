@@ -1,0 +1,55 @@
+{
+  "id": 12,
+  "country": "LU",
+  "artist": "Monique Melsen",
+  "song": "Pomme, pomme, pomme",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/N2tcS2b8_tc",
+    "https://www.youtube-nocookie.com/embed/GQ9zI0_s25I",
+    "https://www.youtube-nocookie.com/embed/hIAwRBQdarg",
+    "https://www.youtube-nocookie.com/embed/g7Z_3ueHzxM",
+    "https://www.youtube-nocookie.com/embed/HSwyoSvLr4Y"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Pomme, pomme, pomme",
+      "content": "Pomme, pomme, pomme d'Api, tapis, tapis rouge\nPomme, pomme, pomme d'Api, moi, je vais croquer la\nPomme, pomme, pomme, et puis\nQuand j'aurai fini, je recommencerai\n\nPomme, pomme, pomme d'Api, tapis, tapis vert\nPomme, pomme, pomme d'Api, il paraît que dans la\nPomme, pomme, pomme, il y a des tas de pépins\nTant pis, je verrai bien\n\nOh, c'est le printemps, c'est le printemps\nEt je n'ai pas encore vingt ans\n\nPomme, pomme, pomme d'Api, tapis, tapis bleu\nBleu, bleu comme le ciel avant de croquer la\nPomme, pomme, pomme d'Api\nJe voudrais savoir ce qu'il y a dedans\n\nEst-ce que c'est l'amour? Le Prince Charmant\nAu milieu des bois qui est caché dans ma\nPomme, pomme, pomme? Dis-moi\nEst-ce que c'est l'amour, l'amour ou le serpent?\n\nOh, en attendant, c'est le printemps\nEt je n'ai pas encore vingt ans\n\nPomme, pomme, pomme d'Api, tapis, tapis blanc\nSi c'est le serpent, je n'ai pas peur, j'ai ma\nPomme, pomme, pomme dorée\nEt j'ai tout l'été pour courir dans les prés\n\nPomme, pomme, pomme jolie, tapis, tapis gris\nMais si c'est l'amour, je lui dirai tout bas\nViens, viens, viens chez moi\nViens, je t'attendais, viens, je comptais les jours\n\nOh, c'est le printemps, c'est le printemps\nEt je n'ai pas encore vingt ans\n\nPomme, pomme, pomme d'Api, tapis, tapis rouge\nPomme, pomme, pomme d'Api, moi, je vais croquer la\nPomme, pomme, pomme, et puis\nQuand j'aurai fini, je recommencerаi\n\nOh, c'est le printemps, oh, c'est le printempѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Apple, apple, apple",
+      "content": "Apple, apple, small red apple, carpet, red carpet\nApple, apple, small red apple, I'm going to bite the\nApple, apple, apple, and then\nWhen I'm done, I'll begin all over again\n\nApple, apple, small red apple, carpet, green carpet\nApple, apple, small red apple, it seems like in the\nApple, apple, apple, there are a bunch of pips\nToo bad, I'll see\n\nOh, it's springtime, it's springtime\nAnd I'm not even twenty yet\n\nApple, apple, small red apple, carpet, blue carpet\nBlue, blue like the sky before biting the\nApple, apple, small red apple\nI'd like to know what's in there\n\nIs it love? My Prince Charming\nIn the middle of the woods hidden in my\nApple, apple, apple? Tell me\nIs it love, love or the snake?\n\nOh, while waiting, it's springtime\nAnd I'm not even twenty yet\n\nApple, apple, small red apple, carpet, white carpet\nWhen it's the snake, I'm not afraid, I have my\nApple, apple, gilded apple\nAnd I have all summer long to run in the field\n\nApple, apple, beautiful apple, carpet, grey carpet\nBut if it's love, I'll tell him very softly\nCome, come, come with me\nCome, I waited for you, come, I counted the days\n\nOh, it's springtime, it's springtime\nAnd I'm not even twenty yet\n\nApple, apple, small red apple, carpet, red carpet\nApple, apple, small red apple, I'm going to bite the\nApple, apple, apple, and then\nWhen I'm done, I'll begin all over agаin\n\nOh, it's springtime, oh, it's ѕpringtime"
+    }
+  ],
+  "bpm": 112,
+  "tone": "G major",
+  "artistPeople": [
+    "Monique Melsen"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Hubert Giraud"
+  ],
+  "conductor": "Jean Claudric",
+  "lyricists": [
+    "Pierre Cour"
+  ],
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": [
+    "Jacques Navadic"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

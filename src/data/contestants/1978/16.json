@@ -1,0 +1,61 @@
+{
+  "id": 16,
+  "country": "PT",
+  "artist": "Gemini",
+  "song": "Dai-li-dou",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/c5lVMDN3gyw",
+    "https://www.youtube-nocookie.com/embed/UnFbdH7nskk",
+    "https://www.youtube-nocookie.com/embed/Tvfo3i3b8FI",
+    "https://www.youtube-nocookie.com/embed/yoweUB5qmi4",
+    "https://www.youtube-nocookie.com/embed/JLzgQTHAUKw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Dai-li-dou",
+      "content": "Dai li, dai li, dai li, dai li, dai li, dai li dou…\nPapagaio voa\nDai li, dai li, dai li, dai li, dai li, dai li dou…\nPapagaio voa\nDai li, dai li, dai li, dai li, dai li, dai li dou…\nPapagaio voa\nDai li, dai li, dai li, dai li, dai li, dai li dou…\n\nPreso por um fio que se desenrola\nTenho um papagaio de papel e cola\nQuando o lanço ao ar parece que tem mola\nSempre a pedir para subir\n\nVoa papagaio, esquece a minha idade\nPuxa pelo fio da minha vontade\nFaz por encontrar os rumos da verdade\nQue eu farei por te seguir\n\nDai li, dai li, dai li, dai li, dai li, dai li dou…\nPapagaio voa\nDai li, dai li, dai li, dai li, dai li, dai li dou…\nPapagaio voa\nDai li, dai li, dai li, dai li, dai li, dai li dou…\nPapagaio voa\nDai li, dai li, dai li, dai li, dai li, dai li dou…\n\nTudo o que avistares conta, meu amigo\nQue eu na terra sonho estar aí contigo\nMesmo que me sinta no meio do perigo\nVou resistir só por te ouvir\n\nE em cada manhã serei uma criança\nA brincar nos campos, voando na esperança\nDe colher a estrela que ninguém alcança\nMas eu hei-de conseguir\nMas eu hei-de conѕeguir, dai li dou…\n\nDai li, dai li, dai li, dai li, dai li, dai li dou…\nPapagaio voa\nDai li, dai li, dai li, dai li, dai li, dai li dou…\nPapagaio voa\nDai li, dai li, dai li, dai li, dai li, dai li dou…\nPapagaio voa\nDai li, dai li, dai li, dai li, dai li, dai li dou…\nPapagaio voa\nDai li, dai li, dai li, dai li, dai li, dai li dou…\nPapagaio voa\nDai li, dai li, dai li, dai li, dai li, dai li dou…\n\nDai li, dai li, dai li, dаi li dou…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Dai-li-dou",
+      "content": "Dai li, dai li, dai li, dai li, dai li, dai li dou…\nThe kite flies\nDai li, dai li, dai li, dai li, dai li, dai li dou…\nThe kite flies\nDai li, dai li, dai li, dai li, dai li, dai li dou…\nThe kite flies\nDai li, dai li, dai li, dai li, dai li, dai li dou…\n\nStuck by a thread that unrolls itself\nI have a kite made of paper and glue\nWhen I fly it, it seems to have a spring\nAlways asking to go up\n\nKite, you fly and forget my age\nPull by the thread of my own will\nTry to find the road to the truth\nAnd I will try to follow you\n\nDai li, dai li, dai li, dai li, dai li, dai li dou…\nThe kite flies\nDai li, dai li, dai li, dai li, dai li, dai li dou…\nThe kite flies\nDai li, dai li, dai li, dai li, dai li, dai li dou…\nThe kite flies\nDai li, dai li, dai li, dai li, dai li, dai li dou…\n\nTell me all the things you see, my friend\nI'm on Earth, dreaming of being with you\nEven if I'm in the middle of danger\nI'll resist, only to listen to you\n\nEach morning I'll be like a child\nPlaying in the fields, flying in the hope\nOf catching the star which no one reaches\nBut I'll make it\nBut I'll make it, dai li dou…\n\nDai li, dai li, dai li, dai li, dai li, dai li dou…\nThe kite flies\nDai li, dai li, dai li, dai li, dai li, dai li dou…\nThe kite flies\nDai li, dai li, dai li, dai li, dai li, dai li dou…\nThe kite flies\nDai li, dai li, dai li, dai li, dai li, dai li dou…\nThe kite flies\nDai li, dai li, dai li, dai li, dai li, dai li dou…\nThe kite flieѕ\nDai li, dai li, dai li, dai li, dai li, dai li dou…\n\nDai li, dai li, dai li, dai li, dаi li dou…"
+    }
+  ],
+  "bpm": 172,
+  "tone": "F major",
+  "artistPeople": [
+    "Fá",
+    "Mike Sergeant",
+    "Teresa Miguel",
+    "António José Correia de Brito"
+  ],
+  "backings": [
+    "Cristina Águas",
+    "Helena Águas"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Vítor Mamede"
+  ],
+  "conductor": "Thilo Krasmann",
+  "lyricists": [
+    "Carlos Quintas"
+  ],
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Eládio Clímaco"
+  ],
+  "jury": null,
+  "spokesperson": "Isabel Wolmar"
+}

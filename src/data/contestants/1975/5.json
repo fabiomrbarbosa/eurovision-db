@@ -1,0 +1,68 @@
+{
+  "id": 5,
+  "country": "CH",
+  "artist": "Simone Drexel",
+  "song": "Mikado",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/fBGONZ6boSc",
+    "https://www.youtube-nocookie.com/embed/OYlhMLXWNQU",
+    "https://www.youtube-nocookie.com/embed/kmbIjoVgMaQ",
+    "https://www.youtube-nocookie.com/embed/W2N_bFzjsHA",
+    "https://www.youtube-nocookie.com/embed/eVkzlGE95wY"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Mikado",
+      "content": "Ein alter Mann saß stumm am Straßenrand\nIn all dem Lärm und dem Verkehr\nEin Kind nur warf ihm eine Münze zu\nEr rief es zu sich her\nDann zeigte er ihm ein Mikado-Spiel\nEin Bündel Stäbchen, bunt und lang\nEr warf sie hin zu einem kleinen Kreis\nWobei er leise sang\n\nMikado, Mikado, so heißt das alte Spiel\nMikado, Mikado, nicht jeder kommt ans Ziel\nDu kannst alles haben mit etwas Geschick\nMikado, Mikado, vertrau nur auf dein Glück\n\nMikado, Mikado, so heißt das alte Spiel\nMikado, Mikado, zeig' niemals ein Gefühl\nWenn dich was nicht angeht, rühre nicht daran\nMikado, Mikado, spielt heute jedermann\n\nDer alte Mann sprach zu dem Kind vor ihm:\n\"Schau' her, ich nehm' ein Hölzchen fort\"\n\"Und dabei bleiben völlig unberührt\"\n\"Die andern Hölzchen dort\"\n\"Dies ist die Regel und nun hör' mir zu\"\n\"Was schon ein Kind draus lernen kann\"\n\"Wenn du nur einmal einen Fehler machst\"\n\"Dann kommt der nächste dran\"\n\nMikado, Mikado, so heißt das alte Spiel\nMikado, Mikado, nicht jeder kommt ans Ziel\nDu kannst alles haben mit etwas Geschick\nMikado, Mikado, vertrau nur auf dein Glück\n\nMikado, Mikado, so heißt das alte Spiel\nMikado, Mikado, zeig' niemals ein Gefühl\nWenn dich was nicht angeht, rühre nicht daran\nMikado, Mikado, ѕpielt heute jedermаnn"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Mikado",
+      "content": "An old man was sitting mutely at the side of the road\nIn all the noise and traffic\nA child just threw a coin at him\nHe called him back\nThen he showed him a game of mikado\nA bundle of sticks, multi-coloured and long\nHe threw them to a small circle\nSoftly singing\n\nMikado, mikado, that's how the old game is called\nMikado, mikado, not everyone reaches the goal\nYou can get everything with some skill\nMikado, mikado, only trust your luck\n\nMikado, mikado, that's how the old game is called\nMikado, mikado, never show a feeling\nWhen something doesn't concern you, don't touch it\nMikado, mikado, is now played by everyone\n\nThe old man said to the child in front of him:\n\"Look at this, I'm taking a stick away\"\n\"They remain completely unaffected\"\n\"Those other sticks over there\"\n\"This is the rule, and listen to me now\"\n\"What a child can learn from this\"\n\"When you make just one mistake\"\n\"The next will follow\"\n\nMikado, mikado, that's how the old game is called\nMikado, mikado, not everyone reaches the goal\nYou can get everything with some skill\nMikado, mikado, only trust your luck\n\nMikado, mikado, that's how the old game is called\nMikado, mikado, never show a feeling\nWhen something doesn't concern you, don't touch it\nMikado, mikado, iѕ now plаyed by everyone"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Mikado mikado",
+      "content": "Un vieux bonhomme qui vendait des jouets passait dans ma rue autrefois\nJe me souviens des trésors qu'il sortait de sa valise en bois\nLe mikado, c'était mon préféré, le vieux jetait les bâtonnets\nIl nous montrait comment les retirer, et puis il chantait:\n\nMikado, mikado, ne gagne pas qui veut\nMikado, mikado, chacun fait ce qu'il peut\nSans un peu de chance, tu perds la partie\nMikado, mikado, c'est le jeu de la vie\n\nMikado, mikado, pourtant il faut y croire\nMikado, mikado, ne perds jamais l'espoir\nUn peu de patience et tu réussis\nMikado, mikado, c'est le jeu de la vie\n\nAujourd'hui, le bonhomme a disparu dans le grand tourbillon du temps\nEt moi, je viens chercher dans cette rue mes souvenirs d'enfant\nAvant, je ne comprenais rien du tout à ce que disait sa chanson\nJe le prenais, c'est vrai, pour un vieux fou, mais il avait raison\n\nMikado, mikado, ne gagne pas qui veut\nMikado, mikado, chacun fait ce qu'il peut\nSans un peu de chance, tu perds la partie\nMikado, mikado, c'est le jeu de la vie\n\nMikado, mikado, pourtant il faut y croire\nMikado, mikado, ne perds jamais l'espoir\nUn peu de patience et tu réussis\nMikado, mikado, c'eѕt le jeu de lа vie"
+    }
+  ],
+  "bpm": 103,
+  "tone": "F# minor",
+  "artistPeople": [
+    "Simone Drexel"
+  ],
+  "backings": [
+    "Annica Risberg",
+    "Kerstin Bagge",
+    "Kerstin Dahl"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Peter Jacques",
+  "lyricists": null,
+  "writers": [
+    "Simone Drexel"
+  ],
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Georges Hardy",
+    "Giovanni Bertini",
+    "Theodor Haller"
+  ],
+  "jury": null,
+  "spokesperson": "Michel Stocker"
+}

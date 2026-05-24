@@ -1,0 +1,59 @@
+{
+  "id": 20,
+  "country": "LU",
+  "artist": "Marion Welter and Kontinent",
+  "song": "Sou fräi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/QxvKroREYdk",
+    "https://www.youtube-nocookie.com/embed/QiZHgVGtzXI",
+    "https://www.youtube-nocookie.com/embed/DXWPKcVtboo",
+    "https://www.youtube-nocookie.com/embed/-euoS04AJic"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "luxembourgish"
+      ],
+      "displayedLanguages": null,
+      "title": "Sou fräi",
+      "content": "Wéi en Draach am Wand\nPabeierschëff um Himmel\nFaarweg Koplabunz\nUm bloen Trampolin\nWéi en Draach am Wand\nIwwer all Grenze fléien\n\nSou fräi wëll ech gin\nSou fräi wëll ech gin\nSou fräi wëll ech gin\nWéi Gedanke sin\n\nKuck dat Kand um Wee\nSou liicht säi Liewe spillen\nWa säi Laache kléngt\nGët an der Däischtert Liicht\nKuck dat Kand um Wee\nAus Dreem en Heem erfannen\n\nSou fräi wëll ech gin\nSou fräi wëll ech gin\nSou fräi wëll ech gin\nWéi Gedanke sin\n\nFléi mat mir an d'Sonn\nMir gräife no de Stären\n'T gët eng aner Welt\nWou mir eis all verstin\nFléi mat mir an d'Sonn\nIwwer on eege Grenzen\n\nSou fräi wëll ech gin\nSou fräi wëll ech gin\nSou fräi wëll ech gin\nWéi Gedanke sin\n\n(Sou fräi wëll ech gin)\nSou fräi\nSou fräi\n(Sou fräi wëll ech gin)\nWéi Gedаnke ѕin"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "As free",
+      "content": "Like a kite in the wind\nA paper boat in the sky\nA coloured whirligig\nOn big blue trampoline\nLike a kite in the wind\nFlying over all frontiers\n\nI want to be as free\nI want to be as free\nI want to be as free\nAs thoughts can be\n\nSee that child on his way\nPlaying his life so easily\nWhen his laughter bubbles out\nThe dark turns to light\nSee that child on his way\nBuilding his home on dreams\n\nI want to be as free\nI want to be as free\nI want to be as free\nAs thoughts can be\n\nFly with me to the sun\nAnd reach out for the stars\nThere is another world\nWhere all is understood\nFly with me to the sun\nBeyond ourselves\n\nI want to be as free\nI want to be as free\nI want to be as free\nAs thoughts can be\n\n(I want to be as free)\nAs free\nAs free\n(I want to be as free)\nAs thoughtѕ cаn be"
+    }
+  ],
+  "bpm": 130,
+  "tone": "D major",
+  "artistPeople": [
+    "Marion Welter"
+  ],
+  "backings": [
+    "Ab van Goor",
+    "Ander Hirtt",
+    "Gordon Smith",
+    "Patrick Hartert",
+    "Rom Heck"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Christian Jakob",
+  "lyricists": null,
+  "writers": [
+    "Ab van Goor",
+    "Jang Linster"
+  ],
+  "broadcaster": "CLT",
+  "commentators": [
+    "Maurice Molitor"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

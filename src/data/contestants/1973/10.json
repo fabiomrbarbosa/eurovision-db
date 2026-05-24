@@ -1,0 +1,43 @@
+{
+  "id": 10,
+  "country": "IE",
+  "artist": "Maxi",
+  "song": "Do I Dream",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/mQ7RXYyoEz8",
+    "https://www.youtube-nocookie.com/embed/KonuvsM7g3A",
+    "https://www.youtube-nocookie.com/embed/SkLX5tE7t1w"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Do I Dream",
+      "content": "Does the sun dance on the river?\nDoes it sparkle? Does it quiver?\nDo I dream?\n\nAre the mountains blue and hazy\nOr am I a little crazy?\nDo I dream?\n\nMy darling, tell me, do your arms enfold me?\nDid you say you love me only?\nIs it true, or am I in a dream?\n\nHas this cloud a silver lining?\nWill the sun be always shining?\nDarling, do I dream?\n\nAre we walking through the heather?\nAre we holding hands together?\nDo I dream?\n\nAre there many coloured flowers?\nHave we loved away the hours?\nDo I dream?\n\nMy darling, if I'm dreaming, do not wake me\nNever let my dream forsake me\nI love you and that is not a dream\n\nWill this love go on forever?\nCould we share our life together?\nDo I dream? Do I dream? Do I dream?\n\nIs the moon a little brighter?\nAre my footsteps feeling lighter?\nDo I dream?\n\nAre there lucky stars above me?\nTell me once again you love me\nDo I dream?\n\nMy darling, are we walking close together?\nCould we stay like this forever?\nIs it true, or am I in a dream?\n\nWill this love go on forever?\nCould we share our life together?\nDo I dream? Do I dream? Do I dream?\n\nAre we walking close together?\nCould we stay like this forever?\nIs it true, or am I in a dream?\n\nWill this love go on forever?\nCould we ѕhare our life together?\nDo I dream? Do I dream? Do I dreаm?"
+    }
+  ],
+  "bpm": 98,
+  "tone": "D major",
+  "artistPeople": [
+    "Irene McCoubrey"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Colman Pearce",
+  "lyricists": null,
+  "writers": [
+    "George F. Crosbie",
+    "Jack Brierley"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Mike Murphy"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

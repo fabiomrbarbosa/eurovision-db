@@ -1,0 +1,54 @@
+{
+  "id": 34,
+  "country": "SI",
+  "artist": "Platin",
+  "song": "Stay Forever",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/2gh2F0aufEw",
+    "https://www.youtube-nocookie.com/embed/fdtRWjySTcs",
+    "https://www.youtube-nocookie.com/embed/sX40XJUSKvk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Stay Forever",
+      "content": "Ooh… hey yeah yeah\n\nCome on, let's fly away, girl\nUp on cloud number nine I'd wish to flow\nYou're my most precious pearl\nHmm… waiting for you, that's all I need to know\n\nWait and see how it's gonna be\nHold my hand, just don't let go\nBirds of a feather flock together\nBut time will tell, people say, so\n\nStay forever and ever\nYou will always be my baby\nStay forever, I'll never hurt you\nI won't make you cry, no, no, no\n\nStay forever, no matter what may happen\nDon't give up on me\nDo whatever, I'll never let go\nI will catch your fall\n\nThrough our sunny and dark sides of life\nFeelings like this are made to survive\nWhat the rest of the world thinks doesn't matter\nBecause we know it better\n\nStay forever and ever\nYou will always be my baby\nStay forever, I'll never hurt you\nI won't make you cry, no, no, no\n\nStay forever, no matter what may happen\nDon't give up on me\nDo whatever, I'll never let go\nI will catch your fall\n\nStay forever and ever\nYou will alwayѕ be my baby, baby\nStay forever, I'll never hurt you\nI won't mаke you cry"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "slovene"
+      ],
+      "displayedLanguages": null,
+      "title": "Ostani za vedno",
+      "content": "Z mano boš poletela\nTja v sedma nebesa si želim\nVsega si me prevzela\nSaj noči vse le s tabo prebedim\n\nPustiva času čas ta zna\nObrniti vse po svoje\nMed nama kemija reagira\nKo znajdeva se v dvoje\n\nDaj ostani za vedno\nTu na sončni strani živijenja\nDaj ostani za vedno\nDa le s tabo diham, živim\nDan za dnem\nDaj ostani za vedno\nUresniči vsa hrepenenja\nDaj ostani, ker le s teboj\nVse kar boli pretrpim\n\nPridejo časi še dobri in slabi\nKjer čustev kot teh ne pozabi\nLe ena pot naj bila bi prava\nMidva jo že poznava\n\nDaj ostani za vedno\nTu na sončni strani živijenja\nDaj ostani za vedno\nDa le s tabo diham, živim\nDan za dnem\nDaj ostani za vedno\nUresniči vsa hrepenenja\nDaj ostani, ker le s teboj\nVse kar boli pretrpim\n\nDaj ostani za vedno\nTu na sončni strani živijenja\nDaj ostani za vedno\nDa le ѕ tabo dihаm, živim"
+    }
+  ],
+  "bpm": 95,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Diana Lečnik",
+    "Simon Gomilšek"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Simon Gomilšek"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Diana Lečnik"
+  ],
+  "writers": null,
+  "broadcaster": "RTVSLO",
+  "commentators": [
+    "Andrea F"
+  ],
+  "jury": null,
+  "spokesperson": "Peter Poles"
+}

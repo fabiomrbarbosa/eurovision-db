@@ -1,0 +1,61 @@
+{
+  "id": 15,
+  "country": "IE",
+  "artist": "Ryan O'Shaughnessy",
+  "song": "Together",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/QD1cQ2wZ1dk",
+    "https://www.youtube-nocookie.com/embed/XAEjQXzW4Uc",
+    "https://www.youtube-nocookie.com/embed/zdRIUHyajiY",
+    "https://www.youtube-nocookie.com/embed/F107CcDP9Fk",
+    "https://www.youtube-nocookie.com/embed/QDMMCYqT9DE",
+    "https://www.youtube-nocookie.com/embed/1Nz3ySbecu4",
+    "https://www.youtube-nocookie.com/embed/Jh2WLoi3Al0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Together",
+      "content": "We were drifting like two icebergs out on the ocean\nI was doing all I could to keep you close\nThere were troubles in the water\nYou swore it was nothing\nYou said that we would always stay afloat\n\nWhy would true love look me in the eye and lie, lie\nI thought we'd be together till we die\nI'll forever wonder why\nI thought we'd be together till we die\nI'll forever wonder why\n\nHave you been coming home so late in the evening\nIs there someone else that I should know about\nThere's a smile on your face\nThat I haven't seen\nSince we started going out\n\nHow could true love look me in the eye and lie, lie\nI thought we'd be together till we die\nI'll forever wonder why\nI thought we'd be together till we die\nI'll forever wonder why\nI'll forever wonder why\n\nYou said \"Until death do us part\"\nAnd then you chose to break my heart\nRemember, right back to the start\nWe said we'd be together till we die\n\nI'll forever wonder why\nI thought we'd be together till we die\nI'll forever wonder why\nYou ѕаid we'd be together till we die\nI'll forever wonder why\nI thought we'd be together till we die\nI'll forever wonder why\n\nI'll forever wonder why"
+    }
+  ],
+  "bpm": 94,
+  "tone": "F major",
+  "artistPeople": [
+    "Ryan O'Shaughnessy"
+  ],
+  "backings": [
+    "Claire-Ann Varley",
+    "Janet Grogan",
+    "Remy Anna Naidoo"
+  ],
+  "dancers": [
+    "Alan McGrath",
+    "Kevin O'Dwyer"
+  ],
+  "stageDirector": "Ciarán Connolly",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Laura Elizabeth Hughes",
+    "Mark Caplice",
+    "Ryan O'Shaughnessy"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Marty Whelan"
+  ],
+  "jury": [
+    "Aoife Barry",
+    "Kenneth Giles",
+    "Niamh Kavanagh",
+    "Thomas Crosse",
+    "Tom Dunne"
+  ],
+  "spokesperson": "Nicky Byrne"
+}

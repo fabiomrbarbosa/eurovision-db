@@ -1,0 +1,64 @@
+{
+  "id": 5,
+  "country": "BY",
+  "artist": "Dmitry Koldun",
+  "song": "Work Your Magic",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/PxON-jTcBPA",
+    "https://www.youtube-nocookie.com/embed/1_NoCkZmNZE",
+    "https://www.youtube-nocookie.com/embed/9Cp4BlfJWr8",
+    "https://www.youtube-nocookie.com/embed/ZOQc-hdTjKE",
+    "https://www.youtube-nocookie.com/embed/dI30IrNfBv0",
+    "https://www.youtube-nocookie.com/embed/VSo7FARfdjs"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Work Your Magic",
+      "content": "Welcome to the night and you will see\nYou've got the magic power\nI am on my way, I keep the key to your tower\n\nYou can serve me something really hot\nCall it love or madness\nBut you'll get the best of what I've got\n\nWork your magic\nI never wanna lose this feeling\nI am able and I'm willing\nYes, I'm willing\n\nWork your magic\nYou set my beating heart in motion\nWhen you cast your loving potion\nLoving potion\n\nWork your magic\nI never wanna lose this feeling\nI am able and I'm willing\nYes, I'm willing\n\nWork your magic\nYou set my beating heart in motion\nWhen you cast your loving potion over me\n\nBaby, you can put your spell on me\nMakin' it slow and steady\nMaybe I can solve your mystery\nAre you ready?\n\nWe are standing closely skin to skin\nPlayin' a very old game\nIn this game of love, you always win\n\nWork your magic\nI never wanna lose this feeling\nI am able and I'm willing\nYes, I'm willing\n\nWork your magic\nYou set my beating heart in motion\nWhen you cast your loving potion over me\n\nWhen you cast your loving potion over me\n\nSo you work your magic\nBaby, work your magic\nKeep my heart forever bound\n\nWork your magic\nI never wanna lose this feeling\nI am able and I'm willing\nYes, I'm willing\n\nWork your magic\nYou set my beating heart in motion\nWhen you cаѕt your loving potion over me"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Дай мне силу",
+      "content": "В глубине души она горит\nСловно кинжал без ножен\nНа металл, забывший боль и стыд, так похожа\n\nЗнаю, ей легко в твоей груди\nСтать безумства бездной\nНо у нас все это впереди\n\nДай мне силу\nЯ отворю любые двери\nЯ убью любого зверя\nТы мне веришь?\n\nДай мне силу\nС ней, я достану страсть из пекла\nИ восстану вновь из пепла\nВновь из пепла\n\nДай мне силу\nЯ отворю любые двери\nЯ убью любого зверя\nТы мне веришь?\n\nДай мне силу\nС ней, я достану страсть из пекла\nИ восстану вновь из пепла для тебя\nВновь из пепла\n\nЗнаю, можешь сердце мне пронзить\nЛасковым нежным взглядом\nВижу эту тайну не раскрыть\nИ не надо\n\nЗаструится звёздный млечный путь\nПод твоею кожей\nВ эту ночь вдвоём нам не уснуть\n\nДай мне силу\nЯ отворю любые двери\nЯ убью любого зверя\nТы мне веришь?\n\nДай мне силу\nС ней, я достану страсть из пекла\nИ восстану вновь из пепла для тебя\n\nЯ достану страсть из пекла для тебя\n\nТолько дай мне силу\nСлышишь дай мне силу\nДай огню любви сиять\n\nДай мне силу\nЯ отворю любые двери\nЯ убью любого зверя\nТы мне веришь?\n\nДай мне силу\nС ней, я достану страсть из пекла\nЯ достану вновь из пепла для тебя"
+    }
+  ],
+  "bpm": 100,
+  "tone": "G minor",
+  "artistPeople": [
+    "Dmitry Aleksandrovich Koldun (Дзьмітры Аляксандравіч Калдун)"
+  ],
+  "backings": [
+    "Fredrik Olofsson",
+    "Marina Ahverdova"
+  ],
+  "dancers": [
+    "Alexandr Bodyanski",
+    "Ilona Donchenko",
+    "Natalia Donchenko"
+  ],
+  "stageDirector": "Fokas Evangelinos",
+  "composers": [
+    "Dimitris Kontopoulos",
+    "Philipp Kirkorov"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Karen Kavaleryan"
+  ],
+  "writers": null,
+  "broadcaster": "BTRC",
+  "commentators": [
+    "Denis Kurian"
+  ],
+  "jury": null,
+  "spokesperson": "Juliana"
+}

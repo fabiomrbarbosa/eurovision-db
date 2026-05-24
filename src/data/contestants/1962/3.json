@@ -1,0 +1,67 @@
+{
+  "id": 3,
+  "country": "YU",
+  "artist": "Lola Novaković",
+  "song": "Ne pali svetla u sumrak",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/EPUMlv8TbKI",
+    "https://www.youtube-nocookie.com/embed/jUwyrCpF9Ag"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "serbian"
+      ],
+      "displayedLanguages": [
+        "srpski"
+      ],
+      "title": "Ne pali svetla u sumrak",
+      "content": "U toploj tami sobe, još cigarete dve\nDva mala svetla sve su bliže, bliže\nTa noć je stvorena za njih, taj san je snen i tako tih\nDve zvezde sad će poć', na dalek stari put\n\nU plavom staklu vaze, tu negdje izpod ruža\nDva mala svetla sve su bliže, bliže\nTaj dan je bio tako tih, sad san se spušta među njih\nVeć gasiš cigaretu, pružaš ruke snu\n\nTaj dan je bio tako tih, sad san se spušta među njih\nI dve će zvezde poć', na dalek stari put\n\nU plavom staklu vaze, tu negdje izpod ruža\nDva mala svetla sve su bliže, bliže\nTa noć je stvorena za njih, sad san se spušta tako tih\nVeć gasiš cigaretu, pružaš ruke snu\n\nNe pali svetla u ѕumrаk"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "serbian"
+      ],
+      "displayedLanguages": [
+        "српски"
+      ],
+      "title": "Не пали светло у сумрак",
+      "content": "У топлој тами собе, још цигарете две\nДва мала светла све су ближе, ближе\nТа ноћ је створена за њих, тај сан је снен и тако тих\nДве звезде сад ће поћ', на далек стари пут\n\nУ плавом стаклу вазе, ту негдје изпод ружа\nДва мала светла све су ближе, ближе\nТај дан је био тако тих, сад сан се спушта међу њих\nВећ гасиш цигарету, пружаш руке сну\n\nТај дан је био тако тих, сад сан се спушта међу њих\nИ две ће звезде поћ', на далек стари пут\n\nУ плавом стаклу вазе, ту негдје изпод ружа\nДва мала светла све су ближе, ближе\nТа ноћ је створена за њих, сад сан се спушта тако тих\nВећ гасиш цигарету, пружаш руке сну\n\nНе пали светла у сумрак"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Don't turn the lights on at twilight",
+      "content": "In the warm darkness of the room, two cigarettes\nTwo tiny lights are closer and closer\nThis night is made for them, this dream is so slow and quiet\nTwo stars will now depart on a long journey\n\nIn the blue glass of the vase, under the roses\nTwo tiny lights are closer and closer\nThat day was so quiet, now sleep is descending upon them\nYou're putting out your cigarete, embracing sleep\n\nThat day was so quiet, now sleep is descending upon them\nTwo stars will depart on a long journey\n\nIn the blue glass of the vase, under the roses\nTwo tiny lights are closer and closer\nThis night is made for them, now sleep is coming, so quiet\nYou're putting out your cigarete, embracing sleep\n\nDon't turn the lightѕ on аt twilight"
+    }
+  ],
+  "bpm": 100,
+  "tone": "C# major",
+  "artistPeople": [
+    "Lola Novaković"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jože Privšek"
+  ],
+  "conductor": "Jože Privšek",
+  "lyricists": [
+    "Dragutin Britvić"
+  ],
+  "writers": null,
+  "broadcaster": "JRT",
+  "commentators": [
+    "Gordana Bonetti",
+    "Ljubomir Vukadinović",
+    "Tomaž Terček"
+  ],
+  "jury": null,
+  "spokesperson": "Mladen Delić"
+}

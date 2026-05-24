@@ -1,0 +1,50 @@
+{
+  "id": 7,
+  "country": "DE",
+  "artist": "Silver Convention",
+  "song": "Telegram",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/G4UJvU9MsRk",
+    "https://www.youtube-nocookie.com/embed/WJ0ntkBFh0A",
+    "https://www.youtube-nocookie.com/embed/FhlXmuopAs0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Telegram",
+      "content": "Since you're gone I'm all alone – Stop\nJust can't make it on my own – Stop\nOperator, did you get the line?\nRush a cable, for I've got no time\n\nGotta send a telegram, telegram to my baby\nYes, I'm gonna send a telegram, telegram, and then maybe\nHe won't keep me yearnin'\nTonight he'll be on his way, tomorrow he'll be here to stay\nHelp me, ma'am, I can't wait another day\n\nPlease forgive the things I said – Stop\nDidn't mean to make you sad – Stop\nOperator, I'll pay any rate\nIf my message will not be too late\n\nGotta send a telegram, telegram to my baby\nYes, I'm gonna send a telegram, telegram, and then maybe\nHe won't keep me yearnin'\nTonight he'll be on his way, tomorrow he'll be here to stay\nHelp me, ma'am, I can't wait another day\n\nI was such a fool to let him go\nToo proud to show that I love him so\n\nGotta send a telegram, telegram to my baby\nYes, I'm gonna send a telegram, telegram, and then maybe\nHe won't keep me yearnin'\nTonight he'll be on his way, tomorrow he'll be here to stay\nHelp me, ma'am, gotta ѕend a telegrаm"
+    }
+  ],
+  "bpm": 125,
+  "tone": "A major",
+  "artistPeople": [
+    "Gertrude Wirschinger",
+    "Ramona Kraft",
+    "Rhonda Heath"
+  ],
+  "backings": [
+    "Gary Unwin",
+    "Martin Harrison",
+    "Sylvester Levai"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Sylvester Levai"
+  ],
+  "conductor": "Ronnie Hazlehurst",
+  "lyricists": [
+    "Michael Kunze"
+  ],
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Werner Veigel"
+  ],
+  "jury": null,
+  "spokesperson": "Max Schautzer"
+}

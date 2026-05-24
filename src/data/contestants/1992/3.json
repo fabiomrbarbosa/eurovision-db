@@ -1,0 +1,61 @@
+{
+  "id": 3,
+  "country": "IT",
+  "artist": "Mia Martini",
+  "song": "Rapsodia",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/WpnC5fUjwE0",
+    "https://www.youtube-nocookie.com/embed/PdZ3h0rbl6U"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Rapsodia",
+      "content": "Un giorno i vecchi amori\nS'incontrano nei bar\nBugiardi ma sinceri a dirsi come va\nMagari fuori piove e allora stanno lì\nPensando chissà dove\nChissà perché finì\n\nUn giorno i vecchi amori si dicono l'età\nDolcissimi rancori ed altre verità\n\nChi siamo noi, sperduti qui?\nCosì diversi dagli eroi del nostro film\nCon l'ironia e un po' di guai\nIn questa immensa rapsodia dei nostri ormai\n\nMa un giorno i vecchi amori si chiedono di più\nI sogni e i desideri di un'altra gioventù\nE lasciano famiglie tradiscono gli amici\nNon vogliono consigli per essere felici\n\nE quando i vecchi amori si lasciano nei bar\nDiventano canzoni di tanto tempo fa\n\nChi siamo noi seduti qua?\nAd ascoltare questa vita che non va\nChi siamo noi buttati via\nIn questa immensa e disperata rapsodia\n\nOh chi siamo noi buttati via\nIn questa immensa e disperata rapѕodiа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": null,
+      "title": "Ραψωδία",
+      "content": "Μια μέρα οι παλιοί εραστές\nΒρέθονται στο μπαρ\nΜε διολιότητα αλλά ειλικρίνια λένε πως τα πάνε\nΈβρεχε έξω και ήταν εκεί\nΣκέφτονταν ποιος ξέρει πού\nΠοιος ξέρει, γιατί έχει τελειώσει\n\nΜια μέρα οι παλιοί εραστές λένε την ηλικία τους\nΓλυκό μίσος και μια άλλη αλήθεια\n\nΠοιοι ήμαστε, που νιώθουμε μόνοι;\nΤόσο διαφορετικοί από τους ήρωες στη ταινία μας\nΜε ειρωνία και λίγη ταραχή\nΣ' αυτήν την αχανή ραψωδία, τώρα για μας\n\nΜα μια μέρα οι παλιοί εραστές λαχταρούν πιο πολλά\nΤα όνειρα και τους πόθους άλλων νιάτων\nΚαι αφήνουν οικογένειες, προδίδουν φίλους\nΔε θέλουν συμβουλές για το πως να είναι χαρούμενοι\n\nΚαι όταν οι παλιοί εραστές αφήνονται στο μπαρ\nΓίνονται τραγούδια μιας άλλης εποχής\n\nΠοιοι είμαστε εμείς, καθημένοι εδώ\nΑκούγοντας αυτή τη ζωή που απέτυχε\nΠοιοι είμαστε εμείς, βυθισμένοι στη ντροπή\nΣ' αυτή την αχανή και απελπισμένη ραψωδία\n\nΩ ποιοι είμαστε εμείς, βυθισμένοι στη ντροπή\nΣ' αυτή την αχανή και απελπισμένη ραψωδία"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Rhapsody",
+      "content": "One day the old lovers\nMeet in a bar\nDeceitful but sincere telling how it goes\nIt was raining outside and they were there\nThinking about who knows where\nWho knows, because it's over\n\nOne day the old lovers tell each other their ages\nSweet resentments and other truth\n\nWho are we, feeling lost?\nSo different from the heroes in our movie\nWith the irony and a bit of trouble\nIn this immense rhapsody, now about us\n\nBut one day the old lovers long for more\nDreams and desires of another youth\nAnd they leave their families, betray their friends\nThey don't want advice about how to be happy\n\nAnd when the old lovers leave each other at the bar\nThey will become songs of a time far behind\n\nWho are we, sitting here?\nListening to a story of a life that didn't work out\nWho are we, sunk in shame\nFor this immense and hopeless rhapsody\n\nOh who are we, sunk in shame\nFor this immense and hopeless rhаpѕody"
+    }
+  ],
+  "bpm": 129,
+  "tone": "E major",
+  "artistPeople": [
+    "Domenica Bertè"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Giuseppe Dati"
+  ],
+  "conductor": "Marco Falagiani",
+  "lyricists": [
+    "Giancarlo Bigazzi"
+  ],
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Peppi Franzelin"
+  ],
+  "jury": null,
+  "spokesperson": "Nicoletta Orsomando"
+}

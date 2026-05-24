@@ -1,0 +1,59 @@
+{
+  "id": 14,
+  "country": "TR",
+  "artist": "Neco",
+  "song": "Hani?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/sU67JnNuqSA",
+    "https://www.youtube-nocookie.com/embed/N3PrFTZDPvE",
+    "https://www.youtube-nocookie.com/embed/jztPuMI6IaE",
+    "https://www.youtube-nocookie.com/embed/h2OQ3YA3mXk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "turkish"
+      ],
+      "displayedLanguages": null,
+      "title": "Hani?",
+      "content": "Peşimden koşanlar, nerde hani?\nKalbini açanlar, nerde hani?\nAşkımla coşanlar, nerde hani?\nHani?\n\nYüzüme gülenler, nerde hani?\nSevgilim diyenler, nerde hani?\nBeni bekleyenler, nerde hani?\nHani?\n\nBu ne biçim iştir böyle\nKonuşulmuyor hiçkimseyle\nSen birşeyler söylersin kendince\nUzaklaşır sessizce\n\nGörmüştüm seni bir, yerde hani\nGirmiştim yeni bir, derde hani\nÇekmiştim aşkıma, perde hani\n\nYaklaşmak istemiştim, ben de hani\nUzaklaşıp gitmiştin, sen de hani\nSeni ne çok sevmiştim, nerde hani?\nHani?\n\nSen bu işin sırrını bilmezsin\nKolay mı zannedersin\nKullanmazsan birkaç tatlı sözcük\nKalplere giremezѕin\n\nPeşimden koşanlar, hani?\nKalbini açanlar, hani?\nAşkımla coşanlar\n(Hani? Hani? Hani?)\n\nYüzüme gülenler, nerde hani?\nSevgilim diyenler, nerde hani?\nBeni bekleyenler, nerde hani?\n(Hani? Hani?)\n\nHey hey hey hey…\nPeşimden koşanlar, nerde hani?\nKalbini açanlar, nerde hani?\nAşkımla coşanlar, nerde hani?\nHаni?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Where?",
+      "content": "Where are those who ran after me?\nWhere are those who opened their hearts to me?\nWhere are those who were so happy with my love?\nWhere?\n\nWhere are those who smiled at me?\nWhere are those who called me sweetheart?\nWhere are those who waited for me?\nWhere?\n\nIt's so unfortunate\nNot to be able to talk to anyone\nYou try to say something\nAnd they just walk away\n\nI saw you somewhere\nYou walked away, again\nYou ignored my love\n\nI tried to come closer\nBut you left me again\nI loved you so much, where?\nWhere?\n\nYou don't know how to love\nDon't think it's so easy\nTo use flattering words\nAnd win a heart\n\nWhere are those who used to run after me?\nWhere are those who used to open their hearts to me?\nWhere are those who where so happy with my love\n(Where? Where? Where?)\n\nWhere are those who smiled at me?\nWhere are those who called me sweetheart?\nWhere are those who waited for me?\n(Where? Where?)\n\nHey hey hey hey…\nWhere are those who ran after me?\nWhere are those who opened their hearts to me?\nWhere are those who were ѕo hаppy with my love?\nWhere?"
+    }
+  ],
+  "bpm": 149,
+  "tone": "C minor",
+  "artistPeople": [
+    "Nejat Özyılmazel"
+  ],
+  "backings": [
+    "Aysel Poyraz",
+    "Didem Hekimoğlu",
+    "Olcayto Ahmet Tuğsuz",
+    "Sermin Karaali"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Olcayto Ahmet Tuğsuz"
+  ],
+  "conductor": "Garo Mafyan",
+  "lyricists": [
+    "Faik Tuğsuz"
+  ],
+  "writers": null,
+  "broadcaster": "TRT",
+  "commentators": [
+    "Ümit Tunçağ"
+  ],
+  "jury": null,
+  "spokesperson": "Başak Doğru"
+}

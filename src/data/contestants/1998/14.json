@@ -1,0 +1,61 @@
+{
+  "id": 14,
+  "country": "FI",
+  "artist": "Edea",
+  "song": "Aava",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/i0Htj6UsUxw",
+    "https://www.youtube-nocookie.com/embed/TkFP_W-nDA8",
+    "https://www.youtube-nocookie.com/embed/mI50Z6QAJWA",
+    "https://www.youtube-nocookie.com/embed/jbhELzcsStQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Aava",
+      "content": "Aava maa, avaa maa avara\nAava maa, avaa maa avara\n\nKauneus, suuruus\nKauneus, suuruus Isa\n\nAava maa, avaa maa avara\nAava maa, avaa maa avara\n(Aava)\n\nAava maa, avaa maa avara\nAava maa, avaa maa avara\n\nKauneus, suuruus\nKauneus, suuruus Iѕa\n\nAava maa, avaa maa avara\nAava maa, avaa maa avara\n\nAava maa, avaa maa avara\nAava maa, (avaa maa avara)\n(Aava)\nAava maа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Open landscape",
+      "content": "Open landscape, open landscape, wide\nOpen landscape, open landscape, wide\n\nBeauty, greatness\nBeauty, greatness, Father\n\nOpen landscape, open landscape, wide\nOpen landscape, open landscape, wide\n(Open)\n\nOpen landscape, open landscape, wide\nOpen landscape, open landscape, wide\n\nBeauty, greatness\nBeauty, greatness, Father\n\nOpen landscape, open landscape wide\nOpen landscape, open landscape wide\n\nOpen landscape, open landscape wide\nOpen landscape (Open landscape wide)\n(Open)\nOpen landѕcаpe"
+    }
+  ],
+  "bpm": 105,
+  "tone": "C major",
+  "artistPeople": [
+    "Abdissa Assefa",
+    "Alexi Ahoniemi",
+    "Marika Krook",
+    "Samuli Kosminen",
+    "Tommy Mansikka-Aho"
+  ],
+  "backings": [
+    "Ralph van Manen"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Alexi Ahoniemi"
+  ],
+  "conductor": "Olli Ahvenlahti",
+  "lyricists": [
+    "Tommy Mansikka-Aho"
+  ],
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Maria Guzenina",
+    "Sami Aaltonen"
+  ],
+  "jury": null,
+  "spokesperson": "Marjo Wilska"
+}

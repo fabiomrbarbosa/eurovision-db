@@ -1,0 +1,56 @@
+{
+  "id": 23,
+  "country": "NO",
+  "artist": "Tor Endresen",
+  "song": "San Francisco",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/HdcwLB2kXFs",
+    "https://www.youtube-nocookie.com/embed/EytTUpakZCA",
+    "https://www.youtube-nocookie.com/embed/rttPmwsp6Tk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "norwegian"
+      ],
+      "displayedLanguages": null,
+      "title": "San Francisco",
+      "content": "Det føles ennå som det var i går\nDa alle sang: \"Make love, not war \"\nOg hele verden hadde lengre hår\nDet føles som det var i går\n\nDa det å være bror og søster var in\nCalifornia dreamin' \nDe store spørsmål og et åpent sinn\nSvarene was blowin' in the wind \n\nOh… kjærlighetstid i San Francisco\nDrømmen om fred, en ungdoms vår\nIngen gevær, no war, no disco \nKun vakre blomster i ditt hår\n\nDa alle surfet på en god vibrasjon\nOg USA fikk sin man on the moon \nOg Jimi Hendrix spilte ild og pasjon\nI Woodstock for en ny generasjon\n\nYeah… da var det sterkt å være ung og fri\nLivet hadde bedre tid\nOg hele verden hadde lengre hår\nDet føles som det var i går\n\nYeah yeah… kjærlighetstid i San Francisco\nDrømmen om fred, en ungdoms vår\nOoh yeah… ingen gevær, no war, no disco \nKun vakre blomster i ditt hår\n\nOver jorden lød Lennons sang:\n\"Love, love, love \"\nMed bud om at kjærlighet gjør alle fri\nOm vi ikke lar den fare forbi\n\nKjærlighetstid i San Fran…\nKjærlighetstid i San Francisco\nDrømmen om fred, en ungdoms vår\nOoh yeah… ingen gevær, no war, no disco \nKun vakre blomster i ditt…\nKun vakre blomѕter i ditt hår\nOh yeаh…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "San Francisco",
+      "content": "It still feels like yesterday\nWhen everyone was singing: \"Make love, not war \"\nAnd the world had longer hair\nIt feels like yesterday\n\nBeing brothers and sisters was in\nCalifornia dreamin' \nImportant questions and an open mind\nThe answers were blowin' in the wind' \n\nOh… time for love in San Francisco\nA dream of peace, a spring of youth\nNo guns, no war, no disco \nJust lovely flowers in your hair\n\nWhen everybody surfed on a good vibration\nUSA got their man on the moon \nJimi Hendrix played fire and passion\nAt Woodstock for a new generation\n\nYeah… then there was a strong feeling to be young and free\nLife had plenty of time\nAnd the whole world had longer hair\nIt feels like yesterday\n\nYeah yeah… time for love in San Francisco\nA dream of peace, a spring of youth\nOoh yeah… no guns, no war, no disco \nJust lovely flowers in your hair\n\nAll over the earth Lennon's song was heard:\n\"Love, love, love\" \nWith the message that love sets everyone free\nIf we don't let it pass us by\n\nTime for love in San Fran…\nTime for love in San Francisco\nA dream of peace, a spring of youth\nOoh yeah… no guns, no war, no disco \nJust lovely flowers in your…\nJust lovely flowerѕ in you hair\nOh yeаh…"
+    }
+  ],
+  "bpm": 136,
+  "tone": "G major",
+  "artistPeople": [
+    "Tor Endresen"
+  ],
+  "backings": [
+    "Marian Lisland"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Arne Myksvoll",
+    "Tor Endresen"
+  ],
+  "conductor": "Geir Langslet",
+  "lyricists": [
+    "Tor Endresen"
+  ],
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "Jostein Pedersen"
+  ],
+  "jury": null,
+  "spokesperson": "Ragnhild Sælthun Fjørtoft"
+}

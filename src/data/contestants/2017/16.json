@@ -1,0 +1,89 @@
+{
+  "id": 16,
+  "country": "BY",
+  "artist": "Naviband",
+  "song": "Historyja majho žyccia",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/coFfFZvPmRY",
+    "https://www.youtube-nocookie.com/embed/pDLWeVePpqM",
+    "https://www.youtube-nocookie.com/embed/1zR3KyVw1-Q",
+    "https://www.youtube-nocookie.com/embed/XuI3RqTF4jQ",
+    "https://www.youtube-nocookie.com/embed/A-LLpP1JmUk",
+    "https://www.youtube-nocookie.com/embed/RWefjNremzw",
+    "https://www.youtube-nocookie.com/embed/hG0nLEMl3QQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "belarusian"
+      ],
+      "displayedLanguages": [
+        "bielaruskaja"
+      ],
+      "title": "Historyja majho žyccia",
+      "content": "Koĺki dzion, koĺki spatkanniaŭ\nNovyja vobrazy i harady\nŠerah padziej, nas pakidaje\nU sercy trymajem\nIdziem daliej\n\nHistoryja majho žyccia\nBudzie sviacić jašče jarčej\nU našaj kryvi sonca zajhraje\nUsia pryhažosć Tvaich vačej\n\nDzie budzieš ty – ja adšukaju\nJarkija momanty znojdziem chučej\nSionniašni dzień, stanie pačatkam\nNovych žadanniaŭ, liepšych idej\n\nHistoryja majho žyccia\nBudzie sviacić jašče jarčej\nU našaj kryvi sonca zajhraje\nUsia pryhažoѕć Tvaich vаče"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "belarusian"
+      ],
+      "displayedLanguages": [
+        "беларуская"
+      ],
+      "title": "Гісторыя майго жыцця",
+      "content": "Колькі дзён, колькі спатканняў\nНовыя вобразы і гарады\nШэраг падзей, нас пакідае\nУ сэрцы трымаем\nІдзем далей\n\nГісторыя майго жыцця\nБудзе свяціць яшчэ ярчэй\nУ нашай крыві сонца зайграе\nУся прыгажосць Тваіх вачэй\n\nДзе будзеш ты – я адшукаю\nЯркія моманты знойдзем хутчэй\nСённяшні дзень, стане пачаткам\nНовых жаданняў, лепшых ідэй\n\nГісторыя майго жыцця\nБудзе свяціць яшчэ ярчэй\nУ нашай крыві сонца зайграе\nУся прыгажосць Тваіх вачэй"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Story of My Life",
+      "content": "How many days, how many dates\nNew figures and towns\nThe Chain of events falls behind us\nKeeping in a heart \nand moving on\n\nStory of my life\nWill shine brighter\nThe sun will sparkle in our blood\nThe entire beauty of your eyes\n\nI will seek you out wherever you may be\nTo discover vivid impressions rapidly\nPresent day will become a birth\nOf new wills and better thoughts\n\nStory of my life\nWill shine brighter\nThe sun will sparkle in our blood\nThe entire beаuty of your eyeѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "История моей жизни",
+      "content": "Сколько дней, сколько встреч\nНовые образы и города\nВсё, что произошло, - уходит\nНо мы храним это в сердце\nИ идём дальше\n  \nИстория моей жизни\nБудет светить ещё ярче\nВ нашей крови солнце заиграет\nВся красота твоих глаз\n\nГде будешь ты - я отыщу\nЯркие моменты мы быстро найдём\nСегодняшний день станет началом\nНовых желаний, прекрасных идей\n\nИстория моей жизни\nБудет светить ещё ярче\nВ нашей крови солнце заиграет\nВся красота твоих глаз"
+    }
+  ],
+  "bpm": 155,
+  "tone": "E major",
+  "artistPeople": [
+    "Arciom Lukjanienka",
+    "Ksienija Žuk (Ксенія Жук)"
+  ],
+  "backings": [
+    "Alena Verbitskaya",
+    "Anna Chet",
+    "Michael Soul",
+    "Olga Rozaleon-Sashalskaya"
+  ],
+  "dancers": null,
+  "stageDirector": "Tatyana Ostroverkh",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Arciom Lukjanienka"
+  ],
+  "broadcaster": "BTRC",
+  "commentators": [
+    "Evgeny Perlin"
+  ],
+  "jury": [
+    "Alexey Gross",
+    "Inna Mardusevich",
+    "Leonid Shyrin",
+    "Ludmila Kuts",
+    "Victoria Aleshko"
+  ],
+  "spokesperson": "Alyona Lanskaya"
+}

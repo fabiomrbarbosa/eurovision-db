@@ -1,0 +1,73 @@
+{
+  "id": 13,
+  "country": "LU",
+  "artist": "Jürgen Marcus",
+  "song": "Chansons pour ceux qui s'aiment",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/J3uZs6JLN8w",
+    "https://www.youtube-nocookie.com/embed/axc2F0bgtzk",
+    "https://www.youtube-nocookie.com/embed/fzG1M8EOuYw",
+    "https://www.youtube-nocookie.com/embed/hRRJUnyEi0c"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Chansons pour ceux qui s'aiment",
+      "content": "Tant de mélodies marquent notre vie\nEt sans elles, le monde aujourd'hui serait plus pauvre\n\nPrésentes ou passées, elles nous font rêver\nEt chacun parmi nous gardera cachées dans son cœur\n\nDes chansons pour ceux qui s'aiment\nChansons anciennes avec des mots de toujours\nChansons qui se souviennent et qui reviennent après l'amour\n\nDes chansons pour ceux qui s'aiment\nChansons nouvelles avec des mots d'amoureux\nChansons toujours fidèles qui nous rappellent les jours heureux\n\nOn peut tout refaire, changer la terre\nVivre sans frontières, on chantera\nOublier l'histoire, croire, ne plus croire\nDans nos mémoires, il restera\n\nDes chansons pour ceux qui s'aiment\nQui se souviennent et que les hommes attendaient\nUn jour, chante la même et qu'elle devienne\nL'hymne de paix désormais, désormаiѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Songs for those who love each other",
+      "content": "So many melodies mark our life\nAnd without them, the world would be poorer today\n\nPresents or pasts, they make us dream\nAnd everyone among us will keep hidden in their heart\n\nSongs for those who love each other\nOld songs with eternal words\nSongs that are remembered and come back after love\n\nSongs for those who love each other\nNew songs with words of lovers\nAlways loyal songs that recall us the happy days\n\nWe can redo everything, change the world\nTo live without frontiers, we'll sing\nTo forget history, to believe, not to believe anymore\nIn our memories, it will stay\n\nSongs for those who love each other\nThat are remembered and that people were waiting for\nOne day, sing the ѕame and may it become\nThe hymn of peаce from now on, from now on"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Canções para aqueles que se amam",
+      "content": "Tantas melodias marcam nossa vida\nE sem elas, o mundo hoje será mais pobre\n\nPresentes e passados, elas nos fazem sonhar\nE cada um entre nós guardará escondidas em seu coração\n\nCanções para aqueles que se amam\nCanções anciãs com palavras eternas\nCanções que são lembradas e que retornam depois do amor\n\nCanções para aqueles que se amam\nCanções novas com palavras de amantes\nCanções sempre fiéis que nos lembram os dias felizes\n\nPodemos refazer, mudar o mundo\nViver sem fronteiras, nós cantaremos\nEsquecer a história, crer, não mais crer\nEm nossas memórias, permanecerá\n\nCanções para aqueles que se amam\nQue são lembradas e por que as pessoas esperam\nUm dia, cante a mesma e que ela ѕe torne\nO hino da paz de agora em diante, de agora em diаnte"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Der Tingler singt für euch alle",
+      "content": "Tausend Melodien\nZieh'n mit euch dahin\nOhne sie wär' die Welt\nWären alle so viel ärmer dran\nSie begleiten euch\nGuten Freunden gleich\nAber wer zieht umher\nUnd erinnert euch stets daran?\n\nDer Tingler singt für euch alle\nDenn ihr hört gerne\nImmer eure Lieder\nWieder\nTingler, du liebst dein Leben\nDrum bringst du Freude\nDort wo sie blüht\n\nDer Tingler ist da für alle\nEr kann die Menschen\nÜberall zum Singen\nBringen\nTingler, drum musst du weiter\nDenn deine Lieder\nBraucht alle Welt\n\nDu weist um die Freuden\nUm ihres Leiden\nWeist um die Sehnsucht\nDie uns bewegt\nDu kennst unser Schwanken\nÜber Gedanken\nDie man mit sich im Herzen trägt\n\nDer Tingler singt für euch alle\nDenn ihr hört gerne\nImmer eure Lieder\nWieder\nTingler, du musѕt nun weiter\nDenn deine Lieder\nBraucht alle Welt\nAlle Welt, аlle Welt"
+    }
+  ],
+  "bpm": 163,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Jürgen Beumer"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jack White"
+  ],
+  "conductor": "Jo Plée",
+  "lyricists": [
+    "Fred Jay",
+    "Vline Buggy"
+  ],
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": [
+    "Jacques Navadic"
+  ],
+  "jury": null,
+  "spokesperson": "Jacques Harvey"
+}

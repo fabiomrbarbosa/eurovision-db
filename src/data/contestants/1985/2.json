@@ -1,0 +1,59 @@
+{
+  "id": 2,
+  "country": "SE",
+  "artist": "Kikki Danielsson",
+  "song": "Bra vibrationer",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/4HzLAePT-5E",
+    "https://www.youtube-nocookie.com/embed/mYCbZzKptS8",
+    "https://www.youtube-nocookie.com/embed/_-N3QlNaWHw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Bra vibrationer",
+      "content": "Var har du varit någon stans?\nJag vet ju att du fanns, innan jag fick se dig\nVisst fanns det andra i mitt liv\nMen mer än tidsfördriv, det kunde ingen ge mig\n\nMen i dag känner jag något som jag aldrig känt\nJag kan se att de är nåt som hänt\n\nDu ger mig bra vibrationer\nVarje gång du tar min hand i din\nOch varje gång du ler\nSå får jag bra vibrationer\nSom kan leda till nå't mycket mer\nOch jag tror kärleken är på väg med stora steg\n\nVi möttes bara här om dan\nMen jag har blivit van att ha dig i min närhet\nFast du är mera än en vän\nÄr det för tidigt än att kalla det för kärlek\n\nOch vi har mycket kvar, vi har bara börjat nu\nMen i natt vet jag att det är du\n\nSom ger mig bra vibrationer\nVarje gång du tar min hand i din\nOch varje gång du ler\nSå får jag bra vibrationer\nSom kan leda till nå't mycket mer\nOch jag tror kärleken är på väg med stora steg\n\nAtt det kan bli problem, har jag fått lära mig\nOm man är snabb att säga 'ja'\nMen det är faktiskt ganska svårt att säga nej\nNär det är dig jag vill ha\n\nDu ger mig bra vibrationer\nVarje gång du tar min hand i din\nOch varje gång du ler\nSå får jag bra vibrationer\nSom kan leda till nå't mycket mer\nOch jag tror kärleken är på väg med storа ѕteg"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Good Vibrations",
+      "content": "Where have you been?\nI know that you existed, before I got to see you\nOf course there where others in my life\nBut no one could offer me more than pastime\n\nBut today I feel something I've never felt\nI can see, that something has happened\n\nYou give me good vibrations\nEvery time you take my hand in yours\nAnd every time you smile\nI get good vibrations\nThat can lead to something much more\nAnd I think love is on its way, taking big steps\n\nWe just met the other day\nBut I have gotten used to have you around\nEven though you are more than just a friend\nIt is too soon to call it love\n\nAnd we have much left, now we're only at the beginning\nBut tonight, I know, that it'll be you\n\nWho give me good vibrations\nEvery time you take my hand in yours\nAnd everytime you smile\nI get good vibrations\nThat can lead to something much more\nAnd I think love is on its way, taking big steps\n\nThat there might be problems I have learned\nIf someone says 'yes' too soon\nBut it is actually quite hard to say no\nWhen you are the one that I want\n\nYou give me good vibrations\nEvery time you take my hand in yours\nAnd every time you smile\nI get good vibrations\nThat can lead to something much more\nAnd I think love is on its way, tаking big stepѕ"
+    }
+  ],
+  "bpm": 98,
+  "tone": "C major",
+  "artistPeople": [
+    "Ann-Kristin Danielsson-Roos"
+  ],
+  "backings": [
+    "David Johnson",
+    "Lennart Sjöholm",
+    "Liza Öhman",
+    "Lotta Pedersen",
+    "Mary Johnson"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Lasse Holm"
+  ],
+  "conductor": "Curt-Eric Holmquist",
+  "lyricists": [
+    "Ingela Forsman"
+  ],
+  "writers": null,
+  "broadcaster": "SVT",
+  "commentators": [
+    "Fredrik Belfrage"
+  ],
+  "jury": null,
+  "spokesperson": "Agneta Bolme-Börjefors"
+}

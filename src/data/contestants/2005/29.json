@@ -1,0 +1,47 @@
+{
+  "id": 29,
+  "country": "IS",
+  "artist": "Selma",
+  "song": "If I Had Your Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/fa2HRtjxfIc",
+    "https://www.youtube-nocookie.com/embed/QMdoZMvps-E"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "If I had your love",
+      "content": "If I had your love\nYou would be what most inspires me\nSacred soul, fantasy, brightest light\nGuiding me on wings\n\nYou would be the heart inside me\nWhat I'd wish on a star\nAll to me, that is what you are\n\nIf I had your love\nI could live my dream\nFlying high above everything\nIf I had your love\nYou would light my world\nThat would be enough\nIf I had your love\n\nOh... if I held you close\nFeeling your heart beat beside me\nFast asleep, wide awake, every ѕtep\nEvery move I make\n\nIf I had your love\nI could live my dream\nFlying high above everything\nIf I had your love\nYou would light my world\nThat would be enough\nIf I had your love\n\nIf I had your love\nI'd live out my dream\nFlying high above\nOh yeah...\n\nIf I had your love\nI could live my dream\nFlying high above everything\n\nIf I had your love\nYou would light my world\nThat would be enough\nIf I hаd your love"
+    }
+  ],
+  "bpm": 150,
+  "tone": "C# major",
+  "artistPeople": [
+    "Selma Björnsdóttir"
+  ],
+  "backings": [
+    "Regína Ósk"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Vignir Snær Vigfússon",
+    "Þorvaldur Bjarni Þorvaldsson"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Linda Thompson",
+    "Selma Björnsdóttir"
+  ],
+  "writers": null,
+  "broadcaster": "RÚV",
+  "commentators": [
+    "Gísli Marteinn Baldursson"
+  ],
+  "jury": null,
+  "spokesperson": "Ragnhildur Steinunn Jónsdóttir"
+}

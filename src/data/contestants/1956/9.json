@@ -1,0 +1,62 @@
+{
+  "id": 9,
+  "country": "BE",
+  "artist": "Mony Marc",
+  "song": "Le Plus Beau Jour de ma vie",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/BkXU4JAvnks",
+    "https://www.youtube-nocookie.com/embed/cigjO4vaRa0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Le Plus Beau Jour de ma vie",
+      "content": "Les cloches sonnent\nTout carillonne\nLe plus beau jour de ma vie\nAujourd'hui je me marie\nDing dong, ding dong\n\nSi maman pleure\nC'est bientôt l'heure\nEt papa m'offre le bras\nNous partons à petits pas\nDing dong, ding dong\n\nLes tout petits enfants me suivent gravement\nPortant ma robe sous mon voile blanc\nVoici mon Prince Charmant, il sourit tendrement\nJe m'avance vers lui le cœur battant\n\nMinute brève comme en un rêve\nNos deux êtres pleins d'amour\nVont être unis pour toujours\nDing dong, ding dong\n\nQuel instant émouvant\nJe suis tout étourdie\nPuis ta main sur ma main\nSimplement j'ai dit 'oui'\n\nOrgue en sourdine, tout s'illumine\nLe portail est large ouvert\nNous sortons sous le ciel clair\nDing dong, ding dong\n\nOn nous admire et j'entends dire\n\"Regardez, elle est jolie\"\n\"Comme ils sont bien assortis\"\nDing dong, ding dong\n\nUn doux bonheur m'étreint tandis que sur ma main\nTes yeux caressent mon anneau d'or fin\nL'espace d'un instant, je refais le serment\nDe vivre pour t'aimer fidèlement\n\nLes cloches sonnent\nTout carillonne\nPour que jamais je n'oublie\nLe pluѕ beau jour de mа vie\nDing dong, ding dong"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The most beautiful day of my life",
+      "content": "The bells are ringing\nThey're all chiming\nThe most beautiful day of my life\nToday I'm getting married\nDing dong, ding dong\n\nIf mother cries\nThe time has come\nAnd father offers his arm\nWe leave with little steps\nDing dong, ding dong\n\nThe little children follow me gravely\nCarrying my dress under my white veil\nHere is my Charming Prince, he smiles tenderly\nI'm approaching him with pounding heart\n\nA short minute as in a dream\nWe're both full of love\nWe'll always be united\nDing dong, ding dong\n\nWhat a moving moment\nI'm completely absent-minded\nLay your hand on my hand\nI simply said 'yes, I do'\n\nA subdued organ, everything is clearing up\nThe portal is wide open\nWe're leaving under a bright sky\nDing dong, ding dong\n\nThe people admire us and I hear them saying\n\"Look, she's beautiful\"\n\"They match together\"\nDing dong, ding dong\n\nLuck accepts me with open arms\nYour eyes caress my fine golden ring\nThe space of a moment, I remake the oath\nOf living to love you faithfully\n\nThe bells are ringing\nThey're all chiming\nI'll never forget\nThe moѕt beautiful dаy of my life\nDing dong, ding dong"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Лучший день в моей жизни",
+      "content": "Колокола звонят\nВсе звонит\nСамый счастливый день в моей жизни\nСегодня я выхожу замуж\nДинь-дон, динь-дон\n\nЕсли мама плачет\nУже почти время\nИ папа протягивает мне руку\nМы уходим медленными шагами\nДинь-дон, динь-дон\n\nМаленькие дети идут за мной\nВ моем платье под белой вуалью\nА вот и мой прекрасный принц, который нежно улыбается\nЯ иду к нему с бьющимся сердцем\n\nКраткий миг, как сон\nНаши два сердца, полные любви\nСоединятся навсегда\nДинь-дон, динь-дон\n\nКакой трогательный момент\nУ меня так кружится голова\nТвоя рука на моей руке\nЯ просто сказала \"да\"\n\nПриглушенный орган, все вокруг светится\nВорота широко открыты\nМы выходим в чистое небо\nДинь-дон, динь-дон\n\nЛюди восхищаются нами, и я слышу, как они говорят\n\"Смотрите, какая она красивая\n\"Как хорошо они подходят друг другу\"\nДинь-дон, динь-дон\n\nСладкое счастье охватывает меня, когда на моей руке\nТвои глаза ласкают мое кольцо из чистого золота\nНа мгновение я снова даю клятву\nЖить, чтобы верно любить тебя\n\nКолокола звонят\nВсе звонит\nЧтобы я никогда не забывала\nСамый счастливый день в моей жизни\nДинь-дон, динь-дон"
+    }
+  ],
+  "bpm": 107,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Simone Hubertine Léa Marcotty"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Claude Alix"
+  ],
+  "conductor": "Léo Souris",
+  "lyricists": [
+    "David Bee"
+  ],
+  "writers": null,
+  "broadcaster": "NIR",
+  "commentators": [
+    "Piet te Nuyl Jr.",
+    "Raymond Colbert"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

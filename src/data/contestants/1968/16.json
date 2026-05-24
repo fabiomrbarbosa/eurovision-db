@@ -1,0 +1,63 @@
+{
+  "id": 16,
+  "country": "FI",
+  "artist": "Kristina Hautala",
+  "song": "Kun kello käy",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/yvhqQZ0PdOA",
+    "https://www.youtube-nocookie.com/embed/-tG6wgYKqvA",
+    "https://www.youtube-nocookie.com/embed/hN3JMXvW5KI",
+    "https://www.youtube-nocookie.com/embed/Obha23us9Vo"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Kun kello käy",
+      "content": "Ei enempää - ei vähempää, kun lähempää sun nähdä vain saan\nVain olla tässä anna mun - luokses kerran kun jäin niin tahdon nyt näin\nMut silti vain on pelkonain:\n\nKun kello käy, taas liian paljon se lyö\nOn kohta päättynyt yö, taas alkaa arkinen työ\nKun kello käy, niin kohta nähdä saan sen:\nSua löydä viereltäin en\nOi, miksi aika näin kiiruhtaa?\n\nEi enempää - ei vähempää, kun lähempää sun nähdä vain saan\nVain olla tässä anna mun - luokses kerran kun jäin niin tahdon nyt näin\nMut silti vain on pelkonain:\n\nKun kello käy, ja aamun kalpean tois\nEi tähdet hehkuaan lois, käyt niiden kanssa sä pois\nKun kello käy, niin myötä vanhenen sen\nJää aika rakkauden…\nOi, miksei kellot voi - seisahtaa?\n\nVain olla tässä anna mun - luokses kerran kun jäin niin tahdon nyt näin\nMut silti vain on pelkonain:\n\nKun kello käy, taas liian paljon se lyö\nOn kohta päättynyt yö, taas alkaa arkinen työ\nKun kello käy, niin myötä vanhenen sen\nJää aika rakkauden…\nOi, miksei kellot voi - seiѕahtaа?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "When time goes by",
+      "content": "No more - no less, when I can see you closer\nJust let me be here - because once I've stayed with you I want it like this now\nBut still my fear is:\n\nWhen time goes by, the clock strikes too much again\nSoon the night has ended, everyday work rebegins\nWhen time goes by, soon I can see it:\nI don't find you next to me\nOh, why does time run so fast?\n\nNo more - no less, when I can see you closer\nJust let me be here - because once I've stayed with you I want it like this now\nBut still my fear is:\n\nWhen time goes by, and it would bring a pale morning\nThe stars wouldn't shine, you fly away with them\nWhen time goes by, I get older along with it\nThe time of love is left…\nOh, why can't the clocks - stop?\n\nJust let me be here - because once I've stayed with you I want it like this now\nBut still my fear is:\n\nWhen time goes by, the clock strikes too much again\nSoon the night has ended, everyday work rebegins\nWhen time goes by, I get older along with it\nThe time of love is left…\nOh, why cаn't the clocks - ѕtop?"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Vänta och se",
+      "content": "Hej, deppare, nu skakar vi loss\nGå inte här, bitter och tvär\nAtt sörja gamla vänner och snö är ingen affär\nLägg av med det där\nHan stack, din vän, sin väg, än sen?\n\nVänta och se och njut at livet ändå\nOch vet att under kan ske\nDet finns väl värre än så\nVänta och se, en dag så ändrar det sig\nOch något kommer att ske\nTy någon väntar på dig, dig, dig\n\nHej, deppare, nu skakar vi loss\nKärlek och sår kommer och går\nVad har du då för orsak att sörja veckor och år\nDet kommer en vår\nOch bakom den, finns sommaren\n\nVänta och se och njut at livet ändå\nOch vet att under kan ske\nDet finns väl värre än så\nVänta och se, en dag så ändrar det sig\nOch något kommer att ske\nTy någon väntar på dig, dig, dig\n\nVad har du då för orsak att sörja veckor och år\nDet kommer en vår\nOch bakom den, finns sommaren\n\nVänta och se och njut at livet ändå\nOch vet att under kan ske\nDet finns väl värre än så\nVänta och se, en dag så ändrar det sig\nOch något kommer att ѕke\nTy någon väntаr på dig, dig\nDig, dig… dig, dig… dig, dig, dig"
+    }
+  ],
+  "bpm": 78,
+  "tone": "G minor",
+  "artistPeople": [
+    "Kristina Hautala"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Esko Linnavalli"
+  ],
+  "conductor": "Ossi Runne",
+  "lyricists": [
+    "Juha Vainio"
+  ],
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Aarno Walli"
+  ],
+  "jury": null,
+  "spokesperson": "Poppe Berg"
+}

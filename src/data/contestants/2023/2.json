@@ -1,0 +1,242 @@
+{
+  "id": 2,
+  "country": "IL",
+  "artist": "Noa Kirel",
+  "song": "Unicorn",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Z3mIcCllJXY",
+    "https://www.youtube-nocookie.com/embed/r4wbdKmM3bQ",
+    "https://www.youtube-nocookie.com/embed/dT9K7RCHxus",
+    "https://www.youtube-nocookie.com/embed/Nx0kMoyyWbE",
+    "https://www.youtube-nocookie.com/embed/XASeTePlkQw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english",
+        "hebrew"
+      ],
+      "displayedLanguages": null,
+      "title": "Unicorn",
+      "content": "Hey, you don't like the way I'm talking\nHey, so you stand there keep on call me names\nNo, I'm not your enemy so\nIf you're gonna do it, don't do it\n\nHey, do you wanna check my DNA?\nOlder stories, time to go away\nAnd believe in fairytales oh\nIf you're gonna do it…\n\nI'm gonna stand here like a unicorn\nOut here on my own\nI got the power of a unicorn\nDon't you ever learn?\nThat I won't look back\nI won't look down\nI'm going up\nYou better turn around\nThe power of a unicorn\nThe power of a unicorn\n\nHistory caught in a loop\nDon't you wanna change it?\nYou know that we can, you and me\nCan write a new book\nDon't you wanna change it now?\n\nIt's gonna be\nPhenomen-phenomen-phenomenal\nPhenomen-phenomenal\nFeminine-feminine-femininal\n\nI'm gonna stand here like a unicorn\nOut here on my own\nI got the power of a unicorn\nDon't you ever learn?\nThat I won't look back\nI won't look down\nI'm going up\nYou better turn around\nThe power of a unicorn\nThe power of a unicorn\n\nIt's gonna be\nPhenomen-phenomen-phenomenal\nPhenomen-phenomenal\n\n<span class=\"unicorn_hebrew lyrics_right\">אנ׳לא כמו כולם</span>An'lo kmo kulam\n<span class=\"unicorn_hebrew lyrics_right\">מול כול העולם, לא</span>Mul kol ha'olam, lo\n\nIt's gonna be\nPhenomen-phenomen-phenomenal\nPhenomen-phenomenal\n\nYou can call me queen\n<span class=\"unicorn_hebrew lyrics_right\">אין לי דאווין, לא</span>Ein li da'awin, lo\n\nYou wanna see me dance?\nYou wanna see me dance?\nYou wanna see me dance?\nWatch me\n\nIt's gonna be\nU-ni-corn\nU-ni-corn\nU-ni-corn\nU-ni-corn\nI'm standing like a…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "arabic"
+      ],
+      "displayedLanguages": null,
+      "title": "وحيد القرن",
+      "content": "مهلا، لا يعجبك كيف أتكلم\nمهلا، إذاً تقف هناك وتواصل في تسميتي بالألقاب\nلا، لست عدوك\nإذا كنت ستفعل ذلك، فلا تفعله\n\nمهلا، هل ترغب في فحص حمضي النووي؟\nالقصص القديمة، حان وقت الرحيل\nونؤمن بالحكايات الخرافية، أليس كذلك؟\nإذا كنت ستفعل ذلك…\n\nسأقف هنا كوحيد القرن\nهنا بمفردي\nلدي قوة وحيد القرن\nألا تتعلم أبدًا؟\nأنني لن ألتفت للخلف\nو لن أنظر للأسفل\nأنا أتقدم\nعليك أن تلتفت\nقوة وحيد القرن\nقوة وحيد القرن\n\nالتاريخ يتكرر\nألا ترغب في تغييره؟\nتعلم أننا نستطيع، أنت وأنا\nنستطيع كتابة كتاب جديد\nألا ترغب في تغييره الآن؟\n\nسيصبح الأمر\nظاهرة-ظاهرة-ظاهرية\nظاهرة-ظاهرية\nأنوثة-أنوثة-أنوثية\n\nسأقف هنا كوحيد القرن\nهنا بمفردي\nلدي قوة وحيد القرن\nألا تتعلم أبدًا؟\nأنني لن ألتفت للخلف\nو لن أنظر للأسفل\nأنا أتقدم\nعليك أن تلتفت\nقوة وحيد القرن\nقوة وحيد القرن\n\nسيصبح الأمر\nظاهرة-ظاهرة-ظاهرية\nظاهرة-ظاهرية\n\nأنا لست كالآخرين\nأمام العالم كله\n\nسيصبح الأمر\nظاهرة-ظاهرة-ظاهرية\nظاهرة-ظاهرية\n\nيمكنك أن تسميني الملكة\nليس لدي رغبة في التظاهر\n\nهل ترغب في رؤيتي أرقص؟\nهل ترغب في رؤيتي أرقص؟\nهل ترغب في رؤيتي أرقص؟\nشاهدني\n\nسيصبح الأمر\nوحيد القرن\nوحيد القرن\nوحيد القرن\nوحيد القرن\nأنا واقفة ك…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": null,
+      "title": "חד קרן",
+      "content": "היי, ת׳לא אוהב את איך שאני מדברת\nהיי, אז אתה עומד פה ממשיך לקרוא לי בשמות\nלא, אני לא האויבת שלך אז\nאם אתה הולך לעשות את זה, אל תעשה את זה\n\nהיי, אתה רוצה לבדוק לי את ה-די-אן-איי?\nסיפורים ישנים יותר, זמן ללכת\nולהאמין באגדות, או\nאם הולך לעשות את זה…\n\nאני הולכת לעמוד כאן כמו חד קרן\nבחוץ לבדי\nיש לי את הכוח של חד הקרן\nאף פעם אתה לא לומד?\nשלא אסתכל מאחורה\nלא אסתכל למטה\nאני עולה למעלה\nכדאי שתסתובב\nכוחו של חד הקרן\nכוחו של חד הקרן\n\nההיסטוריה נתקעה בלולאה\nאתה לא רוצה לשנות אותה?\nאתה יודע אנחנו, אתה ואני\nיכולים לכתוב ספר חדש\nאתה לא רוצה את זה עכשיו?\n\nזה הולך להיות\nפנומנ-פנומנלי\nפנומנ-פנומנלי\nנשי-נשי-נשי-על\n\nאני הולכת לעמוד כאן כמו חד קרן\nבחוץ לבדי\nיש לי את הכוח של חד הקרן\nאף פעם אתה לא לומד?\nשלא אסתכל מאחורה\nלא אסתכל למטה\nאני עולה למעלה\nכדאי שתסתובב\nכוחו של חד הקרן\nכוחו של חד הקרן\n\nזה הולך להיות\nפנומנלי\nפנומנ-פנומנלי\n\nאנ׳לא כמו כולם\nמול כול העולם, לא\n\nזה הולך להיות\nפנומנלי\nפנומנ-פנומנלי\n\nאתה יכול לקרוא לי מלכה\nאין לי דאווין, לא\n\nאתה רוצה לראות אותי רוקדת?\nאתה רוצה לראות אותי רוקדת?\nאתה רוצה לראות אותי רוקדת?\nתראה אותי\n\nזה הולך להיות\nחד-קרן\nחד-קרן\nחד-קרן\nחד-קרן\nאני הולכת לעמוד פה כמו…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "czech"
+      ],
+      "displayedLanguages": null,
+      "title": "Jednorožec",
+      "content": "Hej, nelíbí se ti, jak mluvím\nHej, takže tam jen postáváš, nadáváš mi\nNe, nejsem tvůj nepřítel, takže\nJestli to uděláš, nedělej to\n\nHej, chceš zkontrolovat mou DNA?\nStarší příběhy, čas odejít\nA věřit v pohádky, oh\nJestli to uděláš…\n\nBudu tu stát jako jednorožec\nTady na vlastní pěst\nMám sílu jednorožce\nTo se nikdy nepoučíš?\nŽe se nekoukám zpátky\n<span class=\"lyrics_question_mark\" title=\"Edit lyrics\"><i class=\"fa fa-question-circle-o\"></i></span>\nStoupám vzhůru\nRadši se otoč\nSíla jednorožce\nSíla jednorožce\n\nHistorie zachycena ve smyčce\nNechceš to změnit?\nVíš, že můžeme, ty a já\nMůžeme napsat novou knihu\nNechceš to teď změnit?\n\nBude to\nFenomen-fenomen-fenomenální\nFenomen-fenomenální\nŽen-žen-ženské\n\nBudu tu stát jako jednorožec\nTady na vlastní pěst\nMám sílu jednorožce\nTo se nikdy nepoučíš?\nŽe se nekoukám zpátky\n<span class=\"lyrics_question_mark\" title=\"Edit lyrics\"><i class=\"fa fa-question-circle-o\"></i></span>\nStoupám vzhůru\nRadši se otoč\nSíla jednorožce\nSíla jednorožce\n\nBude to\nFenomen-fenomen-fenomenální\nFenomen-fenomenální\n\nNejsem jako všichni ostatní\nPřed zbytkem světa\n\nBude to\nFenomen-fenomen-fenomenální\nFenomen-fenomenální\n\nMůžeš mě nazývat královnou\nNesnažím se zapůѕobit\n\nChce mě vidět tančit?\nChce mě vidět tančit?\nChce mě vidět tančit?\nSleduj mě\n\nBude to\nJed-no-ro-žec\nJed-no-ro-žec\nJed-no-ro-žec\nJed-no-ro-žec\nStojím jаko…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "croatian"
+      ],
+      "displayedLanguages": null,
+      "title": "Jednorog",
+      "content": "Hej, ne sviđa ti se kako govorim\nHej, pa stojiš tamo i vrijeđaš me\nNe, nisam tvoj neprijatelj pa\nAko želiš to učiniti, nemoj to učiniti\n\nHej, želiš li provjeriti moj DNK?\nStarije priče, vrijeme je za otići\nI vjerovati u bajke, o\nAko želiš to učiniti…\n\nStajat ću ovdje kao jednorog\nOvdje vani posve sama\nImam moć jednoroga\nZar nikad ne naučiš?\nKako se neću osvrnuti\nNeću pogledati u tlo\nIdem u nebo\nBolje se okreni\nMoć jednoroga\nMoć jednoroga\n\nPovijest uhvaćena u začarani krug\nZar je ne želiš promijeniti?\nZnaš da mi možemo, ti i ja\nMožemo napisati novu knjigu\nZar je ne želiš promijeniti sada?\n\nBit će\nFenomen-fenomen-fenomenalno\nFenomen-fenomenalno\nŽenstveno-ženstveno-ženomenalno\n\nStajat ću ovdje kao jednorog\nOvdje vani posve sama\nImam moć jednoroga\nZar nikad ne naučiš?\nKako se neću osvrnuti\nNeću pogledati u tlo\nIdem u nebo\nBolje se okreni\nMoć jednoroga\nMoć jednoroga\n\nBit će\nFenomen-fenomen-fenomenalno\nFenomen-fenomenalno\n\nNisam kao svi ostali\nIspred cijelog svijeta\n\nBit će\nFenomen-fenomen-fenomenalno\nFenomen-fenomenalno\n\nMožeš me zvati kraljicom\nNe trudim se impreѕionirati\n\nŽeliš me vidjeti kako plešem?\nŽeliš me vidjeti kako plešem?\nŽeliš me vidjeti kako plešem?\nGledaj me\n\nBit će\nJe-dno-rog\nJe-dno-rog\nJe-dno-rog\nJe-dno-rog\nStojim kаo…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Licorne",
+      "content": "Eh, tu n'aimes pas la façon dont je parle\nEh, alors tu restes là, continue à m'appeler par des noms\nNon, je ne suis pas ton ennemi alors\nSi tu allais le faire, ne le fais pas\n\nHey, tu veux vérifier mon ADN ?\nHistoires plus anciennes, il est temps de s'en aller\nEt crois aux contes de fées oh\nSi tu vas le faire…\n\nJe vais rester ici comme une licorne\nIci toute seule\nJ'ai le pouvoir d'une licorne\nVous n'apprendrez donc jamais ?\nJe ne regarderai pas en arrière\nJe ne baisserai pas les yeux\nJe m'élève\nTu ferais mieux de te retourner\nLe pouvoir d'une licorne\nLe pouvoir d'une licorne\n\nL'histoire tourne en rond\nVous ne voulez pas la changer ?\nTu sais que nous le pouvons, toi et moi\nPouvons écrire un nouveau livre\nTu ne veux pas la changer maintenant ?\n\nÇa va être\nPhénomène-phénomène-phénoménal\nPhénomène-phénoménal\nFéminin-féminin-féminin\n\nJe vais rester ici comme une licorne\nIci toute seule\nJ'ai le pouvoir d'une licorne\nVous n'apprendrez donc jamais ?\nQue je ne regarderai pas en arrière\nJe ne baisserai pas les yeux\nJe m'élève\nTu ferais mieux de te retourner\nLe pouvoir d'une licorne\nLe pouvoir d'une licorne\n\nÇa va être\nPhénomène-phénomène-phénoménal\nPhénomène-phénoménal\n\nJe ne suis pas comme tout le monde\nDevant le reste du monde\n\nÇa va être\nPhénomène-phénomène-phénoménal\nPhénomène-phénoménal\n\nTu peux m'appeler reine\nJe n'essaie pas d'impressionner\n\nTu veux me voir danser ?\nTu veux me voir danser ?\nTu veux me voir danser ?\nRegarde moi\n\nÇa vа être\nLicorne\nLicorne\nLicorne\nLicorne\nJe me tienѕ comme une…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": null,
+      "title": "Μονόκερως",
+      "content": "Hey, δεν σου αρέσει ο τρόπος που μιλάω\nHey, όποτε στέκεσαι εκεί και συνεχίζεις να με αποκαλείς ονόματα\nΌχι, δεν είμαι ο εχθρός σου όποτε\nΆμα θα το κάνεις, μην το κάνεις\n\nHey, θες να ελέγξεις το DNA μου\nΠαλιές ιστορίες, ώρα να φύγουν\nΚαι πιστεύω στα παραμύθια oh\nΆμα θα το κάνεις…\n\nΘα σταθώ εδώ σαν ένας μονόκερως\nΕδώ έξω μόνη μου\nΈχω την δύναμη ενός μονόκερου\nΔεν μαθαίνεις ποτέ\nΌτι δεν θα κοιτάξω πίσω\nΔεν θα κοιτάξω κάτω\nΠάω πάνω\nΚαλύτερα να στραφείς άλλου\nΗ δύναμη ενός μονόκερου\nΗ δύναμη ενός μονόκερου\n\nΗ ιστορία πιάστηκε σε μια λούπα\nΔεν θες να το αλλάξεις\nΤο ξέρεις ότι μπορούμε, εσύ και εγώ\nΜπορούμε να γράψουμε ένα νέο βιβλίο\nΔεν θες να το αλλάξεις τώρα\n\nΘα είναι\nΦαινομενο-φαινομενο-φαινομενικό\nΦαινομενο-φαινομενικό\nΦεμινιστι-φεμινιστι-φεμινιστικό\n\nΘα σταθώ εδώ σαν ένας μονόκερως\nΕδώ έξω μόνη μου\nΈχω την δύναμη ενός μονόκερου\nΔεν μαθαίνεις ποτέ\nΌτι δεν θα κοιτάξω πίσω\nΔεν θα κοιτάξω κάτω\nΠάω πάνω\nΚαλύτερα να στραφείς άλλου\nΗ δύναμη ενός μονόκερου\nΗ δύναμη ενός μονόκερου\n\nΘα είναι\nΦαινομενο-φαινομενο-φαινομενικό\nΦαινομενο-φαινομενικό\n\nΔεν είμαι σαν όλους τους άλλους\nΜπροστά στον υπόλοιπο κόσμο\n\nΘα είναι\nΦαινομενο-φαινομενο-φαινομενικό\nΦαινομενο-φαινομενικό\n\nΜπορείς να με αποκαλείς βασίλισσα\nΔεν προσπαθώ να εντυπωσιάσω\n\nΘες να με δεις να χορεύω\nΘες να με δεις να χορεύω\nΘες να με δεις να χορεύω\nΔες με\n\nΘα είναι\nΜο-νο-κερος\nΜο-νο-κερος\nΜο-νο-κερος\nΜο-νο-κερος\nΣτέκομαι σαν ένας…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Unicorn",
+      "content": "Hey, you don't like the way I'm talking\nHey, so you stand there keep on call me names\nNo, I'm not your enemy so\nIf you're gonna do it, don't do it\n\nHey, do you wanna check my DNA?\nOlder stories, time to go away\nAnd believe in fairytales oh\nIf you're gonna do it…\n\nI'm gonna stand here like a unicorn\nOut here on my own\nI got the power of a unicorn\nDon't you ever learn?\nThat I won't look back\nI won't look down\nI'm going up\nYou better turn around\nThe power of a unicorn\nThe power of a unicorn\n\nHistory caught in a loop\nDon't you wanna change it?\nYou know that we can, you and me\nCan write a new book\nDon't you wanna change it now?\n\nIt's gonna be\nPhenomen-phenomen-phenomenal\nPhenomen-phenomenal\nFeminine-feminine-femininal\n\nI'm gonna stand here like a unicorn\nOut here on my own\nI got the power of a unicorn\nDon't you ever learn?\nThat I won't look back\nI won't look down\nI'm going up\nYou better turn around\nThe power of a unicorn\nThe power of a unicorn\n\nIt's gonna be\nPhenomen-phenomen-phenomenal\nPhenomen-phenomenal\n\nI'm not like everybody else\nIn front of the rest of the world, no\n\nIt's gonna be\nPhenomen-phenomen-phenomenal\nPhenomen-phenomenal\n\nYou can call me queen\nI'm not trying to impress, no\n\nYou wanna see me dance?\nYou wanna see me dance?\nYou wanna see me dance?\nWatch me\n\nIt's gonna be\nU-ni-corn\nU-ni-corn\nU-ni-corn\nU-ni-corn\nI'm ѕtanding like а…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "ukrainian"
+      ],
+      "displayedLanguages": null,
+      "title": "Єдиноріг",
+      "content": "Гей, тобі не подобається, як я говорю\nГей, ти продовжуєш обзивати мене\nНі, я тобі не ворог\nЯкщо ти хочеш це робити, не роби цього\n\nГей, ти хочеш перевірити мою ДНК?\nСтарі історії, час піти\nІ вірити в казки, ох\nЯкщо ти хочеш це робити…\n\nЯ буду стояти тут як єдиноріг\nСама по собі\nЯ маю силу єдинорога\nТи ніколи не вивчиш, що\nЯ не буду озиратись\nЯ не буду дивитись вниз\nЯ йду вгору\nА тобі краще обернутися\nСила єдинорога\nСила єдинорога\n\nІсторія ходить кругами\nТи не хочеш це змінити?\nТи знаєш, що ми можемо, ти і я\nМожемо написати нову книгу\nТи не хочеш змінити це зараз?\n\nЦе буде\nФеномен-феномен-феноменально\nФеномен-феноменально\nФемін-фемін-фемінно\n\nЯ буду стояти тут як єдиноріг\nСама по собі\nЯ маю силу єдинорога\nТи ніколи не вивчиш, що\nЯ не буду озиратись\nЯ не буду дивитись вниз\nЯ йду вгору\nА тобі краще обернутися\nСила єдинорога\nСила єдинорога\n\nЦе буде\nФеномен-феномен-феноменально\nФеномен-феноменально\n\nЯ не така як всі\nНа очах у решти світу\n\nЦе буде\nФеномен-феномен-феноменально\nФеномен-феноменально\n\nТи можеш називати мене королевою\nЯ не намагаюся справити враження\n\nХочеш бачити, як я танцюю?\nХочеш бачити, як я танцюю?\nХочеш бачити, як я танцюю?\nДивись\n\nЦе буде\nЄ-ди-но-ріг\nЄ-ди-но-ріг\nЄ-ди-но-ріг\nЄ-ди-но-ріг\nЯ стою як…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Unicorno",
+      "content": "Hey, non ti piace quando parlo\nHey, quindi te ne stai lì, vai avanti, insultami\nNo, non sono il tuo nemico quindi\nSe hai intenzione di farlo, non farlo\n\nHey, vuoi dare un'occhiata al mio DNA?\nStorie vecchie, tempo di andarsene\nE credi nelle favole, oh\nSe hai intenzione di farlo…\n\nMe ne starò qui come un unicorno\nQua per conto mio\nHo il potere di un unicorno\nNon impari mai?\nChe io non mi guarderò mai indietro\nNon abbasserò mai lo sguardo\nMi sto innalzando\nTi conviene voltare le spalle\nIl potere di un unicorno\nIl potere di un unicorno\n\nLa storia bloccata in un loop\nNon la vuoi cambiare?\nLo sai che possiamo, io e te\nPossiamo scrivere un nuovo libro\nNon la vuoi cambiare ora?\n\nSarà\nFenomen-fenomen-fenomenale\nFenomen-fenomenale\nFemminil-femminil-femmininale\n\nMe ne starò qui come un unicorno\nQua per conto mio\nHo il potere di un unicorno\nNon impari mai?\nChe io non mi guarderò mai indietro\nNon guarderò in basso\nMi sto elevando\nTi conviene voltare le spalle\nIl potere di un unicorno\nIl potere di un unicorno\n\nSarà\nFenomen-fenomen-fenomenale\nFenomen-fenomenale\n\nNon sono come tutti gli altri\nDi fronte al resto del mondo\n\nSarà\nFenomen-fenomen-fenomenale\nFenomen-fenomenale\n\nPuoi chiamarmi regina\nNon m'importa di stupire\n\nVuoi guardarmi ballare?\nVuoi guardarmi ballare?\nVuoi guardarmi ballare?\nGuardami\n\nSаrà\nUnicorno\nUnicorno\nUnicorno\nUnicorno\nMe ne ѕto come un…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "armenian"
+      ],
+      "displayedLanguages": null,
+      "title": "Միաեղջուր",
+      "content": "Հեյ, դու չես հավանում իմ խոսքը\nՀեյ, դու իմ մասին վատ բաներ ես ասում\nՈչ, ես քո թշնամին չեմ\nԵթե որոշել ես անել ինչ-որ բան, մի արա\n\nՀեյ, ուզու՞մ ես ստուգել իմ ԴՆԹ-ն\nՀին պատմություններ, ժամանակը անցնում է\nՈւ հավատում ես հեքիաթների\nԵթե որոշել ես անել\n\nԵս կանգնած եմ ինչպես միաեղջուր\nԱյստեղ միայնակ\nԻմ մեջ է միաեղջուրի ուժը\nՉես հասկանու՞մ\nՈր ես հետ չեմ քաշվի\nՆերքև չեմ նայի\nՎերև կգնամ\nԱվելի լավ է շրջվիր\nՄիաեղջուրի ուժը\nՄիաեղջուրի ուժը\n\nՊատմությունը կրկնվում է\nՈւզո՞ւմ ես փոխել այն\nԳիտես որ մենք կարող ենք՝ ես ու դու\nԿարող ենք նոր գիրք գրել\nՈւզում ես փոխել հենց հիմա։\n\nԼինելու է\nԲացա-բացա-բացառիկ\nԲացառիկ-բացառիկ\nԿանացի-կանացի-կանացի\n\nԵս կանգնած եմ ինչպես միաեղջուր\nԱյստեղ միայնակ\nԻմ մեջ է միաեղջուրի ուժը\nՉես հասկանու՞մ\nՈր ես հետ չեմ քաշվի\nՆերքև չեմ նայի\nՎերև կգնամ\nԱվելի լավ է շրջվիր\nՄիաեղջուրի ուժը\nՄիաեղջուրի ուժը\n\nԼինելու է\nԲացա-բացա-բացառիկ\nԲացառիկ-բացառիկ\n\nԵս ոչ մեկին նման չեմ\nԲոլորի աչքի առաջ\n\nԼինելու է\nԲացա-բացա-բացառիկ\nԲացառիկ-բացառիկ\n\nԴու ինձ անվանում ես թագուհի\nԵս չեմ փորձում տպավորել\n\nՈ՞ւզում ես տեսնել ինչպես եմ պարում\nՈ՞ւզում ես տեսնել ինչպես եմ պարում\nՈ՞ւզում ես տեսնել ինչպես եմ պարում\nՆայիր\n\nԼինելու է\nՄի-ա-եղ-ջուր\nՄի-ա-եղ-ջուր\nՄի-ա-եղ-ջուր\nՄի-ա-եղ-ջուր\nԵս կանգնած եմ ինչպես"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "danish"
+      ],
+      "displayedLanguages": null,
+      "title": "Enhjørning",
+      "content": "Hey, du kan ikke lide den måde, jeg taler på\nHey, så du står der, bliver ved med at kalde mig øgenavne\nNej, jeg er ikke din fjende, så\nHvis du vil gøre det, så lad være\n\nHey, vil du tjekke mit DNA?\nÆldre historier, tid til at forsvinde\nOg tro på eventyr åh\nHvis du vil gøre det…\n\nJeg vil stå her som en enhjørning\nHerude på egen hånd\nJeg har en enhjørnings styrke\nLærer du det aldrig?\nAt jeg ikke vil se tilbage\nJeg vil ikke se ned\nJeg går op\nDu må hellere vende om\nEn enhjørnings styrke\nEn enhjørnings styrke\n\nHistorien er fanget i en gentagelse\nVil du ikke ændre det?\nDu ved, at vi kan, dig og mig\nVi kan skrive en ny bog\nVil du ikke ændre det nu?\n\nDet bliver\nFænomen-fænomen-fænomenalt\nFænomen fænomenalt\nFeminin-feminin-feminint\n\nJeg vil stå her som en enhjørning\nHerude på egen hånd\nJeg har en enhjørnings styrke\nLærer du aldrig?\nAt jeg ikke vil se tilbage\nJeg vil ikke se ned\nJeg går op\nDu må hellere vende om\nEn enhjørnings styrke\nEn enhjørnings styrke\n\nDet bliver\nFænomen-fænomen-fænomenalt\nFænomen-fænomenalt\n\nJeg er ikke som alle andre\nForan resten af verden\n\nDet bliver\nFænomen-fænomen-fænomenalt\nFænomen-fænomenalt\n\nDu kan kalde mig dronning\nJeg prøver ikke at imponere\n\nVil du se mig danse?\nVil du se mig danse?\nVil du se mig dаnse?\nSe mig\n\nDet bliver\nEn-hjør-ning\nEn-hjør-ning\nEn-hjør-ning\nEn-hjør-ning\nJeg står ѕom en…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Yksisarvinen",
+      "content": "Hei, et tykkää siitä miten puhun\nHei, joten seisot täällä haukkuen minua\nEi, en ole vihollisesi joten\nJos aiot tehdä sen, älä tee sitä\n\nHei, haluatko testata DNA:ni?\nVanhempia tarinoita, aika lähteä pois\nJa uskoa satuihin oh\nJos aiot tehdä sen…\n\nAion siestä täällä kuin yksisarvinen\nTäällä aivan yksinäni\nMinulla on yksisarvisen voima\nEtkö ikinä opi?\nEttä en aio katsoa taakse\nEn aio katsoa alas\nMenen ylös\nSinun kannattaa kääntyä ympäri\nYksisarvisen voima\nYksisarvisen voima\n\nHistoria on jäänyt silmukkaan\nEtkö halua vaihtaa sen?\nTiedät että me voidaan, sinä ja minä\nVoidaan kirjoittaa uusi kirja\nEtkö halua vaihtaa sen nyt?\n\nSe tulee olemaan\nIlmiö-ilmiö-ilmiömäistä\nIlmiö-ilmiömäistä\nNaise-naise-naisellista\n\nAion siestä täällä kuin yksisarvinen\nTäällä aivan yksinäni\nMinulla on yksisarvisen voima\nEtkö ikinä opi?\nEttä en aio katsoa taakse\nEn aio katsoa alas\nMenen ylös\nSinun kannattaa kääntyä ympäri\nYksisarvisen voima\nYksisarvisen voima\n\nSe tulee olemaan\nIlmiö-ilmiö-ilmiömäistä\nIlmiö-ilmiömäistä\n\nEn ole kuin kaikki muut\nLoppu maailman edessä, ei\n\nSe tulee olemaan\nIlmiö-ilmiö-ilmiömäistä\nIlmiö-ilmiömäistä\n\nVoit kutsua minua kuningattareksi\nEn yritä tehdä vaikutusta, ei\n\nHaluatko nähdä minun tanssivan?\nHaluatko nähdä minun tanssivan?\nHaluatko nähdä minun tanssivan?\nKatso minua\n\nSe tulee olemaan\nY-ksi-sar-vi-nen\nY-ksi-sar-vi-nen\nY-ksi-sar-vi-nen\nYk-si-sаr-vi-nen\nSeiѕon kuin…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "thai"
+      ],
+      "displayedLanguages": null,
+      "title": "ยูนิคอร์น",
+      "content": "เฮ้ คุณไม่ชอบวิธีการพูดของฉัน\nเฮ้ งั้นคุณยืนอยู่ที่นั่นและไม่หยุดล้อเลียนฉัน\nไม่ ฉันไม่ใช่ศัตรูของคุณเลย\nถ้าคุณจะทำมัน ก็อย่าทำ\n\nเฮ้ คุณอยากตรวจดูดีเอ็นเอของฉันเหรอ?\nเรื่องเก่า ๆ ถึงเวลาจากไปแล้ว\nและเชื่อในนิทานเสือก\nถ้าคุณกำลังจะทำมัน…\n\nฉันจะยืนอยู่ที่นี่เหมือนยูนิคอร์น\nอยู่ที่นี่คนเดียว\nฉันมีพลังของยูนิคอร์น\nคุณไม่เคยรู้เรื่องหรือเปล่า?\nว่าฉันจะไม่มองหลัง\nฉันจะไม่มองลง\nฉันจะขึ้น\nคุณดีกว่าหันไป\nพลังของยูนิคอร์น\nพลังของยูนิคอร์น\n\nประวัติศาสตร์ติดอยู่ในวนซ้ำ\nคุณอยากเปลี่ยนมันไหม?\nคุณรู้ว่าเราสามารถทำได้ คุณและฉัน\nสามารถเขียนหนังสือใหม่\nคุณอยากเปลี่ยนมันตอนนี้ไหม?\n\nมันจะเป็น\nมหัศจรรย์ มหัศจรรย์ มหัศจรรย์\nมหัศจรรย์ มหัศจรรย์\nผู้หญิง ผู้หญิง ของผู้หญิง\n\nฉันจะยืนอยู่ที่นี่เหมือนยูนิคอร์น\nอยู่ที่นี่คนเดียว\nฉันมีพลังของยูนิคอร์น\nคุณไม่เคยรู้เรื่องหรือเปล่า?\nว่าฉันจะไม่มองหลัง\nฉันจะไม่มองลง\nฉันจะขึ้น\nคุณดีกว่าหันไป\nพลังของยูนิคอร์น\nพลังของยูนิคอร์น\n\nมันจะเป็น\nมหัศจรรย์ มหัศจรรย์ มหัศจรรย์\nมหัศจรรย์ มหัศจรรย์\n\nฉันไม่เหมือนทุกคน\nต่อต้านโลกทั้งใบ\n\nมันจะเป็น\nมหัศจรรย์ มหัศจรรย์ มหัศจรรย์\nมหัศจรรย์ มหัศจรรย์\n\nคุณสามารถเรียกฉันว่าราชินี\nฉันไม่พยายามที่จะประทับใจ\n\nคุณอยากเห็นฉันเต้นไหม?\nคุณอยากเห็นฉันเต้นไหม?\nคุณอยากเห็นฉันเต้นไหม?\nดูฉันสิ\n\nมันจะเป็น\nยู-นิ-คอร์น\nยู-นิ-คอร์น\nยู-นิ-คอร์น\nยู-นิ-คอร์น\nฉันยืนเหมือน…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "slovene"
+      ],
+      "displayedLanguages": null,
+      "title": "Samorog",
+      "content": "Hej, ni ti všeč, kako govorim\nHej, stojiš tam in me žališ\nNe, nisem tvoj sovražnik\nČe hočeš to storiti, tega ne počni\n\nHej, ali želiš preveriti moj DNK?\nStarejše zgodbe, čas je, da greva\nIn verjeti v pravljice\nČe želiš to storiti…\n\nTukaj bom stala kot samorog\nPovsem sama tukaj\nImam moč samoroga\nSe nikoli ne naučiš?\nKer se ne bom ozrla nazaj\nNe bom gledala v tla\nV nebesa grem\nRaje se obrni stran\nMoč samoroga\nMoč samoroga\n\nZgodovina ujeta v začaran krog\nAli ga ne želiš spremeniti?\nVeš, da lahko, jaz in ti\nLahko napiševa novo knjigo\nAli je ne želiš spremeniti zdaj?\n\nBilo bo\nFenomen-fenomen-fenomenalno\nFenomen-fenomenalno\nŽenstveno-ženstveno-žennstveno\n\nTukaj bom stala kot samorog\nPovsem sama tukaj\nImam moč samoroga\nSe nikoli ne naučiš?\nKer se ne bom ozrla nazaj\nNe bom gledala v tla\nV nebesa grem\nRaje se obrni stran\nMoč samoroga\nMoč samoroga\n\nBo\nFenomen-fenomen-fenomenalnk\nFenomen-fenomenalno\n\nNisem kot vsi ostali\nPred celim svetom\n\nBo\nFenomen-fenomen-fenomenalno\nFenomen-fenomenalno\n\nLahko me kličeš kraljica\nNe poskušam narediti vtisa\n\nMe hočeš videti plesati?\nMe hočeš videti plesati?\nMe hočeš videti pleѕati?\nPoglej me\n\nBo\nSamorog\nSamorog\nSamorog\nSаmorog\nStojim kot…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "catalan"
+      ],
+      "displayedLanguages": null,
+      "title": "Unicorn",
+      "content": "Ei, no t'agrada la manera com parlo\nEi, així que estàs allà, segueix, insulta'm\nNo, no soc la teva enemiga així que\nSi vas a fer-ho, no ho facis\n\nEi, vols comprovar el meu ADN?\nHistòries més antigues, hora de marxar\nI creure en contes de fades oh\nSi vas a fer-ho…\n\nEm quedaré aquí com un unicorn\nAquí fora, tota sola\nTinc el poder d'un unicorn\nÉs que mai aprens?\nQue no miraré enrere\nNo miraré avall\nVaig cap amunt\nVal més que et giris\nEl poder d'un unicorn\nEl poder d'un unicorn\n\nHistòria atrapada en un bucle\nNo vols canviar-la?\nSaps que podem, tu i jo\nPodem escriure un nou llibre\nNo vols canviar-la ara?\n\nSerà\nFenomen-fenomen-fenomenal\nFenomen-fenomenal\nFemení-femení-femeninal\n\nEm quedaré aquí com un unicorn\nAquí fora, tota sola\nTinc el poder d'un unicorn\nÉs que mai aprens?\nQue no miraré enrere\nNo miraré avall\nVaig cap amunt\nVal més que et giris\nEl poder d'un unicorn\nEl poder d'un unicorn\n\nSerà\nFenomen-fenomen-fenomenal\nFenomen-fenomenal\n\nNo soc com tots els altres\nDavant de la resta del món\n\nSerà\nFenomen-fenomen-fenomenal\nFenomen-fenomenal\n\nPots dir-me reina\nNo estic intentant impressionar\n\nVols veure'm ballar?\nVols veure'm ballar?\nVolѕ veure'm ballar?\nMira'm\n\nSerà\nU-ni-corn\nU-ni-corn\nU-ni-corn\nU-ni-corn\nEm quedo аquí com un…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "Eenhoorn",
+      "content": "Hoi, jij vind de manier hoe ik praat niet leuk\nHoi, dus je staat daar en blijft mij namen noemen\nNee, ik ben niet je vijand dus\nAls je het gaat doen, doe het niet\n\nHoi, wil je mijn DNA controleren\nOudere verhalen, tijd om weg te gaan\nEn geloven in sprookjes, oh\nAls je het gaat doen\n\nIk ga hier staan als een eenhoorn\nHier in mijn eentje\nIk heb de kracht van een eenhoorn\nLeer je het niet?\nDat ik niet terug kijk\nIk niet naar beneden krijg\nIk ga omhoog\nJe zou better omdraaien\nDe kracht van een eenhoorn\nDe kracht van een eenhoorn\n\nGeschiedenis vast in een loop\nWil je het niet veranderen?\nJe weet dat wij het kunnen, jij en ik\nKunnen een boek schrijven\nWil je het niet veranderen nu?\n\nHet wordt\nFenomeen-fenomeen-fenomenaal\nFenomeen-Fenomenal\nVrouw-vrouw-vrouwelijk\n\nIk ga hier staan als een eenhoorn\nHier in mijn eentje\nIk heb de kracht van een eenhoorn\nLeer je het niet?\nDat ik niet terug kijk\nIk niet naar beneden krijg\nIk ga omhoog\nJe zou better omdraaien\nDe kracht van een eenhoorn\nDe kracht van een eenhoorn\n\nHet wordt\nFenomeen-fenomeen-fenomeenaal\nFenomeen-Fenomenal\n\nIk ben niet zoals iedereen\nAan de voorkant van de rest van de wereld\n\nHet wordt\nFenomeen-fenomeen-fenomenaal\nFenomeen-Fenomenaal\n\nJij kan mij koningin noemen\nIk probeer geen indruk te maken\n\nJe wilt me zien dansen?\nJe wilt me zien dansen?\nJe wilt me zien dansen?\nKijk naar mij\n\nHet wordt\nEen-hoorn\nEen-hoorn\nEen-hoorn\nEen-hoorn\nIk sta hier аlѕ een…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Единорог",
+      "content": "Эй, тебе не нравится как я говорю\nЭй, ты стоишь здесь и обзываешь меня\nНет, я не твой враг так что\nЕсли ты собираешься сделать это, не делай\n\nЭй, ты хочешь проверить моё ДНК\nСтарые истории, время уходить\nИ вера в сказки, ох\nЕсли ты собираешься сделать это…\n\nЯ буду стоять здесь как единорог\nСама по себе\nУ меня сила Единорога\nТы когда нибудь поймёшь это?\nЧто я не буду оглядываться\nЯ не буду смотреть вниз\nЯ иду выше\nТебе лучше обернуться\nСила единорога\nСила единорога\n\nИстория идёт по кругу\nНе хочешь ли ты её изменить?\nТы знаешь что мы можем, ты и я\nНаписать новую книгу\nНе хочешь ли ты её изменить сейчас?\n\nЭто будет\nФеномен-феномен-феноменально\nФеномен-феноменально\nФемине-фемине-феминанал\n\nЯ буду стоять здесь как единорог\nСама по себе\nУ меня сила Единорога\nТы когда нибудь поймёшь это?\nЧто я не буду оглядываться\nЯ не буду смотреть вниз\nЯ иду выше\nТебе лучше обернуться\nСила единорога\nСила единорога\n\nЭто будет\nФеномен-феномен-феноменально\nФеномен-феноменально\n\nЯ не такая как все\nНа глазах у всего мира\n\nЭто будет\nФеномен-феномен-феноменально\nФеномен-феноменально\n\nТы можешь называть меня королевой\nЯ не против\n\nТы хочешь увидеть, как я танцую?\nТы хочешь увидеть, как я танцую?\nТы хочешь увидеть, как я танцую?\nНу смотри\n\nЭто будет\nЕ-ди-но-рог\nЕ-ди-но-рог\nЕ-ди-но-рог\nЕ-ди-но-рог\nЯ стою как…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "turkish"
+      ],
+      "displayedLanguages": null,
+      "title": "Tek Boynuzlu At",
+      "content": "Hey, böyle konuşmam hoşuna gitmiyor\nHey, orada dikilip bana ağzına geleni söylemeye devam et\nHayır, öyle düşmanın değilim\nEğer sen onu yapacaksan, yapma\n\nHey, DNA'mı kontrol etmek ister misin?\nDaha eski hikâyeler, uzaklaşma zamanı\nPeri masallarına inan, evet\nEğer sen onu yapacaksan…\n\nBen tek boynuzlu at gibi burada dikileceğim\nKendi başıma alışılmışın dışında\nTek boynuzlu atın gücüne sahibim\nSen hiç öğrenmedin mi?\nGeri dönüp bakamam ki\nAşağı bakamam\nYükseliyorum\nArkana dönsen iyi olur\nTek boynuzlu atın gücü\nTek boynuzlu atın gücü\n\nTarih bir döngüye yakalandı\nOnu değiştirmek istemez misin?\nBiliyorsun ki yapabiliriz, sen ve ben\nYeni bir kitap yazabiliriz\nŞimdi onu değiştirmek istemez misin?\n\nOlacak\nOlağan-olağan-olağanüstü\nOlağan-olağanüstü\nKadın-kadın-kadınsı\n\nBen tek boynuzlu at gibi burada dikileceğim\nKendi başıma alışılmışın dışında\nTek boynuzlu atın gücüne sahibim\nSen hiç öğrenmedin mi?\nGeri dönüp bakamam ki\nAşağı bakamam\nYükseliyorum\nArkana dönsen iyi olur\nTek boynuzlu atın gücü\nTek boynuzlu atın gücü\n\nOlacak\nOlağan-olağan-olağanüstü\nOlağan-olağanüstü\n\nBaşkaları gibi değilim\nDünyanın geri kalanının önünde\n\nOlacak\nOlağan-olağan-olağanüstü\nOlağan-olağanüstü\n\nBeni kraliçe olarak çağırabilirsin\nSeni etkilemeye çalışmıyorum\n\nBeni dans ederken görmek ister misin?\nBeni dans ederken görmek ister misin?\nBeni dans ederken görmek ister miѕin?\nBeni izle\n\nOlacak\nTek-boynuzlu-at\nTek-boynuzlu-at\nTek-boynuzlu-at\nTek-boynuzlu-аt\nDikileceğim bir …"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Einhorn",
+      "content": "Hey, dir gefällt die Art, wie ich spreche, nicht\nHey, darum stehst du da und beleidigst mich fortwährend\nNein, ich bin nicht dein Feind, also\nWenn du das machen willst, lass es\n\nHey, willst du meine DNA überprüfen?\nÄltere Geschichten, Zeit wegzugehen\nUnd glaubst an Märchen, oh\nWenn du das machen willst…\n\nIch stehe hier wie ein Einhorn\nHier draußen auf mich gestellt\nIch habe die Kraft eines Einhorns\nWirst du das jemals lernen?\nDass ich nicht zurückblicke\nIch werde nicht nach unten schauen\nIch gehe aufwärts\nDu drehst also besser um\nDie Kraft eines Einhorns\nDie Kraft eines Einhorns\n\nGeschichte gefangen in einer Schleife\nWillst du das nicht ändern?\nDu weißt, das wir das können, du und ich\nEin neues Buch schreiben können\nWillst du das nicht jetzt ändern?\n\nEs wird\nPhänomen-phänomen-phänomenal werden\nPhänomen-phänomenal\nFeminin-feminin-femininal\n\nIch stehe hier wie ein Einhorn\nHier draußen auf mich gestellt\nIch habe die Kraft eines Einhorns\nWirst du das jemals lernen?\nDass ich nicht zurückblicke\nIch werde nicht nach unten schauen\nIch gehe aufwärts\nDu drehst also besser um\nDie Kraft eines Einhorns\nDie Kraft eines Einhorns\n\nEs wird\nPhänomen-phänomen-phänomenal werden\nPhänomen-phänomenal\n\nIch bin nicht wie jede andere\nVor dem Rest der Welt\n\nEs wird\nPhänomen-phänomen-phänomenal werden\nPhänomen-phänomenal\n\nDu kannst mich Königin nennen\nIch versuche nicht, zu beeindrucken\n\nWillst du sehen, wie ich tanze?\nWillst du sehen, wie ich tanze?\nWillst du sehen, wie ich tanze?\nSchаu mir zu\n\nEs wird\nEin-horn\nEin-horn\nEin-horn\nEin-horn\nIch ѕtehe wie ein …"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Unicornio",
+      "content": "Hey, no te gusta como hablo\nHey, así que quédate ahí y sigue insultándome\nNo, no soy tu enemigo así que\nSi vas a hacerlo, no lo hagas\n\nHey, ¿quieres comprobar mi ADN?\nHistorias viejas, hora de irse\nY creer en cuentos de hadas oh\nSi vas a hacerlo…\n\nVoy a quedarme aquí como un unicornio\nAquí afuera por mi cuenta\nTengo el poder de un unicornio\n¿Nunca aprendes?\nQue no miraré atrás\nNo miraré hacia abajo\nVoy a subir\nSerá mejor que te des la vuelta\nEl poder de un unicornio\nEl poder de un unicornio\n\nLa historia atrapada en un bucle\n¿No quieres cambiarlo?\nSabes que podemos, tú y yo\nPodemos escribir un nuevo libro\n¿No quieres cambiarlo ahora?\n\nSerá\nFenomen-fenomen-fenomenal\nFenomen-fenomenal\nFemenino-femenino-femininal\n\nVoy a estar aquí como un unicornio\nAquí fuera por mi cuenta\nTengo el poder de un unicornio\n¿Nunca aprendes?\nQue no miraré atrás\nNo miraré hacia abajo\nVoy a subir\nSerá mejor que te des la vuelta\nEl poder de un unicornio\nEl poder de un unicornio\n\nVa a ser\nFenómeno-fenómeno-fenómeno\nFenomenal-fenomenal\n\nNo soy como los demás\nFrente al resto del mundo\n\nVa a ser\nFenómeno-fenómeno-fenomenal\nFenomenal-fenomenal\n\nPuedes llamarme reina\nNo estoy tratando de impresionar\n\n¿Quieres verme bailar?\n¿Quieres verme bailar?\n¿Quieres verme bailar?\nMírame\n\nVa а ser\nU-ni-cornio\nU-ni-cornio\nU-ni-cornio\nU-ni-cornio\nEѕtoy en pie como…"
+    }
+  ],
+  "bpm": 130,
+  "tone": "F# minor",
+  "artistPeople": [
+    "Noya Kirel"
+  ],
+  "backings": null,
+  "dancers": [
+    "Amit Gueta",
+    "Eden Shama",
+    "Niv Elbaz",
+    "Rephael Binyamin",
+    "Zohar Fizitski"
+  ],
+  "stageDirector": "Avichai Hacham",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Doron Medalie",
+    "May Sfadia",
+    "Noa Kirel",
+    "Yinon Yahel"
+  ],
+  "broadcaster": "KAN",
+  "commentators": [
+    "Akiva Novik",
+    "Asaf Liberman",
+    "Doron Medalie"
+  ],
+  "jury": [
+    "Adi Perry Cohen",
+    "Amir Ben-David",
+    "Ron Biton",
+    "Tal Argaman Peleg",
+    "Yasmin Ishbi"
+  ],
+  "spokesperson": "Ilanit"
+}

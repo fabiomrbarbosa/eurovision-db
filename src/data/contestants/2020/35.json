@@ -1,0 +1,63 @@
+{
+  "id": 35,
+  "country": "SI",
+  "artist": "Ana Soklič",
+  "song": "Voda",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/weLeotNwexg",
+    "https://www.youtube-nocookie.com/embed/JOdI-gFrYaQ",
+    "https://www.youtube-nocookie.com/embed/PLy9DujswzM",
+    "https://www.youtube-nocookie.com/embed/Tkyk7kmPyTk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "slovene"
+      ],
+      "displayedLanguages": null,
+      "title": "Voda",
+      "content": "Greva naprej\nV novi čas\nZbeživa od tu\nDaleč stran\nNe ustavljajva se\nPrav nikjer\nDolga bo noč\n\nTi slišiš, ko mi bije razum\nTa nemir\nVes ta zvok\nIn pusti jih, naj pravijo vse\nTi kot nomad dobro veš\nDa od besed do dejanj najdaljša je pot\n\nVoda\nMed nevihto obležim v tebi do konca\nVoda drvi\nA ne zmore v naju dva\nA ne zmore v naju dva\n\nPeljiva naprej\nV drugo smer\nDalj od luči\nPrepričanj\nTam je strgan stol\nKi ѕtoji\nIn čaka nekoga\nČaka otroka\n\nVoda\nMed nevihto obležim v tebi do konca\nVoda drvi\nA ne zmore v naju dva\nA ne zmore v naju dvа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Water",
+      "content": "Let's keep marching\nInto a new time\nLet's get out of here\nFar away\nLet's not rest\nAnywhere\nIt will be a long night\n\nYou can hear the ticking of my mind\nThis restlessness\nAll that noise\nLet them say what they want\nAs a nomad, you know well\nThat the longest path is the one that leads from words to action\n\nWater\nThroughout the storm, I lie in you until the end\nWater is springing\nBut it can't reach the two of us\nBut it can't reach the two of us\n\nLet's change\nThe bearing\nAway from the lights\nConvictions\nThere is a broken chair\nStanding there\nWaiting for someone\nWaiting for a child\n\nWater\nThroughout the storm, I lie in you until the end\nWater is springing\nBut it can't reach the two of us\nBut it can't reаch the two of uѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Vesi",
+      "content": "Jatketaan marssimista\nKohti uutta aikaa\nLähdetään täältä\nKauas pois\nÄlkäämme levätkö\nMissään\nTästä tulee pitkä yö\n\nVoit kuulla mieleni tikittävän\nTämän levottomuuden\nKaiken sen melun\nAntaa heidän puhua mitä haluavat\nNomadina tiedät hyvin\nEttä pisin matka on se, joka vie sanoista tekoihin\n\nVesi\nMyrskyn halki, lepään sinussa loppuun asti\nVesi pulppuaa\nMutta se ei yllä meihin kahteen\nMutta se ei yllä meihin kahteen\n\nMuutetaan\nSuuntaa\nPois valojen alta\nUskomukset\n<span class=\"lyrics_question_mark\" title=\"Edit lyrics\"><i class=\"fa fa-question-circle-o\"></i></span>\n<span class=\"lyrics_question_mark\" title=\"Edit lyrics\"><i class=\"fa fa-question-circle-o\"></i></span>\nOdottaen jotakuta\nOdottaen lasta\n\nVesi\nMyrskyn halki, lepään sinussa loppuun asti\nVesi pulppuaa\nMutta se ei yllä meihin kahteen\nMutta ѕe ei yllä meihin kаhteen"
+    }
+  ],
+  "bpm": 128,
+  "tone": "D minor",
+  "artistPeople": [
+    "Ana Soklič"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ana Soklič",
+    "Bojan Simončič",
+    "Žiga Pirnat"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Ana Soklič"
+  ],
+  "writers": null,
+  "broadcaster": "RTVSLO",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

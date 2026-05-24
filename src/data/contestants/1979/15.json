@@ -1,0 +1,58 @@
+{
+  "id": 15,
+  "country": "MC",
+  "artist": "Laurent Vaguener",
+  "song": "Notre vie c'est la musique",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/53OdfcR1eVo",
+    "https://www.youtube-nocookie.com/embed/cduINUBZF3M",
+    "https://www.youtube-nocookie.com/embed/VB5rqAhNmZ8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Notre vie c'est la musique",
+      "content": "J'aime les guitares de rock 'n' roll\nToutes les chansons un peu folles d'Angleterre et d'Amérique\nJ'aime tous les vieux Blues de Harlem\nLes discos qui nous entraînent au delà de l'Atlantique\n\nJ'aime le samedi soir à Paris\nSur les boulevards de la nuit, quand on voit passer les filles\nJ'aime les motos dans la folie\nOn se retrouve entre amis pour jouer la fureur de vivre\nVivre\n\nHey! Notre vie c'est la musique\nDélirante ou romantique, et depuis toujours on l'aime\nHey! Notre vie c'est la musique\nFantastique ou nostalgique – elle est toujours la plus belle\n\nJ'aime les pianos désaccordés\nTous les violons trafiqués dans un studio sur la Seine\nJ'aime quand une fille aime bien la vie folle des musiciens\nQuand elle vient me dire: \"Je t'aime\"\nOh... je t'aime\n\nHey! Notre vie c'est la musique\nDélirante ou romantique, et depuis toujours on l'aime\nHey! Notre vie c'est la musique\nFantastique ou nostalgique – elle est toujours la plus belle\n\nHey! Notre vie c'est la musique\nFantastique ou nostalgique, et depuis toujours on l'aime\nHey! Notre vie c'est la musique\nFantastique ou nostalgique – elle est toujours lа pluѕ belle"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Our life is music",
+      "content": "I love the guitars of rock 'n' roll\nAll the slightly wild songs from England and America\nI love all the old Blues of Harlem\nThe disco that pulled us away from the Atlantic\n\nI love the Saturday nights in Paris\nIn the boulevards at night, looking at the passing girls\nI madly love motorcycles\nBeing between friends to play the anger of living\nLiving\n\nHey! Our life is music\nCrazy or romantic, and we've always loved it\nHey! Our life is music\nFantastic or nostalgic – it's always the most beautiful\n\nI love the untuned pianos\nAll the trafficed violins in a studio on the Seine\nI love it when a girl loves the crazy life of the musicians\nWhen she comes to tell me: \"I love you\"\nOh... I love you\n\nHey! Our life is music\nCrazy or romantic, and we've always loved it\nHey! Our life is music\nFantastic or nostalgic – it's always the most beautiful\n\nHey! Our life is music\nFantastic or nostalgic, and we've always loved it\nHey! Our life is music\nFantastic or nostalgic – it's always the moѕt beаutiful"
+    }
+  ],
+  "bpm": 145,
+  "tone": "A minor",
+  "artistPeople": [
+    "Jean Baudlot"
+  ],
+  "backings": [
+    "Georges Costa",
+    "Michel Costa"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jean Baudlot",
+    "Paul de Senneville"
+  ],
+  "conductor": "Gérard Salesse",
+  "lyricists": [
+    "Didier Barbelivien",
+    "Jean Albertini"
+  ],
+  "writers": null,
+  "broadcaster": "TMC",
+  "commentators": [
+    "Marc Menant"
+  ],
+  "jury": null,
+  "spokesperson": "Carole Chabrier"
+}

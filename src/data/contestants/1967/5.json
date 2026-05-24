@@ -1,0 +1,52 @@
+{
+  "id": 5,
+  "country": "ES",
+  "artist": "Raphael",
+  "song": "Hablemos del amor",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/rlvaSsUB86U",
+    "https://www.youtube-nocookie.com/embed/nQL3CkEjRWM",
+    "https://www.youtube-nocookie.com/embed/4WleuihRCQw",
+    "https://www.youtube-nocookie.com/embed/apLXfZlAANM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Hablemos del amor",
+      "content": "Hablemos del amor\nUna vez más\nQue es toda la verdad de nuestra vida\nParemos un momento las horas y los días\nY hablemos del amor una vez más\n\nHablemos de mi amor\nY de tu amor\nDe la primera vez que nos miramos\nAcércame tus manos y unidos en la sombra\nHablemos del amor una vez más\n\n¿Qué nos importa? ¿Qué nos importa?\nAquella gente que mira la tierra\nY no ve más que tierra\n¿Qué nos importa? ¿Qué nos importa?\nToda esa gente que viene y que va\nPor el mundo sin ver la realidad\n\nHablemos de mi amor\nY de tu amor\nDe la primera vez que nos miramos\nAcércame tus manos y unidos en la sombra\nHablemos del amor una vez más\n\n¿Qué nos importa? ¿Qué nos importa?\nAquella gente que mira la tierra\nY no ve más que tierra\n¿Qué nos importa? ¿Qué nos importa?\nToda esa gente que viene y que va\nPor el mundo sin ver...\n\n¿Qué nos importa?\nNo hagamos caso de nadie\nY hablemos de amor\nDe nueѕtro аmor"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Let's talk about love",
+      "content": "Let's talk about love\nOne more time\nIt's all the truth in our life\nLet's stop the hours and the days for a moment\nAnd let's talk about love one more time\n\nLet's talk about my love\nAnd about your love\nAbout the first time we looked to each other\nGive me your hands and let's talk together in the shadow\nAbout love one more time\n\nWhat does it matter? What does it matter?\nAll those people that look at the earth\nAnd see nothing more but earth\nWhat does it matter? What does it matter?\nAll those people coming and going\nAlong the world without seeing the truth\n\nLet's talk about my love\nAnd about your love\nAbout the first time that we looked to each other\nGive me your hands and let's talk together in the shadow\nAbout love one more time\n\nWhat does it matter? What does it matter?\nAll those people that look at the earth\nAnd see nothing more but earth\nWhat does it matter? What does it matter?\nAll those people coming and going\nAlong the world without seeing...\n\nWhat does it matter?\nLet's not pay attention to anyone\nAnd let'ѕ talk аbout love\nAbout our love"
+    }
+  ],
+  "bpm": 102,
+  "tone": "F major",
+  "artistPeople": [
+    "Miguel Rafael Martos Sánchez"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Manuel Alejandro",
+  "lyricists": null,
+  "writers": [
+    "Manuel Alejandro"
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "Federico Gallo"
+  ],
+  "jury": null,
+  "spokesperson": "Blanca Álvarez"
+}

@@ -1,0 +1,52 @@
+{
+  "id": 4,
+  "country": "DE",
+  "artist": "Wyn Hoop",
+  "song": "Bonne nuit ma chérie",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/3dP6ASCSLSk",
+    "https://www.youtube-nocookie.com/embed/EWTwsFHMJ38"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Bonne nuit ma chérie",
+      "content": "Bei der großen Fiesta\nTanzte ich mit dir allein\nUnd die dunkelblaue Nacht\nHat so glücklich mich gemacht\nDenn ich fühlte du bist mein\n\nBonne nuit, ma chérie\nGute Nacht, bitte träume von mir\nBonne nuit, ma chérie\nAuch im Traum bin ich immer bei dir\n\nMeine Liebe wird dich überall begleiten\nWo du auch sein magst, ich bin bei dir\nBonne nuit, ma chérie\nGute Nacht, ich vergeße dich nie\n\nBei der großen Fiesta\nWurd ein Märchen für mich wahr\nUnd der Rhythmus der Musik\nGeht mir nicht mehr aus dem Sinn\nWeil ich glücklich mit dir war\n\nBonne nuit, ma chérie\nBonne nuit, ma chérie\nAuch im Traum bin ich immer bei dir\n\nMeine Liebe wird dich überall begleiten\nWo du auch sein magѕt, ich bin bei dir\nBonne nuit, ma chérie\nGute Nаcht, ich vergeße dich nie\n\nIch vergeße dich nie\nIch vergeße dich nie"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Good night my darling",
+      "content": "At the big fiesta\nI danced with you alone\nAnd the dark blue night\nMade me so happy\nBecause I felt you were mine\n\nGood night, my darling\nGood night, please dream of me\nGood night, my darling\nEven in your dreams, I'll always be with you\n\nMy love will accompany you everywhere\nWherever you may be, I'll be with you\nGood night, my darling\nGood night, I'll never forget you\n\nAt the big fiesta\nA dream came true for me\nAnd the rhythm of the music\nDoesn't go out of my head\nBecause I was happy with you\n\nGood night, my darling\nGood night, my darling\nEven in your dreams, I'll alwayѕ be with you\n\nMy love will accompany you everywhere\nWherever you may be, I'll be with you\nGood night, my dаrling\nGood night, I'll never forget you\n\nI'll never forget you\nI'll never forget you"
+    }
+  ],
+  "bpm": 123,
+  "tone": "C minor",
+  "artistPeople": [
+    "Winfried Lüssenhop"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Franz Josef Breuer"
+  ],
+  "conductor": "Franz Josef Breuer",
+  "lyricists": [
+    "Kurt Schwabach"
+  ],
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Wolf Mittler"
+  ],
+  "jury": null,
+  "spokesperson": "Walter Andreas Schwarz"
+}

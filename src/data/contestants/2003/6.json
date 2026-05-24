@@ -1,0 +1,74 @@
+{
+  "id": 6,
+  "country": "PL",
+  "artist": "Ich Troje",
+  "song": "Keine Grenzen - Żadnych granic",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/BjdTj6G37ow",
+    "https://www.youtube-nocookie.com/embed/tYGt9xT7mng",
+    "https://www.youtube-nocookie.com/embed/VGKxwBofKjI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "polish",
+        "german",
+        "russian"
+      ],
+      "displayedLanguages": [
+        "cyrillic"
+      ],
+      "title": "Keine Grenzen - Żadnych granic",
+      "content": "Ich wär so gerne mal ein Astronaut\nDer von dort oben auf die Erde runter schaut\nDenn alle, die dort oben einmal warn\nSie alle sagen, es ist wunderbar\n\nPoczujesz tu płynący wolniej czas\nCiszę i spokój, którego tak brakuje nam\nI u nas też tak mogłoby dziś być\nJesteśmy mali, lecz nie koniecznie źli\n\nKeine Grenzen, keine Fahnen\nVon dort oben ist die Welt einfach nur schön\nKeine Länder, keine Völker\nKeine Kriege kann man von dort oben sehn\n\nKażdy z nas powinien dotrzeć tam\nBy zrozumieć, że w tej walce sensu brak\nVielleicht nimmt uns das unsern dummen Grössenwahn\nUnd statt zu labern, fangen wir zu lieben an\n\nŻadnych granic, żadnych flag\nNie ma głupich waśni, nie ma różnych ras\nŻadnych wojen, żadnych państw\nKeine Kriege kann man von dort oben seh'n\n\nБезграничный (Безграничный)\nМир без флагов (Мир без флагов)\nС высоты границы вовсе не видны\nБезграничный (Безграничный), непривычный\nБез раздоров, взрывов, злости и войны\nVon dort oben ist die Welt einfаch nur ѕchön"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "polish",
+        "german",
+        "russian"
+      ],
+      "displayedLanguages": [
+        "latin"
+      ],
+      "title": "Keine Grenzen - Żadnych granic",
+      "content": "Ich wär so gerne mal ein Astronaut\nDer von dort oben auf die Erde runter schaut\nDenn alle, die dort oben einmal warn\nSie alle sagen, es ist wunderbar\n\nPoczujesz tu płynący wolniej czas\nCiszę i spokój, którego tak brakuje nam\nI u nas też tak mogłoby dziś być\nJesteśmy mali, lecz nie koniecznie źli\n\nKeine Grenzen, keine Fahnen\nVon dort oben ist die Welt einfach nur schön\nKeine Länder, keine Völker\nKeine Kriege kann man von dort oben sehn\n\nKażdy z nas powinien dotrzeć tam\nBy zrozumieć, że w tej walce sensu brak\nVielleicht nimmt uns das unsern dummen Grössenwahn\nUnd statt zu labern, fangen wir zu lieben an\n\nŻadnych granic, żadnych flag\nNie ma głupich waśni, nie ma różnych ras\nŻadnych wojen, żadnych państw\nKeine Kriege kann man von dort oben seh'n\n\nBezgranichnyj (Bezgranichnyj)\nMir bez flagov (Mir bez flagov)\nS vysoty granitsy vovse ne vidny\nBezgranichnyj (Bezgranichnyj), neprivychnyj\nBez razdorov, vzryvov, zlosti i vojny\nVon dort oben ist die Welt einfаch nur ѕchön"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "No borders - No borders",
+      "content": "I wish I were an astronaut\nWho looks down to the earth from up there\nBecause all those, who already were up there\nThey all say it's wonderful\n\nHere you'll feel time slower passing by\nSilence and peace that we miss so much\nAnd here today it could also be this way\nWe're small, but not necessarily bad\n\nNo borders, no flags\nFrom up there, the world is just beautiful\nNo countries, no nations\nNo wars can be seen from up there\n\nEveryone should go there at least once\nTo realise this struggle doesn't make sense\nPerhaps it will take our stupid megalomania\nAnd instead of yapping, we begin to love\n\nNo borders, no flags\nNo stupid quarrels, no different races\nNo wars, no states\nNo wars can be seen from up there\n\nUnlimited (Unlimited)\nPeace without flags (Peace without flags)\nFrom the height, borders can't be seen anymore\nUnlimited (Unlimited), unusually\nWithout quarrels, explosions, rage and wars\nFrom up there the world is juѕt beаutiful"
+    }
+  ],
+  "bpm": 107,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Jacek Łągwa",
+    "Justyna Majkowska",
+    "Michał Krystian Wiśniewski"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "André Franke"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Jacek Łągwa",
+    "Joachim Horn-Bernges",
+    "Michał Krystian Wiśniewski"
+  ],
+  "writers": null,
+  "broadcaster": "TVP",
+  "commentators": [
+    "Artur Orzech"
+  ],
+  "jury": null,
+  "spokesperson": "Maciej Orłoś"
+}

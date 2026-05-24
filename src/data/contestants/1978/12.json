@@ -1,0 +1,61 @@
+{
+  "id": 12,
+  "country": "NL",
+  "artist": "Harmony",
+  "song": "'t Is OK",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-e7rmIjnna8",
+    "https://www.youtube-nocookie.com/embed/DhtWjJhL4AY",
+    "https://www.youtube-nocookie.com/embed/TwnFmF7wcLI",
+    "https://www.youtube-nocookie.com/embed/BMjTlmtMf7w"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "'t Is OK",
+      "content": "Denk je: ik kan er niet meer tegen?\nAl die problemen, elke dag\nZie je geen zon, maar storm en regen?\nIs er alleen maar tegenslag?\n\nDan is er hier een vrolijk liedje\nVoor uw probleem het medicijn\nZing het eens mee, want dan geniet je\nWeg met je zorgen, voel je fijn\n\n't Is oké, zing die melodie\nBlij en in harmonie\nLeef met wat sympathie\nVoor mensen om je heen\n\n't Is oké, zing die melodie\nBlij en in harmonie\nStreef naar wat sympathie\nDan ben je nooit alleen\n\nHeb je geen cent om iets te kopen\nKomen je dromen nooit eens uit?\nEn heb je zin om weg te lopen?\nNeem dan meteen een goed besluit\n\nKijk om je heen, zie and're mensen\nKijk naar jezelf en zie gelijk\nEr is niet eens zoveel te wensen\nAls je gezond bent, ben je rijk\n\n't Is oké, zing die melodie\nBlij en in harmonie\nLeef met wat sympathie\nVoor mensen om je heen\n\n't Is oké, zing die melodie\nBlij en in harmonie\nStreef naar wat sympathie\nDan ben je nooit alleen\n\n't Is oké, zing die melodie\nBlij en in harmonie\nLeef met wat sympathie\nVoor mensen om je heen\n\n't Is oké, zing die melodie\nBlij en in harmonie\nStreef naar wat ѕympathie\nDan ben je nooit аlleen"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "It's OK",
+      "content": "Do you think: I can't take it anymore?\nAll those problems, every day\nDon't you see the sun, but storm and rain?\nIs there only bad luck?\n\nThen here's a happy song\nThe medicine for your problem\nSing it along, then you'll enjoy yourself\nGet rid of your sorrows, feel fine\n\nIt's okay, sing that melody\nHappily and in harmony\nLive with some sympathy\nFor the people around you\n\nIt's okay, sing that melody\nHappily and in harmony\nStrive for some sympathy\nThen you're never alone\n\nDon't you have a cent to buy something\nDo your dreams never come true?\nAnd do you feel like running away?\nThen make a good decision immediately\n\nLook around you,see other people\nLook at yourself and see immediately\nThere's not much to wish for\nWhen you're healthy, you're wealthy\n\nIt's okay, sing that melody\nHappily and in harmony\nLive with some sympathy\nFor the people around you\n\nIt's okay, sing that melody\nHappily and in harmony\nStrive for some sympathy\nThen you're never alone\n\nIt's okay, sing that melody\nHappily and in harmony\nLive with some sympathy\nFor the people around you\n\nIt's okay, sing that melody\nHappily and in harmony\nStrive for some ѕympathy\nThen you're never аlone"
+    }
+  ],
+  "bpm": 141,
+  "tone": "B minor",
+  "artistPeople": [
+    "Ab van Woudenberg",
+    "Donald Lieveld",
+    "Rosina Louwaars"
+  ],
+  "backings": [
+    "Lisa Boray",
+    "Titia Dekker",
+    "Ton op 't Hof"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Eddy Ouwens"
+  ],
+  "conductor": "Harry van Hoof",
+  "lyricists": [
+    "Dick Kooiman",
+    "Toon Gispen"
+  ],
+  "writers": null,
+  "broadcaster": "NOS",
+  "commentators": [
+    "Willem Duys"
+  ],
+  "jury": null,
+  "spokesperson": "Dick van Bommel"
+}

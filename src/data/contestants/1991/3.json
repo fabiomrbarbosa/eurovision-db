@@ -1,0 +1,88 @@
+{
+  "id": 3,
+  "country": "ES",
+  "artist": "Sergio Dalma",
+  "song": "Bailar Pegados",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/4EGAIciJ76U",
+    "https://www.youtube-nocookie.com/embed/zzNZIWHMA38",
+    "https://www.youtube-nocookie.com/embed/cEA7vGmzp_s"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": [
+        "eurovision"
+      ],
+      "title": "Bailar Pegados",
+      "content": "Bailar de lejos, no es bailar\nEs como estar bailando solo\nTú bailando en tu volcán\nY a dos metros de ti\nBailando yo en el polo\n\nProbemos una sola vez\nBailar pegados como a fuego\nAbrazados al compás\nSin separar jamás\nTu cuerpo de mi cuerpo\n\nBailar pegados es bailar\nIgual que baila el mar\nCon los delfines\nCorazón con corazón\nEn un solo salón\nDos bailarines\n\nAbrazadísimos los dos\nAcariciándonos\nSintiéndonos la piel\nNuestra balada va a sonar\nVamos a probar\nProbar el arte de volar\n\nBailar pegados es bailar\nBailar pegados es bailar\nEѕ bailаr"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "To dance closely",
+      "content": "To dance from afar is not dancing\nIt's like dancing alone\nYou're dancing in your volcano\nAnd two meters from you\nI'm dancing on the pole\n\nLet's try only once\nTo dance closely as with fire\nEmbracing the beat\nWithout ever separating\nYour body from my body\n\nTo dance closely is dancing\nLike the sea dances\nWith the dolphins\nHeart to heart\nIn just one ballroom\nTwo dancers\n\nBoth embracing each other\nCaressing each other\nFeeling each other's skin\nOur ballad is going to be played\nLet's try\nTry the art of flying\n\nTo dance closely is dancing\nTo dance closely is dancing\nIѕ dаncing"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": [
+        "studio"
+      ],
+      "title": "Bailar Pegados",
+      "content": "Bailar de lejos, no es bailar\nEs como estar bailando solo\nTú bailando en tu volcán\nY a dos metros de ti\nBailando yo en el polo\n\nProbemos una sola vez\nBailar pegados como a fuego\nAbrazados al compás\nSin separar jamás\nTu cuerpo de mi cuerpo\n\nBailar pegados es bailar\nIgual que baila el mar\nCon los delfines\nCorazón con corazón\nEn un solo salón\nDos bailarines\n\nAbrazadísimos los dos\nAcariciándonos\nSintiéndonos la piel\nNuestra balada va a sonar\nVamos a probar\nProbar el arte de volar\n\nBailar pegados es bailar\nBailar pegados es bailar\nEs bailar\n\nVerás la música después\nTe va pidiendo un beso a gritos\nY te sube por los pies\nUn algo que no ves\nLo que nunca se ha escrito, oh\n\nBailar pegados es bailar\nIgual que baila el mar\nCon los delfines\nCorazón con corazón\nEn un solo salón\nDos bailarines\n\nAbrazadísimos los dos\nAcariciándonos\nSintiéndonos la piel\nNuestra balada va a sonar\nVamos a probar\nProbar el arte de volar\n\nBailar pegados es bailar\nBailar pegados es bailar\nEѕ bailаr"
+    }
+  ],
+  "bpm": 144,
+  "tone": "C major",
+  "artistPeople": [
+    "Josep Sergi Capdevila Querol"
+  ],
+  "backings": [
+    "Fernando Villar",
+    "José 'Pepe' Pereira",
+    "Juan Cerro",
+    "Santiago Fernández"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Julio Seijas"
+  ],
+  "conductor": "Eduardo Leiva",
+  "lyricists": [
+    "Luis Gómez-Escolar"
+  ],
+  "writers": null,
+  "broadcaster": "TVE",
+  "commentators": [
+    "Tomás Fernando Flores"
+  ],
+  "jury": [
+    "Alfonso del Real",
+    "Antonio Sempere",
+    "Begoña Castro",
+    "Celia Cosgaya",
+    "Gabriel Jaraba",
+    "Jesús de Vega",
+    "Loles León",
+    "Marcos Fernández",
+    "María Antonia Valls",
+    "María Casal",
+    "María Eugenia Castellanos",
+    "María Isabel Lloret",
+    "Nuria Esther Martín",
+    "Paco Clavel",
+    "Ricardo Cantalapiedra",
+    "Salomé"
+  ],
+  "spokesperson": "María Ángeles Balañac"
+}

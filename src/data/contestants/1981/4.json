@@ -1,0 +1,45 @@
+{
+  "id": 4,
+  "country": "IE",
+  "artist": "Sheeba",
+  "song": "Horoscopes",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/VH4hiCbQU5s",
+    "https://www.youtube-nocookie.com/embed/NuMdtlWcaJk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Horoscopes",
+      "content": "Rushing for the papers every day\nTo find out what the stars have got to say\nAbout the fortunes that are on the way\nIt's crazy, crazy\n\nWorking, not waiting that forever will hold\nSuccess comes from what we do, not from what we're told\nAnd counting on lucky stars is living on false hopes\n\nDon't let the planets take control of our lives\nBelieve in the truth and not celestial lies\nIt's we, not the stars above, who write our horoscopes\n\nVirgos and Arians, Leos, Aquarians\nPisces, Cancerians show\nNo matter when we're born\nLibra or Capricorn\nTaureans and Scorpions know\n\nNothing can change the way we've chosen to live\nAnd no one can tell us when to take or to give\nIt's we, not the stars above, who write our horoscopes\n\nYet, in spite of this, when daylight dies\nThere we are, with eyes turned to the sky\nAll anxious to be told a few more lies\nStill crazy, crazy\n\nWorking, not waiting that forever will hold\nSuccess comes from what we do, not from what we're told\nAnd counting on lucky stars is living on false hopes\n\nDon't let the planets take control of our lives\nBelieve in the truth and not celestial lies\nIt's we, not the stars above, who write our horoscopes\n\nThrow away almanacs, signs of the Zodiac\nWhen there is sense to be found\nThey are celestial, we are terrestrial\nLet's keep our feet on the ground\n\nDon't let the planets take control of our lives\nBelieve in the truth and not celestial lies\nIt's we, not the stars above, who write our horoscopes\n\nIt's we, not the stars аbove, who write our horoscopeѕ"
+    }
+  ],
+  "bpm": 132,
+  "tone": "G major",
+  "artistPeople": [
+    "Frances Campbell",
+    "Marion Fossett",
+    "Irene McCoubrey"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jim Kelly"
+  ],
+  "conductor": "Noel Kelehan",
+  "lyricists": [
+    "Joe Burkett"
+  ],
+  "writers": null,
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Larry Gogan"
+  ],
+  "jury": null,
+  "spokesperson": "John Skehan"
+}

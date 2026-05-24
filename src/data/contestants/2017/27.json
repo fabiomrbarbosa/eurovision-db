@@ -1,0 +1,61 @@
+{
+  "id": 27,
+  "country": "RS",
+  "artist": "Tijana Bogićević",
+  "song": "In Too Deep",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/A0wAd-a0hXA",
+    "https://www.youtube-nocookie.com/embed/UMvqfykkMYU",
+    "https://www.youtube-nocookie.com/embed/XaAW6o7FIHw",
+    "https://www.youtube-nocookie.com/embed/e5Z1xTTXcXw",
+    "https://www.youtube-nocookie.com/embed/NFlcb-pwsSw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "In Too Deep",
+      "content": "Wish that I knew where I lost\nRight where there was no going back\nThe line was crossed\n\nBut I love what you're doing to me\nHow you spin me around\nHigh off the ground\nI'm not coming down\n\nWon't somebody save me tonight?\nFeels like I've been sentenced to life\nI'm falling so deep\nI'm in too deep\nI'm falling so deep\n\nNo escaping over my head\nStruck by every word that you've said\nI'm falling so deep\nI'm in too deep\nI'm falling so deep\n\nLove doesn't seem to make sense\nYou just broke into my heart\nGot no defence\nHow you spin me around\nHigh off the ground\nI'm not coming down\n\nWon't somebody save me tonight?\nFeels like I've been sentenced to life\nI'm falling so deep\nI'm in too deep\nI'm falling so deep\n\nNo escaping over my head\nStruck by every word that you said\nI'm falling so deep\nI'm in too deep\nI'm falling so deep\n\nFalling so deep\n\nI'm in lightning speed\nAnd I can't slow down\nMy heart is racing\nWhen you're around\n\nWon't somebody save me tonight?\nFeels like I've been sentenced to life\nI'm falling so deep\nI'm in too deep\nI'm falling so deep\n\nNo escaping over my head\nStruck by every word that you said\nI'm falling so deep\nI'm in too deep\nI'm falling so deep\n\nI'm in too deep\nI'm fаlling ѕo deep"
+    }
+  ],
+  "bpm": 136,
+  "tone": "A minor",
+  "artistPeople": [
+    "Tijana Bogićević"
+  ],
+  "backings": [
+    "Jelena Đurić-Mitić",
+    "Jelena Pajić",
+    "Sanja Bogosavljević"
+  ],
+  "dancers": [
+    "Boris Vidaković"
+  ],
+  "stageDirector": "Igor Basorović",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Borislav Milanov",
+    "Joacim Persson",
+    "Johan Alkenäs",
+    "Lisa Desmond"
+  ],
+  "broadcaster": "RTS",
+  "commentators": [
+    "Duška Vučinić-Lučić",
+    "Olga Kapor",
+    "Silvana Grujić"
+  ],
+  "jury": [
+    "Ana Štajdohar",
+    "Ivana Peters",
+    "Mili",
+    "Tanja Banjanin",
+    "Vojislav Borisavljević"
+  ],
+  "spokesperson": "Sanja Vučić"
+}

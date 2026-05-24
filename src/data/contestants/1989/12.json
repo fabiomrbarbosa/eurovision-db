@@ -1,0 +1,55 @@
+{
+  "id": 12,
+  "country": "CH",
+  "artist": "Furbaz",
+  "song": "Viver senza tei",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/It1OltnpM-A",
+    "https://www.youtube-nocookie.com/embed/FWs2ZPXTe6U"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "romansh"
+      ],
+      "displayedLanguages": null,
+      "title": "Viver senza tei",
+      "content": "Sche ti ni jeu stuessen viver tut persuls sin quest mund\nE buc carstgaun, gie gnanc in soli fuss pli d'entuorn\nBandunada da tuttas olmas stessel mo pli a bandun\nE petras larmas jeu bargessel cun raschun\n\nPerquei lessel jeu dir, senza tei stuessel murir\nPér cun tei ei la veta enzatgei bi\nPerquei lessel jeu dir, senza tei stuessel murir\nPér cun tei ei la veta enzatgei bi\n\nCartessel strusch da vegnir veglia sut da quellas cundiziuns\nGie pli bugen lu buc pli viver sin quest mund\nPertgei carschtgauns drovan in l'auter\nEr sch'ei sepetgan ni dattan pugns\nSch'ti eis sincers stos ti dar tier ch'jeu hai raschun\n\nPerquei lessel jeu dir, senza tei stuessel murir\nPér cun tei ei la veta enzatgei bi\nPerquei lessel jeu dir, senza tei stuessel murir\nPér cun tei ei la veta enzatgei bi\nPerquei lessel jeu dir, senza tei stuesѕel murir\nPér cun tei ei la veta enzаtgei bi"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "To live without you",
+      "content": "If you and I had to live on this earth\nThe two of us and that nobody\nNobody would be without a human soul\nLonely and with bitter tears\n\nThat's why I wanted to say, I would die without you\nIt's with you, that life seems beautiful\nThat's why I wanted to say, I would die without you\nIt's with you, that life seems beautiful\n\nI do not believe that I'd like to get old this way\nYes I'd prefer not to live in this world\nPeople need each other\nEven if they quarrel\nIf you're honest you'll agree with me\n\nThat's why I wanted to say, I would die without you\nIt's with you, that life seems beautiful\nThat's why I wanted to say, I would die without you\nIt's with you, that life seems beautiful\nThat's why I wanted to say, I would die without you\nIt's with you, that life seemѕ beаutiful"
+    }
+  ],
+  "bpm": 113,
+  "tone": "F# major",
+  "artistPeople": [
+    "Gion Defuns",
+    "Giusep Quinter",
+    "Marie Louise Werth",
+    "Ursin Defuns"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Benoît Kaufman",
+  "lyricists": null,
+  "writers": [
+    "Marie Louise Werth"
+  ],
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Bernard Thurnheer",
+    "Ezio Guidi",
+    "Thierry Masselot"
+  ],
+  "jury": null,
+  "spokesperson": "Michel Stocker"
+}

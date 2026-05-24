@@ -1,0 +1,48 @@
+{
+  "id": 9,
+  "country": "AT",
+  "artist": "Bobbie Singer",
+  "song": "Reflection",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/CW16dLyp_04",
+    "https://www.youtube-nocookie.com/embed/sZRFJ_ICX_I",
+    "https://www.youtube-nocookie.com/embed/zxUYAknzGjw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Reflection",
+      "content": "When I'm sad, I need a shoulder to cry on\nWhen I'm bad, you know that I am better\nWhen you're gone, you're the one that I'm thinking of\nWhen I come, it's to you that I run\n\nThere's no need to be lonely\nI'll be there everytime for you\nIsn't that the way it's supposed to be?\nWell, sometimes memories will have to do\n\nBut don't you recognise me?\nOh… I'm the one that you have seen\nThe reflection in your eyes\nThe reflection in your eyes\n\nThey say it's a long way to heaven\nBut they're wrong, 'cause heaven is you\nIf I fall from grace everlasting\nThere you are to make everything new\n\nWe can fly forever\nWrap yourself around my emotions\nIt's only getting better and better\nDon't ever think to doubt my devotion\n\nBut don't you recognise me?\nOh… I'm the one that you have seen\nThe reflection in your eyes\nThe reflection in your eyes, the reflection in your eyes\nThe reflection in your eyes, the reflection in your eyes\n\nOh… reflection in your eyes\nThe reflection in your eyes\n\nBut don't you recognise me?\nOh… I'm the one that you hаve seen\nThe reflection in your eyes\nThe reflection in your eyes, the reflection in your eyes\nThe reflection in your eyes, reflection in your eyes\nThe reflection in your eyeѕ"
+    }
+  ],
+  "bpm": 113,
+  "tone": "E major",
+  "artistPeople": [
+    "Tina Schoßer"
+  ],
+  "backings": [
+    "Adele Razkövi",
+    "Juci Janoska",
+    "Markus Gartner",
+    "Monika Ballwein",
+    "Titus Vadon"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Dave Moskin"
+  ],
+  "broadcaster": "ORF",
+  "commentators": [
+    "Andi Knoll"
+  ],
+  "jury": null,
+  "spokesperson": "Dodo Roščić"
+}

@@ -1,0 +1,71 @@
+{
+  "id": 13,
+  "country": "GR",
+  "artist": "Marianna Efstratiou",
+  "song": "Emis forame to himona anixiatika",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5iEOh-xOHzE",
+    "https://www.youtube-nocookie.com/embed/jICEPVXWrQU",
+    "https://www.youtube-nocookie.com/embed/d9WMr-kWFK4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ellinika"
+      ],
+      "title": "Emis forame to himona anixiatika",
+      "content": "Kimisu mes' ta heria mu, na zo ta kalokeria mu\nSan na 'tane tenies pu agapo\nAgaliase tis skepsis mu, ke mandepse tis lexis mu\nSa na 'xeres oti iha na su po\n\nKe ola osa pathame, asta na epimenun\nKe ola osa mathame, asta na perimenun\n\nEmis ta thiskola ta linume nihtiatika\nEmis alazume agapes Kiriakatika\nEmis forame to himona anixiatika… anixiatika\n\nAkubise ston omo mu, xeyelase to fovo mu\nSa na 'sun ena trik monathiko\nZografise to avrio, ke vale mu sto rathio\nN' akuo ena komati erotiko\n\nKe ola osa pathame, asta na epimenun\nKe ola osa mathame, asta na perimenun\n\nEmis ta thiskola ta linume nihtiatika\nEmis alazume agapes Kiriakatika\nEmis forame to himona anixiatika… anixiatika\n\nEmis ta thiskola ta linume nihtiatika\nEmis alazume agapes Kiriakatika\nEmiѕ forame to himona anixiatika… anixiatikа"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ελληνικά"
+      ],
+      "title": "Εμείς φοράμε το χειμώνα ανοιξιάτικα",
+      "content": "Κοιμήσου μες' τα χέρια μου, να ζω τα καλοκαίρια μου\nΣαν να 'τανε ταινίες που αγαπώ\nΑγκάλιασέ τις σκέψεις μου, και μάντεψε τις λέξεις μου\nΣαν νά 'ξερες ότι είχα να σου πω\n\nΚαι όλα όσα πάθαμε, άστα να επιμένουν\nΚαι όλα όσα μάθαμε, άστα να περιμένουν\n\nΕμείς τα δύσκολα τα λύνουμε νυχτιάτικα\nΕμείς αλλάζουμε αγάπες Κυριακάτικα\nΕμείς φοράμε το χειμώνα ανοιξιάτικα… ανοιξιάτικα\n\nΑκούμπησε στον ώμο μου, ξεγέλασε το φόβο μου\nΣαν νά 'σουν ένα τρίκ μοναδικό\nΖωγράφισε το αύριο, και βάλε μου στο ράδιο\nΝ' ακούω ένα κομμάτι ερωτικό\n\nΚαι όλα όσα πάθαμε, άστα να επιμένουν\nΚαι όλα όσα μάθαμε, άστα να περιμένουν\n\nΕμείς τα δύσκολα τα λύνουμε νυχτιάτικα\nΕμείς αλλάζουμε αγάπες Κυριακάτικα\nΕμείς φοράμε το χειμώνα ανοιξιάτικα… ανοιξιάτικα\n\nΕμείς τα δύσκολα τα λύνουμε νυχτιάτικα\nΕμείς αλλάζουμε αγάπες Κυριακάτικα\nΕμείς φοράμε το χειμώνα ανοιξιάτικα… ανοιξιάτικα"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "We wear spring clothes in winter time",
+      "content": "Sleep in my arms, and I will live in my summers\nAs if they were beloved films\nEmbrace my thoughts, and guess my words\nAs if you knew everything I wanted to say\n\nAnd everything we've been taught can just persist\nAnd everything we've been taught can just wait\n\nWe solve the difficult problems at night\nWe find new lovers on Sundays\nWe wear spring clothes in winter time\n\nPut your head on my shoulder, make my fears go away\nAs if you were a special trick\nPaint the day that is coming, and put on the radio\nA song about love\n\nAnd everything we've been taught can just persist\nAnd everything we've been taught can just wait\n\nWe solve the difficult problems at night\nWe find new lovers on Sundays\nWe wear spring clothes in winter time\n\nWe solve the difficult problems at night\nWe find new lovers on Sundays\nWe weаr spring clotheѕ in winter time"
+    }
+  ],
+  "bpm": 103,
+  "tone": "G major",
+  "artistPeople": [
+    "Maria-Anastasia Efstratiou"
+  ],
+  "backings": [
+    "Haris Tsirekas",
+    "Haris Zacharos",
+    "Michalis Themelis",
+    "Thanasis Giannakopoulos"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Kostas Bigalis"
+  ],
+  "conductor": "Michalis Rozakis",
+  "lyricists": [
+    "Iro Trigoni"
+  ],
+  "writers": null,
+  "broadcaster": "ERT",
+  "commentators": [
+    "Dafni Bokota"
+  ],
+  "jury": null,
+  "spokesperson": "Niki Venega"
+}

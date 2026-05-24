@@ -1,0 +1,51 @@
+{
+  "id": 23,
+  "country": "EE",
+  "artist": "Getter Jaani",
+  "song": "Rockefeller Street",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vOIXQskfy6o",
+    "https://www.youtube-nocookie.com/embed/nnQ96mX3nR4",
+    "https://www.youtube-nocookie.com/embed/GhN6R4JcDEw",
+    "https://www.youtube-nocookie.com/embed/DdbNpmb-iwQ",
+    "https://www.youtube-nocookie.com/embed/dk0JaemOLwQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Rockefeller street",
+      "content": "Daylight is fading away\nNight silhouettes in the sky\nLED lights are flashing on towers\nIt's Manhattan's magical time\n\nBallerinas dancing the Swan Lake\nOn a river made of diamonds and pearls\nEverything's a little bit weird now\n\nBecause tonight it is showtime\nIn the middle of the street life\nAll we celebrate are good times\nBecause tonight it is showtime\n\nCome and walk with me\n\n1273 down the Rockefeller street\nLife is marchin' on, do you feel that?\n1273 down the Rockefeller street\nEverything is more than surreal (Than surreal)\n\n(Alright, alright, alright)\n(Let's go, let's go)\n\nOldschool Hollywood stars\nParty cinderellas are here\nThey move like computer game heroes\n\nBecause they know it is showtime\nIn the middle of the street life\nAll they celebrate are good times (Good times)\nBecause tonight it is showtime (Showtime)\n\nSo let's keep movin' on\n\n1273 down the Rockefeller street\nLife is marchin' on, do you feel that?\n1273 down the Rockefeller street\nEverything is more than surreal\n\nSo let's keep movin' on\n\nKeep movin', keep movin', keep movin', keep movin'\nIf you want to know what  Rockefeller groove is\nKeep movin', keep movin', keep movin', keep movin'\nTime is right to celebrate good times\n\nKeep movin', keep movin', keep movin', keep movin'\nIf you want to know what  Rockefeller groove is\nKeep movin', keep movin', keep movin', keep movin'\nTime is right to celebrate good times\n\n1273 down the Rockefeller street\nLife is marchin' on, do you feel that?\n1273 down the Rockefeller street\nEverything is more than surreal\n\nWe're singing\n1273 down the Rockefeller street\nLife is marchin' on, do you feel that?\nWe're singing\n1273 down the Rockefeller street\nEverything is more than ѕurreаl"
+    }
+  ],
+  "bpm": 130,
+  "tone": "Eb minor",
+  "artistPeople": [
+    "Getter Ragnila Jaani"
+  ],
+  "backings": [
+    "Anna Põldvere",
+    "Marilin Kongo"
+  ],
+  "dancers": [
+    "Ahti Kiili",
+    "Ahto Paasik",
+    "Eghert-Sören Nõmm"
+  ],
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Sven Lõhmus"
+  ],
+  "broadcaster": "ERR",
+  "commentators": [
+    "Marko Reikop"
+  ],
+  "jury": null,
+  "spokesperson": "Piret Järvis"
+}

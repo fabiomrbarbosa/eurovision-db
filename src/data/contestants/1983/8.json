@@ -1,0 +1,61 @@
+{
+  "id": 8,
+  "country": "NO",
+  "artist": "Jahn Teigen",
+  "song": "Do re mi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/A4v7za1iLLc",
+    "https://www.youtube-nocookie.com/embed/uJnt4H5C3Bs",
+    "https://www.youtube-nocookie.com/embed/J0gxOryc5rE",
+    "https://www.youtube-nocookie.com/embed/wf5KfZS68oU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "norwegian"
+      ],
+      "displayedLanguages": null,
+      "title": "Do re mi",
+      "content": "Skala'n er en sang alene\nSå enkel og så fin alene\nGitaren tryller fram en liten sang\nPiano og gitar i sammen\nStrenger lager lyd i sammen\nKlanger bringer fram en liten sang\n\nOveralt fins det refrenger\nSkala'n er alt det du trenger\nSyng\n\nDo re mi fa sol\n(Do re mi fa sol la ti do, do re mi fa sol)\n(Do re mi fa sol la ti do) La ti do\nDo re mi fa sol\n(Do re mi fa sol la ti do, do re mi fa sol)\n(Do re mi fa sol la ti do) La ti do\n\nNoen spiller best alene\nAndre synger mest alene\nMen alle får vi fram en liten sang\nLa oss spille mer i sammen\nVi skal få det til i sammen\nSyng så godt du kan, en liten sang\n\nOveralt finns det refrenger\nSkala'n er alt det du trenger\nSyng\n\nDo re mi fa sol\n(Do re mi fa sol la ti do, do re mi fa sol)\n(Do re mi fa sol la ti do) La ti do\n\nDo re mi fa sol la ti do, do re mi fa sol\nDo re mi fa sol la ti do\nDo re mi fa sol la ti do, do re mi fa sol\nDo re mi fa ѕol lа ti do\n\nDo re mi"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Do re mi",
+      "content": "The scale is a song, by itself\nSo simple and nice, by itself\nThe guitar creates a song through magic\nPiano and guitar, together\nStrings making sound, together\nHarmonies bring out a little song\n\nEverywhere there are refrains\nThe scale is all you need\nSing\n\nDo re mi fa sol\n(Do re mi fa sol la ti do, do re mi fa sol)\n(Do re mi fa sol la ti do) La ti do\nDo re mi fa sol\n(Do re mi fa sol la ti do, do re mi fa sol)\n(Do re mi fa sol la ti do) La ti do\n\nSome play better alone\nSome sing more alone\nBut we all produce a little song\nLet's play more together\nWe'll make it together\nSing as well as you can a little song\n\nEverywhere there are refrains\nThe scale is all you need\nSing\n\nDo re mi fa sol\n(Do re mi fa sol la ti do, do re mi fa sol)\n(Do re mi fa sol la ti do) La ti do\n\nDo re mi fa sol la ti do, do re mi fa sol\nDo re mi fa sol la ti do\nDo re mi fa sol la ti do, do re mi fa sol\nDo re mi fa ѕol lа ti do\n\nDo re mi"
+    }
+  ],
+  "bpm": 135,
+  "tone": "G major",
+  "artistPeople": [
+    "Jahn Teigen"
+  ],
+  "backings": [
+    "Anita Skorgan",
+    "Kari Mette Aamodt",
+    "Nina Both",
+    "Siri Lenning Frømyhr"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Anita Skorgan",
+    "Jahn Teigen"
+  ],
+  "conductor": "Sigurd Jansen",
+  "lyricists": [
+    "Herodes Falsk",
+    "Jahn Teigen"
+  ],
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "Ivar Dyrhaug"
+  ],
+  "jury": null,
+  "spokesperson": "Erik Diesen"
+}

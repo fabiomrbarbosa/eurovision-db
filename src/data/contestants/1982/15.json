@@ -1,0 +1,59 @@
+{
+  "id": 15,
+  "country": "NL",
+  "artist": "Bill van Dijk",
+  "song": "Jij en ik",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ByECf_srTQM",
+    "https://www.youtube-nocookie.com/embed/2ou93QSLg7w",
+    "https://www.youtube-nocookie.com/embed/p8a6O0dVuqU",
+    "https://www.youtube-nocookie.com/embed/M1puvX6fCVI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "Jij en ik",
+      "content": "Kijk, de zwaluwen zijn weer terug\nHebben hun reis achter de rug\nEn de winter gaat op de vlucht\nJij komt terug\n\nKijk, de perenboom achter ons huis\nStaat weer in bloei, is weer de bruid\nEn mijn dromen die komen uit\nJij komt terug\n\nJij en ik\nHebben elkaar weer gevonden\nWe blijven voor altijd verbonden\nHoe onze wegen ook gaan\n\nJij en ik\nZullen elkaar blijven vinden\nOm weer opnieuw te beginnen\nHet heeft in de sterren gestaan\nDat we samen naar huis zullen gaan\n\nKijk, langs iedere weg staat een kruis\nZo is de lange weg naar huis\nJij en ik komen samen thuis\nJij komt terug\n\nKijk, de zwaluwen hoog in de lucht\nHebben hun reis achter de rug\nNet als wij niet meer op de vlucht\nJij komt terug\n\nJij en ik\nHebben elkaar weer gevonden\nWe blijven voor altijd verbonden\nHoe onze wegen ook gaan\n\nJij en ik\nZullen elkaar blijven vinden\nOm weer opnieuw te beginnen\nHet heeft in de sterren gestaan\nDat we samen naar huis moeten\n\nJij en ik\nLangs die verschillende wegen\nWe komen elkaar toch weer tegen\nDaar waar de perenboom ѕtaаt"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "You and I",
+      "content": "Look, the swallows are back again\nThey have finished their journey\nAnd the winter is on the run\nYou're coming back\n\nLook, the pear tree behind our house\nIs in bloom again, stands bride again\nAnd my dreams are coming true\nYou're coming back\n\nYou and I\nHave found each other again\nWe'll be joined forever\nNo matter what way we go\n\nYou and I\nWill always find each other\nTo start over again\nIt was written in the stars\nThat we'll go home together\n\nLook, along every road stands a cross\nThat's the long way home\nYou and I come home together\nYou're coming back\n\nLook, the swallows high in the sky\nHave finished their journey\nJust like us no longer on the run\nYou're coming back\n\nYou and I\nHave found each other again\nWe'll be joined forever\nNo matter what way we go\n\nYou and I\nWill always find each other\nTo start over again\nIt was written in the stars\nThat we have to go home together\n\nYou and I\nAlong those different roads\nWe'll meet each other again anyway\nThere, where the peаr tree iѕ"
+    }
+  ],
+  "bpm": 117,
+  "tone": "G major",
+  "artistPeople": [
+    "Bill van Dijk"
+  ],
+  "backings": [
+    "Jody Pijper",
+    "Lisa Boray",
+    "Titia Dekker",
+    "Wanda Stellaard"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Dick Bakker"
+  ],
+  "conductor": "Rogier van Otterloo",
+  "lyricists": [
+    "Liselore Gerritsen"
+  ],
+  "writers": null,
+  "broadcaster": "NOS",
+  "commentators": [
+    "Pim Jacobs"
+  ],
+  "jury": null,
+  "spokesperson": "Flip van der Schalie"
+}

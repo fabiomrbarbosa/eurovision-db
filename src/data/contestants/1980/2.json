@@ -1,0 +1,47 @@
+{
+  "id": 2,
+  "country": "GB",
+  "artist": "Prima Donna",
+  "song": "Love Enough for Two",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/3tOyTEXQRLo",
+    "https://www.youtube-nocookie.com/embed/tfiqcuD_QZk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Love Enough for Two",
+      "content": "If there's a place in your heart for me\nThere's a room in my place for you\n'Cause I've got love enough…\nYes, I've got love enough…\nLove enough for two\n\nIt isn't every road that leads me home\nIt isn't every day I'm on my own\nBut when I'm feeling sad and all alone\nI think of you, yes, I do\n\nYou've got a very special kind of style\nThere's something in your eyes each time you smile\nSo tell me you can stay for just a while\nAnd love me too\n\nIf there's a place in your heart for me\nThere's a room in my place for you\n'Cause I've got love enough…\nYes, I've got love enough for two\n\nIf there's a time in your life for me\nI've got a lifetime to spend with you\n'Cause I've got love enough…\nYes, I've got love enough…\nLove enough for two\n\nIt isn't every day you meet someone\nYou wanna pin your wildest dreams upon\nIt's true you haven't known me very long\nBut I hope and pray that you'll stay\n\nThere's something in the way you touch my soul\nIt seemed that I was half, but now I'm whole\nYou've got me under your complete control\nIn every way\n\nIf there's a place in your heart for me\nThere's a room in my place for you\n'Cause I've got love enough…\nYes, I've got love enough for two\n\nIf there's a…\nIf there's a time in your life for me\nI've got a lifetime to spend with you\n'Cаuse I've got love enough…\nYeѕ, I've got love enough…\nLove enough for two\n\nOh, I've got love enough…\nOh, I've got love enough…\nLove enough for two"
+    }
+  ],
+  "bpm": 137,
+  "tone": "E major",
+  "artistPeople": [
+    "Alan Coates",
+    "Danny Finn",
+    "Jane Robbins",
+    "Kate Robbins",
+    "Lance Aston",
+    "Sally Ann Triplett"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "John Coleman",
+  "lyricists": null,
+  "writers": [
+    "Stephanie de Sykes",
+    "Stuart Slater"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Terry Wogan"
+  ],
+  "jury": null,
+  "spokesperson": "Ray Moore"
+}

@@ -1,0 +1,56 @@
+{
+  "id": 13,
+  "country": "MK",
+  "artist": "Toše Proeski",
+  "song": "Life",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5_NX0usepUI",
+    "https://www.youtube-nocookie.com/embed/foXEyGTlqQA",
+    "https://www.youtube-nocookie.com/embed/31jUpj2XA-M",
+    "https://www.youtube-nocookie.com/embed/PKx_26hYFMU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Life",
+      "content": "I saw my ID and it wasn't me\nIt was someone else's identity\nWhy do I need to prove myself\nAnd who is the judge of my sanity?\n\nRoaming through my old emotions\nI find new feelings of misery\nI bet with my soul to get back the truth\nWhere I will face reality\n\nLife is a book and you gotta read it\nLife is a story and you gotta tell it\nLife is a song and you gotta sing it\nYou've got to know how to live it\n\nLife is a book and you gotta read it\nLife is a story and you gotta tell it\nLife is a song and you gotta sing it\nYou've got to know how to live it\n\nWalking around, some thoughts on my mind\nI search for a place where I'll be free\nFrom all that is said and all that's been done\nIt'll be hard to find it inside of me\n\nLife is a book and you gotta read it\nLife is a story and you gotta tell it\nLife is a song and you gotta sing it\nYou've got to know how to live it\n\n(Life is a book and you gotta read it)\nOh… life is a story and you gotta tell it\nLife is a song and you gotta sing it\nYou've got to know how to live it\n\nI know that I've gotta try\nNo one can see me cry\nI can't take it anymore\nI must find a way to let myself go, yeah\n\nOh yeah\n(Life is a… life is… life is…)\n(Life is a… life is… life is…)\nIt's true, you know it, don't you?\n\nLife is a book and you gotta read it\nLife is a story and you gotta tell it\nLife is a song and you gotta sing it\nYou've got to know how to live it\n\n(Life is a book and you gotta read it)\nLife is a story and you gotta tell it\nLife is a song and you gotta sing it\nYou've got to know how to live it\n\n(Life is a book and you gotta read it)\nLife is a story and you gotta tell it\nLife is a song and you gottа ѕing it\nYou've got to know how to live it"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "macedonian"
+      ],
+      "displayedLanguages": null,
+      "title": "Ангели си ти",
+      "content": "Од утро до мрак во мисливе\nНа почетокот наш се сеќавам\nКога од сон ме разбуди\nСо погледот душа ми отвори\n\nПосакав миг да те имам\nИ вечно крај мене да си ти\nА кога љубов ми подари\nНа душа белег ми остави\n\nАнгел си ти, јас пеам за тебе\nАнгел си ти, те чувам во себе\nАнгел си ти кој само за мене\nМоже да запре и време\n\nАнгел си ти, јас пеам за тебе\nАнгел си ти, те чувам во себе\nАнгел си ти кој само за мене\nМоже да запре и време\n\nПатот по кој сега чекорам\nСо рози е послан и нема крај\nА кога јас ќе те прегрнам\nСенките две ко една се знај\n\nА љубовта обична\nJа смени во посебна\nТи си мојот благослов\nКому давам сѐ во животот мој\n\nАнгел си ти, јас пеам за тебе\nАнгел си ти, те чувам во себе\nАнгел си ти кој само за мене\nМоже да запре и време\n\nАнгел си ти, јас пеам за тебе\nАнгел си ти, те чувам во себе\nАнгел си ти кој само за мене\nМоже да запре и време\n\n(Ангел си ти, јас пеам за тебе)\n(Ангел си ти, те чувам) за мене\n(Ангел си ти кој само за мене)\nМоже да запре и време\n\n(Ангел си ти, јас пеам за тебе)\n(Ангел си ти, те чувам во себе)\nАнгел си ти кој само за мене\nМоже да запре и време\n\n(Ангел си ти, јас пеам за тебе)\nАнгел си ти, те чувам во себе\nАнгел си ти кој само за мене\nМоже да запре и време"
+    }
+  ],
+  "bpm": 136,
+  "tone": "A minor",
+  "artistPeople": [
+    "Todor Proeski"
+  ],
+  "backings": [
+    "Tamara Todevska"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jovan Jovanov"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Ilija Nikolovski"
+  ],
+  "writers": null,
+  "broadcaster": "MKRTV",
+  "commentators": [
+    "Ivan Mircevski"
+  ],
+  "jury": null,
+  "spokesperson": "Karolina Petkovska"
+}

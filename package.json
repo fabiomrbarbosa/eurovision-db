@@ -7,6 +7,7 @@
     "build": "astro build",
     "preview": "astro preview",
     "fetch:data": "npx tsx scripts/fetch-all.ts",
+    "fetch:contestants": "npx tsx scripts/fetch-all.ts --contestants",
     "fetch:year": "npx tsx scripts/fetch-all.ts --year",
     "fetch:logos": "npx tsx scripts/fetch-logos.ts",
     "fetch:flags": "npx tsx scripts/fetch-flags.ts"

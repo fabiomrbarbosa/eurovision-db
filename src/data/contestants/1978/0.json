@@ -1,0 +1,71 @@
+{
+  "id": 0,
+  "country": "IL",
+  "artist": "Izhar Cohen and the Alphabeta",
+  "song": "A-Ba-Ni-Bi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/HdmfwKUpDlg",
+    "https://www.youtube-nocookie.com/embed/DNxpnHepFRM",
+    "https://www.youtube-nocookie.com/embed/uA3ZPmirULo",
+    "https://www.youtube-nocookie.com/embed/nzdraq6J7H0",
+    "https://www.youtube-nocookie.com/embed/nRDOVuSHDN8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": [
+        "ivrit"
+      ],
+      "title": "A-Ba-Ni-Bi",
+      "content": "A-ba-ni-bi o-bo-he-bev\nA-ba-ni-bi o-bo-he-bev o-bo-ta-bach\nA-ba-ni-bi o-bo-he-bev\nA-ba-ni-bi o-bo-he-bev o-bo-ta-bach\nA-ba-ni-bi o-bo-he-bev\nO-bo-he-bev o-bo-ta-bach\n\nKeshehayinu yeladim\nAhavnu besodei sodot\nEl mi hayinu nechmadim?\nRak ledodim uledodot\n\nVehabanot hamiskenot savlu\nHametukot, hen rak makot kiblu\nVe'et ma shehirgashnu be'emet\nLachashnu rak bisfat haBet\n\nA-ba-ni-bi o-bo-he-bev\nA-ba-ni-bi o-bo-he-bev o-bo-ta-bach\nA-ba-ni-bi o-bo-he-bev\nA-ba-ni-bi o-bo-he-bev o-bo-ta-bach\n\nAhava hi mila yafa\nHi tfila yafa, hi safa\nAhava hi elai tova\nHi tamid titgaber\nUbisfat ahava nedaber\n\nA-ba-ni-bi o-bo-he-bev\nA-ba-ni-bi o-bo-he-bev o-bo-ta-bach\nA-ba-ni-bi o-bo-he-bev\nA-ba-ni-bi o-bo-he-bev o-bo-ta-bach\n\nAni cholem vekam shalosh milim\nUmahu ha'olam? –  Shalosh milim\nVeze ma she'ani margish ka'et\nMamash kmo az, biѕfat haBet\n\nA-ba-ni-bi o-bo-he-bev\nA-ba-ni-bi o-bo-he-bev o-bo-ta-bach\nA-ba-ni-bi o-bo-he-bev\nA-ba-ni-bi o-bo-he-bev o-bo-ta-bach\n\nA-ba-ni-bi o-bo-he-bev\nA-ba-ni-bi o-bo-he-bev o-bo-ta-bach\nA-ba-ni-bi o-bo-he-bev\nA-ba-ni-bi o-bo-he-bev o-bo-ta-bach\n\nA-ba-ni-bi o-bo-he-bev\nA-ba-ni-bi o-bo-he-bev o-bo-ta-bаch"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": [
+        "עברית"
+      ],
+      "title": "א-ב-ני-בי",
+      "content": "א-ב-ני-בי או-בו-ה-בב\nא-ב-ני-בי או-בו-ה-בב או-בו-ת-בך\nא-ב-ני-בי או-בו-ה-בב\nא-ב-ני-בי או-בו-ה-בב או-בו-ת-בך\nא-ב-ני-בי או-בו-ה-בב\nאו-בו-ה-בב או-בו-ת-בך\n\nכשהיינו ילדים\nאהבנו בסודי סודות\n?אל מי היינו נחמדים\nרק לדודים ולדודות\n\nוהבנות המסכנות סבלו\nהמתוקות, הן רק מכות קיבלו\nואת מה שהרגשנו באמת\nלחשנו רק בשפת הבי\"ת\n\nא-ב-ני-בי או-בו-ה-בב\nא-ב-ני-בי או-בו-ה-בב או-בו-ת-בך\nא-ב-ני-בי או-בו-ה-בב\nא-ב-ני-בי או-בו-ה-בב או-בו-ת-בך\n\nאהבה היא מילה יפה\nהיא תפילה יפה, היא שפה\nאהבה היא אליי טובה\nהיא תמיד תתגבר\nובשפת אהבה נדבר\n\nא-ב-ני-בי או-בו-ה-בב\nא-ב-ני-בי או-בו-ה-בב או-בו-ת-בך\nא-ב-ני-בי או-בו-ה-בב\nא-ב-ני-בי או-בו-ה-בב או-בו-ת-בך\n\nאני חולם וקם שלוש מילים\nומהו העולם? – שלוש מילים\nוזה מה שאני מרגיש כעת\nממש כמו אז, בשפת הבי\"ת\n\nא-ב-ני-בי או-בו-ה-בב\nא-ב-ני-בי או-בו-ה-בב או-בו-ת-בך\nא-ב-ני-בי או-בו-ה-בב\nא-ב-ני-בי או-בו-ה-בב או-בו-ת-בך\n\nא-ב-ני-בי או-בו-ה-בב\nא-ב-ני-בי או-בו-ה-בב או-בו-ת-בך\nא-ב-ני-בי או-בו-ה-בב\nא-ב-ני-בי או-בו-ה-בב או-בו-ת-בך\n\nא-ב-ני-בי או-בו-ה-בב\nא-ב-ני-בי או-בו-ה-בב או-בו-ת-בך"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I",
+      "content": "I love\nI love you\nI love\nI love you\nI love\nLove you\n\nWhen we were children\nWe would love in secret\nWho were we nice to?\nOnly to uncles and aunts\n\nAnd the poor girls suffered\nThose sweethearts, they'd just get beaten up\nAnd what we really felt\nWe whispered only in the Bet language\n\nI love\nI love you\nI love\nI love you\n\nLove is a beautiful word\nIt's a wonderous prayer, it's a language\nLove is good to me\nIt will always overcome\nAnd we shall speak in a language of love\n\nI love\nI love you\nI love\nI love you\n\nI dream and I wake up to three words\nAnd what is the world? – Three words\nAnd that is how I feel now\nJuѕt like back then, in the Bet languаge\n\nI love\nI love you\nI love\nI love you\n\nI love\nI love you\nI love\nI love you\n\nI love\nI love you"
+    }
+  ],
+  "bpm": 145,
+  "tone": "F minor",
+  "artistPeople": [
+    "Ester Tzuberi",
+    "Itzhak Okev",
+    "Izhar Cohen",
+    "Lisa Gold-Rubin",
+    "Nehama Shutan",
+    "Reuven Erez"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Nurit Hirsh"
+  ],
+  "conductor": "Nurit Hirsh",
+  "lyricists": [
+    "Ehud Manor"
+  ],
+  "writers": null,
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Yitzhak Shim'oni"
+}

@@ -1,0 +1,51 @@
+{
+  "id": 12,
+  "country": "NO",
+  "artist": "Kirsti Sparboe",
+  "song": "Karusell",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-BBDNn5GHzA",
+    "https://www.youtube-nocookie.com/embed/t9xU6u71FTM",
+    "https://www.youtube-nocookie.com/embed/Wac0KYQTsjQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "norwegian"
+      ],
+      "displayedLanguages": null,
+      "title": "Karusell",
+      "content": "Mamma, jeg skal møte'n Kjell og han Arne nå i kveld\nVi skal spleise til en reise på en gøyal karusell\n\nMamma, hvem skal jeg kjøre med først?\nKanskje Arne for han er jo størst?\nJa, han denger opp Kjell hvis han drar i fletta mi\nEller kaller meg popjenta si\n\nMen når Arne og jeg tar en tur\nBlir han Kjell så forskrekkelig sur\nSå jeg tror det er best at vi kjører alle tre\nI en vogn som er stor nok til det\n\nMamma, jeg er forelsket i Kjell\nKlart jeg kjører med han likevel\nNår vi suser avsted skal han få en real klem\nOg så skal han få følge meg hjem\n\nStakkar Arne må stå der og se\nMen jeg kan ikke bry meg om det\nJeg har sannelig nok med å tenke på meg selv\nNår jeg svever omkring med han Kjell\n\nNår jeg svever omkring, når jeg svever omkring\nNår jeg svever i vår kаruѕell"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Merry-go-round",
+      "content": "Mummy, I'm meeting our Kjell and our Arne now tonight\nWe'll go Dutch for a ride on a fun merry-go-round\n\nMummy, who should I go with first?\nMaybe Arne as he's the biggest?\nYes, he'll beat up Kjell if he pulls my ponytail\nOr calls me his pop-girl\n\nBut when Arne and I go for a ride\nKjell becomes so incredibly cross\nSo I think it's best we go all three\nIn a wagon large enough\n\nMummy, I'm in love with Kjell\nOf course I'll go with him all the same\nAs we race along I'll give him a big hug\nAnd then he can take me home\n\nPoor Arne must stand there and watch\nBut I can't let that bother me\nI surely have enough with myѕelf\nWhile I'm racing along with our Kjell\n\nWhile I'm racing along, while I'm racing along\nWhile I'm rаcing on our merry-go-round"
+    }
+  ],
+  "bpm": 137,
+  "tone": "C major",
+  "artistPeople": [
+    "Kirsti Sparboe"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Øivind Bergh",
+  "lyricists": null,
+  "writers": [
+    "Jolly Kramer-Johansen"
+  ],
+  "broadcaster": "NRK",
+  "commentators": [
+    "Erik Diesen"
+  ],
+  "jury": null,
+  "spokesperson": "Sverre Christophersen"
+}

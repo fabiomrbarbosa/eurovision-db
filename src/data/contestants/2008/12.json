@@ -1,0 +1,60 @@
+{
+  "id": 12,
+  "country": "PT",
+  "artist": "Vânia Fernandes",
+  "song": "Senhora Do Mar (Negras Águas)",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/rJwoMPyXPo0",
+    "https://www.youtube-nocookie.com/embed/vtBNQYQQEDc",
+    "https://www.youtube-nocookie.com/embed/R5n-bQh-llo",
+    "https://www.youtube-nocookie.com/embed/_ALkBuzyei8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Senhora do mar",
+      "content": "Senhora do mar\nAnte vós, me tendes caída\nQuem vem tirar meia da vida e da paz\nDesta mesa, desta casa, perdidas?\nAmor, qu'é de ti?\n\nSenhora do mar\nAnte vós, minha alma está vazia\nQuem vem chamar a si o que é meu?\nÓ mar alto, traz pr'a mim\nAmor meu sem fim\n\nAi, negras águas, ondas de mágoas\nGelaram-m'o fogo no olhar (Senhora do mar)\nEle não torna a navegar (Ele não torna a navegar)\nE ninguém vos vê chorar\nSenhora do mar\n\nQuem vem tirar meia da vida e da paz\nDesta mesa, desta casa, perdidas?\nAmor, qu'é de ti?\n\nAi, negras águas, ondas de mágoas\nGelaram-m'o fogo no olhar (Senhora do mar)\nFeridas em sal, rezas em vão (Rezas em vão)\nDeixai seu coração (Deixai seu coração)\nBater junto a mim (Bater junto a mim)\n\nAi, negras águas, ondas de mágoas\nGelaram-m'o fogo no olhar (Senhora do mar)\nEle não torna a navegar (Ele não torna a navegar)\nE ninguém vos vê chorar (E ninguém voѕ vê chorar)\nSenhora do mar (Senhora do mаr)"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Lady of the sea",
+      "content": "Lady of the sea\nBefore you, I'm fallen\nWho comes and takes half of life and peace\nFrom this table, from this house, now lost?\nLove, where are you?\n\nLady of the sea\nBefore you, my soul is empty\nWho comes and takes what is mine?\nOh high sea, bring me\nMy endless love\n\nAh, black waters, waves of sorrow\nHave frozen the fire in my eyes (Lady of the sea)\nHe's not sailing anymore (He's not sailing anymore)\nAnd nobody sees you crying\nLady of the sea\n\nWho comes and takes half of life and peace\nFrom this table, from this house, now lost?\nLove, where are you?\n\nAh, black waters, waves of sorrow\nHave frozen the fire in my eyes (Lady of the sea)\nSalty wounds, prayers in vane (Prayers in vain)\nLet his heart (Let his heart)\nBeat next to me (Beat next to me)\n\nAh, black waters, waves of sorrow\nHave frozen the fire in my eyes (Lady of the sea)\nHe's not sailing anymore (He's not sailing anymore)\nAnd nobody sees you crying (And nobody sees you crying)\nLady of the sea (Lady of the ѕeа)"
+    }
+  ],
+  "bpm": 70,
+  "tone": "C# minor",
+  "artistPeople": [
+    "Vânia Fernandes"
+  ],
+  "backings": [
+    "Evelyne Filipe",
+    "Jéssica Pereira",
+    "Joana Dias",
+    "Jonas Lopes",
+    "Luís Sousa"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Andrej Babić"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Carlos Coelho"
+  ],
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Isabel Angelino"
+  ],
+  "jury": null,
+  "spokesperson": "Teresa Villa-Lobos"
+}

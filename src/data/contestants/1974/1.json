@@ -1,0 +1,62 @@
+{
+  "id": 1,
+  "country": "IT",
+  "artist": "Gigliola Cinquetti",
+  "song": "Sì",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/YJ-fWh3j7ZM",
+    "https://www.youtube-nocookie.com/embed/DxLrcWUjZfs",
+    "https://www.youtube-nocookie.com/embed/ks8h2y4sFJ8",
+    "https://www.youtube-nocookie.com/embed/q-8gtdptjEY",
+    "https://www.youtube-nocookie.com/embed/5cip_s-RnHg",
+    "https://www.youtube-nocookie.com/embed/tcNWRFqov3o"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Sì",
+      "content": "Camminai un po', dietro i passi suoi\nE chissà perché non ridevo più\nL'erba si appoggiò sul vestito mio\nEra come se io dicessi addio\nNon leggevo più nei pensieri miei\nMa poi si fece chiara l'atmosfera\nE dovevo dirgli sì\n\nSì, la mia mente disse sì\nPer paura o per amore\nNon me lo chiesi mai\nSì, dolcemente dissi sì\nPer provare un'emozione\nChe non ho avuto mai\nE quando nel suo viso\nTutto il cielo si scoprì\nSì, sì\n\nQuel che accadde poi non ricordo più\nForse mi svegliai o mi addormentai\nE nei sogni miei grandi praterie\nE le mani tue strette nelle mie\nCorrevamo e poi, correvamo e poi\nE poi si fece chiara l'atmosfera\nE tornai a dirti sì\nSì\n\nSì, dolcemente dissi sì\nPer provare un'emozione\nChe non ho avuto mai\nE quando nel suo viso\nTutto il cielo si scoprì\n\nSì (All'amore ho detto sì)\n(E ogni notte come allora ancorа ti direi sì)\nSì, ѕì"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Yes",
+      "content": "I walked a little, following his steps\nAnd who knows why I wasn't laughing anymore\nThe grass leaned upon my dress\nIt was as if I was saying goodbye\nI can't read my thoughts anymore\nBut then the atmosphere cleared up\nAnd I had to say yes to him\n\nYes, my mind said yes\nOut of fear or out of love\nI never asked myself about it\nYes, I softly said yes\nTo feel an emotion\nThat I've never had before\nAnd when in his face\nThe whole sky cleared up\nYes, yes\n\nI can't remember anymore what happened after that\nMaybe I woke up or I fell asleep\nAnd in my dreams, there were wide prairies\nAnd your hands were holding mine\nWe ran and then, we ran and then\nAnd then the atmosphere cleared up\nAnd I said yes to you once again\nYes\n\nYes, I softly said yes\nTo feel an emotion\nThat I've never had before\nAnd when in his face\nThe whole sky cleared up\n\nYes (I said yes to love)\n(And I would sаy yes to you every night like then)\nYes, yeѕ"
+    }
+  ],
+  "bpm": 172,
+  "tone": "G major",
+  "artistPeople": [
+    "Gigliola Cinquetti"
+  ],
+  "backings": [
+    "Lalla Francia",
+    "Mirella Bossi",
+    "Paola Orlandi",
+    "Silvia Annichiarico"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Gianfranco Monaldi",
+  "lyricists": null,
+  "writers": [
+    "Corrado Conti",
+    "Daniele Pace",
+    "Lorenzo Pilat",
+    "Mario Panzeri"
+  ],
+  "broadcaster": "RAI",
+  "commentators": [
+    "Rosanna Vaudetti"
+  ],
+  "jury": null,
+  "spokesperson": "Anna Maria Gambineri"
+}

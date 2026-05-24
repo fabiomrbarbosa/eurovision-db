@@ -1,0 +1,70 @@
+{
+  "id": 15,
+  "country": "CY",
+  "artist": "Stavros & Constantina",
+  "song": "I agapi akoma zi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Oh0bfRWDaSc",
+    "https://www.youtube-nocookie.com/embed/ypPS6sEjUMA",
+    "https://www.youtube-nocookie.com/embed/mL0hJn2FYqE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ellinika"
+      ],
+      "title": "I agapi akoma zi",
+      "content": "Na yinotane na ftiakso mia megali horodhia\nKe tragudhi na tis grapso me orea melodhia\nNa to mathun ta pedhia mas\nNa to len s' oli ti yi\nOlonon na 'ne tragudhi\nKe na legame mazi\n\nI agapi akoma zi, i agapi akoma zi\nI agapi akoma zi, i agapi akoma zi\nI agapi akoma zi, ki as min idhe aspri mera\nI agapi akoma zi, ti niotho apopse ston agera\n\nNa yinotane na ftiakso mia megali horodhia\nKe tragudhi na tis grapso me orea melodhia\nNa 'pernan ta onira mas\nNa ta kanan musiki\nKi i lai olu tu kosmu\nNa tragudhagan mazi\n\nI agapi akoma zi, i agapi akoma zi\nI agapi akoma zi, i agapi akoma zi\nI agapi akoma zi, ki as min idhe aspri mera\nI agapi akoma zi, tin niotho apopse ѕton agera\n\nI agapi akoma zi, i agapi akoma zi\nI agapi akoma zi, i agapi akomа zi"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ελληνικά"
+      ],
+      "title": "Η αγάπη ακόμα ζει",
+      "content": "Να γινότανε να φτιάξω μια μεγάλη χορωδία\nΚαι τραγούδι να της γράψω με ωραία μελωδία\nΝα το μάθουν τα παιδιά μας\nΝα το λεν σ' όλη τη γη\nΟλονών να 'ναι τραγούδι\nΚαι να λέγαμε μαζί\n\nΗ αγάπη ακόμα ζει, η αγάπη ακόμα ζει\nΗ αγάπη ακόμα ζει, η αγάπη ακόμα ζει\nΗ αγάπη ακόμα ζει, κι ας μην είδε άσπρη μέρα\nΗ αγάπη ακόμα ζει, τη νοιώθω απόψε στον αγέρα\n\nΝα γινότανε να φτιάξω μια μεγάλη χορωδία\nΚαι τραγούδι να της γράψω με ωραία μελωδία\nΝά 'παιρναν τα όνειρά μας\nΝα τα κάναν μουσική\nΚι οι λαοί όλου του κόσμου\nΝα τραγούδαγαν μαζί\n\nΗ αγάπη ακόμα ζει, η αγάπη ακόμα ζει\nΗ αγάπη ακόμα ζει, η αγάπη ακόμα ζει\nΗ αγάπη ακόμα ζει, κι ας μην είδε άσπρη μέρα\nΗ αγάπη ακόμα ζει, τη νοιώθω απόψε στον αγέρα\n\nΗ αγάπη ακόμα ζει, η αγάπη ακόμα ζει\nΗ αγάπη ακόμα ζει, η αγάπη ακόμα ζει"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Love is still alive",
+      "content": "I wish I could establish a big choir\nAnd write a song for it with a nice melody\nI wish our children could learn it\nAnd sing it all over the world\nAnd that it would be a song for everyone\nAnd would say together\n\nLove is still alive, love is still alive\nLove is still alive, love is still alive\nLove is still alive, albeit without a sunny day\nLove is still alive, I feel it in the air tonight\n\nI wish I could establish a big choir\nAnd write a song for it with a nice melody\nI wish our children could learn it\nAnd make music with it\nAnd the peoples of the earth\nCould sing together\n\nLove is still alive, love is still alive\nLove is still alive, love is still alive\nLove is still alive, albeit without a sunny day\nLove is still alive, I feel it in the air tonight\n\nLove is still alive, love is still alive\nLove is still alive, love is ѕtill аlive"
+    }
+  ],
+  "bpm": 91,
+  "tone": "F major",
+  "artistPeople": [
+    "Constantina Konstantinou",
+    "Stavros Sideras"
+  ],
+  "backings": [
+    "Elena Patroklou",
+    "Evridiki Theokleous",
+    "John Vickers",
+    "Stelios Konstantinou"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Michalis Rozakis",
+  "lyricists": null,
+  "writers": [
+    "Stavros Sideras"
+  ],
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Fryni Papadopoulou"
+  ],
+  "jury": null,
+  "spokesperson": "Anna Partelidou"
+}

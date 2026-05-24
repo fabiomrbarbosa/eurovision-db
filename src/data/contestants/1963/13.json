@@ -1,0 +1,50 @@
+{
+  "id": 13,
+  "country": "NO",
+  "artist": "Anita Thallaug",
+  "song": "Solhverv",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/0_Qkg92kBmM",
+    "https://www.youtube-nocookie.com/embed/qgeAu0KjMFw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "norwegian"
+      ],
+      "displayedLanguages": null,
+      "title": "Solhverv",
+      "content": "I vinternattens favn med stjerner uten navn\nNår sne og is og kulde dekker alt på jord\nEn morgen klar til gry og natt blir dag påny\nEn demringstime for mitt trette hjerte slår\n\nNår solen sin bane har vendt\nOg dagen har lysene tent\nNår du er hos meg, da er natten forbi\nVi nynner på en glad melodi\n\nNå går vi med vår i vårt sinn\nMot sommer og solvarme inn\nOg dagene kommer og dagene går\nI kjærlighets gryende vår\n\nMin egen, du er meg inderlig kjær\nSymbolet på lys du er\nVår vinter er fjern, vår sommer er nær\nOg du er min hjertenskjær\n\nNår solen sin bane har vendt\nOg dagen hаr lysene tent\nVår vinter er fjern, men vår sommer er nær\nI morgensolens strålende ѕkjær"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Solstice",
+      "content": "In the embrace of the winter night with stars without names\nWhen snow, ice and frost covers everything on earth\nA morning ready for dawn and night becomes day again\nAn hour of dawn beats for my tired heart\n\nWhen the sun has turned its course\nAnd the day has lit its lights\nWhen you are with me, then the night is over\nWe're humming a happy melody\n\nNow we walk with spring in our minds\nTowards summer and heat from the sun\nAnd the days come, and the days go\nIn the dawning spring of love\n\nMy own, you are so dear to me\nYou're the symbol of light\nOur winter is distant, our summer is near\nAnd you are my heart's beloved\n\nWhen the sun has turned its course\nAnd the day has lit its lights\nOur winter is distant, but our summer is near\nIn the spаrkling glow of the morning ѕun"
+    }
+  ],
+  "bpm": 137,
+  "tone": "C# major",
+  "artistPeople": [
+    "Anita Thallaug"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Øivind Bergh",
+  "lyricists": null,
+  "writers": [
+    "Dag Kristoffersen"
+  ],
+  "broadcaster": "NRK",
+  "commentators": [
+    "Øivind Johnsen"
+  ],
+  "jury": null,
+  "spokesperson": "Roald Øyen"
+}

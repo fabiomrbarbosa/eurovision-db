@@ -1,0 +1,64 @@
+{
+  "id": 17,
+  "country": "IL",
+  "artist": "Rita",
+  "song": "Shara Barechovot",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/6LCtEaSFLSQ",
+    "https://www.youtube-nocookie.com/embed/5uwPNtcwGMs",
+    "https://www.youtube-nocookie.com/embed/2Iy_PWaFDTM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": [
+        "ivrit"
+      ],
+      "title": "Shara Barechovot",
+      "content": "Baboker hashkem\nYashanta shaket verach\nHitkaseti bame'il\nLo rotsa lehabit\n\nHish'arti hakol munach\nVe'et tsror hamaftechot\nBateva, kmo tamid\n\nTabit alai – shara barchovot\nMekabetset ahavot\nMitchameket minisim ve'achzavot\nShara barchovot\n\nKi ratsiti levater\nLo lihyot itcha yoter\nLo chashavti ma kedai o lo kedai\nVe'ata, shekol chaiai\nTisha'er kmo ktovet melach al yadai\n\nLaboker haze\nYesh ta'am shel chofesh zar\nKmo shel mavet o bracha\nKi halachti mimcha\n\nTabit alai – shara barchovot\nMekabetset ahavot\nMitchameket minisim ve'achzavot\nShara barchovot\n\nVehamaim hagdolim shehayita bishvili\nHitrachaku velo ba'im yoter elai\nVe'ata, shekol chaiai\nTisha'er ktovet melach al yadai\n\nOh, tabit alai\nTabit alai\nVehamaim hagdolim\nHitrachaku velo ba'im yoter elai\nVe'ata, shekol chaiai\nTiѕha'er kmo ktovet melach al yadai\n\nOoh… ooh…\nVehalachti mimcha\nVehalachti mimchа"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": [
+        "עברית"
+      ],
+      "title": "שרה ברחובות",
+      "content": "בבוקר השכם\nישנת שקט ורך\nהתכסיתי במעיל\nלא רוצה להביט\n\nהשארתי הכל מונח\nואת צרור המפתחות\nבתיבה, כמו תמיד\n\nתביט עליי – שרה ברחובות\nמקבצת אהבות\nמתחמקת מניסים ואכזבות\nשרה ברחובות\n\nכי רציתי לוותר\nלא להיות איתך יותר\nלא חשבתי מה כדאי או לא כדאי\nואתה, שכל חיי\nתשאר כמו כתובת מלח על ידיי\n\nלבוקר הזה\nיש טעם של חופש זר\nכמו של מוות או ברכה\nכי הלכתי ממך\n\nתביט עליי – שרה ברחובות\nמקבצת אהבות\nמתחמקת מניסים ואכזבות\nשרה ברחובות\n\nוהמים הגדולים שהיית בשבילי\nהתרחקו ולא באים יותר אליי\nואתה, שכל חיי\nתשאר כתובת מלח על ידיי\n\nהו, תביט עליי\nתביט עליי\nוהמים הגדולים\nהתרחקו ולא באים יותר אליי\nואתה, שכל חיי\nתשאר כמו כתובת מלח על ידיי\n\n…אוו… אוו\nוהלכתי ממך\nוהלכתי ממך"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Singing in the streets",
+      "content": "Early in the morning\nYou were sleeping silently and softly\nI covered myself in the coat\nNot wanting to look\n\nI left everything in its place\nAnd the keys\nIn the box, as always\n\nLook at me – singing in the streets\nGathering loves\nAvoiding miracles and disappointments\nSinging in the streets\n\nBecause I wanted to give up\nTo not be with you anymore\nI wasn't thinking about what is or isn't worthwhile\nAnd you, who are all my life\nWill remain like a salt inscription on my hands\n\nThis morning\nHas the taste of strange freedom\nLike of death or a blessing\nBecause I went away from you\n\nLook at me – singing on the streets\nGathering loves\nAvoiding miracles and disappointments\nSinging in the streets\n\nAnd the great waters that you had been for me\nHave gone far away and don't come to me anymore\nAnd you, who are all my life\nWill remain a salt inscription on my hands\n\nOh, look at me\nLook at me\nAnd the great waters\nHave gone far away and don't come to me anymore\nAnd you, who are all my life\nWill remain like a salt inscription on my handѕ\n\nOoh… ooh…\nAnd I went away from you\nAnd I went awаy from you"
+    }
+  ],
+  "bpm": 91,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Rita Yahan-Farouz"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Rami Kleinstein"
+  ],
+  "conductor": "Rami Levine",
+  "lyricists": [
+    "Tzruya Lahav"
+  ],
+  "writers": null,
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Yitzhak Shim'oni"
+}

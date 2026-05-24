@@ -1,0 +1,53 @@
+{
+  "id": 12,
+  "country": "PT",
+  "artist": "Armando Gama",
+  "song": "Esta balada que te dou",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/hyhMqYd-MXw",
+    "https://www.youtube-nocookie.com/embed/WtPIMgmnvu0",
+    "https://www.youtube-nocookie.com/embed/U016GvvExdc",
+    "https://www.youtube-nocookie.com/embed/WRFhdvBQWlU",
+    "https://www.youtube-nocookie.com/embed/JTe5VeXU1pg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Esta balada que te dou",
+      "content": "Ela diz que eu fui caso muito sério\nMas eu só sei que há algo nisso de anormal\nHavia un tempo, um olhar, um sorrir, um começo\nMas agora tudo perdeu seu brilho\n\nNa minha vida só houve um abraço como o teu\nUm sonho, um livro, uma aventura sem igual\nLinda, linda, esta balada que te dou\nLinda, linda, esta balada que te dou\n\nPodem até pensar que eu sou um pouco triste\nMas não há nenhum mal em ser assim\nPois tudo fica mesmo quando se acaba\nUm romance, uma paixão ou um caminho\n\nNa minha vida só houve um abraço como o teu\nUm sonho, um livro, uma aventura sem igual\nLinda, linda, esta balada que te dou\nLinda, linda, esta balada que te dou\n\nQuis escrever a mais bela canção que há no mundo\nOlhando para trás p'ra nos ver\nFoi quando ouvi uma voz cantando baixinho\nEsta balada que vinha de longe\n\nNa minha vida só houve um abraço como o teu\nUm sonho, um livro, uma aventura sem igual\n\nNa minha vida só houve um abraço como o teu\nUm sonho, um livro, uma aventura sem igual\nLinda, linda, esta balada que te dou\nLinda, linda, eѕta baladа que te dou"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "This ballad that I give you",
+      "content": "She says I was a very serious case\nBut only I know that there's something abnormal to that\nThere was a time, a look, a smile, a beginning\nBut now everything has lost its glow\n\nIn my life there was only one hug like yours\nA dream, a book, an adventure without equal\nIt's pretty, pretty, this ballad that I give you\nIt's pretty, pretty, this ballad that I give you\n\nYou might even think that I'm a bit sad\nBut there's nothing wrong with being this way\nFor when everything is over\nA romance, a passionate amour or a way\n\nIn my life there was only one hug like yours\nA dream, a book, an adventure without equal\nIt's pretty, pretty, this ballad that I give you\nIt's pretty, pretty, this ballad that I give you\n\nI wanted to write the most beautiful song in the world\nLooking back to see ourselves\nIt was when I heard a bass voice singing\nThis ballad which came from far away\n\nIn my life there was only one hug like yours\nA dream, a book, an adventure without equal\n\nIn my life there was only one hug like yours\nA dream, a book, an adventure without equal\nIt's pretty, pretty, this ballad that I give you\nIt's pretty, pretty, thiѕ ballad thаt I give you"
+    }
+  ],
+  "bpm": 84,
+  "tone": "E major",
+  "artistPeople": [
+    "Armando António Capelo Dinis da Gama"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Mike Sergeant",
+  "lyricists": null,
+  "writers": [
+    "Armando Gama"
+  ],
+  "broadcaster": "RTP",
+  "commentators": [
+    "Eládio Clímaco"
+  ],
+  "jury": null,
+  "spokesperson": "João Abel da Fonseca"
+}

@@ -1,0 +1,59 @@
+{
+  "id": 24,
+  "country": "ES",
+  "artist": "ESDM",
+  "song": "Contigo hasta el final",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5o_DnM_ANF8",
+    "https://www.youtube-nocookie.com/embed/6Ylr6ULCQww",
+    "https://www.youtube-nocookie.com/embed/GGvhpwr-WLY"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Contigo hasta el final",
+      "content": "Ah…\n\nUn cielo azul gana paso a la tormenta\nQue amenazó mi corazón\nY llegas tú, con todo lo que significas tú\nDescubriéndome quién soy\n\nEres esa luz que a través del universo\nTú me invitas a viajar contigo hasta el final\n\nLa ilusión de una vida por delante\nQue comienza justo hoy\nVámonos sin temor, gritemos que al final triunfó el amor\nQue ahora somos tú y yo\n\nEres esa luz que a través del universo\nTú me invitas a viajar, oh\nEres esa luz que a través del universo\nTú me invitas a viajar contigo hasta el final, oh yeah\nContigo hasta el final\n\nEres esa luz que a través del universo\nTú me invitas a viajar, oh\nEres esa luz que a través del universo\nTú me invitas a viajar contigo hasta el final, oh yeah\nContigo hasta el final, oh yeah\n\nContigo haѕta el finаl"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "With you until the end",
+      "content": "Ah…\n\nA blue sky overtakes the storm\nWhich threatened my heart\nAnd you arrive with everything you signify\nDiscovering myself who I am\n\nYou are that light that crosses the universe\nYou invite me to fly with you until the end\n\nThe illusion of a lifetime ahead of us\nWhich starts right now\nLet's go without fear, shout that in the end love conquered all\nThat now, it's you and I\n\nYou are that light that crosses the universe\nYou invite me to fly, oh\nYou are that light that crosses the universe\nYou invite me to fly with you until the end, oh yeah\nWith you until the end\n\nYou are that light that crosses the universe\nYou invite me to fly, oh\nYou are that light that crosses the univerѕe\nYou invite me to fly with you until the end, oh yeah\nWith you until the end, oh yeаh\n\nWith you until the end"
+    }
+  ],
+  "bpm": 156,
+  "tone": "C# major",
+  "artistPeople": [
+    "David Feito",
+    "Juan Luis Suárez",
+    "Raquel del Rosario"
+  ],
+  "backings": [
+    "Javi Mendéz",
+    "Mey Green",
+    "Milena Brody"
+  ],
+  "dancers": null,
+  "stageDirector": "Pedro Castro",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "David Feito",
+    "Juan Luis Suárez",
+    "Raquel del Rosario"
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "José María Íñigo"
+  ],
+  "jury": null,
+  "spokesperson": "Inés Paz"
+}

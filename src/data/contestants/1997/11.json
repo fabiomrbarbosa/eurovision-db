@@ -1,0 +1,68 @@
+{
+  "id": 11,
+  "country": "GR",
+  "artist": "Marianna Zorba",
+  "song": "Horepse",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/JE7z2PhlKNE",
+    "https://www.youtube-nocookie.com/embed/LnOFpKNLvWg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ellinika"
+      ],
+      "title": "Horepse",
+      "content": "Arga, arga\nFlogas kormi, kanis mayia\nThila, thila\nMu klinis, matia – fegaria\n\nHorepse, stis karthias mu tus htipus, pali\nSan karavani, t' astra, n' akolutho\nHorepse, tis erimu, margaritari\nMes' ap' to soma su, n' anastitho\n\nHorepse, stis karthias mu tus htipus, pali\nSan karavani, t' astra, n' akolutho\nHorepse, tis erimu, margaritari\nMes' ap' to soma su, n' anastitho\n\nSiga, siga\nKi itha ti nihta na lioni\nHloma, hloma\nHeria yimna na m' aploni\n\nHorepse, stis karthias mu tus htipus, pali\nSan karavani, t' astra, n' akolutho\nHorepse, tis erimu, margaritari\nMes' ap' to soma su, n' anastitho\n\nHorepse, stis karthias mu tus htipus, pali\nSan karavani, t' astra, n' akolutho\nHorepse, tis erimu, margaritari\nMes' ap' to soma su, n' anastitho\n\nHorepse, stis karthias mu tus htipus, pali\nSan karavani, t' astra, n' akolutho\nHorepse, tis erimu, margaritari\nMes' ap' to soma su, n' anаѕtitho"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ελληνικά"
+      ],
+      "title": "Χόρεψε",
+      "content": "Αργά, αργά\nΦλόγας κορμί, κάνεις μάγια\nΔειλά, δειλά\nΜου κλείνεις, μάτια – φεγγάρια\n\nΧόρεψε, στης καρδιάς μου τους xτύπους, πάλι\nΣαν καραβάνι, τ' άστρα, ν' ακολουθώ\nΧόρεψε, της ερήμου, μαργαριτάρι\nΜεσ' απ' το σώμα σου, ν' αναστηθώ\n\nΧόρεψε, στης καρδιάς μου τους xτύπους, πάλι\nΣαν καραβάνι, τ' άστρα, ν' ακολουθώ\nΧόρεψε, της ερήμου, μαργαριτάρι\nΜεσ' απ' το σώμα σου, ν' αναστηθώ\n\nΣιγά, σιγά\nΚι είδα τη νύχτα να λειώνει\nΧλωμά, χλωμά\nΧέρια γυμνά να μ' απλώνει\n\nΧόρεψε, στης καρδιάς μου τους xτύπους, πάλι\nΣαν καραβάνι, τ' άστρα, ν' ακολουθώ\nΧόρεψε, της ερήμου, μαργαριτάρι\nΜεσ' απ' το σώμα σου, ν' αναστηθώ\n\nΧόρεψε, στης καρδιάς μου τους xτύπους, πάλι\nΣαν καραβάνι, τ' άστρα, ν' ακολουθώ\nΧόρεψε, της ερήμου, μαργαριτάρι\nΜεσ' απ' το σώμα σου, ν' αναστηθώ\n\nΧόρεψε, στης καρδιάς μου τους xτύπους, πάλι\nΣαν καραβάνι, τ' άστρα, ν' ακολουθώ\nΧόρεψε, της ερήμου, μαργαριτάρι\nΜεσ' απ' το σώμα σου, ν' αναστηθώ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Dance",
+      "content": "Slowly, slowly\nLike the flame's figure, you cast your spells\nShyly, shyly\nYou close your moon-shaped eyes\n\nDance again to the beat of my heart\nAnd like a caravan I'll follow the stars\nDance, pearl of the desert\nAnd through your body I'll resurrect myself\n\nDance again to the beat of my heart\nAnd like a caravan I'll follow the stars\nDance, pearl of the desert\nAnd through your body I'll resurrect myself\n\nSoftly, softly\nI saw the night melting\nPalely, palely\nShe laid her naked hands upon me\n\nDance again to the beat of my heart\nAnd like a caravan I'll follow the stars\nDance, pearl of the desert\nAnd through your body I'll resurrect myself\n\nDance again to the beat of my heart\nAnd like a caravan I'll follow the stars\nDance, pearl of the desert\nAnd through your body I'll resurrect myself\n\nDance again to the beat of my heart\nAnd like a caravan I'll follow the stars\nDance, peаrl of the desert\nAnd through your body I'll resurrect myѕelf"
+    }
+  ],
+  "bpm": 115,
+  "tone": "E minor",
+  "artistPeople": [
+    "Marianna Zorba"
+  ],
+  "backings": [
+    "Dimitris Margiolas",
+    "Nikos Katsikis",
+    "Petros Kourtis",
+    "Vladimir Pettas"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Anacreon Papageorgiou",
+  "lyricists": null,
+  "writers": [
+    "Manolis Manusselis"
+  ],
+  "broadcaster": "ERT",
+  "commentators": [
+    "Dafni Bokota"
+  ],
+  "jury": null,
+  "spokesperson": "Niki Venega"
+}

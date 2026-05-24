@@ -1,0 +1,60 @@
+{
+  "id": 2,
+  "country": "DK",
+  "artist": "Kirsten & Søren",
+  "song": "Ka' du se hva' jeg sa'?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/iOAnJN8CMww",
+    "https://www.youtube-nocookie.com/embed/y9q6AvNfcfU",
+    "https://www.youtube-nocookie.com/embed/OjAeGpdy6-Y",
+    "https://www.youtube-nocookie.com/embed/E0DpU-bTJ5U"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "danish"
+      ],
+      "displayedLanguages": null,
+      "title": "Ka' du se hva' jeg sa'?",
+      "content": "Kender du mon typen\nDer ved alt med sikkerhed\nOg som godt ka' li' at trampe på dig\nNår du ligger ned\nHan fløjter, hvis det viser sig at fejlen, den er din\nSå si'r han hover'nde, og brandirriter'nde\nMed sit fjollede grin:\n\nKa' du se hva' jeg sa'?\nGi'r du mig ret eller hva'?\nOg hvem var så klogest af os to?\nKa' du se hva' jeg sa'?\nMåske du hel're sku' ta'\nAt høre lidt på mig, vil jeg påstå\nDet' ikk' fordi jeg ka' li' at gi' mig\nDen ros, jeg syn's, jeg fortjener\nMen ka' du se hva' jeg sa'?\nJeg tror i hvert fald, jeg gav dig ret\nHvis bar' du var mig\n\nJeg ska' nok la' vær', at nævne navnene på no'en\nMen du ved vel nok\nJeg tænker på en helt bestemt person\nDet' en du kender tem'lig godt\nOg med en smule held\nSå må du ku' gæt' det\nOg er det den rette\nSå ka' du si' til dig selv:\n\nKa' du se hva' jeg sa'?\nGi'r du mig ret eller hva'?\nOg hvem var så klogest af os to?\nKa' du se hva' jeg sa'?\nMåske du hel're sku' ta'\nAt høre lidt på mig, vil jeg påstå\nDet' ikk' fordi jeg ka' li' at gi' mig\nDen ros, jeg syn's, jeg fortjener\nMen ka' du se hva' jeg sa'?\nJeg tror i hvert fald, jeg gav dig ret\nHvis bar' du var mig\n\nDu går som i trance\nOg får du din chance\nSå ved jeg med garanti\nAt jeg bli'r den lille\nFor så vil du drille mig og si'\n(Vil du drille og drille), så vil jeg si':\n\nKa' du se hva' jeg sa'?\nGi'r du mig ret eller hva'?\nOg hvem var så klogest af os to?\nKa' du se hva' jeg sa'?\nMåske du hel're sku' ta'\nAt høre lidt på mig, vil jeg påstå\nDet' ikk' fordi jeg ka' li' at gi' mig\nDen ros, jeg syn's, jeg fortjener\nMen ka' du se hva' jeg sa'?\nJeg tror i hvert fald, jeg gav dig ret\nHviѕ bar' du vаr mig"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Don't you see, that's what I told you?",
+      "content": "Do you know the kind of person\nWho knows everything for certain\nAnd who likes trampling on you\nWhen you lie down\nHe whistles if it turns out that you're at fault\nThen he says gloatingly, and infuriatingly\nWith his silly laugh:\n\nDon't you see, that's what I told you?\nDo you agree or what?\nAnd who's the smartest of us?\nDon't you see, that's what I told you?\nMaybe you'd better\nListen a little to me, I'd claim\nIt's not because I like to give in\nI think I deserve that credit\nBut don't you see, that's what I told you?\nI definitely think I'd agree with you\nIf only you were me\n\nI won't name anybody by their name\nBut you do know\nI thinking of one particular person\nIt's someone you know fairly well\nAnd with a bit of luck\nYou should be able to guess it\nAnd if it the right one\nThen you can say to yourself:\n\nDon't you see, that's what I told you?\nDo you agree or what?\nAnd who's the smartest of us?\nDon't you see, that's what I told you?\nMaybe you'd better\nListen a little to me, I'd claim\nIt's not because I like to give in\nI think I deserve that credit\nBut don't you see, that's what I told you?\nI definitely think I'd agree with you\nIf only you were me\n\nYou walk around as in a trance\nAnd if you get your chance\nThen I know for sure\nThat I'll be the target\nBecause you'll tease me and say\n(You'll tease and tease), then I'll say:\n\nDon't you see, that's what I told you?\nDo you agree or what?\nAnd who's the smartest of us?\nDon't you see, that's what I told you?\nMaybe you'd better\nListen a little to me, I'd claim\nIt's not because I like to give in\nI think I deserve that credit\nBut don't you see, that'ѕ what I told you?\nI definitely think I'd аgree with you\nIf only you were me"
+    }
+  ],
+  "bpm": 155,
+  "tone": "Eb minor",
+  "artistPeople": [
+    "Kirsten Siggaard",
+    "Søren Bundgaard"
+  ],
+  "backings": [
+    "Cita de Friis",
+    "Mette Riis",
+    "Otto Leander Nielsen",
+    "Susanne Carstensen"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Søren Bundgaard"
+  ],
+  "conductor": "Henrik Krogsgaard",
+  "lyricists": [
+    "Keld Heick"
+  ],
+  "writers": null,
+  "broadcaster": "DR",
+  "commentators": [
+    "Jørgen de Mylius"
+  ],
+  "jury": null,
+  "spokesperson": "Bent Henius"
+}

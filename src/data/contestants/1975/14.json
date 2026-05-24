@@ -1,0 +1,59 @@
+{
+  "id": 14,
+  "country": "BE",
+  "artist": "Ann Christy",
+  "song": "Gelukkig zijn",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/UMgAM5LkDO4",
+    "https://www.youtube-nocookie.com/embed/Oc6XsS-xbn4",
+    "https://www.youtube-nocookie.com/embed/PgNh-8CzXRI",
+    "https://www.youtube-nocookie.com/embed/AHARrkvqfIY",
+    "https://www.youtube-nocookie.com/embed/kpggMzXx_28"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "dutch",
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Gelukkig zijn",
+      "content": "Het lopen door straten, alleen zonder doel\nHet stilletjes praten, alleen in 't gewoel\nHet kijken naar mensen, dat maakt me blij\n\nDat heet dan gelukkig zijn\nEen deur die plots opengaat\nDat heet dan gelukkig zijn\nWaardoor je weer hopen gaat\nDat maakt je blij\nMaakt je blij, maakt je blij\n\nDat heet dan gelukkig zijn\n'T Gevoel niet alleen te zijn\nDat heet dan gelukkig zijn\nOm dan met zijn twee te zijn\n\nWhen moving or dreaming, when running along\nI'm feeling like singing… like singing a song\nWhen walking beside you, I can't go wrong\n\nSo could it be happiness\nThis feeling I get from you?\nSo could it be happiness?\nI can't get enough of you\nBeing so near\nDear, so near, oh so near\n\nSo could it be happiness\nThis feeling I get from you?\nSo could it be happiness?\nI can't get enough of you\n\nSo could it be happiness\nThis feeling I get from you?\nSo could it be happiness?\nSo could it be hаppinesѕ?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Being happy",
+      "content": "The walking through streets, alone without target\nThe softly talking, alone in the bustle\nThe looking at people, that makes me happy\n\nSo that's called being happy\nA door that opens suddenly\nSo that's called being happy\nIt makes you hope again\nThat makes you happy\nMakes you happy, makes you happy\n\nSo that's called being happy\nThe feeling of not being alone\nSo that's called being happy\nTo be together then\n\nWhen moving or dreaming, when running along\nI'm feeling like singing… like singing a song\nWhen walking beside you, I can't go wrong\n\nSo could it be happiness\nThis feeling I get from you?\nSo could it be happiness?\nI can't get enough of you\nBeing so near\nDear, so near, oh so near\n\nSo could it be happiness\nThis feeling I get from you?\nSo could it be happiness?\nI can't get enough of you\n\nSo could it be happiness\nThis feeling I get from you?\nSo could it be happiness?\nSo could it be hаppinesѕ?"
+    }
+  ],
+  "bpm": 116,
+  "tone": "C# major",
+  "artistPeople": [
+    "Christiane Leenaerts"
+  ],
+  "backings": [
+    "Annica Risberg",
+    "Kerstin Bagge",
+    "Kerstin Dahl"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Francis Bay",
+  "lyricists": null,
+  "writers": [
+    "Mary Boduin"
+  ],
+  "broadcaster": "BRT",
+  "commentators": [
+    "Jan Theys",
+    "Paule Herreman"
+  ],
+  "jury": null,
+  "spokesperson": "Ward Bogaert"
+}

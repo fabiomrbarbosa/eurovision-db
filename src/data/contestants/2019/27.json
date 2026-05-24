@@ -1,0 +1,77 @@
+{
+  "id": 27,
+  "country": "HU",
+  "artist": "Joci Pápai",
+  "song": "Az én apám",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/IpVr0pBLfI4",
+    "https://www.youtube-nocookie.com/embed/WVW_vZHYnkk",
+    "https://www.youtube-nocookie.com/embed/QjVyhLbiIPw",
+    "https://www.youtube-nocookie.com/embed/aonagB1PBKA",
+    "https://www.youtube-nocookie.com/embed/tYKWmkOrO34",
+    "https://www.youtube-nocookie.com/embed/OZkENZ4PXZw",
+    "https://www.youtube-nocookie.com/embed/aHTSYXTzCZ8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "hungarian"
+      ],
+      "displayedLanguages": null,
+      "title": "Az én apám",
+      "content": "Az én apám\nÚgy nevelt mint a szél\nHalkan fújt énekelt\nÚgy mesélt\nOtt lakott hol minden út véget ért\nEzeregy év is kevés egy életért egy életért\n\nHallom őt az ő szívét a húrokon\nLatom őt múló idővel arcomon\nAz ő hitét büszkeség vallanom\nEzer egy dalból azt az egyet dúdolom\n\nRégi napok gyönyörű napok\nSzeretem az emlékét\nŐ hív\nÉs hozzá szaladok\nJátszani így volt szép\nRégi dalok megidézik\nMég érzem a nap fényét\nA szél zúgasát is hallom még\nA szél hangjában is hallom még\n\nEgy dallal űzte messze el a bánatom\nMit adhatok csak azt, hogy hozzá tartozom\nS az én fiamnak büszkeséggel mondhatom\nŐ az én apám és itt az én otthonom\n\nRégi napok gyönyörű napok\nSzeretem az emlékét\nŐ hív\nÉs hozzá szaladok\nJátszani így volt szép\nRégi dalok megidézik\nMég érzem a napfényét\nA szél fütyült altatót\nLegyen álmom szép\nA szél fütyült altatót\nMa iѕ hаllom még"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "My father",
+      "content": "My father raised me like the wind\nBlowing softly, singing, telling fairy tales\nHe lived where every road ended\nOne thousand and one years aren't enough for a life, for a life\n\nI can hear him, his heart on the strings\nI can see him, bearing the passing time on my face\nI'm proud to confess his faith\nOf a thousand and one songs this is the one that I hum\n\nOld days, beautiful days\nI love his memory\nHe calls me and I run to him\nThat was a lovely way to play\n\nOld songs summon him\nI still feel the sun's light\nI can still hear the drone of the wind\nI can still hear him in the voice of the wind\n\nWith a song he drove my sadness far away\nAll I can give him is that I belong to him\nAnd I can say to my son with pride\nHe's my father, and here's my home\n\nOld days, beautiful days\nI love his memory\nHe calls me and I run to him\nThat was a lovely way to play\n\nOld songs summon him\nI still feel the sun's light\nThe wind whistled a lullaby so my dream would be beautiful\nThe wind whistled a lullaby, I can ѕtill hear it todаy"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Isäni",
+      "content": "Isäni kasvatti minut kuin tuuli\nPuhalla pehmeästi, laula, kerro satuja\nHän asuu siellä mihin kaikki tiet loppuu\nTuhatyksi vuotta ei ole tarpeeksi elämälle, elämälle\n\nKuulen hänet, hänen sydämensä langoilla\nNäen hänet, kuluvan ajan kasvoillani\nOlen ylpeä tunnustamaan hänen uskonsa\nTuhannestayhdestä laulusta tämä on se jolle hyräilen\n\nVanhat päivät, kauniit päivät\nRakastan hänen muistiaan\nHän kutsuu minua ja juoksen luokseen\nSe oli ihana leikki\n\nVanhat laulut kutsuvat häntä\nTunnen silti auringon valon\nKuulen siltikin tuulen huminaa\nKuulen edelleen hänen äänensä tuulessa\n\nLaulullaan hän ajoi suruni kauas pois\nVoin antaa hänelle vain sen, että kuulun hänelle\nVoin sanoa pojalleni ylpeydellä\nHän on isäni ja täällä on kotini\n\nVanhat päivät, kauniit päivät\nRakastan hänen muistiaan\nHän kutsuu minua ja juoksen luokseen\nSe oli ihana leikki\n\nVanhat laulut kutsuvat häntä\nTunnen silti auringon valon\nTuuli vihelsi kehtolaulua, jotta unelmani olisi kaunis\nTuuli vihelsi kehtolauluа, kuulen ѕitä tänäkin päivänä"
+    }
+  ],
+  "bpm": 96,
+  "tone": "Eb minor",
+  "artistPeople": [
+    "József Pápai"
+  ],
+  "backings": [
+    "Ferenc Feng Ya Ou",
+    "Petra Katona"
+  ],
+  "dancers": null,
+  "stageDirector": "Szabolcs Gyöngyösi",
+  "composers": [
+    "Ferenc Molnár",
+    "Joci Pápai"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Ferenc Molnár"
+  ],
+  "writers": null,
+  "broadcaster": "MTV",
+  "commentators": [
+    "Bogi",
+    "Freddie"
+  ],
+  "jury": [
+    "Béla Patkó",
+    "Izil",
+    "Kati Wolf",
+    "Lola",
+    "Mátyás Szepesi"
+  ],
+  "spokesperson": "Bence Forró"
+}

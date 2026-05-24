@@ -1,0 +1,70 @@
+{
+  "id": 4,
+  "country": "GR",
+  "artist": "Cleopatra",
+  "song": "Olou Tou Kosmou tin Elpida",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/HQQI_xt-j-g",
+    "https://www.youtube-nocookie.com/embed/CONrIDVno6o",
+    "https://www.youtube-nocookie.com/embed/pxAxmZ6S0BY"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ellinika"
+      ],
+      "title": "Olou Tou Kosmou tin Elpida",
+      "content": "Ti na po yia osa yiro mu alazun\nTa simathia ton keron ti tha mu pun\nI apories ton pethion mu me tromazun\nI apandisis pu tus thino then arkun\n\nSto taxithi as gini pixitha\nTu traguthiu mu o skopos\nStin agapi apandisi itha\nKi olis tis Anixis to Fos\nKi olu tu kosmou tin Elpitha\n\nTi na po, apo pu irtha ke pu pao\nTi in' afto pu mu treleni to mialo\nVres mu mia lisi yia ola afta pu agapao\nNa nioso asfalia sto homa pu pato\n\nSto taxithi as gini pixitha\nTu traguthiu mu o skopos\nStin agapi apandisi itha\nKi olis tis Anixis to Fos\nKi olu tu kosmou tin Elpitha\n\nSto taxithi as gini pixitha\nTu traguthiu mu o skopos\nStin agapi apandisi itha\nKi olis tis Anixis to Fos\nKi olu tu koѕmou tin Elpithа"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ελληνικά"
+      ],
+      "title": "Ολου του κόσμου την Ελπίδα",
+      "content": "Τι να πω για όσα γύρω μου αλλάζουν\nΤα σημάδια των καιρών τι θα μου πουν\nΟι απορίες των παιδιών μου με τρομάζουν\nΟι απαντήσεις που τους δίνω δεν αρκούν\n\nΣτο ταξίδι ας γίνει πυξίδα\nΤου τραγουδιού μου ο σκοπός\nΣτην αγάπη απάντηση είδα\nΚι όλης της Άνοιξης το Φως\nΚι όλου του κόσμου την Ελπίδα\n\nΤι να πω, από που ήρθα και που πάω\nΤι είν' αυτό που μου τρελλαίνει το μυαλό\nΒρες μου μια λύση για όλα αυτά που αγαπάω\nΝα νοιώσω ασφάλεια στο χώμα που πατώ\n\nΣτο ταξίδι ας γίνει πυξίδα\nΤου τραγουδιού μου ο σκοπός\nΣτην αγάπη απάντηση είδα\nΚι όλης της Άνοιξης το Φως\nΚι όλου του κόσμου την Ελπίδα\n\nΣτο ταξίδι ας γίνει πυξίδα\nΤου τραγουδιού μου ο σκοπός\nΣτην αγάπη απάντηση είδα\nΚι όλης της Άνοιξης το Φως\nΚι όλου του κόσμου την Ελπίδα"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "All the hope in the world",
+      "content": "What can I say about everything that is changing around me\nWhat will it mean for me the future\nMy children's questions frighten me\nThe answers that I give them are not enough\n\nLet my song's melody\nBe the compass to the journey\nI found the answer in love\nAnd the whole light of Spring\nAnd all the hope in the world\n\nWhat can I say about where I came from and where I'm going to\nWhat is this that makes me go crazy\nFind for a solution for everything that I love\nTo make me feel secure on the ground I walk on\n\nLet my song's melody\nBe the compass to the journey\nI found the answer in love\nAnd the whole light of Spring\nAnd all the hope in the world\n\nLet my song's melody\nBe the compass to the journey\nI found the anѕwer in love\nAnd the whole light of Spring\nAnd аll the hope in the world"
+    }
+  ],
+  "bpm": 108,
+  "tone": "B major",
+  "artistPeople": [
+    "Cleopatra Pantazi"
+  ],
+  "backings": [
+    "Christos Lagos",
+    "Dimitris Vlagiannis",
+    "George Calogeropoulos",
+    "Panagiotis Dracopoulos",
+    "Stelios Zachariou"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Haris Andreadis",
+  "lyricists": null,
+  "writers": [
+    "Christos Lagos"
+  ],
+  "broadcaster": "ERT",
+  "commentators": [
+    "Dafni Bokota"
+  ],
+  "jury": null,
+  "spokesperson": "Fotini Giannoulatou"
+}

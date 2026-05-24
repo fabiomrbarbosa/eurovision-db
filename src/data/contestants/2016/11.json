@@ -1,0 +1,71 @@
+{
+  "id": 11,
+  "country": "MT",
+  "artist": "Ira Losco",
+  "song": "Walk on Water",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/58YS5m3EYVY",
+    "https://www.youtube-nocookie.com/embed/9J7O5BGqPDk",
+    "https://www.youtube-nocookie.com/embed/owdRmyu_Jac",
+    "https://www.youtube-nocookie.com/embed/LVMuYvchTgs",
+    "https://www.youtube-nocookie.com/embed/cuTXiWb0oas",
+    "https://www.youtube-nocookie.com/embed/8o_lSMrLADk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Walk on Water",
+      "content": "Ahh…\n\nI've been fading into grey\nTrying to be someone\nTrying to please someone\n\nI've been painting bitter blue\nAlways hitting walls\nAlways trying to break the fall\n\nI'm not perfect\nBut I'm A ok\nChasing off the clouds\nI lock the blues away\nI lock the pain away\n\nI can't get enough of your love\nI can't get you out of my heart\nI can't get enough of your love\n'Cause i-i-i-I\n\nFeel like I can walk on water\nOn water, On water\nAnd now i'm gonna walk on\nWater, On water, On water\nFeels like I can walk on water\n\nI've been trying hard to hear\nWhat my heart wants to say\nLetting it lead the way\n\nI'm not perfect\nBut I'm A ok\nChasing off the clouds\nI lock the blues away\nI lock the pain away\n\nI can't get enough of your love\nI can't get you out of my heart\nI can't get enough of your love\n'Cause i-i-i-I\n\nFeel like I can walk on water\nOn water , On water\nAnd now i'm gonna walk on\n\nOoh ooh ooh\nAll I wanna do is\nOoh ooh ooh\nKeep walking on water\nOoh ooh ooh\nAll I wanna do is\nWalk on water\n\nOoh\n\nI can't get enough of your love\n'Cauѕe i- i-i-I\n\nFeel like I can walk on water\nOn water, On water\nAnd now i'm gonna walk on\nWater On water on water\nFeel like I can walk on wаter"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "maltese"
+      ],
+      "displayedLanguages": null,
+      "title": "Nimxi fuq l-Ilma",
+      "content": "Ahh…\n\nKont qed nisfuma fil-griż\nNipprova nkun xi ħadd\nNipprova nogħġob lil xi ħadd\n\nKont qed nitkaħħal\nDejjem naħbat mal-ħitan\nDejjem nipprova nwaqqaf il-waqgħa\n\nJien mhux perfetta\nImma jien A ok\nNiġri wara s-sħab\nInwarrab il-kħaħal lil hemm\nInwarrab l-uġigħ lil hemm\n\nMa nistax nieħu aktar minn imħabbtek\nMa nistax ineħħik minn qalbi\nMa nistax nieħu aktar minn imħabbtek\nMinħabba li ji-ji-ji-jien\n\nInħossni li nista' nimxi fuq l-ilma\nFuq l-ilma, Fuq l-ilma\nU issa se nimxi fuq\nL-ilma, Fuq l-iIma, Fuq l-ilma\nInħossni li nista' nimxi fuq l-ilma\n\nIpprovajt ħafna biex nisma'\nQalbi x'tixtieq tgħidli\nĦallejta tmexxi t-triq\n\nJien mhux perfetta\nImma jien A ok\nNiġri wara s-sħab\nInwarrab il-kħaħal lil hemm\nInwarrab l-uġigħ lil hemm\n\nMa nistax nieħu aktar minn imħabbtek\nMa nistax ineħħik minn qalbi\nMa nistax nieħu aktar minn imħabbtek\nMinħabba li ji-ji-ji-jien\n\nInħossni li nista' nimxi fuq l-ilma\nFuq l-ilma, Fuq l-ilma\nU issa se nimxi fuq\n\nOoh ooh ooh\nKull ma nixtieq nagħmel din\nOoh ooh ooh\nNibqa' nimxi fuq l-ilma\nOoh ooh ooh\nKull ma nixtieq nagħmel din\nNimxi fuq l-ilma\n\nOoh\n\nMa nistax nieħu aktar minn imħabbtek\nMinħabb li ji-ji-Jien\n\nInħossni li nista' nimxi fuq l-ilma\nFuq l-ilma, Fuq l-ilma\nU issa se nimxi fuq\nL-ilma Fuq l-ilma fuq l-ilma\nInħossni li niѕta nimxi fuq l-ilmа"
+    }
+  ],
+  "bpm": 124,
+  "tone": "F# major",
+  "artistPeople": [
+    "Ira Losco"
+  ],
+  "backings": [
+    "Anna Azzopardi",
+    "Lars Säfsund",
+    "Molly Pettersson Hammar",
+    "Pamela Bezzina"
+  ],
+  "dancers": [
+    "Fransman Skorpion"
+  ],
+  "stageDirector": "Stephane Boko",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Ira Losco",
+    "Lisa Desmond",
+    "Molly Pettersson Hammar",
+    "Tim Larsson",
+    "Tobias Lundgren"
+  ],
+  "broadcaster": "PBS",
+  "commentators": [
+    "Arthur Caruana"
+  ],
+  "jury": [
+    "Angie Laus",
+    "Ismael Portelli",
+    "Maria Abdilla",
+    "Matthew Merceica",
+    "Peter Borg"
+  ],
+  "spokesperson": "Ben Camille"
+}

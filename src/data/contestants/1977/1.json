@@ -1,0 +1,60 @@
+{
+  "id": 1,
+  "country": "GB",
+  "artist": "Lynsey de Paul & Mike Moran",
+  "song": "Rock Bottom",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/pUBudSy1-0o",
+    "https://www.youtube-nocookie.com/embed/n1wey0b2g74",
+    "https://www.youtube-nocookie.com/embed/RXhO6Cp7Syo",
+    "https://www.youtube-nocookie.com/embed/sunyuKSbXTc",
+    "https://www.youtube-nocookie.com/embed/7FGiAkqo6Ug"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Rock Bottom",
+      "content": "Where are we?\nRock bottom\nTragedies?\nWe got 'em\nRemedy?\nWhy don't we rub it out and start it again?\n\nOh, with a sympathy\nOh, I get it\nHarmony\nYou said it\nWhere are we?\nRock bottom - rub it out and start it again\n\nNow can you tell me? (Can you tell me?)\nOh, I don't know\nBut can you help me? (Can you help me?)\nI don't know\nAll I know is we can do anything we want to\n\nWhere are we?\nRock bottom\nTragedies?\nWe got 'em\nRemedy?\nWhy don't we rub it out and start it again?\n\nWith a sympathy\nOh, I get it\nHarmony\nYou said it\nWhere are we?\nRock bottom\nRub it out and start it again\n\nRock, rock, rock bottom\nRock, rock, rock bottom\nRock, rock, rock bottom\n\nCan you tell me? (Can you tell me?)\nI don't know\nBut can you help me? (Can you help me?)\nOh, I don't know\nAll I know is we can do anything we want to\n\nWhere are we? (Where are we?)\nRock bottom\nTragedies? (Tragedies?)\nWe got 'em\nRemedy? (Remedy?)\nWhy don't we rub it out and start it again?\n\nOh, with a sympathy (sympathy)\nOh, I get it\nHarmony (harmony)\nYou said it\nWhere are we? (Where are we?)\nRock bottom - rub it out and start it again\nWhere are we?\nRock bottom - rub it out and start it again\n\nRock, rock, rock bottom\nRock, rock, rock bottom\nRock, rock, rock bottom\nRub it out and ѕtart it agаin\nOoh…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": null,
+      "title": "Στον Πάτο",
+      "content": "Πού 'μαστε;\nΣτον πάτο\nΤραγωδίες;\nΤις έχουμε\nΘεραπεία;\nΓιατί να μη τα σβήσουμε όλα και πάλι απ' την αρχή;\n\nΩ, με συμπάθεια\nΑ, κατάλαβα\nΑρμονία\nΚαλά τα λες\nΠού 'μαστε;\nΣτον πάτο - σβήσε τα όλα και πάλι απ' την αρχή\n\nΤώρα μπορείς να μου πεις; (Μπορείς να μου πεις;)\nΩ, δεν ξέρω\nΜα μπορείς να με βοηθήσεις; (Μπορείς να με βοηθήσεις;)\nΔεν ξέρω\nΑυτό που ξέρω είναι πως μπορούμε να κάνουμε ό,τι θέλουμε\n\nΠού 'μαστε;\nΣτον πάτο\nΤραγωδίες;\nΤις έχουμε\nΘεραπεία;\nΓιατί να μη τα σβήσουμε όλα και πάλι απ' την αρχή;\n\nΜε συμπάθεια\nΑ, κατάλαβα\nΑρμονία\nΚαλά τα λες\nΠού 'μαστε;\nΣτον πάτο\nΣβήσε τα όλα και πάλι απ' την αρχή\n\nΣτον, στον, στον πάτο\nΣτον, στον, στον πάτο\nΣτον, στον, στον πάτο\n\nΜπορείς να μου πεις; (Μπορείς να μου πεις;)\nΔεν ξέρω\nΜα μπορείς να με βοηθήσεις; (Μπορείς να με βοηθήσεις;)\nΩ, δεν ξέρω\nΑυτό που ξέρω είναι πως μπορούμε να κάνουμε ό,τι θέλουμε\n\nΠού 'μαστε; (Πού 'μαστε;)\nΣτον πάτο\nΤραγωδίες; (Τραγωδίες;)\nΤις έχουμε\nΘεραπεία; (Θεραπεία;)\nΓιατί να μη τα σβήσουμε όλα και πάλι απ' την αρχή;\n\nΩ, με συμπάθεια (συμπάθεια)\nΑ, κατάλαβα\nΑρμονία (αρμονία)\nΚαλά τα λες\nΠού 'μαστε;\nΣτον πάτο - σβήσε τα όλα και πάλι απ' την αρχή\nΠού 'μαστε;\nΣτον πάτο - σβήσε τα όλα και πάλι απ' την αρχή\n\nΣτον, στον, στον πάτο\nΣτον, στον, στον πάτο\nΣτον, στον, στον πάτο\nΣβήσε τα όλα και πάλι απ' την αρχή\nΩ…"
+    }
+  ],
+  "bpm": 155,
+  "tone": "G major",
+  "artistPeople": [
+    "Lynsey Rubin",
+    "Michael Moran"
+  ],
+  "backings": [
+    "Chas Mills",
+    "Claire Torry",
+    "Jill Mackintosh",
+    "Neil Lancaster"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Ronnie Hazlehurst",
+  "lyricists": null,
+  "writers": [
+    "Lynsey de Paul",
+    "Mike Moran"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Pete Murray"
+  ],
+  "jury": null,
+  "spokesperson": "Colin Berry"
+}

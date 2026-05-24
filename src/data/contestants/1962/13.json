@@ -1,0 +1,61 @@
+{
+  "id": 13,
+  "country": "ES",
+  "artist": "Victor Balaguer",
+  "song": "Llámame",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/1bqOFeTvXmA",
+    "https://www.youtube-nocookie.com/embed/VQ3l-1OHlOk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Llámame",
+      "content": "(Llámame, llámame)\n\nEres la rama podada\nEn el árbol de mis sueños\nEl amor que ya no es nada\nPero eres tú\n\n(La, lalalala)\n(La, lalalala)\n(La, lalalala, la)\n\n(La, lalalala)\n(Lalalala, lalalala)\n\nLlámame, llámame si lloras\nLlámame si pierdes el rumbo de tu vida (lalalala)\nCuenta siempre conmigo\nComo el amigo que nunca olvida\n(Doo doo doo wa doo wa)\n\nLlámame (pow), llámame si sufres (pow)\nLlámame si sientes que el mundo te abandona\nLlámame y tu pecado será olvidado\nCon sólo decir 'ven'\n\nLlámame si me necesitas\nSi ves el abismo abrirse a tus pies\nLlámame si te ves perdida\nPero no me pidas que crea en ti otra\n\n(La, lalalala)\n(Lalalala, lalalala)\n(Ta too da too da)\n(Ta too da too da)\n(Ta too da too da ta)\n(Lala, lalalala)\n\nLlámame si me necesitas\nSi ves el abismo abrirse a tus pies\nLlámame si te ves perdida\nPero no me pidas que crea en ti otra vez\n\n(Lala, lala, la)\nLlámame si lloras\nSi me necesitaѕ, llámаme"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Call me",
+      "content": "(Call me, call me)\n\nYou're the pruned branch\nIn the tree of my dreams\nLove that is nothing\nBut it's you\n\n(La la la la la)\n(La la la la la)\n(La la la la la la)\n\n(La la la la la)\n(La la la la la la la la)\n\nCall me, call me if you cry\nCall me if you lose the route of your life (lalalala)\nCount always on me\nLike the friend that never forgets\n(Doo doo doo wa doo wa)\n\nCall me (pow), call me if you suffer (pow)\nCall me if you feel that the world abandons you\nCall me and your sin will be forgotten\nBy just saying 'come'\n\nCall me if you need me\nIf you see the open abyss at your feet\nCall me if you are lost\nBut don't ask me to believe in you again\n\n(La, lalalala)\n(Lalalala, lalalala)\n(Ta too da too da)\n(Ta too da too da)\n(Ta too da too da ta)\n(Lala, lalalala)\n\nCall me if you need me\nIf you see the open abyss at your feet\nCall me if you're lost\nBut don't aѕk me to believe in you again\n\n(Lala, lala, la)\nCall me if you cry\nIf you need me, cаll me"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "catalan"
+      ],
+      "displayedLanguages": null,
+      "title": "Truca’m",
+      "content": "(Truca'm, truca'm)\n\nEts la branca podada\nEn l'arbre dels meus somnis\nL'amor que ja no es res\nPerò ets tú\n\n(La, lalalala)\n(La, lalalala)\n(La, lalalala, la)\n\n(La, lalalala)\n(Lalalala, lalalala)\n\nTruca'm, truca'm si plores\nTruca'm si perds el rumb de la teva vida (lalalala)\nConta sempre amb mi\nCom l'amic que mai oblida\n(Doo doo doo wa doo wa)\n\nTruca'm (pow), Truca'm si pateixes (pow)\nTruca'm si sents que el món t'abandona\nTruca'm i el teu pecat serà oblidat\nNomés dient 'vine'\n\nTruca'm si em necessites\nSi veus l'abisme obrir-se als teus peus\nTruca'm si et veus perduda\nPerò no em demanis que cregui en tu un altre vegada\n\n(La, lalalala)\n(Lalalala, lalalala)\n(Ta too da too da)\n(Ta too da too da)\n(Ta too da too da ta)\n(Lala, lalalala)\n\nTruca'm si em necessites\nSi veus l'abisme obrir-se als teus peus\nTruca'm si et veus perduda\nPerò no em demanis que cregui en tu un altre vegada\n\n(Lala, lala, la)\nTruca'm si plores\nSi em necessiteѕ, Trucа'm"
+    }
+  ],
+  "bpm": 90,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Víctor Balaguer"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Mario Selles"
+  ],
+  "conductor": "Jean Roderes",
+  "lyricists": [
+    "Miguel Portoles"
+  ],
+  "writers": null,
+  "broadcaster": "TVE",
+  "commentators": [
+    "Federico Gallo"
+  ],
+  "jury": null,
+  "spokesperson": "Diego Ramírez Pastor"
+}

@@ -1,0 +1,53 @@
+{
+  "id": 1,
+  "country": "GB",
+  "artist": "Pearl Carr & Teddy Johnson",
+  "song": "Sing Little Birdie",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/MNt9g_03dmc",
+    "https://www.youtube-nocookie.com/embed/PeGapLA9ZLU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Sing Little Birdie",
+      "content": "Sing, sing, sing, little birdie\nSing, sing, sing it\n\nThere's a bird on a branch\nThere's a branch on a tree\nThere's a tree in the meadow\nAnd that's where I long to be\n\n'Neath that bird on a branch\n'Neath that branch on a tree\n'Neath that tree in the meadow\nWhere you said you love me\n\nSing, little birdie, sing your song\nSing, you'll help our love along\nSing, little birdie up above\nSing a song of love\n\nThere's a bird on a branch\nThere's a branch on a tree\nWhere we carved our initials there\nFor all the world to see\n\n'Neath that bird on a branch\n'Neath that branch on a tree\nWhere we promised our true love\nFor all eternity\n\nSing, little birdie, sing your song\nSing, you'll help our love along\nSing, little birdie up above\nSing a song of love\n\nWhen the years pass on by\nAnd we're wed, you and I\nAnd the bluebirds are singing\nTheir sweet love songs in the sky\n\nWe will dream of that bird\nOn a branch, on a tree\nAnd that tree in the meadow\nWhere you said you love me\n\nSing, little birdie, sing your song\nSing, you'll help our love along\nSing, little birdie up above\nSing a song of love\n\nSing, little birdie, sing your song\nSing, you'll help our love along\nSing, little birdie up above\nSing а ѕong of love"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Canta, Pequeño Pajarito",
+      "content": "Canta, canta, canta, pequeño pajarito\nCanta, canta, cántala\n\nHay un pájaro en una rama\nHay una rama en un árbol\nHay un árbol en el prado\nY ahí es donde anhelo estar\n\nBajo ese pájaro en una rama\nBajo esa rama en un árbol\nBajo ese árbol en el prado\nDonde dijiste que me amas\n\nCanta, pequeño pajarito, canta tu canción\nCanta, ayudarás a nuestro amor\nCanta, pequeño pajarito allá arriba\nCanta una canción de amor\n\nHay un pájaro en una rama\nHay una rama en un árbol\nDonde tallamos nuestras iniciales\nPara que todo el mundo las vea\n\nBajo ese pájaro en una rama\nBajo esa rama en un árbol\nDonde prometimos nuestro amor verdadero\nPor toda la eternidad\n\nCanta, pequeño pajarito, canta tu canción\nCanta, ayudarás a nuestro amor\nCanta, pequeño pajarito allá arriba\nCanta una canción de amor\n\nCuando los años pasen\nY estemos casados, tú y yo\nY los azulejos estén cantando\nSus dulces canciones de amor en el cielo\n\nSoñaremos con ese pájaro\nEn una rama, en un árbol\nY ese árbol en el prado\nDonde dijiste que me amas\n\nCanta, pequeño pajarito, canta tu canción\nCanta, ayudarás a nuestro amor\nCanta, pequeño pajarito allá arriba\nCanta una canción de amor\n\nCanta, pequeño pajarito, canta tu canción\nCanta, ayudarás a nueѕtro amor\nCanta, pequeño pajarito allá arriba\nCanta una canción de аmor"
+    }
+  ],
+  "bpm": 115,
+  "tone": "A major",
+  "artistPeople": [
+    "Pearl Lavinia Carr",
+    "Edward Victor Johnson"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Stan Butcher"
+  ],
+  "conductor": "Eric Robinson",
+  "lyricists": [
+    "Syd Cordell"
+  ],
+  "writers": null,
+  "broadcaster": "BBC",
+  "commentators": [
+    "Tom Sloan"
+  ],
+  "jury": null,
+  "spokesperson": "Pete Murray"
+}

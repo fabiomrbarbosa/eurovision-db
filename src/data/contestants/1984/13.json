@@ -1,0 +1,58 @@
+{
+  "id": 13,
+  "country": "DE",
+  "artist": "Mary Roos",
+  "song": "Aufrecht geh'n",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ag3TeXJOGF4",
+    "https://www.youtube-nocookie.com/embed/Tqu-hLTogLw",
+    "https://www.youtube-nocookie.com/embed/-v36WY0QjCc",
+    "https://www.youtube-nocookie.com/embed/mSIxJ8SnKmo",
+    "https://www.youtube-nocookie.com/embed/tPufxKQnMAs",
+    "https://www.youtube-nocookie.com/embed/BqqXHSXbrug"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Aufrecht geh'n",
+      "content": "Also dann Adieu, ich mach dir keine Szene\nDreh dich um und geh, dein Mitleid brauch ich nicht\nVielleicht bin ich verzweifelt, vielleicht geht es mir schlecht\nDoch du wirst sehn, jetzt werde ich erst recht\n\nAufrecht gehn, aufrecht gehn\nIch hab endlich gelernt, wenn ich fall, aufzustehn\nMit Stolz in meinen Augen und trotz Tränen im Gesicht\nAufrecht gehn durch die Nacht ins Licht\n\nWenn du wieder kommst, ich weiss, das kann schon bald sein\nIst es ganz umsonst, ich warte nicht auf dich\nUnd wenn wir uns begegnen, schau ich kaum hin zu dir\nUnd wenn ich schwach werd, sag ich streng zu mir:\n\nAufrecht gehn, aufrecht gehn\nIch hab endlich gelernt, wenn ich fall, aufzustehn\nMit Stolz in meinen Augen und trotz Tränen im Gesicht\nAufrecht gehn durch die Nacht ins Licht\n\nNoch ist mein Schweigen etwas bitter\nUnd noch klingt auch mein Lachen etwas schrill\nNoch sind in meiner Seele Splitter\nNoch sehe ich kein Ziel, jedoch ich will\n\nAufrecht gehn, aufrecht gehn\nIch hab endlich gelernt, wenn ich fall, aufzustehn\nMit Stolz in meinen Augen und trotz Tränen im Gesicht\nAufrecht gehn durch die Nаcht inѕ Licht"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Walk tall",
+      "content": "So goodbye now, I won't make a scene\nTurn around and go, I don't need your compassion\nPerhaps I'm in despair, perhaps I feel bad\nBut you will see, now, more than ever, I want to\n\nWalk tall, walk tall\nAt last I've learnt to stand up when I fall\nWith proud in my eyes and in spite of tears in my face\nWalk tall through the night into the light\n\nWhen you come back, I know, it should be soon\nIt will be quite in vain, I'm not waiting for you\nAnd when we will meet, I will hardly look at you\nBut when I will become weak, I say strictly to myself\n\nWalk tall, walk tall\nAt last I've learnt to stand up when I fall\nWith proud in my eyes and in spite of tears in my face\nI go upright through the night into the light\n\nStill my silence is somewhat bitter\nAnd my laughing still sounds a bit shrill\nThere are still some splinters in my soul\nI still can't see my aim, but I will\n\nWalk tall, walk tall\nAt last I've learnt to stand up when I fall\nWith pride in my eyes and in spite of tearѕ in my face\nWalk tаll through the night into the light"
+    }
+  ],
+  "bpm": 85,
+  "tone": "E major",
+  "artistPeople": [
+    "Marianne Rosemarie Schwab"
+  ],
+  "backings": [
+    "Jerry Rix"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Michael Reinecke"
+  ],
+  "conductor": "Pierre Cao",
+  "lyricists": [
+    "Michael Kunze"
+  ],
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Ado Schlier"
+  ],
+  "jury": null,
+  "spokesperson": "Kerstin Schweighöfer"
+}

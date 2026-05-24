@@ -1,0 +1,53 @@
+{
+  "id": 2,
+  "country": "LU",
+  "artist": "Camillo Felgen",
+  "song": "Petit bonhomme",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/iPyam2tNeRg",
+    "https://www.youtube-nocookie.com/embed/2YysQ3_3a5g",
+    "https://www.youtube-nocookie.com/embed/ujbE4Zsz-AM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Petit bonhomme",
+      "content": "Petit bonhomme, au bout de ton enfance\nPetit bonhomme, il faudra se quitter\nTu partiras comme on part en vacances\nSur les chemins de la liberté\n\nPetit bonhomme, ainsi la vie nous mène\nEt les enfants s'échappent des parents\nJ'ai eu la joie, bientôt j'aurai la peine\nEt je te comprendrai, je t'aime et j'attends\n\nJe t'écoute dormir et tes rêves d'enfant\nMe font des souvenirs pour quand tu seras grand\nPlus grand que moi, demain déjà\n\nPetit bonhomme, il faut que je te dise\nPetit bonhomme, et tu n'y croiras pas\nMais quelquefois j'ai fait d'autres valises\nVite défaites à cause de toi\n\nPetit bonhomme, au jour du grand passage\nJe serai seul et tu ne viendras pas\nMais je dirai: \"Mon fils est en voyage\"\n\"Il est allé beaucoup plus loin, beаucoup pluѕ loin que moi\""
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Little boy",
+      "content": "Little boy, at the end of your childhood\nLittle boy, you'll have to quit\nYou'll leave like someone goes on holiday\nOn the paths of liberty\n\nLittle boy, that's how life leads us\nAnd the children escape from their parents\nI had joy, soon I will have pain\nAnd I'll understand you, I love you and I wait for you\n\nI hear you sleeping and your childhood dreams\nAre memories for me for when you'll be grown-up\nBigger than me, tomorrow already\n\nLittle boy, I have to tell you\nLittle boy, and you won't believe it\nBut sometimes I packed my suitcases\nAnd quickly unpacked them because of you\n\nLittle boy, at the day of the great path\nI will be alone and you won't come\nBut I'll say: \"My son iѕ on a journey\"\n\"He went a lot further, a lot further thаn me\""
+    }
+  ],
+  "bpm": 115,
+  "tone": "C major",
+  "artistPeople": [
+    "Camille Jean Nicolas Felgen"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jacques Datin"
+  ],
+  "conductor": "Jean Roderes",
+  "lyricists": [
+    "Maurice Vidalin"
+  ],
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": [
+    "Nicole Védrès"
+  ],
+  "jury": null,
+  "spokesperson": "Robert Diligent"
+}

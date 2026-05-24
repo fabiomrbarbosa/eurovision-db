@@ -1,0 +1,57 @@
+{
+  "id": 16,
+  "country": "DE",
+  "artist": "Ben Dolic",
+  "song": "Violent Thing",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/hAobDQ9GbT4",
+    "https://www.youtube-nocookie.com/embed/Ea82FK__m2Y",
+    "https://www.youtube-nocookie.com/embed/ALL02J1ffag"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Violent Thing",
+      "content": "Got that thing that I can't deny\nKilling me soft with the big brown eyes\nSuch a violent thing, would you let me know\nKnocking me down like a domino\n\nYou know that I'm right here, I'm working on love\nI'm waiting on something I need\nI think that you, you know\nYou know what I want\nYou got me on the edge of my seat\n\nOh, don't tell your mama what you're doing tonight\nTwenty-four hours ago you got that look in your eyes\nDon't need your number, 'cause I know you'll be there\nHappen all night and the beat don't lie, we're crystal clear\n'Cause if I got you with me tonight\nFeeling like I'm feeling tonight\nDon't tell your mama\nOh, you're such a violent thing\nOh, you're such a violent thing\n\nShooting high, we're getting low\nGuns and roses all alone\nAnd I wanna hear what you gotta say\nBut you won't give me no audio\n\nYou know that I'm right here, I'm working on love\nI'm waiting on something I need\nI think that you, you know\nYou know what I want\nYou got me on the edge of my seat\n\nOh, don't tell your mama what you're doing tonight\nTwenty-four hours ago you got that look in your eyes\nDon't need your number, 'cause I know you'll be there\nHappen all night and the beat don't lie, we're crystal clear\n'Cause if I got you with me tonight\nFeeling like I'm feeling tonight\nDon't tell your mama\nOh, you're such a violent thing\nOh…\n\nYou know that I'm right here, I'm working on love\nI'm waiting on something I need\nI think that you, you know\nYou know what I want\nYou got me on the edge of my seat\n\nOh, don't tell your mama what you're doing tonight\nTwenty-four hours ago you got that look in your eyes\nDon't need your number, 'cause I know you be there\nHappen all night and the beat don't lie, we're crystal clear\n'Cause if I got you with me tonight\nFeeling like I'm feeling tonight\nDon't tell your mama\nOh, you're such a violent thing\nOh, you're such a violent thing\n\nDon't tell your mama\nOh, you're ѕuch а violent thing"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Krasses Ding",
+      "content": "Ich hab da so ein Ding, das ich nicht verleugnen kann\nTötet mich sanft mit seinen großen braunen Augen\nSo ein echt krasses Ding, sagst du's mir?\nEs wirft mich um wie einen Domino\n\nDu weißt, dass ich genau hier bin, ich arbeite an unserer Liebe\nIch warte auf etwas, das ich brauche\nIch glaube, dass du, dass du es weißt\nDu weißt, was ich will\nDu hältst mich unter Anspannung\n\nOh, sag deiner Mama nicht, was du heute Nacht tust\nVor 24 Stunden hattest du diesen Blick in deinen Augen\nIch brauch deine Nummer nicht, denn ich weiß, dass du da sein wirst\nIm Licht und der Beat lügt nicht, wir sind klar wie Kristall\nDenn wenn ich dich heute Nacht bei mir habe\nUnd mich so wie heute Nacht fühle\nDann sag's deiner Mama nicht\nOh, du bist so ein krasses Ding\nOh, du bist so ein krasses Ding\n\nWir sollten uns verstecken, wir tauchen unter\nDie ganze Zeit nur Zuckerbrot und Peitsche\nUnd ich will hören, was du zu sagen hast\nDoch du gibst keinen Ton von dir\n\nDu weißt, dass ich genau hier bin, ich arbeite an unserer Liebe\nIch warte auf etwas, das ich brauche\nIch glaube, dass du, dass du es weißt\nDu weißt, was ich will\nDu hältst mich unter Anspannung\n\nOh, sag deiner Mama nicht, was du heute Nacht tust\nVor 24 Stunden hattest du diesen Blick in deinen Augen\nIch brauch deine Nummer nicht, denn ich weiß, dass du da sein wirst\nIm Licht und der Beat lügt nicht, wir sind klar wie Kristall\nDenn wenn ich dich heute Nacht bei mir habe\nUnd mich so wie heute Nacht fühle\nDann sag's deiner Mama nicht\nOh, du bist so ein krasses Ding\nOh, du bist so ein krasses Ding\n\nDu weißt, dass ich genau hier bin, ich arbeite an unserer Liebe\nIch warte auf etwas, das ich brauche\nIch glaube, dass du, dass du es weißt\nDu weißt, was ich will\nDu hältst mich unter Anspannung\n\nOh, sag deiner Mama nicht, was du heute Nacht tust\nVor 24 Stunden hattest du diesen Blick in deinen Augen\nIch brauch deine Nummer nicht, denn ich weiß, dass du da sein wirst\nIm Licht und der Beat lügt nicht, wir sind klar wie Kristall\nDenn wenn ich dich heute Nacht bei mir habe\nUnd mich so wie heute Nacht fühle\nDann sag's deiner Mama nicht\nOh, du bist so ein krasses Ding\nOh, du bist so ein krasses Ding\n\nSag's nicht deiner Mama\nOh, du bist so ein krаsseѕ Ding"
+    }
+  ],
+  "bpm": 120,
+  "tone": "C# minor",
+  "artistPeople": [
+    "Benjamin Dolič"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Borislav Milanov",
+    "Connor Martin",
+    "Dag Lundberg",
+    "Jimmy Thorén",
+    "Peter Saint James"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Borislav Milanov",
+    "Dag Lundberg",
+    "Peter Saint James"
+  ],
+  "writers": null,
+  "broadcaster": "NDR",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

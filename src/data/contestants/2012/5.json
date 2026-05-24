@@ -1,0 +1,57 @@
+{
+  "id": 5,
+  "country": "EE",
+  "artist": "Ott Lepland",
+  "song": "Kuula",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/T7BaTBe0UD8",
+    "https://www.youtube-nocookie.com/embed/fAHcPvycEl8",
+    "https://www.youtube-nocookie.com/embed/DzXKjvpgj2o",
+    "https://www.youtube-nocookie.com/embed/kHEcw4PHtl4",
+    "https://www.youtube-nocookie.com/embed/z3NIt5eVWUg",
+    "https://www.youtube-nocookie.com/embed/GqGMJ1sgDc0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "estonian"
+      ],
+      "displayedLanguages": null,
+      "title": "Kuula",
+      "content": "Kuula, mis räägib silmapiir\nKuula, kui kaugele ta viib\nKuula, mis tuulel öelda veel\nKuula\n\nVaata, kui pimedus on teel\nOota, meis valgus püsib veel\nKuula, kuis hingab sinu maa\nKuula\n\nKuula, mis vaikusesse jäi\nKuula, neid lihtsaid hetki vaid\nSa kuula – ka südamel on hääl\n\nVarjudesse tee on mööda läind\nMa vaatan ja otsin ikka veel\nOn vaikusel see võim – heliseda\nSind ma ootan siin just poolel teel\nSa kuula, hüüdmas on mu hääl\n\nKuula, mis vaikusesse jäi\nKuula, neid lihtsaid hetki vaid\nSa kuula – ka ѕüdamel on hääl\n\nSa kuulа nüüd mind"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Listen",
+      "content": "Listen to the horizon\nListen to how far it takes you\nListen to what the wind has to say\nListen\n\nWatch as darkness approaches\nWait – the light remains within us\nListen to how your land breathes\nListen\n\nListen to what has fallen silent\nJust listen to these simple moments\nListen – the heart too has a voice\n\nThe path has passed into shadow\nI look and keep on looking\nSilence has the power to resound\nI wait for you here, halfway there\nListen to my voice calling you\n\nListen to what has fallen silent\nJust listen to these simple moments\nListen – the heart too has а voice\n\nLiѕten to me now"
+    }
+  ],
+  "bpm": 129,
+  "tone": "F major",
+  "artistPeople": [
+    "Ott Lepland"
+  ],
+  "backings": [
+    "Marvi Vallaste"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Aapo Ilves",
+    "Ott Lepland"
+  ],
+  "broadcaster": "ERR",
+  "commentators": [
+    "Marko Reikop"
+  ],
+  "jury": null,
+  "spokesperson": "Getter Jaani"
+}

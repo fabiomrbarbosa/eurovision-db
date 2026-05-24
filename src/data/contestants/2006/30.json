@@ -1,0 +1,50 @@
+{
+  "id": 30,
+  "country": "BG",
+  "artist": "Mariana Popova",
+  "song": "Let Me Cry",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/_Q_x1lOmdpM",
+    "https://www.youtube-nocookie.com/embed/J8ukIvsia4g",
+    "https://www.youtube-nocookie.com/embed/7h0VC1eWfHg",
+    "https://www.youtube-nocookie.com/embed/6X0ZnqTs8hA",
+    "https://www.youtube-nocookie.com/embed/yhF3eSqGtu8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Let Me Cry",
+      "content": "(Honey, honey, honey, honey)\n(Honey, honey, honey, honey)\n(Please let me cry, just let me cry)\n\nTold you I was aware\nI have feelings to share with you\nSomething's over for good\n(Honey, honey, honey, honey)\nLove, passion, cheerful mood\n(Honey, honey)\nThe truth\n\nLet's say goodbye\nAnd never back again, let me cry\nI wanted you, you wanted to lie\nI knew that it would happen this way, yeah\n\n(Honey, honey, honey, honey)\n(Honey, honey, honey, honey)\n(Please let me cry, just let me cry) Oh…\n\nLearning how to obey\n(Honey, honey, honey, honey)\nLost my heart and my face\n(Honey, honey)\nMy soul\n\nLet's say goodbye\nAnd never back again, let me cry\nI wanted you, you wanted to lie\nI knew that it would happen this way, yeah\n\nOh… oh… oh… yeah…\n\nLet's say goodbye\nAnd never back again, let me cry\nI wanted you, you wanted to lie\nI knew that it would happen this way\n\nLet's ѕаy goodbye"
+    }
+  ],
+  "bpm": 100,
+  "tone": "A minor",
+  "artistPeople": [
+    "Mariana Popova"
+  ],
+  "backings": [
+    "Azis",
+    "Dani Milev"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Dani Milev"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Elina Gavrilova"
+  ],
+  "writers": null,
+  "broadcaster": "BNT",
+  "commentators": [
+    "Elena Rosberg",
+    "Georgi Kushvaliev"
+  ],
+  "jury": null,
+  "spokesperson": "Dragomir Simeonov"
+}

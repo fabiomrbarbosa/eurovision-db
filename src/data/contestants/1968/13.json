@@ -1,0 +1,54 @@
+{
+  "id": 13,
+  "country": "CH",
+  "artist": "Gianni Mascolo",
+  "song": "Guardando il sole",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/v9xl0pR0U4s",
+    "https://www.youtube-nocookie.com/embed/5p7-Hon_xLM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Guardando il sole",
+      "content": "Io vorrei, io vorrei star con te guardando il sole\nPregherò, pregherò per vedere l'arcobaleno\n\nE così se un altro giorno muor cercherò dentro i tuoi occhi ancora\nDi trovar quelle parole ricorderai dicevano t'amo, io t'amo, io t'amo\n\nIo vorrei, io vorrei intrecciare le mie mani con te\nAnche se non ci fosse mai una stella in ciel per il mio amor\n\nIo vorrei, io vorrei intrecciare le mie mani con te\nAnche se non ci fosse mai una ѕtella in ciel per il mio аmor"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Looking into the sun",
+      "content": "I would like, I would like to stay with you looking into the sun\nI would pray, I would pray to see the rainbow\n\nAnd so if another day dies, I would search in your eyes\nTo find those words saying I love you, I love you, I love you\n\nI would like, I would like to hold your hands in mine\nEven if there will never be a star of my love in the sky\n\nI would like, I would like to hold your hands in mine\nEven if there will never be a stаr of my love in the ѕky"
+    }
+  ],
+  "bpm": 96,
+  "tone": "F minor",
+  "artistPeople": [
+    "Gianni Mascolo"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Aldo D'Addario"
+  ],
+  "conductor": "Mario Robbiani",
+  "lyricists": [
+    "Sanzio Chiesa"
+  ],
+  "writers": null,
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Georges Hardy",
+    "Giovanni Bertini",
+    "Theodor Haller"
+  ],
+  "jury": null,
+  "spokesperson": "Alexandre Burger"
+}

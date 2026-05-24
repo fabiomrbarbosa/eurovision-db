@@ -1,0 +1,59 @@
+{
+  "id": 7,
+  "country": "EE",
+  "artist": "Maarja-Liis Ilus",
+  "song": "Keelatud maa",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/fpbHoOxpfzU",
+    "https://www.youtube-nocookie.com/embed/5t8x3vJUEss",
+    "https://www.youtube-nocookie.com/embed/rkW7FZkgN0E",
+    "https://www.youtube-nocookie.com/embed/NW4CF9BusXo",
+    "https://www.youtube-nocookie.com/embed/9A5nuscnlXo",
+    "https://www.youtube-nocookie.com/embed/5mcVqzfchpU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "estonian"
+      ],
+      "displayedLanguages": null,
+      "title": "Keelatud maa",
+      "content": "Miks aina peidad end eilses?\nKui sinna kaod, siis kadunuks jääd\nSind juba sajas kord leides\nSaand mõradest praod me vahel, ma näen\nKuid kui ma loobun, siis hukkud sootuks\n\nSel keelatud maal, ma tunnen end siis\nSind otsin ja jälle me vahel on piir\nSee keelatud maa, sind uduna varjab mu eest\nTa hajub kord siiski me teelt\n\nKui sind ei õnnestu leida\nJa otsides päevgi väheseks jääb\nVõid küll mu kõrvale heita –\nEi tunne mind sa, ei kuule, ei näe\nSind mõistan siiski\nTaas eilses viibid\n\nSel keelatud maal, ma tunnen end siis\nSind otsin ja jälle me vahel on piir\nSee keelatud maa, sind uduna varjab mu eest\nTa hajub kord siiski me teelt\n\nSind ära toon keelatud maalt\nMa sulle luban, toon ära sind ma\n\n(Keelatud maal, ma tunnen end siis)\nKeelatud maalt\n(Sind otsin ja jälle me vahel on piir)\nKeelatud maa (See keelatud maa)\nHoida ei saa (Ei lõputult hoida sind ѕaa)\nMe vahelt kaob keelatud maа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Forbidden land",
+      "content": "Why do you always hide yourself in yesterday\nWhen you disappear there you'll stay disappeared\nFinding you for the hundredth time already\nThe flaws between us have become cracks, I see\nBut if I give up, you'll be lost for good\n\nOn this forbidden land I feel myself again\nI'm looking for you and again there's a border between us\nThis forbidden land hides you from me like fog\nSometime it will disappear from our way\n\nWhen I can't find you\nAnd while looking even a day falls short\nYou may lie down next to me\nYou won't recognise me, won't hear, won't see\nStill I understand you\nYou linger in yesterday again\n\nOn this forbidden land I feel myself again\nI'm looking for you and again there's a border between us\nThis forbidden land hides you from me like fog\nSometime it will disappear from our way\n\nI'll bring you from the forbidden land\nI promise you, I will fetch you\n\n(This forbidden land, I feel myself again)\nFrom the forbidden land\n(I'm looking for you and again there's a border between us)\nForbidden land (This forbidden land)\nCan't keep you (Can't keep you forever)\nThe forbidden land will vаnish from between uѕ"
+    }
+  ],
+  "bpm": 178,
+  "tone": "C# major",
+  "artistPeople": [
+    "Maarja-Liis Ilus"
+  ],
+  "backings": [
+    "Airi Allvee",
+    "Evelin Samuel"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Harmo Kallaste"
+  ],
+  "conductor": "Tarmo Leinatamm",
+  "lyricists": [
+    "Kaari Sillamaa"
+  ],
+  "writers": null,
+  "broadcaster": "ERR",
+  "commentators": [
+    "Jüri Pihel"
+  ],
+  "jury": null,
+  "spokesperson": "Helene Tedre"
+}

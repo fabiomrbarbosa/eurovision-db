@@ -1,0 +1,44 @@
+{
+  "id": 8,
+  "country": "IE",
+  "artist": "The Swarbriggs",
+  "song": "That's What Friends Are For",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/sT34ZLdAg2U",
+    "https://www.youtube-nocookie.com/embed/un2-wcn7NYc",
+    "https://www.youtube-nocookie.com/embed/BxV5T47icco"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "That's What Friends Are For",
+      "content": "When you're lonely, when you're blue\nWhen you need someone to talk to\nWhen you need a talkin' to\nAnd when troubles full and plenty\nCome pilin' at your door\nThat's what friends are for\n\nLadies and gentlemen of the whole wide world\nIf every now and then a single voice was heard\nTelling it like it should be, makin' it simple and plain\nIf that man needs a helpin' hand\nHelp him in from the rain\n\nNow I know you, know you well\nAnd I know that you've been worryin'\nIt's not hard for me to tell\nBut I'm standin' right beside you\nOf that you can be sure\nThat's what friends are for\n\nLadies and gentlemen of the whole wide world\nIf every now and then a single voice was heard\nTelling it like it should be, makin' it simple and plain\nIf that man needs a helpin' hand\nHelp him in from the rain\n\nSo remember, take your time\nJust be sure and let it harmonise\nYeah, be sure and let it rhyme\nI might call on you to see me through\nSo open up your door\nThat's what friends are for\nThat's what friendѕ аre for"
+    }
+  ],
+  "bpm": 185,
+  "tone": "E major",
+  "artistPeople": [
+    "John James Swarbrigg",
+    "Thomas Sheridan Swarbrigg"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Colman Pearce",
+  "lyricists": null,
+  "writers": [
+    "Jimmy Swarbrigg",
+    "Tommy Swarbrigg"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Mike Murphy"
+  ],
+  "jury": null,
+  "spokesperson": "Brendan Balfe"
+}

@@ -1,0 +1,56 @@
+{
+  "id": 37,
+  "country": "NO",
+  "artist": "Stella Mwangi",
+  "song": "Haba haba",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/4hKqVLmzIFQ",
+    "https://www.youtube-nocookie.com/embed/hV1NBfr5OI4",
+    "https://www.youtube-nocookie.com/embed/4fwJzJQiXQ0",
+    "https://www.youtube-nocookie.com/embed/T7k9vOc_B9w"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english",
+        "swahili"
+      ],
+      "displayedLanguages": null,
+      "title": "Haba haba",
+      "content": "Haba haba hujaza kibaba\n\nWhen as a little girl, my grandma told me\nThat I could be just anything that I wanted to\nWhen as a little girl, my grandma told me\nThat I could be just anything that I wanted to\n\nShe said that\nEverything I work for, everything I wish for\nEverything I look for, it is right in front of me\nEverything I work for, everything I wish for\nEverything I look for, it is right in front of me\n\nAnd she said ah\nHaba haba hujaza kibaba\nHaba haba hujaza kibaba\nHaba haba hujaza kibaba\nHaba haba hujaza kibaba\n\nWhen as a little girl, my grandma told me\nThat it's the little things in life that's gon' make me happy\nWhen as a little girl my grandma told me\nThat it's the little things in life that's gon' make me happy\n\nShe said that\nLittle by little fills up the measure\nDon't ever give up, keep on moving\nLittle by little fills up the measure\nDon't ever give up, keep on moving\n\nHaba haba hujaza kibaba\nHaba haba hujaza kibaba\nHaba haba hujaza kibaba\nHaba haba hujaza kibaba\n\n(Haba haba hujaza kibaba) Sing it\n(Haba haba hujaza kibaba)\n(Haba haba hujaza kibaba)\n(Haba haba hujaza kibaba)\n\nHaba haba hujaza kibaba\nHaba haba hujaza kibaba\nHaba haba hujaza kibaba\nHaba haba hujaza kibaba\n\nHujaza kibaba\n\n<i style=\"color:#789\">Swahili: \"Haba haba hujaza kibaba\" means: \"Little by little fills the meаѕure\"</i>"
+    }
+  ],
+  "bpm": 124,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Stella Nyambura Mwangi"
+  ],
+  "backings": [
+    "May Kristin Kaspersen",
+    "Øyvind Boye Løvold",
+    "Samantha Gurah",
+    "Suzanne Fatou Sumbundu",
+    "Ulrik Engdahl"
+  ],
+  "dancers": null,
+  "stageDirector": "Mattias Carlsson",
+  "composers": [
+    "Andreas Sjo Engen",
+    "Big City",
+    "Kjetil Helgesen",
+    "Marcus Only",
+    "Victor Forberg-Skogeng"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Stella Nyambura Mwangi"
+  ],
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "Olav Viksmo-Slettan"
+  ],
+  "jury": null,
+  "spokesperson": "Nadia Hasnaoui"
+}

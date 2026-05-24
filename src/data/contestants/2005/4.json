@@ -1,0 +1,43 @@
+{
+  "id": 4,
+  "country": "LV",
+  "artist": "Walters & Kazha",
+  "song": "The War Is Not Over",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/olhn1FWuWNU",
+    "https://www.youtube-nocookie.com/embed/U6LMyPCcB2U",
+    "https://www.youtube-nocookie.com/embed/J9oPsWsPYNo"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The War Is Not Over",
+      "content": "Ta na na na… na na…\nNa na na… na na…\n\nI slowly walk into the night around\nTo see how dreams of people die\nThey gently fall from windows all around\nAnd crash against the ground like glass\nAnd I'm so sorry I'm so helpless in this angry world\nIf only I could change it for one day\n\nThe war is not over, everyone knows it\nIt's just a reason to make us believe\nThat someone's the loser, someone's the winner\nTo make us believe that's the way it should be\nBut I don't wanna believe\n\nIn the story they all tell this fairy tale has gone too far\nI take a step and dare myself to be free\nTo see how beautiful we are, that everyone can be a star\nIf only we would start believe in dreams\nBelieve in who we are\n\nThe war is not over, everyone knows it\nIt's just a reason to make us believe\nThat someone's the loser, someone's the winner\nTo make us believe that's the way it ѕhould be\nBut I don't wanna believe\n\nBut I don't wanna believe\nNo, no, no, but I don't wannа believe"
+    }
+  ],
+  "bpm": 105,
+  "tone": "F major",
+  "artistPeople": [
+    "Kārlis Būmeisters",
+    "Valters Frīdenbergs"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Mārtiņš Freimanis"
+  ],
+  "broadcaster": "LTV",
+  "commentators": [
+    "Kārlis Streips"
+  ],
+  "jury": null,
+  "spokesperson": "Marie N"
+}

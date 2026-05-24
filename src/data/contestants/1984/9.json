@@ -1,0 +1,55 @@
+{
+  "id": 9,
+  "country": "LU",
+  "artist": "Sophie Carle",
+  "song": "100% d'amour",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/sEWnCqgmM6I",
+    "https://www.youtube-nocookie.com/embed/UXrFTm6q3ck",
+    "https://www.youtube-nocookie.com/embed/NxgV-8t1i6Q"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "100% d'amour",
+      "content": "Au téléphone y a des soupirs\nQui nous empêchent de dormir\nDans ma radio y a trop de chansons\nQui me mettent le cœur en chiffon\n\nAu-dessus des villes y a des avions\nEt des étoiles qui tournent en rond\nOù sont les chevaux du manège?\nOù sont ces dieux qui nous protègent?\n\nDonnez-moi cent pour cent d'amour\nPour le partager tous les jours\nAvec le ciel, avec les gens, oh…\nDonnez-moi cent pour cent d'amour\n\nMoi je voudrais faire quelque chose\nAvec du bleu, avec du rose\nPour changer les yeux de la Terre\nQui regardent le film à l'envers\n\nMoi j'imagine une vidéo\nOù les enfants parlent aux oiseaux\nOn a le son sans les images\nOn a la mer, mais pas la plage\n\nDonnez-moi cent pour cent d'amour\nPour le partager tous les jours\nAvec le ciel, avec les gens, oh…\nDonnez-moi cent pour cent d'amour\n\nSi vous avez au creux des mains\nDes vieux rêves qui ne servent à rien\n\nDonnez-moi cent pour cent d'amour\nPour le partager tous les jours\nAvec le ciel, avec les gens, oh…\nDonnez-moi cent pour cent d'amour\n\nDonnez-moi cent pour cent d'amour\nPour le partager tous les jours\nAvec le ciel, avec les genѕ, oh…\nDonnez-moi cent pour cent d'аmour"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "100% of love",
+      "content": "There are sighs on the telephone\nWhich prevent us from sleeping\nOn my radio there are too many songs\nWhich make my heart like a ragged doll\n\nAbove towns there are airplanes\nAnd stars which turn around\nWhere are the horses of the merry-go-round?\nWhere are the gods who protect us?\n\nGive me hundred percent of love\nTo share it every day\nWith the sky, with the people, oh…\nGive me hundred percent of love\n\nI would like to do something\nWith blue, with pink\nTo change the eyes of the earth\nWhich look at films in reverse\n\nI imagine a video clip\nIn which children speak to birds\nWe have sound without pictures\nWe have the sea, but not the beach\n\nGive me hundred percent of love\nTo share it every day\nWith the sky, with the people, oh…\nGive me hundred percent of love\n\nIf you have in your hands\nOld dreams that are useless\n\nGive me hundred percent of love\nTo share it every day\nWith the sky, with the people, oh…\nGive me hundred percent of love\n\nGive me hundred percent of love\nTo share it every dаy\nWith the ѕky, with the people, oh…\nGive me hundred percent of love"
+    }
+  ],
+  "bpm": 71,
+  "tone": "F minor",
+  "artistPeople": [
+    "Sophie Carle"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jean-Pierre Goussaud"
+  ],
+  "conductor": "Pascal Stive",
+  "lyricists": [
+    "Jean-Michel Beriat",
+    "Patrick James"
+  ],
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": [
+    "Jacques Navadic",
+    "Valérie Sarn"
+  ],
+  "jury": null,
+  "spokesperson": "Jacques Harvey"
+}

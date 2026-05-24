@@ -1,0 +1,55 @@
+{
+  "id": 10,
+  "country": "TR",
+  "artist": "Sedat Yüce",
+  "song": "Sevgiliye son",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/sR6LmOnwOjk",
+    "https://www.youtube-nocookie.com/embed/fzXpEu7Y0Ik",
+    "https://www.youtube-nocookie.com/embed/AX8VKwepwrY"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "turkish",
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Sevgiliye son",
+      "content": "Her şarkımda, her hecemde, sensiz geçen her gecemde\nSen varsın, hep sen yine, kalbim titrer sen yoksun diye\nBitmeyen uzun yollarda, yağmurda göz yaşlarımda\nSen vardın, ah… sen yine, içim sızlar sen yoksun diye\n\nSon defa dön bir bak ardına\nNe kaldı geriye hüznünden başka?\nNe olursun dön bir kez bak ardına\nKollarım açık beklerken, sevgim yollarda\n\nİsyanlarda, whoa…\nBu gönül her an seni acıyla yaşayan\nDeliler gibi seni yürekte taşıyan\n\nSo far away, so far apart, lonely am I, my love, tonight\nLonging for all I left behind, precious moments I no longer find\n\nLove has gone, memories - they fade away\nNothing more left for me but only to say\nI still love you, please come back, my lonely heart\nKeepѕ calling you back, once again\nI feel that old pain, lonely аm I now, tonight\nOh…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The end of love",
+      "content": "In my every song, every word, in any night of mine without you\nYou were there, you again, my heart trembles because you're not here\nOn the long endless roads, in the rain, in my tears\nYou were there, you again, my heart trembles because you're not here\n\nFor the last time look behind\nWhat's left except your sorrow\nPlease look behind to see what you've left\nWhile my arms are waiting for you, my love is on the roads\n\nIt is going mad\nAh, this heart of mine beats always with the pain you brought to me\nThe one that carries you in it like crazy\n\nSo far away, so far apart, lonely am I, my love, tonight \nLonging for all I left behind, precious moments I no longer find \n\nLove has gone, memories - they fade away \nNothing more left for me but only to say \nI still love you, please come back, my lonely heart \nKeepѕ calling you back, once again \nI feel that old pain, lonely аm I now, tonight \nOh…"
+    }
+  ],
+  "bpm": 147,
+  "tone": "C major",
+  "artistPeople": [
+    "Sedat Yüce"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Semih Güneri"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Figen Çakmak",
+    "Nurdan Güneri"
+  ],
+  "writers": null,
+  "broadcaster": "TRT",
+  "commentators": [
+    "Ömer Önder"
+  ],
+  "jury": null,
+  "spokesperson": "Meltem Ersan Yazgan"
+}

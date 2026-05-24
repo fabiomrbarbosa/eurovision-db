@@ -1,0 +1,58 @@
+{
+  "id": 5,
+  "country": "PT",
+  "artist": "Lúcia Moniz",
+  "song": "O meu coração não tem cor",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/04u9XEiPOIw",
+    "https://www.youtube-nocookie.com/embed/uyD5K-F2U04",
+    "https://www.youtube-nocookie.com/embed/3nHdLP30CPc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "O meu coração não tem cor",
+      "content": "Andamos todos a rodar na roda antiga\nCantando nesta língua que é de mel e de sal\nO que está longe fica perto nas cantigas\nQue fazem uma festa tricontinental\n\nDança-se o samba, a marrabenta também\nChora-se o fado, rola-se a coladeira\nP'la porta aberta pode entrar sempre alguém\nSe está cansado, diz adeus à canseira\n\nVai a correr o corridinho\nQue é bem mandado e saltadinho\nE rasga o funaná, faz força no malhão\nQue a gente vai dançar sem se atrapalhar\nNo descompasso deste coração\n\nE como é? E como é? E como é?\nVai de roda minha gente, vamos todos dar ao pé\n\nEstamos de maré, vamos dançar\nVem juntar o teu ao meu sabor\nPõe esta canção a navegar\nQue o meu coração não tem cor\n\nEstamos de maré, vamos dançar\nVem juntar o teu ao meu sabor\nPõe esta canção a navegar\nQue o meu coração não tem cor\n\nAndamos todos na ciranda cirandeira\nPreguiça doce e boa, vai de lá, vai de cá\nNa nossa boca uma saudade desordeira\nDe figo, de papaia e de guaraná\n\nVira-se o vira e o merengue também\nChora-se a morna, solta-se a sapateia\nP'la porta aberta pode entrar sempre alguém\nQue a gente gosta de ter a casa cheia\n\nVamos dançar este bailinho\nTraz a sanfona, o cavaquinho\nA chula vai pular nas voltas do baião\nQue a gente vai dançar sem se atrapalhar\nNo descompasso deste coração\n\nE como é? E como é? E como é?\nVai de roda minha gente, vamos todos dar ao pé\n\nEstamos de maré, vamos dançar\nVem juntar o teu ao meu sabor\nPõe esta canção a navegar\nQue o meu coração não tem cor\n\nEstamos de maré, vamos dançar\nVem juntar o teu ao meu sabor\nPõe esta canção a navegar\nQue o meu coração não tem cor\n\nEstamos de maré, vamos dançar\nVem juntar o teu ao meu sabor\nPõe eѕta canção a navegar\nQue o meu coração não tem cor\n\nHey\n<i style=\"color:#789\">E vai de volta, vai de volta, p'ra acabar</i>\nQue o meu corаção não tem cor"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "My heart has no colour",
+      "content": "We all turn round the old circle\nSinging in this language of honey and salt\nWhat's far away is still close in songs\nThrowing a tricontinental party\n\nWe dance the samba, the marrabenta too\nWe weep the fado, and roll the coladeira\nEveryone is welcome through this open door\nIf tired, say farewell to weariness\n\nGo dance the corridinho\nWell commanded and whirling\nShake the funaná, go deep into the malhão\nBecause we will dance without restraint\nIn the disconcert of this heart\n\nAnd how are you? And how are you? And how are you?\nGather round everyone, let's all have a ball\n\nWe're in the mood, let's dance\nGo melt your flavour with mine\nSet this song to sail\nFor my heart has no colour\n\nWe're in the mood, let's dance\nGo melt your flavour with mine\nSet this song to sail\nFor my heart has no colour\n\nWe're all whirling round\nSweet laziness comes and goes\nIn our mouth a rowdy craving\nFor fig, papaya and guarana\n\nWe spin the vira and the merengue too\nWe weep the morna, lose the zapateo\nEveryone is welcome through this open door\nBecause people like to have a full home\n\nLet's dance this bailinho\nBring the accordion and the cavaquinho\nThe chula will hop into the turn of the baião\nBecause we will dance without restraint\nIn the disconcert of this heart\n\nAnd how are you? And how are you? And how are you?\nGather round everyone, let's all have a ball\n\nWe're in the mood, let's dance\nGo melt your flavour with mine\nSet this song to sail\nFor my heart has no colour\n\nWe're in the mood, let's dance\nGo melt your flavour with mine\nSet this song to sail\nFor my heart has no colour\n\nWe're in the mood, let's dance\nGo melt your flavour with mine\nSet this song to sail\nFor my heart has no colour\n\nHey\n<i style=\"color:#789\">And turn around, turn around to finish</i>\nFor my heart hаѕ no colour"
+    }
+  ],
+  "bpm": 172,
+  "tone": "D minor",
+  "artistPeople": [
+    "Ana Lúcia Pereira Moniz"
+  ],
+  "backings": [
+    "Fernanda Lopes",
+    "Laura Ferreira",
+    "Manuel Lourenço",
+    "Telmo Miranda"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Pedro Osório"
+  ],
+  "conductor": "Pedro Osório",
+  "lyricists": [
+    "José Fanha"
+  ],
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Maria Margarida Gaspar"
+  ],
+  "jury": null,
+  "spokesperson": "Cristina Rocha"
+}

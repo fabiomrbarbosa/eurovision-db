@@ -1,0 +1,54 @@
+{
+  "id": 10,
+  "country": "YU",
+  "artist": "Eva Sršen",
+  "song": "Pridi, dala ti bom cvet",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Pi3xEwDI1kU",
+    "https://www.youtube-nocookie.com/embed/NX_d3lneOHw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "slovene"
+      ],
+      "displayedLanguages": null,
+      "title": "Pridi, dala ti bom cvet",
+      "content": "Pridi, dala ti bom cvet\nKi raste le v meni, le zate cveti\nPridi, dala ti bom cvet\nOdprla bom zate vse svoje lati\n\nO pomladi nisem sanjala, saj v rokah jo držim\nVečnosti ne bom oznanjala, se smrti ne bojim\nUmrla bom zato, da v tebi se rodim\nLjubi moj\n\nPridi, dala ti bom cvet\nCvetela sem zate, utrgati smeš me le ti\n\nPridi, dala ti bom cvet\nKi raste le v meni, le zate cveti\nPridi, dala ti bom cvet\nOdprla bom zate vse svoje lati\n\nO pomladi nisem sanjala, saj v rokah jo držim\nVečnosti ne bom oznanjala, se smrti ne bojim\nUmrla bom zato, da v tebi se rodim\nLjubi moj\n\nPridi, dala ti bom cvet\nCvetela sem zate, utrgаti ѕmeš me le ti"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Come, I'll give you the flower",
+      "content": "Come, I'll give you the flower\nWhich grows only in me, which blooms only for you\nCome, I'll give you the flower\nI'll open for you all my tassels\n\nI haven't been dreaming of a spring, because I hold it in my hand\nI won't announce eternity, I'm not afraid of death\nI will die to be borne in you\nMy dear\n\nCome, I'll give you the flower\nI was blooming for you, only you may pick me\n\nCome, I'll give you the flower\nWhich grows only in me, which blooms only for you\nCome, I'll give you the flower\nI'll open for you all my tassels\n\nI haven't been dreaming of a spring, because I hold it in my hand\nI won't announce eternity, I'm not afraid of death\nI will die to be borne in you\nMy dear\n\nCome, I'll give you the flower\nI waѕ blooming for you, only you mаy pick me"
+    }
+  ],
+  "bpm": 106,
+  "tone": "Eb minor",
+  "artistPeople": [
+    "Eva Sršen"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Mojmir Sepe"
+  ],
+  "conductor": "Mojmir Sepe",
+  "lyricists": [
+    "Dušan Velkaverh"
+  ],
+  "writers": null,
+  "broadcaster": "JRT",
+  "commentators": [
+    "Milovan Ilić",
+    "Oliver Mlakar",
+    "Tomaž Terček"
+  ],
+  "jury": null,
+  "spokesperson": "Dragana Marković"
+}

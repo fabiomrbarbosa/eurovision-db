@@ -1,0 +1,51 @@
+{
+  "id": 3,
+  "country": "GB",
+  "artist": "Olivia Newton-John",
+  "song": "Long Live Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/1eOMLWh0YIE",
+    "https://www.youtube-nocookie.com/embed/S5_ZFJsXEOQ",
+    "https://www.youtube-nocookie.com/embed/ZdRtV_AHDo8",
+    "https://www.youtube-nocookie.com/embed/YWIyiBqaKlE",
+    "https://www.youtube-nocookie.com/embed/2Pb-_FN_MyU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Long Live Love",
+      "content": "Long, long live love\nLove is to care\nCaring and sharing\nLong, long live love\n\nAll the kids, like ten tin soldiers\nIn a row follow hand in hand\nSister Anna, carrying the banner\nFor the Sally Annie Band\n\nSinging songs of praise and glory\nWe all learned to love their story\nGood things are comin' to ya\nGlory, glory, hallelujah\n\nLong, long live love\nAs long as we live\nLiving for giving\nLong, long live love\n\nOn a wet day, dry day, great to be alive day\nBrother takes the stand\nCymbals ringing, everybody singing\nWith the Sally Annie Band\n\nJust a band of happy people\nTeachin', preachin' love is equal\nWhen you feel the spirit move ya\nGlory, glory, hallelujah\n\nLong, long live love\nLove is to care\nCaring and sharing, long\nLong live love, love, love, love, love\n\nOh… long, long live love\nAs long аѕ we live\nLiving for giving\nLong, long live love"
+    }
+  ],
+  "bpm": 85,
+  "tone": "B major",
+  "artistPeople": [
+    "Olivia Newton-John"
+  ],
+  "backings": [
+    "Ann Simmons",
+    "Ingrid Thomas",
+    "Joan Baxter",
+    "Maggie Stredder",
+    "Marian Davies"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Nick Ingman",
+  "lyricists": null,
+  "writers": [
+    "Harold Spiro",
+    "Valerie Avon"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "David Vine"
+  ],
+  "jury": null,
+  "spokesperson": "Colin-Ward Lewis"
+}

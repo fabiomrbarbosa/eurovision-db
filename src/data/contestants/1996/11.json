@@ -1,0 +1,60 @@
+{
+  "id": 11,
+  "country": "TR",
+  "artist": "Şebnem Paker",
+  "song": "Beşinci mevsim",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Blywpx1ZqOA",
+    "https://www.youtube-nocookie.com/embed/RksS0AcWgoU",
+    "https://www.youtube-nocookie.com/embed/vT8mfXSpFw0",
+    "https://www.youtube-nocookie.com/embed/hfitSBONwC8",
+    "https://www.youtube-nocookie.com/embed/lI0-cScxF_s"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "turkish"
+      ],
+      "displayedLanguages": null,
+      "title": "Beşinci mevsim",
+      "content": "Kapandı son kapım, vuruldum bilmeden\nSakın o sen misin giden\nSoyundu dallarım, delindi gökyüzü\nKaçıncı sonbahar bugün\n\nHep sondu, hep zordu, çok yordu yollar\nSen orada, ben burada bak yasta yıllar\n\nBeşinci mevsime uyansa düşlerim\nHayaller ölmeden gel\nBeşinci mevsime açılsa güllerim\nYeter bu sonbahar yeter\n\nKapandı son kapım, vuruldum bilmeden\nSakın o senmisin giden\nSoyundu dallarım, delindi gökyüzü\nKaçıncı sonbahar bugün\n\nHep sondu, hep zordu, çok yordu yollar\nSen orada, ben burada bak yasta yıllar\n\nBeşinci mevsime uyansa günlerim\nHayaller ölmeden gel\nBeşinci mevsime açılsa yelkenim\nYeter bu ѕonbahаr yeter"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The fifth season",
+      "content": "My last door has closed, I have been hit without knowing\nAre you leaving me\nMy branches are naked, my sky is darker\nWhich autumn is today\n\nAlways the end, always hard, I got tired on the road\nYou are there, I am here, look the years are in sorrow\n\nI wish my days would wake up in the fifth season\nCome before the dream is over\nI wish my roses would open in the fifth season\nThis much autumn is enough\n\nMy last door has closed, I have been hit without knowing\nAre you leaving me\nMy branches are naked, my sky is darker\nWhich autumn is today\n\nAlways the end, always hard, I got tired on the road\nYou are there, I am here, look the years are in sorrow\n\nI wish my dreams would wake up in the fifth season\nCome before the dream is over\nI wish I could hoist sails to the fifth season\nThis much аutumn iѕ enough"
+    }
+  ],
+  "bpm": 89,
+  "tone": "C minor",
+  "artistPeople": [
+    "Şebnem Paker"
+  ],
+  "backings": [
+    "Emel Akçay",
+    "Handan Özkan",
+    "Nezih Yeşilnil",
+    "Yavuz Alkan"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Levent Çoker"
+  ],
+  "conductor": "Levent Çoker",
+  "lyricists": [
+    "Selma Çuhacı"
+  ],
+  "writers": null,
+  "broadcaster": "TRT",
+  "commentators": [
+    "Bülend Özveren"
+  ],
+  "jury": null,
+  "spokesperson": "Ömer Önder"
+}

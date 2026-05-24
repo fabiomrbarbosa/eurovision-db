@@ -1,0 +1,61 @@
+{
+  "id": 13,
+  "country": "SI",
+  "artist": "Maraaya",
+  "song": "Here for You",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/y1c7gDOaFY0",
+    "https://www.youtube-nocookie.com/embed/lTuHbVKYgY0",
+    "https://www.youtube-nocookie.com/embed/-oOQKYopwJ4",
+    "https://www.youtube-nocookie.com/embed/vp8yqWPbv6k",
+    "https://www.youtube-nocookie.com/embed/MmqcAbe0jKc",
+    "https://www.youtube-nocookie.com/embed/MkOtwHLa6_c"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Here for You",
+      "content": "When you're down, down low\nAnd there's no place you can go\nWhen you're down, down, love\nYou know that I am here for you\n\nYou came into my life when I was broken\nYou heated up my heart when it was frozen\nAnd we got the flow, now it's up we go\n\nAnd now that it's your turn you wanna hide it\nA million times already you've denied it\nYou don't have to fear, you don't have to fight\n\nWhen you're down, down low\nSinking in the undertow\nWhen you're down, down low\nYou know that I am here for you\n\n'Cause I know, know baby\nAll the hurt you never show\nWhen you're down, down low\nYou gotta let me heal your aching soul\n\nYou came into my life when I was broken\nYou heated up my heart when it was frozen\nAnd we got the flow, now it's up we go\n\n'Cause you released my pain, now let me take it\nJust leave it at the door and we can make it\nYou don't have to hide, I am by your side\n\nEverybody else sees in black and white\nYou look at wrong and make it right\nCan't I open your eyes?\n\nWhen you're down, down low\nSinking in the undertow\nWhen you're down, down low\nYou know that I am here for you\n\n'Cause I know, know baby\nAll the hurt you never show\nWhen you're down, down low\nYou gotta let me heal your aching soul\n\n'Cause I know, know baby\nAll the hurt you never show\nWhen you're down, down low\nYou gotta let me heal your aching ѕoul\n\nWhen you're down, down low\nSinking in the undertow\nWhen you're down, down low\nYou know that I аm here for you"
+    }
+  ],
+  "bpm": 156,
+  "tone": "F# major",
+  "artistPeople": [
+    "Marjetka Vovk"
+  ],
+  "backings": [
+    "Karin Zemljič",
+    "Manca Špik",
+    "Nika Zorjan"
+  ],
+  "dancers": [
+    "Lara Slekovec"
+  ],
+  "stageDirector": "Urška Žnidaršič",
+  "composers": [
+    "Charlie Mason",
+    "Marjetka Vovk",
+    "Raay"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Raay"
+  ],
+  "writers": null,
+  "broadcaster": "RTVSLO",
+  "commentators": [
+    "Andrej Hofer"
+  ],
+  "jury": [
+    "Alex Volasko",
+    "Andrej Sifrer",
+    "Miha Gorse",
+    "Sandra Feketija",
+    "Tinkara Kovač"
+  ],
+  "spokesperson": "Tinkara Kovač"
+}

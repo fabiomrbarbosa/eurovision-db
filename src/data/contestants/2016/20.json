@@ -1,0 +1,61 @@
+{
+  "id": 20,
+  "country": "CY",
+  "artist": "Minus One",
+  "song": "Alter Ego",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/idUxTqmCFR0",
+    "https://www.youtube-nocookie.com/embed/k8LcNrqiIFE",
+    "https://www.youtube-nocookie.com/embed/PfBh9bKt-Dc",
+    "https://www.youtube-nocookie.com/embed/o5-7wBqWGzw",
+    "https://www.youtube-nocookie.com/embed/vY0640Alw7M"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Alter Ego",
+      "content": "Waking up alone, like a man that failed\nTrapped into the mist of our fairytale\nAnd you know, you know, you know, I'm still inside\n\nI knew it all along, but I couldn't tell\nThis kind of love, would lock my heart in jail\nYou know, you know, you know, it's doing time\n\nCaught in the middle of, the dawn and the sunrise\nLife is a miracle, I saw it in your eyes\nUnder the spotlight, I howl in the moonlight\nHowling for you\n\nTake it on, take it on, and get me through the night\nTake it on, take it on, until the morning light\nTake it on, take it on, and get me through the night\nTake it on, take it on, take it on\n\nI've heard it all before, people always say\nTime can take the sorrow and the pain away\nYou know, you know, this love will never die\n\nCaught in the middle of, the dawn and the sunrise\nLife is a miracle, I saw it in your eyes\nUnder the spotlight, I howl in the moonlight\nHowling for you\n\nCaught in the middle of, the dawn and the sunrise\nLife is a miracle, I saw it in your eyes\nUnder the spotlight, I howl in the moonlight\nHowling for you\n\nTake it on, take it on, and get me through the night\nTake it on, take it on, until the morning light\nTake it on, take it on, and get me through the night\nTake it on, take it on, take it on\nI cross the oceans, I fly on the skyline\nDrive any road that, will bring me by your side\n\n(howl)\n\nTake it on, take it on, and get me through the night\nTake it on, take it on, until the morning light\nTake it on, take it on, and get me through the night\nTake it on, take it on, take it on\nCaught in the middle of, the dawn and the sunrise\nLife is a miracle, I sаw it in your eyeѕ"
+    }
+  ],
+  "bpm": 130,
+  "tone": "Bb minor",
+  "artistPeople": [
+    "François Micheletto",
+    "Antonis Loizides",
+    "Chris J",
+    "Constantinos Amerikanos",
+    "Harrys Pari"
+  ],
+  "backings": [
+    "Lars Säfsund"
+  ],
+  "dancers": null,
+  "stageDirector": "Sacha Jean-Baptiste",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Antonis Loizides",
+    "Chris J",
+    "Constantinos Amerikanos",
+    "François Micheletto",
+    "Harrys Pari",
+    "Thomas G:son"
+  ],
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Melina Karageorgiou"
+  ],
+  "jury": [
+    "Christina Tselepou",
+    "Kypros Karaviotis",
+    "Nicos Evangelou",
+    "Poly Roussou",
+    "Silia Ioannidou"
+  ],
+  "spokesperson": "Loukas Hamatsos"
+}

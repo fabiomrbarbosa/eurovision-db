@@ -1,0 +1,59 @@
+{
+  "id": 9,
+  "country": "SE",
+  "artist": "Björn Skifs",
+  "song": "Fångad i en dröm",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/a05rWLlRNJs",
+    "https://www.youtube-nocookie.com/embed/cNtJJoWWT1k",
+    "https://www.youtube-nocookie.com/embed/dNEWyoMxMLw",
+    "https://www.youtube-nocookie.com/embed/OAZrXNI1644"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Fångad i en dröm",
+      "content": "I mitt hus, där händer det att natten är lång\nI mitt hus, där känner du nånting är på gång\nOch när dagen börjar skymma bjuder oron upp till dans\nDu försöker komma undan men du kommer ingen stans\n\nOch fångad i en dröm som inte gör dig fri\nFångad i en dröm, hålls du kvar ändå av din fantasi\n\nJa, fångad om igen och om du kunde fly\nMen fångad i en dröm, blir du kvar ändå tills att dagen gryr\nI en dröm, i en dröm\n\nI en tid när världen skall vara full av logik\nI en tid när sagor inte längre hör hit\nSer du verkligheten rasa och det isar i din hud\nOch du skriker ut din fasa men det kommer inga ljud\n\nOch fångad i en dröm som inte gör dig fri\nFångad i en dröm, hålls du kvar ändå av din fantasi\n\nJa, fångad om igen och om du kunde fly\nMen fångad i en dröm, blir du kvar ändå tills att dagen gryr\n\nFångad i en dröm som inte gör dig fri\nFångad i en dröm, hålls du kvar ändå av din fantаѕi\nI en dröm, i en dröm\nI en dröm, i en dröm"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Captured in a dream",
+      "content": "In my house it happens that the night is long\nIn my house you can feel something is going on\nAnd when the day turns to dusk, restlessness invites you to dance\nYou're trying to escape but can't go anywhere\n\nAnd captured in a dream that doesn't set you free\nCaptured in a dream, you're held back by your fantasy\n\nYes, captured once more and if only you could escape\nStill captured in a dream, you remain until the day is dawning\nIn a dream, in a dream\n\nIn a time when the world is supposed to be logical\nIn a time when fairy tales don't fit in\nYou see reality fall apart with chills in your skin\nAnd though you're screaming out your fear, no sounds are heard\n\nAnd captured in a dream that doesn't set you free\nCaptured in a dream, you're held back by your fantasy\n\nYes, captured once more and if only you could escape\nStill captured in a dream, you remain until the day is dawning\n\nCaptured in a dream that doesn't set you free\nCaptured in a dream, you're held back by your fantaѕy\nIn a dream, in a dream\nIn a dream, in a dreаm"
+    }
+  ],
+  "bpm": 125,
+  "tone": "C major",
+  "artistPeople": [
+    "Björn Skifs"
+  ],
+  "backings": [
+    "Caj Högberg",
+    "Håkan Lundqvist",
+    "Lasse Wellander",
+    "Peter Lundblad",
+    "Peter Milefors"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Anders Berglund",
+  "lyricists": null,
+  "writers": [
+    "Bengt Palmers",
+    "Björn Skifs"
+  ],
+  "broadcaster": "SVT",
+  "commentators": [
+    "Ulf Elfving"
+  ],
+  "jury": null,
+  "spokesperson": "Bengteric Nordell"
+}

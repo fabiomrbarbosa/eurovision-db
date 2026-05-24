@@ -1,0 +1,47 @@
+{
+  "id": 17,
+  "country": "NL",
+  "artist": "Michelle",
+  "song": "Out On My Own",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5h2Kbu-aPu0",
+    "https://www.youtube-nocookie.com/embed/LkhNYPnF0Ss"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Out on my own",
+      "content": "Closing the door, leaving behind all that has been\nNo turn around, life begins out on my own\n\nFollow the sun from day to day, free as a bird\nNow is the time to spread my wings out on my own\n\nCome to the conclusion I am in control\nTake it with my body and my soul\n\nI can fly over mountains, over seas\nI never felt so free in the choices of my life\nI can fly over mountains, over seas\nI never felt so free in the choices of my life\n\nClosing the door, leaving behind all that has been\nNow is the time to spread my wings out on my own\n\nCome to the conclusion I am in control\nTake it with my body and my soul\n\nI can fly over mountains, over seas\nI never felt so free in the choices of my life\nI can fly over mountains, over seаs\nI never felt so free in the choices of my life\n\nFree in the choices of my life\nFree in the choiceѕ of my life"
+    }
+  ],
+  "bpm": 120,
+  "tone": "A major",
+  "artistPeople": [
+    "Michelle Courtens"
+  ],
+  "backings": [
+    "Janneke Spruijt",
+    "Martine Wolkers"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "André Remkes",
+    "Dirk-Jan Vermeij"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "André Remkes"
+  ],
+  "writers": null,
+  "broadcaster": "NOS",
+  "commentators": [
+    "Willem van Beusekom"
+  ],
+  "jury": null,
+  "spokesperson": "Marlayne"
+}

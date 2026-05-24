@@ -1,0 +1,68 @@
+{
+  "id": 7,
+  "country": "GR",
+  "artist": "Tania Tsanaklidou",
+  "song": "Charlie Chaplin",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/iQAUlN2Cgps",
+    "https://www.youtube-nocookie.com/embed/8p4LkRSFeCk",
+    "https://www.youtube-nocookie.com/embed/nWhA4wwMC68"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ellinika"
+      ],
+      "title": "Charlie Chaplin",
+      "content": "Natos ki erhete apo ti gonia\nKapelaki mavro asorti\nStin pethiastiki mas agonia\nTaha o astinomos tha ton vri\nKokino garifalo sto peto\nBastunaki, smokin ke kaimos\nAthio apo tsigara to paketo\nKi arhise na vrehi o uranos\n\nCharlie Chaplin, ela st' oniro mas na yelasume\nCharlie Chaplin, apopse o, ti thume, oti proftasume\nCharlie Chaplin, t' oniro vuvo san tis tenies su\nCharlie Chaplin, as zisume xana tis istories su\nCharlie Chaplin, Charlie Chaplin\n\nErgothotes ke skliri pelates\nNati i kinonia tu Charlo\nMia zoi yemati aftapates\nMia zoi hamoyelo zesto\nKi oso thiarkuse i tenia\nToso ke me piyene makria\nThe mu as min teliosi i alitia\nThe mu as min teliosi i anthropia\n\nCharlie Chaplin, ela st' oniro mas na yelasume\nCharlie Chaplin, apopse o, ti thume, oti proftasume\nCharlie Chaplin, t' oniro vuvo san tis tenies su\nCharlie Chaplin, as zisume xana tis istories ѕu\nCharlie Chaplin, Charlie Chaplin, Charlie Chаplin"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ελληνικά"
+      ],
+      "title": "Τσάρλυ Τσάπλιν",
+      "content": "Νάτος κι έρχεται από τη γωνία\nΚαπελάκι μαύρο ασορτί\nΣτην παιδιάστική μας αγωνία\nΤάχα ο αστυνόμος θα τον βρει\nΚόκκινο γαρύφαλλο στο πέτο\nΜπαστουνάκι, σμόκιν και καϋμός\nΆδειο από τσιγάρα το πακέτο\nΚι άρχισε να βρέχει ο ουρανός\n\nΤσάρλυ Τσάπλιν, έλα στ' όνειρό μας να γελάσουμε\nΤσάρλυ Τσάπλιν, απόψε ό, τι δούμε, ότι προφτάσουμε\nΤσάρλυ Τσάπλιν, τ' όνειρο βουβό σαν τις ταινίες σου\nΤσάρλυ Τσάπλιν, ας ζήσουμε ξανά τις ιστορίες σου\nΤσάρλυ Τσάπλιν, Τσάρλυ Τσάπλιν\n\nΕργοδότες και σκληροί πελάτες\nΝάτη η κοινωνία του Σαρλό\nΜια ζωή γεμάτη αυταπάτες\nΜια ζωή χαμόγελο ζεστό\nΚι όσο διαρκούσε η ταινία\nΤόσο και με πήγαινε μακριά\nΘεέ μου ας μην τελειώσει η αλητεία\nΘεέ μου ας μην τελειώσει η ανθρωπιά\n\nΤσάρλυ Τσάπλιν, έλα στ' όνειρό μας να γελάσουμε\nΤσάρλυ Τσάπλιν, απόψε ό, τι δούμε, ότι προφτάσουμε\nΤσάρλυ Τσάπλιν, τ' όνειρο βουβό σαν τις ταινίες σου\nΤσάρλυ Τσάπλιν, ας ζήσουμε ξανά τις ιστορίες σου\nΤσάρλυ Τσάπλιν, Τσάρλυ Τσάπλιν, Τσάρλυ Τσάπλιν"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Charlie Chaplin",
+      "content": "There he is, coming round the corner\nWith a small black hat that suits\nIn our childish anxiety\nThe police inspector will most likely find him\nA red carnation on his lapel\nA small cane, suit and ambitious\nThe packet of cigarettes is empty\nAnd the sky started to rain\n\nCharlie Chaplin, come in our dream to make us laugh\nCharlie Chaplin, whatever we see tonight, whatever you come up with\nCharlie Chaplin, the dream is silent like your movies\nCharlie Chaplin, let's experience your stories again\nCharlie Chaplin, Charlie Chaplin\n\nEmployers and tough customers\nThat's the society of Charlo\nA life full of illusions\nA life with a a warm smile\nAnd the longer the movie lasted\nThe more it took me away\nMy God, may the adventure never end\nMy God, may the ambission never end\n\nCharlie Chaplin, come in our dream to make us laugh\nCharlie Chaplin, whatever we see tonight, whatever you come up with\nCharlie Chaplin, the dream is silent like your movies\nCharlie Chaplin, let's experience your storieѕ again\nCharlie Chaplin, Charlie Chaplin, Charlie Chаplin"
+    }
+  ],
+  "bpm": 140,
+  "tone": "G major",
+  "artistPeople": [
+    "Tania Tsanaklidou"
+  ],
+  "backings": [
+    "Markos Alexiou"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Sakis Tsilikis"
+  ],
+  "conductor": "Haris Andreadis",
+  "lyricists": [
+    "Yannis Xanthulis"
+  ],
+  "writers": null,
+  "broadcaster": "ERT",
+  "commentators": [
+    "Mako Georgiadou"
+  ],
+  "jury": null,
+  "spokesperson": "Niki Venega"
+}

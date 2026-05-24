@@ -1,0 +1,53 @@
+{
+  "id": 9,
+  "country": "FR",
+  "artist": "Serge Lama",
+  "song": "Un jardin sur la terre",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/RVI4hgFBfhw",
+    "https://www.youtube-nocookie.com/embed/6wyq4gUfkTQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Un jardin sur la terre",
+      "content": "À force de courir pour ne rien découvrir\nDe n'être aventurier que dans ses souvenirs\nOu de faire des voyages comme on fait des affaires\nEt perdre sa jeunesse comme on gagne une guerre\n\nOn arrive à se dire que rien n'est important\nQu'on n'a plus rien à dire, qu'on a perdu son temps\n\nUn jardin sur la terre, un petit coin perdu\nJuste un trompe-misère, un abri, rien de plus\nUn jardin sur la terre pour cultiver son cœur\nEt prendre à l'éphémère ce qu'il y a de meilleur\n\nSemer en étant sûr que l'on donne la vie\nDe la graine au bourgeon et de la fleur au fruit\nUn jardin sur la terre, un Éden avant l'heure\nUn jardin sur la terre, n'est-ce pas le bonheur?\n\nÀ force de vouloir vivre à deux pour la vie\nAu point de s'accoupler avec n'importe qui\nOu de faire de son lit plusieurs champs de bataille\nCollectionnant les cœurs à défaut de médailles\n\nOn arrive à se dire que rien n'est important\nQu'on n'a plus rien à dire, qu'on a perdu son temps\n\nUn jardin sur la terre, un petit coin perdu\nJuste un trompe-misère, un abri, rien de plus\nUn jardin sur la terre pour cultiver son cœur\nEt prendre à l'éphémère ce qu'il y a de meilleur\n\nSemer en étant sûr que l'on donne la vie\nDe la graine au bourgeon et de la fleur au fruit\nUn jardin sur la terre, un Éden avant l'heure\nDonnez-moi un jardin ѕur lа terre"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "A garden on earth",
+      "content": "By persistently running to discover nothing\nBy only being adventurer in memories\nOr by travelling like doing business\nAnd by losing our youth like winning a war\n\nWe end up saying that nothing's important\nThat we have nothing else to say, that we wasted our time\n\nA garden on earth, a little lost corner\nJust a swindle, a shelter, nothing else\nA garden on earth to cultivate our heart\nAnd to take the best as a short success\n\nSowing, being sure that we give life\nFrom the grain to the leafbud and from the flower to the fruit\nA garden on earth, a premature Eden\nA garden on earth, isn't that happiness?\n\nBy persistently wanting to live together for a lifetime\nUnto the point of pairing with no matter who\nOr by making some battlefields with our bed\nCollecting hearts instead of medals\n\nWe end up saying that nothing's important\nThat we have nothing else to say, that we wasted our time\n\nA garden on earth, a little lost corner\nJust a swindle, a shelter, nothing else\nA garden on earth to cultivate our heart\nAnd to take the best as a short success\n\nSowing, being ѕure that we give life\nFrom the grain to the leafbud and from the flower to the fruit\nA garden on earth, a premature Eden\nGive me a garden on eаrth"
+    }
+  ],
+  "bpm": 124,
+  "tone": "C major",
+  "artistPeople": [
+    "Serge Chauvier"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Alice Dona"
+  ],
+  "conductor": "Franck Pourcel",
+  "lyricists": [
+    "Henri Djian",
+    "Jacques Demarny"
+  ],
+  "writers": null,
+  "broadcaster": "ORTF",
+  "commentators": [
+    "Georges de Caunes"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

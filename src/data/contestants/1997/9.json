@@ -1,0 +1,56 @@
+{
+  "id": 9,
+  "country": "SI",
+  "artist": "Tanja Ribič",
+  "song": "Zbudi se",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/2lq5sEkluZE",
+    "https://www.youtube-nocookie.com/embed/ZLZd-qpNl6U",
+    "https://www.youtube-nocookie.com/embed/sYQrD2XRmvo",
+    "https://www.youtube-nocookie.com/embed/SqDocEWUFB8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "slovene"
+      ],
+      "displayedLanguages": null,
+      "title": "Zbudi se",
+      "content": "Tam na koncu mesta stara hiša spi\nZa devetim oknom deklica bedi\nZlata luna šteje njene solzice\nNoč jih skriva, kot bi svoje zvezdice\n\nTam za prazno mizo čaka vsako noč\nNjena čista duša kliče na pomoč:\n\"Dobre vile, kje so tiste ustnice\"\n\"Ki s poljubi čarajo zaljubljence?\"\n\nZbudi se, dobri princ\nRada bi ti dala vse\nSvoje sanje in mladost\nDa ne bom iz pravljice\n\nZbudi se, dobri princ\nRada bi ti dala vse\nSvoje sanje in mladost\nDa ne bom iz pravljice\n\nZbudi se, dobri princ\nRada bi ti dala vse\nSvoje sanje in mladost\nDa ne bom iz pravljice\n\nZbudi ѕe\n\nNovo jutro, jutro preko joka gre\nSrce vidi, vidi kаr oko ne ve"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Wake up",
+      "content": "Somewhere at the town's end, an old house sleeps\nBehind the ninth window, a girl is awake\nThe golden moon is counting her tears\nThe night hides them, just like they're stars\n\nBy the empty table, every night she waits\nHer pure spirit's calling out for help:\n''Good fairies, where are those lips\"\n\"That are magic when lovers kiss?''\n\nWake up, good prince\nI would like to give you all\nMy dreams and my youth\nBreak the spell of the fairy tale\n\nWake up, good prince\nI would like to give you all\nMy dreams and my youth\nBreak the spell of the fairy tale\n\nWake up, good prince\nI would like to give you all\nMy dreams and my youth\nBreak the spell of the fairy tale\n\nWake up\n\nA new morning, a morning dawning over tears\nA heart sees, sees all that the eye cаn't ѕee"
+    }
+  ],
+  "bpm": 165,
+  "tone": "C minor",
+  "artistPeople": [
+    "Tanja Ribič"
+  ],
+  "backings": [
+    "Irena Vrckovnik"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Saša Lošić"
+  ],
+  "conductor": "Mojmir Sepe",
+  "lyricists": [
+    "Zoran Predin"
+  ],
+  "writers": null,
+  "broadcaster": "RTVSLO",
+  "commentators": [
+    "Miša Molk"
+  ],
+  "jury": null,
+  "spokesperson": "Mojca Mavec"
+}

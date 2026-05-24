@@ -1,0 +1,59 @@
+{
+  "id": 17,
+  "country": "AM",
+  "artist": "Dorians",
+  "song": "Lonely Planet",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/UGOSZ7Uufno",
+    "https://www.youtube-nocookie.com/embed/pDUzd6DjgBw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Lonely planet",
+      "content": "Who's the one that starts a war?\nWho's dictating what is less and more?\nWho can change the night and day?\n\nWho's the one with clever face?\nThat can tell us what is in the space?\nPlaying games that none can play\n\nMaybe someday we'll break the wall\nMaybe the light will touch us all\n\nLonely planet, who has done it?\nWho can save you? Who can stop it?\nLonely planet, who has done it?\nWho can save you? Who can stop it?\n\nWho's the one that has the right?\nTreat us wrong and tell us what is right?\nBringing crowd against the squad\n\nWho has honesty to show?\nWho can tell us \"I don't know\"?\nWho's the man and who's the god?\n\nMaybe someday we'll break the wall\nMaybe the light will touch us all\n\nLonely planet, who has done it?\nWho can save you? Who can stop it?\nLonely planet, who has done it?\nWho can save you? Who can stop it?\n\nLonely planet, we have done it\nWe can save you, we can stop it\nLonely planet, we have done it\nWe can save you, we can stop it\n\nWe can stop it, we can stop it\nWe can stop it, we cаn ѕtop it\nFor the world"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Planeta solitario",
+      "content": "¿Quiénes comienzan las guerras?\n¿Quién dicta lo que es menos o más?\n¿Quién puede cambiar la noche y el día?\n\n¿Quién es el guapo…\nQue nos puede decir que hay en el espacio?\nQue juega a juegos que nadie sabe jugar\n\nQuizás algún día romperemos el muro\nQuizás la luz nos alcance\n\nPlaneta solitario, ¿quién lo ha hecho?\n¿Quién puede salvarte? ¿Quién puede pararlo?\nPlaneta solitario, ¿quién lo ha hecho?\n¿Quién puede salvarte? ¿Quién puede pararlo?\n\n¿Quién se cree con derecho…\nDe tratarnos mal y decirnos lo que es correcto?\nPoniendo a todos frente al pelotón de fusilamiento\n\n¿Quién tiene la honestidad de mostrarlo?\n¿Quién nos puede decir \"No lo sé?\n¿Quién es el hombre y quién es el dios?\n\nQuizás algún día romperemos el muro\nQuizás la luz nos alcance\n\nPlaneta solitario, ¿quién lo ha hecho?\n¿Quién puede salvarte? ¿Quién puede pararlo?\nPlaneta solitario, ¿quién lo ha hecho?\n¿Quién puede salvarte? ¿Quién puede pararlo?\n\nPlaneta solitario, nosotros lo hemos creado\nNosotros podemos salvarte, nosotros podemos pararlo\nPlaneta solitario, nosotros lo hemos creado\nNosotros podemos salvarte, nosotros podemos pararlo\n\nNosotros podemos pararlo, nosotros podemos pararlo\nNosotros podemos pararlo, nosotros podemoѕ parаrlo…\nPor el mundo"
+    }
+  ],
+  "bpm": 162,
+  "tone": "F# major",
+  "artistPeople": [
+    "Arman Jalalyan",
+    "Arman Pahlevanyan",
+    "Edgar Sahakyan",
+    "Gagik Khodavirdi",
+    "Gor Sujyan"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Tony Iommi"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Vardan Zadoyan"
+  ],
+  "writers": null,
+  "broadcaster": "AMPTV",
+  "commentators": [
+    "André",
+    "Anna Avanesyan",
+    "Arevik Udumyan",
+    "Erik Antaranyan"
+  ],
+  "jury": null,
+  "spokesperson": "André"
+}

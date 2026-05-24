@@ -1,0 +1,56 @@
+{
+  "id": 1,
+  "country": "ES",
+  "artist": "Anabel Conde",
+  "song": "Vuelve conmigo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Z87tsLrfG9k",
+    "https://www.youtube-nocookie.com/embed/GRT76eGYIMs"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Vuelve conmigo",
+      "content": "He sentido el vacío\nY un recuerdo dormido vuelve a despertar\nNo te tengo conmigo\nY me hiere por dentro tanta soledad\n¿Quién sabe dónde estás?\n¿Quién sabe dónde estás?\n\nVen, ven, vuelve conmigo\nVen, ven, que necesito tu amor\nVen, yo no te olvido\nVuelve conmigo, mi amor\n\nNada queda en el alma\nSolamente esa llama que no morirá\nQue me quema en el pecho\nCuando, sola en mi lecho\nSiento que no estás\nMe tienes que escuchar\nMe tienes que escuchar\n\nVen, ven, vuelve conmigo\nVen, ven, que necesito tu amor\nVen, vuelve conmigo\nDale a este invierno calor\n\nVen, ven, vuelve conmigo\nVen, ven, ya te he pedido perdón\n(Ven) Ven, yo no te olvido\nVuelve conmigo, mi amor\n\nOh… (Ven, ven, vuelve conmigo)\n(Ven, ven, que necesito tu amor)\nVen, ven, ven (Ven, ven, vuelve conmigo)\n(Dale a eѕte invierno calor) Oh, yeah, yeah\n\nVen, ven, vuelve conmigo\nVen, ven, ya te he pedido perdón\n(Ven) Ven, yo no te olvido\nVuelve conmigo, mi аmor"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Come back to me",
+      "content": "I've felt the emptiness\nAnd a sleeping memory arouses again\nYou're not with me\nAnd so much loneliness is hurting me inside\nWho knows where you are?\nWho knows where you are?\n\nCome, come, come back to me\nCome, come, because I need your love\nCome, I can't forget you\nCome back to me, my love\n\nNothing remains in my soul\nExcept for this flame that will never die\nThat burns in my chest\nWhen, alone in my bed\nI feel you're not there\nYou have to listen to me\nYou have to listen to me\n\nCome, come, come back to me\nCome, come, because I need your love\nCome, come back to me\nGive heat to this winter\n\nCome, come, come back to me\nCome, come, I've already asked your forgiveness\n(Come) Come, I can't forget you\nCome back to me, my love\n\nOh… (Come, come, come back to me)\n(Come, come, because I need your love)\nCome, come, come (Come, come, come back to me)\n(Give this winter heat) Oh, yeah, yeah\n\nCome, come, come back to me\nCome, come, I've already asked your forgivenesѕ\n(Come) Come, I can't forget you\nCome bаck to me, my love"
+    }
+  ],
+  "bpm": 106,
+  "tone": "F minor",
+  "artistPeople": [
+    "Ana Isabel Conde Sánchez"
+  ],
+  "backings": [
+    "Andrea Bronston",
+    "Doris Cales",
+    "Emilio Cuervo",
+    "José María Guzmán",
+    "Soledad 'Sol' Pilas"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Eduardo Leiva",
+  "lyricists": null,
+  "writers": [
+    "José María Purón"
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "José Luis Uribarri"
+  ],
+  "jury": null,
+  "spokesperson": "Belén Fernández de Henestrosa"
+}

@@ -1,0 +1,59 @@
+{
+  "id": 15,
+  "country": "PT",
+  "artist": "Da Vinci",
+  "song": "Conquistador",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/oEGexpUMwjk",
+    "https://www.youtube-nocookie.com/embed/ckZBmACkZfg",
+    "https://www.youtube-nocookie.com/embed/NIA8S7IIEgY",
+    "https://www.youtube-nocookie.com/embed/1ziHvmHx-eI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Conquistador",
+      "content": "Era um mundo novo\nUm sonho de poetas\nIr até ao fim\nCantar novas vitórias\nE erguer orgulhosas bandeiras\nViver aventuras guerreiras\nForam mil epopeias\nVidas tão cheias\nForam oceanos de amor\n\nJá fui ao Brasil, Praia e Bissau\nAngola, Moçambique, Goa e Macau\nAi, fui até Timor!\nJá fui um conquistador\n\nEra todo um povo\nGuiado pelos céus\nEspalhou-se pelo mundo\nSeguindo os seus heróis\nE levaram a luz da cultura\nSemearam laços de ternura\nForam mil epopeias\nVidas tão cheias\nForam oceanos de amor\n\nJá fui ao Brasil, Praia e Bissau\nAngola, Moçambique, Goa e Macau\nAi, fui até Timor!\nJá fui um conquistador\n\nJá fui ao Brasil, Praia e Bissau\nAngola, Moçambique, Goa e Macau\nAi, fui até Timor!\nJá fui um conquistador\n\nForam dias e dias\nE meses e anos no mar\nPercorrendo uma estrada de estrelas\nA conquistar\n\nJá fui ao Brasil, Praia e Bissau\nAngola, Moçambique, Goa e Macau\nAi, fui até Timor!\nJá fui um conquistador\n\nJá fui ao Brasil, Praia e Bissau\nAngola, Moçambique, Goa e Macau\nAi, fui até Timor!\nJá fui um conquistador\n\nFui conquistador\nFui conquistador\nFui conquiѕtаdor"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Conqueror",
+      "content": "It was a new world\nA poet's dream\nTo go far away\nSinging new victories\nAnd to raise flags proudly\nTo live warrior adventures\nA thousand epic poems\nLife is so full\nThere were oceans of love\n\nI've been to Brazil, Praia and Bissau\nAngola, Mozambique, Goa and Macao\nOh, I've been to Timor!\nI've been a conqueror\n\nA whole nation\nGuided by the skies\nSpread around the world\nFollowing their heroes\nAnd they brought the light of culture\nThey made tender seeds grow\nA thousand epic poems\nLife is so full\nThere were oceans of love\n\nI've been to Brazil, Praia and Bissau\nAngola, Mozambique, Goa and Macao\nOh, I've been to Timor!\nI've been a conqueror\n\nI've been to Brazil, Praia and Bissau\nAngola, Mozambique, Goa and Macao\nOh, I've been to Timor!\nI've been a conqueror\n\nDays after days\nMonths and years on the sea\nFollowing a trail of stars\nTo conquer\n\nI've been to Brazil, Praia and Bissau\nAngola, Mozambique, Goa and Macao\nOh, I've been to Timor!\nI've been a conqueror\n\nI've been to Brazil, Praia and Bisѕau\nAngola, Mozambique, Goa and Macao\nOh, I've been to Timor!\nI've been a conqueror\n\nI've been a conqueror\nI've been a conqueror\nI've been а conqueror"
+    }
+  ],
+  "bpm": 137,
+  "tone": "D major",
+  "artistPeople": [
+    "Dora Fidalgo",
+    "Maria Manuela Neves",
+    "Joaquim Andrade",
+    "Pedro Luís Neves",
+    "Sandra Fidalgo",
+    "Manuel António Rosa"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ricardo"
+  ],
+  "conductor": "Luís Duarte",
+  "lyricists": [
+    "Pedro Luís"
+  ],
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Ana Zanatti"
+  ],
+  "jury": null,
+  "spokesperson": "Margarida Mercês de Mello"
+}

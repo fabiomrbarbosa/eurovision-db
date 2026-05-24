@@ -1,0 +1,54 @@
+{
+  "id": 2,
+  "country": "IT",
+  "artist": "Domenico Modugno",
+  "song": "Nel blu, dipinto di blu",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/v2HKRAtUKNw",
+    "https://www.youtube-nocookie.com/embed/464HC9o66tE",
+    "https://www.youtube-nocookie.com/embed/uF9mRDW6Gg8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Nel blu, dipinto di blu (Volare)",
+      "content": "Penso che un sogno così non ritorni mai più\nMi dipingevo le mani e la faccia di blu\nPoi d'improvviso venivo dal vento rapito\nE incominciavo a volare nel cielo infinito\n\nVolare, oh oh…\nCantare, ohohoho…\nNel blu dipinto di blu\nFelice di stare lassù\n\nE volavo, volavo felice\nPiù in alto del sole ed ancora più su\nMentre il mondo pian piano spariva, lontano laggiù\nUna musica dolce suonava soltanto per me\n\nVolare, oh oh…\nCantare, ohohoho…\nNel blu dipinto di blu\nFelice di stare lassù\n\nMa tutti i sogni nell'alba svaniscono perché\nQuando tramonta, la luna li porta con sé\nMa io continuo a sognare negli occhi tuoi belli\nChe sono blu come un cielo trapunto di stelle\n\nVolare, oh oh…\nCantare, ohohoho…\nNel blu degli occhi tuoi blu\nFelice di stare quaggiù\n\nE continuo a volare felice\nPiù in alto del sole ed ancora più su\nMentre il mondo pian piano scompare negli occhi tuoi blu\nLa tua voce è una musica dolce che suona per me\n\nVolare, oh oh…\nCantare, ohohoho…\nNel blu degli occhi tuoi blu\nFelice di stare quaggiù\n\nNel blu degli occhi tuoi blu\nFelice di stare quaggiù\nNel blu degli occhi tuoi blu\nFelice di ѕtare quаggiù con te"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Blue painted in the blue (Flying)",
+      "content": "I think such a dream will never come back\nI painted my hands and my face blue\nThen suddenly I was ravished by the wind\nAnd I started flying in the infinite sky\n\nFlying, oh oh…\nSinging, ohohoho…\nBlue painted in the blue\nHappy to be up there\n\nAnd I was flying, flying happily\nHigher than the sun and even higher\nWhile the world was slowly disappearing, far beneath\nA soft music was playing just for me\n\nFlying, oh oh..\nSinging, ohohoho…\nBlue painted in the blue\nHappy to be up there\n\nBut all the dreams fade away at dawn, because\nWhile setting, the moon takes them away\nBut I keep dreaming in your beautiful eyes\nWhich are as blue as a sky quilted with stars\n\nFlying, oh oh…\nSinging, ohohoho…\nIn the blue of your blue eyes\nHappy to be down here\n\nAnd I keep flying happily\nHigher than the sun and even higher\nWhile the world is slowly disappearing in your blue eyes\nYour voice is a soft music playing for me\n\nFlying, oh oh…\nSinging, ohohoho…\nIn the blue of your blue eyes\nHappy to be down here\n\nIn the blue of your blue eyes\nHappy to be down here\nIn the blue of your blue eyeѕ\nHаppy to be down here with you"
+    }
+  ],
+  "bpm": 139,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Domenico Modugno"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Domenico Modugno"
+  ],
+  "conductor": "Alberto Semprini",
+  "lyricists": [
+    "Domenico Modugno",
+    "Franco Migliacci"
+  ],
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Bianca Maria Piccinino"
+  ],
+  "jury": null,
+  "spokesperson": "Fulvia Colombo"
+}

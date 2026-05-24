@@ -1,0 +1,54 @@
+{
+  "id": 36,
+  "country": "SM",
+  "artist": "Senit",
+  "song": "Stand By",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/TTCBm8Z2CrY",
+    "https://www.youtube-nocookie.com/embed/Owh0pnNzh0Y"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Stand by",
+      "content": "Oh, the sea: waves of eternity, waves of serenity\nAs I stare through them, all around me just dies\nTonight, can we pretend there's no more time?\nLet's lock our doors and leave this endless world outside\n\nBut if you don't mind, I will be here\nHolding back those years that pass us by\nAnd in a natural high you'll hold my hand, we'll take a breath\nSo tonight, if you don't mind, I will stand by\n\nOh, this life, something so beautiful but hard at the same time\nTaught me it could be gone in a blink of an eye\nTonight, can we pretend there's no more time?\nLet's lock our doors and leave this endless world outside\n\nIf you don't mind, I will be here\nHolding back those years that pass us by\nAnd in a natural high you'll hold my hand, we'll take a breath\nSo tonight, if you don't mind, I will stand by\n\n(I will be here) Holding back, holding back\n(Those years that pass us by)\nAnd in a natural high you'll hold my hand, we'll take a breath\nSo tonight, if you don't mind, I will ѕtаnd by"
+    }
+  ],
+  "bpm": 150,
+  "tone": "F major",
+  "artistPeople": [
+    "Senhit Zadik Zadik"
+  ],
+  "backings": [
+    "Adam Evans",
+    "Ben Epstein",
+    "Gino Emnes",
+    "Katarzyna Walczak",
+    "Monica Sarti"
+  ],
+  "dancers": null,
+  "stageDirector": "Shaun Fernandes",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Radiosa Romani"
+  ],
+  "broadcaster": "SMRTV",
+  "commentators": [
+    "Gigi Restivo",
+    "Lia Fiorio"
+  ],
+  "jury": [
+    "Chiara Masi",
+    "Cristina Polverelli",
+    "Cristina Polverelli",
+    "Massimiliano Messieri",
+    "Sonia Tura"
+  ],
+  "spokesperson": "Nicola Della Valle"
+}

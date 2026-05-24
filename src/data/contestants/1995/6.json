@@ -1,0 +1,56 @@
+{
+  "id": 6,
+  "country": "SI",
+  "artist": "Darja Švajger",
+  "song": "Prisluhni mi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/jqM3mAfztU8",
+    "https://www.youtube-nocookie.com/embed/NCh6Afg-l3Q",
+    "https://www.youtube-nocookie.com/embed/FJNdeMNey28",
+    "https://www.youtube-nocookie.com/embed/GFekDMlblXY",
+    "https://www.youtube-nocookie.com/embed/dDvNLa5II6M"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "slovene"
+      ],
+      "displayedLanguages": null,
+      "title": "Prisluhni mi",
+      "content": "Prisluhni mi, v objemu me poglej\nZaupaj mi, ko noč te skrije v njej\nPriznaj, da tudi ti\nPoljubil sonce bi in sanjal\n\nV meni si, v vetru spremljaš me\nZdaj glas le tvoj prebuja se\nV žarek tiho si spleten\nKot noc si, zvezd dotik\nSkrivaš se, v meni tliš\n\nZaupajva, da eno je nebo\nV njem si ti, v tebi moje so sledi\nPriznajva si, kar v sebi nosiva\nVse je stih, vse ljubezni je dotik\n\nV sebi prosiva za čas\nPoti, trenutke sreče\nV njih izprosiva to noč\nTe sanje večnosti\nV njih sva jaz in ti\n\nZaupajva, da eno je nebo\nV njem si ti, v tebi moje so sledi\nPriznajva si, kar v sebi nosivа\nVse je stih, vse ljubezni je dotik\nVse je stih, vѕe ljubezni je dotik"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Listen to me",
+      "content": "Listen to me, look at me embraced\nTrust me when the night hides you\nAdmit that you too\nWould kiss the sun and dream\n\nYou are in me, you're accompanying me in the wind\nNow, only your voice is waking up\nYou're woven in a ray\nYou're like a night, a touch of stars\nYou hide, glimmering in me\n\nLet's trust that there is just one sky\nYou are in it, my traces are within you\nLet's confess what we keep in us\nEverything is verse, everything is a touch of love\n\nWe pray for time\nPaths, moments of joy\nWe plea for this night\nThis dream of eternity\nThere's me and you in it\n\nLet's trust that there is just one sky\nYou are in it, my traces are within you\nLet's confess what we keep in us\nEverything is verse, everything is a touch of love\nEverything is verse, everything iѕ а touch of love"
+    }
+  ],
+  "bpm": 144,
+  "tone": "G major",
+  "artistPeople": [
+    "Darja Švajger"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Primož Peterca",
+    "Sašo Fajon"
+  ],
+  "conductor": "Jože Privšek",
+  "lyricists": [
+    "Primož Peterca"
+  ],
+  "writers": null,
+  "broadcaster": "RTVSLO",
+  "commentators": [
+    "Damjana Golavšek"
+  ],
+  "jury": null,
+  "spokesperson": "Miša Molk"
+}

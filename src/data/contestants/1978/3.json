@@ -1,0 +1,63 @@
+{
+  "id": 3,
+  "country": "MC",
+  "artist": "Caline and Olivier Toussaint",
+  "song": "Les jardins de Monaco",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/bUgJ2xCyqYc",
+    "https://www.youtube-nocookie.com/embed/KcGiz8QDOhw",
+    "https://www.youtube-nocookie.com/embed/ezIz0v37UPk",
+    "https://www.youtube-nocookie.com/embed/_urzaegIT6Q"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Les jardins de Monaco",
+      "content": "La petite fille qui jouait au cerceau\nDis, tu t'en souviens?\nLe p'tit garçon qui jouait au ballon\nOui, je m'en souviens\nOn regardait les voiliers italiens\nOh oui, c'était bien\nY avait un p'tit square, des balançoires\nEt tu me donnais la main\n\nDans les jardins de Monaco\nChaplin aurait pu rencontrer Garbo\nVadim a peut-être embrassé Bardot\nComme toi et moi\nDans les jardins de Monaco\nParmi les fleurs, au milieu des oiseaux\nJuliette a dû rencontrer Roméo\nComme toi et moi\n\nLa petite fille qui me jetait du sable\nDis, tu t'en souviens?\nLe p'tit garçon qui volait des cerises\nMoi je l'aimais bien\nIl y a longtemps que je t'aime\nEt tu sais que rien n'a changé\nÀ la claire fontaine\nIl y a toujours un amour à partager\n\nDans les jardins de Monaco\nChaplin aurait pu rencontrer Garbo\nVadim a peut-être embrassé Bardot\nComme toi et moi\nDans les jardins de Monaco\nParmi les fleurs, au milieu des oiseaux\nJuliette a dû rencontrer Roméo\nComme toi et moi\n\nDans les jardins de Monaco\nOn écrira un nouveau scénario\nPour toi et moi – ce sera le plus beau\nDans les jardinѕ de Monаco"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The gardens of Monaco",
+      "content": "The little girl who played with a hoop\nSay do you remember it?\nThe little boy who played with a ball\nYes, I remember it\nLooking at the Italian sailing ships\nOh yes, it was good\nThere was a little park with swings\nAnd you gave me your hand\n\nIn the gardens of Monaco\nChaplin could have met Garbo\nVadim maybe embraced Bardot\nLike you and me\nIn the gardens of Monaco\nAmong the flowers, between the birds\nJuliet must have met Romeo\nLike you and me\n\nThe little girl who threw sand at me\nSay, do you remember it?\nThe little boy who stole cherries\nI loved him well\nI loved you for a long time\nAnd you know that nothing has changed\nAt the clear fountain\nThere is always love to share\n\nIn the gardens of Monaco\nChaplin could have met Garbo\nVadim maybe embraced Bardot\nLike you and me\nIn the gardens of Monaco\nAmong the flowers, between the birds\nJuliet must have met Romeo\nLike you and me\n\nIn the gardens of Monaco\nSomeone will write a new scenario\nFor you and me – it'll be the most beautiful\nIn the gardenѕ of Monаco"
+    }
+  ],
+  "bpm": 135,
+  "tone": "C minor",
+  "artistPeople": [
+    "Corinne Colbert",
+    "Olivier Toussaint"
+  ],
+  "backings": [
+    "Dominique Poulain",
+    "Francine Chantereau",
+    "Georges Costa",
+    "Martine Latorre"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Olivier Toussaint",
+    "Paul de Senneville"
+  ],
+  "conductor": "Yvon Rioland",
+  "lyricists": [
+    "Didier Barbelivien",
+    "Jean Albertini"
+  ],
+  "writers": null,
+  "broadcaster": "TMC",
+  "commentators": [
+    "Denise Fabre",
+    "Léon Zitrone"
+  ],
+  "jury": null,
+  "spokesperson": "Carole Chabrier"
+}

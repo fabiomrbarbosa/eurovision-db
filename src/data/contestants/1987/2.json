@@ -1,0 +1,56 @@
+{
+  "id": 2,
+  "country": "IT",
+  "artist": "Umberto Tozzi and Raf",
+  "song": "Gente di mare",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/JvGD685rXbk",
+    "https://www.youtube-nocookie.com/embed/QHJBD3aD8pg",
+    "https://www.youtube-nocookie.com/embed/ZsU8RBR1ZAY",
+    "https://www.youtube-nocookie.com/embed/2q_qUJ0_X1I"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Gente di mare",
+      "content": "A noi che siamo gente di pianura\nNavigatori esperti di città\nIl mare ci fa sempre un po' paura\nPer quell'idea di troppa libertà\n\nEppure abbiamo il sale nei capelli\nDel mare abbiamo le profondità\nE donne infreddolite negli scialli\nChe aspettano che cosa non si sa\n\nGente di mare, che se ne va\nDove gli pare, dove non sa\nGente che muore di nostalgia\nMa quando torna dopo un giorno, muore\nPer la voglia di andare via\n\n(Gente di mare)\nE quando ci fermiamo sulla riva\n(Gente che va)\nLo sguardo all'orizzonte se ne va\n(Gente di mare)\nPortandoci i pensieri alla deriva\nPer quell'idea di troppa libertà\n\nGente di mare, che se ne va\nDove gli pare, dove non sa\nGente corsara che non c'è più\nGente lontana che porta nel cuore\nQuesto grande fratello blu\n\nAl di là del mare, c'è qualcuno che\nC'è qualcuno che non sa niente di te\n\nGente di mare, che se ne va\nDove gli pare, ma dove non sa\nNoi, prigionieri di queste città\nViviamo sempre di oggi e di ieri\nInchiodati dalla realtà\nE la gente di mare va\n\n(Gente di mare che se ne va) Che se ne va\n(Dove gli pare) Ma dove non sa\nNoi, prigionieri di queste grandi città\nViviamo ѕempre di oggi e di ieri\nInchiodati dalla realtà\nE la gente di mare vа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "People of the sea",
+      "content": "We, people from the plains\nExcellent drivers in the city\nAre always a little scared of the sea\nBecause of the idea of too much freedom\n\nAnd although we have the salt in our hair\nWe have the depth of the sea in our souls\nAnd freezing women in their shawls\nWaiting for something which nobody knows\n\nPeople of the sea, who leave it behind\nGoing to where they like, they don't know where\nPeople dying of nostalgia\nBut when they go back after one day, they die\nOf the desire to go away\n\n(People of the sea)\nAnd when we stop on the shore\n(People who go)\nOur look goes to the horizon\n(People of the sea)\nBringing our thoughts adrift\nBecause of the idea of too much freedom\n\nPeople of the sea, who leave it behind\nGoing to where they like, they don't know where\nBuccaneer people who are no more\nFaraway people carrying in their hearts\nThis big blue brother\n\nAt the other side of the sea, there's someone who\nThere's someone who knows nothing about you\n\nPeople of the sea, who leave it behind\nGoing to where they like, they don't know where\nWe, prisoners of these cities\nWe always live for today and for yesterday\nNailed down by reality\nAnd the people of the sea go\n\n(People of the sea, who leave it behind) Who leave it behind\n(Going where they like) They don't know where\nWe, prisoners of these big cities\nWe always live for today and for yesterday\nNailed down by reality\nAnd the people of the ѕeа go"
+    }
+  ],
+  "bpm": 185,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Raffaele Riefoli",
+    "Umberto Tozzi"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Raf",
+    "Umberto Tozzi"
+  ],
+  "conductor": "Gianfranco Lombardi",
+  "lyricists": [
+    "Giancarlo Bigazzi"
+  ],
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Rosanna Vaudetti"
+  ],
+  "jury": null,
+  "spokesperson": "Mariolina Cannuli"
+}

@@ -1,0 +1,69 @@
+{
+  "id": 9,
+  "country": "ES",
+  "artist": "Pastora Soler",
+  "song": "Quédate conmigo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/U8J1b62wOao",
+    "https://www.youtube-nocookie.com/embed/zT8eG4Hl990"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Quédate conmigo",
+      "content": "Perdón si no supe decir\nQue lo eras todo para mí\nPerdón por el dolor\n\nPerdona cada lágrima\nYo sé que no merezco más\nPero si no te tengo aquí, no sé vivir\nQuédate conmigo, no te vayas\n\nPerdóname si no supe amarte, amor\nNo era mío el corazón\nQuédate conmigo, quédate conmigo\nSi no estás, no sale el sol\n\nYa no hay recuerdos del ayer\nSólo las horas en tu piel, amándote\nQuédate conmigo, no te vayas\n\nPerdóname si no supe amarte, amor\nNo era mío el corazón\nQuédate conmigo, quédate conmigo\nSi no estás, no sale el sol\n\nY ahora que te veo marchar\nSé que no te voy a olvidar\n\n(Si no supe amarte, amor)\nSi no supe amarte, amor\n(No era mío el corazón) No…\nQuédate conmigo, quédate conmigo\nSi no estás, no sale el sol\n\nY ahora que te veo marchar (Y ahora que te veo marchar)\nSé que no te voy a olvidar (Sé que no te voy a olvidar)\nQuédate conmigo, quédate conmigo\nSi no estás, no sаle el ѕol"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": null,
+      "title": "הישארי איתי",
+      "content": "סליחה על שלא ידעתי לומר\nשהיית הכל בשבילי\nסליחה על הכאב\n\nסליחה על כל דמעה\nאני יודעת שלא מגיע לי יותר\nאבל אם אינך כאן, איני יודעת איך לחיות\nהישארי איתי, אל תלכי\n\nסלחי לי על שלא ידעתי לאהוב אותך, אהובה\nזה לא היה הלב שלי\nהישארי איתי, הישארי איתי\nאם את לא נמצאת, השמש לא תזרח\n\nכבר אין זכרונות מאתמול\nרק השעות על עורך, כשאהבנו\nהישארי איתי, אל תלכי\n\nסלחי לי על שלא ידעתי לאהוב אותך, אהובה\nזה לא היה הלב שלי\nהישארי איתי, הישארי איתי\nאם את לא נמצאת, השמש לא תזרח\n\nועכשיו כשאני רואה אותך הולכת\nאני יודעת שלא אשכח אותך\n\n(אם לא ידעתי לאהוב אותך, אהובה)\nאם לא ידעתי לאהוב אותך, אהובה\n(זה לא היה הלב שלי) לא…\nהישארי איתי, הישארי איתי\nאם את לא נמצאת, השמש לא תזרח\n\nועכשיו כשאני רואה אותך הולכת\n(ועכשיו כשאני רואה אותך הולכת)\nאני יודעת שלא אשכח אותך\n(אני יודעת שלא אשכח אותך)\nהישארי איתי, הישארי איתי\nאם את לא נמצאת, השמש לא תזרח"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Stay with me",
+      "content": "Sorry if I didn't know how to say\nThat you were everything to me\nSorry for the pain\n\nI'm sorry for each tear\nI know I don't deserve more\nBut if I don't have you here, I can't live\nStay with me, don't leave\n\nForgive me if I didn't know how to love you, love\nIt wasn't my heart\nStay with me, stay with me\nIf you're not here, the sun doesn't rise\n\nThere are no memories of yesterday\nOnly the hours on your skin, loving you\nStay with me, don't leave\n\nForgive me if I didn't know how to love you, love\nIt wasn't my heart\nStay with me, stay with me\nIf you're not here, the sun doesn't rise\n\nAnd now that I see you going\nI know I won't forget you\n\n(If I didn't know how to love you, love)\nIf I didn't know how to love you, love\n(It wasn't my heart) No…\nStay with me, stay with me\nIf you're not here, the sun doesn't rise\n\nAnd now that I see you going (And now that I see you going)\nI know I won't forget you (I know I won't forget you)\nStay with me, stаy with me\nIf you're not here, the sun doesn't riѕe"
+    }
+  ],
+  "bpm": 166,
+  "tone": "C# major",
+  "artistPeople": [
+    "María del Pilar Sánchez Luque"
+  ],
+  "backings": [
+    "Antonio Tomás Sepúlveda",
+    "Mey Green",
+    "Miguel Antelo",
+    "Rebeca Rods",
+    "Sheila Blanco"
+  ],
+  "dancers": null,
+  "stageDirector": "Francisco Javier Viñolo Linares",
+  "composers": [
+    "Erik Bernholm",
+    "Thomas G:son",
+    "Tony Sánchez-Ohlsson"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Tony Sánchez-Ohlsson"
+  ],
+  "writers": null,
+  "broadcaster": "TVE",
+  "commentators": [
+    "José María Íñigo"
+  ],
+  "jury": null,
+  "spokesperson": "Elena S. Sánchez"
+}

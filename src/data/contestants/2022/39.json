@@ -1,0 +1,70 @@
+{
+  "id": 39,
+  "country": "SI",
+  "artist": "LPS",
+  "song": "Disko",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/S1tFqoflsT8",
+    "https://www.youtube-nocookie.com/embed/g8Ezl7xucCU",
+    "https://www.youtube-nocookie.com/embed/RuJEDkLOb0c",
+    "https://www.youtube-nocookie.com/embed/0_EUQcmcvt0",
+    "https://www.youtube-nocookie.com/embed/9KYVzHvjKK4",
+    "https://www.youtube-nocookie.com/embed/6mK0c7gqQIQ",
+    "https://www.youtube-nocookie.com/embed/xslWpDzk5v4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "slovene"
+      ],
+      "displayedLanguages": null,
+      "title": "Disko",
+      "content": "Bila sva v disku\nKo je LPS igral\nFičo spet je nekaj piskal\nŽvižej solo je zasral\n\nTakrat se mi je že zazdelo\nDa preveč ti gledaš stran\nTa pogled, poln nezvestobe\nŽe bil predobro mi je znan\n\nKer gledam te\nKo brez mene z drugim stran odhajaš\nHočem te\nA ti drugemu srce oddajaš\nPleševa\nAmpak to je le v mojih sanjah\nNe, ne bo te nazaj\n\nGledam te\nKo brez mene z drugim stran odhajaš\nHočem te\nA ti drugemu srce oddajaš\nPleševa\nAmpak to je le v mojih sanjah\nNe, ne bo te nazaj\n\nS sten gledajo me slike\nSpremljajo me vsak korak\nVrača mi spomine vsaka\nSrce v solzah se namaka\nVsak utrip se kri pretaka počasneje\n\nŠe si tu\nPa čeprav te ni\nTa tvoj vonj\nVsako jutri spet me prebudi\n\nA od zdaj\nBom v disko hodil sam\nIn gledal isti film\nLe da svojo vlogo igram\n\nGledam te\nKo brez mene z drugim stran odhajaš\nHočem te\nA ti drugemu srce oddajaš\nPleševa\nAmpak to je le v mojih sanjah\nNe, ne bo te, ne bo te več nazaj\nNe bo te več in gledam te\nKo brez mene z drugim stran odhajaš\nHočem te\nA ti drugemu srce oddajaš\nPleševa\nAmpak to je le v mojih ѕanjah\nNe, ne bo te nazаj"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Disco",
+      "content": "We were in the disco\nWhen LPS played\nFičo was beeping again\nŽvižej screwed up his solo\n\nBy then, I thought it was a good time\nThat you're looking away too much\nThis looked full of infidelity\nI've been too familiar\n\nBecause I'm looking at you\nWhen you're leaving without me on the other side\nI want you\nBut you give the other heart away\nWe dance\nBut it's only in my dreams\nNo you're not coming back\n\nI'm looking at you\nWhen you're leaving without me on the other side\nI want you\nBut you give the other heart away\nWe dance\nBut it's only in my dreams\nNo you're not coming back\n\nThey look at me from the wall pictures\nThey follow me every step of the way\nIt brings back memories\nOf every heart soaked in tears\nEach beat flows more slowly\n\nYou're still here\nEven if you're not\nThat smell of yours\nIt wakes me up again every day\n\nBut from now on\nI'm going to the disco myself\nAnd watch the same movie\nOnly that I play my part\n\nI'm looking at you\nWhen you're leaving without me with the other side\nI want you\nBut you give the other heart away\nWe dance\nBut it's only in my dreams\nNo, you're not coming, you're not coming back\nYou're gone, and I'm looking at you\nWhen you're leaving without me with the other side\nI want you\nBut you give the other heart away\nWe dance\nBut it's only in my mind thаt I'm sorry\nNo, it'ѕ not going to be"
+    }
+  ],
+  "bpm": 120,
+  "tone": "E minor",
+  "artistPeople": [
+    "Filip Vidušin",
+    "Gašper Hlupič",
+    "Mark Semeja",
+    "Zala Velenšek",
+    "Žiga Žvižej"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Nejc Levstik",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Filip Vidušin",
+    "Gašper Hlupič",
+    "Jakob Korošec",
+    "Mark Semeja",
+    "Zala Velenšek",
+    "Žiga Žvižej"
+  ],
+  "broadcaster": "RTVSLO",
+  "commentators": [
+    "Andrej Hofer"
+  ],
+  "jury": [
+    "Alenka Godec",
+    "Arne",
+    "Gaber Radojevič",
+    "Lucija Harum",
+    "Tilen Artač"
+  ],
+  "spokesperson": "Lorella Flego"
+}

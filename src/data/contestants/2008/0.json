@@ -1,0 +1,101 @@
+{
+  "id": 0,
+  "country": "RU",
+  "artist": "Dima Bilan",
+  "song": "Believe",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-72s4WzUcKI",
+    "https://www.youtube-nocookie.com/embed/uE9oiDOsEmU",
+    "https://www.youtube-nocookie.com/embed/aOhk16C0JBA",
+    "https://www.youtube-nocookie.com/embed/3RoGOcEA_Ck",
+    "https://www.youtube-nocookie.com/embed/gv7Jv7ipZU4",
+    "https://www.youtube-nocookie.com/embed/aNO48xhobpI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Believe",
+      "content": "Even when the thunder and storm begins\nI'll be standing strong like a tree in the wind\nNothing's gonna move this mountain\nOr change my direction\n\nI'm falling off the sky\nAnd I'm all alone\nThe courage that's inside's gonna break my fall\nNothing's gonna dim my light within\n\nBut if I keep going on\nIt will never be impossible\nNot today\n\n'Cause I've got something to believe in\nAs long as I'm breathing\nThere is not a limit to what I can dream\n\n'Cause I've got something to believe in\nMission to keep climbing\nNothing else can stop me if I just believe\nAnd I believe in me\n\nEven when the world tries to pull me down\nTell me that I can't, try to turn me around\nI won't let them put my fire out, without no\n\nBut if I keep going on\nIt will never be impossible\nNot today\n\nYes, I've got something to believe in\nAs long as I'm breathing\nThere is not a limit to what I can dream\n\n'Cause I've got something to believe in\nMission to keep climbing\nNothing else can stop me if I just believe\n\nAnd I believe I can do it all\nOpen every door\nTurn unthinkable to reality\nYou'll see, I can do it all and more\n\nBelieving, as long as I'm breathing\nThere is not a limit to what I can dream\nBelieving, mission to keep climbing\nNothing else cаn stop me if I juѕt believe\nAnd I believe in me"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": null,
+      "title": "Πιστεύω",
+      "content": "Ακόμα κι όταν αρχίζει η βροντή και η καταιγίδα\nΘα στέκομαι δυνατός σαν δέντρο στον άνεμο\nΤίποτα δεν θα μετακινήσει αυτό το βουνό\nΉ να αλλάξω κατεύθυνση\n\nΠέφτω από τον ουρανό\nΚαι είμαι ολομόναχος\nΤο κουράγιο που έχω μέσα θα μου σπάσει την πτώση\nΤίποτα δεν θα μειώσει το φως μέσα μου\n\nΑν όμως συνεχίσω\nΔεν θα είναι ποτέ αδύνατο\nΌχι σήμερα\n\nΓιατί έχω κάτι να πιστέψω\nΌσο αναπνέω\nΔεν υπάρχει όριο στο τι μπορώ να ονειρευτώ\n\nΓιατί έχω κάτι να πιστέψω\nΑποστολή να συνεχίσω την αναρρίχηση\nΤίποτα άλλο δεν μπορεί να με σταματήσει αν απλώς πιστεύω\nΚαι πιστεύω σε μένα\n\nΑκόμα κι όταν ο κόσμος προσπαθεί να με τραβήξει κάτω\nΠες μου ότι δεν μπορώ, προσπάθησε να με γυρίσεις\nΔεν θα τους αφήσω να σβήσουν τη φωτιά μου, χωρίς όχι\n\nΑν όμως συνεχίσω\nΔεν θα είναι ποτέ αδύνατο\nΌχι σήμερα\n\nΝαι, έχω κάτι να πιστέψω\nΌσο αναπνέω\nΔεν υπάρχει όριο στο τι μπορώ να ονειρευτώ\n\nΓιατί έχω κάτι να πιστέψω\nΑποστολή να συνεχίσω την αναρρίχηση\nΤίποτα άλλο δεν μπορεί να με σταματήσει αν το πιστεύω\n\nΚαι πιστεύω ότι μπορώ να τα κάνω όλα\nΆνοιξε κάθε πόρτα\nΓυρίστε το αδιανόητο στην πραγματικότητα\nΘα δεις, μπορώ να τα κάνω όλα και περισσότερα\n\nΠιστεύοντας, αρκεί να αναπνέω\nΔεν υπάρχει όριο στο τι μπορώ να ονειρευτώ\nΠιστεύοντας, αποστολή να συνεχίσουμε να αναρριχόμαστε\nΤίποτα άλλο δεν μπορεί να με σταματήσει αν το πιστεύω\nΚαι πιστεύω σε μένα"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": [
+        "recording"
+      ],
+      "title": "להאמין",
+      "content": "גם כשמתחילים רעמים וסופות\nאעמוד חזק כמו עץ ברוח\nשום דבר לא יזיז את ההר הזה\nאו ישנה את כיווני\n\nאני נופל מהשמים\nואני בודד\nאך האומץ שבתוכי ישבור את הנפילה\nואין דבר שיעמעם את האור שבי\n\nאבל אם אמשיך\nזה לעולם לא יהיה בלתי אפשרי\nלא היום\n\nכי יש לי במה להאמין\nכל עוד אני נושם\nאין גבול למה שאני יכול לחלום עליו\n\nכי יש לי במה להאמין\nמשימה להמשיך ולעלות\nשום דבר אחר לא יוכל לעצור אותי אם רק אאמין\nואני מאמין בעצמי\n\nגם כשהעולם מנסה לעכב אותי\nאומר שאי אפשר, מנסה לשנות אותי\nלא אניח להם לכבות את הלהבה שבתוכי, מבלי להיאבק\n\nאבל אם אמשיך\nזה לעולם לא יהיה בלתי אפשרי\nלא היום\n\nכי יש לי במה להאמין\nכל עוד אני נושם\nאין גבול למה שאני יכול לחלום עליו\n\nכן, יש לי במה להאמין\nמשימה להמשיך ולעלות\nשום דבר אחר לא יוכל לעצור אותי אם רק אאמין\n\nואני מאמין שאוכל לעשות הכל\nלפתוח כל דלת\nלהפוך את הבלתי יאמן למציאות\nתראו, אוכל לעשות זאת, ויותר\n\nלהאמין, כל עוד אני נושם\nאין גבול למה שאוכל לחלום עליו\nלהאמין, משימה להמשיך ולעלות\nשום דבר אחר לא יוכל לעצור אותי אם רק אאמין\nואני מאמין בעצמי"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": [
+        "live"
+      ],
+      "title": "להאמין",
+      "content": "גם כשמתחילים רעמים וסופות\nאעמוד חזק כמו עץ ברוח\nשום דבר לא יזיז את ההר הזה\nאו ישנה את כיווני\n\nאני נופל מהשמים\nואני בודד\nאך האומץ שבתוכי ישבור את הנפילה\nואין דבר שיעמעם את האור שבי\n\nאבל אם אמשיך\nזה לעולם לא יהיה בלתי אפשרי\nלא היום\n\nכי יש לי במה להאמין\nכל עוד אני נושם\nאין גבול למה שאני יכול לחלום עליו\n\nכי יש לי במה להאמין\nמשימה להמשיך ולעלות\nשום דבר אחר לא יוכל לעצור אותי אם רק אאמין\nואני מאמין בעצמי\n\nגם כשהעולם מנסה לעכב אותי\nאומר שאי אפשר, מנסה לשנות אותי\nלא אניח להם לכבות את הלהבה שבתוכי, מבלי להיאבק\n\nאבל אם אמשיך\nזה לעולם לא יהיה בלתי אפשרי\nלא היום\n\nכי יש לי במה להאמין\nכל עוד אני נושם\nאין גבול למה שאני יכול לחלום עליו\n\nכן, יש לי במה להאמין\nמשימה להמשיך ולעלות\nשום דבר אחר לא יוכל לעצור אותי אם רק אאמין\nואני מאמין\n\nשאוכל לעשות הכל\nלפתוח כל דלת\nלהפוך את הבלתי יאמן למציאות\nתראו, אוכל לעשות זאת, ויותר\n\nלהאמין, (כל עוד אני נושם)\n(אין גבול למה שאוכל לחלום עליו)\n(להאמין, משימה להמשיך ולעלות)\n(שום דבר אחר לא יוכל) לעצור אותי אם רק אאמין\nואנחנו מאמינים בכם"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Creer",
+      "content": "Aunque la tormenta esté azotándome\nSeguiré de pie como un roble en el viento\nNada en esta vida logrará\nTorcer mi camino\n\nEl suelo se derrumba\nY me siento solo\nYo tengo que intentar detener la caída\nY cuidar la luz dentro de mí\n\nYa no pienso descansar\nPorque hay un guerrero en mi interior…\nEs mi corazón\n\nCreer en algo es el secreto\nIr detrás de un sueño\nNo perder la magia de amar por amar\nCreer en algo es el secreto\nY saber que el dueño\nDe mis fantasías y mi realidad…\nSoy yo y nadie más\n\nCuando se presente ante mí la tristeza\nLe diré que aquí ya no tiene un lugar\nNo permitiré que me lastimen\nVoy a luchar\n\nYa no pienso descansar\nPorque hay un guerrero en mi interior…\nEs mi corazón\n\nCreer en algo es el secreto\nIr detrás de un sueño\nNo perder la magia de amar por amar\n\nCreer en algo es el secreto\nY saber que el dueño\nDe mis fantasías y mi realidad\nSoy solo yo\n\nYa puedo volar\nSin ningún temor\nYa me liberé de mi cruel prisión\nYa ves, como siempre sale el Sol\n\nSecreto\nIr detrás de un sueño\nNo perder la magia de amar por amar\n\nCreer en algo es el secreto\nY saber que el dueño\nDe mis fantasías y mi realidad…\nSoy yo y nаdie máѕ"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Всё в твоих руках",
+      "content": "Манит неизвестностью яркий свет\nТени облаков и далёких планет\nВсё как-будто стало ближе\nИ всё в нашей власти\nИ сбудется однажды твоя мечта\nКак бы далека не казалась она\nНадо только сделать к ней первый шаг\nДоказать себе что нет\nВ этом мире невозможного\nДля тебя…\n\nТак пусть тебе поможет небо\nОстановит время\nПоднимая крылья твои к небесам\nТак пусть тебе поможет небо\nВсё ещё возможно\nТам куда приводит однажды мечта\nВедь всё в твоих руках\n\nГород на ладони с высоких крыш\nКажется вот-вот и сейчас ты взлетишь\nСловно это всё в твоих руках\nВ твоих руках\nДокажи себе что нет\nВ этом мире невозможного\nДля тебя\n\nТак пусть тебе поможет небо\nОстановит время\nПоднимая крылья твои к небесам\nТак пусть тебе поможет небо\nВсё ещё возможно\nТам, куда приводит однажды мечта\nПоверь в себя\n\nНе остановить\nИ не сбить с пути\nТех кто искренне не жалея сил\nИдёт, смело за своей мечтой\nНебо остановит время\nПоднимая крылья твои к небесам\n\nТак пусть тебе поможет небо\nВсё ещё возможно\nТам куда приводит однажды мечта\nВедь всё в твоих руках"
+    }
+  ],
+  "bpm": 133,
+  "tone": "C# major",
+  "artistPeople": [
+    "Viktor Belan"
+  ],
+  "backings": [
+    "Edvin Marton",
+    "Evgeni Viktorovich Plushenko",
+    "Yulia Nalimova"
+  ],
+  "dancers": null,
+  "stageDirector": "Fokas Evangelinos",
+  "composers": [
+    "Jim Beanz"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Dima Bilan"
+  ],
+  "writers": null,
+  "broadcaster": "RTR",
+  "commentators": [
+    "Dmitry Guberniev",
+    "Olga Shelest"
+  ],
+  "jury": null,
+  "spokesperson": "Oxana Fedorova"
+}

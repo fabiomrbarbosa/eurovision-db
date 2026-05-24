@@ -1,0 +1,77 @@
+{
+  "id": 20,
+  "country": "CY",
+  "artist": "Voice",
+  "song": "Nomiza",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/GayjGl1AXFY",
+    "https://www.youtube-nocookie.com/embed/KODCNk8EJQU",
+    "https://www.youtube-nocookie.com/embed/mfIQ0giilV4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian",
+        "greek"
+      ],
+      "displayedLanguages": [
+        "italiano",
+        "ellinika"
+      ],
+      "title": "Nomiza",
+      "content": "Ha perduto tutto quanto\nHo ferito e dopo ho pianto tanto\nInfiammato dal tuo amore\nIo dimentico l'onore, brucio\n\nMa ola afta pu mas angizun\nPoso akoma mas horizun, poso\nDhiaforetikus mas theli\nI zoi ke perimeni, poso?\n\nNomiza pos boro kapio tropo na vro\nNa enoso afta pu mas 'thelan makria\nRosso vivo, lo sai, è la fiamma che è in noi\nNon si spegnerà mai, causerà tanti guai\n\nHo cercato di smorzare\nEmozioni da ignorare, lievi\nOpos ime, ime endaksi\nKi oti ise dhen tha alaksi o hronos\n\nAh… nomiza pos boro kapio tropo na vro\nNa enoso afta pu mas 'thelan makria\nNomiza i kardhia ihe panda protia\nKi omos fevgo ego, ne akoma s' agapo (S' agapo)\nNe, yeah…\nNomiza pos boro kapio tropo na vro\n\nNomiza… nomiza…\nNanana… nanana… nanana… ah ah ah…\n\nNomiza i kardhia ihe panda protia\nKi omos fevgo ego, ne akoma ѕ' agаpo"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "italian",
+        "greek"
+      ],
+      "displayedLanguages": [
+        "italiano",
+        "ελληνικά"
+      ],
+      "title": "Νόμιζα",
+      "content": "Ha perduto tutto quanto\nHo ferito e dopo ho pianto tanto\nInfiammato dal tuo amore\nIo dimentico l'onore, brucio\n\nΜα όλα αυτά που μας αγγίζουν\nΠόσο ακόμα μας χωρίζουν, πόσο\nΔιαφορετικούς μας θέλει\nΗ ζωή και περιμένει, πόσο;\n\nΝόμιζα πως μπορώ κάποιο τρόπο να βρω\nΝα ενώσω αυτά που μας 'θελαν μακριά\nRosso vivo, lo sai, è la fiamma che è in noi\nNon si spegnerà mai, causerà tanti guai\n\nHo cercato di ѕmorzare\nEmozioni da ignorare, lievi\nΌπως είναι, είναι ένταξει\nΚι ότι είσαι δεν θα αλλάξει ο χρόνος\n\nΑ… νόμιζα πως μπορώ κάποιο τρόπο να βρω\nΝα ενώσω αυτά που μας 'θελαν μακριά\nΝόμιζα η καρδιά είχε πάντα πρωτιά\nΚι όμως φεύγω εγώ, ναι ακόμα σ' αγαπώ (Σ' αγαπώ)\nΝαι, yeаh…\nΝόμιζα πως μπορώ κάποιο τρόπο να βρω\n\nΝόμιζα… νόμιζα…\nΝανανά… νανανά… νανανά… α α α…\n\nΝόμιζα η καρδιά είχε πάντα πρωτιά\nΚι όμως φεύγω εγώ, ναι ακόμα σ' αγαπώ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I believed",
+      "content": "I lost everything when\nI hurt and I later cried so much\nInflamed with your love\nI forget your honour, I burn\n\nBut with all that touches us\nSo much still keeps us apart, so much\nLife expects us to be different\nAnd waits for it, but for how long?\n\nI believed that I would find a way\nTo bring together all that kept us apart\nYou know that it's bright red, and the fire within us\nWill never die away, it'll cause so much trouble\n\nI've tried to absorb\nEmotions for ignoring, light\nI'm all right the way I am\nAnd time won't change you\n\nAh… I believed that I would find a way\nTo bring together all that kept us apart\nI believed that my heart came first\nYet I'm leaving, though I still love you (I love you)\nNo, yeah…\nI believed that I would find a way\n\nI believed… I believed…\nNanana… nanana… nanana… ah ah ah…\n\nI believed that my heart came first\nYet I'm leаving, though I ѕtill love you"
+    }
+  ],
+  "bpm": 118,
+  "tone": "Ab minor",
+  "artistPeople": [
+    "Alex Panayi",
+    "Christina Argyri"
+  ],
+  "backings": [
+    "Christina Lazarou",
+    "Giorgios Gavriel",
+    "Lina Kawar",
+    "Michael Moschou"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Alexandros Panayi"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Alexandros Panayi",
+    "Silvia M. Klemm"
+  ],
+  "writers": null,
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Evi Papamichail"
+  ],
+  "jury": null,
+  "spokesperson": "Loukas Hamatsos"
+}

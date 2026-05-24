@@ -1,0 +1,70 @@
+{
+  "id": 9,
+  "country": "GR",
+  "artist": "Marianna",
+  "song": "To thiko sou asteri",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/w0x1EJSPZIs",
+    "https://www.youtube-nocookie.com/embed/a59-vs17lVA",
+    "https://www.youtube-nocookie.com/embed/gt5pX98eyak",
+    "https://www.youtube-nocookie.com/embed/XcBMUnhrvYY"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ellinika"
+      ],
+      "title": "To thiko sou asteri",
+      "content": "Iparhun stigmes pu se nika o fovos ki i amfivolia\nMiazi o kosmos ehthrikos athiavati i nihta ke kria\n\nMa sto vrathino ton urano to thiko su asteri psaxe vres\nYiati i skies sto proto fos miazune fovies pethikes\n\nMa sto vrathino ton urano to thiko su asteri psaxe vres\nYiati i skies sto proto fos miazune fovies pethikes\n\nIparhun stigmes pu niothis pos pote the tha ta kataferis\nAsimandos niothis ke mikros pu pas ke pios ise the xeris\n\nMa sto vrathino ton urano to thiko su asteri psaxe vres\nYiati i skies sto proto fos miazune fovies pethikes\n\nMa sto vrathino ton urano to thiko su asteri psaxe vres\nYiati i skies sto proto fos miazune fovies pethikes\n\nFtiaxe ena kipo mistiko vres kurayio ki enthousiasmo\nHamoyela i zoi s' opion ehi pisti ki andohi\n\nFtiaxe ena kipo mistiko vres kurayio ki enthousiasmo\nHamoyela i zoi s' opion ehi pisti ki andohi\n\nMa sto vrathino ton urano to thiko su asteri psаxe vreѕ"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ελληνικά"
+      ],
+      "title": "Το δικό σου αστέρι",
+      "content": "Υπάρχουν στιγμές που σε νικά ο φόβος κι η αμφιβολία\nΜοιάζει ο κόσμος εχθρικός αδιάβατη η νύχτα και κρύα\n\nΜα στο βραδινό τον ουρανό το δικό σου αστέρι ψάξε βρες\nΓιατί οι σκιές στο πρώτο φως μοιάζουνε φοβίες παιδικές\n\nΜα στο βραδινό τον ουρανό το δικό σου αστέρι ψάξε βρες\nΓιατί οι σκιές στο πρώτο φως μοιάζουνε φοβίες παιδικές\n\nΥπάρχουν στιγμές που νοιώθεις πως ποτέ δε θα τα καταφέρεις\nΑσήμαντος νοιώθεις και μικρός πού πας και ποιος είσαι δεν ξέρεις\n\nΜα στο βραδινό τον ουρανό το δικό σου αστέρι ψάξε βρες\nΓιατί οι σκιές στο πρώτο φως μοιάζουνε φοβίες παιδικές\n\nΜα στο βραδινό τον ουρανό το δικό σου αστέρι ψάξε βρες\nΓιατί οι σκιές στο πρώτο φως μοιάζουνε φοβίες παιδικές\n\nΦτιάξε ένα κήπο μυστικό βρες κουράγιο κι ενθουσιασμό\nχαμογελά η ζωή σ' όποιον έχει πίστη κι αντοχή\n\nΦτιάξε ένα κήπο μυστικό βρες κουράγιο κι ενθουσιασμό\nχαμογελά η ζωή σ' όποιον έχει πίστη κι αντοχή\n\nΜα στο βραδινό τον ουρανό το δικό σου αστέρι ψάξε βρες"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Your own star",
+      "content": "There are moments that fear and doubt win you\nThe world seems hostile and the night impassable and cold\n\nBut in the evening sky, search and find your own star\nBecause the shadows in the first light seem to be childish phobias\n\nBut in the evening sky, search and find your own star\nBecause the shadows in the first light seem to be childish phobias\n\nThere are moments that you feel you'll never manage it\nYou feel unimportant and small, you don't know where you go and who you are\n\nBut in the evening sky, search and find your own star\nBecause the shadows in the first light seem to be childish phobias\n\nBut in the evening sky, search and find your own star\nBecause the shadows in the first light seem to be childish phobias\n\nMake a secret garden, find courage and enthusiasm\nLife smiles to anyone who has faith and stamina\n\nMake a secret garden, find courage and enthusiasm\nLife smiles to anyone who has faith and stamina\n\nBut in the evening sky, search and find your own ѕtаr"
+    }
+  ],
+  "bpm": 127,
+  "tone": "C major",
+  "artistPeople": [
+    "Maria-Anastasia Efstratiou"
+  ],
+  "backings": [
+    "Filippos Tsemperoulis"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Marianna Efstratiou",
+    "Yannis Kyris"
+  ],
+  "conductor": "Giorgos Niachros",
+  "lyricists": [
+    "Villy Sanianu"
+  ],
+  "writers": null,
+  "broadcaster": "ERT",
+  "commentators": [
+    "Dafni Bokota"
+  ],
+  "jury": null,
+  "spokesperson": "Fotini Giannoulatou"
+}

@@ -1,0 +1,58 @@
+{
+  "id": 13,
+  "country": "YU",
+  "artist": "Aska",
+  "song": "Halo, halo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/uR8jtnWlN_8",
+    "https://www.youtube-nocookie.com/embed/DVrPyN-t6zk",
+    "https://www.youtube-nocookie.com/embed/aSTcWZfbjmc",
+    "https://www.youtube-nocookie.com/embed/dY10IdBh1ZI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "serbian"
+      ],
+      "displayedLanguages": null,
+      "title": "Halo, halo",
+      "content": "Jedna, dovoljna je jedna reč\nSreća, vratiće ti oku sjaj\nO… o… glavu gore i ne misli na kraj\n\nJedna, dovoljna je jedna reč (Šubidua)\nSve bi opet bilo kao pre (Šubidua)\nO… o… ali niko ne zna gde je on\n\nHalo, halo, halo, halo (Ko je to?)\nPriče sve, čudno je, zna li ko\nGde si sada ti\nHalo, halo, halo, halo (Krivi broj)\nDobro znam da je tu, da je sam\nVolim ga ja\n\nJedna, dovoljna je jedna reč (Šubidua)\nSve bi opet bilo kao pre (Šubidua)\nO… o… ali niko ne zna gde je on\n\nHalo, halo, halo, halo (Ko je to?)\nPriče sve, čudno je, zna li ko\nGde si sada ti\nHalo, halo, halo, halo (Krivi broj)\nDobro znam da je tu, da je sam\nVolim ga ja\n\nHalo, halo, halo, halo (Ko je to?)\nPriče sve, čudno je, zna li ko\nGde si sada ti\nHalo, halo, halo, halo (Krivi broj)\nDobro znam da je tu, da je sam\nVolim ga ja\nUvek ѕamo jedna dovoljnа je reč"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Hello, Hello",
+      "content": "One, only one word is enough\nHappiness will give shine back to your eye\nOh… oh… chin up and don't think of the end\n\nOne, only one word is enough (Shoobee-doo-a)\nEverything would be like before (Shoobee-doo-a)\nOh… oh… but no one knows where he is\n\nHello, hello, hello, hello (Who's there?)\nAll the stories, very weird, does anyone know\nWhere you are now?\nHello, hello, hello, hello (Wrong number)\nI know well he's there, alone\nI love him\n\nOne, only one word is enough (Shoobee-doo-a)\nEverything would be like before (Shoobee-doo-a)\nOh… oh… but no one knows where he is\n\nHello, hello, hello, hello (Who's there?)\nAll the stories, very weird, does anyone know\nWhere you are now?\nHello, hello, hello, hello (Wrong number)\nI know well he's there, alone\nI love him\n\nHello, hello, hello, hello (Who's there?)\nAll the stories, very weird, does anyone know\nWhere you are now?\nHello, hello, hello, hello (Wrong number)\nI know well he's there, alone\nI love him\nAlwаys, one word only iѕ enough"
+    }
+  ],
+  "bpm": 89,
+  "tone": "C# major",
+  "artistPeople": [
+    "Izolda Barudžija",
+    "Snežana Misković",
+    "Snežana Stamenković"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Aleksandar Ilić"
+  ],
+  "conductor": "Zvonimir Skerl",
+  "lyricists": [
+    "Miro Zec"
+  ],
+  "writers": null,
+  "broadcaster": "JRT",
+  "commentators": [
+    "Mladen Popović",
+    "Oliver Mlakar",
+    "Tomaž Terček"
+  ],
+  "jury": null,
+  "spokesperson": "Miša Molk"
+}

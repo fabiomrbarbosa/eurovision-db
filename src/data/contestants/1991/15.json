@@ -1,0 +1,67 @@
+{
+  "id": 15,
+  "country": "BE",
+  "artist": "Clouseau",
+  "song": "Geef Het Op",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/lPq4lGJAemI",
+    "https://www.youtube-nocookie.com/embed/L2GrHdFKFhM",
+    "https://www.youtube-nocookie.com/embed/cGiT6h7q7NQ",
+    "https://www.youtube-nocookie.com/embed/2Bnlk13_4A4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "Geef het op",
+      "content": "Is het niet waar dat ik jou lang geleden zei\nHem te vergeten?\nKom terug bij mij\nGeef het op, kom terug bij mij\nHaha haha haha haha haha… ooh…\n\nJe blijft het steeds proberen\nHij is het echt niet waard\nLoop hem niet zomaar achterna\n\nGeef het op, geef het op\nGeef het op, meisje\nGeef het op, geef het op\nGeef het op, meisje\n\nIk geef je meer dan iemand ooit gegeven heeft\nIk ben altijd met jou begaan\nAls je denkt aan de tijden die je met me hebt beleefd\nZou je me nooit meer laten staan\n\nGeef het op, geef het op\nGeef het op, meisje\nGeef het op, geef het op\nGeef het op, meisje\n\nIk zal blijven hopen\nIk wil jou dicht bij me, dag en nacht\n'k Zou m'n ziel verkopen\nAls de duivel jou weer bij me bracht\n\nGeef het op, geef het op\nGeef het op, meisje\nGeef het op, geef het op\nGeef het op, meisje\n\nGeef het op, geef het op\nGeef het op, meisje\nGeef het op, geef het op\nGeef het op, meisje\n\n(Geef het op, geef het op)\nIk zаl blijven hopen\n(Geef het op, meisje)\n'k Zou m'n ziel verkopen\n\nGeef het op, geef het op\nGeef het op, meiѕje\n\nAh… geef het op"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Give it up",
+      "content": "Isn't it true that I told you long ago\nTo forget him?\nCome back to me\nGive it up, come back to me\nHaha haha haha haha haha… ooh…\n\nYou always keep trying\nHe really isn't worth it\nDon't just follow him\n\nGive it up, give it up\nGive it up, girl\nGive it up, give it up\nGive it up, girl\n\nI give you more than anyone has ever given you\nI'm always concerned about you\nIf you think about the times we spent together\nYou'd never leave me again\n\nGive it up, give it up\nGive it up, girl\nGive it up, give it up\nGive it up, girl\n\nI'll keep hoping\nI want you close to me, day and night\nI'd sell my soul\nIf the devil would bring you bаck to me\n\nGive it up, give it up\nGive it up, girl\nGive it up, give it up\nGive it up, girl\n\nGive it up, give it up\nGive it up, girl\nGive it up, give it up\nGive it up, girl\n\n(Give it up, give it up)\nI'll keep hoping\n(Give it up, girl)\nI'd sell my ѕoul\n\nGive it up, give it up\nGive it up, girl\n\nAh… give it up"
+    }
+  ],
+  "bpm": 135,
+  "tone": "E major",
+  "artistPeople": [
+    "Robert Savenberg",
+    "Koen Wauters",
+    "Kris Wauters"
+  ],
+  "backings": [
+    "Jan Leyers",
+    "Karel Theys",
+    "Paul Poelmans"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Roland Verloven",
+  "lyricists": null,
+  "writers": [
+    "Bob Savenberg",
+    "Jan Leyers",
+    "Koen Wauters",
+    "Kris Wauters"
+  ],
+  "broadcaster": "BRT",
+  "commentators": [
+    "André Vermeulen",
+    "Claude Delacroix"
+  ],
+  "jury": [
+    "Lou Roman",
+    "Nelly Byl",
+    "Patrick Hiketick",
+    "Rik Vervecken"
+  ],
+  "spokesperson": "Anne Ploegaerts"
+}

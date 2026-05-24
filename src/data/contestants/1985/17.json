@@ -1,0 +1,58 @@
+{
+  "id": 17,
+  "country": "PT",
+  "artist": "Adelaide",
+  "song": "Penso em ti, eu sei",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Q5PywI0zZ2E",
+    "https://www.youtube-nocookie.com/embed/xQEDaZoB9U0",
+    "https://www.youtube-nocookie.com/embed/C5BSEaVC2nE",
+    "https://www.youtube-nocookie.com/embed/claoYvPC4D8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Penso em ti, eu sei",
+      "content": "Eu sei, lá fora a chuva cai\nO sono já lá vai e outra vez eu te amei\nEu sei (Penso em ti, penso em ti)\nQuando el sol nascer (Penso em ti, penso em ti)\nVou ter que perder, o medo de te dizer\n\nSou eu quem vai mudar\nSou eu quem vai sair\nTalvez até chorar\nNão sei o que estará p'ra vir\nTalvez eu vá mentir\nO que lá vai, lá vai\nLá fora a chuva cai\n\nEu sei (Penso em ti, penso em ti)\nQue a tristeza vem (Penso em ti, penso em ti)\nAo deixar alguém, a quem tanto me dei\nEu sei (Penso em ti, penso em ti)\nTalvez vá perder (Penso em ti, penso em ti)\nDoa a quem doer\nVou ter que te dizer: não\n\nSou eu quem vai mudar\nSou eu quem vai sair\nTalvez até chorar\nNão sei o que estará p'ra vir\nTalvez eu vá mentir\nO que lá vai, lá vai\nLá fora a chuva cai\n\nSei, sou eu quem vai mudar\nSou eu quem vai sair\nTalvez até chorar\nNão sei o que estará p'ra vir\nTalvez eu vá mentir\nO que lá vai, lá vai\n(Lá fora a chuva cаi)\nEu sei (Penѕo em ti)"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Thinking of you, I know",
+      "content": "I know the rain is falling outside\nThe sleep is already gone and I loved you again\nI know (Thinking of you, thinking of you)\nWhen the sun rises (Thinking of you, thinking of you)\nI'll have to lose my fear of telling you\n\nIt's me who's going to change\nIt's me who's going to leave\nMaybe I'm even going to cry\nI don't know what there is to come\nMaybe I'm going to lie\nWhat's over is over\nThe rain is falling outside\n\nI know (Thinking of you, thinking of you)\nThat the sadness comes (Thinking of you, thinking of you)\nBy leaving someone to whom I've given so much of myself\nI know (Thinking of you, thinking of you)\nI might lose (Thinking of you, thinking of you)\nIt doesn't matter whom it hurts\nI'll have to tell you: no\n\nIt's me who's going to change\nIt's me who's going to leave\nMaybe I'm even going to cry\nI don't know what there is to come\nMaybe I'm going to lie\nWhat's over is over\nThe rain is falling outside\n\nKnow, it's me who's going to change\nIt's me who's going to leave\nMaybe I'm even going to cry\nI don't know what there is to come\nMaybe I'm going to lie\nWhat's over is over\n(The rain is fаlling outѕide)\nI know (Thinking of you)"
+    }
+  ],
+  "bpm": 80,
+  "tone": "C major",
+  "artistPeople": [
+    "Adelaide Ferreira"
+  ],
+  "backings": [
+    "Isabel Campelo",
+    "Luís Fernando"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Tozé Brito"
+  ],
+  "conductor": "José Calvário",
+  "lyricists": [
+    "Adelaide",
+    "Luís Fernando"
+  ],
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Eládio Clímaco"
+  ],
+  "jury": null,
+  "spokesperson": "Maria Margarida Gaspar"
+}

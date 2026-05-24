@@ -1,0 +1,68 @@
+{
+  "id": 24,
+  "country": "CZ",
+  "artist": "Gabriela Gunčíková",
+  "song": "I Stand",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/wVy3rTNSN4Y",
+    "https://www.youtube-nocookie.com/embed/0L2imZRo6NY",
+    "https://www.youtube-nocookie.com/embed/iGaX6Q_bc-o",
+    "https://www.youtube-nocookie.com/embed/5eWTwTPE2-o",
+    "https://www.youtube-nocookie.com/embed/L3i0FuVpzaU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I Stand",
+      "content": "I run the path, I've hit the wall\nI'm the one who rose and fall\nI've played my heart when I played the part\nBut it got me through the rain\n\nI felt the strain, I've made mistakes\nWith the monsters in my head\nBut in the end you're standing there\nYou're the one who always cares\n\n'Cause I stand, I stand\nI am standing here just because of you\nEvery part of me is a part of you\nI stand\n\nI'm standing tall, I can hold it all\nNow I see where I belong\nThe choice I made helped me understand\nNow this life is mine to play\n\nI am thinking of you, you made me\nYou are my air, I always care\n\n'Cause I stand, I stand\nI am standing here just because of you\nEvery part of me is a part of you\nI stand\n\nYou'll never lose hold of me\nYou always trust and you see\nHere I stand\n\nI stand, I stand\nI am standing here just because of you\nEvery part of me is a part of you\nI stand\n\nI ѕtаnd"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "czech"
+      ],
+      "displayedLanguages": null,
+      "title": "Stojím",
+      "content": "Tou cestou jsem šla, narazila jsem do zdi\nJá jsem ta, kdo vstala a spadla\nHrála jsem se svým srdcem, když jsem hrála svou roli\nAle dostalo mě to skrz déšt'\n\nCítila jsem to napětí, udětala jsem chyby\nS těma příšerama v mé hlavě\nAle nakonec, tam stojíš\nTy jsi ten, kdo vždy se stará\n\nProtože stojím, stojím\nJá tu stojim jen kvůli tobě\nKaždá část mě je součástí tebe\nStojím\n\nStojím vysoká, můžu to vsě vydržet\nTed' vím kam patřím\nTa volba, kterou jsem udělala, mi pomohla porozumět\nTed' je život můj ke hraní\n\nDěkuji ti, ty jsi mě stvořil\nJsi můj vzduch, vždy se budu starat\n\nProtože stojím, stojím\nJá tu stojím jen kvůli tobě\nKaždá část mě je součástí tebe\nStojím\n\nNikdy mě neztratíš\nVždy důveřuj a uvidíš\nStojím\n\nStojím, stojím\nJa tu stojím jen kvůli tobě\nKаždá část mě je součáѕtí tebe\nStojím\n\nStojím"
+    }
+  ],
+  "bpm": 205,
+  "tone": "G minor",
+  "artistPeople": [
+    "Gabriela Gun"
+  ],
+  "backings": [
+    "Clara Hagman",
+    "Elin Åkesson",
+    "Madeleine Jangklev",
+    "Peter Ericson"
+  ],
+  "dancers": null,
+  "stageDirector": "Jan Potměšil",
+  "composers": [
+    "Christian Schneider",
+    "Sara Biglert"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Aidan O'Connor",
+    "Sara Biglert"
+  ],
+  "writers": null,
+  "broadcaster": "ČT",
+  "commentators": [
+    "Libor Bouček"
+  ],
+  "jury": [
+    "Marcela Kočandrlová",
+    "Markéta Nešlehová",
+    "Miloš Skalka",
+    "Pavel Anděl",
+    "Petr Král"
+  ],
+  "spokesperson": "Daniela Písařovicová"
+}

@@ -1,0 +1,52 @@
+{
+  "id": 7,
+  "country": "NO",
+  "artist": "Arne Bendiksen",
+  "song": "Spiral",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/OQNNzOH2o0g",
+    "https://www.youtube-nocookie.com/embed/GAFeFur_Ad0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "norwegian"
+      ],
+      "displayedLanguages": null,
+      "title": "Spiral",
+      "content": "Livet har nå fått fasong, jeg føler meg sveisen og fjong\nSvever i lykkerus rundt i et kremmerhus\nUnder en rosa ballong\n\nVerden er bare sol, ballongen er mitt symbol\nÅ, som jeg svever, å, som jeg lever\nBong\n\nNynner så glad på en trall, hjem frå et vellykket ball\nMånen som viser vei smiler så glad til meg\nHjernen er tøm som et skall\n\nJeg simpelthen bare er til på den veien her\nDanser avsted mens tanker går i spiral\n\nTa deg sammen, min venn, hvor går idéene hen?\nTil det poenget i det refrenget\nSom stadig kommer igjen\n\nLivet har nå fått fasong, jeg føler meg sveisen og fjong\nSvever i lykkerus rundt i et kremmerhus\nUnder en rosa ballong\n\nVerden er bare sol, ballongen er mitt symbol\nÅ, som jeg svever, å, som jeg lever\nBong\n\nLivet har nå fått fasong, jeg føler meg sveisen og fjong\nSvever i lykkerus rundt i et kremmerhus\nUnder en rosa ballong\n\nVerden er bare sol, bаllongen er mitt symbol\nÅ, som jeg svever, å, som jeg lever\nBong, bong, bong, bong\nÅ, som jeg svever, å, ѕom jeg lever\nBong\n\nBong"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Spiral",
+      "content": "Life has finally taken shape, I feel good looking and cute\nFloating drunk with happiness around in a cornet\nBeneath a pink balloon\n\nThe world is all sun, the balloon is my symbol\nOh, how I'm floating, oh, how I'm alive\nBong\n\nHumming a tune happily, going home from a successful ball\nThe moon guides me smiling happily at me\nMy brain like an empty shell\n\nI simply exist on this road\nDancing on while my thoughts spiral\n\nPull yourself together, my friend, where are the ideas going?\nTo the point in the refrain\nThat keeps returning\n\nLife has finally taken shape, I feel good looking and cute\nFloating drunk with happiness around in a cornet\nBeneath a pink balloon\n\nThe world is all sun, the balloon is my symbol\nOh, how I'm floating, oh, how I'm alive\nBong\n\nLife has finally taken shape, I feel good looking and cute\nFloating drunk with happiness, around in a cornet\nBeneath a pink balloon\n\nThe world is all sun, the balloon is my ѕymbol\nOh, how I'm floating, oh, how I'm alive\nBong, bong, bong, bong\nOh, how I'm floating, oh, how I'm аlive\nBong\n\nBong"
+    }
+  ],
+  "bpm": 144,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Arne Joachim Bendiksen"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Sigurd Jansen"
+  ],
+  "conductor": "Karsten Andersen",
+  "lyricists": [
+    "Egil Hagen"
+  ],
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "Odd Grythe"
+  ],
+  "jury": null,
+  "spokesperson": "Sverre Christophersen"
+}

@@ -1,0 +1,73 @@
+{
+  "id": 26,
+  "country": "RO",
+  "artist": "The Humans",
+  "song": "Goodbye",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/DGR4S3y7qcw",
+    "https://www.youtube-nocookie.com/embed/1FRArITJ6Wc",
+    "https://www.youtube-nocookie.com/embed/B_7dBLmtNXk",
+    "https://www.youtube-nocookie.com/embed/aE2jjscWTUs",
+    "https://www.youtube-nocookie.com/embed/Q1zPlS8Z0TM",
+    "https://www.youtube-nocookie.com/embed/VUZmyZCNnDY"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Goodbye",
+      "content": "It's time\nFor me to say goodbye\nIt's fine\nI've tried a million times\nTo kiss\nThe emptiness\nAnd make her mine\n\nI should've stayed\nBut I already left a thousand times\nI've won my fights\nNobody new nothin' about\nAll alone\nTrapped in a void\nCan't see the light\nGoodbye\n\nWhy don't you see the beauty that surrounds you everywhere\nWhy can't you feel the joy in all the small things people share\nAnd all the happiness that by the way is all for free\nOpen your heart, receive the love and stay with me\n\nPlease\nDon't be afraid\nI hear your cry\nDon't cry\n\nWe should all see the beauty of the precious gifts we have\n'Cause everyone deserves the power to go straight ahead\n\nNever give up, don't hit the floor, don't trust in all the lies\nNo matter what the odds will bring you, please don't ѕаy goodbye"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "romanian"
+      ],
+      "displayedLanguages": null,
+      "title": "La revedere",
+      "content": "E timpul\nPentru mine să spun la revedere\nE bine\nAm încercat de un milion de ori\nA săruta\nGoliciunea\nȘi fă-o a mea\n\nAr fi trebuit să rămân\nDar am plecat deja de o mie de ori\nAm câștigat luptele mele\nNimeni nu știa nimic\nSingur\nPrins într - un gol\nNu pot vedea lumina\nLa revedere\n\nDe ce nu vezi frumusețea care te înconjoară peste tot\nDe ce nu poți simți bucuria în toate lucrurile mărunte pe care oamenii le împărtășesc\nȘi toată fericirea care, apropo, este totul gratuit\nDeschide-ți inima, primește dragostea și rămâi cu mine\n\nTe rog\nNu-ți fie frică\nÎți aud strigătul\nNu plânge\n\nAr trebui să vedem cu toții frumusețea darurilor prețioase pe care le avem\nPentru că toată lumea merită puterea de a merge drept înainte\n\nNu renunțați niciodată, nu loviți podeaua, nu aveți încredere în toate minciunile\nIndiferent ce șanse vă vor aduce, vă rugăm să nu vă luați rămаѕ bun"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Прощай",
+      "content": "Пора\nМне сказать прощай\nВсё отлично\nЯ пыталась миллион раз\nЦеловать\nПустоту\nИ завладевать ею\n\nМне следовало остаться\nНо я уходила уже тысячу раз\nЯ выиграла свои схватки\nО которых никто ничего не знал\nСовсем одна\nВ ловушке пустоты\nНе вижу света\nПрощай\n\nПочему ты не видишь красоту, Всюду окружающую тебя?\nПочему ты не ощущаешь радость Во всех тех мелочах, которые разделяют люди?\nИ всё то счастье, Которое, кстати, для всех бесплатно\nРаскрой своё сердце, Прими любовь и останься со мной\n\nПрошу\nНе бойся\nЯ слышу твой плач\nНе плачь\n\nНам всем следует замечать красоту Ценных даров, которыми мы обладаем\nИбо каждый заслуживает Сил двигаться прямо вперёд\n\nНикогда не сдавайся, не падай на землю, Не верь в ложь\nКакие бы преимущества тебе ни сулили, Прошу, не говори \"Прощай\""
+    }
+  ],
+  "bpm": 101,
+  "tone": "E major",
+  "artistPeople": [
+    "Cristina Caramarcu"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Petre Năstase",
+  "composers": [
+    "Alexandru Mihai Matei",
+    "Alin Neagoe"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Cristina Caramarcu"
+  ],
+  "writers": null,
+  "broadcaster": "TVR",
+  "commentators": [
+    "Liliana Ștefan",
+    "Radu Andrei Tudor"
+  ],
+  "jury": [
+    "Al Mike",
+    "Anca Lupeș",
+    "Gabi Cotabiță",
+    "Nicu Patoi",
+    "Sanda Cepraga"
+  ],
+  "spokesperson": "Sonia Argint-Ionescu"
+}

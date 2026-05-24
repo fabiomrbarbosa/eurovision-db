@@ -1,0 +1,54 @@
+{
+  "id": 11,
+  "country": "PT",
+  "artist": "Eduardo Nascimento",
+  "song": "O vento mudou",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vylnyd4skSo",
+    "https://www.youtube-nocookie.com/embed/Hf4NizmlouY",
+    "https://www.youtube-nocookie.com/embed/YcDQ42MOaGg",
+    "https://www.youtube-nocookie.com/embed/1ArowgqxlTU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "O vento mudou",
+      "content": "Oiçam, oiçam: o vento mudou e ela não voltou\nAs aves partiram, as folhas caíram\n\nEla quis viver e o mundo correr\nPrometeu voltar se o vento mudar\n\nE o vento mudou e ela não voltou\nSei que ela mentiu, p'ra sempre fugiu\nVento, por favor, traz-me o seu amor\nVê que eu vou morrer se não mais a ter\n\nNuvens, tenham dó que eu estou tão só\nBatam-lhe à janela, chorem sobre ela\n\nE as nuvens choraram e quando voltaram\nSoube que mentira, p'ra sempre fugira\nNuvens, por favor, cubram minha dor\nJá que eu vou morrer se não maiѕ a ter\n\nOiçam! Oiçam! Oiçam! Oiçam! Oiçаm!"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The wind changed",
+      "content": "Listen, listen: the wind changed and she didn't return\nThe birds flew away, the leaves fell on the ground\n\nShe wanted to live and travel around the world\nShe promised to return if the wind changed\n\nAnd the wind changed and she didn't return\nI know that she lied, and ran away forever\nWind, if you can, bring me back her love\nBecause I'm going to die, without her by my side\n\nClouds, have mercy with this lonely me\nKnock on her window, cry over her\n\nAnd the clouds have cried, and when they came back\nI knew that she lied, and ran away forever\nClouds, please cover my pain\nBecаuse I'm going to die, without her by my side\n\nListen! Listen! Listen! Listen! Liѕten!"
+    }
+  ],
+  "bpm": 148,
+  "tone": "A major",
+  "artistPeople": [
+    "Eduardo Nascimento"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Nuno Nazareth Fernandes"
+  ],
+  "conductor": "Armando Tavares Belo",
+  "lyricists": [
+    "João Magalhães Pereira"
+  ],
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Henrique Mendes"
+  ],
+  "jury": null,
+  "spokesperson": "Maria Manuela Furtado"
+}

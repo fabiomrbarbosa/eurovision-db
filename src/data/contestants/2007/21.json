@@ -1,0 +1,62 @@
+{
+  "id": 21,
+  "country": "FR",
+  "artist": "Les Fatals Picards",
+  "song": "L'amour à la française",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/xjo3PIABpVQ",
+    "https://www.youtube-nocookie.com/embed/PyRcKHrNq_c",
+    "https://www.youtube-nocookie.com/embed/K80kV_uNXyY"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "L'amour à la française",
+      "content": "I remember jolie demoiselle\nThe last summer, nous, la tour Eiffel\nI remember comme tu étais belle\nSo beautiful with your sac Chanel\n\nSur le pont de la Seine\nLet's do it again, again, again, again\nYou gave me a rendez-vous\nWhat is it, what is it?\n\nJe le cherche à toi dans les rues\nJe ne suis pas venir car tu ne l'es plus\nJe le regarde partout, where are you?\nMy heart is bleeding, oh, I miss you\n\nL'amour à la française\nLet's do it again, again, again, again\nYou gave me a rendez-vous\n\nEt je cours, je cours, je cours\nI've lost l'amour, l'amour, l'amour\nJe suis perdu, here without you\nAnd I'm crazy, seul à Paris\nJe tu le manques, sans toi I can't\nEt sous la pluie, I feel sorry\nChamps-Élysées, alone la nuit\nLe Moulin Rouge, I feel guilty\n\nEt le soleil est plus brûlant que les oiseaux\nEt dans le ciel, I miss you so\nA souvenir, a rendez-vous\nDes fleurs, des fleurs, des fleurs for you\nJe tu le manques, sans toi I can't\nEt sous la pluie, I feel sorry\nJe suis perdu, here without you\nAnd I'm crazy, seul à Paris\n\nI remember jolie demoiselle\nThe last summer, comme tu étais belle\nI remember nous, la Tour Eiffel\nSo beautiful with your sac Chanel\n\nL'amour à la française\nC'est que je t'aime, je t'aime, je t'aime, je t'aime\nI give you a rendez-vous\n\nEt je cours, je cours, je cours\nI've lost l'amour, l'amour, l'amour\nJe suis perdu, here without you\nAnd I'm crazy, seul à Paris\nJe tu le manques, sans toi I can't\nEt sous la pluie, I feel sorry\nChamps-Élysées, alone la nuit\nLe Moulin Rouge, I feel guilty\n\nEt le soleil est plus brûlant que les oiseaux\nEt dans le ciel, I miss you so\nA souvenir, a rendez-vous\nDes fleurs, des fleurs, des fleurs for you\nJe tu le manques, sans toi I can't\nEt sous lа pluie, I feel sorry\nJe suiѕ perdu, here without…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Love the French way",
+      "content": "I remember  beautiful girl\nThe last summer,  us, the Eiffel Tower\nI remember  how beautiful you were\nSo beautiful with your  Chanel handbag\n\nOn the bridge of the Seine\nLet's do it again, again, again, again \nYou gave me a  rendezvous\nWhat is it, what is it? \n\nI am looking for you in the streets\nI didn't come because you aren't there anymore\nI'm looking everywhere, where are you? \nMy heart is bleeding, oh, I miss you \n\nLove the French way\nLet's do it again, again, again, again \nYou gave me a  rendezvous\n\nAnd I run, I run, I run\nI've lost  love, love, love\nI'm lost, here without you \nAnd I'm crazy,  alone in Paris\nI miss you, without you I can't \nAnd under the rain, I feel sorry \nChamps-Élysées, alone  at night\nThe Moulin Rouge, I feel guilty \n\nAnd the sun is burning stronger than the birds\nAnd in the sky, I miss you so \nA souvenir, a  rendezvous\nFlowers, flowers, flowers for you \nI miss you, without you I can't \nAnd under the rain, I feel sorry \nI'm lost, here without you \nAnd I'm crazy,  alone in Paris\n\nI remember  beautiful girl\nThe last summer,  how beautiful you were\nI remember  us, the Eiffel Tower\nSo beautiful with your  Chanel handbag\n\nLove the French way\nIt's that I love you, I love you, I love you, I love you\nI give you a  rendezvous\n\nAnd I run, I run, I run\nI've lost  love, love, love\nI'm lost, here without you \nAnd I'm crazy,  alone in Paris\nI miss you, without you I can't \nAnd under the rain, I feel sorry \nChamps-Élysées, alone  at night\nThe Moulin Rouge, I feel guilty \n\nAnd the sun is burning stronger than the birds\nAnd in the sky, I miss you so \nA souvenir, a  rendezvous\nFlowers, flowers, flowers for you \nI miss you, without you I can't \nUnder the rаin, I feel sorry \nI'm loѕt, here without…"
+    }
+  ],
+  "bpm": 166,
+  "tone": "C major",
+  "artistPeople": [
+    "Ivan Callot",
+    "Jean-Marc Sauvagnargues",
+    "Laurent Honel",
+    "Paul Léger",
+    "Yves Giraud"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Ivan Callot",
+    "Jean-Marc Sauvagnargues",
+    "Laurent Honel",
+    "Paul Léger",
+    "Yves Giraud"
+  ],
+  "broadcaster": "France 3",
+  "commentators": [
+    "Julien Lepers",
+    "Peggy Olmi",
+    "Tex",
+    "Yann Renoard"
+  ],
+  "jury": null,
+  "spokesperson": "Vanessa Dolmen"
+}

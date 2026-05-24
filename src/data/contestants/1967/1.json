@@ -1,0 +1,52 @@
+{
+  "id": 1,
+  "country": "IE",
+  "artist": "Sean Dunphy",
+  "song": "If I Could Choose",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/KtQ-EYcUnWQ",
+    "https://www.youtube-nocookie.com/embed/trIsoM6AYrc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "If I Could Choose",
+      "content": "They envy me, my hills of Clare\nThe white gulls calling in the soft sea air\nSo much to lose\nAnd yet I'd leave the hills of Clare\nAnd live in a desert if I had you there\nWhat would I lose if I could choose?\n\nIf I could choose a place to walk with you\nI'd choose the longest road\nAnd it would lead us to a house that no one knew\nBellows by the fire, and the turf smoke rising higher\nThan the lark that wings and always sings of you\n\nIf I could choose a time to talk with you\nI'd choose the longest day\nAnd over all the hills of Clare, I'd shout the news\nI would tell them how a day could last forever\nAnd I'd never leave your side if I could choose\n\nIf I could choose a time to talk with you\nI'd choose the longest day\nAnd over all the hills of Clare, I'd shout the news\nI would tell them how a day could last forever\nAnd I'd never leаve your side if I could chooѕe"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": null,
+      "title": "Αν μπορούσα να επιλέξω",
+      "content": "Με ζηλεύουν, οι λόφοι του Κλερ\nΟι λευκοί πελαργοί καλούν στο απαλό θαλασσινό αεράκι\nΤόσα να χάσω\nΑλλά ακόμα θα άφηνα τους λόφους του Κλερ\nΚαι θα ζούσα σε έρημο αν σ' είχα εκεί\nΤι θα έχανα αν μπορούσα να επιλέξω;\n\nΑν μπορούσα να επιλέξω τόπο να περπατήσω μαζί σου\nΘα επέλεγα τον πιο μακρύ δρόμο\nΚαι θα μας έφερνε σε ένα σπίτι που κανείς δεν ήξερε\nΦυσερό κοντά στη φωτιά, και ο καπνός από χλόη θα πήγαινε πιο ψηλά\nΑπό τον κορυδαλλό που πετά και πάντα τραγουδά για σένα\n\nΑν μπορούσα να επιλέξω ώρα να περπατήσω μαζί σου\nΘα επέλεγα τη πιο μεγάλη μέρα\nΚαι πάνω απ' όλους τους λόγους του Κλερ, θα αναφωνούσα τα νέα\nΘα τους έλεγα πως μια μέρα θα μπορούσε να κρατήσει για πάντα\nΚαι δεν θα έφευγα ποτέ από το μέρος σου, αν μπορούσα να επιλέξω\n\nΑν μπορούσα να επιλέξω ώρα να περπατήσω μαζί σου\nΘα επέλεγα τη πιο μεγάλη μέρα\nΚαι πάνω απ' όλους τους λόγους του Κλερ, θα αναφωνούσα τα νέα\nΘα τους έλεγα πως μια μέρα θα μπορούσε να κρατήσει για πάντα\nΚαι δεν θα έφευγα ποτέ από το μέρος σου, αν μπορούσα να επιλέξω"
+    }
+  ],
+  "bpm": 94,
+  "tone": "F major",
+  "artistPeople": [
+    "Sean Dunphy"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Michael Coffey"
+  ],
+  "conductor": "Noel Kelehan",
+  "lyricists": [
+    "Wesley Burrowes"
+  ],
+  "writers": null,
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Brendan O'Reilly"
+  ],
+  "jury": null,
+  "spokesperson": "Gay Byrne"
+}

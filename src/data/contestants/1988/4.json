@@ -1,0 +1,60 @@
+{
+  "id": 4,
+  "country": "NO",
+  "artist": "Karoline Krüger",
+  "song": "For vår jord",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/XLHA8jaFX7M",
+    "https://www.youtube-nocookie.com/embed/QWQ7aKRV3VE",
+    "https://www.youtube-nocookie.com/embed/D4E3OcUc0H8",
+    "https://www.youtube-nocookie.com/embed/qJhY03ABBdg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "norwegian"
+      ],
+      "displayedLanguages": null,
+      "title": "For vår jord",
+      "content": "Ingen vet hvem hun er\nIngen våger å gå for nær\nDer hun står med høye rop\nOg store øyne som aldri møter våre\nHun ser inn i glemte land\nMan tror hun mangler forstand\n\nHun er en av de som våker ved flammen (for vår jord)\nEn av de som holder grenene sammen (for vår jord)\nHun ser at jorden er vår mor, stå vakt for vår jord\n\nAlle ser en annen vei\nPraten stilner, vi veksler blikk og smiler\nHennes skrik er uten hud\nFra jorden bringer hun bud\n\nHun er en av de som våker ved flammen (for vår jord)\nEn av de som holder grenene sammen (for vår jord)\n\nHun er en av de som kaver i strømmen (for vår jord)\nEn av de som aldri våkner av drømmen (for vår jord)\nHun ser at jorden er vår mor\n(Stå vakt) og la flammen få brenne\n(Stå vakt) samme hva ѕom vil hende\n(Stå vakt) Stå vаkt for vår jord"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "For our earth",
+      "content": "No one knows who she is\nNo one dares to go too close\nWhere she stands with loud cries\nAnd large eyes that never meet ours\nShe looks into forgotten lands\nPeople believe she has lost her mind\n\nShe is among those guarding the flame (for our earth)\nOne of those keeping the branches together (for our earth)\nShe sees that the earth is our mother, stand guard, for our earth\n\nEveryone looks in another direction\nThe chattering dies out, we exchange glances and smile\nHer screams are without skin\nShe carries a message from the earth\n\nShe is among those guarding the flame (for our earth)\nOne of those keeping the branches together (for our earth)\n\nShe is among those struggling in the current (for our earth)\nOne of those who never wake from the dream (for our earth)\nShe sees that the earth is our mother\n(Stand guard) and let the flame burn\n(Stand guard) no matter what happenѕ\n(Stand guard) For our eаrth"
+    }
+  ],
+  "bpm": 140,
+  "tone": "D major",
+  "artistPeople": [
+    "Karoline Krüger"
+  ],
+  "backings": [
+    "Elisabeth Moberg",
+    "Kari Iveland",
+    "Kjetil Bjerkestrand",
+    "Sigvart Dagsland",
+    "Tor Endresen"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Erik Hillestad"
+  ],
+  "conductor": "Arild Stav",
+  "lyricists": [
+    "Anita Skorgan"
+  ],
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "John Andreassen"
+  ],
+  "jury": null,
+  "spokesperson": "Andreas Diesen"
+}

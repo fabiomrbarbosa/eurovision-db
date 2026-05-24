@@ -1,0 +1,55 @@
+{
+  "id": 16,
+  "country": "PT",
+  "artist": "Paulo de Carvalho",
+  "song": "E depois do adeus",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/97-W9A5qWgI",
+    "https://www.youtube-nocookie.com/embed/ExbffvqzgFQ",
+    "https://www.youtube-nocookie.com/embed/jthlDhHpblo",
+    "https://www.youtube-nocookie.com/embed/twdnZc1xUq0",
+    "https://www.youtube-nocookie.com/embed/WL86uM9Nqf0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "E depois do adeus",
+      "content": "Quis saber quem sou, o que faço aqui\nQuem me abandonou, de quem me esqueci\nPerguntei por mim, quis saber de nós\nMas o mar não me traz tua voz\n\nEm silêncio, amor, em tristeza enfim\nEu te sinto em flor, eu te sofro em mim\nEu te lembro assim, partir é morrer\nComo amar é ganhar e perder\n\nTu vieste em flor, eu te desfolhei\nTu te deste em amor, eu nada te dei\nEm teu corpo, amor, eu adormeci\nMorri nele e ao morrer renasci\n\nE depois do amor, e depois de nós\nO dizer adeus, o ficarmos sós\nTeu lugar a mais, tua ausência em mim\nTua paz que perdi, minha dor que aprendi\nDe novo vieste em flor, te desfolhei\n\nE depois do amor, e depois de nós\nO adeus, o ficarmos sóѕ\n\n(La la lа…)"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "After the goodbye",
+      "content": "I wanted to know who I was, what I'm doing here\nWho has abandoned me, whom I forgot\nI asked myself, I wanted to know about us\nBut the sea doesn't bring me your voice\n\nIn silence, my love, in sadness at last\nI feel you like a flower, I feel you hurting me\nI remember you, leaving is dying\nLike loving is winning and losing\n\nYou came as a flower, I peeled you\nYou gave me your love, I gave you nothing\nIn your body, my love, I fell asleep\nI've died in it and after dying I was reborn\n\nAnd after love, and after us\nThe goodbye, the staying alone\nYour empty place, your absence in me\nYour peace that I lost, my sorrow that I gained\nAgain you came as a flower, I peeled you\n\nAnd after love, and after us\nThe goodbye, the ѕtaying alone\n\n(La la lа…)"
+    }
+  ],
+  "bpm": 120,
+  "tone": "D major",
+  "artistPeople": [
+    "Paulo da Costa"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "José Calvário"
+  ],
+  "conductor": "José Calvário",
+  "lyricists": [
+    "José Niza"
+  ],
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Artur Agostinho"
+  ],
+  "jury": null,
+  "spokesperson": "Henrique Mendes"
+}

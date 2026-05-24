@@ -1,0 +1,61 @@
+{
+  "id": 2,
+  "country": "SE",
+  "artist": "One More Time",
+  "song": "Den vilda",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/8T7taFxLRvk",
+    "https://www.youtube-nocookie.com/embed/VW9ciJcEauw",
+    "https://www.youtube-nocookie.com/embed/bm92xmBXZH8",
+    "https://www.youtube-nocookie.com/embed/w7f8Y1d8x0Y",
+    "https://www.youtube-nocookie.com/embed/5k_-iMy1dH8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Den vilda",
+      "content": "Vintern den sänker sin slöja och bäddar in husen\nHärden i värdshuset värmer och maten och krusen\nDär dansar han med den vilda\nDe dansar som virvlar i ett vattenfall\nFyllda av stolthet och vilja\nDansar som virvlar i ett vattenfall\n\nMen rykten i stugorna sprids\nMedan snöflingor faller\nStjärnorna gnistrar mot isen som klara kristaller\nDär flyr han bort med den vilda\nDe rusar som virvlar i ett vattenfall\nFyllda av stolthet och vilja\nRusar som virvlar i ett vattenfall\n\nDroskan försvinner i natten\nOch snön blir till drivor utmed vägens kant\nHovslagen ekar bland bergen än\nLekande sorglöst som ett vattenfall\n\nNatten den sänker sin slöja och suddar ut spåren\nVar de än är har de styrkan som forsen om våren\nDär dansar han med den vilda\nDe dansar som virvlar i ett vattenfall\nFyllda av stolthet och vilja\nDansar som virvlar i ett vattenfall\n\nFyllda av stolthet och vilja\nDansar ѕom virvlar i ett vattenfаll"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The wild one",
+      "content": "The winter is lowering its veil and is tucking in the houses\nThe fire in the tavern warms us and the food and the jugs\nThere he dances with the wild one\nThey are dancing like whirls in a waterfall\nFilled with pride and willpower\nDancing like whirls in a waterfall\n\nBut rumours are spreading among the cottages\nWhile snowflakes are falling\nThe stars are sparkling against the ice like clear crystals\nThere he runs away with the wild one\nThey are rushing like whirls in a waterfall\nFilled with pride and willpower\nRushing like whirls in a waterfall\n\nThe carriage is disappearing in the night\nAnd the snow becomes snowdrifts along the road\nThe sound of hoofs are still echoing in the mountains\nPlaying carefreely like a waterfall\n\nThe night is lowering its veil and erasing the traces\nWherever they are, they're strong like the stream in springtime\nThere he dances with the wild one\nThey are dancing like whirls in a waterfall\nFilled with pride and willpower\nDancing like whirls in a waterfall\n\nFilled with pride and willpower\nDancing like whirlѕ in a waterfаll"
+    }
+  ],
+  "bpm": 165,
+  "tone": "C major",
+  "artistPeople": [
+    "Maria Rådsten",
+    "Marianne Elisabeth Grönvall",
+    "Peter Grönvall"
+  ],
+  "backings": [
+    "Joachim Dominique",
+    "Magnus Bengtsson",
+    "Thomas Bergqvist"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Peter Grönvall"
+  ],
+  "conductor": "Anders Berglund",
+  "lyricists": [
+    "Nanne Grönvall"
+  ],
+  "writers": null,
+  "broadcaster": "SVT",
+  "commentators": [
+    "Björn Kjellman"
+  ],
+  "jury": null,
+  "spokesperson": "Ulla Rundquist"
+}

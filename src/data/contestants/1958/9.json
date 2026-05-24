@@ -1,0 +1,51 @@
+{
+  "id": 9,
+  "country": "LU",
+  "artist": "Solange Berry",
+  "song": "Un grand amour",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/_1SsaR6Yii8",
+    "https://www.youtube-nocookie.com/embed/6BmkOTN89pU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Un grand amour",
+      "content": "Un grand amour, cela commence\nSans qu'on y pense le plus souvent\nEt l'on écoute une romance\nNée d'un silence bien émouvant\n\nCar vous savez lorsque l'on s'aime\nLes mots eux-mêmes sont de trop\nÀ quoi bon rêver d'un poème?\nL'instant suprême est bien plus beau\n\nDes yeux qui se détournent vite\nEt puis hésitent à revenir\nVers les yeux qui les sollicitent\nEt les invitent à leur sourire\n\nVoilà comment l'amour s'impose\nEt vous propose une folie\nOn ne vit plus l'amour en prose\nOn la transpose en poésie\n\nUn grand amour, hélas, s'achève\nComme un beau rêve dans un soupir\nDe nouveau l'ennui vous assiège\nLa douce trêve vient de finir\n\nQu'importe que la vie soit brève\nEt que sa sève s'épuise un jour\nSi l'amitié prend la relève\nLorsque s'achève un grand amour\n\nSi l'amitié prend la relève\nLorsque ѕ'achève un grand аmour"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "A great love",
+      "content": "A great love, that begins\nWithout thinking about it most of the time\nAnd we listen to a romance\nBorn from a stirring silence\n\nBecause you know when we love each other\nEven words are too much\nWhat's the use of dreaming of a poem?\nThe supreme moment is much nicer\n\nEyes which are turning away quickly\nAnd then hesitate to come back\nTo the eyes that tempt\nAnd invite them to smile\n\nThat is how love imposes itself\nAnd suggests something crazy to you\nWe don't live love in prose\nWe transpose it in poetry\n\nA great love, alas, is ending\nLike a nice dream in a sigh\nAgain worries trouble you\nThe sweet rest comes to an end\n\nWhat does it matter that life is short\nAnd that its vigour runs out one day\nIf friendship takes over\nWhen a great love ends\n\nIf friendship takes over\nWhen a greаt love endѕ"
+    }
+  ],
+  "bpm": 143,
+  "tone": "C# minor",
+  "artistPeople": [
+    "Solange Berry"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Michel Eric"
+  ],
+  "conductor": "Dolf van der Linden",
+  "lyricists": [
+    "Monique Laniece",
+    "Raymond Roche"
+  ],
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Pierre Bellemare"
+}

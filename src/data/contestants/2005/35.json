@@ -1,0 +1,52 @@
+{
+  "id": 35,
+  "country": "BE",
+  "artist": "Nuno Resende",
+  "song": "Le grand soir",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/7-3MTt6Uatk",
+    "https://www.youtube-nocookie.com/embed/yo5s6WKOd0c"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Le grand soir",
+      "content": "Ce soir, tous ces regards\nLà dans le noir, la peur et l'espoir\nCe soir, il n'est pas trop tard\nDe croire aux rêves de gloire\nCe soir, une lumière\nDans un éclair, changer d'histoire\nCe soir, je l'ai prié\nJe l'attendais, le grand soir\n\nCe soir, le souffle court\nL'enjeu est lourd, ne pas décevoir\nCe soir, changer de trottoir\nCe soir, un nouveau départ\nEt voir, toute sa vie\nTous ses amis en un regard\nCe soir, je fais un vœu\nJe veux pour eux, le grand soir\n\nCe soir, on oublie tout\nLes mauvais coups, les nuits de brouillard\nCe soir, c'est un autre jour\nCe soir, c'est enfin mon tour\nD'avoir, comme un dimanche\nUne revanche et le pouvoir\nCe soir, de l'appeler, de le chanter\nLe grand soir, oh...\nLe grаnd ѕoir"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The big night",
+      "content": "Tonight, all these looks\nThere in the dark, fear and hope\nTonight, it's not too late\nTo believe in dreams of glory\nTonight, a light\nIn a flash, to change history\nTonight, I prayed for it\nI waited for it, the big night\n\nTonight, short of breath\nWith high commitment, not to disappoint\nTonight, to change sidewalk\nTonight, a new start\nAnd to see his entire life\nAll his friends in a glance\nTonight, I make a wish\nI want for them, the big night\n\nTonight, we all forget\nThe bad paths, the misty nights\nTonight, it's another day\nTonight, it's my turn at last\nTo have, as a Sunday\nA revenge and the power\nTonight, to cаll it, to ѕing it\nThe big night, oh...\nThe big night"
+    }
+  ],
+  "bpm": 162,
+  "tone": "Ab minor",
+  "artistPeople": [
+    "Nuno Guilherme de Figueiredo Resende"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Alec Mansion",
+    "Frédéric Zeitoun"
+  ],
+  "broadcaster": "RTBF",
+  "commentators": [
+    "André Vermeulen",
+    "Jean-Pierre Hautier"
+  ],
+  "jury": null,
+  "spokesperson": "Armelle Gysen"
+}

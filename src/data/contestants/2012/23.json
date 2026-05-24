@@ -1,0 +1,61 @@
+{
+  "id": 23,
+  "country": "HU",
+  "artist": "Compact Disco",
+  "song": "Sound Of Our Hearts",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/sw85G2AlU2c",
+    "https://www.youtube-nocookie.com/embed/qVXhElLlWb8",
+    "https://www.youtube-nocookie.com/embed/vCAlNahM8HY",
+    "https://www.youtube-nocookie.com/embed/e9h64LrjuUg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The sound of our hearts",
+      "content": "The whole big world is just one place\nYou can say it's all the same\nYou may feel hatreds it sows\nWe can show it's no way to go\n\nThis is the sound of our hearts, if you listen\nThis is a zeal from above and it can say it all\nThis is a fever they can't take away\nThis is the sound of… the sound of… the sound of our hearts\n\nThe sound of our hearts\nThe sound of our hearts\n\nHarmony can be achieved\nJust find some way to get connected\nDifferences may not be wrong\nThey enrich the things that we know\n\nDifferent faiths, different views\nAll we can do is to turn them in key\n\nThis is the sound of our hearts, if you listen\nThis is a zeal from above and it can say it all\nThis is a fever they can't take away\nThis is the sound of… the sound of… the sound of…\n\nThis is the sound of our hearts, if you listen\nThis is a zeal from above and it can say it all\nThis a fever they can't take away\nThis is the sound of… the sound of… the sound of our hearts\n\nThe sound of our hearts\nThe sound of our heаrtѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "hungarian"
+      ],
+      "displayedLanguages": null,
+      "title": "A Szívünk Hangja",
+      "content": "Csupán egy van ebből az óriási világból\nPersze, mondhatod, hogy sosem fog megváltozni\nÉs talán úgy érzed: hogy a gyűlöletnek néha utat kell törnie\nHát mi meg tudjuk neked mutatni: hogy ez az út sehová sem vezet\n\nHallhatod a szívünk hangját\nHa odafigyelsz\nFelülről jött ez az elhivatottság\nÉs ez önmagáért beszél\nEz az a láz, amit nem tudnak elvenni tőlünk\nEz a szívünk, a szívünk, a szívünk hangja\n\nA harmónia elérhető\nCsak meg kell találni a közös hangot\nHa valami más, attól még nem biztos, hogy hibás\nA különbségek kiszélesítik a látókörünket\nKülönböző hitek, más szemszögek\nCsak annyit tehetünk, hogy jóra használjuk őket\n\nHallhatod a szívünk hangját\nHa odafigyelsz\nFelülről jött ez az elhivatottság\nÉs ez önmagáért beszél\nEz az a láz, amit nem tudnak elvenni tőlünk\nEz a szívünk, a szívünk, a ѕzívünk hangjа"
+    }
+  ],
+  "bpm": 162,
+  "tone": "D major",
+  "artistPeople": [
+    "Attila Sándor",
+    "Behnam Lotfi",
+    "Csaba Walkó",
+    "Gábor Pál"
+  ],
+  "backings": [
+    "Helga Wéber",
+    "Krisztián Szakos"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Attila Sándor",
+    "Behnam Lotfi",
+    "Csaba Walkó",
+    "Gábor Pál"
+  ],
+  "broadcaster": "MTV",
+  "commentators": [
+    "Gábor Gundel Takács"
+  ],
+  "jury": null,
+  "spokesperson": "Éva Novodomszky"
+}

@@ -1,0 +1,48 @@
+{
+  "id": 8,
+  "country": "NL",
+  "artist": "Marlayne",
+  "song": "One Good Reason",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ohTT9mMx-rs",
+    "https://www.youtube-nocookie.com/embed/c5ZwnIxDuKg",
+    "https://www.youtube-nocookie.com/embed/YhqJpF44sdg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "One Good Reason",
+      "content": "You know there never was a doubt in my mind\nYou only have to follow and learn how to read the signs\nA heartache always seems so easy to find\nBut I will never let go, I wanna see what this love has to hide\nWe'll just have to face it, rearrange and place it\nI'll never let love pass us by\n\nGive me one good reason and I will give you two\nSay: \"I love you forever\", say you will, say you do\nGive me one good reason and I will give you two\nSay: \"I love you forever\", say you will, say: \"I do\"\n\nYou know there never was a cloud in my eye\nAll we have is one chance to reach out for the clear blue skies\nWe'll just have to face it, rearrange and place it\nI'll never let love pass us by\n\nGive me one good reason and I will give you two\nSay: \"I love you forever\", say you will, say you do\nGive me one good reason and I will give you two\nSay: \"I love you forever\", say you will, say: \"I do\"\n\n(And then the heart…)\nThe heart gets stronger with every step that we take\n(From the moment…)\nFrom the moment we go to sleep till the time that we awake\n(I won't let…)\nI won't let anybody lead us astray\n(And then the line…)\nAnd then the line from me to you will never break or fade away\n\nGive me one good reason and I will give you two\nI love you forever, yes, I will, baby, I do\n\nGive me one good reason and I will give you two\nSay: \"I love you forever\", say you will, say you do\nGive me one good reason and I will give you two\nSay: \"I love you forever\", say you will, ѕay: \"I do\"\n\nSаy: \"I do\""
+    }
+  ],
+  "bpm": 95,
+  "tone": "C# major",
+  "artistPeople": [
+    "Marleen van den Broek"
+  ],
+  "backings": [
+    "Caroline Dest",
+    "Franky Rampen",
+    "Herman van Doorn",
+    "Leendert Haaksma"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Alan Michael",
+    "Tjeerd van Zanen"
+  ],
+  "broadcaster": "NOS",
+  "commentators": [
+    "Willem van Beusekom"
+  ],
+  "jury": null,
+  "spokesperson": "Edsilia Rombley"
+}

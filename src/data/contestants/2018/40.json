@@ -1,0 +1,78 @@
+{
+  "id": 40,
+  "country": "GE",
+  "artist": "Ethno-Jazz Band Iriao",
+  "song": "For You",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/FvVx5-mzmm0",
+    "https://www.youtube-nocookie.com/embed/TuCZMdfBqm4",
+    "https://www.youtube-nocookie.com/embed/35liTCuuxGE",
+    "https://www.youtube-nocookie.com/embed/GLIXRnQF2_Y"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "georgian"
+      ],
+      "displayedLanguages": [
+        "kartuli"
+      ],
+      "title": "Sheni Gulistvis",
+      "content": "Dgeo gadiddi\nTovli gaadne\nVisac ufro Sescivda gamit, is metad gaatbe\nChemtvis k'i ara\nChventvis anate\nGuli sxvisi bednierebit gaaxare\n\nMze amosvlas ar agvianebs\nSitbos achukebs adamianebs\nDa dedamitsa sikvarulit trialebs\n\nSxvisi gaigo , sxvistvis gaigo\nGuli ra aris cxrajer cxrad tu ar gaiko\nSxva kvelaferi, qarma tsaigo\nSheni mxolod is aris ,rasac sxvistvis tmob.\n\nDge atenebs games\nTu shens gverdit var me\nRagac mtavrdeba, ragac itskeba\nQvekanad sikete iko, aris da iqneba.\n\nSheni gulistvis\nSikvarulistvis\nTundac erti tsutistvis\nIsev vagrzelebt gzas\nRasaca gascem ѕheniа"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "georgian"
+      ],
+      "displayedLanguages": [
+        "ქართული"
+      ],
+      "title": "შენი გულისთვის",
+      "content": "დღეო გადიდდი\nთოვლი გაადნე\nვისაც უფრო შესწივდა ღამით, ის მეთად გაათბე\nჩვენთვის კი არა\nჩვენთვის ანათე\nგული სხვისი ბედნიერებით გაახარე\n\nმზე ამოსვლას არ აგვიანებს\nსითბოს აჩუქებს ადამიანებს\nდა დედამიწა სიყვარულით ტრიალებს\n\nსხვისი გაიგო, სხვისთვის გაიგო\nგული რა არის ცხრაჯერ ცხრად თუ არ გაიყო\nსხვა ყველაფერი, ქარმა წაიღო\nშენი მხოლოდ ის არის, რასაც სხვისთვის თმობ\n\nდღე ატენებს ღამეს\nთუ შენს გვერდით ვარ მე\nრაღაც მთავრდება, რაღაც იწყება\nკვეკანად სიკეთე იქო, არის და იქნება\n\nშენი გულისთვის\nსიყვარულისთვის\nტუნდაც ერთი წუტისთვის\nისევ ვაგრზელებთ გზას\nრასაცა გასცემ შენია"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "For You",
+      "content": "Day – be longer\nAnd melt the snow\nTo warm up the one, who felt cold in the night\nShine for us \nNot for me\nMake the heart feel joyful for the others happiness\n\nThe sun rises in time\nTo grant people warmness\nAnd the earth keeps turning with love\n\nLet understand the feelings of others, share with others\nWhat is the heart, break into pieces to share with others\nThe wind will carry the rest away\nYou own only what you share\n\nDay breaks the night\nIf I am by your side;\nSomething ends and there comes a new start\nKindness will live forever on the earth\n\nFor you\nFor love\nFor just one flash\nWe go on our way\nAll is yours, what you ѕhаre"
+    }
+  ],
+  "bpm": 121,
+  "tone": "A minor",
+  "artistPeople": [
+    "Bidzina Murgulia",
+    "George Abashidze",
+    "Levan Abshilava",
+    "Mikheil Javakhishvili",
+    "Shalva Gelekva Niutone"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Zaza Orashvili",
+  "composers": [
+    "David Malazonia",
+    "Mikheil Mdinaradze"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Irina Sanikidze"
+  ],
+  "writers": null,
+  "broadcaster": "GPB",
+  "commentators": [
+    "Demetre Ergemlidze"
+  ],
+  "jury": [
+    "David Evgenidze",
+    "Eliso Shengelia",
+    "Kakhaber Grigalashvili",
+    "Salome Bakuradze",
+    "Zurab Ramishvili"
+  ],
+  "spokesperson": "Tamara Gachechiladze"
+}

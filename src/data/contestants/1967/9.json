@@ -1,0 +1,54 @@
+{
+  "id": 9,
+  "country": "YU",
+  "artist": "Lado Leskovar",
+  "song": "Vse rože sveta",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/GjKYl7gdMwg",
+    "https://www.youtube-nocookie.com/embed/qNM-eROeD3I"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "slovene"
+      ],
+      "displayedLanguages": null,
+      "title": "Vse rože sveta",
+      "content": "Strel samo za pozdrav\nIn za zlovo je planil v noč\nSredi trav pokopan tu leži\nKjer je pal brez besede na ustih\n\nJaz pa čakam pomladi\nSlutim nežne dlani moje drage\nČutim božanje las in besedi dve\nBrez besed, sredi trav\nKo pomlad je tu\n\n<i style=\"color:#789\">Zakaj me ta beseda trobente spominja na tiste\nKi nimajo več pravih besed na ustih?</i>\n\nLe zakaj vse te rože\nSredi polja leže in trohnijo?\nDa bi vsi ti ljudje\nZaslutili čas\nIn pomlad, ki za vse\nJe enkrat ѕаmo"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "All the flowers of this world",
+      "content": "A shot just to salute\nAnd to say goodbye and off he went into night\nBuried in the middle of the grass, he lies here\nWhere he fell down without a word on his lips\n\nI'm waiting for spring\nI can sense the tender palms of my dear\nI feel the caress of my hair and some words\nWithout words among the grass\nWhen the spring is here\n\n<i style=\"color:#789\">Why does the sound of the trumpet reminds me of those\nWho don't have the right words in their mouths?</i>\n\nWhy do all these flowers\nLie and fester in the middle of the field?\nSo that all these people would\nAnticipate the time\nAnd the spring that for аll comeѕ\nOnly once"
+    }
+  ],
+  "bpm": 106,
+  "tone": "E major",
+  "artistPeople": [
+    "Lado Leskovar"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Urban Koder"
+  ],
+  "conductor": "Mario Rijaveć",
+  "lyricists": [
+    "Milan Lindič"
+  ],
+  "writers": null,
+  "broadcaster": "JRT",
+  "commentators": [
+    "Miloje Orlović",
+    "Mladen Delić",
+    "Tomaž Terček"
+  ],
+  "jury": null,
+  "spokesperson": "Saša Novak"
+}

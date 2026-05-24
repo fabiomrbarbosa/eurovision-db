@@ -1,0 +1,43 @@
+{
+  "id": 3,
+  "country": "AT",
+  "artist": "Vincent Bueno",
+  "song": "Alive",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/cOuiTJlBC50"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Alive",
+      "content": "Shackle bolts\nAround all these thrones come screaming\nBehind a wall of egos\nThere is a hidden hero in us, in us\nIn all of us\n\nYou make me feel like, oh-oh-oh\nYou make me feel like, oh-oh-oh\nYou make me, you make me feel like, oh-oh-oh\nYou make me feel like\n\nYou make me feel alive\nYou make me feel like I'm alive again, alive again\nOnly you can make me feel alive again, alive again\n\nI'm like a little match box\nAll I need is a little spark\nTo light this whole world up\nPrepare for fire shots\nOnly you can make me feel alive again, alive again\n\nSticks and stones, oh-oh\nMight break all I own\nCome beat it\nBehind a wall of egos\nThere is a hidden hero in us, oh-oh-oh\n\nYou make me feel like, oh-oh-oh\nYou make me, you make me feel like, yeah, oh-oh-oh\nYou make me feel like\n\nYou make me feel alive\nYou make me feel like I'm alive again, alive again\nOnly you can make me feel alive again, alive again\n\nI'm like a little match box\nAll I need is a little spark\nTo light this whole world up\nPrepare for fire shots\nOnly you can make me feel alive again, alive again\n\nI give you fire shots\nShackle bolts hidden around\nEverybody sing, come on\nOh, oh, oh-oh\nOh, oh, oh-oh\nOh, oh, oh-oh\nOh, oh, oh-oh\n\nYou make me feel alive\nYou make me feel like I'm alive again, alive again, oh-oh\n\nIt'ѕ overthrown\nAnd I'm on my own\nAlive agаin"
+    }
+  ],
+  "bpm": 116,
+  "tone": "C# minor",
+  "artistPeople": [
+    "Vincent Bueno"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Artur Aigner",
+    "David Yang",
+    "Felix van Göns",
+    "Vincent Bueno"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Vincent Bueno"
+  ],
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

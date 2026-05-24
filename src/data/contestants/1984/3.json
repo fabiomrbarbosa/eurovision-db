@@ -1,0 +1,62 @@
+{
+  "id": 3,
+  "country": "DK",
+  "artist": "Hot Eyes",
+  "song": "Det' lige det",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/oBk3aBUbv8k",
+    "https://www.youtube-nocookie.com/embed/_c2jA-V4utw",
+    "https://www.youtube-nocookie.com/embed/3WfGFS-Owx4",
+    "https://www.youtube-nocookie.com/embed/cYXPJHXYALM",
+    "https://www.youtube-nocookie.com/embed/W7C89nOJWNs",
+    "https://www.youtube-nocookie.com/embed/4CyDhuquErY"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "danish"
+      ],
+      "displayedLanguages": null,
+      "title": "Det' lige det",
+      "content": "Regnen slår mod ruden\nJeg stirrer trist på den\nDer' ikke meget, der tyder på\nAt solen kigger frem igen\nSå ringer det på døren\nOg hvem mon træder ind?\nDet gør du, og straks er regnen væk\nI hvert fald i mit sind\n\nDet' lige det, jeg går og venter på\nDet' lige det, der får mig til at leve\nDet store sus, en herlig gave\nDer pluds'lig dukker ud af det blå\nDet' lige det, jeg går og venter på\nDet' lige det, der får mig til at svæve\nOg hvis jeg drømmer, be'r jeg dig:\nLad vær' og væk' mig mer'\n\nDu står lidt sky og tøver\nFortæller så til sidst\nAt det er gået op for dig\nHvad jeg så længe selv har vidst\nDu stirrer skræmt forbi mig\nVed ordet 'kærlighed'\nBare rolig, jeg bli'r aldrig træt\nAf det dér ord, du ved\n\nDet' lige det, jeg går og venter på\nDet' lige det, der får mig til at leve\nDet store sus, en herlig gave\nDer pluds'lig dukker ud af det blå\nDet' lige det, jeg går og venter på\nDet' lige det, der får mig til at svæve\nOg hvis jeg drømmer, be'r jeg dig:\nLad vær' og væk' mig mer'\n\nVi løber hånd i hånd hen ad vejen\nOg blæser på, om regnen ta'r til\nJeg bli'r en smule stolt og forlegen\nHver gang du sender mig et smil\n\nDet' lige det…\nDet' lige det, jeg går og venter på\nDet' lige det, der får mig til at leve\nDet store sus, en herlig gave\nDer pluds'lig dukker ud af det blå\nDet' lige det, jeg går og venter på\nDet' lige det, der får mig til at svæve\nOg hviѕ jeg drømmer, be'r jeg dig:\nLаd vær' og væk' mig mer'"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "That's just it",
+      "content": "The rain is beating on the window\nI stare at it, drearily\nThere isn't a lot, that indicates\nThat the sun will come out again\nThen the doorbell rings\nAnd who do you think steps in?\nYou do, and at once the rain is gone\nAt least in my mind\n\nThat's just what I'm waiting for\nThat's just what makes me live\nThe big sensation, a wonderful gift\nThat suddenly appears out of nowhere\nThat's just what I'm waiting for\nThat's just what makes me float through the air\nAnd if I dream, I beg you:\nDon't wake me up anymore\n\nYou stand a bit shy and hesitate\nThen at last tells me\nThat you've realized\nWhat I've known for so long\nYou stare past me, frightened\nAt the word 'love'\nCalm down, I'll never get tired\nOf that word, you know\n\nThat's just what I'm waiting for\nThat's just what makes me live\nThe big sensation, a wonderful gift\nThat suddenly appears out of nowhere\nThat's just what I'm waiting for\nThat's just what makes me float through the air\nAnd if I dream, I beg you:\nDon't wake me up anymore\n\nWe run down the street hand in hand\nAnd don't care if the rain increases\nI get a bit proud and shy\nEvery time you send me a smile\n\nThat's just it…\nThat's just what I'm waiting for\nThat's just what makes me live\nThe big sensation, a wonderful gift\nThat suddenly appears out of nowhere\nThat's just what I'm waiting for\nThat's just what makeѕ me float through the air\nAnd if I dream, I beg you:\nDon't wake me up аnymore"
+    }
+  ],
+  "bpm": 144,
+  "tone": "A major",
+  "artistPeople": [
+    "Kirsten Siggaard",
+    "Søren Bundgaard"
+  ],
+  "backings": [
+    "Frede Ewert",
+    "Hanne Boel",
+    "Lise Dandanell",
+    "Tina Schäfer"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Søren Bundgaard"
+  ],
+  "conductor": "Henrik Krogsgaard",
+  "lyricists": [
+    "Keld Heick"
+  ],
+  "writers": null,
+  "broadcaster": "DR",
+  "commentators": [
+    "Jørgen de Mylius"
+  ],
+  "jury": null,
+  "spokesperson": "Bent Henius"
+}

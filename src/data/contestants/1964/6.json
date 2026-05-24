@@ -1,0 +1,52 @@
+{
+  "id": 6,
+  "country": "FI",
+  "artist": "Lasse Mårtenson",
+  "song": "Laiskotellen",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/c5EPbegQF4M",
+    "https://www.youtube-nocookie.com/embed/zYZ0oWp-h_Y"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Laiskotellen",
+      "content": "On taaskin sunnuntai ja haalarit jo nurkkaan jäädä sai\nEikä kiire laisinkaan, herätyskellokin on hiljaa vaan\n\nOn aamu sunnuntai ja vaikka päivä päivän kestää vain\nSiitä paljon saada voi, tyytyväinen laulu soi\n\nAikaa kuljeskella omia teitä, keventyneitä, pidentyneitä\nAivan minne vain\nAikaa ajatella juttua monta, uskomatonta, tuntematonta\nAivan kuinka vain\nKäskemättä laulaa:\n\nOn taaskin sunnuntai ja vaikka onkin kohta maanantai\nEi voi kiire ahdistaa laiskureita laulattaa\n\nAikaa seisoskella siinä ja tässä, kyselemässä, pitelemässä\nSeinää paikallaan\nAikaa opetella elämän rytmi, elämän tyyli, elämän laulu\nRytmin oikean\n\nSiitä paljon saada voi, tyytyväinen laulu soi\nLaiskureita laulattaa\nHoi laari-laari-laa… hoi laari-laari-laa…\nLaiѕkureita laulattaа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Idling",
+      "content": "It's another Sunday and he left his dungarees on the corner\nThere's no hurry at all, the alarm clock is silent too\n\nIt's Sunday morning and although a day lasts only a day\nYou can get much of it, a satisfied song is sung\n\nTime to walk on your own ways, lightened ways, lengthened ways\nTo anywhere\nTime to think many things, unbelievable things, unknown things\nIn any way\nHe sings unasked:\n\nIt's another Sunday and although it's soon Monday\nHurry won't pressure, idlers are singing\n\nTime to be standing there and here, asking, holding\nThe wall in its place\nTime to learn the rhythm of life, the style of life, the song of life\nOf the correct rhythm\n\nYou can get much of it, a satisfied song is sung\nIdlers are singing\nHoy ee-yi-ee-yi-oo… hoy ee-yi-ee-yi-oo…\nIdlers аre ѕinging"
+    }
+  ],
+  "bpm": 101,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Lars Anders Fredrik Mårtenson"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Lasse Mårtenson"
+  ],
+  "conductor": "George de Godzinsky",
+  "lyricists": [
+    "Sauvo Puhtila"
+  ],
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Aarno Walli"
+  ],
+  "jury": null,
+  "spokesperson": "Poppe Berg"
+}

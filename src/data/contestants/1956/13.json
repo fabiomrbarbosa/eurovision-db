@@ -1,0 +1,62 @@
+{
+  "id": 13,
+  "country": "IT",
+  "artist": "Tonina Torielli",
+  "song": "Amami se vuoi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/k19AnMpqnE4",
+    "https://www.youtube-nocookie.com/embed/6tNxDrL-Rso",
+    "https://www.youtube-nocookie.com/embed/9WDXszyCzmI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Amami se vuoi",
+      "content": "Mi piace tanto accarezzarti\nSugli occhi timidi baciarti\nMa non mi sento di giurarti\nSe tu mi chiedi eterno amor\n\nAbbandoniamoci al destino\nSoltanto lui non sa ingannar\nE se rimango a te vicino\nNon lusingarti, ma non disperar, no\n\nAmami se vuoi, tienimi se puoi\nIo son l'amor che svanisce\nMa dei baci miei non fidarti mai\nIo son l'amor che ferisce\n\nE quando fra le braccia mi stringi dolcemente\nAncor più dolcemente ti dirò\nAmami se vuoi, tienimi se puoi\nPerché io sono così\n\nE se rimango a te vicino\nNon lusingarti, ma non disperar, no\n\nAmami se vuoi, tienimi se puoi\nIo son l'amor che svanisce\nMa dei baci miei non fidarti mai\nIo son l'amor che ferisce\n\nE quando fra le braccia mi stringi dolcemente\nAncor più dolcemente ti dirò\nAmаmi se vuoi, tienimi se puoi\nPerché io sono coѕì"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Love me if you want to",
+      "content": "I really like caressing you\nKissing your shy eyes\nBut I don't feel like swearing\nIf you ask me for eternal love\n\nLet's give ourselves up to destiny\nHe's the only one who can't cheat\nAnd if I stay near you\nDon't flatter yourself, but don't despair, no\n\nLove me if you want to, hold me if you can\nI'm the love that fades away\nBut never trust my kisses\nI'm the love that hurts\n\nAnd when you hold me softly in your arms\nEven more softly, I'll say to you:\n\"Love me if you want to, hold me if you can\nBecause I'm like this\"\n\nAnd if I stay near you\nDon't flatter yourself, but don't despair, no\n\nLove me if you want to, hold me if you can\nI'm the love that fades away\nBut never trust my kisses\nI'm the love that hurts\n\nAnd when you hold me softly in your arms\nEven more softly, I will say to you:\n\"Love me if you want to, hold me if you can\nBecаuse I'm like thiѕ\""
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Люби меня, если хочешь",
+      "content": "Я люблю ласкать тебя\nЦеловать твои застенчивые глаза\nНо мне не хочется клясться тебе\nЕсли ты попросишь меня о вечной любви\n\nДавай отдадимся судьбе\nТолько она не может обмануть\nИ если я останусь рядом с тобой\nНе льсти себе, но и не отчаивайся, нет\n\nЛюби меня, если хочешь, обними меня, если сможешь\nЯ - любовь, которая исчезает\nНо никогда не доверяй моим поцелуям\nЯ - любовь, которая ранит\n\nИ когда ты нежно обнимешь меня\nЕще слаще я скажу\nЛюби меня, если хочешь, обними меня, если можешь\nВедь я такая\n\nИ если я останусь рядом с тобой\nНе льсти себе, но и не отчаивайся, нет\n\nЛюби меня, если хочешь, обними меня, если сможешь\nЯ - любовь, которая исчезает\nНо никогда не доверяй моим поцелуям\nЯ - любовь, которая ранит\n\nИ когда ты нежно обнимешь меня\nЕще слаще я скажу тебе\nЛюби меня, если хочешь, обними меня, если можешь\nВедь я такая"
+    }
+  ],
+  "bpm": 110,
+  "tone": "F major",
+  "artistPeople": [
+    "Tonina Torrielli"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Vittorio Mascheroni"
+  ],
+  "conductor": "Gian Stellari",
+  "lyricists": [
+    "Mario Panzeri"
+  ],
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Bianca Maria Piccinino"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

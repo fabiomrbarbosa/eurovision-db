@@ -1,0 +1,57 @@
+{
+  "id": 18,
+  "country": "ES",
+  "artist": "Patricia Kraus",
+  "song": "No estás solo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/VramQsFEFn0",
+    "https://www.youtube-nocookie.com/embed/lPcPFShXY7s"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "No estás solo",
+      "content": "Hoy quiero salir, es de noche, no puedo dormir\nTe tengo que llamar\nLos amigos, ¿para qué están?\nNi una sola vez me has dejado de escuchar\nHoy te quiero dar las gracias, nada más\n\nOye, no estás solo\nOye, eres querido\nOye, puedes oírme\nEstoy cantando, cantando\n\n¿Qué vas a pensar?\nOh, qué horas de llamar\nTe puedes cambiar\nSi quieres te paso a buscar\n\nAhora mi ciudad pasa tras el cristal\nUn semáforo más\nOigo la radio, oigo la radio\nEse es tu portal, te hago una señal\nTú ya estás aquí\n\nSi, tú estás aquí, como siempre, sin preguntar\nLa sonrisa como un gesto más\nLos amigos, ¿para qué están?\nSi, tú estás aquí, y es lo que importa para mí\nOtra vez me dirás\nLos amigos, ¿para qué están?\n\nOye, no estás solo\nOye, eres querido\nOye, puedes oírme\nEstoy cantando, cantando\n\nAhora mi ciudad pasa tras el cristal\nUn semáforo más\nOigo la radio, oigo la radio\n\nOye, no estás solo\nOye, eres querido\nOye, puedes oírme\nEstoy cantando, cantando\nEѕtoy cantando, cantаndo"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "You're not alone",
+      "content": "Today I want to go out, it's night, I can't sleep\nI have to call you\nFriends, what are they for?\nNot one time you've stopped listening to me\nToday I want to thank you, nothing else\n\nListen to me, you're not alone\nListen to me, you are loved\nListen to me, you can hear me\nI'm singing, singing\n\nWhat will you think?\nOh, it's late to call\nYou can change\nIf you want, I can pick you up\n\nNow my city is passing by behind the glass\nOne more traffic light\nI listen to the radio, I listen to the radio\nThis is your house, I make a sign\nYou're already here\n\nYes, you're here, as always, without asking\nYour smile as one more sign\nFriends, what are they for?\nYes, you're here, and that's what matters for me\nYou'll tell me again\nFriends, what are they for?\n\nListen to me, you're not alone\nListen to me, you are loved\nListen to me, you can hear me\nI'm singing, singing\n\nNow my city is passing by behind the glass\nOne more traffic light\nI listen to the radio, I listen to the radio\n\nListen to me, you're not alone\nListen to me, you are loved\nListen to me, you can heаr me\nI'm singing, singing\nI'm singing, ѕinging"
+    }
+  ],
+  "bpm": 133,
+  "tone": "F major",
+  "artistPeople": [
+    "Patricia Kraus"
+  ],
+  "backings": [
+    "Antonio Gómez",
+    "Carlos Vázquez",
+    "Eduardo Pinilla"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Rafael Martínez",
+    "Rafael Trabucchelli"
+  ],
+  "conductor": "Eduardo Leiva",
+  "lyricists": [
+    "Patricia Kraus"
+  ],
+  "writers": null,
+  "broadcaster": "TVE",
+  "commentators": [
+    "Beatriz Pécker"
+  ],
+  "jury": null,
+  "spokesperson": "Matilde Jarrín"
+}

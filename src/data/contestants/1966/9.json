@@ -1,0 +1,51 @@
+{
+  "id": 9,
+  "country": "DE",
+  "artist": "Margot Eskens",
+  "song": "Die Zeiger der Uhr",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/4H1vm10LRNw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Die Zeiger der Uhr",
+      "content": "Du liest noch manchmal die alten Briefe, die er dir schrieb\nWorin dir jede Zeile sagte: \"Ich hab dich lieb\"\nDu schließt die Augen und träumst von ihm\nUnd vom verlornen Glück\n\nDoch die Zeiger der Uhr drehen sich nur\nVorwärts, vorwärts und nie zurück\n\nDu hast noch viele schöne Bilder aus jener Zeit\nUm diese wunderbaren Jahre tut es dir leid\nDu schließt die Augen, träumst von ihm\nUnd vom verlornen Glück\n\nDoch die Zeiger der Uhr drehen sich nur\nVorwärts, vorwärts und nie zurück\n\nDu fühlst dich einsam und träumst von gestern\nDoch du lebst heut\nEiner wird kommen, der dich von deinen Träumen befreit\nDu schließt die Augen\nUnd dаnn beginnt für dich ein neues Glück\n\nDenn die Zeiger der Uhr drehen sich nur\nVorwärts, vorwärts und nie zurück\n\nDie Zeiger der Uhr drehen sich nur\nVorwärts, vorwärtѕ und nie zurück"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The hands of the clock",
+      "content": "Sometimes you still read the old letters he wrote you\nIn which every line read: \"I love you\"\nYou close your eyes and dream of him\nAnd of the lost happiness\n\nYet the hands of the clock only turn\nForwards, forwards and never backwards\n\nYou still have a lot of nice pictures from that time\nYou feel sorrow about those wonderful years\nYou close your eyes, dream of him\nAnd of the lost happiness\n\nYet the hands of the clock only turn\nForwards, forwards and never backwards\n\nYou feel lonely and dream of yesterday\nBut you're living today\nSomeone will come along to free you from your dreams\nYou'll close your eyes\nAnd then a new happiness will begin for you\n\nThen the hands of the clock only turn\nForwards, forwards and never backwards\n\nThe hands of the clock only turn\nForwards, forwards and never backwаrdѕ"
+    }
+  ],
+  "bpm": 185,
+  "tone": "G major",
+  "artistPeople": [
+    "Margot Eskens-Münchow"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Walter Dobschinski"
+  ],
+  "conductor": "Willy Berking",
+  "lyricists": [
+    "Hans Bradtke"
+  ],
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Hans-Joachim Rauschenbach"
+  ],
+  "jury": null,
+  "spokesperson": "Werner Veigel"
+}

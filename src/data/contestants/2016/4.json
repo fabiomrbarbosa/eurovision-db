@@ -1,0 +1,64 @@
+{
+  "id": 4,
+  "country": "SE",
+  "artist": "Frans",
+  "song": "If I Were Sorry",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/2AIPrVchJN8",
+    "https://www.youtube-nocookie.com/embed/h8D7KNFtTlE",
+    "https://www.youtube-nocookie.com/embed/COAXODxRdPs",
+    "https://www.youtube-nocookie.com/embed/slpHu3MRdvQ",
+    "https://www.youtube-nocookie.com/embed/VzhJGEguAoU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "If I Were Sorry",
+      "content": "I'd crawl through the desert on my hands and knees\nRehearsing my pretty please\nClimb the highest mountain if I were sorry\n\nShout it from the top\nSwim under water until my lungs exploded\nWalk into the fire if I were sorry\n\nI'd run a thousand miles\nWouldn't stop until I dropped\nWouldn't take a break to breathe\nUntil I got close enough\n\nThen I'd do it all again\nIf I really had the chance\nBut I know deep inside for you\nIt's just another dance\n\nIf I were sorry\nI'd give you all the glory\nIf I were sorry\n\nIf I were sorry\nIt would be a different story\nIf I were sorry, if I were sorry oh\n\nI'd hold my breath until my face turned blue\nI'd rob a bank and the post office too\nSwim across the ocean if I were sorry\n\nI'd take a vow of silence\nI wouldn't say a single word\nUntil you really heard if I were sorry\n\nI'd run a thousand miles\nWouldn't stop until I dropped\nWouldn't take the break to breathe\nUntil I, I got close enough\n\nIf I were sorry\nI'd give you all the glory\nIf I were sorry\n\nIf I were sorry\nIt would be a different story\nIf I were sorry, oh\n\nNow did you ever realise\nThat your mistake had a price?\nOh, you threw it all away\n'Cause you're the devil in disguise\n\nNow would you ever realise\nThe consequences of your lies?\nAnd would you save the falling tear\nOr act as if there's nothing there?\n\nIf I were sorry\nIf I were sorry\nIf I were sorry\nIf I were sorry\n\nIf I were sorry\nI'd take a vow of silence\nI wouldn't say a single word\n(If I were sorry)\n\nIf I were sorry\nI'd be on my hands and knees\nBegging pretty pleаse\nIf I were sorry\nBut I'm not ѕorry, no"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Om jag var ledsen",
+      "content": "Jag skulle krypa genom öknens sand och grus\nBe om ursäkt, visa ljus\nKlättra högsta berget om jag var ledsen\n\nSkrika från en topp\nSimma tills lungorna sprack av smärta\nGå in i elden om jag var ledsen\n\nJag skulle springa tusen mil\nInte stanna, aldrig vila\nInte ta en enda paus\nFörrän jag var nära nog\n\nSen gör jag allt igen\nOm jag hade chansen då\nMen djupt där inne vet jag att\nFör dig är det en lek ändå\n\nOm jag var ledsen\nJag skulle ge dig all min ära\nOm jag var ledsen\n\nOm jag var ledsen\nSå skulle allt va annorlunda\nOm jag var ledsen, om jag var ledsen, åh\n\nHålla andan tills jag blir blå av syrebrist\nRåna banken, posten sist\nSimma över haven om jag var ledsen\n\nJag tar en tystnadsed\nSkulle inte säga något mer\nFörrän du lyssnar helt om jag var ledsen\n\nJag skulle springa tusen mil\nInte stanna, aldrig vila\nInte ta en enda paus\nFörrän jag, jag var nära nog\n\nOm jag var ledsen\nJag skulle ge dig all min ära\nOm jag var ledsen\n\nOm jag var ledsen\nSå skulle allt va annorlunda\nOm jag var ledsen, åh\n\nMen har du nånsin förstått\nAtt misstag kommer till ett pris?\nÅh, du slösade allt bort\nFör du är djävulen förklädd\n\nKommer du nånsin förstå\nVad dina lögner lämnat kvar?\nSkulle du torka varje tår\nEller låtsas som att inget går?\n\nOm jag var ledsen\nOm jag var ledsen\nOm jag var ledsen\nOm jag var ledsen\n\nOm jag var ledsen\nJag tar en tystnadsed\nSkulle inte säga något mer\n(Om jag var ledsen)\n\nOm jag var ledsen\nSkulle krypa för din nåd\nBe och gråta på min knä\nOm jag var ledsen\nMen jаg är inte ledѕen, nej"
+    }
+  ],
+  "bpm": 105,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Frans Jeppsson Wall"
+  ],
+  "backings": [
+    "Jonathan Jaarnek Norén"
+  ],
+  "dancers": null,
+  "stageDirector": "Lotta Furebäck, Mari Ryberger",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Frans Jeppsson Wall",
+    "Fredrik Andersson",
+    "Michael Saxell",
+    "Oscar Fogelström"
+  ],
+  "broadcaster": "SVT",
+  "commentators": [
+    "Lotta Bromé"
+  ],
+  "jury": [
+    "Anderz Wrethov",
+    "Anton Ewald",
+    "Karin Gunnarsson",
+    "Lisa Ajax",
+    "Rickard Keilor"
+  ],
+  "spokesperson": "Gina Dirawi"
+}

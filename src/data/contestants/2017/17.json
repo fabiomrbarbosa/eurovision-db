@@ -1,0 +1,75 @@
+{
+  "id": 17,
+  "country": "AM",
+  "artist": "Artsvik",
+  "song": "Fly With Me",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/g373Libigw8",
+    "https://www.youtube-nocookie.com/embed/yKh8sLLXix4",
+    "https://www.youtube-nocookie.com/embed/Yw6LdDo7HxA",
+    "https://www.youtube-nocookie.com/embed/oUIr7ySgrys",
+    "https://www.youtube-nocookie.com/embed/ewpiB9iDA3E",
+    "https://www.youtube-nocookie.com/embed/jKmzNFR74Yc",
+    "https://www.youtube-nocookie.com/embed/LP4D9OOrTck",
+    "https://www.dailymotion.com/embed/video/x5kentk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Fly With Me",
+      "content": "Wanna tell a story\nAbout a girl with history\nTake it from my heart it's gonna be your beat\nTake it from my soul it's gonna be your heat\n\nMany colors and shades\nSo many voices to embrace\nAll around\n\nMany stories and tales\nShe took it all into her space\nHear the sound\n\nHeee…\n\nOver deeps over hills\nShe casts her wings and now it feels\nLove is one\n\nFlying high she became\nA sun who's love and light's the same\nFor everyone\n\nFly with me high ohh high, with me high ohh high\nNever stop believing that love will take us high\nFly with me high ohh high, with me high ohh high\nNever gonna stop believing that love's for you and I\n\nLove, love is one\n\nFly with me high ohh high, with me high ohh high\nNever stop believing that love will take us high\nFly with me high ohh high, with me high ohh high\nNever gonna stop believing that love'ѕ for you аnd I"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "polish"
+      ],
+      "displayedLanguages": null,
+      "title": "Leć ze mną",
+      "content": "Chcę opowiedzieć opowieść\nO dziewczynie z historią\nWeź ją z mojego serca, to będzie Twój rytm\nWeź ją z mojej duszy, to będzie Twoje ciepło\n\nDużo kolorów i odcieni\nTak wiele głósów do objęcia\nDookoła\n\nDużo opowieści i historyjek\nWzięła je wszystkie do swojej przestrzeni\nUsłysz dzwięk\n\nHiii…\n\nPonad doliny, ponad wzgórza\nRzuciła cień swoimi skrzydłami i teraz czuć, że\nMiłość jest jedna\n\nLecąc wysoko, stała się\nSłońcem, które jest miłością i światłem takim samym\nDla każdego\n\nLeć ze mną wysoko ooo wysoko, ze mną wysoko ooo wysoko\nNigdy nie przestawaj wierzyć, że miłość wyniesie nas w górę\nLeć ze mną wysoko ooo wysoko, ze mną wysoko ooo wysoko\nNigdy nie przestawaj wierzyć, że miłość jest dla Ciebie i mnie\n\nMiłość, miłość jest jedna\n\nLeć ze mną wysoko ooo wysoko, ze mną wysoko ooo wysoko\nNigdy nie przestawaj wierzyć, że miłość wyniesie nas w górę\nLeć ze mną wysoko ooo wysoko, ze mną wysoko ooo wysoko\nNigdy nie przestawaj wierzyć, że miłość jeѕt dlа Ciebie i mnie"
+    }
+  ],
+  "bpm": 90,
+  "tone": "A minor",
+  "artistPeople": [
+    "Artsvik Arutyunyan"
+  ],
+  "backings": [
+    "Amaliya Margaryan",
+    "Anushik Ter-Ghukasyan",
+    "Viktoria Pogosyan"
+  ],
+  "dancers": [
+    "Fanny Svensson",
+    "Marlene Lindahl"
+  ],
+  "stageDirector": "Sacha Jean-Baptiste",
+  "composers": [
+    "Levon Navasardyan",
+    "Lilith Navasardyan"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Avet Barseghyan",
+    "David Tserunyan"
+  ],
+  "writers": null,
+  "broadcaster": "AMPTV",
+  "commentators": [
+    "Avet Barseghyan",
+    "Gohar Gasparyan"
+  ],
+  "jury": [
+    "Ara Gevorgyan",
+    "Aramayis Hayrapetyan",
+    "Eduard Topchjan",
+    "Emma Asatryan",
+    "Tigran Sanoyan",
+    "Zaruhi Babayan"
+  ],
+  "spokesperson": "Iveta Mukuchyan"
+}

@@ -1,0 +1,66 @@
+{
+  "id": 28,
+  "country": "CY",
+  "artist": "Evridiki",
+  "song": "Comme Ci, Comme ça",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/bLpM5gMpUkI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Comme Ci, Comme ça",
+      "content": "Tous les lundis, tu finis le travail trop tard\nEt puis la télé et sommeil, quand mon cœur se réveille\nEt tous les mardis, tu me dis le matin – et tu l'oublies\n\"On ira au ciné\", et le soir – \"désolé\"\n\nComme ci, comme ça, la vie passe\nEt les bons moments nous dépassent\nComme ci, comme ça, l'amour casse\nRoutine et paresse nous menacent\n\nComme ci, comme ça, je n'en peux plus\nJe suis déçue, tu m'as perdue\nJe reste pas là, comme ci, comme ça\nLa fin voilà, comme ci, comme ça\n\nMême les samedis à minuit, tu me dis déjà bonne nuit\nTu t'endors quand je sors en te chantant très fort:\n\nComme ci, comme ça, la vie passe\nEt les bons moments nous dépassent\nComme ci, comme ça, l'amour casse\nRoutine et paresse nous menacent\n\nComme ci, comme ça, je n'en peux plus\nJe suis déçue, tu m'as perdue\nJe reste pas là, comme ci, comme ça\nLa fin voilà, comme ci, comme ça\n\nComme ci, comme ça, la vie passe\nEt les bons moments nous dépassent\nComme ci comme ça, l'amour casse\nRoutine et paresse nous menacent\n\nComme ci, comme ça, je n'en peux plus\nJe suis déçue, tu m'as perdue\nJe reste pas là, comme ci, comme ça\nLa fin voilà, comme ci, comme ça\n\nJe reste pas là, comme ci, comme ça\nLa fin voilà, comme ci, comme ça\nJe reste paѕ là, comme ci, comme ça\nLа fin voilà"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Like this, like that",
+      "content": "Every Monday, you finish work too late\nAnd then TV and sleep, just as my heart wakes up\nAnd every Tuesday, you tell me in the morning – and you forget it\n\"We'll go to the movies\", and in the evening – \"sorry\"\n\nLike this, like that, life passes by\nAnd the good times pass us over\nLike this, like that, love breaks\nRoutine and laziness threaten us\n\nLike this, like that, I can't take it anymore\nI'm disappointed, you've lost me\nI'm not sticking around, like this, like that\nThat's the end, like this, like that\n\nEven on Saturday at midnight, you already tell me good night\nYou fall asleep just as I go out, singing to yourself very loudly:\n\nLike this, like that, life passes by\nAnd the good times pass us over\nLike this, like that, love breaks\nRoutine and laziness threaten us\n\nLike this, like that, I can't take it anymore\nI'm disappointed, you've lost me\nI'm not sticking around, like this, like that\nThat's the end, like this, like that\n\nLike this, like that, life passes by\nAnd the good times pass us over\nLike this, like that, love breaks\nRoutine and laziness threaten us\n\nLike this, like that, I can't take it anymore\nI'm disappointed, you've lost me\nI'm not sticking around, like this, like that\nThat's the end, like this, like that\n\nI'm not sticking around, like this, like that\nHere's the end, like this, like that\nI'm not sticking around, like this, like that\nThаt'ѕ the end"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "ukrainian"
+      ],
+      "displayedLanguages": null,
+      "title": "То так, то сяк",
+      "content": "Кожен понеділок ти приходиш з роботи пізно\nА потім телевізор, а потім сон, тільки коли моє серце прокидається\nІ кожен Вівторок, ти обіцяєш вранці - а потім забуваєш\n\"Ми підемо в кіно\", - а надвечір, - \"вибач\"\n\nТо так, то сяк, життя проходить\nІ хороше життя нас оминає\nТо так, то сяк, любов ламається\nРутина й лінь нам погрожує\n\nТо так, то сяк, життя проходить\nІ хороше життя нас оминає\nТо так, то сяк, любов ламається\nЦе кінець, то так, то сяк\n\nНавіть опівночі Суботи, ти мені бажаєш -\"на добраніч\"\nТи засинаєш, в той самий час як я, і гучно наспівуєш\n\nТо так, то сяк, життя проходить\nІ хороше життя нас оминає\nТо так, то сяк, любов ламається\nРутина й лінь нам погрожує\n\nТо так, то сяк, я не витримую\nЯ розчарована, ти втратив мене\nЯ не залишуся, то так, то сяк\nЦе кінець, то так, то сяк\n\nТо так, то сяк, життя проходить\nІ хороше життя нас оминає\nТо так, то сяк, любов ламається\nРутина й лінь нам погрожує\n\nТо так, то сяк, я не витримую\nЯ розчарована, ти втратив мене\nЯ не залишуся, то так, то сяк\nЦе кінець, то так, то сяк\n\nЯ не залишуся, то так, то сяк\nОсь кінець, то так, то сяк\nЯ не залишуся, то так, то сяк\nЦе кінець"
+    }
+  ],
+  "bpm": 130,
+  "tone": "D minor",
+  "artistPeople": [
+    "Evridiki"
+  ],
+  "backings": [
+    "Dimitris Horianopoulos",
+    "Dimitris Korgialas",
+    "Froso Stilianou",
+    "Giannis Skoutaris",
+    "Marianna Gerasimidou"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Dimitris Korgialas"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Poseidon Giannopoulos"
+  ],
+  "writers": null,
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Vaso Komninou"
+  ],
+  "jury": null,
+  "spokesperson": "Giannis Haralambous"
+}

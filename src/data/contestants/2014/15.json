@@ -1,0 +1,58 @@
+{
+  "id": 15,
+  "country": "BY",
+  "artist": "Teo",
+  "song": "Cheesecake",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/tImGMW-4eHY",
+    "https://www.youtube-nocookie.com/embed/0Qe7YmYgowM",
+    "https://www.youtube-nocookie.com/embed/5_LhI_iuUqE",
+    "https://www.youtube-nocookie.com/embed/1ajTKumz2M4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Cheesecake",
+      "content": "Once I gave you one more chance\nYou showed me dance\nBut I'm not Patrick Swayzee\nYou're not Jennifer Gray\n\nI told this story\nBut I'm so sorry\nI lost my train of thought\nWhen you called me, \"My sweet Cheesecake\"\n\nI don't wanna be your toy perhaps today\nI'm not gonna be your boyfriend\nIt's too late\nI look over all the maps trying to escape\n'Cause I'm tired of being your sweet cheesecake\n\nI don't wanna be your toy perhaps today\nI'm not gonna be your boyfriend\nIt's too late\nI look over all the maps trying to escape\n'Cause I'm tired of being your sweet cheesecake\n\nHey I will fly far away\nBy any plane just not to meet you\nOn my way, don't stay, hay\n\nYou dial my number\nYour dreams start crumbling\nYou want me to be the man I'll never ever be\n\nI don't wanna be your toy perhaps today\nI'm not gonna be your boyfriend\nIt's too late\nI look over all the maps trying to escape\n'Cause I'm tired of being your sweet cheesecake\n\nI don't wanna be your toy perhaps today\nI'm not gonna be your boyfriend\nIt's too late\nI look over all the maps trying to escape\n'Cause I'm tired of being your sweet cheesecake\n\nI don't want to be your toy\nI don't want to be your boy\n\nI don't wanna\nI don't wanna be your toy\nI don't wanna\nI don't wanna be your boy\n\nI don't wanna\n\nI don't wanna be your toy perhaps today\nI'm not gonna be your boyfriend\nIt's too late\nI look over all the maps trying to escape\n'Cause I'm tired of being your sweet cheeѕecake\n\nI don't wannа"
+    }
+  ],
+  "bpm": 95,
+  "tone": "C# minor",
+  "artistPeople": [
+    "Yuriy Alexeyevich Vashchuk (Юрый Аляксеевіч Вашчук)"
+  ],
+  "backings": [
+    "Artyom Ahpash",
+    "Denis Lis",
+    "Yuriy Seleznyov"
+  ],
+  "dancers": [
+    "Alexander Zalesskiy",
+    "Andrey Martynov"
+  ],
+  "stageDirector": "Tine Matulessy",
+  "composers": [
+    "Yuriy Vashchuk"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Dmitry Novik"
+  ],
+  "writers": null,
+  "broadcaster": "BTRC",
+  "commentators": [
+    "Evgeny Perlin"
+  ],
+  "jury": [
+    "Alexander Mezhenny",
+    "Eugene Oleinik",
+    "Inna Adamovich",
+    "Olga Ryzhikova",
+    "Vasily Rainčyk"
+  ],
+  "spokesperson": "Alyona Lanskaya"
+}

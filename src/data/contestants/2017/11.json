@@ -1,0 +1,72 @@
+{
+  "id": 11,
+  "country": "FR",
+  "artist": "Alma",
+  "song": "Requiem",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/HjiLKsLQl4I",
+    "https://www.youtube-nocookie.com/embed/Koi36aeRv7I",
+    "https://www.youtube-nocookie.com/embed/6VoJB05spcY",
+    "https://www.youtube-nocookie.com/embed/ebvSoecNPEw",
+    "https://www.youtube-nocookie.com/embed/HqWAarATwXk",
+    "https://www.youtube-nocookie.com/embed/jNSvsSDuhss",
+    "https://www.youtube-nocookie.com/embed/M5MYVl6M_lg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french",
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Requiem",
+      "content": "Des amours meurent, des amours naissent\nLes siècles passent et disparaissent\nCe que tu crois être la mort\nC'est une saison et rien de plus\n\nUn jour lassé de cette errance\nTu t'en iras, quelle importance\nCar la terre tournera encore\nMême quand nous ne tournerons plus\n\nEmbrasse-moi, dis-moi que tu m'aimes\nFais-moi sourire au beau milieu d'un requiem\nEmbrasse-moi, dis-moi que tu m'aimes\nFais-moi danser jusqu'à ce que le temps nous reprenne\nCe qu'il a donné\n\nWill you take me to paradise?\nWith you nothing ever dies\nYou take my smile and make it bright\nBefore the night erase the light\n\nI won't go below silver skies\nThe only dark is in your eyes\nOn pleure mais on survit quand même\nC'est la beauté du requiem\n\nLes étincelles deviennent des flammes\nLes petites filles deviennent des femmes\nCe que tu crois être l'amour\nC'est un brasier et rien de plus\n\nNos déchirures, nos déchéances\nOn pense qu'elles ont de l'importance\nMais demain renaîtra le jour\nComme si nous n'avions pas vécu\n\nEmbrasse-moi, dis-moi que tu m'aimes\nFais-moi sourire au beau milieu d'un requiem\nEmbrasse-moi, dis-moi que tu m'aimes\nFais-moi danser jusqu'à ce que le temps nous reprenne\nCe qu'il a donné\n\nWill you take me to paradise?\nWith you nothing ever dies\nYou take my smile and make it bright\nBefore the night erase the light\n\nI won't go below silver skies\nThe only dark is in your eyes\nOn pleure mais on survit quand même\nC'est la beauté du requiem\n\nDes amours naissent, des amours meurent\nCe soir enfin je n'ai plus peur\nJe sais que je t'aimerai encore\nQuand la terre ne tournera plus\n\nDes amours naissent, des amours meurent\nCe soir enfin je n'ai plus peur\nJe sais que je t'aimerai encore\nQuand la terre ne tournera plus\n\nEmbrasse-moi, dis-moi que tu m'aimes\nFais-moi sourire au beau milieu d'un requiem\nEmbrasse-moi, dis-moi que tu m'aimes\nFais-moi danser jusqu'à ce que le temps nous reprenne\nCe qu'il a donné\n\nEmbrasse-moi, tell me that you love me\nEmbrasse-moi\nEmbrasse-moi, tell me that you love me\nEmbrаsѕe-moi"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Requiem",
+      "content": "Love dies, love is born\nCenturies pass and disappear\nWhat you believe is dead\nIs a season and nothing more\n\nOne weary day of this wandering\nYou will go, what does it matter\nBecause the world will turn again\nEven we we don't turn anymore\n\nKiss me, tell me that you love me\nMake me smile in the middle of a requiem\nKiss me, tell me that you love me\nMake me dance until the time comes again\nWhat he gave\n\nWill you take me to paradise?\nWith you nothing ever dies\nYou take my smile and make it bright\nBefore the night erase the light\n\nI won't go below silver skies\nThe only dark is in your eyes\nWe cry but we still survive\nThat's the beauty of the requiem\n\nThe sparks become flames\nThe little girls become women\nWhat you think is death\nIs an inferno and nothing more\n\nOur rips, our declines\nWe think that they have importance\nBut tomorrow the day will be reborn\nLike if we had not lived\n\nKiss me, tell me that you love me\nMake me smile in the middle of a requiem\nKiss me, tell me that you love me\nMake me dance until the time comes again\nWhat he gave\n\nWill you take me to paradise?\nWith you nothing ever dies\nYou take my smile and make it bright\nBefore the night erase the light\n\nI won't go below silver skies\nThe only dark is in your eyes\nWe cry but we still survive\nThat's the beauty of the requiem\n\nLove is born, love dies\nTonight I'm finally not afraid\nI know that I will love again\nWhen the world doesn't turn anymore\n\nLove is born, love dies\nTonight I'm finally not afraid\nI know that I will love again\nWhen the world doesn't turn anymore\n\nKiss me, tell me that you love me\nMake me smile in the middle of a requiem\nKiss me, tell me that you love me\nMake me dance until the time comes again\nWhat he gave\n\nKiss me, tell me that you love me\nKiss me\nKiss me, tell me thаt you love me\nKisѕ me"
+    }
+  ],
+  "bpm": 108,
+  "tone": "B minor",
+  "artistPeople": [
+    "Alexandra Maquet"
+  ],
+  "backings": [
+    "Céline Arnaud",
+    "Michaël LeLong",
+    "Nathanaëlle Langlais"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Nazim Khaled"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Alexandra Maquet",
+    "Nazim Khaled"
+  ],
+  "writers": null,
+  "broadcaster": "France 2",
+  "commentators": [
+    "Amir",
+    "Jarry",
+    "Marianne James",
+    "Stéphane Bern"
+  ],
+  "jury": [
+    "Antoine Gouiffes-Yan",
+    "Enea",
+    "Hédia Charni",
+    "Julien Gonçalves",
+    "Steven Bellery"
+  ],
+  "spokesperson": "Élodie Gossuin"
+}

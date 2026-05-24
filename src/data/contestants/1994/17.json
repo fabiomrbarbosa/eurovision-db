@@ -1,0 +1,56 @@
+{
+  "id": 17,
+  "country": "ES",
+  "artist": "Alejandro Abad",
+  "song": "Ella no es ella",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-ReSHr2apH4",
+    "https://www.youtube-nocookie.com/embed/dx2POmlMEI8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Ella no es ella",
+      "content": "Cuando estoy con ella\nSoy un laberinto de indecisión\nCuando estoy con ella\nJuego con mi imaginación\nElla me da su sonrisa\nY yo, con mis prisas, me suelo ahogar\nY le digo acabemos\nY ella persigue mis ratos de fuego\n\nElla, ella no es ella\nElla es la otra, la que me impulsa\nY está en mi memoria\nLa otra es la que nunca podré olvidar\n\nNo, ella, ella no es ella\nElla es la otra, la que me excita\nY quema mi ropa\nLa otra es la piedra y yo, el volcán\n\nCuando estoy con ella\nSé que todo va peor\nY cuando pienso en la otra\nSoy casi, casi un dios\nElla me baja la luna\nLa otra despierta mi instinto animal\nLa otra es mi fortuna\nMi musa desnuda, mi mejor remedio\n\nElla, ella no es ella\nElla es la otra, la que me impulsa\nY está en mi memoria\nLa otra es la que nunca podré olvidar\n\nNo, ella, ella no es ella\nElla es la otra, la que me excita\nY quema mi ropa\nLa otra eѕ la piedrа y yo, el volcán"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "She's not her",
+      "content": "When I'm with her\nI'm a labyrinth of indecision\nWhen I'm with her\nI play with my imagination\nShe gives me her smile\nAnd, in my hurry, I usually drown myself\nAnd tell her to stop\nAnd she pursues my moments of fire\n\nShe, she's not her\nShe's the other woman, the one that motivates me\nAnd she's in my memory\nThe other woman is the one I could never forget\n\nNo, she, she's not her\nShe's the other woman, the one that excites me\nAnd burns my clothes\nThe other woman is the stone and I'm the volcano\n\nWhen I'm with her\nI know everything gets worse\nAnd when I think of the other one\nI'm almost, almost a god\nShe brings down the moon for me\nThe other woman awakes my animal instinct\nThe other woman is my luck\nMy naked muse, my best remedy\n\nShe, she's not her\nShe's the other woman, the one that motivates me\nAnd she's in my memory\nThe other woman is the one I could never forget\n\nNo, she, she's not her\nShe's the other womab, the one that excites me\nAnd burns my clothes\nThe other woman is the ѕtone and I'm the volcаno"
+    }
+  ],
+  "bpm": 100,
+  "tone": "D major",
+  "artistPeople": [
+    "Alejandro Antonio García Abad"
+  ],
+  "backings": [
+    "Carlos Izaga",
+    "Jordi Sánchez",
+    "Miguel Ángel Esteve",
+    "Nacho Lesko",
+    "Toni Alegret"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Josep Llobell",
+  "lyricists": null,
+  "writers": [
+    "Alejandro Abad"
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "José Luis Uribarri"
+  ],
+  "jury": null,
+  "spokesperson": "María Ángeles Balañac"
+}

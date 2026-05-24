@@ -1,0 +1,70 @@
+{
+  "id": 12,
+  "country": "ME",
+  "artist": "Knez",
+  "song": "Adio",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/MTyi2XeeoJU",
+    "https://www.youtube-nocookie.com/embed/4giAO-2aICo",
+    "https://www.youtube-nocookie.com/embed/vrYmyTJ87vI",
+    "https://www.youtube-nocookie.com/embed/lkGfwpLFDxc",
+    "https://www.youtube-nocookie.com/embed/xSrNDvfNOfc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "montenegrin"
+      ],
+      "displayedLanguages": null,
+      "title": "Adio",
+      "content": "Nebo mi te donijelo\nNebo mi te uzelo\nJoš me boli što je boljelo\nDani su mi zidovi\nNoći su mi okovi\nJoš ti služim moja ljubavi\nJoš te ne dam maglama sa planina\nJoš te ne dam vodama iz dubina\nA ti kažeš pusti me, živ mi bio\nZaboravu predaj me, sad adio\n\nProcvjetao ruzmarin, savio se bijeli krin\nmeni sve na tugu miriše\nProbam da zaboravim, da na tebe ne mislim\nAl’ za tobom srce uzdiše\n\nJoš te ne dam maglama sa planina\nJoš te ne dam vodama iz dubina\nA ti kažeš pusti me, živ mi bio\nZaboravu predaj me, sad adio\n\nNa, na, naj, na na…\n\nJoš te ne dam maglama sa planina\nJoš te ne dam vodama iz dubina\nA ti kažeš pusti me, živ mi bio\nZaboravu predaj me, ѕad аdio"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Goodbye",
+      "content": "The sky brought you to me\nThe sky took you from me\nWhat used to hurt still hurts me\nMy days are the walls\nMy nights are the shackles\nI’m still serving you, my love\nI still don’t give you to the mists of the mountains\nI still don’t give you to the depths of the water\nAnd you ask me to let you go, forever\nTo let you sink into oblivion and say goodbye\n\nThe rosemary has blossomed, the white lilies have bent\nEverything smells like sorrow\nI try to forget, to not think of you\nBut my heart is still pining for you\n\nI still don’t give you to the mists of the mountains\nI still don’t give you to the depths of the water\nAnd you ask me to let you go, forever\nTo let you sink into oblivion and say goodbye\n\nA, a, a….\n\nI still don’t give you to the mists of the mountains\nI still don’t give you to the depths of the water\nAnd you ask me to let you go, forever\nTo let you sink into oblivion and ѕаy goodbye"
+    }
+  ],
+  "bpm": 94,
+  "tone": "E major",
+  "artistPeople": [
+    "Nenad Knežević (Ненад Кнежевић)"
+  ],
+  "backings": [
+    "Dunja Vujadinović",
+    "Ivana Vladović",
+    "Jelena Pajić",
+    "Ksenija Knežević",
+    "Lena Kuzmanović"
+  ],
+  "dancers": null,
+  "stageDirector": "Marko Novaković",
+  "composers": [
+    "Željko Joksimović"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Dejan Ivanović",
+    "Marina Tucaković"
+  ],
+  "writers": null,
+  "broadcaster": "RTCG",
+  "commentators": [
+    "Ajda Šufta",
+    "Dražen Bauković",
+    "Tijana Mišković"
+  ],
+  "jury": [
+    "Aleksandra Vojvodić",
+    "Darko Nikčević",
+    "Ilija Dapčević",
+    "Renata Perazić",
+    "Senad Drešević"
+  ],
+  "spokesperson": "Andrea Demirović"
+}

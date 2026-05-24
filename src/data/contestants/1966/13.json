@@ -1,0 +1,53 @@
+{
+  "id": 13,
+  "country": "DK",
+  "artist": "Ulla Pia",
+  "song": "Stop, mens legen er go'",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/XrR8OkoX4y0",
+    "https://www.youtube-nocookie.com/embed/FqICQUHkcGA"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "danish"
+      ],
+      "displayedLanguages": null,
+      "title": "Stop, mens legen er go'",
+      "content": "Går en pige hjem fra sit første bal\nSker det, at hendes ven går blot lidt for vidt\nJa, det sker så tit, men hun svarer igen:\n\nStop, ja, stop, ja, stop, mens legen er go'\nFor jeg kan fornemme, at du nok vil glemme\nAt jeg må hjem klokken to\nTænk, ja, tænk, ja, tænk om drømmene brast\nFor du ka' vel nok forstå\nTiden går helt i stå, når du holder så fast\n\nLad os bare vandre af sted uden mål eller med\nNyde stjernehimmelens ro, den er skabt for os to\n\nKom, ja, kom, ja, kom, måske si'r jeg top\nNår tiden er inde til kærlighedspuslespil\nDet bli'r uden et 'stop'\n\nLad os bare vandre af sted uden mål eller med\nNyde stjernehimmelens ro, den er skabt for os to\n\nKom, ja, kom, jа, kom, måske si'r jeg top\nNår tiden er inde til kærlighedspuslespil\nDet bli'r uden et 'ѕtop'"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Stop, while the going is good",
+      "content": "When a girl's going home from her first dance\nIt happens that her friend, goes just a bit too far\nYes, that happens so often, but she answers back:\n\nStop, yes stop, yes stop, while the going is good\nFor I can feel, that you'll forget\nThat I should be home by two o'clock\nWhat if, yes what if, yes what if the dreams would burst\nFor I think you can see\nTime stops completely, when you hold so tight\n\nLet's just aimlessly wander on\nEnjoy the tranquillity of the starry sky, it was made for us\n\nCome, yes come, yes come, perhaps I'll say yes\nWhen the time has come for the puzzle of love\nIt will be without a 'stop'\n\nLet's just aimlessly wander on\nEnjoy the tranquillity of the starry sky, it was made for us\n\nCome, yes come, yes come, perhaps I'll say yes\nWhen the time has come for the puzzle of love\nIt will be without а 'ѕtop'"
+    }
+  ],
+  "bpm": 155,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Ulla Pia Berndorf Nielsen"
+  ],
+  "backings": null,
+  "dancers": [
+    "Steen Hasle",
+    "Ulla Pedersen"
+  ],
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Arne Lamberth",
+  "lyricists": null,
+  "writers": [
+    "Erik Kåre"
+  ],
+  "broadcaster": "DR",
+  "commentators": [
+    "Skat Nørrevig"
+  ],
+  "jury": null,
+  "spokesperson": "Claus Toksvig"
+}

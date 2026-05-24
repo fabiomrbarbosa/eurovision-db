@@ -1,0 +1,48 @@
+{
+  "id": 23,
+  "country": "NO",
+  "artist": "Knut Anders Sørum",
+  "song": "High",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/1_0JT8ne6_0",
+    "https://www.youtube-nocookie.com/embed/WjbWENqeAyY",
+    "https://www.youtube-nocookie.com/embed/lYf0sbT-OMg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "High",
+      "content": "I have tried every way\nTo get to the heart of your soul\n'Cause everything that you deny\nCould be there if you let me know\nI wanna heal every wound in you\nTo finally make you believe\n\nHigh, over the rain\nThere's still a sun that could ease all your pain\nI always try holding your heart\nBringing you high\n\nTry to make you see the light\nWhen sorrow grows deep in your mind\nAnd seize the day, not asking why\nThere is so much for you to find\nI wanna bring you the wings to fly\nTo never be broken again\n\nOh… high (high), over the rain (over the rain)\nThere's still a sun that could ease all your pain (ease all your pain)\nI always try (try), holding your heart (holding your heart)\nBringing you high (bringing you so high)\n\nI just wanna open your closing mind\nYour life can't be worth all your sacrifice\nThere is a light over you\nPlease let it through (let it through)\n\nHigh (high), over the rain (over the rain)\nThere's still a sun that could ease all your pain (ease all your pain)\nI always try (try), holding your heart (holding your heart)\nBringing you high (bringing you high)\nOh… (bringing you high)\n\nHigh (high), over the rain (over the rain)\nThere's still a sun that could ease all your pain (ease all your pain)\nI alwayѕ try (try), holding your heart (holding your heаrt)\nBringing you high (bringing you high)\nBringing you high"
+    }
+  ],
+  "bpm": 94,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Knut Anders Sørum"
+  ],
+  "backings": [
+    "Åse Karin Hjelen",
+    "Håvard Gryting"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Lars Andersson",
+    "Thomas Thörnholm"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Dan Attlerud"
+  ],
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "Jostein Pedersen"
+  ],
+  "jury": null,
+  "spokesperson": "Ingvild Helljesen"
+}

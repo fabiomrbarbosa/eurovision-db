@@ -1,0 +1,59 @@
+{
+  "id": 35,
+  "country": "RU",
+  "artist": "Julia Samoylova",
+  "song": "I Won't Break",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/KujGHwyfMWM",
+    "https://www.youtube-nocookie.com/embed/bgBwbr_fUxA",
+    "https://www.youtube-nocookie.com/embed/knZwgMWIzXc",
+    "https://www.youtube-nocookie.com/embed/HiZzgCiCuG8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I Won't Break",
+      "content": "My heart is in command\nNo longer in the dark\nMy castle in the sand\nIs now made of stone and rock\n\nThe memory I knew\nThe things I've been through\nAnd everything I do\nHas got me living by the minute\nAnd now that I'm in it\nNow that I'm in it\n\nI won't break\nI won't break\nWhen it comes to emotions\nFrom the deepest of oceans\nComing straight from my heart\nI won't give in to the motions\n\nThose so called broken wings\nAre soaring to the sky\nI've flown with kings and queens\nWith freedom in their eyes\n\nI won't break\nI won't break\nWhen it comes to emotions\nFrom the deepest of oceans\nComing straight from my heart\nI won't give in to the motions\n\nCause even in the darkness\nCause even in the darkest night\nCause even in the darkness\nI can see a light\nCause even the darkness\n\nI won't break\n(Cause even in the darkness\nCause even in the darkest night\nCause even in the darkness\nI can see a light)\nI won't break\n(Cause even in the darkness\nMy heart is in command\nNo longer in the dark)\n\nI won't break\nCause even in the darkness\nCause even in the darkest night\nCause even in the darkness\n\nMy heart iѕ in command\nNo longer in the dаrk"
+    }
+  ],
+  "bpm": 91,
+  "tone": "D major",
+  "artistPeople": [
+    "Yuliya Olegovna Samoylova (Ю́лия Оле́говна Само́йлова)"
+  ],
+  "backings": [
+    "Arie Burshtein",
+    "Ksenia Korobkova",
+    "Netta Nimrodi"
+  ],
+  "dancers": [
+    "Anastasiya Dzhurkina",
+    "Ildar Gainutdinov"
+  ],
+  "stageDirector": "Alexei Golubev",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Arie Burshtein",
+    "Leonid Gutkin",
+    "Netta Nimrodi"
+  ],
+  "broadcaster": "C1R",
+  "commentators": [
+    "Yana Churikova",
+    "Yuriy Aksuta"
+  ],
+  "jury": [
+    "Alexandra Vorobyova",
+    "Alexey Manuylov",
+    "Sergey Mandrik",
+    "Vladimir Matetsky",
+    "Yana Rudkovskaya"
+  ],
+  "spokesperson": "Alsou"
+}

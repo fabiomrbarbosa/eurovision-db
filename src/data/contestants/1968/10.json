@@ -1,0 +1,64 @@
+{
+  "id": 10,
+  "country": "PT",
+  "artist": "Carlos Mendes",
+  "song": "Verão",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ppiDaJG7YAU",
+    "https://www.youtube-nocookie.com/embed/S0GpirEvTyY",
+    "https://www.youtube-nocookie.com/embed/AnlZd9dETWY",
+    "https://www.youtube-nocookie.com/embed/IqH_ChLeiy0",
+    "https://www.youtube-nocookie.com/embed/R3JL_iYSU9g"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Verão",
+      "content": "Como tudo o que acaba\nComo pedra rolando duma fraga\nComo fumo subindo no ar\n\nAssim estou quase indiferente\nCaminhando sem mais notar a gente\nQue por mim vejo passar\n\nO Verão já terminou\nFoi um sonho que findou\nNão interessa mais pensar\n\nAssim deixo esta tristeza\nVogando embalado na certeza\nQue o Verão há-de voltar\n\nE o Verão que sonho perto\nVai trazer para mim eu sei de certo\nAquilo que eѕte agora veio tirаr"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Summer",
+      "content": "Like an ending to everything\nLike a stone rolling from a crag\nLike smoke rising in the air\n\nI'm almost indifferent\nWalking by, without looking to people\nThat I watch passing me by\n\nThe summer is over\nIt was a dream that ended\nI won't think about it\n\nTherefore I leave this sadness\nDrifting, rocked, by being certain\nThat the summer will return\n\nAnd the summer that I long to come near\nWill surely bring me\nWhat this ѕummer took awаy"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Verano",
+      "content": "Como todo lo que acaba\nComo una piedra rodando desde una roca\nComo el humo subiendo al aire\n\nAsí estoy, casi indiferente\nCaminando sin notar a la gente\nQue por mí veo pasar\n\nEl verano ya terminó\nFue un sueño que terminó\nYa no importa pensar más\n\nAsí dejo esta tristeza\nNavegando, envuelto en la certeza\nDe que el verano volverá\n\nY el verano que sueño cerca\nTraerá para mí, lo sé con certeza\nAquello que eѕte ahora vino a quitаr"
+    }
+  ],
+  "bpm": 132,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Carlos Mendes"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Pedro Osório"
+  ],
+  "conductor": "Joaquim Luís Gomes",
+  "lyricists": [
+    "José Alberto Diogo"
+  ],
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Fialho Gouveia"
+  ],
+  "jury": null,
+  "spokesperson": "Maria Manuela Furtado"
+}

@@ -1,0 +1,62 @@
+{
+  "id": 3,
+  "country": "YU",
+  "artist": "Danijel",
+  "song": "Džuli",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/3mQ2Rdd7nb0",
+    "https://www.youtube-nocookie.com/embed/R0xQH4ZDkuc",
+    "https://www.youtube-nocookie.com/embed/XTMSnIdkrrk",
+    "https://www.youtube-nocookie.com/embed/mSfe7s8ulsk",
+    "https://www.youtube-nocookie.com/embed/ptCP3pkFJCI",
+    "https://www.youtube-nocookie.com/embed/Bh3ludx7A_4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "croatian"
+      ],
+      "displayedLanguages": null,
+      "title": "Džuli",
+      "content": "Stigla je sama sa ljetom\nPrišla i rekla hello\nPogledi su nam govorili više od riječi\nK'o da se zvijezda sa neba\nSpustila meni na dlan\nZnao sam samo o njoj da zove se Džuli\n\nDžuli, Džuli\nA htio sam da dugo traje taj san\n\nPamtim još dodir te ruke\nLice i njen pogled blag\nOdmah je jasno mi bilo da ludo je volim\nKao i sve ljetne snove\nI nju mi je odnio dan\nOstalo samo je sjećanje na jedan juli\n\nDžuli, Džuli\nA htio sam da dugo traje taj san\n\nPitam u noćima nebo\nDa li je to bio san\nIli je stvarno te noći me ljubila Džuli\nProšetam sam pored mora\nDočekam tako i dan\nZamolim more da vrati mi Džuli i juli\n\nDžuli, o… Džuli, o…\nDžuli, o… Džuli\nA htio sam da dugo traje taj ѕan\nO mojа Džuli"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Julie",
+      "content": "She arrived alone with summer\nCame over and said hello\nOur looks said more than words\nAs if a star from the sky\nHad fallen into my hand\nI only knew that her name was Julie\n\nJulie, Julie\nAnd I wanted that dream to last for long\n\nI still remember the touch of that hand\nHer face and her subtle look at me\nI knew then that I love her madly\nLike all the summer dreams\nThe day took her away\nOnly a memory of a July was left\n\nJulie, Julie\nAnd I wanted that dream to last for long\n\nAt night, I ask the skies\nIf that was only a dream\nOr if it was really Julie kissing me that night\nTonight I'm alone by the sea\nAnd the daylight had arrived\nI asked the sea to give me back Julie and July\n\nJulie, oh… Julie, oh…\nJulie, oh… Julie\nAnd I wanted that dream to lаѕt for long\nOh my Julie"
+    }
+  ],
+  "bpm": 90,
+  "tone": "F major",
+  "artistPeople": [
+    "Milan Popović"
+  ],
+  "backings": [
+    "Eleonora Barudžija",
+    "Izolda Barudžija",
+    "Mato Došen"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Milan Popović"
+  ],
+  "conductor": "Radovan Papović",
+  "lyricists": [
+    "Mario Mihaljević"
+  ],
+  "writers": null,
+  "broadcaster": "JRT",
+  "commentators": [
+    "Mladen Popović",
+    "Oliver Mlakar",
+    "Tomaž Terček"
+  ],
+  "jury": null,
+  "spokesperson": "Boško Negovanović"
+}

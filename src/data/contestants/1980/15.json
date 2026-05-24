@@ -1,0 +1,65 @@
+{
+  "id": 15,
+  "country": "NO",
+  "artist": "Sverre Kjellsberg & Mattis Hætta",
+  "song": "Sámiid ædnan",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/b0L81ql8QGY",
+    "https://www.youtube-nocookie.com/embed/javlJkdj-EQ",
+    "https://www.youtube-nocookie.com/embed/Ufhy6QaKDaI",
+    "https://www.youtube-nocookie.com/embed/13-mfHdpryw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "norwegian",
+        "northern sámi"
+      ],
+      "displayedLanguages": null,
+      "title": "Sámiid ædnan",
+      "content": "Enkel tone, to små ord: Sámiid ædnan, samisk jord\nKom som vindpust ifra nord, ifra nord, Sámiid ædnan\n\nKan et krav få mjukar form: Sámiid ædnan, Sameland\nVokste sæ fra bris tel storm, bris tel storm, Sámiid ædnan\n\nFramførr tinget der dem satt, Sámiid ædnan, Sámiid ædnan\nHørtes joiken dag og natt, Sámiid ædnan\n\nFramførr tinget der dem satt, oj…\nHørtes joiken dag og natt, Sámiid ædnan\n\nJoik har større kraft enn krutt, Sámiid ædnan\nFørr en joik tar aldri slutt, oh… Sámiid ædnan\n\nFørr en joik tar aldri ѕlutt, Sámiid ædnаn"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Sami Land",
+      "content": "A simple tune, two small words: Sami Land, Sami earth\nIt came with the wind from north, from north, Sami Land\n\nCan a demand get any softer: Sami Land, the land of the Sami people\nIt grew from a breeze to a storm, from a breeze to a storm, Sami Land\n\nIn front of the parliament where they sat, Sami Land, Sami Land\nThe yoik was heard day and night, Sami Land\n\nIn front of the parliament where they sat, oy…\nThe yoik was heard day and night, Sami Land\n\nYoik is stronger than gunpowder, Sami Land\nBecause a yoik never ends, oh… Sami Land\n\nBecause a yoik never endѕ, Sami Lаnd"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Sameland",
+      "content": "Enkel ton, två små ord: Sameland, samisk jord\nKom som vindpust från norr, från norr, Sameland\n\nKan ett krav bli mindre: Sameland, Sameland\nVäxte sig från bris till storm, bris till storm, Sameland\n\nFramför riksdagen där de satt, Sameland, Sameland\nHördes jojken dag och natt, Sameland\n\nFramför riksdagen där de satt, oj…\nHördes jojken dag och natt, Sameland\n\nJojk har större kraft än krut, Sameland\nFör en jojk tar aldrig slut , oh… Sameland\n\nFör en jojk tar aldrig ѕlut, Samelаnd"
+    }
+  ],
+  "bpm": 91,
+  "tone": "D major",
+  "artistPeople": [
+    "Mattis Hætta",
+    "Sverre Kjelsberg"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Sverre Kjelsberg"
+  ],
+  "conductor": "Sigurd Jansen",
+  "lyricists": [
+    "Ragnar Olsen"
+  ],
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "Knut Aunbu"
+  ],
+  "jury": null,
+  "spokesperson": "Roald Øyen"
+}

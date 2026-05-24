@@ -1,0 +1,65 @@
+{
+  "id": 18,
+  "country": "FR",
+  "artist": "Dan Ar Braz et l'Héritage des Celtes",
+  "song": "Diwanit bugale",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/3-DuuDQff7o",
+    "https://www.youtube-nocookie.com/embed/pmEwmOsXawo"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "breton"
+      ],
+      "displayedLanguages": null,
+      "title": "Diwanit bugale",
+      "content": "Didostait bugale\nAr serr-noz hag ar gouloù deiz\nRoit kalon din-me\nAon 'm eus rak hon dazont\n\nTomm eo d'ho kalonoù\nFurnezioù ar re a-ziwar ar maez\nHag ar c'hleuñioù o tihuniñ\nWar an douaroù 'tro al lenn du\n\nDiwanit bugale\nAr stourmoù kalet, an emglev\nGaneoc'h eo 'teu komzoù didro\nHa brav e kavan ho toare\nDa safar 'r yezh\nA ra diank din, siwazh\n\nDiwanit bugale laouen\nAr menezioù melen\nGant hiraezh d'hor gouelioù kent\n'Tre ho tiweuzoù ar wirionez\n\nDiwanit bugale\nGleb ho taoulagadoù dre forzh c'hoarzhin\nHa didrouz ho klac'harioù\nDiwanit bugale\n\nDiwanit bugale\nAr stourmoù kalet, an emglev\nGaneoc'h eo 'teu komzoù didro\nHa brav e kavan ho toare\nDa safar 'r yezh\nA ra diank din, ѕiwаzh"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Manifestez-vous, les enfants",
+      "content": "Approchez-vous, les enfants\nAu crépuscule et au petit-jour\nDonnez-moi du courage\nJ'ai peur de notre avenir\n\nLa sagesse des gens de la campagne\nChère est à vos coeurs\nEt les talus qui s'éveillent\nSur les terres, autour du lac noir\n\nManifestez-vous, les enfants\nLes rudes luttes, la concorde\nC'est de vous que viennent les mots sans détours\nEt je trouve belles vos manières\nDe parler haut votre langue\nQui me manque, hélas\n\nManifestez-vous joyeusement, les enfants\nLes montagnes jaunes\nDu regret de vos fêtes d'antan\nEntre vos lèvres la vérité\n\nManifestez-vous, les enfants\nVos yeux humides à force de rire\nEt vos chagrins silencieux\nManifestez-vous, les enfants\n\nManifestez-vous, les enfants\nLes rudes luttes, la concorde\nC'est de vous que viennent les mots sans détours\nEt je trouve belles vos manières\nDe parler haut votre langue\nQui me manque, hélаѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "May you blossom, children",
+      "content": "Come near, children\nDusk and dawn\nGive me courage\nThe future frightens me\n\nThe country people's wisdom\nWarms up your hearts\nAnd the waking slopes\nOn the lands around the black pond\n\nMay you blossom, children\nThe hard fights and agreement\nYou speak straight words\nAnd so beautiful is your way\nTo use the language\nThat I miss, allas\n\nMay you blossom, children\nThe yellow mountains\nWith the nostalgia of the old celebrations\nBetween your lips is the truth\n\nMay you blossom, children\nWith your eyes wet from laughter\nAnd your sorrows silenced\nMay you blossom, children\n\nMay you blossom, children\nThe hard fights and agreement\nYou speak straight words\nAnd so beautiful is your way\nTo use the language\nThat I miss, allаѕ"
+    }
+  ],
+  "bpm": 92,
+  "tone": "G major",
+  "artistPeople": [
+    "Daniel le Bras",
+    "Donald Shaw",
+    "Elaine Morgan",
+    "Karen Matheson"
+  ],
+  "backings": [
+    "Jean-Louis Henaff",
+    "Ronan Le Bars"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Fiachra Trench",
+  "lyricists": null,
+  "writers": [
+    "Dan Ar Braz"
+  ],
+  "broadcaster": "FT2",
+  "commentators": [
+    "Olivier Minne"
+  ],
+  "jury": null,
+  "spokesperson": "Laurent Broomhead"
+}

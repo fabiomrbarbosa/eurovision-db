@@ -1,0 +1,53 @@
+{
+  "id": 12,
+  "country": "BE",
+  "artist": "Fud Leclerc",
+  "song": "Ton nom",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/2we37pZJQnA",
+    "https://www.youtube-nocookie.com/embed/1gOI9dDjfqI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Ton nom",
+      "content": "Ton nom qui joue avec mon nom\nPour lui donner le mien et effacer le tien\nTa joie qui chante avec ma joie\nPour qu'elles se fondent ensemble\n\nTon cœur qui joue avec mon cœur\nÀ grands coups de bonheur, de bonheur éperdu\nEt puis ta main qui garde la mienne\nEt me guide dans l'ombre jusqu'au soleil\n\nNous n'avons pas besoin des amours compliquées\nDes amants de cinéma\nNous n'avons pas besoin de nous faire du ciné\nLe bonheur c'est lorsque je vois\n\nTon nom qui joue avec mon nom\nPour lui donner le mien et effacer le tien\nTa joie qui chante avec ma joie\nPour qu'elles se fondent ensemble\n\nTon cœur qui joue avec mon cœur\nÀ grands coups de bonheur, de bonheur éperdu\nEt puis ta main qui garde la mienne\nEt me guide dans l'ombre jusqu'au soleil\n\nJusqu'аu ѕoleil"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Your name",
+      "content": "Your name that is playing with my name\nTrying to get it and to erase yours\nYour joy that is singing with my joy\nSo they would fuse together\n\nYour heart that is playing with my heart\nWith a lot of luck, of passionate luck\nAnd then your hand that is holding mine\nAnd guiding me through the shadow to the sun\n\nWe don't need complicated romances\nLike those of lovers in movies\nWe don't need to put on an act\nLuck is as I see it\n\nYour name that is playing with my name\nTrying to get it and to erase yours\nYour joy that sings with my joy\nSo that they would fuse together\n\nYour heart that is playing with my heart\nWith a lot of luck, of passionate luck\nAnd then your hand that is holding mine\nAnd guiding me through the shаdow to the sun\n\nTo the ѕun"
+    }
+  ],
+  "bpm": 101,
+  "tone": "F major",
+  "artistPeople": [
+    "Fernand Urbain Dominic Leclerc"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Eric Channe"
+  ],
+  "conductor": "Henri Segers",
+  "lyricists": [
+    "Tony Golan"
+  ],
+  "writers": null,
+  "broadcaster": "RTB",
+  "commentators": [
+    "Nicole Védrès",
+    "Willem Duys"
+  ],
+  "jury": null,
+  "spokesperson": "Arlette Vincent"
+}

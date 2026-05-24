@@ -1,0 +1,46 @@
+{
+  "id": 3,
+  "country": "NO",
+  "artist": "Jostein Hasselgård",
+  "song": "I'm Not Afraid To Move On",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/KuxMly_F75M",
+    "https://www.youtube-nocookie.com/embed/hVWzfYz7JT8",
+    "https://www.youtube-nocookie.com/embed/7MRPGpWEpGI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I'm not afraid to move on",
+      "content": "One moment out of time\nSomeone finds a secret waiting behind\nKnowing there's an end to a glory\nEnd to a story so good, so divine\n\nHeart, listen to your beating\nNever gonna stop unless there's a doubt\nNever speak to someone that knows you\nMore than yourself and the ghost that you hide\n\n'Cause I'm in love with a beautiful girl\nShe's the one from the magical world\nAnd I hold her now, when the rain starts to fall\nI'm not afraid to move on\n\nLay down with someone strange\nDare to be the same, as always in time\nSlowly seek the end and its glory\nWorry to see if it's gone deep inside\n\n'Cause I'm in love with a beautiful girl\nShe's the one from the magical world\nAnd I hold her now, when the rain starts to fall\nI'm not afraid (I'm not afraid)\nI'm not afraid to move on\n\nI'm alone when the ghosts start to haunt\nI'm alone, but I know\n\nI'm in love with a beautiful girl\nShe's the one from the magical world\nAnd I hold her now, when the rain startѕ to fall\nI'm not afraid, I'm not afrаid to move on"
+    }
+  ],
+  "bpm": 152,
+  "tone": "C major",
+  "artistPeople": [
+    "Jostein Hasselgård"
+  ],
+  "backings": [
+    "Åse Karin Hjelen",
+    "Håvard Gryting"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Arve Furset",
+    "VJ Strøm"
+  ],
+  "broadcaster": "NRK",
+  "commentators": [
+    "Jostein Pedersen"
+  ],
+  "jury": null,
+  "spokesperson": "Roald Øyen"
+}

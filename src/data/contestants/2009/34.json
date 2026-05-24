@@ -1,0 +1,66 @@
+{
+  "id": 34,
+  "country": "SI",
+  "artist": "Quartissimo feat. Martina",
+  "song": "Love Symphony",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/zql3IGp4zO4",
+    "https://www.youtube-nocookie.com/embed/afPh1slPAsc",
+    "https://www.youtube-nocookie.com/embed/PGmPEi-PCD4",
+    "https://www.youtube-nocookie.com/embed/UgDppbQpb-c"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "slovene",
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Love Symphony",
+      "content": "Rodi se in umre\nKot krog obrača se\nLe jaz in ti sva vse\nTo simfonija je\n\nRodi se in umre\nKot krog obrača se\nLe jaz in ti sva vse\nTo simfonija je\n\nOut of time, out of place\nSomewhere inside my universe\nWhere you live your dreams\n\nImagine you and me\nWe're flying above the sea\nFeeling free eternаlly\nLike in this love ѕymphony"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Love symphony",
+      "content": "It's born and it dies\nTurning like a circle\nOnly you and I are everything\nThat's a symphony\n\nIt's born and it dies\nTurning like a circle\nOnly you and I are everything\nThat's a symphony\n\nOut of time, out of place\nSomewhere inside my universe\nWhere you live your dreams\n\nImagine you and me\nWe're flying above the sea\nFeeling free eternаlly\nLike in this love ѕymphony"
+    }
+  ],
+  "bpm": 132,
+  "tone": "A minor",
+  "artistPeople": [
+    "Luke Dukarić",
+    "Martina Majerle",
+    "Matjaž Bogataj",
+    "Samo Dervišić",
+    "Žiga Cerar"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Miha Alujevič",
+  "composers": [
+    "Aleksandar Valenčić",
+    "Andrej Babić"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Andrej Babić"
+  ],
+  "writers": null,
+  "broadcaster": "RTVSLO",
+  "commentators": [
+    "Andrej Hofer"
+  ],
+  "jury": [
+    "Aida Kurtović",
+    "Anžej Dežan",
+    "Dušan Hren",
+    "Matjaž Vlašič",
+    "Nuša Derenda"
+  ],
+  "spokesperson": "Peter Poles"
+}

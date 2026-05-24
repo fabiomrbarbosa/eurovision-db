@@ -1,0 +1,44 @@
+{
+  "id": 37,
+  "country": "AD",
+  "artist": "Gisela",
+  "song": "Casanova",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/lUs3WNB-v44",
+    "https://www.youtube-nocookie.com/embed/M0HPwW_4IEY",
+    "https://www.youtube-nocookie.com/embed/rb5hmdh-KFc",
+    "https://www.youtube-nocookie.com/embed/QR53zSPSFVs"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Casanova",
+      "content": "(Oh Casanova… nova… nova…)\n\nA thousand stars were shining their light in the night skies\nYou and me, a magical moment in your eyes (Casanova)\nLost in love, I'd waited a lifetime to find you\nThe stars above were burning so bright to remind you (Casanova)\nBoom, boom, boom, my heart still goes crazy\nWhen I think of you\n\nOh Casanova\nI thought love would last forever\nThat we'd always stay together\nCan't you feel it in your heart?\n\nOh Casanova\nIn a fairy tale I found you\nI'm alive when I'm around you\nI can't live if we're apart\n\nA simple song can bring back the past to remind me\nNow you're gone and all the good times behind me (Casanova)\nBoom, boom, boom, my heart still goes crazy\nWhen I think of you\n\nOh Casanova\nI thought love would last forever\nThat we'd always stay together\nCan't you feel it in your heart?\n\nOh Casanova\nIn a fairy tale I found you\nI'm alive when I'm around you\nI can't live if we're apart\n\nVull escoltar que tu m'estimes\nI want to dream this dream with you\n\nOh Casanova\nI thought love would last forever\nThat we'd always stay together\nCan't you feel it in your heart?\n\nOh Casanova\nIn a fairy tale I found you\nI'm alive when I'm around you\nI can't live if we're apart\n\nOh Caѕanovа"
+    }
+  ],
+  "bpm": 138,
+  "tone": "F# major",
+  "artistPeople": [
+    "Gisela Lladó Cánovas"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Jordi Cubino"
+  ],
+  "broadcaster": "RTVA",
+  "commentators": [
+    "Josep Lluís Trabal",
+    "Meri Picart"
+  ],
+  "jury": null,
+  "spokesperson": "Alfred Llahí"
+}

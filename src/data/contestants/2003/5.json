@@ -1,0 +1,62 @@
+{
+  "id": 5,
+  "country": "AT",
+  "artist": "Alf Poier",
+  "song": "Weil der Mensch zählt",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/nZJt6Gv4XPk",
+    "https://www.youtube-nocookie.com/embed/-YmyXjzpvCU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "styrian"
+      ],
+      "displayedLanguages": null,
+      "title": "Weil der Mensch zählt",
+      "content": "Die-die Tiere dieser Erde\nDie mog i ziemlich gern\nDoch am allerliebsten mog i\nDie-die Haserln und die Bärn\nDie Bärn\n\nEs sterbn bald alle Vögel\nEs sterbn bald alle Käfer\nNur im Bett da liegt der Adam\nUnd vermehrt sich mit der Eva\n\nDie Hosn leben im Woid\nDie Kotzn in da Wiesn\nUnd die Kakerlaken\nDie leben hinter die Fliesn\n\nKlane Haserl haben kurze Naserl\nUnd klane Katzerl haben weiche Bratzerl\nUnd die Frau Holle hot gern die Wolle\nVom Tromeda aus Afrika\n\nUh!\n\nDer-der Unterschied zwischen Menschen\nZwischen Affen und Primaten\nDer-der is net vü größer\nWie bei Nudl und Frittaten\nFrittaten\n\nDoch wer mehr über Tiere\nWissen wü, muß Biologie studiern\nOder sich im Anschluß\nAuf meiner Homepage informieren\n\nManche Tiere die haben Flügl\nUnd andere haben Flossn\nManche liegn im Freien\nUnd die andern in da Dosn\n\nKlane Haserl haben kurze Naserl\nUnd klane Katzerl haben weiche Bratzerl\nUnd die Frau Holle hot gern die Wolle\nVom Tromeda aus Afrika\n\nKlane Haserl haben kurze Naserl\nUnd klane Katzerl haben weiche Bratzerl\nUnd die Frau Holle hot gern die Wolle\nVom Tromeda auѕ Afrikа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Man is the measure of all things",
+      "content": "The-the animals of the world\nI rather like them\nBut more than anything I like\nThe-the hares and the bears\nThe bears\n\nSoon all birds will die\nSoon all beetles will die\nOnly Adam is lying in bed\nAnd reproduces with Eve\n\nThe hares live in the forest\nThe cats in the meadows\nAnd the cockroaches\nThey live under the tiles\n\nLittle hares have short noses\nAnd little cats have soft paws\nAnd Mrs Holle likes the wool\nOf the dromedary from Africa\n\nUh!\n\nThe-the difference between people\nBetween apes and primates\nIt-it's not much bigger\nThan between noodles and pancake stripes\nPancake stripes\n\nBut whoever wants to know more\nAbout animals, should study biology\nOr connect to my homepage\nTo find it out yourself\n\nSome animals have wings\nAnd others have fins\nSome live outdoors\nAnd others in cans\n\nLittle hares have short noses\nAnd little cats have soft paws\nAnd Mrs Holle likes the wool\nOf the dromedary from Africa\n\nLittle hares have short noses\nAnd little cats have soft paws\nAnd Mrs Holle likeѕ the wool\nOf the dromedary from Africа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Weil der Mensch zählt",
+      "content": "Die-die Tiere dieser Erde\nDie mag ich ziemlich gern\nDoch am allerliebsten mag ich\nDie-die Hasen und die Bären\nDie Bären\n\nEs sterben bald alle Vögel\nEs sterben bald alle Käfer\nNur im Bett da liegt der Adam\nUnd vermehrt sich mit der Eva\n\nDie Hasen leben im Wald\nDie Katzen auf der Wiese\nUnd die Kakerlaken\nDie leben hinter den Fliesen\n\nKleine Hasen haben kurze Nasen\nUnd kleine Katzen haben weiche Tatzen\nUnd die Frau Holle hat gern die Wolle\nVom Dromedar aus Afrika\n\nUh!\n\nDer-der Unterschied zwischen Menschen\nZwischen Affen und Primaten\nDer-der ist nicht viel größer\nAls bei Nudeln und Frittaten\nFrittaten\n\nDoch wer mehr über Tiere\nWissen will, muss Biologie studieren\nOder sich im Anschluss\nAuf meiner Homepage informieren\n\nManche Tiere haben Flügel\nUnd andere haben Flossen\nManche leben im Freien\nUnd die anderen in der Dose\n\nKleine Hasen haben kurze Nasen\nUnd kleine Katzen haben weiche Tatzen\nUnd die Frau Holle hat gern die Wolle\nVom Dromedar aus Afrika\n\nKleine Hasen haben kurze Nasen\nUnd kleine Katzen haben weiche Tatzen\nUnd die Frau Holle hat gern die Wolle\nVom Dromedar auѕ Afrikа"
+    }
+  ],
+  "bpm": 86,
+  "tone": "E minor",
+  "artistPeople": [
+    "Alf Poier"
+  ],
+  "backings": [
+    "Manuela Pan",
+    "Tamara Stadnikow"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Alf Poier"
+  ],
+  "broadcaster": "ORF",
+  "commentators": [
+    "Andi Knoll"
+  ],
+  "jury": null,
+  "spokesperson": "Dodo Roščić"
+}

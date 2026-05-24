@@ -1,0 +1,48 @@
+{
+  "id": 10,
+  "country": "GB",
+  "artist": "Samantha Janus",
+  "song": "A Message To Your Heart",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/nYU_3l0-hVo",
+    "https://www.youtube-nocookie.com/embed/FzDRT2XhJ_o",
+    "https://www.youtube-nocookie.com/embed/XnFBmvHQMeI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "A Message To Your Heart",
+      "content": "Half the world is hungry\nJust through being born\nAnd every day is a compromise\nFor a grain of corn\n\nAnd half the world have too much\nTheir only hunger is their greed\nThrough politics and ignorance\nHalf the world's in need\n\nA message to your heart, it's all right\nSay a little prayer and sleep tonight, oh…\nTomorrow you'll still be in paradise, oh…\n\nA message to your heart, walk on by\nTill you hear the voice of conscience cry, oh…\nThere but for the grace of God, go I\n\nHalf the world is lucky\nBorn in paradise\nBut they don't see the children\nWith hunger in their eyes\n\nAnd the time has come for changes\nThough for some it's much too late\nThere's got to be an answer\nThe hungry cannot wait\n\nA message to your heart, it's all right\nSay a little prayer and sleep tonight, oh…\nTomorrow you'll still be in paradise, oh…\n\nA message to your heart, walk on by\nUntil you hear the voice of conscience cry, oh…\nThere but for the grace of God, go I\n\nOh… a message to your heart, walk on by\nTill you hear the voice of conscience cry, oh…\nThere but for the grace of God, go I\n\nThere but for the grace of God, go I\n(A mesѕage to your heаrt)"
+    }
+  ],
+  "bpm": 136,
+  "tone": "D major",
+  "artistPeople": [
+    "Samantha Janus"
+  ],
+  "backings": [
+    "Hazell Dean",
+    "Kit Rolfe",
+    "Lucy Moorby",
+    "Nikki Belsher",
+    "Zoe Picot"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Ronnie Hazlehurst",
+  "lyricists": null,
+  "writers": [
+    "Paul Curtis"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Terry Wogan"
+  ],
+  "jury": null,
+  "spokesperson": "Colin Berry"
+}

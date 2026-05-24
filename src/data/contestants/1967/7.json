@@ -1,0 +1,55 @@
+{
+  "id": 7,
+  "country": "SE",
+  "artist": "Östen Warnerbring",
+  "song": "Som en dröm",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/egGTA2yU0RU",
+    "https://www.youtube-nocookie.com/embed/x6cc4Wt29xM",
+    "https://www.youtube-nocookie.com/embed/xrMf6I_E-uM",
+    "https://www.youtube-nocookie.com/embed/FaEvbQiIIYQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Som en dröm",
+      "content": "Som en dröm om ett paradis\nI en dröm och genom tårars dis\nHar jag sökt få ett svar\n\nSom en dröm genom nattens ljus\nKände jag som utav vingars sus\nDin mjuka hand emot min kind\n\nDu och jag, vi sökte samma svar\nSå trevande, utan att veta var\nGe mig din hand, så blir vår dröm till liv\nRäck mig din hand\n\nSom en dröm är mitt liv med dig\nI min dröm, där är du allt för mig\nOch mina drömmens svar\n\nI min dröm om en evighet\nHar jag nu funnit en verklighet\nJa, du är drömmens svar till mig\n\nDu och jag, vi sökte samma svar\nSå trevande, utan att veta var\nGe mig din hand, ѕå blir vår dröm till liv\nRäck mig din hаnd"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Like a dream",
+      "content": "Like a dream of paradise\nIn a dream and through the mist of tears\nI've searched for an answer\n\nLike a dream through the lights of the night\nI felt, like the gentle sound of wings\nYour hand against my cheek\n\nYou and I, we search the same answers\nSo hesitantly without knowing where to look\nGive me your hand, and our dream will come true\nGive me your hand\n\nLike a dream is my life with you\nIn my dream, you are everything to me\nAnd the answers of my dreams\n\nIn my dream of eternity\nI have now found a reality\nYes, you are the answer to my dreams\n\nYou and I, we search the same answers\nSo heѕitantly without knowing where to look\nGive me your hand, and our dream will come true\nGive me your hаnd"
+    }
+  ],
+  "bpm": 94,
+  "tone": "E minor",
+  "artistPeople": [
+    "Östen Warnerbring"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Curt Petterson",
+    "Marcus Österdahl"
+  ],
+  "conductor": "Mats Olsson",
+  "lyricists": [
+    "Patrice Hellberg"
+  ],
+  "writers": null,
+  "broadcaster": "SR",
+  "commentators": [
+    "Christina Hansegård"
+  ],
+  "jury": null,
+  "spokesperson": "Edvard Matz"
+}

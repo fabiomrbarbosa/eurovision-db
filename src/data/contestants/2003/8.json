@@ -1,0 +1,59 @@
+{
+  "id": 8,
+  "country": "ES",
+  "artist": "Beth",
+  "song": "Dime",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/WRlwL7X_jE8",
+    "https://www.youtube-nocookie.com/embed/foV5tb67e2A",
+    "https://www.youtube-nocookie.com/embed/n2486OaKaeU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Dime",
+      "content": "Mar en calma en un atardecer\nY todo vuelve a ser como era entonces\nJuego con la arena entre mis pies\nDibujando sin querer tu nombre\n\nCuántas veces te llamé en la noche\nCuántas veces te busqué\nPor mis recuerdos yo vuelvo y no pierdo la fe\n\nDime qué es lo que puedo hacer\nCómo te puedo tener en mi vida\nVamos a olvidar el ayer\nY a comenzar otra vez, sin mentiras\nDime qué es lo que puedo hacer\nCómo te puedo tener en mi vida\n\nMe han contado que tú estás igual\nY que te sientes mal, como yo\nNo permitas que el orgullo sea\nQuien decida por los dos\n\nPorque tú sabes que te quiero\nY todo lo que dije no es verdad\nDeja tus miedos, podemos\nSi quieres volverlo a intentar\n\nDime qué es lo que puedo hacer\nCómo te puedo tener en mi vida\nVamos a olvidar el ayer\nY a comenzar otra vez sin mentiras\nDime qué es lo que puedo hacer\nCómo te puedo tener en mi vida\n\nQue tú y yo sabemos\nQue no podemos vivir así\nVuelve junto a mí\n\nDime qué es lo que puedo hacer\nCómo te puedo tener en mi vida\nVamos a olvidar el ayer\nY a comenzar otra vez sin mentiras\nDime qué eѕ lo que puedo hacer\nCómo te puedo tener en mi vidа\n\nDime, dimelo"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Tell me",
+      "content": "A calm sea in the afternoon\nAnd everything will be as it was before\nI play with the sand between my feet\nUnresistingly I draw your name\n\nHow many times did I call you in the night?\nHow many times did I look for you?\nI return for my memories and I don't lose faith\n\nTell me what it is that I can do\nHow I can keep you in my life\nLet's forget yesterday\nAnd start again, without lies\nTell me what it is that I can do\nHow I can keep you in my life\n\nSomeone told me that you're the same\nAnd that you felt bad, like me\nDon't let it be pride\nThat decides for us two\n\nBecause you know that I love you\nAnd everything that I told you isn't true\nLeave your fears, we can\nIf you want to try again\n\nTell me what it is that I can do\nHow I can keep you in my life\nLet's forget yesterday\nAnd start again, without lies\nTell me what it is that I can do\nHow I can keep you in my life\n\nYou and I know\nThat we can't live like this\nCome back to me\n\nTell me what it is that I can do\nHow I can keep you in my life\nLet's forget yesterday\nAnd start again, without lies\nTell me what it iѕ that I can do\nHow I cаn keep you in my life\n\nTell me, tell it to me"
+    }
+  ],
+  "bpm": 130,
+  "tone": "B minor",
+  "artistPeople": [
+    "Elisabeth Rodergas"
+  ],
+  "backings": [
+    "Brigitte Hernández",
+    "Judith Del Monte",
+    "Vanessa Guillén"
+  ],
+  "dancers": [
+    "Jesus Caramel",
+    "Toni Rodríguez"
+  ],
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Amaya Martínez",
+    "Jesús María Pérez"
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "José Luis Uribarri"
+  ],
+  "jury": null,
+  "spokesperson": "Anne Igartiburu"
+}

@@ -1,0 +1,58 @@
+{
+  "id": 4,
+  "country": "GB",
+  "artist": "Jade Ewen",
+  "song": "It's My Time",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-GwOojK3VRU",
+    "https://www.youtube-nocookie.com/embed/i-RJc1i9q34",
+    "https://www.youtube-nocookie.com/embed/eADt1lFpmCA"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "It's My Time",
+      "content": "I've been down, down so long\nBut those days are gone now\nI've got the will, I've earned the right\nTo show you it's my time tonight\n\nIt's my time, it's my time\nMy moment, I'm not gonna let go of it\nMy time, it's my time\nAnd I'll stand proud\nThere's nothing I'm afraid of\nI'll show you what I'm made of\nShow you all it's my time now\n\nI'll break through, I've made my move\nAnd my faith is strong now\nI've got the heart to reach the heights\nTo show you it's my time tonight\n\nIt's my time, it's my time\nMy moment, I'm not gonna let go of it\nMy time, it's my time\nAnd I'll stand proud\nThere's nothing I'm afraid of\nI'll show you what I'm made of\nShow you all it's my time now\n\nI've got the will, I've earned the right\nTonight, tonight\n\nIt's my time, it's my time\nMy moment, I'm not gonna let go of it\nMy time, it's my time\nAnd I'll stand proud\nThere's nothing I'm afraid of\nI'll show you what I'm made of\nShow you all it's my time now\n\nI'll show you аll it'ѕ my time now"
+    }
+  ],
+  "bpm": 98,
+  "tone": "A minor",
+  "artistPeople": [
+    "Jade Ewen"
+  ],
+  "backings": [
+    "Andrew Lloyd Webber"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Andrew Lloyd Webber",
+    "Diane Eve Warren"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Graham Norton",
+    "Paddy O'Connell",
+    "Sarah Cawood"
+  ],
+  "jury": [
+    "Anne Mannion",
+    "Chris Stewart",
+    "David Larkin",
+    "Deborah Chapman",
+    "Jasmine Dotiwala",
+    "Keith Hughes",
+    "Paul Edwards",
+    "Paul Goodey",
+    "Steve Allen",
+    "Zoe Martlew"
+  ],
+  "spokesperson": "Duncan James"
+}

@@ -10,6 +10,7 @@
   }
 
   interface SemiEntry {
+    id: number;
     running: number | null;
     place: number | null;
     country: string;
@@ -28,6 +29,7 @@
   }
 
   interface FinalEntry {
+    id: number;
     country: string;
     countryName: string;
     artist: string;
@@ -45,11 +47,13 @@
     finalists,
     countries,
     hasJuryTele,
+    year,
   }: {
     semiRounds: SemiRound[];
     finalists: FinalEntry[];
     countries: Record<string, string>;
     hasJuryTele: boolean;
+    year: number;
   } = $props();
 
   // ── Tab state ────────────────────────────────────────────────
@@ -207,7 +211,7 @@
                 </a>
               </td>
               <td>{r.artist}</td>
-              <td class="song-cell"><em>{r.song}</em></td>
+              <td class="song-cell"><a href={`/contest/${year}/contestant/${r.id}`}><em>{r.song}</em></a></td>
               {#if hasJuryTele}
                 <td class="right mono muted">{r.finalJury ?? '—'}</td>
                 <td class="right mono muted">{r.finalTele ?? '—'}</td>
@@ -265,7 +269,7 @@
               </a>
             </td>
             <td>{entry.artist}</td>
-            <td class="song-cell"><em>{entry.song}</em></td>
+            <td class="song-cell"><a href={`/contest/${year}/contestant/${entry.id}`}><em>{entry.song}</em></a></td>
             {#if semiHasJuryTele}
               <td class="right mono muted">{entry.scores.find(s => s.name === 'jury')?.points ?? '—'}</td>
               <td class="right mono muted">{entry.scores.find(s => s.name === 'public')?.points ?? '—'}</td>
@@ -364,6 +368,8 @@
   .place-cell { width: 2.5rem; }
   .run-cell { width: 2.5rem; }
   .song-cell em { color: var(--c-muted); }
+  .song-cell a { color: inherit; text-decoration: none; }
+  .song-cell a:hover em { color: var(--c-link); }
 
   /* Grand Final winner row */
   .row--winner td { background: var(--c-surface-gold); }

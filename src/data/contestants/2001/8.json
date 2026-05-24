@@ -1,0 +1,50 @@
+{
+  "id": 8,
+  "country": "MT",
+  "artist": "Fabrizio Faniello",
+  "song": "Another Summer Night",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/_cYITo2AH0A",
+    "https://www.youtube-nocookie.com/embed/OiqmgczCn8Q",
+    "https://www.youtube-nocookie.com/embed/GhR3Mp5MlAs"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Another Summer Night",
+      "content": "The golden sand beneath my feet\nThere's music in the air\nA guitar in my hand\nI'm sure you understand all this is magic\nNo matter where the wind blows\nI'll always think of you\nStay with me, young and free\nWe'll live in perfect harmony\n\nAnother summer night down by the ocean\nUnder the palm trees, you and I\nWalking on the beach beneath the moonlight\nJust like a dream that never dies\nNever dies, never dies\n\nBlue skies all around us\nFeels like love is everywhere\nJust a smile and our eyes\nWill meet so we can feel the fire burning\nA taste of heaven's what I need\nCan never get enough\nMillion stars, endless sky\nWith each moment passing by\n\nAnother summer night down by the ocean\n(By the ocean)\nUnder the palm trees, you and I\n(Just you and I)\nWalking on the beach beneath the moonlight\nJust like a dream that never dies\nNever dies, never dies\n(Like a dream that never dies)\n\nAnother summer night down by the ocean\n(By the ocean)\nUnder the palm trees, you and I\n(You and I)\nWalking on the beach beneath the moonlight\nJust like a dream that never dies\nNever dies\n\n(Another summer night down by the ocean)\n(Just by the ocean)\n(Under the palm trees, you and I)\nNever dies\n(Walking on the beach beneath the moonlight)\n(Just like a dream thаt never dies)\nAnother ѕummer night"
+    }
+  ],
+  "bpm": 126,
+  "tone": "C major",
+  "artistPeople": [
+    "Fabrizio Faniello"
+  ],
+  "backings": [
+    "Bettina Møller",
+    "Bianca Moe",
+    "Gigi Li Fredie-Pedersen",
+    "Gry Trampedach Jørgensen",
+    "Ken Børjesen"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Paul Abela"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Georgina Abela"
+  ],
+  "writers": null,
+  "broadcaster": "PBS",
+  "commentators": [
+    "Alfred Borg"
+  ],
+  "jury": null,
+  "spokesperson": "Marbeck Spiteri"
+}

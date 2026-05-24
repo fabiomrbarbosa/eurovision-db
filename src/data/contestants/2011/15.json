@@ -1,0 +1,54 @@
+{
+  "id": 15,
+  "country": "RU",
+  "artist": "Alexej Vorobjov",
+  "song": "Get You",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/C-3ohaRN3MM",
+    "https://www.youtube-nocookie.com/embed/A40qB-LKySc",
+    "https://www.youtube-nocookie.com/embed/cLdnYUqY5Qw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Get You",
+      "content": "I choose my words like wise men do\nAnd tonight I'll get you right\nI rule my world like great men do\nAnd I fight, I fight for mine\n\nAnd you look so good on the floor\nPut my mind in a dirty zone\nIf they watch, let them watch\nNot losing you tonight\n\nOh oh… I'm coming to get you\nOh oh… I'm running, I'm gunning for you\nOh oh… I'm gonna get you\nI know you, you want me to\n\nI lost my mind somewhere between your face\nAnd your perfect shape\nI found a pleasure watching you having fun\nFooling around\n\nAnd you look so good on the floor\nPut my mind in a dirty zone\nIf they talk, let them talk\nNot losing you tonight\n\nOh oh… I'm coming to get you\nOh oh… I'm running, I'm gunning for you\nOh oh… I'm gonna get you\nI know you, you want me to\n\nGirl, you blow me away, want you here with me\nGirl, you blow me away, I want you to ѕtay, yeah yeah\n\nOh oh oh… oh oh yeah… oh oh oh…\nI know you want me to\n\nOh oh… I'm coming to get you\nOh oh… I'm running, I'm gunning for you\nOh oh… I'm gonna get you\nI know you, you want me to, yeаh"
+    }
+  ],
+  "bpm": 123,
+  "tone": "E major",
+  "artistPeople": [
+    "Alexey Vladimirovich Vorobyov"
+  ],
+  "backings": [
+    "Britta Bergström",
+    "Robert Malmborg"
+  ],
+  "dancers": [
+    "Daniel Koivunen",
+    "Filmon Michael",
+    "Jan Henrik Rongedal"
+  ],
+  "stageDirector": "Sacha Jean-Baptiste",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "AJ Junior",
+    "Alex Sparrow",
+    "Bilal 'The Chef'",
+    "Eric Sanicola",
+    "RedOne"
+  ],
+  "broadcaster": "C1R",
+  "commentators": [
+    "Yana Churikova",
+    "Yuriy Aksuta"
+  ],
+  "jury": null,
+  "spokesperson": "Dima Bilan"
+}

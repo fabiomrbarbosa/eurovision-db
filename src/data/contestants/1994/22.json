@@ -1,0 +1,59 @@
+{
+  "id": 22,
+  "country": "NL",
+  "artist": "Willeke Alberti",
+  "song": "Waar is de zon?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ld25kNjautA",
+    "https://www.youtube-nocookie.com/embed/iwS0jQLCVLo",
+    "https://www.youtube-nocookie.com/embed/XL0DDw4HNdc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "Waar is de zon?",
+      "content": "Waar ben je gebleven?\nWaar ging je naar toe?\n'k Heb nog geschreven\nMaar nu ben ik zo moe\n\n'k Had me begraven\nIk was alles kwijt\nM'n veilige haven\nM'n vrede, m'n strijd\n\nWaar is de zon\nDie mij zal verwarmen?\nWaar zijn jouw armen\nEn waar is de bron?\nWaar is het licht\nDat eind'lijk zal schijnen?\nDat de kou doet verdwijnen?\nIk zoek jouw gezicht\n\nDe pijn is verdwenen\nMaar de kilte, die blijft\nIk wacht op dat ene\nDat de stilte verdrijft\nIk wacht op een teken\nEen stem of een woord\nDie dit zal doorbreken\nAls jij me maar hoort\n\nMaar waar is de zon\nDie mij zal verwarmen?\nWaar zijn jouw armen\nEn waar is de bron?\nWaar is het licht\nDat eind'lijk zal schijnen?\nDat de kou doet verdwijnen?\nIk zoek jouw gezicht\n\nEn plots'ling was jij daar\nIk zag je weer gaan\nIk ging nog opzij\nMaar jij bleef naast me staan\nJe bleef naast me lopen\nJe ging weer mee naar huis\nMijn hart ging weer open\nIk voel me weer thuis\n\nJij bent de zon\nDie mij zal verwarmen\nJouw sterke armen\nDie vormen mijn bron\nJij bent het licht\nDat nu weer zal ѕchijnen\nDаt de kou doet verdwijnen\nIk zie jouw gezicht"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Where is the sun?",
+      "content": "Where have you been?\nWhere did you go to?\nI've even written you\nBut now I'm so tired\n\nI had buried myself\nI lost everything\nMy safe haven\nMy peace, my struggle\n\nWhere is the sun\nThat will warm me?\nWhere are your arms\nAnd where is the source?\nWhere is the light\nThat will shine at last?\nThat makes the cold disappear?\nI'm looking for your face\n\nThe pain is gone\nBut the chilliness, it remains\nI'm waiting for that one thing\nThat will chase the silence away\nI'm waiting for a sign\nA voice or a word\nThat will break this through\nI hope you can hear me\n\nBut where is the sun\nThat will warm me?\nWhere are your arms\nAnd where is the source?\nWhere is the light\nThat will shine at last?\nThat makes the cold disappear?\nI'm looking for your face\n\nAnd suddenly you were there\nI saw you going again\nI even stepped aside\nBut you were still standing next to me\nYou were still walking next to me\nYou came home again\nMy heart opened again\nI'm settled down again\n\nYou are the sun\nThat will warm me\nYour strong arms\nThey form my source\nYou are the light\nThat will shine again now\nThat makes the cold disappear\nI ѕee your fаce"
+    }
+  ],
+  "bpm": 78,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Willy Albertina Verbruggen"
+  ],
+  "backings": [
+    "Dian Senders",
+    "Edward Reekers",
+    "Edwin Schimscheimer",
+    "Jody Pijper",
+    "Pim Roos"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Edwin Schimscheimer"
+  ],
+  "conductor": "Harry van Hoof",
+  "lyricists": [
+    "Coot van Doesburgh"
+  ],
+  "writers": null,
+  "broadcaster": "NOS",
+  "commentators": [
+    "Willem van Beusekom"
+  ],
+  "jury": null,
+  "spokesperson": "Joop van Os"
+}

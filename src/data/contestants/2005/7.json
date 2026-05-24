@@ -1,0 +1,51 @@
+{
+  "id": 7,
+  "country": "CH",
+  "artist": "Vanilla Ninja",
+  "song": "Cool Vibes",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/dEYN99yDiyE",
+    "https://www.youtube-nocookie.com/embed/Eq3zdGCz_Kg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Cool vibes",
+      "content": "Don't want you to lead me to the dark\nDon't need you to tear my heart apart\nDon't do that, though people say that you're my enemy\nI know you can set me free (Oh oh...)\n\nDon't want you to come so close to me\nDon't need you to blow my fantasy\nBut I know that you are livin' far beyond those lies\nI can see the danger rise in your eyes\n\nCool vibes, why don't you kill me?\nCool vibes, why don't you turn your eyes away?\nCan't you see we're free to die?\nCool vibes, all we can do is fight and pray\n\nCool vibes, why don't you thrill me? (Cool vibes)\nCool vibes, why don't you kill me?\nAll that I can see are shadows of my destiny (Oh oh...)\n\nDon't want you to make me feel afraid\nDon't need you to take away the hate\nBut I know that you will break the seal of mystery\nLeave it to my fantasy, what will be?\n\nCool vibes, why don't you kill me?\nCool vibes, why don't you turn your eyes away?\nCan't you see we're free to die?\nCool vibes, all we can do is fight and pray (Oh oh...)\n\nCool vibes, why don't you thrill me? (Cool vibes)\nCool vibes, why don't you kill me?\nAll that I can see are shadows of my destiny\n\nStay close to me, infinity\nEnigma's what we share\nBut I don't care\nYou'll be there\n\nCool vibes, why don't you kill me? (Cool vibes)\nCool vibes, why don't you turn your eyes away?\nCan't you see we're free to die?\nCool vibes, all we can do is fight and pray\n(For some broken heroes)\n\nCool vibes, why don't you thrill me? (Cool vibes)\nCool vibes, why don't you kill me? (Cool vibes)\nAll that I can see are shаdows of my deѕtiny"
+    }
+  ],
+  "bpm": 127,
+  "tone": "D major",
+  "artistPeople": [
+    "Katrin Siska",
+    "Lenna Kuurmaa",
+    "Piret Järvis",
+    "Triinu Kivilaan"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "David Brandes",
+    "Jane Tempest"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "John O'Flynn"
+  ],
+  "writers": null,
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Claudio Lazzarino",
+    "Daniela Tami",
+    "Jean-Marc Richard",
+    "Marie-Thérèse Porchet",
+    "Sandra Studer"
+  ],
+  "jury": null,
+  "spokesperson": "Cécile Bähler"
+}

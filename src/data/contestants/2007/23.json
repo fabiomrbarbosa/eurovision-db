@@ -1,0 +1,48 @@
+{
+  "id": 23,
+  "country": "IE",
+  "artist": "Dervish",
+  "song": "They Can't Stop The Spring",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/N40wpl5m0UM",
+    "https://www.youtube-nocookie.com/embed/Ida1wNmNb6s",
+    "https://www.youtube-nocookie.com/embed/Vi-X7t6YOJg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "They Can't Stop The Spring",
+      "content": "The curtain has been raised, the wall no longer stands\nAnd from Lisadell to Latvia, we're singing as one clan\nThe curtain has been raised, and Europe's all one stage\nAnd the archipelagic icicles have melted like the cage\n\nWe don't need no party, just a party band\nA continental choir singing hand in hand\n\nThey might scare the blackbird\nBut they cannot stop him sing\nThey may steal the honey\nBut they'll never steal the sting\nThey may crush the flowers\nTrample every living thing\nBut they can't stop the spring\n\nThey might scare the blackbird\nBut they cannot stop him sing\nThey may steal the honey\nBut they'll never steal the sting\nThey may crush the flowers\nAnd trample every living thing\nBut they can't stop the spring\n\nThey might scare the blackbird\nBut they cannot stop him sing\nThey may steal the honey\nBut they'll never steal the sting\nThey may crush the flowers\nAnd trample every living thing\nBut they can't stop the spring\n\nNo, they cаn't stop the ѕpring"
+    }
+  ],
+  "bpm": 172,
+  "tone": "C major",
+  "artistPeople": [
+    "Brian McDonagh",
+    "Cathy Jordan",
+    "Liam Kelly",
+    "Michael Holmes",
+    "Shane Mitchell",
+    "Tom Morrow"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "John Waters",
+    "Tommy Moran"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Marty Whelan"
+  ],
+  "jury": null,
+  "spokesperson": "Linda Martin"
+}

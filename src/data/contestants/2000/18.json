@@ -1,0 +1,59 @@
+{
+  "id": 18,
+  "country": "FI",
+  "artist": "Nina Åström",
+  "song": "A Little Bit",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Bmf0NRo5-AE",
+    "https://www.youtube-nocookie.com/embed/Y66ohWXx4Gk",
+    "https://www.youtube-nocookie.com/embed/beY3loWgWRc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "A little bit",
+      "content": "I'm in love with the place where I was born\nWhere I lived my life in harmony with every new dawn\nI'm in love with the people that I know\nWith whom I share my tears of laughter, the times I feel low\n\nIt's a little bit of love, it's a little love I need\nTo keep me going, keep me smiling\nIt's love that makes me breathe\nIt may be Finland, France or Spain\nBerlin, Prague or Rome\nIt's the place where you live\nWhere your heart feels at home\n\nThere's a world that is bigger than my own\nWhere they strive to try and unify, to dull monotone\nEvery change that really matters comes from within\nWhen in love we stand together through thick and thin\n\nIt's a little bit of love, it's a little love we need\nTo keep us going, keep us smiling\nIt's love that makes us breathe\nIt may be Amsterdam or Bern\nSweden or U.K.\nWhere your heart is at home\nYou will feel okay\n\n(It's a little bit of love), it's a little love we need\nTo keep us going, keep us smiling\nIt's love that makes us breathe\nIt's a little bit of love, it's a little love we need\nTo keep us going, keep us smiling\nIt is love that makes us breathe\n\nTo keep us going, keep us smiling\nIt is love that makes uѕ breаthe"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "norwegian"
+      ],
+      "displayedLanguages": null,
+      "title": "Litt med Kjærlighet",
+      "content": "Jeg er forelsket med stedet, der jeg ble født\nDer jeg levde i harmoni med hvert ny soloppgang\nJeg er forelsket med folkene, jeg kjenner\nDe som jeg deler tårene av latter, og tiden jeg føler meg ned med\n\nDet er litt med kjærlighet, det lille som jeg trenger\nFor å komme meg av gårde, for meg til å smile\nDet er det som for meg til å puste\nKanskje er det Finland, Frankrike, eller Spania\nBerlin, Praha, eller Roma\nDet er stedet hvor du lever\nHvor hjerte ditt føler seg hjemme\n\nDet er en verden større, enn min egen\nDer de streber for å forene, til en kjedelig monoton\nHver forandring som er viktig, kommer fra innen\nNår vi elsker står vi sammen gjennom tykt å tynt\n\nDet er litt med kjærlighet, det lille som vi trenger\nFor å komme oss av gårde, for oss til å smile\nDet er det som for oss til å puste\nDet kan være Amsterdam eller Bern\nSverige eller Storbritannia\nDer hjerte ditt er hjemme\nKommer du til å være godt\n\n(Der er litt med kjærlighet) Det lille som vi trenger\nFor å komme oss av gårde, for oss til å smile\nDet er det som for oss til å puste\nDet er litt med kjærlighet, det lille som vi trenger\nFor å komme oss av gårde, for oss til å smile\nDet er det som for oss til å puste\n\nFor å komme oss аv gårde, for oss til å smile\nDet er det som for oss til å puѕte"
+    }
+  ],
+  "bpm": 95,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Nina Åström"
+  ],
+  "backings": [
+    "Danielle Ewert van Es",
+    "Kaarle Mannila",
+    "Luca Genta",
+    "Raakel Lignell",
+    "Ralph van Manen"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Luca Genta"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Gerrit aan 't Goor"
+  ],
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Jani Juntunen"
+  ],
+  "jury": null,
+  "spokesperson": "Pia Mäkinen"
+}

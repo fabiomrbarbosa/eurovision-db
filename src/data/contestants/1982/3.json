@@ -1,0 +1,57 @@
+{
+  "id": 3,
+  "country": "BE",
+  "artist": "Stella",
+  "song": "Si tu aimes ma musique",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/KytpIajLsZc",
+    "https://www.youtube-nocookie.com/embed/URz95KxEvpA",
+    "https://www.youtube-nocookie.com/embed/Iq_jgnjjIsc",
+    "https://www.youtube-nocookie.com/embed/GWe81O2m8eE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Si tu aimes ma musique",
+      "content": "C'est si doux\nLe matin se lève en musique\nÇa rend un peu fou\nMais le réveil est plus euphorique\n\nElle te suit\nPartout pendant toute la journée\nEt tous tes ennuis\nS'envolent aussitôt en fumée\n\nSi tu aimes ma musique\nChante-la avec moi\nSi tu veux danser\nPersonne ne t'empêchera\n\nN'est-elle pas magnifique?\nChante à pleine voix\nFais qu'elle fasse vibrer\nLe monde tout entier\n\nLa chanson\nC'est ce qu'il y a de plus fantastique\nAussi nous chantons\nSur toutes les surfaces géographiques\nLe bonheur\nSe trouve souvent dans une musique\nEt la bonne humeur\nC'est comme une fleur vraiment magique\n\nSi tu aimes ma musique\nChante-la avec moi\nSi tu veux danser\nPersonne ne t'empêchera\n\nN'est-elle pas magnifique?\nChante à pleine voix\nFais qu'elle fasse vibrer\nLe monde tout entier\n\nSi tu aimes ma musique\nChante-la avec moi\nSi tu veux danser\nPersonne ne t'empêchera\n\nN'est-elle pas magnifique?\nChante à pleine voix\nFais qu'elle fаsѕe vibrer\nLe monde tout entier"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "If you like my music",
+      "content": "It's so nice\nIn the morning to get up to music\nIt makes you a little crazy\nBut the awakening is more euphoric\n\nIt follows you\nEverywhere during the whole day\nAnd all your worries\nWill clear away in smoke immediately\n\nIf you like my music\nSing it with me\nIf you want to dance\nNobody will stop you\n\nIsn't it magnificent?\nSing with a full voice\nBring about a vibration\nTo the whole world\n\nThe song\nIt's one of the most fantastic things\nThat's also why we sing\nOn every geographical surface\nProsperity\nIs often found in music\nAnd the good humour\nIt's like a really magical flower\n\nIf you like my music\nSing it with me\nIf you want to dance\nNobody will stop you\n\nIsn't it magnificent?\nSing with a full voice\nBring about a vibration\nTo the whole world\n\nIf you like my music\nSing it with me\nIf you want to dance\nNobody will stop you\n\nIѕn't it magnificent?\nSing with a full voice\nBring about a vibrаtion\nTo the whole world"
+    }
+  ],
+  "bpm": 128,
+  "tone": "B minor",
+  "artistPeople": [
+    "Stella Maessen"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Bobott",
+    "Fred Bekky",
+    "Rony Brack"
+  ],
+  "conductor": "Jack Say",
+  "lyricists": [
+    "Jo May"
+  ],
+  "writers": null,
+  "broadcaster": "RTBF",
+  "commentators": [
+    "Jacques Mercier",
+    "Luc Appermont"
+  ],
+  "jury": null,
+  "spokesperson": "Jacques Olivier"
+}

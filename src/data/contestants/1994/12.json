@@ -1,0 +1,53 @@
+{
+  "id": 12,
+  "country": "SE",
+  "artist": "Marie Bergman & Roger Pontare",
+  "song": "Stjärnorna",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/8nM8vPTh_S0",
+    "https://www.youtube-nocookie.com/embed/XOMx5sd-EQQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Stjärnorna",
+      "content": "God morgon, min sol\nSäg har du vaknat för att ge mig av din härlighet\nEller försvinner du nå'n stans i ett regn\nDär dina tårar blir en spegel av den ensamhet som jag känner nu?\nMen om du ger mig av det ljus du har\nStannar dagen kvar tills månen tänder\n\nStjärnorna som lyser upp min natt\nSom ger vår kärlek kraft\nSom leder oss när vinden vänder\nStjärnorna som styr med ödets hand\nNär hjärtan sätts i brand\nSom leder oss till drömmens land\nÅh… kom och ta min hand, följ mig i natt\n\nGod morgon, min sol\nTänk om jag kunde se allt det som bara du kan se\nDå visste jag allt det du vet\nOm vad som händer med oss båda i morgon dag\nOm du stannar kvar\nSå om du ger mig av det ljus du har\nStannar dagen kvar tills månen tänder\n\nStjärnorna som lyser upp min natt\nSom ger vår kärlek kraft\nSom leder oss när vinden vänder\nStjärnorna som styr med ödets hand\nNär hjärtan sätts i brand\nOch jag kan ej en tanke sända\n\nStjärnorna som lyser upp min natt\nSom ger vår kärlek kraft\nSom leder oss…\nStjärnorna som styr med ödets hand\nNär hjärtan sätts i brand\nTill drömmenѕ land, åh… ta min hand\nÅh… ta min hand, följ mig i nаtt"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The stars",
+      "content": "Good morning, sunshine\nDid you wake me up, so I could bask in your glory\nOr will you be washed away by the rain?\nA rain where your teardrops become a mirror of my solitude\nIf you give me some of your light\nThe daylight will remain until…\n\n…the stars light up the night sky\nEmpowering our love\nLeading us as the winds shift\nThe stars decide our fate\nAs our hearts are lit ablaze\nAnd leads us to the land of dreams\nTake my hand, and follow me into the night\n\nGood morning, sunshine\nIf only I could see what you're able to see\nAnd could know what you know\nAbout what will happen to us both tomorrow day\nIf you stay here\nIf you give me some of your light\nThe daylight will remain until…\n\n…the stars light up the night sky\nEmpowering our love\nLeading us as the winds shift\nThe stars decide our fate\nAs our hearts are lit ablaze\nAnd I'm unable to broadcast my thoughts\n\nThe stars light up my night sky\nEmpowering our love\nLeading us…\nThe stars decide our fate\nAs our hearts are lit ablaze\nIn the land of dreamѕ\nTake my hand, аnd follow me into the night"
+    }
+  ],
+  "bpm": 151,
+  "tone": "G major",
+  "artistPeople": [
+    "Marie Bergman",
+    "Roger Pontare"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Peter Bertilsson"
+  ],
+  "conductor": "Anders Berglund",
+  "lyricists": [
+    "Mikael Littwold"
+  ],
+  "writers": null,
+  "broadcaster": "SVT",
+  "commentators": [
+    "Pekka Heino"
+  ],
+  "jury": null,
+  "spokesperson": "Marianne Anderberg"
+}

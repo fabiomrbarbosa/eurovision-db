@@ -1,0 +1,52 @@
+{
+  "id": 8,
+  "country": "SE",
+  "artist": "Brita Borg",
+  "song": "Augustin",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/BG_hh_f9ANg",
+    "https://www.youtube-nocookie.com/embed/CVn9sxazQLo"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Augustin",
+      "content": "Kära barn, stanna hemma i afton är du snäll\nRedan mörkret nästan fallit på\nSnälla mamma, du vet, vi ska träffas just i kväll\nInte ska han väl ensam då gå?\nOm han får vänta sekunden på sin vän\nGår han genast hem och kommer aldrig mer igen\n\nAugustin väntar aldrig på en flicka som är kär\nHan är ung, han är kung, han är grann och populär\nHåll min hatt, var är skorna?\nHämta broschen i mitt skrin\nSnart så ska jag möta Augustin\n\nKära mor, sitt ej uppe och vänta är du snäll\nSnart så ska jag fylla tjugotvå\nDet ska inte bli sent som det blev i förrgår kväll\nÅh, nu måste jag skynda mig på\nSpringer jag fort ska jag hinna så precis\nAj, där gick en maska, och just nu naturligtvis\n\nAugustin väntar aldrig på en flicka som är kär\nHan är ung, han är kung, han är grann och populär\nSka han nu kanske hinna bort och vissla hos Kristin?\nEller väntar du mig, Augustin?\n\nMed förvåning och oro han står i månens sken\nVad är nu det här för nonchalans?\nAldrig har han tänkt krusa en jänta som är sen\nNej, då fick väl nån annan en chans\nMen så är livet: Att det man inte får\nJust är det som man vill ha, om ni mig rätt förstår\n\nAugustin han fick vänta tills han själv blev lika kär\nFastän ung, fastän kung\nFastän grann och populär\nJa, så går det för den som blir för plötsligt maskulin\nOch det glömmer aldrig Augustin\nOch det glömmer аldrig Auguѕtin"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Augustin",
+      "content": "Dear child, can't you stay at home this evening\nDarkness has almost already fallen\nPlease mother, you know we're going to meet tonight\nYou don't want him to go by himself, do you?\nIf he has to wait a second for his friend\nHe goes straight home and never comes back\n\nAugustin never waits for a girl who's in love\nHe is young, he is the king, he's handsome and popular\nHold my hat, where are the shoes?\nGet the brooch in my jewellery box\nSoon I'll be meeting Augustin\n\nDear mother, please don't stay up and wait for me\nSoon I'll be turning twenty-two\nI won't be as late as I was the night before\nOh, now I must hurry\nIf I run quickly, I'll make it on time\nOh, there's a run in my stocking, and it had to be just now\n\nAugustin never waits for a girl who's in love\nHe is young, he is the king, he's handsome and popular\nWill he now go away and whistle at Kristin instead?\nOr are you waiting for me, Augustin?\n\nWith surprise and worry he waits in the moonlight\nWhat kind of nonchalance is this?\nHe's never had the intention to wait for a girl that's late\nNo, he'd rather give somebody else a chance\nBut that's how life is: What you don't get\nIs exactly what you want, if you understand my drift\n\nAugustin had to wait, until he was as much in love himself\nEven though he was young, even though he was a king\nEven though he was handsome and popular\nYes, that's what happens to someone who grows mаsculine too quickly\nAnd Augustin will never forget\nAnd Auguѕtin will never forget"
+    }
+  ],
+  "bpm": 112,
+  "tone": "G major",
+  "artistPeople": [
+    "Brita Borg"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Harry Sandin"
+  ],
+  "conductor": "Franck Pourcel",
+  "lyricists": [
+    "Åke Gerhard"
+  ],
+  "writers": null,
+  "broadcaster": "SR",
+  "commentators": [
+    "Jan Gabrielsson"
+  ],
+  "jury": null,
+  "spokesperson": "Roland Eiworth"
+}

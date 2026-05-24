@@ -1,0 +1,61 @@
+{
+  "id": 24,
+  "country": "CH",
+  "artist": "Gunvor",
+  "song": "Lass ihn",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Tyh39VaRcV0",
+    "https://www.youtube-nocookie.com/embed/c7QE8gRrowo",
+    "https://www.youtube-nocookie.com/embed/yqRyzU8_MoE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Lass ihn",
+      "content": "Cocktails serviert er jeden Abend\nVerzaubert jede Frau\nSpielt mit seinem Charme\nAuch du liesst dich von ihm blenden\nWarst schon nach paar Stunden in seinem Arm\n\nLass ihn endlich gehn\nOft liess er dich stehn\nEs war nur ein Schein\nLass ihn endlich sein\n\nWie oft betrog er dich\nDachtest, er ändert sich\nDoch da belügst du dich\nSag, tut 's nicht weh?\n\nSamstag, freust dich auf den Abend\nHast noch viel zu tun bis zum Feierabend\nAber die Gedanken schweifen 'rüber\nDenkst nur noch an ihn\nSchmeisst die Arbeit\nSogar die Stelle hin\n\nLass ihn endlich gehn\nOft liess er dich steh'n\nEs war nur ein Schein\nLass ihn endlich sein\n\nWie oft betrog er dich\nDachtest, er ändert sich\nDoch da belügst du dich\nSag, tut 's nicht weh?\n\nLass ihn endlich gehn\nOft liess er dich stehn\nEs war nur ein Schein\nLass ihn endlich sein\n\nWie oft betrog er dich\nDachtest, er ändert sich\nDoch da belügst du dich\nSag, tut 's nicht weh?\n\nSаg, tut 's nicht weh?\nEs tut ѕo weh"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Let him",
+      "content": "He serves cocktails every night\nHe wins all women over\nUsing his charm\nYou too let him bedazzle you\nAfter a few hours, you were already in his arms\n\nLet him go at last\nHe often walked out on you\nIt's only appearance\nLet him be at last\n\nHow often he cheated you\nYou thought he would change\nBut you lied to yourself\nSay, doesn't it hurt?\n\nSaturday and you're looking forward for the night to come\nYou still have loads to do before you finish work\nBut you keep thinking about it\nYou can't get him out of your mind\nYou leave work\nEven abandon your job\n\nLet him go at last\nHe often walked out on you\nIt's only appearance\nLet him be at last\n\nHow often he cheated you\nYou thought he would change\nBut you lied to yourself\nSay, doesn't it hurt?\n\nLet him go at last\nHe often walked out on you\nIt as only appearance\nLet him be at last\n\nHow often he cheated you\nYou thought he would change\nBut you lied to yourself\nSay, doesn't it hurt?\n\nSаy, doesn't it hurt?\nIt hurts ѕo much"
+    }
+  ],
+  "bpm": 150,
+  "tone": "G minor",
+  "artistPeople": [
+    "Gunvor Guggisberg"
+  ],
+  "backings": [
+    "Claudio Sivano",
+    "Damian Meyer",
+    "Egon Egemann",
+    "Irja Guggisberg",
+    "Sandra Heusser"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Egon Egemann",
+    "Gunvor Guggisberg"
+  ],
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Heinz Margot",
+    "Jean-Marc Richard",
+    "Jonathan Tedesco",
+    "Roman Kilchsperger"
+  ],
+  "jury": null,
+  "spokesperson": "Regula Elsener"
+}

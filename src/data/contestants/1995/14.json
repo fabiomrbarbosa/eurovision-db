@@ -1,0 +1,60 @@
+{
+  "id": 14,
+  "country": "IS",
+  "artist": "Bó Halldórsson",
+  "song": "Núna",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/mt4-SJMcmtQ",
+    "https://www.youtube-nocookie.com/embed/_Rt0PuoIxYI",
+    "https://www.youtube-nocookie.com/embed/ghHtLSgh8_o"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "icelandic"
+      ],
+      "displayedLanguages": null,
+      "title": "Núna",
+      "content": "Núna, ef þú vilt, mun nóttin elska þig af líf' og sál\nNúna, ef þú vilt, hún ber, af vörum þér, sín leyndarmál\nNúna, ef þú vilt, mun ástin snerta augu þín svo djúp og blá, já\nNúna, ef þú vilt, njótum þess að elsk' og þrá\n\nÓ... ég veit allt tekur enda, fellur regn á grænan skóg\nOg á meðan þú ert hjá mér, vil ég elska með þér nóg\nÞessi nótt er fyrir okkur, þessi koss er handa þér\nHann mun ljóm' í gegnum tárin, þegar loks að morgn' ég fer\n\nNúna, ef þú vilt, mun nóttin elska þig af líf' og sál\nNúna, ef þú vilt, hún ber, af vörum þér, sín leyndarmál\nNúna, ef þú vilt, mun ástin snerta augu þín svo djúp og blá, já\nNúna, ef þú vilt, njótum þess að elsk' og þrá, já\n\nNúna, ef þú vilt, mun nóttin elska þig af líf' og sál\nNúna, ef þú vilt, hún ber, af vörum þér, sín leyndarmál\nÓ... núna, ef þú vilt, mun ástin snerta augu þín svo djúp og blá, já\nNúna, ef þú vilt, njótum þess að elsk' og þrá\nNúna, ef þú vilt, njótum þess аð elѕk' og þrá"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Now",
+      "content": "Now, if you want, the night will love you body and soul\nNow, if you want, it will carry your secrets from your lips\nNow, if you want, love will touch your eyes so deep and blue\nNow, if you want, we will love and desire\n\nOh, I know that all things come to an end, rain falls on green woods\nAnd while you're with me, I want to love you a lot\nThis night is ours, this kiss is for you\nIt will shed light on your tears, when in the morning I depart\n\nNow, if you want, the night will love you body and soul\nNow, if you want, it will carry your secrets from your lips\nNow, if you want, love will touch your eyes so deep and blue\nNow, if you want, we will love and desire\n\nNow, if you want, the night will love you body and soul\nNow, if you want, it will carry your secrets from your lips\nOh, now, if you want, love will touch your eyes so deep and blue\nNow, if you want, we will love and desire\nNow, if you want, we will love аnd deѕire"
+    }
+  ],
+  "bpm": 124,
+  "tone": "G major",
+  "artistPeople": [
+    "Björgvin Helgi Halldórsson"
+  ],
+  "backings": [
+    "Berglind Björk Jónasdóttir",
+    "Erna Þórarinsdóttir",
+    "Eyjólfur Kristjánsson",
+    "Guðrún Gunnarsdóttir",
+    "Stefán Hilmarsson"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Björgvin Halldórsson",
+    "Ed Welch"
+  ],
+  "conductor": "Frank McNamara",
+  "lyricists": [
+    "Jón Örn Marinósson"
+  ],
+  "writers": null,
+  "broadcaster": "RÚV",
+  "commentators": [
+    "Jakob Frímann Magnússon"
+  ],
+  "jury": null,
+  "spokesperson": "Áslaug Dóra Eyjólfsdóttir"
+}

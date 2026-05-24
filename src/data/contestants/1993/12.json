@@ -1,0 +1,59 @@
+{
+  "id": 12,
+  "country": "IS",
+  "artist": "Inga",
+  "song": "Þá veistu svarið",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/eRXaQgwLEs4",
+    "https://www.youtube-nocookie.com/embed/2ub8puAqcps",
+    "https://www.youtube-nocookie.com/embed/5Wx9Y5_FzsY"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "icelandic"
+      ],
+      "displayedLanguages": null,
+      "title": "Þá veistu svarið",
+      "content": "Opnaðu augun, sjáðu hvar þú ert\nÉg er og bíð þín þar\nHugurinn ber þig aðra leið en hvert?\nEnn heldur' af stað brenna spurningar\n\nÉg bíð\nÞú leitar svarar út um allt\nHvar endar þessi ferð?\nTil hvers er farið?\nÞá líða ár\nOg láta uppi lítið ráð\nEf leitarðu til mín\nÞá veistu svarið\n\nÞví ert að hlaupa, leita langt og skammt?\nÉg leynist þér ei, ég er allsstaðar\n\nÉg bíð\nÞú leitar svarar út um allt?\nHvar endar þessi ferð?\nTil hvers er farið\nÞá líða ár\nOg láta uppi lítið ráð\nEf leitarðu til mín\nÞá veistu svarið\n\nÉg bíð\nÞú leitar svarar út um allt\nEf leitarðu til mín\nÞá veistu ѕvаrið"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Then you'll know the answer",
+      "content": "Open your eyes, see where you are\nI am and wait for you there\nThe mind carries you through another path, but where?\nStill carrying on, questions start to burn\n\nI wait\nYou look for answers all around\nWhere does this journey end?\nFor what are you leaving?\nThen years pass by\nAnd leave a little advise\nIf you come to me\nThen you'll know the answer\n\nWhy are you running, searching far and near?\nI'm not hiding from you, I am everywhere\n\nI wait\nYou look for answers all around\nWhere does this journey end?\nFor what are you leaving?\nThen years pass by\nAnd leave a little advise\nIf you come to me\nThen you'll know the answer\n\nI wait\nYou look for answers all around\nIf you come to me\nThen you'll know the аnѕwer"
+    }
+  ],
+  "bpm": 103,
+  "tone": "F major",
+  "artistPeople": [
+    "Ingibjörg Stefánsdóttir"
+  ],
+  "backings": [
+    "Einar Bragi Bragason",
+    "Erna Þórarinsdóttir",
+    "Eva Ásrún Albertsdóttir",
+    "Eyjólfur Kristjánsson",
+    "Guðrún Gunnarsdóttir"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jon Kjell Seljeseth"
+  ],
+  "conductor": "Jon Kjell Seljeseth",
+  "lyricists": [
+    "Friðrik Sturluson"
+  ],
+  "writers": null,
+  "broadcaster": "RÚV",
+  "commentators": [
+    "Jakob Frímann Magnússon"
+  ],
+  "jury": null,
+  "spokesperson": "Guðrún Skúladóttir"
+}

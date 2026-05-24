@@ -1,0 +1,61 @@
+{
+  "id": 10,
+  "country": "FI",
+  "artist": "Fredi and The Friends",
+  "song": "Pump-Pump",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/RNW3KrUWJco",
+    "https://www.youtube-nocookie.com/embed/aHO_mFsR9Eg",
+    "https://www.youtube-nocookie.com/embed/O21Cyabfv-4",
+    "https://www.youtube-nocookie.com/embed/kIDsyp1E8VM",
+    "https://www.youtube-nocookie.com/embed/X_VnrQ41Dh0",
+    "https://www.youtube-nocookie.com/embed/Lf-Chk_Dddk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Pump-Pump",
+      "content": "I used to love watching beautiful girls go by in my time\nYou have done like the boys do, but now finally you are mine\nLet bygones be bygones, now I love you\nYou gave me more than a man can ever dream, know what I mean?\n\nLet your hip go hippety pump pump\nThat's the way we dance till we die.. ay ay ay…\nLet your hip go hippety pump pump\nGive me shivers all down my spine… ay ay ay…\nYou are not a moment's playmate\nYou are the man of my life\nLet your hip go hippety pump pump\nThat's the way we dance till we die.. ay ay ay…\n\nI used to worry so much about all kinds of little things\nNow it is easy to laugh and to dance when it really swings\nNow we're together forever, I know\nPlaying the games that two people only play when they're in love\n\nLet your hip go hippety pump pump\nThat's the way we dance till we die.. ay ay ay…\nLet your hip go hippety pump pump\nGive me shivers all down my spine… ay ay ay…\nYou are not a moment's playmate\nYou are the man of my life\nLet your hip go hippety pump pump\nThat's the way we dance till we die.. ay ay ay…\n\nLet your hip go hippety pump pump\nThat's the way we dance till we die.. ay ay ay…\nLet your hip go hippety pump pump\nGive me shivers all down my spine… ay ay ay…\nLet your hip go hippety pump pump\nThat'ѕ the way we dаnce till we die"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Pump-pump",
+      "content": "Kauniita naisia aiemmin katselin minäkin\nSellainen hurmuripoikako ollut oot sinäkin?\nMenneet on menneitä haittaa ei, ei\nRoihuva rakkaus kaiken sellaisen mielestä vei\n\nPylly vasten pyllyä pump-pump\nSiinä sitä jotakin on… ai ai ai…\nPylly vasten pyllyä pump-pump\nKuumat väreet aikaan se sai niin se sai\nLeikkimieli arjen vie harmaan\nTahdot varmaan tanssia näin\nPylly vasten pyllyä pump-pump\nSiinä sitä jotakin on… ai ai ai…\n\nMulle sä sinkosit sieluuni sykkivän kipinän\nKättesi kosketus synnytti tänne näin kipinän\nLeikkiä tahdomme kaksin näin, näin\nMissä ja milloin me ollaan ihan vain selvinkin päin\n\nPylly vasten pyllyä pump-pump\nSiinä sitä jotakin on… ai ai ai…\nPylly vasten pyllyä pump-pump\nKuumat väreet aikaan se sai niin se sai\nLeikkimieli arjen vie harmaan\nTahdot varmaan tanssia näin\nPylly vasten pyllyä pump-pump\nSiinä sitä jotakin on… ai ai ai…\n\nPylly vasten pyllyä pump-pump\nSiinä sitä jotakin on… ai ai ai…\nPylly vasten pyllyä pump-pump\nKuumat väreet aikaan se sai niin se sai\nPylly vasten pyllyä pump-pump\nSiinä ѕitä jotаkin on"
+    }
+  ],
+  "bpm": 99,
+  "tone": "A major",
+  "artistPeople": [
+    "Aimo Lehto",
+    "Anneli Koivisto",
+    "Antti Hyvärinen",
+    "Irma Tapio",
+    "Matti Kalevi Siitonen",
+    "Titta Jokinen"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Matti Kalevi Siitonen"
+  ],
+  "conductor": "Ossi Runne",
+  "lyricists": [
+    "Pertti Reponen"
+  ],
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Vesa Nuotio"
+  ],
+  "jury": null,
+  "spokesperson": "Erkki Vihtonen"
+}

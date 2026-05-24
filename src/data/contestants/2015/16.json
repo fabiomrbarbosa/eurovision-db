@@ -1,0 +1,68 @@
+{
+  "id": 16,
+  "country": "AL",
+  "artist": "Elhaida Dani",
+  "song": "I'm Alive",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/fsH9iVaZSaA",
+    "https://www.youtube-nocookie.com/embed/GtpMLqiplfY",
+    "https://www.youtube-nocookie.com/embed/Flj9_lhJZEc",
+    "https://www.youtube-nocookie.com/embed/mfWXiTFUpzw",
+    "https://www.youtube-nocookie.com/embed/5vsYEPG1BBI",
+    "https://www.youtube-nocookie.com/embed/P0ISb0D_Qd4",
+    "https://www.youtube-nocookie.com/embed/hDfAUPvkELQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I'm Alive",
+      "content": "I was too afraid right from the start\nTo even let you welcome in my heart\nYou cut it deep and left it bleeding\nHow will I ever heal these painful scars?\n\nI just can't help it\nI'm out of breath, I'm trying to find the words to say\nTime passed by\nNow it's brought the light\n\nI know you'll come, with the speed of light\nYou're my everything, all that I need\nYou shut down my dreams, but I'm not gonna cry\nYou live within me, 'cause I am alive\n\nI am alive, 'cause you are my life\nYou are my sun\nI am alive, 'cause you are my life\n\nYou name is printed crystal clear on the lights\nFrom all the sighs coming on my breath\nI'm blinded by this love, can't stop screaming out your name so loud\nWhere are you? Where? Baby, won't you come back?\n\n(Baby, please come back)\n(Baby, please come back)\n(Baby, please come back)\n\nI know you'll come, with the speed of light\nYou're my everything, all that I need\nYou shut down my dreams, but I'm not gonna cry\nYou live within me, that's why I'm alive\n\nI am alive, 'cause you are my life\nYou are my sun\nI am alive, 'cause you are my life\nYeah…\n\n(I know you'll come, with the speed of light)\nYou're my everything, you're all that I need\nYou shut down my dreams, but I'm not gonna cry\nYou live within me, that's why I'm alive\n\nI am alive, 'cause you are my life\nYou are my sun\nI am alive, 'cauѕe you аre my life"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "albanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Në Jetë",
+      "content": "Hëna prapë rrëshqiti përmbi xham\nËshtë natë e bardhë, por ty jo s'të kam\nBuzët mbeten bosh e dot s'të than\nDo kthehesh prapë, ta djeg këtë mall\n\nPrapë të ndjej\nFryma po më mbahet fjalët nuk i gjej\nOrët shkojnë\nDita po agon\n\nE di do të vish, si diell në mëngjes\nTë kam motiv, ty të kam shpresë\nËndrrat m'i fik, e dritat m'i ndez\nMe ty jetoj, ty të kam jetë\n\nMe ty jetoj, ty të kam shpresë\nTy të kam diell\nMe ty jetoj, më bën në jetë\n\nAvujt shkrijnë kristalet ngadalë\nDhe emrin tënd formojnë ato mbi xham\nPrapë të ndjej\nFryma po më mbahet fjalët nuk i gjej\nOrët shkojnë\nDita po agon\n\n(Më bën në jetë)\n(Më bën në jetë)\n(Më bën në jetë)\n\nE di do të vish, si diell në mëngjes\nTë kam motiv, ty të kam shpresë\nËndrrat m'i fik, e dritat m'i ndez\nMe ty jetoj, ty të kam jetë\n\nMe ty jetoj, ty të kam shpresë\nTy të kam diell\nMe ty jetoj, me ty jetoj\nMë bën në jetë\nYeah…\n\nE di do të vish, si diell në mëngjes\nTë kam motiv, ty të kam shpreѕë\nËndrrat m'i fik, e dritаt m'i ndez\nMe ty jetoj, më bën në jetë"
+    }
+  ],
+  "bpm": 155,
+  "tone": "E major",
+  "artistPeople": [
+    "Elhaida Dani"
+  ],
+  "backings": [
+    "Erga Halilaj",
+    "Gerona Hyska",
+    "Olsa Papandili"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Chris",
+    "Zzap"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Sokol Marsi"
+  ],
+  "writers": null,
+  "broadcaster": "RTSH",
+  "commentators": [
+    "Andri Xhahu"
+  ],
+  "jury": [
+    "Arta Marku",
+    "Bojken Lako",
+    "Klodian Qafoku",
+    "Olsa Toqi",
+    "Zhani Ciko"
+  ],
+  "spokesperson": "Andri Xhahu"
+}

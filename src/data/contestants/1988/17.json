@@ -1,0 +1,60 @@
+{
+  "id": 17,
+  "country": "BE",
+  "artist": "Reynaert",
+  "song": "Laissez briller le soleil",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/lIYv5QJA9Os",
+    "https://www.youtube-nocookie.com/embed/r5tDuZJXe-Q",
+    "https://www.youtube-nocookie.com/embed/Uz4y8sgl5Zc",
+    "https://www.youtube-nocookie.com/embed/gkMmGgUx6n4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Laissez briller le soleil",
+      "content": "Ooh... des milliards d'humains sur terre\nCherchent la lumière\nBrûler des feux de l'enfer\n\nOoh... leurs idées qu'on assassine\nDans des camps, dans des mines\nEmprisonner le soleil\n\nOoh... moi, je sais que ça fait mal\nOoh... tu vois tout n'est pas normal\n\nOoh... dans les rues et dans les gares\nLe fond du désespoir\nDe ceux qui ont froid l'hiver\n\nOoh... et tous ces mioches qu'on mutile\nPour mendier l'inutile\nQue pensent-ils du soleil?\n\nOoh... moi, je sais que ça fait mal\nOoh... tu vois tout n'est pas normal\n\nOoh... que ferons-nous de la terre\nS'il n'y reste que des pierres\nA lancer dans l'univers?\n\nOoh... si nos folies meurtrières\nPouvaient enfin se taire\nLaissez briller le soleil\n\nWhoa... le soleil\nLaissez briller le soleil\n(Oui, le soleil)\nLaissez briller le soleil\n(Oui, le soleil)\nLаissez briller le ѕoleil"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Let the sun shine",
+      "content": "Ooh... billions of humans on earth\nSearch the light\nTo burn fierce fires\n\nOoh... their ideas, which are murdered\nIn camps, in mines\nTo imprison the sun\n\nOoh... I know that it hurts\nOoh... you see everything isn't normal\n\nOoh... in the streets and in the stations\nThe bottom of despair\nOf those who are cold in the winter\n\nOoh... and all those toddlers that are mutilated\nFor begging the useless\nWhat do they think of the sun?\n\nOoh... I know that it hurts\nOoh... you see everything isn't normal\n\nOoh... what will we do with the earth\nWhen only stones are left\nTo be launched into the universe?\n\nOoh... if our fatal madness\nCould finally be kept silent\nLet the sun shine\n\nWhoа... the sun\nLet the sun shine\n(Yes, the sun)\nLet the sun shine\n(Yes, the sun)\nLet the sun ѕhine"
+    }
+  ],
+  "bpm": 141,
+  "tone": "F major",
+  "artistPeople": [
+    "Joseph Reynaerts"
+  ],
+  "backings": [
+    "Françoise Vidick",
+    "Giovanni Turco"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Dany Willem",
+    "Joseph Reynaerts"
+  ],
+  "conductor": "Dany Willem",
+  "lyricists": [
+    "Philippe Anciaux",
+    "Joseph Reynaerts"
+  ],
+  "writers": null,
+  "broadcaster": "RTBF",
+  "commentators": [
+    "Luc Appermont",
+    "Pierre Collard-Bovy"
+  ],
+  "jury": null,
+  "spokesperson": "Jacques Olivier"
+}

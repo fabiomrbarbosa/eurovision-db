@@ -1,0 +1,46 @@
+{
+  "id": 15,
+  "country": "GB",
+  "artist": "Nicki French",
+  "song": "Don't Play That Song Again",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/HgtLmiZJUC4",
+    "https://www.youtube-nocookie.com/embed/Wls7D4Jcp2E",
+    "https://www.youtube-nocookie.com/embed/SYe2rk-BxM8",
+    "https://www.youtube-nocookie.com/embed/PIW7IKZfh2c"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Don't Play That Song Again",
+      "content": "Once I had a dream\nI thought we had everything\nLiving such a perfect life\nWe had it all\nAnd our love took flight\nDeep into the night\n\nNow I'm alone again\nBut I'm… I'm gonna be strong\nAnd the tears that I have cried\nYou'll never see\nOh… but crying in vain was never for me\n\nDon't play that song again\nReminding me of how it used to be\nDon't play that song again\nI wish it could be like before\nWhen you were here with me, oh yeah\nOh deejay, please don't play\nDon't play that song again (song again)\n\nTime, time changes everything\nAnd that's what they say\nBut it's too late for regrets\nWhen all's said and done\nIt just wasn't meant to be\nNow I'm the lonely one\n\nDon't play that song again\nReminding me of how it used to be\nDon't play that song again\nI wish it could be like before\nWhen you were here with me, oh yeah\nOh deejay, please don't play\nDon't play that song again\n\nDon't play that song again\nReminding me of how it used to be\nDon't play that song again\nI wish it could be like before\nWhen you were here with me, oh yeah\nOh deejay, please don't play\nDon't play that song again (song again)\n\nNo… oh deejay, please don't play\nDon't play that song again\nThat song again\nDon't play that ѕong agаin…"
+    }
+  ],
+  "bpm": 132,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Nicki French"
+  ],
+  "backings": [
+    "Julia West"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Gerry Shephard",
+    "John Springate"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Terry Wogan"
+  ],
+  "jury": null,
+  "spokesperson": "Colin Berry"
+}

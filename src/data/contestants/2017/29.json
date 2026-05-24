@@ -1,0 +1,64 @@
+{
+  "id": 29,
+  "country": "FI",
+  "artist": "Norma John",
+  "song": "Blackbird",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Ufba0nOz0fQ",
+    "https://www.youtube-nocookie.com/embed/PVwJ3PBr7WE",
+    "https://www.youtube-nocookie.com/embed/ipK0AH-6Dis",
+    "https://www.youtube-nocookie.com/embed/5Eb3UI-N1T8",
+    "https://www.youtube-nocookie.com/embed/y_A93E7yEAA",
+    "https://www.youtube-nocookie.com/embed/B0RD4QwhFNM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Blackbird",
+      "content": "Blackbird, blackbird, don't sing to me\nDon't sing below my window\nFly somewhere else, don't bother me\nDon't sing below my window\n\nYou sang when he was in my bed\nYou sang when my heart sang\nNow, now you remind me\nof something I'll never have\nSo, blackbird, don't sing\nBlackbird, don't sing\n\nBlackbird, blackbird I am now alone\nSomewhere else go make your home\nDon't nestle here, go find lovers of your own\nI am now alone\n\nYou sang when he was in my bed\nYou sang when my heart sang\nNow, now you remind me\nof something I'll never have\nSo, blackbird, don't sing\nBlackbird, don't sing\nBlackbird, don't sing\n\nYou sang when he was in my bed\nYou sang when my heart sang\nNow you remind me\nof something I'll never have\nSo, blackbird, don't sing\nBlackbird, don't sing\nBlаckbird, don't ѕing"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Mustarastas",
+      "content": "Mustarastas, mustarastas, älä laula minulle\nÄlä laula ikkunani alla\nLennä jonnekin muualle, älä häiritse minua\nÄlä laula ikkunani alla\n\nLauloit, kun hän oli sängyssäni\nLauloit, kun sydämeni lauloi\nNyt, nyt muistutat minua\nJostain mitä minulla ei tule koskaan olemaan\nJoten, mustarastas, älä laula\nMustarastas, älä laula\n\nMustarastas, mustarastas, olen nyt yksin\nMene jonnekin muualle tekemään kotiasi\nÄlä makaa täällä, mene etsimään omaa rakkautta\nOlen nyt yksin\n\nLauloit, kun hän oli sängyssäni\nLauloit, kun sydämeni lauloi\nNyt, nyt sinä muistutat minua\nJostain mitä minulla ei tule koskaan olemaan\nJoten, mustarastas, älä laula\nMustarastas, älä laula\nMustarastas, älä laula\n\nLauloit, kun hän oli sängyssäni\nLauloit, kun hän oli sängyssäni\nNyt sinä muistutat minua\nJostain mitä minulla ei tule koskaan olemaan\nJoten, mustarastas, älä laula\nMustarastas, älä laula\nMustarastaѕ, älä laulа"
+    }
+  ],
+  "bpm": 164,
+  "tone": "D major",
+  "artistPeople": [
+    "Leena Tirronen",
+    "Lasse Piirainen"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Reija Wäre",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Lasse Piirainen",
+    "Leena Tirronen"
+  ],
+  "broadcaster": "YLE",
+  "commentators": [
+    "Eva Frantz",
+    "Johan Lindroos",
+    "Mikko Silvennoinen"
+  ],
+  "jury": [
+    "Iisa Pajula",
+    "Kashwell",
+    "Marcus Sjöström",
+    "Roy Jonas Olsson",
+    "Vicky Rosti"
+  ],
+  "spokesperson": "Jenni Vartiainen"
+}

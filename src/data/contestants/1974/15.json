@@ -1,0 +1,69 @@
+{
+  "id": 15,
+  "country": "CH",
+  "artist": "Piera Martell",
+  "song": "Mein Ruf nach dir",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/wP_h6mpDIoY",
+    "https://www.youtube-nocookie.com/embed/E6-cGsvKY4A",
+    "https://www.youtube-nocookie.com/embed/MdBEtymiJ2o",
+    "https://www.youtube-nocookie.com/embed/q8yN_IUaarg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Mein Ruf nach dir",
+      "content": "Sehnsucht nach der Vergangenheit\nUnd die Erinnerung an unser Glück\nTreiben ein wildes Spiel mit mir\nUnd jeden Augenblick der Zeit\nIch hole ihn aus der Vergessenheit zurück\n\nMein Ruf nach dir\nDas wird ein Schrei der Liebe sein\nDas Lied der Sehnsucht singt dazu der Wind\n\nMein Ruf nach dir\nSoll wie ein Strahl der Sonne sein\nDer unsre Liebe neu zum Blühen bringt\n\nFragen ob sich mein Leben lohnt\nWenn es so weiter geht ganz ohne dich\nTage die nichts als Träume sind\nMein Leben ist ein leerer Raum\nDie Wirklichkeit ist nur ein Schattenbild für mich\n\nMein Ruf nach dir\nDas wird ein Schrei der Liebe sein\nDas Lied der Sehnsucht singt dazu der Wind\n\nMein Ruf nach dir\nSoll wie ein Strahl der Sonne sein\nDer unsre Liebe neu zum Blühen bringt\n\nOh… mein Ruf nach dir\nDas wird ein Schrei der Liebe sein\nDas Lied der Sehnsucht singt dazu der Wind\n\nMein Ruf nach dir\nSoll wie ein Strаhl der Sonne sein\nDer unsre Liebe neu zum Blühen bringt\n\nDer unѕre Liebe neu zum Blühen bringt"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "My call for you",
+      "content": "Desire to the past\nAnd the memory to our luck\nPlay a wild game with me\nAnd every moment in time\nI take them back from oblivion\n\nMy call for you\nWill be a cry of love\nThat's why the wind sings the song of desire\n\nMy call for you\nWill be like a sunbeam\nThat makes our love bloom again\n\nQuestions if my life's worthy\nIf it goes on without you\nDays that are nothing but dreams\nMy life is an empty space\nThe reality is just a silhouette for me\n\nMy call for you\nWill be a cry of love\nThat's why the wind sings the song of desire\n\nMy call for you\nWill be like a sunbeam\nThat makes our love bloom again\n\nOh, my call for you\nWill be a cry of love\nThat's why the wind sings the song of desire\n\nMy call for you\nWill be like a sunbeam\nThat makes our love bloom again\n\nThat makeѕ our love bloom agаin"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Il faut partir",
+      "content": "Pardon, mais je suis libre, et j'ai toujours le droit d'aller ailleurs\nPardon, mais je veux vivre, ici je me sens à l'étroit\nOù n'arriverai pas à retenir mon cœur\n\nIl faut partir lorsque l'amour vient nous chercher\nIl faut se libérer et tout quitter\nIl faut partir lorsque l'amour vient nous chercher\nIl faut prendre sa main et s'en aller\n\nPardon, la vie est belle quand on peut regarder toujours plus loin\nPardon, la vie m'appelle, il ne faut pas me retenir\nJe sais que l'avenir va commencer demain\n\nIl faut partir lorsque l'amour vient nous chercher\nIl faut se libérer et tout quitter\nIl faut partir lorsque l'amour vient nous chercher\nIl faut prendre sa main et s'en aller\n\nOh… il faut partir lorsque l'amour vient nous chercher\nIl faut se libérer et tout quitter\nIl faut partir lorsque l'amour vient nous chercher\nIl faut prendre sa main et ѕ'en аller"
+    }
+  ],
+  "bpm": 103,
+  "tone": "G minor",
+  "artistPeople": [
+    "Piera Martell"
+  ],
+  "backings": [
+    "Angelo Santi",
+    "Athina Amperiadou",
+    "Gerd Gudera",
+    "Irene Schwendimann",
+    "Sylvia Pyka"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Pepe Ederer",
+  "lyricists": null,
+  "writers": [
+    "Pepe Ederer"
+  ],
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Georges Hardy",
+    "Giovanni Bertini",
+    "Theodor Haller"
+  ],
+  "jury": null,
+  "spokesperson": "Michel Stocker"
+}

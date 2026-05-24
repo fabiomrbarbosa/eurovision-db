@@ -1,0 +1,67 @@
+{
+  "id": 10,
+  "country": "YU",
+  "artist": "Doris Dragović",
+  "song": "Željo moja",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/EZyOqsLnFw4",
+    "https://www.youtube-nocookie.com/embed/5bV6tqvRgl8",
+    "https://www.youtube-nocookie.com/embed/PmPj2M7iB-g",
+    "https://www.youtube-nocookie.com/embed/k78G8BK5Iz4",
+    "https://www.youtube-nocookie.com/embed/NknmFMlWbqk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "croatian"
+      ],
+      "displayedLanguages": null,
+      "title": "Željo moja",
+      "content": "Voljela sam te i još te volim\nDajem iskreno sve\nNoć je ova crna bez tebe\n\nAko ima sreće, vratit ćeš se\nMoja kazna, moj grijeh\nTiho, tiho, suzo, ne daj se\n\nŽeljo moja, tugo moja\nJoš sam tvoja, još si moj (Još si moj)\nSve, sve me boli od tebe\nŽeljo moja, tugo moja\n\nAko ima sreće, vratit ćeš se\nMoja kazna, moj grijeh\nTiho, tiho, suzo, ne daj se\n\nŽeljo moja, tugo moja\nJoš sam tvoja, još si moj (Još si moj)\nSve, sve me boli od tebe\nŽeljo moja, tugo moja\n\nSve, ѕve me boli od tebe\nŽeljo moja, tugo mojа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "My desire",
+      "content": "I loved you and still do\nI give it all truly\nThis night is dark without you\n\nIf there's luck, you'll come back\nMy punishment, my sin\nQuiet, quiet, my tear, don't give up\n\nMy desire, my sorrow\nI'm still yours, you're still mine\nEverything is aching because of you\nMy desire, my sorrow\n\nIf there's luck, you'll come back\nMy punishment, my sin\nQuiet, quiet, my tear, don't give up\n\nMy desire, my sorrow\nI'm still yours, you're still mine\nEverything is aching because of you\nMy desire, my sorrow\n\nEverything is aching becаuse of you\nMy desire, my ѕorrow"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "polish"
+      ],
+      "displayedLanguages": null,
+      "title": "Moje pragnienie",
+      "content": "Kochałem cię i nadal kocham\nDaję z siebie wszystko naprawdę\nTa noc jest ciemna bez ciebie\n\nJeśli będziesz miał szczęście, wrócisz\nMoja kara, mój grzech\nCicho, cicho, moja łza, nie poddawaj się\n\nMoje pragnienie, mój smutek\nNadal jestem twoja, ty nadal jesteś mój\nWszystko przez ciebie boli\nMoje pragnienie, mój smutek\n\nJeśli będziesz miał szczęście, wrócisz\nMoja kara, mój grzech\nCicho, cicho, moja łza, nie poddawaj się\n\nMoje pragnienie, mój smutek\nNadal jestem twoja, ty nadal jesteś mój\nWszystko przez ciebie boli\nMoje pragnienie, mój smutek\n\nWszystko przez ciebie boli\nMoje prаgnienie, mój ѕmutek"
+    }
+  ],
+  "bpm": 112,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Dorotea Dragović Budimir"
+  ],
+  "backings": [
+    "Mato Došen"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Nikica Kalogjera",
+  "lyricists": null,
+  "writers": [
+    "Zrinko Tutić"
+  ],
+  "broadcaster": "JRT",
+  "commentators": [
+    "Ksenija Urličić",
+    "Miša Molk",
+    "Mladen Popović",
+    "Oliver Mlakar"
+  ],
+  "jury": null,
+  "spokesperson": "Enver Petrovci"
+}

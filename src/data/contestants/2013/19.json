@@ -1,0 +1,71 @@
+{
+  "id": 19,
+  "country": "EE",
+  "artist": "Birgit",
+  "song": "Et uus saaks alguse",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Ooo6GvZNLhI",
+    "https://www.youtube-nocookie.com/embed/bLOunvCYRkM",
+    "https://www.youtube-nocookie.com/embed/brujFM_Ldcs",
+    "https://www.youtube-nocookie.com/embed/7-c1WKAoMFw",
+    "https://www.youtube-nocookie.com/embed/rc758xobMo8",
+    "https://www.youtube-nocookie.com/embed/oY98nV0MnUI",
+    "https://www.youtube-nocookie.com/embed/D3PhIOOteBk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "estonian"
+      ],
+      "displayedLanguages": null,
+      "title": "Et uus saaks alguse",
+      "content": "Ma mäletan veel\nKui tuli mu hinge, et jääda, see tunne nii suur\nSamas nüüd seisan ma teel\nVaadates südame sisse, seal viliseb tuul\nAga tean, ma tean\nKõik võib muuta heaks\nIga uks, mis kord sulgub, see avaneb taas\n\nVeel sulab jää ja õide puhkeb raagus puu\nIga lõpp ei ole muud kui algus uus\nOn vaja ööd, et päev tooks valguse\nEt uus saaks alguse\nMis möödund, jäägu kaugele\nEt uus saaks taas alguse\n\nKardin avaneb taas\nOn algamas järgmine vaatus, kus tõusta saan maast\nSama hing, kuid uus mäng veel ees\nMuudetud saab minu saatus, saab uueks mu tee\nJa ma tean, ma tean\nKõik võib muuta heaks\nIga uks, mis kord sulgub, see avaneb taas\n\nVeel sulab jää ja õide puhkeb raagus puu\nIga lõpp ei ole muud kui algus uus\nOn vaja ööd, et päev tooks valguse\nEt uus saaks alguse\nMis möödund, jäägu kaugele\n\nVeel sulab jää ja õide puhkeb raagus puu\nIga lõpp ei ole muud kui algus uus\nOn vaja ööd, et päev tooks valguse\nEt uus saaks alguse\nMis möödund, jäägu kaugele\nEt uus saaks taas аlguѕe"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "So there can be a new beginning",
+      "content": "I still remember\nWhen that great feeling came to stay within my soul\nNow, I'm standing on the road\nLooking into my heart, where the wind is whistling\nBut I know, I know\nEverything may change for the better\nEvery door that closes, will once open again\n\nThe ice will melt again and the leafless tree will blossom\nEvery end is just a new beginning\nWe need the night, so the day can bring light\nSo there can be a new beginning\nLet the past be past\nSo there can be a new beginning again\n\nThe curtain opens again\nThe next act is about to begin, where I get up\nThe same  soul, but with a new game ahead\nMy destiny can be changed, my path renewed\nAnd I know, I know\nEverything may change for the better\nEvery door that closes, will once open again\n\nThe ice will melt again and the leafless tree will blossom\nEvery end is just a new beginning\nWe need the night, so the day can bring light\nSo there can be a new beginning\nLet the past be past\n\nThe ice will melt again and the leafless tree will blossom\nEvery end is just a new beginning\nWe need the night, so the day can bring light\nSo there can be a new beginning\nLet the past be paѕt\nSo there can be a new beginning agаin"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Para un nuevo comienzo",
+      "content": "Aún recuerdo\nCuando ese gran sentimiento vino a quedarse en mi corazón\nAhora estoy ante el camino\nObservando mi corazón, en donde sopla el viento\nPero sé, lo sé…\nQue todo puede cambiar para mejor\nToda puerta que se cierra, se volverá a abrir\n\nEl hielo se derretirá de nuevo y los árboles sin hojas florecerán\nTodo final es sólo un nuevo comienzo\nNecesitamos la noche, así el día traerá luz\nPara que pueda haber un nuevo comienzo\nDeja al pasado en el pasado\nPara que, de nuevo, exista un nuevo comienzo\n\nLa cortina se vuelve a abrir\nLa siguiente actuación está a punto de comenzar, donde me levanto\nCon la misma alma, pero con un juego nuevo por delante\nMi destino puede cambiar, mi sendero renovarse\nY sé, lo sé…\nQue todo puede cambiar para mejor\nToda puerta que se cierra, se volverá a abrir\n\nEl hielo se derretirá de nuevo y los árboles sin hojas florecerán\nTodo final es sólo un nuevo comienzo\nNecesitamos la noche, así el día traerá luz\nPara que pueda haber un nuevo comienzo\nDeja al pasado en el pasado\n\nEl hielo se derretirá de nuevo y los árboles sin hojas florecerán\nTodo final es sólo un nuevo comienzo\nNecesitamos la noche, así el día traerá luz\nPara que pueda haber un nuevo comienzo\nDeja al pasado en el paѕado\nPara que pueda hаber un nuevo comienzo"
+    }
+  ],
+  "bpm": 155,
+  "tone": "F major",
+  "artistPeople": [
+    "Birgit Õigemeel"
+  ],
+  "backings": [
+    "Kaido Põldma",
+    "Lauri Pihlap",
+    "Raimondo Laikre"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Mihkel Mattisen"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Mihkel Mattisen",
+    "Silvia Soro"
+  ],
+  "writers": null,
+  "broadcaster": "ERR",
+  "commentators": [
+    "Marko Reikop"
+  ],
+  "jury": null,
+  "spokesperson": "Rolf Roosalu"
+}

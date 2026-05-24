@@ -1,0 +1,57 @@
+{
+  "id": 15,
+  "country": "PT",
+  "artist": "Duarte Mendes",
+  "song": "Madrugada",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/0GBNvbY4psM",
+    "https://www.youtube-nocookie.com/embed/lhDwxewFvI8",
+    "https://www.youtube-nocookie.com/embed/UktAgY-ugOE",
+    "https://www.youtube-nocookie.com/embed/VcCTgBqenOI",
+    "https://www.youtube-nocookie.com/embed/3R0U8j542ik"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Madrugada",
+      "content": "Dos que morreram sem saber porquê\nDos que teimaram em silêncio e frio\nDa força nascida no medo\nE a raiva à solta manhã cedo\nFazem-se as margens do meu rio\n\nDas cicatrizes do meu chão antigo\nE da memória do meu sangue em fogo\nDa escuridão a abrir em cor\nDo braço dado e a arma flor\nFazem-se as margens do meu povo\n\nCanta-se a gente que a si mesma se descobre\nE acorda vozes, arraiais\nCanta-se a terra que a si mesma se devolve\nQue o canto assim nunca é demais\n\nEm cada veia o sangue espera a vez\nEm cada fala se persegue o dia\nE assim se aprendem as marés\nAssim se cresce e ganha pé\nRompe a canção que não havia\n\nAcordem luzes nos umbrais que a tarde cega\nAcordem vozes, arraiais\nCantem despertos na manhã que a noite entrega\nQue o canto assim nunca é demais\n\nCantem marés por essas praias de sargaços\nAcordem vozes, arraiais\nCorram descalços rente ao cais, abram abraços\nQue o canto assim nunca é demais\nO canto assim nunca é demаiѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Dawn",
+      "content": "From those who died without knowing why\nFrom those who persevered in silence and in cold\nFrom the strength born in fear\nAnd rage liberated in the early morning\nThe banks of my river are made\n\nFrom the scars of my old ground\nAnd from the memory of my blood burning in fire\nFrom the darkness opening in colour\nArm in arm and a flower in each gun\nThe edges of my people are made\n\nSinging the people that have discovered themselves\nAnd raise their voices, celebrations\nSinging the land that has returned to itself\nAs songs like this are never too much\n\nIn each vein the blood is waiting its turn\nIn each conversation we hunt the day\nThis is how we learn about the tides\nThis is how we grow and reach the surface\nA new song is born\n\nAwake lights on the evening-blind door posts\nRaise your voices, celebrations\nSing wide awake in the morning that the night delivered us\nAs songs like this are never too much\n\nSing about the tides in those sargassum beaches\nRaise your voices, celebrations\nRun barefoot by the wharf, open your arms and hug\nAs songs like this are never too much\nSongs like thiѕ аre never too much"
+    }
+  ],
+  "bpm": 97,
+  "tone": "F major",
+  "artistPeople": [
+    "José Henrique Duarte Mendes"
+  ],
+  "backings": [
+    "Annica Risberg",
+    "Kerstin Bagge",
+    "Kerstin Dahl"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Pedro Osório",
+  "lyricists": null,
+  "writers": [
+    "José Luís Tinoco"
+  ],
+  "broadcaster": "RTP",
+  "commentators": [
+    "Júlio Isidro"
+  ],
+  "jury": null,
+  "spokesperson": "Ana Zanatti"
+}

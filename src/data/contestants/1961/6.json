@@ -1,0 +1,62 @@
+{
+  "id": 6,
+  "country": "NO",
+  "artist": "Nora Brockstedt",
+  "song": "Sommer i Palma",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5i_BCD46-fo",
+    "https://www.youtube-nocookie.com/embed/9DYLmR6JkWE",
+    "https://www.youtube-nocookie.com/embed/4o7LDNJqYA4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "norwegian"
+      ],
+      "displayedLanguages": null,
+      "title": "Sommer i Palma",
+      "content": "Jeg ble din venn, og hvisket \"chéri \"\nHele ditt svar var \"sí, sí \"\nDønninger slår mot land, solen i brann\nSommer ved Palmas strand\n\nSi \"mon amour \", bli mon amour\nSer du palmene bever, havfugler svever\nAlt i skjønn harmoni?\n\nSi \"mon amour \", bli mon amour\nHør gitarene spiller vår melodi\nNattens bønn: kom til meg, chéri\n\nKan ei ditt språk, det er som musikk\nMen jeg forstår dine blikk\nLa meg da nok en gang høre dets klang\nLytte til sydens sang\n\nSi \"mon amour \", bli mon amour\nSer du palmene bever, havfugler svever\nAlt i skjønn harmoni?\n\nBli mon amour , si \"mon amour \"\nHør gitarene spiller vår melodi\nNаttenѕ bønn: kom til meg, chéri"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": null,
+      "title": "Καλοκαίρι στην Πάλμα",
+      "content": "Έγινα φίλη σου και σου ψιθύρισα \"αγαπητέ\"\nΗ μόνη σου απάντηση ήταν \"ναι, ναι\"\nΚύματα χτυπάνε την ακρογιαλιά, ο ήλιος καίγεται\nΚαλοκαίρι στη παραλία της Πάλμα\n\nΠες \"αγάπη μου\", γίνε η αγάπη μου\nΜπορείς να δεις τις παλάμες μου να τρέμουν, τα πουλιά να φτερουγίζουν\nΌλα σε μία γλυκιά αρμονία\n\nΠες \"αγάπη μου\", γίνε η αγάπη μου\nΆκουσε τις κιθάρες που παίζουν τη μελωδία μας\nΗ νυχτερινή προσευχή: Έλα σε μένα, αγαπητέ\n\nΔεν καταλαβαίνω τη γλώσσα σου, είναι σαν μουσική\nΑλλά καταλαβαίνω τις ματιές που μου δίνεις\nΆφησε με να ξανακούσω τον τόνο της\nΆκουσε το τραγούδι του νότου\n\nΠες \"αγάπη μου\", γίνε η αγάπη μου\nΜπορείς να δεις τις παλάμες μου να τρέμουν, τα πουλιά να φτερουγίζουν\nΌλα σε μία γλυκιά αρμονία\n\nΠες \"αγάπη μου\", γίνε η αγάπη μου\nΆκουσε τις κιθάρες που παίζουν τη μελωδία μας\nΗ νυχτερινή προσευχή: Έλα σε μένα, αγαπητέ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Summer in Palma",
+      "content": "I became your friend and whispered \"darling\"\nYour only answer was \"yes, yes\"\nWaves beat against the shore, the sun is on fire\nSummer at Palma beach\n\nSay \"my love\" , be my love\nCan you see the palms trembling, seabirds hovering\nAll in sweet harmony?\n\nSay \"my love\" , be my love\nHear the guitars play our melody\nThe prayer of night: come to me, darling\n\nI don't understand your language, it's like music\nBut I understand the looks you are sending\nLet me once again hear its tone\nListen to the song of the south\n\nSay \"my love\" , be my love\nCan you see the palms trembling, seabirds hovering\nAll in sweet harmony?\n\nBe my love , say \"my love\"\nHear the guitarѕ play our melody\nThe prayer of night: come to me, dаrling"
+    }
+  ],
+  "bpm": 163,
+  "tone": "E minor",
+  "artistPeople": [
+    "Nora Brockstedt"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jan Wølner"
+  ],
+  "conductor": "Øivind Bergh",
+  "lyricists": [
+    "Egil Hagen"
+  ],
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "Leif Rustad"
+  ],
+  "jury": null,
+  "spokesperson": "Mette Janson"
+}

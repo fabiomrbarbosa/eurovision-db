@@ -17,13 +17,12 @@
     city: string;
     country: string;
     slogan: string | null;
-    winner: { country: string; artist: string; song: string; points: number | null } | null;
+    winner: { contestantId: number; country: string; artist: string; song: string; points: number | null } | null;
     contestants: ContestantEntry[];
   }
 
   interface SearchHit {
-    type: 'contest' | 'contestant';
-    year: number;
+    type: 'contest' | 'song' | 'country';
     flag: string;
     label: string;
     sublabel: string;
@@ -36,7 +35,10 @@
   let hits: SearchHit[] = $state([]);
   let loading = $state(false);
   let open = $state(false);
+  let activeIndex = $state(-1);
   let inputEl: HTMLInputElement;
+  let listEl: HTMLUListElement = $state()!;
+  let debounceTimer: ReturnType<typeof setTimeout> | null = null;
 
   onMount(async () => {
     loading = true;
@@ -60,66 +62,101 @@
 
   $effect(() => {
     const q = query.trim().toLowerCase();
+    if (debounceTimer) clearTimeout(debounceTimer);
+
     if (!q || q.length < 2) {
       hits = [];
       open = false;
       return;
     }
 
-    const results: SearchHit[] = [];
+    debounceTimer = setTimeout(() => {
+      const countryHits: SearchHit[] = [];
+      const contestHits: SearchHit[] = [];
+      const songHits: SearchHit[] = [];
 
-    for (const entry of index) {
-      if (results.length >= 40) break;
-
-      const hostName = countryName(entry.country).toLowerCase();
-
-      // Contest match
-      if (
-        String(entry.year).includes(q) ||
-        entry.city.toLowerCase().includes(q) ||
-        hostName.includes(q) ||
-        (entry.slogan?.toLowerCase().includes(q))
-      ) {
-        results.push({
-          type: 'contest',
-          year: entry.year,
-          flag: countryFlagUrl(entry.country),
-          label: `${entry.year} · ${entry.city}`,
-          sublabel: countryName(entry.country),
-          href: `/contest/${entry.year}`,
-        });
-        continue; // one hit per year at the contest level
-      }
-
-      // Contestant match
-      for (const c of entry.contestants) {
-        if (results.length >= 40) break;
-        const cName = countryName(c.country).toLowerCase();
-        if (
-          c.artist.toLowerCase().includes(q) ||
-          c.song.toLowerCase().includes(q) ||
-          cName.includes(q)
-        ) {
-          results.push({
-            type: 'contestant',
-            year: entry.year,
-            flag: countryFlagUrl(c.country),
-            label: `${c.artist} — ${c.song}`,
-            sublabel: `${countryName(c.country)} · ${entry.year}`,
-            href: `/contest/${entry.year}`,
+      // Pass 1 — country pages (highest priority, one hit per matching country name)
+      // Also collect the matching country codes for use in Pass 2.
+      const matchingCodes = new Set<string>();
+      for (const [code, name] of Object.entries(countryMap)) {
+        if (name.toLowerCase().includes(q)) {
+          matchingCodes.add(code);
+          countryHits.push({
+            type: 'country',
+            flag: countryFlagUrl(code),
+            label: name,
+            sublabel: '',
+            href: `/country/${code}`,
           });
         }
       }
-    }
+      countryHits.sort((a, b) => a.label.localeCompare(b.label));
 
-    hits = results;
-    open = results.length > 0;
+      // Pass 2 — contests and songs.
+      // Contest matches: year/city title OR the country hosted it (from Pass 1).
+      // Song matches: artist/title OR the country sent it (from Pass 1).
+      // When a contest matches by title we skip its song loop (one hit per edition
+      // for title searches like "2022"); country-code matches don't trigger that skip
+      // so all of a country's songs still appear.
+      for (const entry of index) {
+        const contestTitleMatch = String(entry.year).includes(q) || entry.city.toLowerCase().includes(q);
+        const hostMatch = matchingCodes.has(entry.country);
+
+        if (contestTitleMatch || hostMatch) {
+          contestHits.push({
+            type: 'contest',
+            flag: countryFlagUrl(entry.country),
+            label: `${entry.year} · ${entry.city}`,
+            sublabel: countryName(entry.country),
+            href: `/contest/${entry.year}`,
+          });
+          if (contestTitleMatch) continue; // title match → skip song scan for this edition
+        }
+
+        for (const c of entry.contestants) {
+          const songTitleMatch = c.artist.toLowerCase().includes(q) || c.song.toLowerCase().includes(q);
+          const sentByMatch = matchingCodes.has(c.country);
+          if (songTitleMatch || sentByMatch) {
+            songHits.push({
+              type: 'song',
+              flag: countryFlagUrl(c.country),
+              label: `${c.artist} — ${c.song}`,
+              sublabel: `${countryName(c.country)} · ${entry.year}`,
+              href: `/contest/${entry.year}/contestant/${c.id}`,
+            });
+          }
+        }
+      }
+
+      hits = [...countryHits, ...contestHits, ...songHits].slice(0, 40);
+      activeIndex = -1;
+      open = hits.length > 0;
+    }, 150);
   });
+
+  function scrollActive() {
+    if (!listEl) return;
+    const item = listEl.querySelector(`[data-idx="${activeIndex}"]`) as HTMLElement | null;
+    item?.scrollIntoView({ block: 'nearest' });
+  }
 
   function handleKey(e: KeyboardEvent) {
     if (e.key === 'Escape') {
       query = '';
       open = false;
+      activeIndex = -1;
+    } else if (e.key === 'ArrowDown') {
+      e.preventDefault();
+      if (!open && hits.length) { open = true; return; }
+      activeIndex = Math.min(activeIndex + 1, hits.length - 1);
+      scrollActive();
+    } else if (e.key === 'ArrowUp') {
+      e.preventDefault();
+      activeIndex = Math.max(activeIndex - 1, -1);
+      scrollActive();
+    } else if (e.key === 'Enter' && activeIndex >= 0) {
+      e.preventDefault();
+      select(hits[activeIndex].href);
     }
   }
 
@@ -137,6 +174,11 @@
       onkeydown={handleKey}
       onfocus={() => { if (hits.length) open = true; }}
       type="search"
+      role="combobox"
+      aria-expanded={open}
+      aria-haspopup="listbox"
+      aria-controls="search-listbox"
+      aria-activedescendant={activeIndex >= 0 ? `result-${activeIndex}` : undefined}
       placeholder="Search contests, artists, songs, countries…"
       autocomplete="off"
       spellcheck="false"
@@ -144,21 +186,23 @@
   </div>
 
   {#if open && hits.length > 0}
-    <ul class="results" role="listbox">
-      {#each hits as hit}
+    <ul class="results" role="listbox" id="search-listbox" bind:this={listEl}>
+      {#each hits as hit, i}
         <li
+          id="result-{i}"
+          data-idx={i}
           role="option"
-          aria-selected="false"
+          aria-selected={i === activeIndex}
+          class:active={i === activeIndex}
           onclick={() => select(hit.href)}
-          onkeydown={(e) => e.key === 'Enter' && select(hit.href)}
-          tabindex="0"
+          onkeydown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); select(hit.href); } }}
+          onmouseenter={() => { activeIndex = i; }}
+          tabindex="-1"
         >
           <img class="hit-flag" src={hit.flag} alt="" />
           <span class="hit-label">{hit.label}</span>
           <span class="hit-sub">{hit.sublabel}</span>
-          {#if hit.type === 'contest'}
-            <span class="hit-badge">contest</span>
-          {/if}
+          <span class="hit-badge hit-badge--{hit.type}">{hit.type}</span>
         </li>
       {/each}
     </ul>
@@ -236,7 +280,7 @@
     flex-shrink: 0;
   }
   li:last-child { border-bottom: none; }
-  li:hover, li:focus { background: var(--c-hover); outline: none; }
+  li:hover, li.active { background: var(--c-hover); outline: none; }
 
   .hit-label { font-size: 0.9rem; flex-shrink: 0; }
   .hit-sub {
@@ -251,10 +295,23 @@
     font-family: var(--f-mono);
     font-size: 0.65rem;
     padding: 0.1em 0.4em;
-    background: var(--c-surface-gold);
-    border: 1px solid var(--c-gold-dim);
-    color: var(--c-gold);
     border-radius: var(--radius);
+    border: 1px solid;
     flex-shrink: 0;
+  }
+  .hit-badge--contest {
+    background: var(--c-surface-gold);
+    border-color: var(--c-gold-dim);
+    color: var(--c-gold);
+  }
+  .hit-badge--country {
+    background: color-mix(in srgb, var(--c-cyan) 10%, transparent);
+    border-color: color-mix(in srgb, var(--c-cyan) 30%, transparent);
+    color: var(--c-cyan);
+  }
+  .hit-badge--song {
+    background: color-mix(in srgb, var(--c-magenta) 10%, transparent);
+    border-color: color-mix(in srgb, var(--c-magenta) 30%, transparent);
+    color: var(--c-magenta);
   }
 </style>

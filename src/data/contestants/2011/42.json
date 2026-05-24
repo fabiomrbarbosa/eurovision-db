@@ -1,0 +1,61 @@
+{
+  "id": 42,
+  "country": "NL",
+  "artist": "3JS",
+  "song": "Never Alone",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/oJ6T43D82KY",
+    "https://www.youtube-nocookie.com/embed/DgeSSI-oyw0",
+    "https://www.youtube-nocookie.com/embed/NGKQ5q3MvmA",
+    "https://www.youtube-nocookie.com/embed/VnnXiuT530M"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Never Alone",
+      "content": "Awake your heart\nYou fear it, but we'll make a start\nSeems like the wind just blows your way\nWith clouds full of rain\n\nAnd you hide, because the world ain't right\nKnow that your cold and hurtin' soul\nIs never alone\n\nDon't waste your time\nJust lift your mind\nImagination comes alive\nNow you know that I'll be by your side\n\nFeel the risin' hope and the sky will open\nTake my hand, don't stall, have faith\nThough the road is long, there are golden gardens\nAt the sweet end of your trail\n\nLay down now, I'll ease your heart, erase your frown\nTo light up the darkness in your dreams\nI will be here\n\nAnd we'll find the freedom you left behind\nCapture the sun, the source, it shone\nYou were never alone\n\nDon't waste your time\nJust lift your mind\nImagination comes alive\nNow you know that I'll be by your side\n\nFeel the risin' hope and the sky will open\nTake my hand, don't stall, have faith\nThough the road is long, there are golden gardens\nAt the sweet end of your trail\n\nThough the road is long, there are golden gardens\nAt the sweet end of your trail\nAt the ѕweet end of your trаil"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "Je vecht nooit alleen",
+      "content": "Weet je schat\nWe zien het soms een beetje zwart\nSoms lijkt de wereld om je heen\nKoud en gemeen\n\nEn je strijdt\nOmdat de aarde lijdt\nMaar zelfs als de zon voorgoed verdween\nJe vecht nooit alleen\n\nWant je hebt de tijd de eeuwigheid\nDe verbeelding aan je zij\nEn je weet daar zal ik altijd zijn\n\nAls je mij belooft, dat je blijft geloven\nDat een mens krijgt wat hij geeft\nIn je grootste zorg, zit de hoop verborgen\nDat wie lief heeft overleeft\n\nStil maar lief\nJe piekert want het wil maar niet\nGa waar de wind je vleugels vindt, ontstijgt je verdriet\nEn je vraagt wie dan de aarde draagt\nKijk naar de zon, de bron, ze scheen\nJe was nooit alleen\n\nWant je hebt de tijd, de eeuwigheid\nDe verbeelding aan je zij\nEn je weet daar zal ik altijd zijn\nAls je mij belooft, dat je blijft geloven\nDat een mens krijgt wat hij geeft\n\nIn je grootste zorg, zit de hoop verborgen\nDat wie lief heeft overleeft\nIn je grootѕte zorg, zit de hoop verborgen\nDat wie lief heeft overleeft\nDаt wie lief heeft overleeft"
+    }
+  ],
+  "bpm": 98,
+  "tone": "C major",
+  "artistPeople": [
+    "Jaap Schilder",
+    "Jaap Kwakman",
+    "Jan Keuken"
+  ],
+  "backings": [
+    "Brian Zalmijn",
+    "Lesley van der Aa",
+    "Michèle van der Aa"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Jaap de Witte",
+    "Jaap Kwakman",
+    "Jan Dulles"
+  ],
+  "broadcaster": "TROS",
+  "commentators": [
+    "Daniël Dekker",
+    "Jan Smit"
+  ],
+  "jury": null,
+  "spokesperson": "Mandy Huydts"
+}

@@ -1,0 +1,57 @@
+{
+  "id": 7,
+  "country": "SE",
+  "artist": "Lars Berghagen and the Dolls",
+  "song": "Jennie, Jennie",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/8SzFkI2dsD4",
+    "https://www.youtube-nocookie.com/embed/0o2ks5Ay24o",
+    "https://www.youtube-nocookie.com/embed/Q6OWz5sqYxU",
+    "https://www.youtube-nocookie.com/embed/Ofw5q7WYMpk",
+    "https://www.youtube-nocookie.com/embed/espRrQthTvM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Jennie, Jennie",
+      "content": "I know that tonight you're alone\nIn your room with a note in your hand\nIn your dreams you're regretting\nBut never forgetting That often, you doubt where you stand\n\nYour phonograph spins out a tune\nYou see pictures in your memory\nI know that you're crying, but there's no denying\nThat time has a different melody\n\nJennie, Jennie, Jennie, Jennie\nCan't you see the world is yours?\nJennie, Jennie, Jennie, Jennie\nLife has still so much in store to give you\nJennie, Jennie, Jennie, Jennie\nYou must change your tune somehow\nJennie, Jennie, Jennie, Jennie\nLive your life and live it now\n\nYou long for the world that you loved\nAnd you want to be there once again\nBut your diary's confessions\nAre like signs that the ocean\nErased forever from the sand\n\nJennie, Jennie, Jennie, Jennie\nCan't you see the world is yours?\nJennie, Jennie, Jennie, Jennie\nLife has still so much in store to give you\nJennie, Jennie, Jennie, Jennie\nYou must change your tune somehow\nJennie, Jennie, Jennie, Jennie\nLive your life and live it now\n\nJennie, Jennie, Jennie, Jennie\nCan't you see the world is yours?\nJennie, Jennie, Jennie, Jennie\nLife has still so much in store to give you\nJennie, Jennie, Jennie, Jennie\nYou must change your tune ѕomehow\nJennie, Jennie, Jennie, Jennie\nLive your life аnd live it now"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Jennie, Jennie",
+      "content": "Jag vet att du sitter i kväll\nPå ditt rum med ett brev i din hand\nDu vill blunda och drömma\nMen kan inte glömma att allt känns så hopplöst ibland\n\nDu spelar en skiva och minns\nNågra bilden du har i ett skrin\nJag vet att du gråter kanske aldrig förlåter\nAtt tiden förändrat melodin\n\nJennie, Jennie, Jennie, Jennie\nVärlden väntar på ditt svar\nJennie, Jennie, Jennie, Jennie\nLivet har så mycket kvar att ge dig\nJennie, Jennie, Jennie, Jennie\nMelodin bestämmer du\nJennie, Jennie, Jennie, Jennie\nLev ditt liv och lev det nu\n\nDu vill vända tillbaka i kväll\nTill den värld du levt i förut\nMen din dagbok i handen\nÄr som tecken i sanden\nSom havet nästan suddat ut\n\nJennie, Jennie, Jennie, Jennie\nVärlden väntar på ditt svar\nJennie, Jennie, Jennie, Jennie\nLivet har så mycket kvar att ge dig\nJennie, Jennie, Jennie, Jennie\nMelodin bestämmer du\nJennie, Jennie, Jennie, Jennie\nLev ditt liv och lev det nu\n\nJennie, Jennie, Jennie, Jennie\nVärlden väntar på ditt svar\nJennie, Jennie, Jennie, Jennie\nLivet har så mycket kvar att ge dig\nJennie, Jennie, Jennie, Jennie\nMelodin bestämmer du\nJennie, Jennie, Jennie, Jennie\nLev ditt liv och lev det nu\n\nJennie, Jennie, Jennie, Jennie\nVärlden väntar på ditt ѕvаr\nJennie, Jennie, Jennie, Jennie"
+    }
+  ],
+  "bpm": 96,
+  "tone": "G minor",
+  "artistPeople": [
+    "Lars Berghagen"
+  ],
+  "backings": [
+    "Annica Risberg",
+    "Kerstin Bagge",
+    "Kerstin Dahl"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Lars Samuelson",
+  "lyricists": null,
+  "writers": [
+    "Lars Berghagen"
+  ],
+  "broadcaster": "SR",
+  "commentators": [
+    "Åke Strömmer"
+  ],
+  "jury": null,
+  "spokesperson": "Sven Lindahl"
+}

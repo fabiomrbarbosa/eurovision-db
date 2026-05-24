@@ -1,0 +1,72 @@
+{
+  "id": 12,
+  "country": "MK",
+  "artist": "Kaliopi",
+  "song": "Crno I Belo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/MSuCdNEy9w0",
+    "https://www.youtube-nocookie.com/embed/vpYF_B_mAIw",
+    "https://www.youtube-nocookie.com/embed/98FZchoQxvc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "macedonian"
+      ],
+      "displayedLanguages": [
+        "македонски"
+      ],
+      "title": "Црно и бело",
+      "content": "Во очи сега гледај ме\nНе сум губитник ти знај\nНе се предавам до крај\nНема раѓање без паѓање\n\nОтвори душа признај ми\nШто сме сега јас и ти\nПола мое во тебе\nА пола твое спие во мене\nАјде сега гушни ме до небо дигни ме\n\nЦрно и бело е сè\nЕдна вистина и една лага\nИако заедно сме\nЈас бирам среќа, ти бираш тага\nЦрно и бело е сè\nДобро и лошо ништо не ги дели\nДај сега насмевни се\nДенот ме води во ноќи бели\n\nВо очи сега гледај ме\nТаму ти ќе најдеш сè\nАјде предај се до крај\nЗа ново раѓање, со мене\n\nОтвори душа признај ми\nШто сме сега јас и ти\nПола мое во тебе\nА пола твое спие во мене\nАјде сега гушни ме до небо дигни ме\n\nЦрно и бело е сè\nЕдна вистина и една лага\nИако заедно сме\nЈас бирам среќа, ти бираш тага\nЦрно и бело е сè\nДобро и лошо ништо не ги дели\nДај сега насмевни се\nДенот ме води во ноќи бели\n\nЦрно и бело е сè\nЕдна вистина и една лага\nИако заедно сме\nЈас бирам среќа, ти бираш тага\n\nЦрно и бело е сè\nДобро и лошо ништо не ги дели\nДај сега насмевни се\nДенот ме води во ноќи бели\nЦрно и бело е сè"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "macedonian"
+      ],
+      "displayedLanguages": [
+        "makedonski"
+      ],
+      "title": "Crno I Belo",
+      "content": "Vo oči sega gledaj me\nNe sum gubitnik ti znaj\nNe se predavam do kraj\nNema rađanje bez pađanje\n\nOtvori duša priznaj mi\nŠto sme sega jas i ti\nPola moe vo tebe\nA pola tvoe spie vo mene\nAjde sega gušni me do nebo digni me\n\nCrno i belo e sè\nEdna vistina i edna laga\nIako zaedno sme\nJas biram sreća, ti biraš taga\nCrno i belo e sè\nDobro i lošo ništo ne gi deli\nDaj sega nasmevni se\nDenot me vodi vo noći beli\n\nVo oči sega gledaj me\nTamu ti će najdeš sè\nAjde predaj se do kraj\nZa novo rađanje, so mene\n\nOtvori duša priznaj mi\nŠto sme sega jas i ti\nPola moe vo tebe\nA pola tvoe spie vo mene\nAjde sega gušni me do nebo digni me\n\nCrno i belo e sè\nEdna vistina i edna laga\nIako zaedno sme\nJas biram sreća, ti biraš taga\nCrno i belo e sè\nDobro i lošo ništo ne gi deli\nDaj sega nasmevni se\nDenot me vodi vo noći beli\n\nCrno i belo e sè\nEdna vistina i edna laga\nIako zaedno sme\nJas biram sreća, ti biraš taga\n\nCrno i belo e sè\nDobro i lošo ništo ne gi deli\nDaj sega nаsmevni se\nDenot me vodi vo noći beli\nCrno i belo e ѕè"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Black and white",
+      "content": "Look into my eyes now\nI'm not a loser, you know\nI don't give in until the end\nThere is no birth without falling\n\nOpen your soul and admit to me\nWhat we are now, you and me\nHalf of me is in you\nAnd half of you is sleeping in me\nCome on and hug me, raise me to the heavens\n\nEverything is black and white\nOne truth and one lie\nAnd when we are together\nI choose happiness, you choose sorrow\nEverything is black and white\nNothing separates good and bad\nCome on and smile\nThe day is leading me to the white nights\n\nLook into my eyes now\nYou will find everything there\nCome on, give yourself to the end\nFor a new rebirth with me\n\nOpen your soul and admit to me\nWhat we are now, you and me\nHalf of me is in you\nAnd half of you is sleeping in me\nCome on and hug me, raise me to the heavens\n\nEverything is black and white\nOne truth and one lie\nAnd when we are together\nI choose happiness, you choose sorrow\nEverything is black and white\nNothing separates good and bad\nCome on and smile\nThe day is leading you to the white nights\n\nEverything is black and white\nOne truth and one lie\nAnd when we are together\nI choose happiness, you choose sorrow\n\nEverything is black and white\nNothing separates good and bad\nCome on and smile\nThe day is leading me to the white nights\nEverything iѕ black аnd white"
+    }
+  ],
+  "bpm": 130,
+  "tone": "D minor",
+  "artistPeople": [
+    "Kaliopi Bukle (Калиопи Букле)"
+  ],
+  "backings": [
+    "Darko Veleski",
+    "Goran Mihajlovski",
+    "Iris Stefanovska",
+    "Mario Stanković",
+    "Sanja Jovanovska"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Romeo Grill"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Kaliopi"
+  ],
+  "writers": null,
+  "broadcaster": "MKRTV",
+  "commentators": [
+    "Karolina Petkovska"
+  ],
+  "jury": null,
+  "spokesperson": "Kristina Talevska"
+}

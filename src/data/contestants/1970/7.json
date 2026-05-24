@@ -1,0 +1,54 @@
+{
+  "id": 7,
+  "country": "IT",
+  "artist": "Gianni Morandi",
+  "song": "Occhi di ragazza",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/UO57JtKbWTQ",
+    "https://www.youtube-nocookie.com/embed/oz82TmYfx-0",
+    "https://www.youtube-nocookie.com/embed/kEo00o8e_W0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Occhi di ragazza",
+      "content": "Occhi di ragazza, quanti cieli, quanti mari che m'aspettano\nOcchi di ragazza, se vi guardo, vedo i sogni che farò\nPartiremo insieme per un viaggio per città che non conosco\nQuante primavere che verranno, che felici ci faranno\nSono già negli occhi tuoi\n\nOcchi di ragazza, io vi parlo coi silenzi dell'amore\nE riesco a dire tante cose che la bocca non dirà\nQuando ti risvegli la mattina, tutto il sole nei tuoi occhi\nQuando si fa notte, nella notte dei tuoi occhi\nC'è una luce che mi porta fino a te\n\nUn giorno in loro scoprirò\nQuello che tu nasconderai\n\nOcchi di ragazza, questo viaggio prima o poi, sarà finito\nUna spiaggia vuota senza mare, io dovrò vedere in voi\nOcchi di ragazza, quanto male vi farete perdonare\nL'acqua di una lacrima d'addio sarà l'ultimo regalo\nChe da voi riceverò\n\nL'acqua di una lacrima d'addio ѕarà l'ultimo regalo\nChe dа voi riceverò"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Girl's eyes",
+      "content": "Girl's eyes, so many skies, so many seas wait for me\nGirl's eyes, if I look at them, I see the dreams I'll make\nWe'll travel together to an unknown city\nSo many springs will come, they'll make us feel so happy\nThey're already in your eyes\n\nGirl's eyes, I speak to them with the silence of love\nAnd I dare to do so many things that my mouth won't say\nWhen you wake up in the morning, all the sun is in your eyes\nWhen it gets dark, in the night your eyes\nAre a light that take me to you\n\nOne day, I will discover in them\nWhat you will hide\n\nGirl's eyes, this journey will finish sooner or later\nAn empty shore without the sea, I should see in you\nGirl's eyes, I'm going to apologize for so many things\nThe water of a goodbye-tear will be the last present\nThat I'll receive from you\n\nThe water of a goodbye-tear will be the last preѕent\nThаt I'll receive from you"
+    }
+  ],
+  "bpm": 98,
+  "tone": "G major",
+  "artistPeople": [
+    "Gianluigi Morandi"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Lucio Dalla"
+  ],
+  "conductor": "Mario Capuano",
+  "lyricists": [
+    "Gianfranco Baldazzi",
+    "Sergio Bardotti"
+  ],
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Renato Tagliani"
+  ],
+  "jury": null,
+  "spokesperson": "Enzo Tortora"
+}

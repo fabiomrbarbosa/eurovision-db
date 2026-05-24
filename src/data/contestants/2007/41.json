@@ -1,0 +1,59 @@
+{
+  "id": 41,
+  "country": "CZ",
+  "artist": "Kabát",
+  "song": "Malá dáma",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/iBZaVQ52RQY",
+    "https://www.youtube-nocookie.com/embed/682YVr0jYWE",
+    "https://www.youtube-nocookie.com/embed/R0mOM3OPgro"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "czech"
+      ],
+      "displayedLanguages": null,
+      "title": "Malá dáma",
+      "content": "Utrhla trávu a začla hrát\nTa malá dáma z předměstí\nCo umí lidem z dlaní číst\nTam kočky zrána mívaj hlad\nPo noci plný neřestí\nJe pohladí a dá jim jíst\n\nPo tmě se toulá a ve dne spí\nA její oči vědí víc než mý\nDošly mi slova, já stál tam jen\nS touhle jedinou bych zemřel\n\nS touhle bych zemřel v jedinej den\nA jestli vám to nestačí\nKdyby tam stála stovka žen\nVyzvu ji k tanci a to netančim\n\nTam za tratí svý doupě má\nMince po kašnách posbírá\nA pak je skládá na kolej\nStaví si chrám, plechovej most\nUž po něm kráčí první host\nTak ať ho nohy nebolej\n\nProšla si peklem a kouzla zná\nPřejetý mince počítá\nA kdo ji spatří je zatracen\nS touhle jedinou bych zemřel\n\nS touhle bych zemřel v jedinej den\nA jestli vám to nestačí\nKdyby tam stála stovka žen\nVyzvu ji k tanci a to netančim\n\nBudu si pamatovat na tu chvíli\nKdyž hrála znělo to jak Paganini\nA já už věděl, že jsem ztracenej\nZeptal se za kolik s pocitem viny\n\nS touhle bych zemřel v jedinej den\nA jestli vám to nestačí\nKdyby tam stála stovka žen\nVyzvu ji k tanci a to netančim\n\nS touhle bych zemřel v jedinej den\nA jestli vám to nestačí\nKdyby tam stála ѕtovka žen\nVyzvu ji k tanci a to netаnčim"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Little lady",
+      "content": "She blew off the grass and started to play\nThat little lady from the suburbs\nWho can read from people's palms\nThere the cats are hungry in the morning\nAfter a night so full of unease\nShe will stroke and feed them\n\nAt night she strays, and sleeps by day\nAnd her eyes know more than mine\nI ran out of words, I just stood there\nI would die with her alone\n\nI would die with her in one day\nAnd if that's not enough for you\nIf there were a hundred women there\nI'd offer her a dance I can't dance myself\n\nBehind the railway is her nest\nShe collects coins from fountains\nAnd then she puts them on the tracks\nShe's building herself a temple, a bridge made of tin\nAlready being crossed by the first passenger\nSo that his legs won't hurt\n\nShe's been through hell and she knows the spells\nShe collects the trodden coins\nAnd whoever sees her is damned\nI would die with her alone\n\nI would die with her in one day\nAnd if that's not enough for you\nIf there were a hundred women there\nI'd offer her a dance I can't dance myself\n\nI will remember that instant\nWhen she played, it sounded like Paganini\nAnd I already knew I was damned\nI asked how much, feeling guilty\n\nI would die with her in one day\nAnd if that's not enough for you\nIf there were a hundred women there\nI'd offer her a dance I can't dance myself\n\nI would die with her in one day\nAnd if that's not enough for you\nIf there were a hundred women there\nI'd offer her a dance I can't dаnce myѕelf"
+    }
+  ],
+  "bpm": 136,
+  "tone": "C major",
+  "artistPeople": [
+    "Josef Vojtek",
+    "Milan Špalek",
+    "Ota Váňa",
+    "Radek Hurčík",
+    "Tomáš Krulich"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Josef Vojtek",
+    "Milan Špalek",
+    "Ota Váňa",
+    "Radek Hurčík",
+    "Tomáš Krulich"
+  ],
+  "broadcaster": "ČT",
+  "commentators": [
+    "Kateřina Kristelová"
+  ],
+  "jury": null,
+  "spokesperson": "Andrea Savane"
+}

@@ -1,0 +1,50 @@
+{
+  "id": 9,
+  "country": "FR",
+  "artist": "Roger Bens",
+  "song": "Femme dans ses rêves aussi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/88b5e4c_szw",
+    "https://www.youtube-nocookie.com/embed/h52irPfPkj8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Femme dans ses rêves aussi",
+      "content": "C'est le vent, c'est la pluie, c'est l'enfant aussi\nDe silences en défis, elle aime la nuit\nQuelquefois vague à l'âme, elle pose les armes\nInnocente ou bien charme, elle est une femme\n\nFemme, dans sa vie, dans ses rêves aussi\nFemme, dans ses yeux, ses cris, ses aveux\nFemme, femme aimée et femme qui aime\nFemme, élégance, et femme qui danse\n\nMélodie, mélodrame, sourire et puis larmes\nAmoureuse ou sans âme, elle est d'abord femme\n\nFemme, dans sa vie, dans ses rêves aussi\nFemme, dans ses yeux, ses cris, ses aveux\nFemme, femme aimée et femme qui aime\nFemme, élégance, et femme qui danse\n\nFemme, dans sa vie, dans ses rêves aussi\nFemme, élégance, et femme qui danse\n\nEt qui danse… danse…\nDanse… danse…\nDanse… danse…\n\nOh, femme, dans sa vie, dans ses rêves aussi\nFemme, dans ses yeux, ses cris, ses aveux\nFemme, femme aimée et femme qui aime\nFemme, élégance, et femme qui danse\n\nDans ses rêves aussi\nFemme, dans ses yeux, ses cris, ses aveux\nFemme, femme aimée et femme qui aime\nFemme, élégance, et femme qui danse\n\nQui dаnѕe"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Woman in her dreams too",
+      "content": "It's the wind, it's the rain, it's the child too\nFrom silences to challenges, she likes the night\nSometimes sad, she puts the weapons down\nInnocent or charming, she's a woman\n\nWoman, in her life, in her dreams too\nWoman, in her eyes, her cries, her confessions\nWoman, beloved woman and loving woman\nWoman, elegance, and woman who dances\n\nMelody, melodrama, smile and then tears\nIn love or without soul, first of all she's woman\n\nWoman, in her life, in her dreams too\nWoman, in her eyes, her cries, her confessions\nWoman, beloved woman and loving woman\nWoman, elegance, and woman who dances\n\nWoman, in her life, in her dreams too\nWoman, elegance, and woman who dances\n\nAnd who dances… dances…\nDances… dances…\nDances… dances…\n\nOh, woman, in her life, in her dreams too\nWoman, in her eyes, her cries, her confessions\nWoman, beloved woman and loving woman\nWoman, elegance, and woman who dances\n\nIn her dreams too\nWoman, in her eyes, her cries, her confessions\nWoman, beloved woman and loving woman\nWoman, elegance, and woman who dances\n\nWho dаnceѕ"
+    }
+  ],
+  "bpm": 156,
+  "tone": "F minor",
+  "artistPeople": [
+    "Roger Bens"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Michel Bernholc",
+  "lyricists": null,
+  "writers": [
+    "Didier Pascalis"
+  ],
+  "broadcaster": "A2F",
+  "commentators": [
+    "Patrice Laffont"
+  ],
+  "jury": null,
+  "spokesperson": "Élisabeth Tordjman"
+}

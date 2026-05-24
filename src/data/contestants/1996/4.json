@@ -1,0 +1,63 @@
+{
+  "id": 4,
+  "country": "EE",
+  "artist": "Ivo Linna & Maarja-Liis Ilus",
+  "song": "Kaelakee Hääl",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/mQI9GitZjDE",
+    "https://www.youtube-nocookie.com/embed/ngaCrPsAm10",
+    "https://www.youtube-nocookie.com/embed/RZ4Zz_HBW7w",
+    "https://www.youtube-nocookie.com/embed/IIwHPXadLZU",
+    "https://www.youtube-nocookie.com/embed/T6fS9-2tfbw",
+    "https://www.youtube-nocookie.com/embed/5r1PVbsvWpE",
+    "https://www.youtube-nocookie.com/embed/JexlNOvIaIk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "estonian"
+      ],
+      "displayedLanguages": null,
+      "title": "Kaelakee hääl",
+      "content": "Tead millal olen rahul\nPihku kui maailm mahub\nHoida kinni võin tuult\nHing mässab tormivahus, kui on lahus\nVeel suudlust ootav suu\n\nKui, hetkel on valus\nTahan sulle mõelda vaid\nMuud ei ma siis palu\nKa su pilk kõik öelda võib\n\nKee merekarpidest sul teen\nOma hääle panen\nSinna laulma üht viit\nKaugel kui olen ära, ei mu pärast\nSa hirmu tunne siis\n\nKui, kaotan su silmist\nPärlikee järgi sind püüan\nHääl laineist või pilvist\nJuba kaugelt hüüab mind\n\nKui olen kurb ja nutan\nSoovin mu juurde ruttad\nKee su kaelas on märg\nJuhtub, et mind kui jätad, kee sult võtan\nSiis tuhmub selle värv\n\nTead millal olen rahul\nPihku kui maailm mahub\nHoida kinni võin tuult\nHing mässab tormivahus, kui on lahus\nVeel suudlust ootav suu\n\nKui olen kurb ja nutan\nSoovin mu juurde ruttad\nKee su kaelas on märg\nJuhtub, et mind kui jätad, kee sult võtan\nSiis tuhmub selle värv\n\nJuhtub, et mind kui jätad, kee sult võtаn\nSiis tuhmub ѕelle värv"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Voice of necklace",
+      "content": "You know when I am satisfied\nThen I have the whole world in my hands\nAnd I can hold the wind\nMy soul is in storm\nWhen I can't kiss you\n\nIf in the moment, I'm hurt\nI only want to think about you\nThen I'm not asking more\nThan your eyes can tell me\n\nI'll make a necklace of seashells for you\nAnd I'll put my voice in it\nTo sing a song\nWhen I'm far away\nDon't worry about me\n\nWhen I lose you of sight\nI'll find you, because of your pearl necklace\nThe voice from waves and clouds\nCalls me from far away\n\nWhen I'm sad and crying\nI wish you'd come to me\nThe necklace around your neck is wet\nIf you leave me, I'll take the necklace from you\nAnd its colour will fade\n\nYou know when I am satisfied\nThen I have the whole world in my hands\nAnd I can hold the wind\nMy soul is in storm\nWhen I can't kiss you\n\nWhen I'm sad and crying\nI wish that you could run to me\nThe necklace around your neck is wet\nIf you leave me, I'll take the necklace from you\nAnd its colour will fade\n\nIf you leave me, I'll take the necklace from you\nAnd itѕ colour will fаde"
+    }
+  ],
+  "bpm": 100,
+  "tone": "G major",
+  "artistPeople": [
+    "Ivo Linna",
+    "Maarja"
+  ],
+  "backings": [
+    "Anne Värvimann",
+    "Glen Pilvre",
+    "Roland Puusepp",
+    "Taavo Remmel"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Priit Pajusaar"
+  ],
+  "conductor": "Tarmo Leinatamm",
+  "lyricists": [
+    "Kaari Sillamaa"
+  ],
+  "writers": null,
+  "broadcaster": "ERR",
+  "commentators": [
+    "Jüri Pihel"
+  ],
+  "jury": null,
+  "spokesperson": "Annika Talvik"
+}

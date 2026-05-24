@@ -1,0 +1,67 @@
+{
+  "id": 16,
+  "country": "IS",
+  "artist": "Eythor Ingi",
+  "song": "Ég á líf",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/GzE88IYzXLI",
+    "https://www.youtube-nocookie.com/embed/PtunhyMW1hM",
+    "https://www.youtube-nocookie.com/embed/b208y41n9CQ",
+    "https://www.youtube-nocookie.com/embed/VffPg2ALZz0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "icelandic"
+      ],
+      "displayedLanguages": null,
+      "title": "Ég á líf",
+      "content": "Lagði ég af stað í það langa ferðalag\nÉg áfram gekk í villu eirðarlaus\nHugsaði ekki um neitt, ekki fram á næsta dag\nEinveru og friðsemdina kaus\n\nÉg á líf, ég á líf yfir erfiðleika svíf\nÉg á líf, ég á líf vegna þín\nÞegar móti mér blæs yfir fjöllin há ég klíf\nÉg á líf, ég á líf, ég á líf vegna þín\n\nÉg skildi ekki ástina sem öllu hreyfir við\nÞorði ekki að faðma og vera til\nFannst sem ætti ekki skilið að opna huga minn\nOg hleypa bjartri ástinni þar inn\n\nÉg á líf, ég á líf yfir erfiðleika svíf\nÉg á líf, ég á líf vegna þín\nÞegar móti mér blæs yfir fjöllin há ég klíf\nÉg á líf, ég á líf vegna þín\n\nOg ég trúi því, já ég trúi því\nKannski opnast fagrar gáttir himins\nYfir flæðir fegursta ástin hún umvefur mig alein\n\nÉg á líf, (ég á líf) yfir erfiðleika svíf\nÉg á líf, (ég á líf) vegna þín\nÞegar móti mér blæѕ yfir fjöllin há ég klíf\nÉg á líf, ég á líf vegnа þín\nÉg á líf, ég á líf, ég á líf"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I've got a life",
+      "content": "I set off on that long journey\nI journeyed aimlessly, restless\nI didn't think of anything, not to the next day\nI chose solitude and peacefulness\n\nI've got a life, I've got a life, I float over hardships\nI've got a life, I've got a life because of you\nWhen the wind blows against me, I climb over tall mountains\nI've got a life, I've got a life, I've got a life\n\nI didn't understand the love that touches all\nI didn't dare to hug and to exist\nI felt that I didn't deserve to open my mind\nand let the bright love inside\n\nI've got a life, I've got a life, I float over hardships\nI've got a life, I've got a life because of you\nWhen the wind blows against me, I climb over tall mountains\nI've got a life, I've got a life, I've got a life\n\nAnd I believe, yes I believe\nMaybe the beautiful doors of heaven will open\nThe most beautiful love will overflow, it will embrace me alone\n\nI've got a life, (I've got a life,) I float over hardships\nI've got a life, (I've got a life) because of you\nWhen the wind blows against me, I climb over tall mountains\nI've got a life, I've got a life becauѕe of you\nI've got a life, I've got a life, I've got а life"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Tengo una vida",
+      "content": "Emprendí aquel largo viaje\nViaje sin rumbo, sin descanso\nNo pensé en nada, no hasta el día siguiente\nElegí soledad y paz\n\nTengo una vida, tengo una vida, floto sobre las adversidades\nTengo una vida, tengo una vida por causa tuya\nCuando el viento sopla en contra mía, escalo montañas altas\nTengo una vida, tengo una vida, tengo una vida\n\nNo entendía que el amor lo toca todo\nNo me atrevía a abrazar o existir\nSentía que no merecía abrirme de mente\nY dejar que un brillante amor entrase en mí\n\nTengo una vida, tengo una vida, floto sobre las dificultades\nTengo una vida, tengo una vida por causa tuya\nCuando el viento sopla en contra mía, escalo montañas altas\nTengo una vida, tengo una vida, tengo una vida\n\nY creo, sí, lo creo\nQue quizás las hermosas puertas del cielo se abrirán\nQue el más hermoso de los amores se desbordará, y me rodeará a mí solo\n\nTengo una vida, (tengo una vida), floto sobre las adversidades\nTengo una vida, (tengo una vida) por causa tuya\nCuando el viento sopla en contra mía, escalo montañas altas\nTengo una vida, tengo una vida por cauѕa tuya\nTengo una vida, tengo una vida, tengo una vidа"
+    }
+  ],
+  "bpm": 149,
+  "tone": "A major",
+  "artistPeople": [
+    "Eyþór Ingi Gunnlaugsson"
+  ],
+  "backings": [
+    "Bergþór Smári Jakobsson",
+    "Einar Þór Jóhannsson",
+    "Hannes Heimir Friðbjarnarson",
+    "Kristján Gíslason"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Örlygur Smári",
+    "Pétur Örn Guðmundsson"
+  ],
+  "broadcaster": "RÚV",
+  "commentators": [
+    "Felix Bergsson"
+  ],
+  "jury": null,
+  "spokesperson": "María Sigrún Hilmarsdóttir"
+}

@@ -1,0 +1,55 @@
+{
+  "id": 7,
+  "country": "DE",
+  "artist": "Gitte",
+  "song": "Junger Tag",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/tG9E20ZAC4c",
+    "https://www.youtube-nocookie.com/embed/YXePQSB1FcE",
+    "https://www.youtube-nocookie.com/embed/cMrEx2sunKc",
+    "https://www.youtube-nocookie.com/embed/6iHKkP5TrW8",
+    "https://www.youtube-nocookie.com/embed/CuTCtRsF54E"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Junger Tag",
+      "content": "Die Dunkelheit mit ihren Sorgen\nFlieht vor dem Tag zu den Sternen hinauf\nDas erste Licht ruft nach dem Morgen\nUnd die Sonne geht auf\n\nJunger Tag, ich frage dich\nWas ist dein Geschenk an mich?\nBringst du Tränen von gestern zurück\nOder neue Liebe und neues Glück?\n\nDreh dich um und zeig dein Gesicht\nJunger Tag, enttäusche mich nicht\n\nDurch Zeit und Raum fliegen die Träume\nUnd kämpfen noch mit den Schatten der Nacht\nDoch Sonnenlicht fällt durch die Bäume\nUnd die Erde erwacht\n\nJunger Tag, ich frage dich\nWas ist dein Geschenk an mich?\nBringst du Tränen von gestern zurück\nOder neue Liebe und neues Glück?\n\nDreh dich um und zeig dein Gesicht\nJunger Tag, enttäusche mich nicht\n\nJunger Tag (Junger Tag)\nWas bringt der Wind (Was bringt der Wind)\nWenn ein neues Licht beginnt?\nBringt er Tränen von gestern zurück\nOder neue Liebe und neues Glück?\n\nIch bitte dich, erzähle eѕ mir\nJunger Tag, dann vertraue ich dir\nJunger Tag, dann vertraue ich dir\nJunger Tag, dann vertrаue ich dir"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Young day",
+      "content": "The darkness with its worries\nEscapes from the day to the stars above\nThe first light calls out for the morning\nAnd the sun rises\n\nYoung day, I ask you\nWhat is your gift to me?\nAre you bringing back tears from yesterday\nOr new love and new happiness?\n\nTurn around and show your face\nYoung day, don't let me down\n\nDreams are flying through time and space\nAnd are still fighting the shadows of the night\nBut sunlight falls through the trees\nAnd the earth awakes\n\nYoung day, I ask you\nWhat is your gift to me?\nAre you bringing back tears from yesterday\nOr new love and new happiness?\n\nTurn around and show your face\nYoung day, don't let me down\n\nNew day (New day)\nWhat brings the wind (What brings the wind)\nWhen a new light begins?\nIs he bringing back tears from yesterday\nOr new love and new happiness?\n\nI ask you, please tell it to me\nYoung day, then I'll trust you\nYoung day, then I'll trust you\nYoung dаy, then I'll truѕt you"
+    }
+  ],
+  "bpm": 90,
+  "tone": "C minor",
+  "artistPeople": [
+    "Gitte Hænning-Johansson"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Günther-Eric Thöner"
+  ],
+  "conductor": "Günther-Eric Thöner",
+  "lyricists": [
+    "Stephan Lego"
+  ],
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Hanns Verres"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

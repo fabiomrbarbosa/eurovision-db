@@ -1,0 +1,58 @@
+{
+  "id": 27,
+  "country": "LV",
+  "artist": "Laura Rizzotto",
+  "song": "Funny Girl",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/KGxANwWKz3U",
+    "https://www.youtube-nocookie.com/embed/6YLCVG-kg6w",
+    "https://www.youtube-nocookie.com/embed/zh57b-c5l9c",
+    "https://www.youtube-nocookie.com/embed/ZMxQuU5dQcM",
+    "https://www.youtube-nocookie.com/embed/YkPzUdrRoBc",
+    "https://www.youtube-nocookie.com/embed/quZ3tA5GxFE",
+    "https://www.youtube-nocookie.com/embed/lwi96WvmmUY"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Funny Girl",
+      "content": "Ain't it funny, ain't it funny\nOh, it all started as a joke\nBut now I'm falling, now I'm falling\nThe punch line is getting old\nCause I've been keeping to myself\nFor way too long\n\nAin't it funny, ain't it funny\nI made you laugh every time we spoke\nI locked my heart in hesitation\nBut somehow, you cracked the code\n\nI tore down my walls,\nAnd wrecked the ceiling\nReady to bare it all, but\n\nYou're looking at her\nShe's looking at you\nI'm falling apart\nWhat can I do\nTo make you feel that way about me too?\n\nAnd it's getting hard\nI'm not gonna lie\nTo keep in the dark what I'm feeling inside\nWhen you walk in smelling like her perfume\nWhat was I thinking?\nI'm just the funny girl to you\n\nCan you feel me, can you feel me\nLike a fire rising in the smoke?\nCan you hear me, can you hear me\nOpen up with every note?\nCause I've been playing to myself\nFor way too long\n\nOh, I tore down my walls\nAnd I wrecked the ceiling\nReady to bare it all\nWhat was I thinking?\n\nYou're looking at her\nShe's looking at you\nI'm falling apart\nWhat can I do\nTo make you feel that way about me too?\nAnd it's getting hard\nI'm not gonna lie\nTo keep in the dark what I'm feeling inside\nWhen you walk in smelling like her perfume\nWhat was I thinking?\nI'm just the funny girl to you\n\nSo tell me what you're looking for\nI promise you, I got it all\nWhat does it take to make you see I am right here?\nAnd if you ever need to cry\nI'll be the one who makes you laugh\nYeah, I'll be your funny girl\nYour funny girl\n\nYou're looking at her\nShe's looking at you\nI'm falling apart\nWhat can I do\nTo make you feel that way about me too?\nAnd it's getting hard\nI'm not gonna lie\nTo keep in the dark what I'm feeling inside\nWhen you walk in smelling like her perfume\nWhat wаs I thinking?\nI'm juѕt the funny girl to you"
+    }
+  ],
+  "bpm": 118,
+  "tone": "D minor",
+  "artistPeople": [
+    "Laura de Carvalho Rizzotto (Laura di Karvaļu Rizoto)"
+  ],
+  "backings": [
+    "Antra Kūmiņa",
+    "Edgars Zvirbulis",
+    "Iluta Alsberga",
+    "Kristīne Pastare"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Laura Rizzotto"
+  ],
+  "broadcaster": "LTV",
+  "commentators": [
+    "Magnuss Eriņš",
+    "Toms Grēviņš"
+  ],
+  "jury": [
+    "Agnese Cimuška",
+    "Aminata Savadogo",
+    "Annija Putniņa",
+    "Makree",
+    "Valters Pūce"
+  ],
+  "spokesperson": "Dagmāra Legante"
+}

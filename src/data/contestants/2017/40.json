@@ -1,0 +1,63 @@
+{
+  "id": 40,
+  "country": "LV",
+  "artist": "Triana Park",
+  "song": "Line",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Vxos6ceOrRA",
+    "https://www.youtube-nocookie.com/embed/QI3KmuYJeZg",
+    "https://www.youtube-nocookie.com/embed/qKNpgmTMZnA",
+    "https://www.youtube-nocookie.com/embed/mr8hDr4WS9s",
+    "https://www.youtube-nocookie.com/embed/VzdlfWvLvGA",
+    "https://www.youtube-nocookie.com/embed/bUX74YzuL_A",
+    "https://www.youtube-nocookie.com/embed/Gtt2mgAfv-s"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Line",
+      "content": "I'm going round in circles\nAnd the door's wide open\nBoy, I still wanna see you\nDays go by, I'm still hoping, hoping\n\nWhere we draw the line?\nTell me, baby, where we draw the line?\nTell me, baby, where we draw the line?\nTell me, baby, where we draw the line?\n\nYou told me to move on\nSearch for loving somebody else\nBut baby, tell me, how will I find it?\nIf all I see is you? All I see is you?\n\n(All I see is you, all I see)\n(All I see is you, all I see)\n\nWhere we draw the line?\nTell me, baby, where we draw the line?\nTell me, baby, where we draw the line?\nTell me, baby, where we draw the line?\n\nWhere we draw the line?\nTell me, baby, where we draw the line?\nTell me, baby, where we draw the line?\nTell me, baby, where we draw the line?\n\nMy heart breaks to see you\nDays go by, I'm still hoping\n\n(All I see is you, all I see)\n(All I see iѕ you)\n\nWhere we draw the line?\nTell me, baby, where we draw the line?\nTell me, baby, where we draw the line?\nTell me, baby, where we draw the line?\n\nWhere we draw the line?\nTell me, baby, where we draw the line?\nTell me, baby, where we draw the line?\nTell me, baby, where we drаw the line?"
+    }
+  ],
+  "bpm": 126,
+  "tone": "E major",
+  "artistPeople": [
+    "Agnese Rakovska",
+    "Artūrs Strautiņš",
+    "Edgars Viļums",
+    "Kristaps Ērglis"
+  ],
+  "backings": [
+    "Antra Kūmiņa",
+    "Katrīna Anna Vīgante"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Agnese Rakovska",
+    "Kristaps Ērglis",
+    "Kristians Rakovskis"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Agnese Rakovska"
+  ],
+  "writers": null,
+  "broadcaster": "LTV",
+  "commentators": [
+    "Toms Grēviņš",
+    "Valters Frīdenbergs"
+  ],
+  "jury": [
+    "Ieva Akuratere",
+    "Jānis Ozols",
+    "Kaspars Ansons",
+    "Ruta Duduma",
+    "Valters Pūce"
+  ],
+  "spokesperson": "Aminata"
+}

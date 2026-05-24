@@ -1,0 +1,43 @@
+{
+  "id": 2,
+  "country": "GB",
+  "artist": "Jessica Garlick",
+  "song": "Come Back",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/8PSqyaRG_Ug",
+    "https://www.youtube-nocookie.com/embed/t33WrydN0k8",
+    "https://www.youtube-nocookie.com/embed/yGzcC8Gkj1I",
+    "https://www.youtube-nocookie.com/embed/MIZXxzziGfM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Come Back",
+      "content": "We both made the same mistakes\nAnd believe me, I know it\nI've come to depend on you\nIn my eyes, can you see\nThat someone's still hurting me?\nWhat can I say\nThat will make up for letting you down?\nI just want you to know\n\nSo come back (Come back)\nIf you love me\nHow will I survive without you\n(Without you)\n\nBaby, come back (Come back)\nIf you need me\nMaybe I was wrong\nAnd I tried to pretend, but\nAlways in my heart\nI know that I want you\nCome back…\n\nTomorrow's another day, still I\nCan't believe that I told you\nAnd that was my big mistake\nEvery hour, every day\nWhat can I do to make it through?\nOh, the days seem so long\nI miss you so bad\nAnd it's breaking my heart\n\nSo come back (Come back)\nIf you love me\n(How will I survive)\nHow will I survive without you?\n(Without you?)\nBaby, come back (Come back)\nIf you need me\n(How will I survive)\nHow will I survive without you?\n(Without you, without you?)\nBaby, come back (Come back)\nIf you need me\n\nMaybe I was wrong\nAnd I tried to pretend, but\nAlwayѕ in my heart\nI know that I want you\nCome back (Come back)\nBefore you break my heart\n\nOh, come bаck…"
+    }
+  ],
+  "bpm": 124,
+  "tone": "F major",
+  "artistPeople": [
+    "Jessica Garlick"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Shaun Fernandes",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Martyn Baylay"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Terry Wogan"
+  ],
+  "jury": null,
+  "spokesperson": "Colin Berry"
+}

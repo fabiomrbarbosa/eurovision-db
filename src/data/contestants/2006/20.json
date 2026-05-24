@@ -1,0 +1,55 @@
+{
+  "id": 20,
+  "country": "ES",
+  "artist": "Las Ketchup",
+  "song": "Bloody Mary",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/N8HnyH8PHVI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Un Blodymary",
+      "content": "Un Blodymary, por favor\n\nJuro por Dior que no quise, pero está pegao\nTodo fue limpio y certero\nYo era la otra, la tonta, será pringao\nChulito de medio pelo\n\nMaravillosa me puse, lo he dejado tirao\nChico martini perverso\nMucha palabra de lava tiene el desgraciao\nPero éste a mí no me engaña\n\nPuedo ser de barrio bajo underground\nPero mi corazón se te ha declarao\nDuty free, duty free, duty free\nUn Blodymary, por favor\n\nPaso bailando las horas\nY él, desesperao en la barra, toma que toma\nMe echa miradas que matan, lo tengo picao\nPor dentro muere y yo loca\n\nPuedo ser de barrio bajo underground\nPero mi corazón se te ha declarao\nDuty free, duty free, duty free\nUn Blodymary, por favor\n\nHubiera o hubiese habido un buen vacilón\nPintaba pluscuamperfecto\nPero tu tiempo, mira, se terminó\nLa noche empieza de nuevo\n\nLa luna cambió de rumbo, y me vi dando tumbos\nBuscando el ambiente frenéticamente\nY mira, ¿qué punto que tiene el asunto?\nDe nuevo tú y yo, frente a frente\n\nPuedo ser de barrio bajo underground\nPero mi corazón se te ha declarao\nDuty free, duty free, duty free\nUn Blodymary, por favor\n\nHubiera o hubiese habido un buen vacilón\nPintaba pluscuamperfecto\nPero tu tiempo, mira, se terminó\nLa noche empieza de nuevo\n\nHubiera o hubiese habido un buen vacilón\nPintaba pluscuamperfecto\nPero tu tiempo, mira, ѕe terminó\nLa noche empieza de nuevo\n\nUn Blodymary, por fаvor"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "One Bloody Mary",
+      "content": "One Bloody Mary, please\n\nI swear to Dior that I didn't want to, but he's stuck on me\nEverything was clean and certain\nI was the other woman, the fool, he's a bastard\nA mediocre showoff\n\nI made myself marvellous, I dumped him\nWicked martini boy\nThe unfortunate boy has a lot of fiery words\nBut this one's not going to deceive me\n\nI may be from an underground slum\nBut my heart has declared to you\nDuty free, duty free, duty free\nOne Bloody Mary, please\n\nI spend the hours dancing\nAnd he, desperate in the bar, drinking and drinking\nHis look at me is a killer, I have him worked up\nHe's dying inside himself and I'm crazy\n\nI may be from an underground slum\nBut my heart has declared to you\nDuty free, duty free, duty free\nOne Bloody Mary, please\n\nThere could have been a good tease\nIt looked pluperfect\nBut see, your time is over\nThe night starts again\n\nThe moon changed direction, and I saw myself staggering\nFrantically looking for ambiance\nAnd see, what's the point of this?\nAgain you and me, face to face\n\nI may be from an underground slum\nBut my heart has declared to you\nDuty free, duty free, duty free\nOne Bloody Mary, please\n\nThere could have been a good tease\nIt looked pluperfect\nBut see, your time is over\nThe night starts again\n\nThere could have been a good tease\nIt looked pluperfect\nBut see, your time is over\nThe night starts again\n\nOne Bloody Mary, pleаѕe"
+    }
+  ],
+  "bpm": 136,
+  "tone": "C minor",
+  "artistPeople": [
+    "Lola Muñoz",
+    "Lucía Muñoz",
+    "Pilar Muñoz",
+    "Rocío Muñoz"
+  ],
+  "backings": [
+    "Álvaro Esteban",
+    "Laura Ramos"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Queco"
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "Beatriz Pécker"
+  ],
+  "jury": null,
+  "spokesperson": "Sonia Ferrer"
+}

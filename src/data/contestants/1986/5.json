@@ -1,0 +1,67 @@
+{
+  "id": 5,
+  "country": "DK",
+  "artist": "Lise Haavik & Trax",
+  "song": "Du er fuld af løgn",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/TeKay_HxlIQ",
+    "https://www.youtube-nocookie.com/embed/7EzShFBsIvA",
+    "https://www.youtube-nocookie.com/embed/lFyxquw6O3g",
+    "https://www.youtube-nocookie.com/embed/gl9KXe3N_S0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "danish"
+      ],
+      "displayedLanguages": null,
+      "title": "Du er fuld af løgn",
+      "content": "Se, li'som sidst\nStår du der og laver øjne\nUh… så bevidst, imod mig\nStår og ser ud\nSom om det er no'et du leger\nJeg spytter ud nu, for ved du hva' du er?\n\nDu er fuld af løgn\nNår du si'r vi kun er venner\nJeg er med på spøg'n lidt endnu\nOg før der går et døgn\nSå tror jeg dine løgne ender\nFor du slår gnister når du rør' ved mig\n\nDu spiller op\nOg underholder dine venner\nDet holder op første gang\nHvor du ka' se at det er os to\nOg du end'lig vil være ved\nAt alt det jeg si'r er sandt\n\nDu er fuld af løgn\nNår du si'r vi kun er venner\nJeg er med på spøg'n lidt endnu\nOg før der går et døgn\nSå tror jeg dine løgne ender\nFor du slår gnister når du rør' ved mig\n\nBare puds din glorie\nKør en kølig stil\nFortæl en ny historie, du ka' gøre som du vil\n\nFor jeg kan se at… (Jeg kan se at…)\nDu er fuld af løgn\nTyd'lig som en åben bog\nSå gi' mig fire døgn, kun med dig\n\nDu er fuld аf løgn\nNår du si'r vi kun er venner\nJeg er med på spøg'n lidt endnu\nOg før der går et døgn\nSå tror jeg dine løgne ender\nFor det' så enkelt, du er lun som jeg\nFor du slår gnister når jeg rør' ved dig\nDet' ѕå enkelt, du er lun på mig"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "You're full of lies",
+      "content": "Look, just like before\nYou stand there making eyes,\nOoh… so confidently, to me\nStanding there looking\nAs if it's a game you're playing\nI say it honestly now, do you know what you are?\n\nYou're full of lies\nWhen you say we're just friends\nI go along with the joke for a little longer\nAnd before 24 hours have passed\nI think your lies will come to an end\nFor you strike sparks when you touch me\n\nYou play up\nAnd entertain your friends\nThat will stop the first time\nWhen you see, it's the two of us\nAnd you finally admit\nThat everything I say is true\n\nYou're full of lies\nWhen you say we're just friends\nI go along with the joke for a little longer\nAnd before 24 hours have passed\nI think your lies will come to an end\nFor you strike sparks when you touch me\n\nJust polish your halo\nDo a cool style\nTell a new story, you can do whatever you want\n\nFor I can see that… (I can see that…)\nYou're full of lies\nClear as an open book\nSo give me four days, just with you\n\nYou're full of lies\nWhen you say we're just friends\nI go along with the joke for a little longer\nAnd before 24 hours have passed\nI think your lies will come to an end\nIt's so simple, you're hot like me\nFor you strike spаrks when I touch you\nIt's so ѕimple, you're hot for me"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "polish"
+      ],
+      "displayedLanguages": null,
+      "title": "Jesteś pełen kłamstw",
+      "content": "Patrz, jak ostatnio\nStoisz tam i robisz oczka\nUh… tak świadomie, w moją stronę\nStoisz i patrzysz\nJakbyś coś udawał\nWyrzucam to teraz, bo wiesz, kim jesteś?\n\nJesteś pełen kłamstw\nKiedy mówisz, że jesteśmy tylko przyjaciółmi\nJeszcze trochę będę udawał, że to żart\nAle zanim minie jeden dzień\nMyślę, że twoje kłamstwa się skończą\nBo iskrzysz, kiedy mnie dotykasz\n\nRozkręcasz się\nI bawisz swoich przyjaciół\nTo się kończy po raz pierwszy\nGdy zobaczysz, że to my dwoje\nI w końcu będziesz musiał przyznać\nŻe wszystko, co mówię, jest prawdą\n\nJesteś pełen kłamstw\nKiedy mówisz, że jesteśmy tylko przyjaciółmi\nJeszcze trochę będę udawał, że to żart\nAle zanim minie jeden dzień\nMyślę, że twoje kłamstwa się skończą\nBo iskrzysz, kiedy mnie dotykasz\n\nPo prostu wypoleruj swoją chwałę\nProwadź fajny styl\nOpowiedz nową historię, możesz robić, co chcesz\n\nBo widzę, że… (Widzę, że…)\nJesteś pełen kłamstw\nJasny jak otwarta książka\nWięc daj mi cztery dni, tylko z tobą\n\nJesteś pełen kłamstw\nKiedy mówisz, że jesteśmy tylko przyjaciółmi\nJeszcze trochę będę udawał, że to żart\nAle zanim minie jeden dzień\nMyślę, że twoje kłamstwa się skończą\nBo to takie proste, jesteś tak samo zakochany jak ja\nBo iskrzysz, kiedy cię dotykam\nTo takie proste, jeѕteś we mnie zakochаny"
+    }
+  ],
+  "bpm": 98,
+  "tone": "E major",
+  "artistPeople": [
+    "John Hatting",
+    "Lise Haavik"
+  ],
+  "backings": [
+    "Caroline Henderson",
+    "David Johnson",
+    "Maria Bramsen",
+    "Mary Johnson"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Egil Monn-Iversen",
+  "lyricists": null,
+  "writers": [
+    "John Hatting"
+  ],
+  "broadcaster": "DR",
+  "commentators": [
+    "Jørgen de Mylius"
+  ],
+  "jury": null,
+  "spokesperson": "Bent Henius"
+}

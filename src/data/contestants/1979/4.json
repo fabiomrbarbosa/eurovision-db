@@ -1,0 +1,42 @@
+{
+  "id": 4,
+  "country": "IE",
+  "artist": "Cathal Dunne",
+  "song": "Happy Man",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/f-z_gZFRptI",
+    "https://www.youtube-nocookie.com/embed/TyD6Mu6-nss",
+    "https://www.youtube-nocookie.com/embed/Gkb9ZPTIiV8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Happy Man",
+      "content": "It seemed life had no answers for me\nNo special meaning or plan\nHow could I be a happy man?\n\nThen just like in a love song\nYou're here, making each day seem so clear\nNow I can smile – I'm a happy man\n\nI'm in love and I'm alive – happy man\nGot the sun inside – happy man\nI've got a girl on my mind\nLove in my heart – happy man\n\nI'm in love and I'm alive – happy man\nGot the sun inside – happy man\nSo now the whole world can see\nI've got all I need – I'm a happy man\n\nAnd now you say it's happened to you\nThis love I'm feeling inside\nGirl, you've made me a happy man\n\nAnd I will share a lifetime with you\nMaking our dreams all come true\nNow I can smile – I'm a happy man\n\nI'm in love and I'm alive – happy man\nGot the sun inside – happy man\nI've got a girl on my mind\nLove in my heart – happy man\n\nI'm in love and I'm alive – happy man\nGot the sun inside – happy man\nSo now the whole world can see\nI've got all I need – I'm a happy man\n\nI'm in love and I'm alive – happy man\nGot the sun inѕide – happy man\nI've got a girl on my mind\nLove in my heart – happy man\n\nI'm in love аnd I'm…"
+    }
+  ],
+  "bpm": 104,
+  "tone": "D major",
+  "artistPeople": [
+    "Cathal Dunne"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Proinsias O'Duinn",
+  "lyricists": null,
+  "writers": [
+    "Cathal Dunne"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Mike Murphy"
+  ],
+  "jury": null,
+  "spokesperson": "David Heffernan"
+}

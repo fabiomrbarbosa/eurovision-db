@@ -1,0 +1,67 @@
+{
+  "id": 18,
+  "country": "ME",
+  "artist": "Sergej Ćetković",
+  "song": "Moj Svijet",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/6FJtzRSKHKg",
+    "https://www.youtube-nocookie.com/embed/Xym7CQFFTOU",
+    "https://www.youtube-nocookie.com/embed/b_fKzZodQOE",
+    "https://www.youtube-nocookie.com/embed/wrGHn4mOriw",
+    "https://www.youtube-nocookie.com/embed/ZUeQOWo9HsQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "montenegrin"
+      ],
+      "displayedLanguages": null,
+      "title": "Moj Svijet",
+      "content": "Tražim, da me ne zaboraviš\nKada jastuk zagrliš, ti me sanjaj\n\nTražim, al' sreća trag ne ostavlja\nK'o da je tvoju dušu drugom pisala\n\nJoš volim te znaj\nU srcu mom spavaš sama\n\nMoj svijet čuvam za te\nU moj svijet nek te vrate\nPa da svane mi dan\nS'tobom jedino znam za ljubav\n\nMoj svijet čuvam za te\nU moj svijet, ja tražim da te vrate\nDa ne ostarim sam,u tvoje rukedušu vežem\nPada svane mi dan\nS' tobom jedino znam za ljubav\n\nJoš volim te znaj, u srcu mom samo si ti\nJoš čuvam za nas, jedan ѕvijet ljubаvi"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "My Love",
+      "content": "Find me\nI'm still wandering the seas\nA lonely sail without a breeze\nCan you see me?\n\nFind me\nYou know I'm lost without your arms\nYou are never ending line\nOn my palms…\n\nStill dreaming you're mine\nI'm loving you like the first time…\n\nMy love, I'll be waiting\nFor you to be in my world again\nDon't forget about me\nDon't forget about everything we had\n\nMy love I 'll be waiting\nFor you to take this lonely world away\nDon't forget about me\nLet me hold you in my arms\nDon't forget about me\nBe the sun in my eyes again…\n\nI'm still dreaming you're mine\nI'm loving you like the firѕt time\nYou are all thаt I need\nMy love, my everything"
+    }
+  ],
+  "bpm": 107,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Sergej Ćetković"
+  ],
+  "backings": [
+    "Dragan Brnas-Fudo",
+    "Ivana Čabraja",
+    "Martina Majerle"
+  ],
+  "dancers": null,
+  "stageDirector": "Marko Novaković",
+  "composers": [
+    "Sergej Ćetković"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Emina Jahović",
+    "Sergej Ćetković"
+  ],
+  "writers": null,
+  "broadcaster": "RTCG",
+  "commentators": [
+    "Dražen Bauković",
+    "Tamara Ivanković"
+  ],
+  "jury": [
+    "Mihailo Radonjić",
+    "Senad Gacevic",
+    "Slobodan Bučevac",
+    "Stefan Filipović",
+    "Zoja Đurović"
+  ],
+  "spokesperson": "Tijana Mišković"
+}

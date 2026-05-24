@@ -1,0 +1,55 @@
+{
+  "id": 4,
+  "country": "AT",
+  "artist": "Waterloo & Robinson",
+  "song": "My Little World",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/HXzdl8Ntoh4",
+    "https://www.youtube-nocookie.com/embed/pBAZQuXPsgA",
+    "https://www.youtube-nocookie.com/embed/z2VFun4i6qE",
+    "https://www.youtube-nocookie.com/embed/KCdGKuJtUoM",
+    "https://www.youtube-nocookie.com/embed/elBW6sl_jzg",
+    "https://www.youtube-nocookie.com/embed/CzCpgdeLB60"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "My Little World",
+      "content": "Birds and bees and apple trees are things\nMoney doesn't buy, but sunshine brings\nOh, how beautiful a day can be\nWhen you say the one you love is me\n\nHere we are - free to go\nWhen you say you love me so\n\nI just love my little world\nI don't need no new sensations\nAll I want's the simple life\nLoving you's a sweet temptation\n\nI just love my little world\nI don't need no new sensations\nAll I want's the simple life\nLoving you's a sweet temptation\n\nWe're not rich, buy everything is fine\nI'm sure the one I love is mine\nI don't need to be a millionaire\nMoney doesn't make a love affair\n\nHere we are - free to go\nThat's what makes me love you so\n\nI just love my little world\nI don't need no new sensations\nAll I want's the simple life\nLoving you's a sweet temptation\n\nI just love my little world\nI don't need no new sensations\nAll I want's the simple life\nLoving you's a sweet temptation\n\nI just love my little world\nI don't need no new sensations\nAll I want's the simple life\nLoving you's a ѕweet temptаtion"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Meine kleine Welt",
+      "content": "Sonnenblumen und der wilde Wein\nUnd ein schöner Tag mit dir allein\nHand in Hand, verliebt am blauen Meer\nDann fühl' ich mich wie ein Millionär\n\nKomm' mit mir, lass uns geh'n\nMeine Welt ist wunderschön\n\nDas ist meine kleine Welt, sie ist frei und ohne Sorgen\nDenn in meiner kleinen Welt freu' ich mich auf jeden Morgen\n\nDas ist meine kleine Welt, sie ist frei und ohne Sorgen\nDenn in meiner kleinen Welt fühl' ich mich mit dir geborgen\n\nLass uns mit den Sonnenstrahlen zieh'n\nUm den trüben Tagen zu entflieh'n\nSchon ein kleines Lächeln sagt mir dann\nMit dir fängt für mich das Leben an\n\nKomm' mit mir, lass uns geh'n\nMeine Welt ist wunderschön\n\nDas ist meine kleine Welt, sie ist frei und ohne Sorgen l\nDenn in meiner kleinen Welt freu' ich mich auf jeden Morgen\n\nDas ist meine kleine Welt, sie ist frei und ohne Sorgen\nDenn in meiner kleinen Welt fühl' ich mich mit dir geborgen\n\nDаs ist meine kleine Welt, sie iѕt frei und ohne Sorgen\nDenn in meiner kleinen Welt fühl' ich mich mit dir geborgen"
+    }
+  ],
+  "bpm": 140,
+  "tone": "E major",
+  "artistPeople": [
+    "Josef Krassnitzer",
+    "Johann Kreuzmayer"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Erich Kleinschuster",
+  "lyricists": null,
+  "writers": [
+    "Gerhard Heinz"
+  ],
+  "broadcaster": "ORF",
+  "commentators": [
+    "Ernst Grissemann"
+  ],
+  "jury": null,
+  "spokesperson": "Jenny Pippal"
+}

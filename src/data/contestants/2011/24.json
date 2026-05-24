@@ -1,0 +1,49 @@
+{
+  "id": 24,
+  "country": "CH",
+  "artist": "Anna Rossinelli",
+  "song": "In Love For A While",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/wxLE5FmNJow",
+    "https://www.youtube-nocookie.com/embed/m5SXqqRofak",
+    "https://www.youtube-nocookie.com/embed/PtlhYGVtZlk",
+    "https://www.youtube-nocookie.com/embed/EPDU08rVgaU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "In Love For A While",
+      "content": "I looked into your eyes, and when I saw your smile\nI knew right from the start: life is good for a while\nRomance comes and goes, but a love like ours is here to stay\nEach lovely night and sunny day\n\nI love everything about you, I couldn't do without you\nWhenever you're near me, all my days are on the bright side\nBut when I'm not around you, I have to find the way\nTo be with you each night and every day\n\nNa nanana nanana… na nanana nanana…\nNa nanana nananana… na nananana…\nNa nanana nanana… na nanana nanana…\nNanana nanana nanana…\n\nAnd as time goes by and we've seen stormy weather\nI know that you and I, we're alwayѕ getting better\nBut when I'm not around you, I have to find the way\nTo be with you each night and every day\n\nOh, I couldn't do without you, yeah\nI have to find the way to… to be with you, no oh no no oh…\nI love everything you do\nI have to find the way to be with you\n\nI know you and I are in love for а while"
+    }
+  ],
+  "bpm": 128,
+  "tone": "A major",
+  "artistPeople": [
+    "Anna Rossinelli"
+  ],
+  "backings": [
+    "Georg Dillier",
+    "Manuel Meisel"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "David Klein"
+  ],
+  "broadcaster": "SRG SSR idée suisse",
+  "commentators": [
+    "Jean-Marc Richard",
+    "Jonathan Tedesco",
+    "Nicolas Tanner",
+    "Sven Epiney"
+  ],
+  "jury": null,
+  "spokesperson": "Cécile Bähler"
+}

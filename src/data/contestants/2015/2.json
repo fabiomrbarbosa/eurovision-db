@@ -1,0 +1,80 @@
+{
+  "id": 2,
+  "country": "IT",
+  "artist": "Il Volo",
+  "song": "Grande amore",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/1TOMqZV2jA8",
+    "https://www.youtube-nocookie.com/embed/w1f6o1HQBvg",
+    "https://www.dailymotion.com/embed/video/x2gzc2b",
+    "https://www.youtube-nocookie.com/embed/G650-UJ4YCg",
+    "https://www.youtube-nocookie.com/embed/3DQATvwX4aI",
+    "https://www.youtube-nocookie.com/embed/b8-iYDc580Q",
+    "https://www.youtube-nocookie.com/embed/GhIwK9sOphI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": [
+        "eurovision"
+      ],
+      "title": "Grande amore",
+      "content": "Chiudo gli occhi e penso a lei\nIl profumo dolce della pelle sua\nÈ una voce dentro che mi sta portando dove nasce il sole\n\nSole sono le parole\nMa se vanno scritte tutto può cambiare\nSenza più timore te lo voglio urlare\nQuesto grande amore\nAmore, solo amore è quello che sento\n\nDimmi perché quando penso, penso solo a te\nDimmi perché quando vedo, vedo solo te\nDimmi perché quando credo, credo solo in te\nGrande amore\n\nDimmi che mai\nChe non mi lascerai mai\nDimmi chi sei\nRespiro dei giorni miei d'amore\nDimmi che sai\nChe solo me sceglierai\nOra lo sai\nTu sei il mio unico grande amore\n\nDimmi perché quando penso, penso solo a te\nDimmi perché quando amo, amo solo te\nDimmi perché quando vivo, vivo solo in te\nGrande amore\n\nDimmi che mai\nChe non mi lascerai mai\nDimmi chi sei\nRespiro dei giorni miei d'amore\nDimmi che sai\nChe non mi sbaglierei mai\nDimmi che sei\nChe sei il mio unico grande amore\n\nChe ѕei il mio unico grande аmore"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Great Love",
+      "content": "I close my eyes and think of her\nThe sweet scent of her skin\nIt's a voice within that is bringing me where the sun arises\n\nLonely are the words\nBut if they go written everything can change\nWith no fear anymore I want to scream\nThis great love\nLove, just love, it's what I feel\n\nTell me why when I think, I only think of you\nTell me why when I see, I only see you\nTell me why when I believe, I believe in you\nGreat love\n\nTell me that never\nThat you'll never leave me\nTell me who you are\nBreath of the love days of mine\nTell me that you know\nThat you'll only choose me\nNow you know it\nYou're my unique great love\n\nTell me why when I think, I only think of you\nTell me why when I love, I only love you\nTell me why when I live, I live inside you\nGreat love\n\nTell me that never\nThat you'll never leave me\nTell me who you are\nBreath of the love days of mine\nTell me that you know\nThat I would never make a miѕtake\nTell me that you are\nYou're my unique great love\n\nYou're my unique greаt love"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": [
+        "sanremo"
+      ],
+      "title": "Grande amore",
+      "content": "Chiudo gli occhi e penso a lei\nIl profumo dolce della pelle sua\nÈ una voce dentro che mi sta portando dove nasce il sole\n\nSole sono le parole\nMa se vanno scritte tutto può cambiare\nSenza più timore te lo voglio urlare\nQuesto grande amore\nAmore, solo amore è quello che sento\n\nDimmi perché quando penso, penso solo a te\nDimmi perché quando vedo, vedo solo te\nDimmi perché quando credo, credo solo in te\nGrande amore\n\nDimmi che mai\nChe non mi lascerai mai\nDimmi chi sei\nRespiro dei giorni miei d'amore\nDimmi che sai\nChe solo me sceglierai\nOra lo sai\nTu sei il mio unico grande amore\n\nPasseranno primavere\nGiorni freddi e stupidi da ricordare\nMaledette notti perse a non dormire\nAltre a far l'amore\nAmore, sei il mio amore\nPer sempre, per me\n\nDimmi perché quando penso, penso solo a te\nDimmi perché quando amo, amo solo te\nDimmi perché quando vivo, vivo solo in te\nGrande amore\n\nDimmi che mai\nChe non mi lascerai mai\nDimmi chi sei\nRespiro dei giorni miei d'amore\nDimmi che sai\nChe non mi sbaglierei mai\nDimmi che sei\nChe sei il mio unico grande amore\n\nChe ѕei il mio unico grande аmore"
+    }
+  ],
+  "bpm": 142,
+  "tone": "F minor",
+  "artistPeople": [
+    "Gianluca Ginoble",
+    "Ignazio Boschetto",
+    "Piero Barone"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Ciro Esposito",
+    "Francesco Boccia"
+  ],
+  "broadcaster": "RAI",
+  "commentators": [
+    "Federico Russo",
+    "Filippo Solibello",
+    "Marco Ardemagni",
+    "Valentina Correani"
+  ],
+  "jury": [
+    "Barbara Mosconi",
+    "Flavia Cercato",
+    "Franco Zanetti",
+    "Nicolò Cerioni",
+    "Valerio Paolini"
+  ],
+  "spokesperson": "Federico Russo"
+}

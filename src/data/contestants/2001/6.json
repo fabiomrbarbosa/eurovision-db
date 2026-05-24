@@ -1,0 +1,60 @@
+{
+  "id": 6,
+  "country": "SI",
+  "artist": "Nuša Derenda",
+  "song": "Energy",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/q1v5bbhBh9U",
+    "https://www.youtube-nocookie.com/embed/wEfFUbB9aPM",
+    "https://www.youtube-nocookie.com/embed/_5lIFO3rbo0",
+    "https://www.youtube-nocookie.com/embed/E_GcUyl9KDI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Energy",
+      "content": "Energy\nOh, what you do to me\nYour rhythm runs right through me\nYou're my destiny\nMy whole life is one big fantasy\nAnd yet the closer that I get, you're further away\n\nEnergy\nI feel such energy\nElectric runs right through me\nI'm in ecstasy\nYour caress, the sweetness on your lips\nBut the closer that I get, you're drifting away\n\nWith every heartbeat, I'm electrified\nWith just one look\nYour body moves me, moves me\nIf for one second you'd remember me\nThen I would break free\nFrom these chains that are wrapped around me\n\nEnergy\nI feel such energy\nYour rhythm runs right through me\nI'm in ecstasy\nYour caress, the sweetness on your lips\nBut the closer that I get, you're drifting away\n\nOh, energy\nI feel such energy\nElectric runs right through me\nYou're my destiny, oh…\nMy whole life is one big fantasy, oh…\nAnd all I am meаnѕ nothing till you're here with me\n\nEnergy"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "slovene"
+      ],
+      "displayedLanguages": null,
+      "title": "Ne, ni res",
+      "content": "Ne, ni res, zdaj vem, da to ni res\nDa vrag in angel sta v tebi kot iz nebes\nTo srce zdaj kot puščava je\nOsamljeno zdaj ljubi te in čaka te\n\nNe, ni res, zdaj vem, da to ni res\nKot slikar narišeš pot mi do nebes\nEn sam pogled več kot dovolj mi je\nVem - brez tebe življenje trga se, zdaj prazno je\n\nVsaka bela rosa jutranja\nIma okus po tebi, zbuja me, zbuja\nZ nasmehom žalost spereš mi z oči\nPoln nežnosti, se skriješ v moje dlani\n\nNe, ni res, zdaj vem, da to ni res\nDa vrag in angel sta v tebi kot iz nebes\nEn sam pogled več kot dovolj mi je\nVem - brez tebe življenje trga se, zdaj prazno je\n\nOh… ne, ni res, zdaj vem, da to ni res\nDa vrag in angel sta v tebi kot iz nebes, oh…\nTo srce zdaj kot puščava je, oh…\nOsamljeno zdaj ljubi te in čakа te\n\nNe, ni reѕ"
+    }
+  ],
+  "bpm": 130,
+  "tone": "F minor",
+  "artistPeople": [
+    "Anuška Žnideršič"
+  ],
+  "backings": [
+    "Gregor Luštek",
+    "Lucienne Lončina",
+    "Sebastjan Starič",
+    "Urša Vlašič"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Matjaž Vlašič"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Lucienne Lončina",
+    "Urša Vlašič"
+  ],
+  "writers": null,
+  "broadcaster": "RTVSLO",
+  "commentators": [
+    "Andrea F"
+  ],
+  "jury": null,
+  "spokesperson": "Mojca Mavec"
+}

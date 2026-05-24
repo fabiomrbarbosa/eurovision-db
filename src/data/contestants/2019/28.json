@@ -1,0 +1,61 @@
+{
+  "id": 28,
+  "country": "LT",
+  "artist": "Jurij Veklenko",
+  "song": "Run with the Lions",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5Nb3HMzsfZY",
+    "https://www.youtube-nocookie.com/embed/SyA7VvHNKUU",
+    "https://www.youtube-nocookie.com/embed/Hom7KEFl6RM",
+    "https://www.youtube-nocookie.com/embed/L2z-pcSVfCI",
+    "https://www.youtube-nocookie.com/embed/bvuRdplp8wc",
+    "https://www.youtube-nocookie.com/embed/QG-lH7LJdpg",
+    "https://www.youtube-nocookie.com/embed/Zv270fyf0Io"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "",
+      "content": "If you wanna see, just open your eyes\nIf you wanna breathe, let's go outside in the open\nOut of the open\n\nThere's no need to stay locked up inside\nThis kingdom is yours and this kingdom is mine\nLet me show you\nJust let me show you\n\nThere's no need to be afraid\nYou don't got to hide away\nCause we got a love that can't be caged\nWe got love a that can't be caged\n\nC'mon, c'mon let your feelings out\nC'mon, c'mon get your freedom now, run wild\nRun with the lions\n\nC'mon, c'mon let your feelings out\nC'mon, c'mon get your freedom now, run wild\nYou run with the lions\n\nIf you wanna voice, just open your mouth\nDon't worry about words, we'll figure it out\nJust try it\nJust try it\n\nThere's no need to be afraid\nYou don't got to hide away\nCause we got love that can't be caged\nWe got love that can't be caged\n\nC'mon, c'mon let your feelings out\nC'mon, c'mon get your freedom now, run wild\nRun with the lions\n\nC'mon, c'mon let your feelings out\nC'mon, c'mon get your freedom now, run wild\nYou run with the lions\n\nCause we got a love that can't be caged\nSo we got a love that can't be caged\nRun with the lions\nRun with the lions\n\nC'mon, c'mon let your feelings out\nC'mon, c'mon get your freedom now, run wild\nYou run with the lions\n\nCauѕe we got a love that can't be caged\nSo we got a love that can't be cаged"
+    }
+  ],
+  "bpm": 156,
+  "tone": "F major",
+  "artistPeople": [
+    "Jurijus Veklenko"
+  ],
+  "backings": [
+    "Algė Matekūnaitė",
+    "Berta Timinskaitė",
+    "Eglė Gadeikytė",
+    "Justina Budaitė",
+    "Silvija Pankūnaitė"
+  ],
+  "dancers": null,
+  "stageDirector": "Povilas Varvuolis",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Ashley Hicklin",
+    "Eric Lumiere",
+    "Pele Loriano"
+  ],
+  "broadcaster": "LRT",
+  "commentators": [
+    "Darius Užkuraitis",
+    "Gerūta Griniūtė"
+  ],
+  "jury": [
+    "Andrius Mamontovas",
+    "Girmantė Vaitkutė",
+    "Julija Ritčik",
+    "Jurgis Brūzga",
+    "Vytautas Bikus"
+  ],
+  "spokesperson": "Giedrius Masalskis"
+}

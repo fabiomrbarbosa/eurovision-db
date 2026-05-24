@@ -1,0 +1,62 @@
+{
+  "id": 8,
+  "country": "YU",
+  "artist": "Lući Kapurso & Hamo Hajdarhodžić",
+  "song": "Jedan dan",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/T8vLS6M5P8A",
+    "https://www.youtube-nocookie.com/embed/i-yvd9xNwyI",
+    "https://www.youtube-nocookie.com/embed/8mqho7lzTLQ",
+    "https://www.youtube-nocookie.com/embed/iDNiwTBPuag"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "croatian"
+      ],
+      "displayedLanguages": null,
+      "title": "Jedan dan",
+      "content": "Jedan dan, samo jedan dan\nOnaj pravi presudan čudan dan\nJedan dan, samo jedan dan\nPa da bude sav život radostan\n\nJedan dan, samo jedan dan\nOnaj pravi presudan čudan dan\nJedan dan, samo jedan dan\nPa da bude sav život radostan\n\nDani svi, svi ko jedan dan\nProć' će dobro znam\nA ljubav moja neće\nZanju živim za nju dajem sve\n\nJedan dan, samo jedan dan\nTo je život, pun život nije san\nJedan dan, onaj pravi dan\nTo je mladost, ljubav, radost stvaran san\n\nJedan dan, samo jedan dan\nOnaj pravi presudan čudan dan\nJedan dan, samo jedan dan\nPa da bude sav život radostan\n\nDani svi, svi ko jedan dan\nProć' će dobro znam\nA ljubav moja neće\nZanju živim za nju dajem sve\n\nJedan dan, samo jedan dan\nTo je život, pun život nije san\nJedan dan, onaj pravi dan\nTo je mladost, ljubav, radost stvaran ѕаn"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "One day",
+      "content": "One day, just one day\nThat real, key and odd day\nOne day, just one day\nSo may the life be happy\n\nOne day, just one day\nThat real, key and odd day\nOne day, just one day\nSo may the life be happy\n\nAll the days, like one day\nAre going away, I know\nBut my love won't\nI live during day, I give everything to a day\n\nOne day, that real day\nThat's life, rich life, not a dream\nOne day, that real day\nThat's youth, love, happiness, real day\n\nOne day, just one day\nThat real, key and odd day\nOne day, just one day\nSo may the life be happy\n\nAll the days, like one day\nAre going away, I know\nBut my love won't\nI live during day, I give everything to a day\n\nOne day, that real day\nThat's life, rich life, not a dream\nOne day, that real day\nThat's youth, love, happinesѕ, real dаy"
+    }
+  ],
+  "bpm": 126,
+  "tone": "D major",
+  "artistPeople": [
+    "Hamo Hajdarhodžić",
+    "Luciano Capurso"
+  ],
+  "backings": [
+    "Đelo Jusić",
+    "Ladislav Padjen",
+    "Marko Brešković"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Đelo Jusić",
+    "Stipica Kalogjera"
+  ],
+  "conductor": "Miljenko Prohaska",
+  "lyricists": [
+    "Stijepo Stražičić"
+  ],
+  "writers": null,
+  "broadcaster": "JRT",
+  "commentators": [
+    "Miloje Orlović",
+    "Mladen Delić",
+    "Tomaž Terček"
+  ],
+  "jury": null,
+  "spokesperson": "Snežana Lipkovska-Hadžinaumova"
+}

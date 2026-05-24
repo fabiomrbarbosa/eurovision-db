@@ -1,0 +1,55 @@
+{
+  "id": 18,
+  "country": "BE",
+  "artist": "Ingeborg",
+  "song": "Door de wind",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/yxgMOj24ETs",
+    "https://www.youtube-nocookie.com/embed/0V3kHw1JbTM",
+    "https://www.youtube-nocookie.com/embed/Rg5pzIEvR_g",
+    "https://www.youtube-nocookie.com/embed/1NyLggOatZ4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "Door de wind",
+      "content": "Door de wind, door de regen\nDwars door alles… door alles heen\n\nIk zie je voor me, met m'n ogen dicht\nIk kan je voelen, met m'n hart op slot\nIk hoor je praten, maar je bent er niet\nJe bent er niet\n\nEn ik voel me verloren\nAls ik jou moet verliezen\nEn ik blijf van je dromen\nWant ik kan je niet missen\nIk kan je niet missen\n\nDoor de wind, door de regen\nDwars door alles heen\nDoor de storm\nAl zit alles me tegen\nDoor jou, ben ik nooit alleen\n\nIk voel je naast me\nAls ik 's nachts op straat wil vergeten\nWat in m'n ogen staat geschreven\nJe moest eens weten\n\nEn ik wil me verliezen in de roes van een winnaar\nEn ik zou willen schreeuwen\nMaar ik kan alleen zingen\nIk kan alleen zingen\n\nDoor de wind (Door de wind)\nDoor de regen\nDwars door alles heen\nDoor de storm (Door de storm)\nAl zit alles me tegen\nDoor jou, ben ik nooit alleen\n\nDoor een zee van afstand\nDoor een muur van leegte\nDoor een land van stilte\nDoor een muur van leegte\n\nDoor de wind (Door de wind)\nDoor de regen\nDwars door alles heen\nDoor de storm (Door de storm)\nAl zit alleѕ me tegen\nDoor jou, ben ik nooit alleen\n\nNooit alleen\nDoor jou, ben ik nooit аlleen"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Through the wind",
+      "content": "Through the wind, through the rain\nStraight through… through everything\n\nI see you in front of me, with my eyes closed\nI can feel you, with my heart locked up\nI hear you talking, but you aren't there\nYou aren't there\n\nAnd I'd feel lost\nIf I have to lose you\nAnd I keep dreaming of you\nBecause I can't miss you\nI can't miss you\n\nThrough the wind, through the rain\nStraight through everything\nThrough the storm\nEven if it's not going my way\nBecause of you, I'm never alone\n\nI feel you by my side\nWhen I want to forget at night on the street\nWhat's written in my eyes\nIf you only knew\n\nAnd I want to get lost in a winner's extasy\nAnd I'd like to scream\nBut I can only sing\nI can only sing\n\nThrough the wind (through the wind)\nThrough the rain\nStraight through everything\nThrough the storm (Through the storm)\nEven if it's not going my way\nBecause of you, I'm never alone\n\nThrough an endless distance\nThrough a wall of emptiness\nThrough a land of silence\nThrough a wall of emptiness\n\nThrough the wind (Through the wind)\nThrough the rain\nStraight through everything\nThrough the storm (Through the storm)\nEven if it's not going my way\nBecause of you, I'm never alone\n\nNever alone\nBecauѕe of you, I'm never аlone"
+    }
+  ],
+  "bpm": 127,
+  "tone": "C# major",
+  "artistPeople": [
+    "Ingeborg Sergeant"
+  ],
+  "backings": [
+    "Stef Bos"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Freddy Sunder",
+  "lyricists": null,
+  "writers": [
+    "Stef Bos"
+  ],
+  "broadcaster": "BRT",
+  "commentators": [
+    "Jacques Mercier",
+    "Luc Appermont"
+  ],
+  "jury": null,
+  "spokesperson": "Anne Ploegaerts"
+}

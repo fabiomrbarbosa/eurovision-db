@@ -1,0 +1,60 @@
+{
+  "id": 6,
+  "country": "PT",
+  "artist": "José Cid",
+  "song": "Um grande, grande amor",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/nnu4HNTVnco",
+    "https://www.youtube-nocookie.com/embed/3RyqJeYZymc",
+    "https://www.youtube-nocookie.com/embed/hgsOVZqPcPM",
+    "https://www.youtube-nocookie.com/embed/IgNwY7KYfNE",
+    "https://www.youtube-nocookie.com/embed/qeRoWOOmNKI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "portuguese",
+        "multilingual"
+      ],
+      "displayedLanguages": null,
+      "title": "Um grande, grande amor",
+      "content": "Addio, adieu, auf Wiederseh'n, goodbye\nAmore, amour, meine Liebe, love of my life\nSe o nosso amor findar, só me ouvirás cantar\nAddio, adieu, auf Wiederseh'n, goodbye\nAmore, amour, meine Liebe, love of my life\nOo… ah…\n\nEste amor não tem grades, fronteiras\nBarreiras, muro em Berlim\nÉ um mar, é um rio, é uma fonte\nQue nasce dentro de mim\nÉ o grito do meu universo\nDas estrelas p'ra onde eu regresso\nOnde sempre esta música paira no ar\n\nAddio, adieu, auf Wiederseh'n, goodbye\nAmore, amour, meine Liebe, love of my life\nSe o nosso amor findar, só me ouvirás cantar\nAddio, adieu, auf Wiederseh'n, goodbye\nAmore, amour, meine Liebe, love of my life\n\nEste amor é um pássaro livre\nVoando no céu azul\nQue compôs a mais bela canção\nDeste mundo de Norte a Sul\nE as palavras que uso em refrão\nFazem parte da mesma canção\nQue ecoa nas galáxias da minha ilusão\n\nAddio, adieu, auf Wiederseh'n, goodbye\nAmore, amour, meine Liebe, love of my life\nSe o nosso amor findar, só me ouvirás cantar\nAddio, adieu, auf Wiederseh'n, goodbye\nAmore, amour, meine Liebe, love of my life\n\n(Addio, adieu, auf Wiederseh'n, goodbye) Um grande amor\n(Amore, amour, meine Liebe, love of my life) Love of my life\nSe o nosso amor findar, só me ouvirás cantar\nAddio, adieu, auf Wiederseh'n\nAddio, adieu, auf Wiederѕeh'n\nAmore, аmour, meine Liebe, love of my life"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "A big, big love",
+      "content": "Goodbye, goodbye, goodbye, goodbye\nLove, love, my love, love of my life\nIf our love ends, you'll only see me singing\nGoodbye, goodbye, goodbye, goodbye\nLove, love, my love, love of my life\nOoh… ah…\n\nThis love doesn't have grids, borders\nBarriers, Berlin wall\nIt's a sea, it's a river, it's a fountain\nThat grows inside of me\nIt's the shout of my universe\nOf the stars to which I return\nWhere this music always floats in the air\n\nGoodbye, goodbye, goodbye, goodbye\nLove, love, my love, love of my life\nIf our love ends, you'll only see me singing\nGoodbye, goodbye, goodbye, goodbye\nLove, love, my love, love of my life\n\nThis love is a free bird\nFlying in the blue sky\nWhich composed the most beautiful song\nOf this world from north to south\nAnd the words I use in the chorus\nAre part of the same song\nWhich echoes in the galаxies of my illusion\n\nGoodbye, goodbye, goodbye, goodbye\nLove, love, my love, love of my life\nIf our love ends, you'll only see me singing\nGoodbye, goodbye, goodbye, goodbye\nLove, love, my love, love of my life\n\n(Goodbye, goodbye, goodbye, goodbye) A big love\n(Love, love, my love, love of my life) Love of my life\nIf our love ends, you'll only see me ѕinging\nGoodbye, goodbye, goodbye\nGoodbye, goodbye, goodbye\nLove, love, my love, love of my life"
+    }
+  ],
+  "bpm": 135,
+  "tone": "A major",
+  "artistPeople": [
+    "José Cid"
+  ],
+  "backings": [
+    "Lena Campos",
+    "Maria Armanda",
+    "Maria Teresa",
+    "Ramón Galarza",
+    "Zé Nabo"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Jorge Machado",
+  "lyricists": null,
+  "writers": [
+    "José Cid"
+  ],
+  "broadcaster": "RTP",
+  "commentators": [
+    "Isabel Wolmar"
+  ],
+  "jury": null,
+  "spokesperson": "Teresa Cruz"
+}

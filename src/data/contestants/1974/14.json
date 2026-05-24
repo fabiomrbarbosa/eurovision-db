@@ -1,0 +1,60 @@
+{
+  "id": 14,
+  "country": "DE",
+  "artist": "Cindy & Bert",
+  "song": "Die Sommermelodie",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/E4hf9NKYgdc",
+    "https://www.youtube-nocookie.com/embed/vWaoMyLM_MQ",
+    "https://www.youtube-nocookie.com/embed/UyXb4vpCMEQ",
+    "https://www.youtube-nocookie.com/embed/IcBQ2RAr9_E",
+    "https://www.youtube-nocookie.com/embed/u1BAuMpitrU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Die Sommermelodie",
+      "content": "Ich hab dir heut geschrieben, es ist vorbei\nDoch du bist da, und das find ich schön\nIch soll dich nicht mehr lieben\nDu bist nicht frei und ich muss gehn, ich muss gehn\n\nIch hab dir angesehen, was du verschweigst\nDenn auch dein Herz, das hat sich verirrt\nUnd keiner weiss, was nun wird\n\nDie Sommermelodie\nDie ist nur Träumerei\nWir beide sind verliebt\nUnd das darf doch nicht sein für uns zwei\n\nDie Sommermelodie\nDie sagt du bist nicht frei\nUnd diese Zeit der Rosen geht einmal vorbei\n\nWir sehen oft uns wieder, und unser Traum\nDer ist so schön, doch leider nicht wahr\nUnd dieses Lied der Liebe klingt durch den Raum\nWir sind ein Paar, mmm…\n\nDie Sommermelodie\nDie ist nur Träumerei\nWir beide sind verliebt\nUnd das darf doch nicht sein für uns zwei\n\nDie Sommermelodie\nDie sagt du bist nicht frei\nUnd diese Zeit der Rosen geht einmal vorbei\n\n(Die Sommermelodie) Die Sommermelodie\n(Die ist nur Träumerei) Die ist nur Träumerei\nUnd diese Zeit der Roѕen geht einmаl vorbei"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The summer melody",
+      "content": "Today I wrote to you it's over\nBut still you're here and I'm glad\nI shouldn't love you anymore\nYou're not free and I must go, I must go\n\nI saw in your face what you are hiding\nBecause also your heart has lost its way\nAnd no one knows what will happen now\n\nThe summer melody\nIt's just a delusion\nWe're both in love\nBut that's not how it's supposed to be for us\n\nThe summer melody\nIt says that you're not free\nAnd this time of roses will once be over\n\nWe often see each other again, and our dream\nIt is so beautiful, but unfortunately not true\nAnd this song of love sounds throughout the room\nWe're a couple, mmm…\n\nThe summer melody\nIt's just a delusion\nWe're both in love\nBut that's not how it's supposed to be for us\n\nThe summer melody\nIt says that you're not free\nAnd this time of roses will once be over\n\n(The summer melody) The summer melody\n(It's just a daydream) It's just а delusion\nAnd this time of roseѕ will once be over"
+    }
+  ],
+  "bpm": 96,
+  "tone": "G major",
+  "artistPeople": [
+    "Norbert Maria Berger",
+    "Jutta Berger"
+  ],
+  "backings": [
+    "Brigitte Witt",
+    "Hans Van Hall",
+    "Horst Mand"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Werner Scharfenberger"
+  ],
+  "conductor": "Werner Scharfenberger",
+  "lyricists": [
+    "Kurt Feltz"
+  ],
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Werner Veigel"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

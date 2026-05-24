@@ -1,0 +1,82 @@
+{
+  "id": 28,
+  "country": "BG",
+  "artist": "Elitsa Todorova & Stoyan Yankulov",
+  "song": "Samo Shampioni",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Cb46Mhy_mCI",
+    "https://www.youtube-nocookie.com/embed/HHgazVdgKZs",
+    "https://www.youtube-nocookie.com/embed/bExp3aNOFsE",
+    "https://www.youtube-nocookie.com/embed/dLrBbXKvhTg",
+    "https://www.youtube-nocookie.com/embed/Y75rKvOJkNI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "bulgarian"
+      ],
+      "displayedLanguages": [
+        "bulgarski"
+      ],
+      "title": "Samo Shampioni",
+      "content": "Samo shampioni, samo shampioni\n\nPrelitat visoko i nadaleko\nSkachat i se smeiat i sylzi se leat\nVsichkite yunatzi, te sa nai-dobrite\nSmeli v igrite, silni vyv dushite\n\nSamo divi, samo shampioni\nZlatni momtzi, momi za milioni\nIma li mladi, ima li ludi\nTsialo selo doide\nPeite, ne se bojte\n\nSamo shampioni, samo shampioni\n\nIma li mladi, ima li ludi\nTsialo selo doide, peite, ne se bojte\n\nE… а… а… а…\n\nSamo divi, samo shampioni\nZlatni momtzi, momi za milioni\nSamo divi, samo shampioni\nZlatni momtzi, momi za milioni\n\nSamo divi, samo ѕhampioni\nZlatni momtzi, momi zа milioni"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "bulgarian"
+      ],
+      "displayedLanguages": [
+        "български"
+      ],
+      "title": "Само шампиони",
+      "content": "Само шампиони, само шампиони\n\nПрелитат високо и надалеко\nСкачат и се смеят и сълзи се леят\nВсичките юнаци, те са най добрите\nСмели в игрите силни във душите\n\nСамо диви, само шампиони\nЗлатни момци моми за милиони\nИма ли млади, има ли луди\nЦяло село дойде\nПейте не се бойте\n\nСамо шампиони, само шампиони\n\nИма ли млади, има ли луди\nЦяло село дойде, пейте не се бойте\n\nЕ… а… а… а…\n\nСамо диви, само шампиони\nЗлатни момци, моми за милиони\nСамо диви само шампиони\nЗлатни момци моми за милиони\n\nСамо диви само шампиони\nЗлатни момци моми за милиони"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Only Champions",
+      "content": "Only Champions, Only Champions\n\nFlying far and high\nJumping, laughing, crying\nThe youngest, the best and the bravest\nAll strong at heart\n\nOnly wild ones, only champions\nGolden boys and girls for millions\nGive us the young ones, give us the happy ones\nAnd the whole village comes\nSing, don't be afraid\n\nOnly Champions, Only Champions\n\nGive us young ones, give us happy ones\nAnd the whole village comes\n\nE… а… а… а…\n\nOnly wild ones, only champions\nGolden boys and girls for millions\nOnly wild ones, only champions\nGolden boys and girls for millions\n\nOnly wild ones, only champions\nGolden boys аnd girls for millionѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Sólo campeones",
+      "content": "Sólo Campeones, Sólo Campeones\n\nVolando lejos y alto\nSaltando, riendo, llorando\nLos más jóvenes, los mejores y los más valientes\nTodos fuertes de corazón\n\nSólo los salvajes, sólo campeones\nChicos y chicas dorados a millones\nDanos los jóvenes, dadnos los felices\nY todo el pueblo viene\nCantad, no temáis\n\nSólo Campeones, Sólo Campeones\n\nDadnos los jóvenes, dadnos los felices\nY todo el pueblo viene\n\nE… a… a… a…\n\nSólo los salvajes, sólo campeones\nChicos y chicas dorados a millones\nSólo los salvajes, sólo campeones\nChicos y chicas dorados a millones\n\nSólo los salvajes, sólo campeones\nChicos y chicas dorados а milloneѕ"
+    }
+  ],
+  "bpm": 130,
+  "tone": "A minor",
+  "artistPeople": [
+    "Elitsa Todorova",
+    "Stoyan Yankoulov"
+  ],
+  "backings": [
+    "Bilyana Sokolova",
+    "Biserka Danova-Pilarska",
+    "Desislava Georgieva"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Christian Talev",
+    "Elitsa Todorova"
+  ],
+  "broadcaster": "BNT",
+  "commentators": [
+    "Elena Rosberg",
+    "Georgi Kushvaliev"
+  ],
+  "jury": null,
+  "spokesperson": "Yoanna Dragneva"
+}

@@ -1,0 +1,48 @@
+{
+  "id": 14,
+  "country": "AT",
+  "artist": "Eleonore Schwarz",
+  "song": "Nur in der Wiener Luft",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/1cRmfgPeK40",
+    "https://www.youtube-nocookie.com/embed/Ipv5MG1hApM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Nur in der Wiener Luft",
+      "content": "Nur in der Wiener Luft spürt man den besonderen Duft\nVon einer gewissen süßen Walzermelodie\nSchaut man zum Fenster 'naus\nKlingt es nach Johann Strauß\nUnd nach dem Zauber seiner Walzerpoesie\n\nUnd jedes Wienerkind liebt diesen einen Wind\nSausend und brausend wie ein Kind der Phantasien\nOft kann er zärtlich sein, stürmt oft wie junger Wein\nZauberer von Wien, Walzer aus Wien\n\nStephansdom, Rathausmann\nSacher und Würstelmann\nKennt jedes Kind auf der Welt\nVon unseren Backhendln, Schubert und Staatsoper\nHat schon der Opa erzählt\n\nUnd dann noch: Grinzing und Burgtheater\nSchrammeln und Hauptallee\nSind unsere Spezialität\nAber da fehlt noch was Wichtiges, nämlich das\nWas net im Baedeker steht:\n\nNur in der Wiener Luft liegt so ein besonderer Duft\nSingend und klingend bringt er dich zu Phantasien\nOft kann er zärtlich sein, stürmt oft wie junger Wein\nZauberer von Wien, Walzer aus Wien\n\nUnd jedes Wienerkind liebt diesen einen Wind\nSausend und brausend wie ein Kind der Phantasien\nOft kann er zärtlich sein, stürmt oft wie junger Wein\nWalzer auѕ Wien, jа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Only in the air of Vienna",
+      "content": "Only in the air of Vienna you smell that special scent\nOf a certain sweet waltz melody\nWhen you look out of your window\nYou hear the sound of Johann Strauss\nAnd the magic of his waltz poetry\n\nAnd every child of Vienna loves this wind\nRushing and blustering like an imaginative child\nOften he can be gentle, often he is stormy like young wine\nMagician of Vienna, Waltz of Vienna\n\nSt Stephen's Cathedral, the city hall man\nSacher cake and sausage vendor\nAre well known by every child in the world\nAbout our grilled chicken, Schubert and the National Opera\nGrandfather already told\n\nAnd also the Grinzing and Burgtheater\nSchrammeln and the main avenue\nAre our specialities\nBut one important thing is still missing\nYou can't read it in the Baedecker\n\nOnly in the air of Vienna you smell that special scent\nSinging and sounding he brings you to Phantasia.\nOften he can be gentle, often he is stormy like young wine\nMagician of Vienna, Waltz of Vienna\n\nAnd every child of Vienna loves this wind\nRushing and blustering like an imaginative child\nOften he can be gentle, often he is stormy like young wine\nWaltz of Viennа, yeѕ"
+    }
+  ],
+  "bpm": 165,
+  "tone": "D major",
+  "artistPeople": [
+    "Eleonore Schwarz"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Bruno Uher",
+  "lyricists": null,
+  "writers": [
+    "Bruno Uher"
+  ],
+  "broadcaster": "ORF",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Emil Kollpacher"
+}

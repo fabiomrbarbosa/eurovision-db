@@ -1,0 +1,59 @@
+{
+  "id": 4,
+  "country": "ES",
+  "artist": "Azúcar Moreno",
+  "song": "Bandido",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/7dGysPC_q9k",
+    "https://www.youtube-nocookie.com/embed/y2EYjCGd0ss",
+    "https://www.youtube-nocookie.com/embed/HfJPUluHLJI",
+    "https://www.youtube-nocookie.com/embed/XEZvKOAYoH4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Bandido",
+      "content": "Ladies and Gentlemen\nIt's showtime at the Apollo Theater\nEverybody, the Hardest-Working Man in Show Business\n\nLa luna me embrujó y me llevó hasta ti\nVeneno del amor que yo feliz bebí\nY aunque mi pecho ardió y me abrasó la piel\nMe supo dulce como la miel\n\nTus ojos, bandido, robaron con cuentos\nLa sangre y la vida de mi corazón\nTu ausencia en mis noches provoca lamentos\nSuspiros y llantos de oscura pasión\n\nY ahora cada vez que de mi lado te vas\nSiento el dolor crecer más y más\n\nTus ojos, bandido, robaron con cuentos\nLa sangre y la vida de mi corazón\nTu ausencia en mis noches provoca lamentos\nSuspiros y llantos de oscura pasión\n\nAsí que abrázame con furia de huracán\nQue el fuego de tu amor sea como un volcán\nY luego bésame, atrápame en tu red\nQue al fin tus labios colmen mi sed\n\nTus ojos, bandido, robaron con cuentos\nLa sangre y la vida de mi corazón\nTu ausencia en mis noches provoca lamentos\nSuspiros y llantos de oscura pasión\n\nTus ojos, bandido, robaron con cuentos\nLa sangre y la vida de mi corazón\nTu ausencia en mis noches provoca lamentos\nSuspiros y llantos de oscura pаѕión"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Bandit",
+      "content": "Ladies and Gentlemen\nIt's showtime at the Apollo Theater\nEverybody, the Hardest-Working Man in Show Business\n\nThe moon bewitched me and took me to you\nLove poison that I drank happily\nAnd although my chest burned and scorched my skin\nFor me, it tasted as sweet as honey\n\nYour eyes, bandit, stole with lies\nThe blood and the life of my heart\nYour absence in my nights causes sadness\nSighs and tears of dark passion\n\nAnd now every time that you leave me\nI feel the pain growing bigger and bigger\n\nYour eyes, bandit, stole with lies\nThe blood and the life of my heart\nYour absence in my nights causes sadness\nSighs and tears, and dark passion\n\nSo embrace me with hurricane fury\nMay the fire of your love be like a volcano\nAnd then kiss me, trap me in your net\nMay your lips finally quench my thirst\n\nYour eyes, bandit, stole with lies\nThe blood and the life of my heart\nYour absence in my nights causes sadness\nSighs and tears, and dark passion\n\nYour eyes, bandit, stole with lies\nThe blood and the life of my heart\nYour absence in my nights causes sadness\nSighs and tears, and dark pаsѕion"
+    }
+  ],
+  "bpm": 128,
+  "tone": "Eb minor",
+  "artistPeople": [
+    "Encarnación Salazar Salazar",
+    "Antonia Salazar Salazar"
+  ],
+  "backings": [
+    "José 'Pepe' Marchante",
+    "Ricardo Batista"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jaime Stinus",
+    "Raúl Orellana"
+  ],
+  "conductor": "Eduardo Leiva",
+  "lyricists": [
+    "José Luis Abel"
+  ],
+  "writers": null,
+  "broadcaster": "TVE",
+  "commentators": [
+    "Luis Cobos"
+  ],
+  "jury": null,
+  "spokesperson": "Matilde Jarrín"
+}

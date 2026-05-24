@@ -1,0 +1,100 @@
+{
+  "id": 20,
+  "country": "HU",
+  "artist": "AWS",
+  "song": "Viszlát nyár",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/p6e1TmYb33w",
+    "https://www.youtube-nocookie.com/embed/QQgurXKh42U",
+    "https://www.youtube-nocookie.com/embed/lR8x85ZFu44",
+    "https://www.youtube-nocookie.com/embed/j8Z9i5WWTME",
+    "https://www.youtube-nocookie.com/embed/TcWC7XOBZIE",
+    "https://www.youtube-nocookie.com/embed/kwIqHuGPz74",
+    "https://www.youtube-nocookie.com/embed/4cwBcGxtkBM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "hungarian"
+      ],
+      "displayedLanguages": null,
+      "title": "Viszlát nyár",
+      "content": "Játsszunk nyílt lapokkal végre:\n a hajómnak mennie kell\n és itt fog hagyni téged\n\nMajd benned él tovább a vérem\n és ha nem adod el, a szíveden a jel\nmi a földről az égig emel\n\nViszlát nyár, most már elkéstél\nmert azt hazudtad, enyém leszel\nde nem jöttél\n\nViszlát álom, köszönöm, hogy eltűntél\nMost már ideje visszakapnom\namiket elvettél\n\nMegfáradt ereimben az élet\ntudom, hogy fognál még\nde engedj el már, kérlek\n\nItt van, tépd le belőlem a részed\nés ha nem adod el, a ѕzíveden a jel\n mi a földről аz égig emel"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": null,
+      "title": "Αντίο καλοκαίρι",
+      "content": "Ας είμαστε σκληρά ειλικρινείς\nΤο σκάφος μου πρέπει να φύγει\nΚαι θα σε αφήσει εδώ\n\nΤο αίμα μου θα ζει μέσα σου\nΚαι αν δεν το πουλήσεις, το σημάδι είναι στην καρδιά σου\nΠου σε σηκώνει από το έδαφος στον ουρανό\n\nΑντίο καλοκαίρι, σου έλειψα\nΓιατί είπες ψέματα ότι θα γίνεις δικό μου\nΑλλά δεν ήρθες\n\nΑντίο όνειρο, είμαι τόσο ευγνώμων που έφυγες\nΤώρα ήρθε η ώρα να με επιστρέψεις\nΑυτό που μου πήρες\n\nΗ ζωή έχει κουραστεί στις φλέβες μου\nΞέρω ότι θα κρατούσες (εμένα)\nΑλλά παρακαλώ, αφήσε με να φύγω\n\nΟρίστε, αφαιρέστε το μέρος σας από πάνω μου\nΚαι αν δεν το πουλήσετε, το σημάδι είναι στην καρδιά σας\nΠου σε ανεβάζει από το έδαφος στον ουρανό"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Goodbye Summer",
+      "content": "Let's be cruelly honest:\nMy boat has to go\nAnd it will leave you here\n\nMy blood will live within you\nAnd if you don't sell it, the mark is on your heart\nWhich lifts you up from the ground to the sky\n\nGoodbye summer, you missed me\n'Cause you lied that you'll be mine\nBut you didn't come\n\nGoodbye dream, I'm so thankful that you're gone\nNow it's time to give me back\nWhat you took away from me\n\nThe life has got tired in my veins\nI know that you'd hold (me)\nBut please, let me go\n\nHere it is, strip your part out of me\nAnd if you don't sell it, the mark is on your heаrt\nWhich lifts you up from the ground to the ѕky"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Farväl sommar",
+      "content": "Låt oss lägga korten på bordet:\nMin båt är på väg till havs\nOch den kommer få lämna dig kvar\n\nMitt blod lever vidare med dig\nOch om du inte säljer det vidare, finns det en markering på dittt hjärta\nSom lyfter upp dig från marken\n\nFarväl sommar, du har missat mig\nFör du ljög att du skulle vara min\nDu kom aldrig\n\nFarväl till drömmen, tack för att du försvann\nDet är dags nu att ge mig tillbaks\nVad du tog ifrån mig\n\nMitt livsblod har tröttnat i mina vener\nDu håller dig fortfarande kvar\nMen snälla, låt mig gå\n\nHär finns din andel du kan ta från mig\nOch om du inte säljer det vidare, finnѕ det en markering på dittt hjärta\nSom lyfter upp dig från mаrken"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Goodbye Summer",
+      "content": "Let's lay our cards on the table:\nMy vessel's headed outbound\nAnd it will leave you drowned\n\nMy blood is running in your veins\nNever trade it away, there's a mark on your heart\nThat lifts you up from the ground\n\nSummer gone, you're all too late\nThat you'll be mine was just a lie\nYou never came\n\nDreams all gone, thanks for fading away\nIt's about time that you repay\nAll you chose to take\n\nI'm so washed out now and weary\nYou're still holding on\nBut, please, let go of me\n\nYou can tear off your fair share of me\nNever trade it away, there's a mark on your heart\nThаt liftѕ up from the ground"
+    }
+  ],
+  "bpm": 164,
+  "tone": "Eb minor",
+  "artistPeople": [
+    "Áron Veress",
+    "Bence Brucker",
+    "Dániel Kökényes",
+    "Örs Siklósi",
+    "Soma Schiszler"
+  ],
+  "backings": [
+    "David Schwartz"
+  ],
+  "dancers": null,
+  "stageDirector": "Szabolcs Gyöngyösi",
+  "composers": [
+    "Áron Veress",
+    "Bence Brucker",
+    "Dániel Kökényes",
+    "Soma Schiszler"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Örs Siklósi"
+  ],
+  "writers": null,
+  "broadcaster": "MTV",
+  "commentators": [
+    "Freddie",
+    "Krisztina Rátonyi"
+  ],
+  "jury": [
+    "Balázs Bolyki",
+    "James Karácsony",
+    "Lilla Vincze",
+    "Szabó Zé",
+    "Szandi"
+  ],
+  "spokesperson": "Bence Forró"
+}

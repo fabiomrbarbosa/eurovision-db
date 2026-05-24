@@ -1,0 +1,60 @@
+{
+  "id": 17,
+  "country": "BE",
+  "artist": "Pas de Deux",
+  "song": "Rendez-vous",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ek6JUyOBMH8",
+    "https://www.youtube-nocookie.com/embed/9SfRTuaFis4",
+    "https://www.youtube-nocookie.com/embed/loXd5_r47uc",
+    "https://www.youtube-nocookie.com/embed/75NHvComlHo",
+    "https://www.youtube-nocookie.com/embed/BUFjtBhAms8",
+    "https://www.youtube-nocookie.com/embed/B3-b_sjcWQw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "Rendez-vous",
+      "content": "Rendez-vous\nMaar de maat is vol en m'n kop is toe\n\nRendez-vous\nMaar de maat is vol en m'n kop is toe\n\nRendez-vous\nRendez-vous\n\nRendez-vous\nMaar de maat is vol\n\nRendez-vous\nMaar de maat is vol en m'n kop is toe\n\nRendez-vous\nMaar de maat is vol en m'n kop is toe\n\nRendez-vous\nRendez-vous\n\nRendez-vous\nMaar de maat is vol\n\nRendez-vous\nMaar de maаt is vol en m'n kop iѕ toe"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Rendezvous",
+      "content": "Rendez-vous\nBut its over now, I don't have a clue\n\nRendez-vous\nBut its over now, I don't have a clue\n\nRendez-vous\nRendez-vous\n\nRendez-vous\nBut its over now\n\nRendez-vous\nBut its over now, I don't have a clue\n\nRendez-vous\nBut its over now, I don't have a clue\n\nRendez-vous\nRendez-vous\n\nRendez-vous\nBut its over now\n\nRendez-vous\nBut itѕ over now, I don't have а clue"
+    }
+  ],
+  "bpm": 149,
+  "tone": "E major",
+  "artistPeople": [
+    "Bernadette Peyskens",
+    "Hilde Van Roy",
+    "Walter Verdin"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Walter Verdin"
+  ],
+  "conductor": "Freddy Sunder",
+  "lyricists": [
+    "Paul Peyskens",
+    "Walter Verdin"
+  ],
+  "writers": null,
+  "broadcaster": "BRT",
+  "commentators": [
+    "Jacques Mercier",
+    "Luc Appermont"
+  ],
+  "jury": null,
+  "spokesperson": "Anne Ploegaerts"
+}

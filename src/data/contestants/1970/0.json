@@ -1,0 +1,54 @@
+{
+  "id": 0,
+  "country": "IE",
+  "artist": "Dana",
+  "song": "All Kinds of Everything",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/sZ8W9oOgjM4",
+    "https://www.youtube-nocookie.com/embed/PK-p8l8fdNE",
+    "https://www.youtube-nocookie.com/embed/HMuDslkfAd4",
+    "https://www.youtube-nocookie.com/embed/o-2bpDAIRzk",
+    "https://www.youtube-nocookie.com/embed/7xzDmDUH97Y"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "All Kinds of Everything",
+      "content": "Snowdrops and daffodils, butterflies and bees\nSailboats and fishermen, things of the sea\nWishing wells, wedding bells, early morning dew\nAll kinds of everything remind me of you\n\nSeagulls and aeroplanes, things of the sky\nWinds that go howling, breezes that sigh\nCity sights, neon lights, grey skies or blue\nAll kinds of everything remind me of you\n\nSummertime, wintertime\nSpring and autumn too\nMonday, Tuesday, every day\nI think of you\n\nDances, romances, things of the night\nSunshine and holidays, postcards to write\nBudding trees, autumn leaves, a snowflake or two\nAll kinds of everything remind me of you\n\nSummertime, wintertime\nSpring and autumn too\nSeasons will never change\nThe way that I love you\n\nDances, romances, things of the night\nSunshine and holidays, postcards to write\nBudding trees, autumn leaves, a snowflаke or two\nAll kinds of everything remind me of you\nAll kindѕ of everything remind me of you"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": null,
+      "title": "Όλα τα είδη των πάντων",
+      "content": "Χιονοσταλίδες και νάρκισσους, πεταλούδες και μέλισσες\nΙστιοφόρα και ψαράδες, πράγματα της θάλασσας\nΠηγάδια ευχών, γαμήλιες καμπάνες, πρωινή δροσιά\nΌλα τα είδη των πάντων μου θυμίζουν εσένα\n\nΓλάροι κι αεροπλάνα, πράγματα του ουρανού\nΆνεμοι που ουρλιάζουν, αεράκια που αναστενάζουν\nΑξιοθέατα της πόλης, φώτα νέον, γκρίζοι ουρανοί ή μπλε\nΌλα τα είδη των πάντων μου θυμίζουν εσένα\n\nΚαλοκαίρι, χειμώνας\nΆνοιξη και φθινόπωρο επίσης\nΔευτέρα, Τρίτη, κάθε μέρα\nΣε σκέφτομαι\n\nΧοροί, ρομάντζα, πράγματα της νύχτας\nΗλιοφάνεια και διακοπές, καρτ ποστάλ να γράψω\nΒλαστάρια δέντρα, φθινοπωρινά φύλλα, μία χιονονιφάδα ή δύο\nΌλα τα είδη των πάντων μου θυμίζουν εσένα\n\nΚαλοκαίρι, χειμώνας\nΆνοιξη και φθινόπωρο επίσης\nΟι εποχές δεν θα αλλάξουν ποτέ\nΤον τρόπο που σε αγαπώ\n\nΧοροί, ρομάντζα, πράγματα της νύχτας\nΗλιοφάνεια και διακοπές, καρτ ποστάλ να γράψω\nΒλαστάρια δέντρα, φθινοπωρινά φύλλα, μία χιονονιφάδα ή δύο\nΌλα τα είδη των πάντων μου θυμίζουν εσένα\nΌλα τα είδη των πάντων μου θυμίζουν εσένα"
+    }
+  ],
+  "bpm": 107,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Dana Rosemary Scallon"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Dolf van der Linden",
+  "lyricists": null,
+  "writers": [
+    "Derry Lindsay",
+    "Jackie Smith"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Valerie McGovern"
+  ],
+  "jury": null,
+  "spokesperson": "John Skehan"
+}

@@ -1,0 +1,54 @@
+{
+  "id": 5,
+  "country": "FI",
+  "artist": "Marion Rung",
+  "song": "Tom Tom Tom",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5y2RlETV1Zw",
+    "https://www.youtube-nocookie.com/embed/hmMnYdncdmY",
+    "https://www.youtube-nocookie.com/embed/-sUSphLIQW8",
+    "https://www.youtube-nocookie.com/embed/0dDfueCpXjs"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Tom Tom Tom",
+      "content": "Tom Tom Tom Tom Tom Tom\nI hear the music\nTom Tom Tom Tom Tom Tom\nThat's how it goes\n\nMusic wakes me up every morning\nSkylight seem to bring on the sun\nBluebirds chase my blues with the dawning\nI don't mind the work to be done\n\nYour smile makes my life worth the living\nAnd tells me how lucky I am\nTo share in the love you are giving\nEvery day, in every way\n\nEvery city sound has a rhythm\nRhythm with the beat of my heart\nBegging me to sing along with him\nTelling me to give love a start\n\nTom Tom Tom Tom Tom Tom\nI hear the music\nTom Tom Tom Tom Tom Tom\nThat's how it goes\n\nAll day long, the hurry and scurry\nTangled is the web that we weave\nLet the others whisper and worry\nAs for me, my heart's on my sleeve\n\nYour smile makes my life worth the living\nAnd tells me how lucky I am\nTo share in the love you are giving\nEvery day, in every way\n\nNightingales all welcome the nighttime\nSoothing me to sleep with their song\nYour love came along at the right time\nLove that keeps me singing along\n\nAh… Tom Tom Tom Tom Tom Tom\nI hear the music\nTom Tom Tom Tom Tom Tom\nThat's how it goes\n\nYeah…\nTra la la la la la la la la…\nRa la la la la la la la…\nRa la la la la la la la la…\nRa la la la la la la la…\n\nYour smile makes my life worth the living\nAnd tells me how lucky I am\nTo share in the love you are giving\nEvery day, in every way\n\nNightingales all welcome the nighttime\nSoothing me to sleep with their song\nYour love came along at the right time\nLove that keeps me singing along\nIt's love that keeps me ѕinging аlong"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Tom Tom Tom",
+      "content": "Tom tom tom tom tom tom\nNyt soiton kuulen\nTom tom tom tom tom tom\nNäin onnistuu\n\nAurinkoisen aamun voi alkaa\nNousta päivään harmittomaan\nYlös, kengät paina ei jalkaa\nElämä on parhaimmillaan\n\nKun kaikille aurinko loistaa\nSe kaikille yhteinen on\nSe kaikilta kylmyyden poistaa\nMieli on niin huoleton\n\nOnnellisen päivän saat varmaan\nSilloin kun et aavistakaan\nVaihtaa saat pois ilmeesi harmaan\nHymynaamat valloittaa maan\n\nTom tom tom tom tom tom\nNyt soiton kuulen\nTom tom tom tom tom tom\nNäin onnistuu\n\nSatumainen ilta kun saapuu\nHymynaamat taas nähdä saan\nPuvustasi nappi jos puuttuu\nNaura sille reilusti vaan\n\nKun kaikille aurinko loistaa\nSe kaikille yhteinen on\nSe kaikilta kylmyyden poistaa\nMieli on niin huoleton\n\nAurinkoinen aamu kun koittaa\nHyvän tuulen luoda sä saat\nOrkesteri lintujen soittaa\nTäyttää kaikki metsät ja maat\n\nOh… tom tom tom tom tom tom\nNyt soiton kuulen\nTom tom tom tom tom tom\nNäin onnistuu\n\nJa… Ja…\nTra la la la la la la la la…\nRa la la la la la la la…\nRa la la la la la la la la…\nRa la la la la la la la…\n\nKun kaikille aurinko loistaa\nSe kaikille yhteinen on\nSe kaikilta kylmyyden poistaa\nMieli on niin huoleton\n\nOnnellisen päivän saat varmaan\nSilloin kun et aavistakaan\nVaihtaa saat pois ilmeeѕi harmaan\nHymynaamat valloittaa maan\nKun hymynaamat valloittaa maаn"
+    }
+  ],
+  "bpm": 131,
+  "tone": "C# major",
+  "artistPeople": [
+    "Marion Rung"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Rauno Lehtinen"
+  ],
+  "conductor": "Ossi Runne",
+  "lyricists": [
+    "Bob Barratt"
+  ],
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Erkki Pohjanheimo"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

@@ -1,0 +1,67 @@
+{
+  "id": 10,
+  "country": "CZ",
+  "artist": "Lake Malawi",
+  "song": "Friend of a Friend",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/NJxLKFZKhNs",
+    "https://www.youtube-nocookie.com/embed/8-HR-L4QY0g",
+    "https://www.youtube-nocookie.com/embed/yH1-uy9FYKE",
+    "https://www.youtube-nocookie.com/embed/E63kzXA1pqY",
+    "https://www.youtube-nocookie.com/embed/dKJAoaZvzRs",
+    "https://www.youtube-nocookie.com/embed/Nn9lSY402rA",
+    "https://www.youtube-nocookie.com/embed/CHc3kYKJ_UM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Friend of a Friend",
+      "content": "Can you hear it?\nThere's someone behind the wall making the same sounds\nCan you hear it?\nIt sounds like you and me when we're making love\nWho is it?\nYou said you wish they weren't taking such a long time\n\nShe was my neighbour when we were thirteen\nShe moved back in\nThere's not much between us now\nDo you know what I mean?\n\nShe's only a friend of a friend of a friend of a friend\nShe's never home 'cause she plays in a band\nI don't know if you'd understand\nShe's only a friend of a friend of a friend\nI had a dream that she walked through the door\nI can't recall her name anymore\nPlease believe me, I'm your man\nShe's only a friend of a friend of a friend\n(I'm only a friend)\n\nCan you feel it?\nThere's someone sliding up and down the ceiling\nBreathing, he is synchronizing with her beating heart\n(With her beating heart)\n\nShe was my neighbour when we were thirteen\nShe moved back in\nThere's not much between us now\nDo you know what I mean?\n\nShe's only a friend of a friend of a friend of a friend\nShe's never home 'cause she plays in a band\nI don't know if you'd understand\nShe's only a friend of a friend of a friend\nI had a dream that she walked through the door\nI can't recall her name anymore\nPlease believe me, I'm your man\nShe's only a friend of a friend of a friend\n(I'm only a friend)\n(I'm only a friend)\nShe's only a friend of a friend of a friend of a friend\nShe's never home 'cause she plays in a band\nI don't know if you'd understand\nShe's only a friend of a friend of a friend\nI had a dream that she walked through the door\nI can't recall her name anymore\nPlease believe me, I'm your man\nShe'ѕ only a friend of a friend of а friend"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "czech"
+      ],
+      "displayedLanguages": null,
+      "title": "Přítel přítele",
+      "content": "Slyšíte to?\nZa zdí je někdo, kdo vydává stejné zvuky\nSlyšíš to?\nZní to jako ty a já, když se milujeme\nKdo je to?\nŘíkal jsi, že by sis přál, aby jim to netrvalo tak dlouho\n\nByla to moje sousedka, když nám bylo třináct\nPřistěhovala se zpátky\nTeď už nás nic moc nedělí\nVíš, co tím myslím?\n\nJe to jen kamarádka kamarádky kamarádky kamarádky kamarádky\nNikdy není doma, protože hraje v kapele\nNevím, jestli to pochopíš\nJe to jen kamarádka kamarádky kamarádky\nZdálo se mi, že prošla dveřmi\nUž si nevzpomínám na její jméno\nProsím, věř mi, jsem tvůj muž\nJe to jen kamarádka kamarádky kamarádky\n(Jsem jen přítel)\n\nCítíš to?\nNěkdo klouže nahoru a dolů po stropě\nDýchá, synchronizuje se s tlukotem jejího srdce\n(S jejím tlukoucím srdcem)\n\nByla to moje sousedka, když nám bylo třináct\nPřestěhovala se zpátky\nTeď už toho mezi námi moc není\nVíš, co tím myslím?\n\nJe to jen kamarádka kamarádky kamarádky kamarádky kamarádky\nNikdy není doma, protože hraje v kapele\nNevím, jestli to pochopíš\nJe to jen kamarádka kamarádky kamarádky\nZdálo se mi, že prošla dveřmi\nUž si nevzpomínám na její jméno\nProsím, věř mi, jsem tvůj muž\nJe to jen kamarádka kamarádky kamarádky\n(Jsem jen přítel)\n(Jsem jen přítel)\nJe to jen kamarádka kamarádky kamarádky kamarádky kamarádky\nNikdy není doma, protože hraje v kapele\nNevím, jestli to pochopíš\nJe to jen kamarádka kamarádky kamarádky\nZdálo se mi, že prošla dveřmi\nUž si nevzpomínám na její jméno\nProsím, věř mi, jѕem tvůj muž\nJe to jen kamarádka kamarádky kamarádky kamarádky kamarádky. (Ona je jen kamarádka kamarádky kamаrádky)"
+    }
+  ],
+  "bpm": 106,
+  "tone": "A minor",
+  "artistPeople": [
+    "Albert Černý"
+  ],
+  "backings": [
+    "Adina Vostry",
+    "IBY Pop",
+    "Jakub Gabriel Anděl Rajnoch"
+  ],
+  "dancers": null,
+  "stageDirector": "Jan Potměšil",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Albert Černý",
+    "Jan Steinsdörfer",
+    "Mikołaj Trybulec"
+  ],
+  "broadcaster": "ČT",
+  "commentators": [
+    "Libor Bouček"
+  ],
+  "jury": [
+    "Annet X",
+    "Iva Boková",
+    "Jitka Zelenková",
+    "Ondřej Cikán",
+    "Šimon Holý"
+  ],
+  "spokesperson": "Radka Rosická"
+}

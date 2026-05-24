@@ -1,0 +1,57 @@
+{
+  "id": 4,
+  "country": "SE",
+  "artist": "Lasse Holm & Monica Törnell",
+  "song": "E' de' det här du kallar kärlek?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/rH0ao0Mz2Y4",
+    "https://www.youtube-nocookie.com/embed/ouSvQo_MQl8",
+    "https://www.youtube-nocookie.com/embed/zfPo7Y3DBYI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "E' de' det här du kallar kärlek?",
+      "content": "Jag kan inte längre existera normalt\nEna dan är ej den andra lik\nOch jag har försökt att ignorera dig totalt\nÄven om jag vet du är unik\n\nKänslorna som bränner är plågor för mig\nOch ändå vill jag hålla dig kvar\nÄven om jag känner en längtan till dig\nFrågar jag och kräver ett svar\n\nE' de' det här du kallar kärlek? (Det här du kallar kärlek?)\nVill jag inte längre va' med\nE' de' det här du kallar känslor? (Det här du kallar känslor?)\nÄr det inte någon idé\n\nAllting som du gör är koncentrerat till mig\nDu har blivit någon sorts mani\nOch jag har så lätt att fascineras av dig\nDu är kärlekens reguladetri\n\nKänslorna som bränner är plågor för mig\nÄndå vill jag hålla dig kvar\nÄven om jag känner, jag längtar till dig\nFrågar jag och kräver ett svar\n\nE' de' det här du kallar kärlek? (Det här du kallar kärlek?)\nVill jag inte längre va' med\nE' de' det här du kallar känslor? (Det här du kallar känslor?)\nÄr det inte någon idé\n\nOch varje gång du ler, så händer det nånting\nJag bönar och jag ber, men inget under sker\n\nE' de' det här du kallar kärlek? (Det här du kallar kärlek?)\nVill jag inte längre va' med\nE' de' det här du kallar känslor? (Det här du kallar känѕlor?)\nÄr det inte någon idé\n\nE' de' det här du kallar kärlek? (Det här du kallar kärlek?)\nVill jag inte längre vа' med\nE' de' det här du vill?\nÄr det inte någon idé"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Is this what you call love?",
+      "content": "I cannot live normally anymore\nEach day is different from the other\nAnd I've been trying to ignore you totally\nEven though I know you are unique\n\nEmotions always burning are torment to me\nAnd yet I still want you for me\nEven though I suffer a longing for you\nI ask and demand an answer\n\nIs this what you call love? (This what you call love?)\nI don't want to have any more\nIs this what you call feelings? (This what you call feelings?)\nThere's no point to it\n\nEverything you do is concentrated on me\nYou've become an obsession\nIt's easy for me to be fascinated by you\nYou are loves irresistible force\n\nEmotions always burning are torment to me\nYet I still want you for me\nEven though I feel, I'm longing for you\nI ask and demand an answer\n\nIs this what you call love? (This what you call love?)\nI don't want to have any more\nIs this what you call feelings? (This what you call feelings?)\nThere's no point to it\n\nAnd every time you smile, something happens\nI plead and I pray, but no wonder happens\n\nIs this what you call love? (This what you call love?)\nI don't want to have any more\nIs this what you call feelings? (This what you call feelings?)\nThere's no point to it\n\nIs this what you call love? (This what you call love?)\nI don't want to have any more\nIs this what you wаnt?\nThere'ѕ no point to it"
+    }
+  ],
+  "bpm": 122,
+  "tone": "F major",
+  "artistPeople": [
+    "Lasse Holm",
+    "Monica Törnell"
+  ],
+  "backings": [
+    "Leif Ingdahl",
+    "Lennart Sjöholm",
+    "Sten Carlberg",
+    "Vicki Benckert"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Anders Berglund",
+  "lyricists": null,
+  "writers": [
+    "Lasse Holm"
+  ],
+  "broadcaster": "SVT",
+  "commentators": [
+    "Ulf Elfving"
+  ],
+  "jury": null,
+  "spokesperson": "Agneta Bolme-Börjefors"
+}

@@ -1,0 +1,58 @@
+{
+  "id": 11,
+  "country": "CH",
+  "artist": "Patrick Juvet",
+  "song": "Je vais me marier, Marie",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/kSY9_l3OhDc",
+    "https://www.youtube-nocookie.com/embed/MXdtkDZoQRo",
+    "https://www.youtube-nocookie.com/embed/DyBHXSrXbcQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Je vais me marier, Marie",
+      "content": "Mes amis, mes bons amis, je vous ai réunis\nNous allons nous noyer dans le champagne et le whisky\nAllez youpie\nOn va rire et chanter pendant toute la nuit\nEt puis, demain matin, je me rendrai à la mairie\nAllez youpie, allez youpie\n\nJe vais me marier, Marie\nEt vous quitter Sophie, Marianne et Virginie\nOh, ne pleure pas, Marie\nPas plus que toi, Véronica et Rebecca\nJe renonce à vos caresses, à votre amour, à ma douce vie\n\nJe vais me marier, Roger\nEt vous quitter, toi Frédéric et toi Didier\nNe te moque pas, Lucas\nPas plus que toi, Napoléon, ni toi, Colas\nJe renonce à nos prouesses, à nos nuits de folie\nEt à notre jeunesse qui finit aujourd'hui\nPuisque je me marie\n\nDemain il sera bien temps\nDe penser à la vie, de faire des enfants\nDe placer mes économies\nAllez youpie\nDemain je serai bouclé\nVous ne me verrez plus\nBuvons à ma santé et à la liberté perdue\nVive la mariée, vive la mariée\n\nJe vais me marier, Marie\nEt vous quitter Sophie, Marianne et Virginie\nOh, ne pleure pas, Marie\nPas plus que toi, Véronica et Rébécca\nJe renonce à vos caresses, à votre amour, à ma douce vie\n\nJe vais me marier, Roger\nEt vous quitter, toi Frédéric et toi Didier\nNe te moque pas, Lucas\nPas plus que toi, Napoléon, ni toi, Colas\nIl faut qu'on s'en souvienne jusqu'au bout de la vie\nEt que quoiqu'il advienne, nous restions des amis\nMême ѕi je me marie\n\nNana nana nа…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I'm going to marry, Marie",
+      "content": "My friends, my good friends, I've got you together\nWe're going to drown ourselves in champagne and whisky\nGo like a spinning top\nWe'll laugh and sing the whole night long\nAnd then, tomorrow morning, I'll go to the town hall\nGo like a spinning top, go like a spinning top\n\nI'm going to marry, Marie\nAnd say goodbye to Sophie, Marianne and Virginie\nOh, don't cry, Marie\nNot more than you, Véronica and Rebecca\nI renounce your caresses, your love, my sweet life\n\nI'm going to marry, Roger\nAnd say goodbye to you, Frédéric and you, Didier\nDon't make fun, Lucas\nNot more than you, Napoléon, nor you, Colas\nI renounce our feats, our crazy nights\nAnd our youth which finishes today\nBecause I'm getting married\n\nTomorrow it'll be good time\nTo think about life, to make children\nTo invest my savings\nGo like a spinning top\nTomorrow I'll be in prison\nYou won't see me anymore\nLet's drink on my health and for my lost freedom\nLong live the bride, long live the bride\n\nI'm going to marry, Marie\nAnd say goodbye to Sophie, Marianne and Virginie\nOh, don't cry, Marie\nNot more than you, Véronica and Rebecca\nI renounce your caresses, your love, my sweet life\n\nI'm going to marry, Marie\nAnd say goodbye to you, Frédéric and you, Didier\nDon't make fun, Lucas\nNot more than you, Napoléon, nor you, Colas\nWe have to remember that until the end of our life\nAnd whatever may happen, we will remain friendѕ\nEven if I'm getting married\n\nNana nana nа…"
+    }
+  ],
+  "bpm": 178,
+  "tone": "F major",
+  "artistPeople": [
+    "Patrick Juvet"
+  ],
+  "backings": [
+    "Georges Costa",
+    "Michel Costa"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Patrick Juvet"
+  ],
+  "conductor": "Hervé Roy",
+  "lyricists": [
+    "Pierre Delanoë"
+  ],
+  "writers": null,
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Georges Hardy",
+    "Giovanni Bertini",
+    "Theodor Haller"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

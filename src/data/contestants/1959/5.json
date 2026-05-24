@@ -1,0 +1,53 @@
+{
+  "id": 5,
+  "country": "IT",
+  "artist": "Domenico Modugno",
+  "song": "Piove",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/96gc_8JL15c",
+    "https://www.youtube-nocookie.com/embed/7VxXa2adUUI",
+    "https://www.youtube-nocookie.com/embed/J6xzVGrlHik"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Piove (Ciao, ciao, bambina)",
+      "content": "Mille violini suonati dal vento\nTutti i colori dell'arcobaleno\nVanno a fermare una pioggia d'argento\nMa piove, piove sul nostro amor\n\nCiao, ciao, bambina, un bacio ancora\nE poi per sempre ti perderò\nCome una fiaba, l'amore passa\nC'era una volta poi non c'è più\n\nCos'è che trema sul tuo visino?\nÈ pioggia o pianto? Dimmi cos'è\nVorrei trovare parole nuove\nMa piove, piove sul nostro amor\n\nCiao, bambina!\nTi voglio bene da morire!\nCiao! Ciao!\n\nCiao, ciao, bambina, non ti voltare\nNon posso dirti rimani ancor\nVorrei trovare parole nuove\nMa piove, piove sul noѕtro аmor"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "It's raining (Bye, bye, baby)",
+      "content": "A thousand violins, played by the wind\nAll the rainbow's colours\nAre going to stop a silver rain\nBut it's raining, it's raining on our love\n\nBye, bye baby, one more kiss\nAnd then I'll lose you forever\nLike a fairy tale love goes by\nOnce upon a time it was here, then it isn't anymore\n\nWhat's trembling on your little face?\nIs it rain or tears? Tell me what it is\nI'd like to find new words\nBut it's raining, it's raining on our love\n\nGoodbye, baby!\nI love you so much that I could die!\nBye! Bye!\n\nBye, bye, baby, don't turn back\nI can't tell you to stay longer\nI'd like to find new words\nBut it's raining, it'ѕ rаining on our love"
+    }
+  ],
+  "bpm": 143,
+  "tone": "G major",
+  "artistPeople": [
+    "Domenico Modugno"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Domenico Modugno"
+  ],
+  "conductor": "William Galassini",
+  "lyricists": [
+    "Dino Verde"
+  ],
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Bianca Maria Piccinino"
+  ],
+  "jury": null,
+  "spokesperson": "Enzo Tortora"
+}

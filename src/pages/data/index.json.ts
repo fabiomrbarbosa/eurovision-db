@@ -1,10 +1,7 @@
 import type { APIRoute } from 'astro';
-import { readFileSync, existsSync } from 'fs';
-import { join } from 'path';
-
-const indexPath = join(process.cwd(), 'src/data/index.json');
+import { getContestIndex } from '../../lib/data.ts';
 
 export const GET: APIRoute = () => {
-  const body = existsSync(indexPath) ? readFileSync(indexPath, 'utf-8') : '[]';
+  const body = JSON.stringify(getContestIndex());
   return new Response(body, { headers: { 'Content-Type': 'application/json' } });
 };

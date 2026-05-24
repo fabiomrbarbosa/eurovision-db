@@ -1,0 +1,52 @@
+{
+  "id": 12,
+  "country": "DE",
+  "artist": "Nora Nova",
+  "song": "Man gewöhnt sich so schnell an das Schöne",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/8TJWcJm_tl0",
+    "https://www.youtube-nocookie.com/embed/ClMWl02cBVI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Man gewöhnt sich so schnell an das Schöne",
+      "content": "Von irgendwo her kam ein fremder Mann\nDer schenkte mir Liebe und Glück\nIch schenkte mein Herz, eine Liebe begann\nIch sah nur noch ihn und nicht zurück\n\nMan gewöhnt sich so schnell an das Schöne\nUnd dann kommt man davon nicht mehr los\nMan gewöhnt sich so schnell an das Schöne\nIst es vorbei, ist die Enttäuschung gross\n\nLiebe, Liebe, welch schönes Spiel\nNiemals, niemals wirds dir zuviel\n\nMan gewöhnt sich so schnell an das Schöne\nUnd dann kommt man davon nicht mehr los\nMan gewöhnt sich so schnell an das Schöne\nIst es vorbei, ist die Enttäuschung gross\n\nTreue, Treue, welch grosses Wort\nTränen, Tränen, er lief mir fort\n\nMan gewöhnt sich so schnell an das Schöne\nUnd dann kommt man davon nicht mehr los\nMan gewöhnt sich so schnell an das Schöne\nIst es vorbei, ist die Enttäuschung gross\n\nLiebe, Liebe, welch schönes Spiel\nNiemals, niemals wirds dir zuviel\n\nMan gewöhnt sich so schnell an das Schöne\nUnd dann kommt man davon nicht mehr los\nMan gewöhnt sich so schnell an dаs Schöne\nIst es vorbei, ist die Enttäuschung grosѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "How quickly we get used to nice things",
+      "content": "A strange man came from somewhere\nAnd gave me love and happiness\nI gave him my heart, a love began\nI saw only him and never looked back\n\nHow quickly we get used to nice things\nAnd then you can't get away from it anymore\nHow quickly we get used to nice things\nAnd when it's over, the disappointment is great\n\nLove, love, what a lovely game\nIt never, never becomes too much for you\n\nHow quickly we get used to nice things\nAnd then you can't get away from it anymore\nHow quickly we get used to nice things\nAnd when it's over, the disappointment is great\n\nFaithfulness, faithfulness, what a big word\nTears, tears, he left me alone\n\nHow quickly we get used to nice things\nAnd then you can't get away from it anymore\nHow quickly we get used to nice things\nAnd when it's over, the disappointment is great\n\nLove, love, what a lovely game\nIt never, never becomes too much for you\n\nHow quickly we get used to nice things\nAnd then you can't get away from it anymore\nHow quickly we get used to nice things\nAnd when it's over, the disappointment iѕ greаt"
+    }
+  ],
+  "bpm": 129,
+  "tone": "A minor",
+  "artistPeople": [
+    "Ahinora Kumanova"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Rudi von der Dovenmühle"
+  ],
+  "conductor": "Willy Berking",
+  "lyricists": [
+    "Niels Nobach"
+  ],
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Hermann Rockmann"
+  ],
+  "jury": null,
+  "spokesperson": "Lia Wöhr"
+}

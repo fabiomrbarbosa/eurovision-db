@@ -1,0 +1,67 @@
+{
+  "id": 23,
+  "country": "SM",
+  "artist": "Valentina Monetta",
+  "song": "Maybe (Forse)",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/_eZNTBJ-Hyc",
+    "https://www.youtube-nocookie.com/embed/vt_3yms1PcM",
+    "https://www.youtube-nocookie.com/embed/_Dt-crS5N-Y"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Maybe (Forse)",
+      "content": "Maybe there's a pearl in the shell\nMaybe there's a story to tell\nMaybe we can not live in peace cos we're under a spell\n\nMaybe there's a light from above\nMaybe there's a flight of a dove\nWhen it's time\nTo open the heart of love\n\nMaybe we can try\nMaybe you and I\nAre finding pain to overcome\n\nMaybe then one day\nEvery soul heals and will find a way\n\nAnd maybe\nWe really are the dream of God\nAnd we woke up in flesh and blood\nWith our emotion transformed into gold\n\nOr maybe\nIn certain solid ways I feel\nI know there's nothing stronger and more real\nThan falling in love\n\nMaybe you and I\nAre tear drops from the sky\nThat fill the sea eternally\n\nMaybe we can try\nTo challenge the fear of the endless night\n\nAnd maybe\nWe really are the dream of God\nAnd we woke up in flesh and blood\nTo find our bodies transformed into gold\n\nOr maybe\nIn certain solid ways I feel\nI know there's nothing stronger and more real\nThan falling in love\n\nMaybe it's a journey in the darkest night\nMaybe we can make it to the morning light\nMaybe this is it this is real and I feel this is right\nFinally right\n\nAnd maybe\nThe courage that I'm finding now\nRemembering аnd senѕing how\nWe fell in love"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Может",
+      "content": "Может, это жемчужина в раковине\nМожет, это нерассказанная история\nМожет, мы не можем жить в мире, потому что мы заговорены\n\nМожет, это свет свыше\nМожет, мы пикируем вниз\nКогда настает время\nОткрыть свое сердце любви\n\nМожет, мы можем попытаться\nМожет, ты и я\nНаходим боль, которую нужно вытерпеть\n\nМожет, одним днем\nКаждая душа исцелится и найдет свой путь\n\nИ может\nМы - мечта Бога\nИ мы пробудились в плоти и крови\nС нашими эмоциями, ставшими золотом\n\nИли может\nЯ себя чувствую по-своему уверенно\nЯ знаю, что ничего нет сильнее и правдивее\nЧем утонуть в любви\n\nМожет, ты и я\nСлезы, упавшие с неба\nВечно наполняющие море\n\nМожет попытаемся\nИспытать страх бесконечной ночи\n\nИ может\nМы - мечта Бога\nИ мы пробудились в плоти и крови\nС нашими эмоциями, ставшими золотом\n\nИли может\nЯ себя чувствую по-своему уверенно\nЯ знаю, что ничего нет сильнее и правдивее\nЧем утонуть в любви\n\nМожет, мы путешествуем во тьме\nМожет, мы можем пробить ее утренним светом\nМожет, это так, это правда и я чувствую, это правильно\nНаконец правильно\n\nИ может\nМы наконец обрели смелость\nПонять и ощущать, какого это\nУтонуть в любви"
+    }
+  ],
+  "bpm": 114,
+  "tone": "G minor",
+  "artistPeople": [
+    "Valentina Monetta"
+  ],
+  "backings": [
+    "Giacomo Di Benedetto",
+    "Giovanna Naber",
+    "Paulo Alves",
+    "Sandrina Sedona"
+  ],
+  "dancers": null,
+  "stageDirector": "Fabrizio Raggi",
+  "composers": [
+    "Ralph Siegel"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Mauro Balestri"
+  ],
+  "writers": null,
+  "broadcaster": "SMRTV",
+  "commentators": [
+    "Gigi Restivo",
+    "Jamarie Milkovic",
+    "John Kennedy O'Connor",
+    "Lia Fiorio"
+  ],
+  "jury": [
+    "Andrea Gattei",
+    "Lorenzo Salvatori",
+    "Maria Ugolini",
+    "Paolo Macina",
+    "Sara Ghiotti"
+  ],
+  "spokesperson": "Michele Perniola"
+}

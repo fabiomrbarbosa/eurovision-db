@@ -1,0 +1,55 @@
+{
+  "id": 29,
+  "country": "FI",
+  "artist": "Pernilla",
+  "song": "När jag blundar",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/MRC5NzxmrAA",
+    "https://www.youtube-nocookie.com/embed/43GWoVxRk2Y"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "När jag blundar",
+      "content": "Tätt intill, doften av oss två\nVända sig om, samma skjorta i blå\nDoften jag känner vore inget utan dig\n\nSom en sjö utan vatten, som en lykta utan ljus\nEtt liv utan färger – det är inte du\nNå'n man ser då man blundar, som en ängel framför\nNå'n som hjälper en att flyga då man glömt hur man gör\n\nKär utan känslor eller skratta utan ljud\nEtt liv utan färger – det är inte du\nNå'n som glömt alla bekymmer, en kvinna med mod\nNå'n som fattar vad man säger fast man talar utan ord\n\nSätt dig ner, vi håller din hand\nBerätta vem du är, vi finns för varann\nAlla minnen vore inget utan dig\n\nSom en sjö utan vatten, som en lykta utan ljus\nEtt liv utan färger – det är inte du\nNå'n man ser då man blundar, som en ängel framför\nNå'n som hjälper en att flyga då man glömt hur man gör\n\nKär utan känslor eller skratta utan ljud\nEtt liv utan färger – det är inte du\nNå'n som glömt alla bekymmer, en kvinna med mod\nNå'n som fattar vad man säger fast man talar utan ord\n\nSom en sjö utan vatten, som en lykta utan ljus\nEtt liv utan färger – det är inte du\nNå'n man ser då man blundar, som en ängel framför\nNå'n som hjälper en att flyga då man glömt hur man gör\n\nKär utan känslor eller skratta utan ljud\nEtt liv utan färger – det är inte du\nNå'n som glömt alla bekymmer, en kvinna med mod\nNå'n som fattar vad man säger faѕt man talar utаn ord"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "When I close my eyes",
+      "content": "Close together, the scent of the two of us\nI turn around, the same shirt in blue\nThis scent I feel would be nothing without you\n\nAs a lake without water, as a lamp without light\nA life without colours – that's not you\nSomeone you see when you close your eyes, like an angel before you\nSomeone who helps you to fly when you've forgotten how to\n\nIn love without emotion or laughing without sound\nA life without colours – that's not you\nSomeone who has forgotten all worries, a woman with courage\nSomeone who gets what you say even if you speak without words\n\nHave a seat, we'll hold your hand\nTell us who you are, we are here for each other\nAll memories would be nothing without you\n\nAs a lake without water, as a lamp without light\nA life without colours – that's not you\nSomeone you see when you close your eyes, like an angel before you\nSomeone who helps you to fly when you've forgotten how to\n\nIn love without emotion or laughing without sound\nA life without colours – that's not you\nSomeone who has forgotten all worries, a woman with courage\nSomeone who gets what you say even if you speak without words\n\nAs a lake without water, as a lamp without light\nA life without colours – that's not you\nSomeone you see when you close your eyes, like an angel before you\nSomeone who helps you to fly when you've forgotten how to\n\nIn love without emotion or laughing without sound\nA life without colours – that's not you\nSomeone who has forgotten all worries, a woman with courage\nSomeone who gets what you say even if you speаk without wordѕ"
+    }
+  ],
+  "bpm": 87,
+  "tone": "D major",
+  "artistPeople": [
+    "Pernilla Karlsson"
+  ],
+  "backings": [
+    "Heikki Takkula"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Jonas Karlsson"
+  ],
+  "broadcaster": "YLE",
+  "commentators": [
+    "Eva Frantz",
+    "Johan Lindroos",
+    "Tarja Närhi",
+    "Tobias Larsson"
+  ],
+  "jury": null,
+  "spokesperson": "Mr. Lordi"
+}

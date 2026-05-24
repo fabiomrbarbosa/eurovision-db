@@ -1,0 +1,55 @@
+{
+  "id": 5,
+  "country": "NO",
+  "artist": "Elisabeth Andreasson & Jan Werner Danielsen",
+  "song": "Duett",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/bMs0KYlHZmc",
+    "https://www.youtube-nocookie.com/embed/3qDBTkHXgmk",
+    "https://www.youtube-nocookie.com/embed/J4v4cpjouAk",
+    "https://www.youtube-nocookie.com/embed/xOPLsQXDaRs"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "norwegian"
+      ],
+      "displayedLanguages": null,
+      "title": "Duett",
+      "content": "Med din sang strømmer varmen inn\nBringer vår til et frossnet sinn\nGjennom is finner sangen vei\nTil en elv dypt inni meg\n\nIsen går, elven våkner opp\nFlommens kraft fyller sinn og kropp\nFørst som gråt fra et kildevell\nInne i deg selv som bryter fri\n\nOg nå er fossen fri og vill\nSom dansere av ild, en mektig strøm\nVi er ett, med varmen i vårt blod\nMed styrken i vår tro i en sang\n\nVåg å gi, slippe våren løs\nSangen bor under alt som frøs\nFlommen går i et fossefall\nVåren i krystall bryter frem\n\nOg nå er fossen fri og vill\nSom dansere av ild, en mektig strøm\nVi er ett, med varmen i vårt blod\nMed styrken i vår tro i en sang\n\nFri som flammer i en dans\nDuett i sinn og sans for første gang\nVi er ett med varmen i vårt blod\nMed styrken i vår tro i en sang\n\nI en ѕаng"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Duet",
+      "content": "With your song, warmth enters\nBrings spring into a frozen mind\nThrough ice, the song finds its way\nTo a river, deep inside me\n\nThe ice melts, the river awakens\nThe power of the flood fills mind and body\nFirst as tears from a spring\nInside yourself that breaks free\n\nAnd now the waterfall is free and wild\nLike dancers of fire, a powerful current\nWe are one with the warmth of our blood\nWith the strength of our faith in a song\n\nDare to give to set the spring loose\nThe song lives under everything that froze\nThe flood turns into a waterfall\nThe spring in crystal breaks through\n\nAnd now the waterfall is free and wild\nLike dancers of fire, a powerful current\nWe are one with the warmth of our blood\nWith the strength of our faith in a song\n\nFree, like flames in a dance\nDuet in mind and sense for the first time\nWe are one with the warmth of our blood\nWith the strength of our faith\n\nIn а ѕong"
+    }
+  ],
+  "bpm": 148,
+  "tone": "C# major",
+  "artistPeople": [
+    "Elisabeth Gunilla Andreassen",
+    "Jan Werner Danielsen"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Rolf Løvland"
+  ],
+  "conductor": "Pete Knutsen",
+  "lyricists": [
+    "Hans Olav Mørk"
+  ],
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "Jostein Pedersen"
+  ],
+  "jury": null,
+  "spokesperson": "Sverre Christophersen"
+}

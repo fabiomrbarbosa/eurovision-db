@@ -1,0 +1,61 @@
+{
+  "id": 12,
+  "country": "YU",
+  "artist": "Pepel In Kri",
+  "song": "Dan ljubezni",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/PH89OtPhEk0",
+    "https://www.youtube-nocookie.com/embed/nu7lb3ic-To",
+    "https://www.youtube-nocookie.com/embed/ZrRHKDu9vLI",
+    "https://www.youtube-nocookie.com/embed/1SkO3cYD6F8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "slovene"
+      ],
+      "displayedLanguages": null,
+      "title": "Dan ljubezni",
+      "content": "Pusti tisoč dni\nIn tisoč noči, ki jih več ni\nČe sploh ne veš, da so kdaj bili\n\nVzemi le en dan, ki skril si ga tja\nNa srčno stran\nPozabil ga nikoli več ne boš\n\nTo je bil tvoj dan ljubezni\nNajlepši dan, ki ne mine nikdar\nSvet živi za dan ljubezni\nDan, ki da ti vse in vse ti vzame\nTega nikdar ne veš\n\nKdaj prišel bo zate spet ta dan\nNaj te upanje ne zapusti\nLe zaspi ko jutro te zbudi\nTo bo ljubezni dan\n\nTo je bil tvoj dan ljubezni\nNajlepši dan, ki ne mine nikdar\nSvet živi za dan ljubezni\nDan, ki da ti vse in vse ti vzame\nTega nikdar ne veš\n\nKdaj prišel bo zate spet ta dan\nNaj te upanje ne zapusti\nLe zaѕpi ko jutro te zbudi\nTo bo ljubezni dan\nLjubezni dаn"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "A day of love",
+      "content": "Leave those thousand days\nAnd thousand nights, which exist no more\nYou c't know that they have ever been\n\nTake the very day you've hidden\nOn the heart's side\nYou will never ever forget it\n\nThis was your day of love\nA most beautiful day, that never ends\nThe world lives for a day of love\nA day that gives you everything and takes it away\nYou never know that\n\nWhen will this day come for you again\nDon't let hope go away\nFall asleep when the morning wakes you up\nThis will be a day of love\n\nThis was your day of love\nA most beautiful day, that never ends\nThe world lives for a day of love\nA day that gives you everything and takes it away\nYou never know that\n\nWhen will this day come for you again\nDon't let hope go away\nFall asleep when the morning wakes you up\nThiѕ will be a day of love\nA dаy of love"
+    }
+  ],
+  "bpm": 120,
+  "tone": "F major",
+  "artistPeople": [
+    "Marija Judita Haberl",
+    "Ivo Mojzer",
+    "Nada Žgur",
+    "Oto Pestner",
+    "Palmira Klobovs",
+    "Tadej Hrušovar"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Tadej Hrušovar"
+  ],
+  "conductor": "Mario Rijaveć",
+  "lyricists": [
+    "Dušan Velkaverh"
+  ],
+  "writers": null,
+  "broadcaster": "JRT",
+  "commentators": [
+    "Milovan Ilić",
+    "Oliver Mlakar",
+    "Tomaž Terček"
+  ],
+  "jury": null,
+  "spokesperson": "Dragana Marković"
+}

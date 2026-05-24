@@ -1,0 +1,60 @@
+{
+  "id": 2,
+  "country": "FR",
+  "artist": "Jean Gabilou",
+  "song": "Humanahum",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/DSaWjDs8FSg",
+    "https://www.youtube-nocookie.com/embed/2AJGE48SPPQ",
+    "https://www.youtube-nocookie.com/embed/NSnE7cr_oIg",
+    "https://www.youtube-nocookie.com/embed/D0IjC0UkD8U",
+    "https://www.youtube-nocookie.com/embed/AFtHM__ZIhY"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Humanahum",
+      "content": "Sur une galaxie en l'an trois mille\n(En l'an trois mille)\nUn vieil homme est assis sur le sol gris\n(Sur le sol gris)\nAutour de lui, tous les enfants sont réunis\nPour écouter ce qu'il va raconter\n\nRegardez, mes petits, là-bas, dans la nuit\n(Là, dans la nuit)\nCette boule qui brille était pleine de vie\n(Pleine de vie)\nLes hommes de naguère en étaient fiers\nEt l'avaient baptisée: la Terre\n\nHumanahum (Humana-huma)\nHumanahum (Humana-huma)\nHumanahum\nTerre, Terre des Hommes\n\nIl y avait de l'eau et de grands arbres\n(C'est quoi un arbre?)\nEt des milliers d'oiseaux volant sur les vagues\n(C'est quoi une vague?)\nEt plein de fruits dans les vallées et les prairies\nEt les forêts savaient encore chanter\n\nIl y avait des femmes et des filles en fleurs\n(C'est quoi une fleur?)\nLes hommes les portaient autour de leurs cœurs\n(C'est quoi un cœur?)\nLes femmes de naguère en étaient fières\nL'amour était fruit de la terre\n\nHumanahum (Humana-huma)\nHumanahum (Humana-huma)\nHumanahum\nTerre, Terre des Hommes\n\nEt voilà, mes amis, l'histoire est finie\n(Pourquoi finie?)\nCette boule qui brille n'a plus de vie\n(N'a plus de vie)\nLes hommes de naguère étaient tous frères\nMais ils ont inventé la guerre\n\nHumanahum (Humana-huma)\nHumanahum (Humana-huma)\nHumanahum\nTerre, Terre des Hommes\n\nHumanahum\nHumanahum (Humana-huma)\nHumanahum\nTerre, Terre des Hommeѕ\n\nHumanаhum"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Humanahum",
+      "content": "On a galaxy in the year three thousand\n(In the year three thousand)\nAn old man is sitting on the grey ground\n(On the grey ground)\nAround him, all the children are gathered\nTo listen to what he's going to say\n\nLook, my children, over there, in the night\n(There, in the night)\nThis shining ball was full of life\n(Full of life)\nThe men of not long ago were proud of it\nAnd baptized it: the Earth\n\nHumanahum (Humana-huma)\nHumanahum (Humana-huma)\nHumanahum\nLand, Land of Men\n\nThere were water and tall trees\n(What is a tree?)\nAnd thousands of birds flying over the waves\n(What is a wave?)\nAnd a lot of fruits in the valleys and the prairies\nAnd forests could still sing\n\nThere were women and girls in flowers\n(What is a flower?)\nThe men had them around their hearts\n(What is a heart?)\nThe women of not long ago were proud of it\nLove was fruit of the earth\n\nHumanahum (Humana-huma)\nHumanahum (Humana-huma)\nHumanahum\nLand, Land of Men\n\nAnd that's that, my friends, the story is finished\n(Why finished?)\nThis shining ball has no more life\n(Has no more life)\nThe men of not long ago were all brotherѕ\nBut they invented the war\n\nHumanahum (Humana-huma)\nHumanahum (Humana-huma)\nHumanahum\nLand, Land of Men\n\nHumanahum\nHumanahum (Humana-huma)\nHumanahum\nLand, Land of Men\n\nHumanаhum"
+    }
+  ],
+  "bpm": 132,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Jean Gabilou"
+  ],
+  "backings": [
+    "Francine Chantereau",
+    "Georges Costa",
+    "Martine Latorre",
+    "Michel Costa"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jean-Paul Cara"
+  ],
+  "conductor": "David Springfield",
+  "lyricists": [
+    "Joe Gracy"
+  ],
+  "writers": null,
+  "broadcaster": "TF1",
+  "commentators": [
+    "Patrick Sabatier"
+  ],
+  "jury": null,
+  "spokesperson": "Fabienne Égal"
+}

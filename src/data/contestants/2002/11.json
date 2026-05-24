@@ -1,0 +1,73 @@
+{
+  "id": 11,
+  "country": "IL",
+  "artist": "Sarit Hadad",
+  "song": "Light A Candle",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/KCc9yH3dPXM",
+    "https://www.youtube-nocookie.com/embed/7pZ6Z9Wm1Ac",
+    "https://www.youtube-nocookie.com/embed/v5mPX8_DCdQ",
+    "https://www.youtube-nocookie.com/embed/ux1w9gnwd3U"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "hebrew",
+        "english"
+      ],
+      "displayedLanguages": [
+        "nadlik beyachad ner"
+      ],
+      "title": "Nadlik beyachad ner",
+      "content": "Lif'amim nidme she'en tikva\nVehakol nir'e kol kach afel velo yadu'a\nHaprachim od lo parchu bagan uvasade\nUva'erev rak maka haruach\nAz bo'u venadlik beyachad ner\nNer…\n\nLight a candle, light a candle with me\nA thousand candles in the dark will open our hearts\nLight a candle, light a candle with me\nA thousand candles in the dark will open our hearts\n\nLif'amim nir'e shehamachar\nLo yavi po nechama labechi velatsa'ar\nVehalaila ha'aroch nimshach bli havtacha\nVeha'afela chada kata'ar\nAz bo'u venadlik beyachad ner\nNer…\n\nLight a candle, light a candle with me\nA thousand candles in the dark will open our hearts\nLight a candle, light a candle with me\nA thousand candles in the dark will open our hearts\n\nLight all the candles\nLet's light the candles everywhere\nJust look at me and take my hand\nThe heat of love will glow again\n\nLight a candle, light a candle with me\nA thousand candles in the dark will open our hearts\nLight a candle, light a candle with me\nA thousand candles in the dark will open our heаrtѕ"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "hebrew",
+        "english"
+      ],
+      "displayedLanguages": [
+        "נדליק ביחד נר"
+      ],
+      "title": "נדליק ביחד נר",
+      "content": "\n\n\n\nLight a candle, light a candle with me\nA thousand candles in the dark will open our hearts\nLight a candle, light a candle with me\nA thousand candles in the dark will open our hearts\n\n\n\n\n\nLight a candle, light a candle with me\nA thousand candles in the dark will open our hearts\nLight a candle, light a candle with me\nA thousand candles in the dark will open our hearts\n\nLight all the candles\nLet's light the candles everywhere\nJust look at me and take my hand\nThe heat of love will glow again\n\nLight a candle, light a candle with me\nA thousand candles in the dark will open our hearts\nLight a candle, light a candle with me\nA thousand candles in the dark will open our hearts"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Light a candle (We'll light a candle together)",
+      "content": "Sometimes it seems as if there is no hope\nAnd everything looks so dark and unknown\nThe flowers have yet to bloom in the garden and in the field\nAnd in the evening only the wind blows\nSo let's light a candle together\nCandle…\n\nLight a candle, light a candle with me\nA thousand candles in the dark will open our hearts\nLight a candle, light a candle with me\nA thousand candles in the dark will open our hearts\n\nSometimes it seems as if tomorrow\nWon't bring any comfort here to the crying and the sorrow\nAnd the long night goes on without a promise\nAnd the darkness is sharp as a razor\nSo let's light a candle together\nCandle…\n\nLight a candle, light a candle with me\nA thousand candles in the dark will open our hearts\nLight a candle, light a candle with me\nA thousand candles in the dark will open our hearts\n\nLight all the candles\nLet's light the candles everywhere\nJust look at me and take my hand\nThe heat of love will glow again\n\nLight a candle, light a candle with me\nA thousand candles in the dark will open our hearts\nLight a candle, light a candle with me\nA thousand candles in the dark will open our heаrtѕ"
+    }
+  ],
+  "bpm": 145,
+  "tone": "C major",
+  "artistPeople": [
+    "Sara Hodadtov"
+  ],
+  "backings": [
+    "Galya Ariel",
+    "Natalie Dotan",
+    "Ortal Ofek",
+    "Shirley Nov",
+    "Yelena Tamarov"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Svika Pick"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Yoav Ginai"
+  ],
+  "writers": null,
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Michal Zoharetz"
+}

@@ -1,0 +1,59 @@
+{
+  "id": 8,
+  "country": "CH",
+  "artist": "Lys Assia",
+  "song": "L'Enfant que j'étais",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/16ltDhw2lxs",
+    "https://www.youtube-nocookie.com/embed/GL2DDgtMSzU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "L'Enfant que j'étais",
+      "content": "L'enfant que j'étais, où joue-t-il aujourd'hui?\nLes fleurs que j'aimais, qui me les a cueillies?\nMon cœur, te souviens-tu les robes blanches\nSur le chemin perdu de nos dimanches?\n\nDes mots pour chanter un visage d'ami\nDes nuits pour rêver, j'étais riche à l'envie\nQuand le cœur aux aguets la mèche folle\nS'en allait à l'école, l'enfant que j'étais\nLe temps d'un hiver, la ride vous prend\nLe temps d'un amour, et l'on devient grand\nIl en a coulé de l'eau sous les ponts\nRêves oubliés au fil des saisons\nLe temps d'un sourire, on est amoureux\nLe temps de mentir déjà l'on est vieux\n\nL'enfant que j'étais, où s'est-il égaré?\nLes fleurs que j'aimais, qui me les a fanées?\nMon cœur, te souviens-tu de nos promesses?\nLa vie n'a pas voulu de ta tendresse\nDes mots pour aimer, des espoirs et des nuits\nMensonges dorés, j'étais riche à l'envie\nQuand le cœur aux aguets l'amour en tête\nS'en allait à la fête, l'enfant que j'étais\n\nQuand le cœur aux aguets l'amour en tête\nS'en allait à la fête, l'enfant que j'étаiѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The child that I was",
+      "content": "The child that I was, where does she play today?\nFlowers I used to love, who picked them for me?\nMy heart, do you remember the white dresses\nOn the losing ways of our Sundays?\n\nWords to sing a friend's face\nNights to dream, I was so rich\nWhen the heart on the watch, the straggling lock\nGoes to school, the child that I was\nA winter time, wrinkle takes you\nA love time and we're growing\nMuch water had flowed under the bridges\nForgotten dreams with the passing seasons\nA smile time and we are in love\nTime to lie and yet we are old\n\nThe child that I was, where is he stray?\nFlowers I used to love, who had make them fade?\nMy heart, do you remember our promises?\nLife didn't want your tenderness\nWords to love, hopes and nights\nGolden lies, I was so rich\nWhen the heart on the watch, love in head\nGoing to the fair, the child that I was\n\nWhen the heart on the watch, love in head\nGoing to the fair, the child that I wаѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Ребенок, которым я была",
+      "content": "Ребенок, которым я была, где он играет сегодня?\nЦветы, которые я любила, кто собирал их для меня?\nДорогой, ты помнишь белые платья\nНа затерянном пути наших воскресений?\n\nСлова, чтобы воспеть лицо друга\nНочами, когда мне снились сны, я был богата завистью\nКогда в сердце моем был безумный фитиль\nОтправляясь в школу, я была ребенком\nЗа одну зиму морщинка забирает тебя\nВремя любви, и человек становится великим\nМного воды утекло под мостом\nЗабытые мечты сквозь времена года\nВремя, необходимое, чтобы улыбнуться и влюбиться\nК тому времени, когда ты лжешь, ты уже стар\n\nКуда делось то дитя, которым я была?\nЦветы, которые я любила, кто их завял?\nМилый, ты помнишь наши обещания?\nЖизнь не хотела твоей нежности\nСлова любви, надежды и ночи\nЗолотая ложь, я был богата завистью\nКогда мое сердце было начеку, а на уме была любовь\nРебенок, которым я была, пошел на вечеринку\n\nКогда мое сердце было начеку, а на уме была любовь\nЯ пошла на вечеринку, ребенком которым я была"
+    }
+  ],
+  "bpm": 120,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Rosa Mina Schärer"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Géo Voumard"
+  ],
+  "conductor": "Willy Berking",
+  "lyricists": [
+    "Émile Gardaz"
+  ],
+  "writers": null,
+  "broadcaster": "SSR SRG",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Mäni Weber"
+}

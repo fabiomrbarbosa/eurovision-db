@@ -1,0 +1,71 @@
+{
+  "id": 1,
+  "country": "RU",
+  "artist": "Polina Gagarina",
+  "song": "A Million Voices",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Q2gbKglCL5s",
+    "https://www.youtube-nocookie.com/embed/jBVY7Glcd84",
+    "https://www.youtube-nocookie.com/embed/QPIwvOlZok8",
+    "https://www.youtube-nocookie.com/embed/WbFmITXubT8",
+    "https://www.youtube-nocookie.com/embed/9FziuRFZJfI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "A Million Voices",
+      "content": "We are the world's people\nDifferent yet we're the same\nWe believe\nWe believe in a dream\n\nPraying for peace and healing\nI hope we can start again\nWe believe\nWe believe in a dream\n\nSo if you ever feel love is fading\nTogether like the stars in the sky\nWe can sing\nWe can shine\n\nWhen you hear our voices call\nYou won't be lonely anymore\nA million voices\nYour heart is like a beating drum\nBurning brighter than the sun\nA million voices\n\nNow as the world is listening\nFrom cities and satellites\nWe believe\nWe believe\nIn a dream\n\nIf you ever feel love is fading\nTogether like the stars in the sky\nWe can sing\nWe can shine\n\nWhen you hear our voices call\nYou won't be lonely anymore\nA million voices\nYour heart is like a beating drum\nBurning brighter than the sun\nA million voices\n\nWhen I look around at these faces\nI can see the stars in the sky\nWe will sing\nWe will shine\n\n(When you hear our voices call\nYou won't be lonely аnymore)\nA million voices\n\nSinging out\nSinging out\nOoh\nSinging out\nSinging out\nOoh\nSinging out\nA million voices\n\nSinging out\nSinging out\nOoh\nSinging out\nSinging out\nOoh\nSinging out\nA million voices\n\nA million voiceѕ"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Миллион Голосов",
+      "content": "Люди так не похожи, разные их пути\nНо ты пришел в этот мир не один\nЛюди ведь знать не могут, что ждет их впереди\n\nНо ты пришел в этот мир не один\nИ когда мы ищем ответы\nПоднимая взгляд в небеса\nСлышим их голоса\n\nЭто люди вновь и вновь\nИщут на земле любовь\nНас миллионы\nВдалеке от берегов\nВерят, что найдут любовь\nНас миллионы\n\nТы не опустишь руки\nИ не сойдешь с пути\nТы пришел в этот мир не один\nИ когда мы ищем ответы\nПоднимая взгляд в небеса\nСлышим их, голоса\n\nЭто люди вновь и вновь\nИщут на земле любовь\nНас миллионы\nВдалеке от берегов\nВерят,что найдут любовь\nНас миллионы\n\nИ когда мы ищем ответы\nПоднимая взгляд в небеса\nСлышим их голоса\n\nЭто люди вновь и вновь\nИщут на земле любовь\nНас миллионы\n\nНе один, не один\nНе один, не один\nНе один\nНас миллионы\nНе один, не один\nНе один, не один\nНе один\nНас миллионы\nМиллионы"
+    }
+  ],
+  "bpm": 152,
+  "tone": "G major",
+  "artistPeople": [
+    "Polina Sergeyevna Gagarina (Поли́на Серге́евна Гага́рина)"
+  ],
+  "backings": [
+    "Alexander Pozdnyakov",
+    "Alexandra Belyakova",
+    "Gabriel Alares",
+    "Kat Vinter",
+    "Nikita Pozdnyakov"
+  ],
+  "dancers": null,
+  "stageDirector": "Alexei Golubev",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Gabriel Alares",
+    "Joakim Björnberg",
+    "Katrina Noorbergen",
+    "Leonid Gutkin",
+    "Vladimir Matetsky"
+  ],
+  "broadcaster": "C1R",
+  "commentators": [
+    "Yana Churikova",
+    "Yuriy Aksuta"
+  ],
+  "jury": [
+    "Alexandra Vorobyova",
+    "Alsou",
+    "Dina Garipova",
+    "Igor Matvienko",
+    "Lyubov Kazarnovskaya",
+    "Slava Kulaev"
+  ],
+  "spokesperson": "Dmitry Shepelev"
+}

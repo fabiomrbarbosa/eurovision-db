@@ -1,0 +1,53 @@
+{
+  "id": 3,
+  "country": "EE",
+  "artist": "Sahléne",
+  "song": "Runaway",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/tky7vWXSZrs",
+    "https://www.youtube-nocookie.com/embed/ltTLUc9AYP8",
+    "https://www.youtube-nocookie.com/embed/jnTDz1Y-3iU",
+    "https://www.youtube-nocookie.com/embed/U7Fb4NbVB0I"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Runaway",
+      "content": "Did somebody dare to tell you what's right\nWhich colours to wear, to laugh or cry?\nYou wanna be fair, and maybe you're right\nLet's burn our fingers, stop the fight\nAlways drivin' through red lights, babe\nEverybody stops but me\n\nJust run away to the stars\nJust run away till you're high enough\nI will be waitin' above\nI'll make it happen, I try so hard\n\nHow lucky you are, your statement is fine\nBecause what you think is what you find\n(What you think is what you find)\nAlways drivin' through red lights, babe\nEverybody stops but me\n\nJust run away to the stars\nJust run away till you're high enough\nI will be waitin' above\nI'll make it happen, I try so hard\n\nJust run away to the stars\nJust run away till you're high enough\nI will be waitin' above\nI'll make it happen, I try so hard\n\nDid somebody say it's gonna be easy\n'Til you get to where you do belong?\nYour newly opened mind explains the reasons\nWhy you have to carry on\n\nJust run away to the…\nJust run away to the stars\nJust run away till you're high enough\nI will be waitin' above\nI'll make it happen, I try so hard\n\nJust run away to the stars\nJust run away till you're high enough\nI will be waitin' above\nI'll make it happen, I try so hard\n\nOh yeah yeah…\nJust run away to the stаrѕ"
+    }
+  ],
+  "bpm": 128,
+  "tone": "F# major",
+  "artistPeople": [
+    "Anna Cecilia Sahlin"
+  ],
+  "backings": [
+    "Charlotte Berg",
+    "Jelena Juzvik",
+    "Joel Sahlin",
+    "Jüri Mazurtšak",
+    "Lena Olsson-Björkén"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Alar Kotkas",
+    "Ilmar Laisaar",
+    "Pearu Paulus"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Jana Hallas"
+  ],
+  "writers": null,
+  "broadcaster": "ERR",
+  "commentators": [
+    "Marko Reikop"
+  ],
+  "jury": null,
+  "spokesperson": "Elektra"
+}

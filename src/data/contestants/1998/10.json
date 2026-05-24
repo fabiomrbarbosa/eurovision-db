@@ -1,0 +1,73 @@
+{
+  "id": 10,
+  "country": "CY",
+  "artist": "Michael Hajiyanni",
+  "song": "Genesis",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/VfYp4-583mE",
+    "https://www.youtube-nocookie.com/embed/-IDb9G4-Av4",
+    "https://www.youtube-nocookie.com/embed/mdjHiR0kx_E",
+    "https://www.youtube-nocookie.com/embed/C_WpiHcuHlQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ellinika"
+      ],
+      "title": "Genesis",
+      "content": "Parakseni ki' alokoti i agapi\nElpidha ston anemon to horo\nPanemorfi thea sto stavrodhromi\nArheon pandodhinamon filon\n\nSto stoma tu lau, mikri patridha\nFilevis mia leksi tromeri\nTo ksero kapu mesa su antehi\nI asinori pakosmia areti\n\nYenesis (I Yenesis)\nAlithia tu pandos\nAnastasi fotos\nTis aniksis horos i eleftheria\n\nYenesis (I Yenesis)\nSti proeonia ti yi\nYia tin arhegoni i kravyi\nTis niotis i yiorti i eleftheria\nYenesis, Yenesis\n\nSti dhisi tu eona, mia apati\nIpsonete, horizi, thieri\nMa kapia ali alithia mas enoni\nI pisti stin irini, andohi\n\nYenesis (I Yenesis)\nAlithia tu pandos\nAnastasi fotos\nTis aniksis horos i eleftheria\n\nYenesis (I Yenesis)\nSti proeonia ti yi\nYia tin arhegoni i kravyi\nTis niotis i yiorti i eleftheria\n\nYenesis (I Yenesis)\nSti proeonia ti yi\nYia tin arhegoni i kravyi\nTis niotis i yiorti i eleftheriа\nYenesis, Yenesiѕ"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ελληνικά"
+      ],
+      "title": "Γένεσις",
+      "content": "Παράξενη κι' αλλόκοτη η αγάπη\nΕλπίδα στων ανέμων το χορό\nΠανέμορφη θεά στο σταυροδρόμι\nΑρχαίων παντοδύναμων φίλων\n\nΣτο στόμα του λαού, μικρή πατρίδα\nΦιλεύεις μία λέξη τρομερή\nΤο ξέρω κάπου μέσα σου αντέχει\nΗ ασύνορη παγκόσμια αρετή\n\nΓένεσις (Η Γένεσις)\nΑλήθεια του παντός\nΑνάσταση φωτός\nΤης άνοιξης χορός η ελευθερία\n\nΓένεσις (Η Γένεσις)\nΣτην προαιώνια τη γη\nΓια την αρχέγονη η κραυγή\nΤης νιότης η γιορτή η ελευθερία\nΓένεσις, Γένεσις\n\nΣτη δύση του αιώνα, μια απάτη\nΥψώνεται, χωρίζει, διαιρεί\nΜα κάποια άλλη αλήθεια μας ενώνει\nΗ πίστη στην ειρήνη, αντοχή\n\nΓένεσις (Η Γένεσις)\nΑλήθεια του παντός\nΑνάσταση φωτός\nΤης άνοιξης χορός η ελευθερία\n\nΓένεσις (Η Γένεσις)\nΣτην προαιώνια τη γη\nΓια την αρχέγονη η κραυγή\nΤης νιότης η γιορτή η ελευθερία\n\nΓένεσις (Η Γένεσις)\nΣτην προαιώνια τη γη\nΓια την αρχέγονη η κραυγή\nΤης νιότης η γιορτή η ελευθερία\nΓένεσις, Γένεσις"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Genesis",
+      "content": "Strange and peculiar love\nHope on the dance of the wind\nBeautiful goddess at the crossroads\nOf ancient omnipotent races\n\nIn the mouths of your people, little homeland\nYou have placed a formidable word\nI know, holding firm somewhere inside you\nIs that boundless, global virtue\n\nGenesis (Genesis)\nUniversal truth\nResurrection of light\nSpring's dance of freedom\n\nGenesis (Genesis)\nOn the prehistoric Earth\nThe primordial cry\nThe celebration of youth and freedom\nGenesis, Genesis\n\nAt the sunset of the century, an illusion\nArises, separates, divides\nBut another truth unites us\nBelief in peace, resistance\n\nGenesis (Genesis)\nUniversal truth\nResurrection of light\nSpring's dance of freedom\n\nGenesis (Genesis)\nOn the prehistoric Earth\nThe primordial cry\nThe celebration of youth and freedom\n\nGenesis (Genesis)\nOn the prehistoric Earth\nThe primordial cry\nThe celebration of youth аnd freedom\nGenesis, Genesiѕ"
+    }
+  ],
+  "bpm": 97,
+  "tone": "E major",
+  "artistPeople": [
+    "Michalis Hatzigiannis"
+  ],
+  "backings": [
+    "Corinna Avraamidou",
+    "Irini Cacogiannis",
+    "Riana Athanasiou",
+    "Sylvia Theologidou",
+    "Zoë Nicolaidou"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Michael Hajiyanni"
+  ],
+  "conductor": "Costa Cacoyiannis",
+  "lyricists": [
+    "Zenon Zindilis"
+  ],
+  "writers": null,
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Evi Papamichail"
+  ],
+  "jury": null,
+  "spokesperson": "Marina Maleni"
+}

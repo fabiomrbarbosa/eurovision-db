@@ -1,0 +1,50 @@
+{
+  "id": 8,
+  "country": "DK",
+  "artist": "Bjørn Tidmand",
+  "song": "Sangen om dig",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/3BfWGu7lhhU",
+    "https://www.youtube-nocookie.com/embed/-uw1uY_TBas"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "danish"
+      ],
+      "displayedLanguages": null,
+      "title": "Sangen om dig",
+      "content": "Sangen om dig er aldrig forbi\nDen vågner glad, når dagen begynder\nDen som en sagte, blid melodi\nTil mig nynner\n\nTusinde ting fra fjern eller nær\nSender mig bud med lokkende stemmer\nDu er alene den, jeg har kær\nAldrig glemmer\n\nHåbet kan briste og\nMennesker skuffe mig bitterligt, men\nSangen, den har jeg dog\nDen tænder lys for mit livsmod igen\n\nSangen om dig, mit livs melodi\nNynner om alt, hvad du har mig givet\nSangen om dig er aldrig forbi\nThi for mig er du jo hele livet\n\nDigterne skriver så mange\nGange om kærligheds magt\nMen selv de dejligste sange\nFår ikke alle ting sagt\n\nDet, som er sorg eller glæde\nDybest i hjerterne bor\nOm jeg vil le eller græde\nVil jeg høre en sang uden ord\n\nSangen om dig, mit livѕ melodi\nNynner om alt, hvad du har mig givet\nSangen om dig er аldrig forbi\nThi for mig er du jo hele livet"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The song about you",
+      "content": "The song about you is never over\nIt wakes up happy, when the day starts\nIt is like a soft, gentle melody\nTo me humming\n\nA thousand things from far or near\nSending me word with tempting voices:\nYou alone is the one that I love\nNever forgetting\n\nHope can burst\nAnd people disappoint me bitterly\nBut the song, that I still have\nIt lights a candle for my spirits again\n\nThe song about you, the melody of my life\nHumming about everything, that you have given me\nThe song about you is never over\nFor for me, you are the entire life\n\nThe poets write so many times\nAbout the power of love\nBut even the most wonderful songs\nDon't get everything said\n\nWhat is sorrow or joy\nLives in the deepest of the hearts\nWhether I'll laugh or cry\nI'll be hearing a song without words\n\nThe song about you, the melody of my life\nHumming about everything, that you have given me\nThe song about you iѕ never over\nFor for me, you аre the entire life"
+    }
+  ],
+  "bpm": 96,
+  "tone": "E major",
+  "artistPeople": [
+    "Bjørn Tidmand"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Aksel V. Rasmussen"
+  ],
+  "conductor": "Kai Mortensen",
+  "lyricists": [
+    "Mogens Dam"
+  ],
+  "writers": null,
+  "broadcaster": "DR",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Pedro Biker"
+}

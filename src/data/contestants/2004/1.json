@@ -1,0 +1,75 @@
+{
+  "id": 1,
+  "country": "CS",
+  "artist": "Željko Joksimović",
+  "song": "Lane moje",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/lY2lgHzAp8g",
+    "https://www.youtube-nocookie.com/embed/B_PDHdgPkkk",
+    "https://www.youtube-nocookie.com/embed/afE3N0v9XkI",
+    "https://www.youtube-nocookie.com/embed/blKKw-IJBTk",
+    "https://www.youtube-nocookie.com/embed/IXaBni3BI-w"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "serbian"
+      ],
+      "displayedLanguages": [
+        "srpski"
+      ],
+      "title": "Lane moje",
+      "content": "Kad' na te pomislim\nBojim se da te opet zavolim\nU modre usne zarijem zube\nDa pravu bol zaboravim\n\nLane moje, ovih dana\nViše i ne tugujem\nPitam samo da l' si sama\nLjude koje ne čujem\n\nLane moje, noćas kreni\nNije važno bilo s kim\nNađi nekog nalik meni\nDa te barem ne volim\n\n(Nek' neko drugi usne ti ljubi)\n(Da tebe lakše prebolim)\n\nLane moje, ovih dana (Lane moje)\nViše i ne tugujem (Lane moje)\nPitam samo da l' si sama\nLjude koje ne čujem\n\nLane moje, noćas kreni (Lane moje)\nNije važno bilo ѕ' kim\nNađi nekog nalik meni\nDa te barem ne volim\nDа te više ne volim"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "serbian"
+      ],
+      "displayedLanguages": [
+        "српски"
+      ],
+      "title": "Лане моје",
+      "content": "Кад' на те помислим\nБојим се да те опет заволим\nУ модре усне заријем зубе\nДа праву бол заборавим\n\nЛане моје, ових дана\nВише и не тугујем\nПитам само да л' си сама\nЉуде које не чујем\n\nЛане моје, ноћас крени\nНије важно било с' ким\nНађи неког налик мени\nДа те барем не волим\n\n(Нек' неко други усне ти љуби)\n(Да тебе лакше преболим)\n\nЛане моје, ових дана (Лане моје)\nВише и не тугујем (Лане моје)\nПитам само да л' си сама\nЉуде које не чујем\n\nЛане моје, ноћас крени (Лане моје)\nНије важно било с' ким\nНађи неког налик мени\nДа те барем не волим\nДа те више не волим"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "My sweetheart",
+      "content": "When I think of you\nI'm afraid of loving you again\nI sink my teeth into my blue lips\nTo forget the real pain\n\nMy sweetheart, these days\nI don't even wallow in sorrow any more\nI only ask if you are alone\nPeople I can't hear\n\nMy sweetheart, leave tonight\nIt's not important, with anyone\nFind someone who resembles me\nSo at least I won't love you\n\n(May someone else kiss your lips)\n(So I can get over you more easily)\n\nMy sweetheart, these days (My sweetheart)\nI don't even wallow in sorrow any more (My sweetheart)\nI only ask if you are alone\nPeople I can't hear\n\nMy sweetheart, leave tonight (My sweetheart)\nIt's not important, with anyone\nFind someone who resembles me\nSo at leаѕt I won't love you\nSo I will no longer love you"
+    }
+  ],
+  "bpm": 101,
+  "tone": "B major",
+  "artistPeople": [
+    "Branko Popović",
+    "Dragan Krstić",
+    "Miloš Nikolić",
+    "Rastko Aksentijević",
+    "Tijana Miloševič",
+    "Željko Joksimović"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Željko Joksimović"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Leontina Vukomanović"
+  ],
+  "writers": null,
+  "broadcaster": "RTS",
+  "commentators": [
+    "Dražen Bauković",
+    "Duška Vučinić-Lučić",
+    "Tamara Ivanković"
+  ],
+  "jury": null,
+  "spokesperson": "Nataša Miljković"
+}

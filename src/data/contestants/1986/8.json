@@ -1,0 +1,58 @@
+{
+  "id": 8,
+  "country": "TR",
+  "artist": "Klips ve Onlar",
+  "song": "Halley",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/3Hh7MQFRkKI",
+    "https://www.youtube-nocookie.com/embed/PjT68i-Jwdw",
+    "https://www.youtube-nocookie.com/embed/Z3Jx-cIALoM",
+    "https://www.youtube-nocookie.com/embed/pcH00YVEuHY"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "turkish"
+      ],
+      "displayedLanguages": null,
+      "title": "Halley",
+      "content": "Hey… sevgili dünya\nGülmeye başla… sonsuz olsun kahkaha\nHey… sevgili dünya\nGülmeye başla… sonsuz olsun kahkaha\n\nBir müjde var şu kalplere\nHay, Halley, hay, hay, Halley\nHay, Halley, hay, hay, hay, Halley\n\nHey… sevgili dünya\nGülmeye başla… sonsuz olsun kahkaha\nHey… sevgili dünya\nGülmeye başla… sonsuz olsun kahkaha\n\nBir müjde var şu kalplere\nHay, Halley, hay, hay, hallo, Halley\nBir müjde ver şu kalplere\nHay, Halley, hay, hay, Halley\nHay, Halley, hay, hay, hay, Halley\n\nMüjdeler olsun… çaldım ben kapıyı\nMüjdeler olsun… dünya aç kapıyı\nMüjdeler olsun… sevgi en kolayı\nMüjdeler olsun sizlere\n\nMerhaba Halley… sevgi ver buraya\nMerhaba Halley… saygı ver buraya\nPeri kızı gel… değdir değneğini\nHerşeye rağmen, heryerde umut var\n\nBonjour , good morning, hi, hello , ciao \nMerhaba dünya… haydi barışa\nGüzele doğru böyle biteviye\nSen de… sen de… sen de… birlikte\n\nMerhaba Halley… sevgi ver buraya\nMerhaba Halley… ѕaygı ver buraya\nPeri kızı gel… değdir değneğini\nHerşeye rağmen, heryerde umut var\n\nBir müjde var şu kalplere\nHay, Halley, hay, hay, hallo, Halley\nBir müjde var şu kalplere\nHay, Halley, hay, hay, Halley\nHay, Halley, hay, hay, Halley\nHay, Halley, hay, hay, hay, Hаlley"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Halley",
+      "content": "Hey… dear world\nStart laughing… the laughter should never end\nHey… dear world\nStart laughing… the laughter should never end\n\nGive good news to these hearts\nHay, Halley, hay, hay, Halley\nHay, Halley, hay, hay, hay, Halley\n\nHey… dear world\nStart laughing… the laughter should never end\nHey… dear world\nStart laughing… the laughter should never end\n\nGive good news to these hearts\nHay, Halley, hay, hay, hallo, Halley\nGive good news to these hearts\nHay, Halley, hay, hay, Halley\nHay, Halley, hay, hay, hay, Halley\n\nLet it be good news… I knocked on this door\nLet it be good news… the world opened the door\nLet it be good news… love is so easy\nLet it be good news for all of you\n\nHello Halley… give us some love\nHello Halley… give us some respect\nCome fairy… let your wand beat\nIn spite of everything there is hope\n\nHello, good morning, hi, hello, hi \nHello, world… let's go towards peace\nLet's go towards beauty, for ever\nTogether with you, with you, with you\n\nHello Halley… give us some love\nHello Halley… give us some respect\nCome fairy… let your wand beat\nIn spite of everything… there is hope\n\nGive good news to these hearts\nHay, Halley, hay, hay, hallo, Halley\nGive good news to these heartѕ\nHay, Halley, hay, hay, Halley\nHay, Halley, hay, hay, Halley\nHay, Halley, hay, hay, hay, Hаlley"
+    }
+  ],
+  "bpm": 94,
+  "tone": "G minor",
+  "artistPeople": [
+    "Candan Erçetin",
+    "Derya Bozkurt",
+    "Emre Tukur",
+    "Gür Akad",
+    "Sevingül Bahadır"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Melih Kibar"
+  ],
+  "conductor": "Melih Kibar",
+  "lyricists": [
+    "İlhan İrem"
+  ],
+  "writers": null,
+  "broadcaster": "TRT",
+  "commentators": [
+    "Gülgün Feyman"
+  ],
+  "jury": null,
+  "spokesperson": "Ümit Tunçağ"
+}

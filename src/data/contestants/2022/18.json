@@ -1,0 +1,70 @@
+{
+  "id": 18,
+  "country": "BE",
+  "artist": "Jérémie Makiese",
+  "song": "Miss You",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/sB09advfF6E",
+    "https://www.youtube-nocookie.com/embed/GZ3mLO4uFjY",
+    "https://www.youtube-nocookie.com/embed/ALG5vfm3ktY",
+    "https://www.youtube-nocookie.com/embed/OriGcvsLB7U",
+    "https://www.youtube-nocookie.com/embed/NBKxbu9N0M4",
+    "https://www.youtube-nocookie.com/embed/m6EMDRhVZpE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Miss You",
+      "content": "Sometimes I feel down\nSometimes I booze\nSometimes I fall\nSometimes I do wrong\nOne day I'm cool\nOne day I'm cold\n\nAnd I've been trying to escape my past\nGive up on the sadness that you left behind\nI've been trying to erase my mind\nYou stay like a nightmare\nWhen I close my eyes\n\nAm I gonna miss you? no\nPromise I won't miss you, no\nI'm gonna break through, no\nI'll never hate you\nI'll never chase you\n\nSometimes I feel good\nSometimes I lose my mind and my soul\nThat's when I see you\nAnd out of the blue I answer your call\n\nAnd I've been trying to escape my past\nGive up on the sadness that you left behind\nI've been trying to erase my mind\nBut you stay like a nightmare\nWhen I close my eyes\n\nAm I gonna miss you? no\nPromise I won't miss you, no\nI'm gonna break through, no\nI'll never hate you\nI'll never chase you\n\nAm I gonna miss you? no, no\nPromise I won't miss you, no\nI'm gonna break through, no\nI'll never hate you\nI'll never chase you\n\nI gotta make it to the bright side\nI've been lying when I said I'm fine\nWanna find a way to feel alive\n\nAm I gonna miss you? no\nPromise I won't miss you, no\nI'm gonna break through, no\nI'll never hate you\nI'll never chase you\n\nNever feel bad\nWhen love is good\nLife goes on\nDon't wanna live my life\nWaiting for your call\n\nSometimes I feel down\nSometimes I booze\nSometimeѕ I fаll"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Tu me manques",
+      "content": "Parfois je me sens déprimé\nParfois je picole\nParfois je tombe\nParfois je me trompe\nUn jour je suis cool\nUn jour je suis froid\n\nEt j'ai essayé d'échapper à mon passé\nAbandonne la tristesse que tu as laissée derrière toi\nJ'ai essayé d'effacer mon esprit\nTu restes comme un cauchemar\nQuand je ferme mes yeux\n\nEst-ce que tu vas me manquer ? Non\nJe te promets que tu ne me manqueras pas, non\nJe vais me briser, non\nJe ne te haïrai jamais\nJe ne te chasserai jamais\n\nParfois je me sens bien\nParfois je perds la tête et mon âme\nC'est là que je te vois\nEt tout à coup je répond à ton appel\n\nEt j'ai essayé d'échapper à mon passé\nAbandonne la tristesse que tu as laissée derrière toi\nJ'ai essayé d'effacer mon esprit\nTu restes comme un cauchemar\nQuand je ferme mes yeux\n\nEst-ce que tu vas me manquer ? Non\nJe te promets que tu ne me manqueras pas, non\nJe vais me briser, non\nJe ne te haïrai jamais\nJe ne te chasserai jamais\n\nEst-ce que tu vas me manquer ? Non, non\nJe te promets que tu ne me manqueras pas, non\nJe vais me briser, non\nJe ne te haïrai jamais\nJe ne te chasserai jamais\n\nJe dois arriver au bon côté des choses\nJ'ai menti quand j'ai dit que je j'allais bien\nJe veux trouver un moyen de me sentir vivant\n\nEst-ce que tu vas me manquer ? Non, non\nJe te promets que tu ne me manqueras pas, non\nJe vais me briser, non\nJe ne te haïrai jamais\nJe ne te chasserai jamais\n\nNe jamais se sentir mal\nQuand l'amour est bon\nLa vie continue\nJe ne veux pas vivre ma vie\nEn attendant ton appel\n\nParfois je me sens déprimé\nParfois je picole\nPаrfoiѕ je tombe"
+    }
+  ],
+  "bpm": 144,
+  "tone": "F# minor",
+  "artistPeople": [
+    "Jérémie Makiese"
+  ],
+  "backings": null,
+  "dancers": [
+    "Alpha Lopez",
+    "Cédric Libambu",
+    "Malik Zaryaty",
+    "Shean Assal"
+  ],
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Jérémie Makiese",
+    "Manon Romiti",
+    "Mike BGRZ",
+    "Silvio Lisbonne"
+  ],
+  "broadcaster": "RTB",
+  "commentators": [
+    "Jean-Louis Lahaye",
+    "Maureen Louys",
+    "Peter Van de Veire"
+  ],
+  "jury": [
+    "Alex Germys",
+    "Elia Rose",
+    "Joël Habay",
+    "Julie Compagnon",
+    "Rino Gallo"
+  ],
+  "spokesperson": "David Jeanmotte"
+}

@@ -1,0 +1,60 @@
+{
+  "id": 9,
+  "country": "AT",
+  "artist": "Westend",
+  "song": "Hurricane",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Ex9Im5C2NIk",
+    "https://www.youtube-nocookie.com/embed/0gOj84TMDEo",
+    "https://www.youtube-nocookie.com/embed/BIFjrOivvFE",
+    "https://www.youtube-nocookie.com/embed/psMNXlxQm3Y",
+    "https://www.youtube-nocookie.com/embed/LW22drlIIFY"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Hurricane",
+      "content": "Ganz allein mit meinem Kummer\nSpazier' ich durch die Straßen\nDie Einsamkeit von morgen\nMacht mir schon heute Sorgen\n\nJa, ich warte auf die Eine\nNur auf mich da wartet keine\nIch dreh' mich in der Mühle\nDer stürmischen Gefühle\n\nSo ein Hurricane, Hurricane, Hurricane\nWirbelwind der Liebe\nHurricane, Hurricane, Hurricane\nWirbelwind der Liebe trägt uns fort\n\nDann hab' ich sie gefunden\nNach leeren dunklen Stunden\nDoch das Schicksal war dagegen\nNun steh' ich da im Regen\n\nSo ein Hurricane, Hurricane, Hurricane\nWirbelwind der Liebe\nHurricane, Hurricane, Hurricane\nWirbelwind der Liebe\n\nIch leb' in meinen Phantasien\nUnd ich jag' den Regenbogen\nHaben wir uns selbst betrogen?\nSelbst betrogen…\n\nHurricane, Hurricane, Hurricane\nWirbelwind der Liebe\nHurricane, Hurricane, Hurricane\nWirbelwind der Liebe trägt uns fort\n\nHurricane, Hurricane, Hurricane\nWirbelwind der Liebe\nHurricane, Hurricane, Hurricane\nWirbelwind der Liebe trägt unѕ fort\n\nHurricane, Hurricane, Hurricane\nWirbelwind der Liebe\nHurricane, Hurricane, Hurricаne\nWirbelwind der Liebe"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Hurricane",
+      "content": "All alone with my pain\nI'm walking through the streets\nThe loneliness of tomorrow\nIs getting me down today\n\nYes, I'm waiting for the one\nBut nobody is waiting for me\nI'm spinning right round in the twister\nOf stormy feelings\n\nSuch a hurricane, hurricane, hurricane\nThunderstorm of love\nHurricane, hurricane, hurricane\nThunderstorm of love is taking us away\n\nThen I finally found her\nAfter empty, dark hours\nBut destiny was not on our side\nNow I'm standing in the rain\n\nSuch a hurricane, hurricane, hurricane\nThunderstorm of love\nHurricane, hurricane, hurricane\nThunderstorm of love is taking us away\n\nI live in my fantasies\nAnd I hunt the rainbow\nDid we cheat ourselves?\nCheat ourselves…\n\nHurricane, hurricane, hurricane\nThunderstorm of love\nHurricane, hurricane, hurricane\nThunderstorm of love is taking us away\n\nHurricane, hurricane, hurricane\nThunderstorm of love\nHurricane, hurricane, hurricane\nThunderstorm of love is taking us away\n\nHurricane, hurricane, hurricane\nThunderstorm of love\nHurricane, hurricane, hurricаne\nThunderѕtorm of love"
+    }
+  ],
+  "bpm": 134,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Bernhard Rabitsch",
+    "Gerhard Lux",
+    "Hans Christian Wagner",
+    "Patricia Tandien",
+    "Peter Vieweger"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Peter Vieweger"
+  ],
+  "conductor": "Richard Österreicher",
+  "lyricists": [
+    "Heinz Nessizius",
+    "Heli Deinboek"
+  ],
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": [
+    "Ernst Grissemann"
+  ],
+  "jury": null,
+  "spokesperson": "Tilia Herold"
+}

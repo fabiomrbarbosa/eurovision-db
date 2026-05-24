@@ -1,0 +1,53 @@
+{
+  "id": 16,
+  "country": "BE",
+  "artist": "Lize Marke",
+  "song": "Als het weer lente is",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/BxoXZOwzJOw",
+    "https://www.youtube-nocookie.com/embed/jQutkiIHdms"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "Als het weer lente is",
+      "content": "Ik spaar de druppels van de dauw\nAls het weer lente is\nIk koop voor jou net wat je wou\nAls het jouw feestdag is\nIk zal voor altijd op je blijven wachten\nEn in gedachten ben ik bij jou\n\nIk tel de sterren van april die aan de hemel staan\nIk wou zo graag met jou gelukkig door het leven gaan\nIk spaar voor jou de parels van de dauw\nAls het weer lente is, voor jou\n\nIk zal elke avond de deuren gaan sluiten\nIk zal elke avond de lichten uitdoen\nWij zullen des zomers picknicken gaan buiten\nEn voor elke hap, krijg jij ook een zoen\n\nIk spaar de druppels van de dauw\nAls het weer lente is\nIk koop voor jou net wat je wou\nAls het jouw feestdag is\nIk zal voor altijd op je blijven wachten\nEn in gedachten ben ik bij jou\n\nIk tel de sterren van april die aan de hemel staan\nIk wou zo graag met jou gelukkig door het leven gaan\nIk spaar voor jou de parels van de dаuw\nAls het weer lente iѕ, voor jou"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "When it's springtime again",
+      "content": "I'll save the drops of dew\nWhen it's springtime again\nI'll buy for you just what you want\nWhen it's your holiday\nI'll be waiting for you for ever\nAnd in my thoughts I am with you\n\nI'm counting the stars of April in the sky\nI wanted to spend my life with you happily\nI'll save the pearls of dew for you\nWhen it's springtime again, for you\n\nI'll go and close the doors every evening\nI'll turn off the lights every evening\nIn summer, we'll go and have a picnic outside\nAnd for each bite, you'll get a kiss\n\nI'll save the drops of dew\nWhen it's springtime again\nI'll buy for you just what you want\nWhen it's your holiday\nI'll be waiting for you for ever\nAnd in my thoughts I am with you\n\nI'm counting the stars of April in the sky\nI wanted to spend my life with you happily\nI'll save the pearls of dew for you\nWhen it's ѕpringtime agаin, for you"
+    }
+  ],
+  "bpm": 118,
+  "tone": "D major",
+  "artistPeople": [
+    "Liliane Couck"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jef van den Berg"
+  ],
+  "conductor": "Gaston Nuyts",
+  "lyricists": [
+    "Jaak Dreesen"
+  ],
+  "writers": null,
+  "broadcaster": "BRT",
+  "commentators": [
+    "Herman Verelst",
+    "Paule Herreman"
+  ],
+  "jury": null,
+  "spokesperson": "Ward Bogaert"
+}

@@ -1,0 +1,47 @@
+{
+  "id": 9,
+  "country": "MD",
+  "artist": "Natalia Barbu",
+  "song": "Fight",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/SZzcIOvoIfo",
+    "https://www.youtube-nocookie.com/embed/fYjunABZo0I",
+    "https://www.youtube-nocookie.com/embed/gsp9boXrO5s"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Fight",
+      "content": "(Never, never, never, never)\n\nObsession, we hide in the back\nAnd devotion's finding a way\nWhen highness exists for those people who pray\n\nEvery day is like a start\nUps and downs, tears and laugh\nWe never stop, just fight\n\nNever let nobody in\nAnd step right on your dream\nIf you really wanna take this trip\nFighting anywhere we go\nTo face this cruel world\nWe gotta just fight forever\n\nBelieving, forfeiting the past\nThe onfall's adapting the hearts\nEach people will know our wishes no more\n\nEvery day is like a start\nUps and downs, tears and laugh\nWe never stop, just fight\n\nNever let nobody in\nAnd step right on your dream\nIf you really wanna take this trip\nFighting anywhere we go\nTo face this cruel world\nWe gotta just fight forever\n\nOoh…\n\nFighting anywhere we go\nTo face this cruel world\nWe gottа juѕt fight forever"
+    }
+  ],
+  "bpm": 172,
+  "tone": "G minor",
+  "artistPeople": [
+    "Natalia Barbu"
+  ],
+  "backings": [
+    "Ludmila Znamenskii",
+    "Rodica Aculova"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Alexandru Braşoveanu"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Elena Buga"
+  ],
+  "writers": null,
+  "broadcaster": "TRM",
+  "commentators": [
+    "Vitalie Rotaru"
+  ],
+  "jury": null,
+  "spokesperson": "Andrei Porubin"
+}

@@ -1,0 +1,44 @@
+{
+  "id": 8,
+  "country": "IE",
+  "artist": "Dawn",
+  "song": "Is Always Over Now?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/EeOPxO3cMNk",
+    "https://www.youtube-nocookie.com/embed/LJGurkqI6O4",
+    "https://www.youtube-nocookie.com/embed/omXIHNpTEfg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Is Always Over Now?",
+      "content": "I never thought that it would end\nYou were the one – my love, my friend\nYou were my every dream come true\nAlways, you said, was me and you\n\nSo how can you say it's over now?\nHow can you wave it all goodbye?\nAlways, you said, this love would be\nAlways, you said, was you and me\n\nIs always over now?\nDoes it never last that long?\nWere the feelings that I had\nEver right, or was it wrong?\nTo think that love should last\nWas mistaken on my part\nBut you promised me the earth\n(You promised me…)\nAnd you only broke my heart\n\nYou touched my soul\nYou touched my life\nYou always would, you said\nBut now, you are taking always away\n\nIs always over now?\nDoes it never last that long?\nWere the feelings that I had\nEver right, or was it wrong?\nTo think that love should last\nWas mistaken on my part\nBut you promised me the earth\n(You promised me…)\nAnd you only broke my heart\n\nIs always over now?\nDoes it never last that long?\nWere the feelings that I had\nEver right, or was it wrong?\nTo think that love should last\nWas mistaken on my part\nBut you promised me the earth\n(You promised me…)\nAnd you only broke my heаrt\n(You promiѕed me…)"
+    }
+  ],
+  "bpm": 162,
+  "tone": "D major",
+  "artistPeople": [
+    "Dawn Martin"
+  ],
+  "backings": [
+    "Paul Harrington"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Noel Kelehan",
+  "lyricists": null,
+  "writers": [
+    "Gerry Morgan"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Pat Kenny"
+  ],
+  "jury": null,
+  "spokesperson": "Eileen Dunne"
+}

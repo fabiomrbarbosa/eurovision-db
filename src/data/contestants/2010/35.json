@@ -1,0 +1,75 @@
+{
+  "id": 35,
+  "country": "BG",
+  "artist": "Miro",
+  "song": "Angel Si Ti",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/YTyTL04vlEw",
+    "https://www.youtube-nocookie.com/embed/S_WpWRcHYDI",
+    "https://www.youtube-nocookie.com/embed/0B1whPvUZRU",
+    "https://www.youtube-nocookie.com/embed/1XxJStDzM0c",
+    "https://www.youtube-nocookie.com/embed/ENTWJxRm3oU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "bulgarian"
+      ],
+      "displayedLanguages": [
+        "bulgarski"
+      ],
+      "title": "Angel Si Ti",
+      "content": "Ho… oh…\nHo… oh…\n\nBjahme deca, njakoi sa porasnali\nDrugite ne sa, ostanaha si angeli\nV teb e kljucha, vratite sa zatvoreni\nZad tjah zhivee angel s's krila\n\nAngel si ti, ne vjarvash li?\nAngel p'tja ti predskazva\nAngel si ti, zabravi li?\nLjubovta ti go dokazva\n\nOh… oh…\nOh… oh…\nOh oh… oh…\nOh oh… oh…\n\nYou're an angel born to be free\nBut I've got you and you've got me\nWhen the lights go down, you bring me salvation\nWhen the tears run dry, you appear\nTo save and love and comfort me\nTill the end of time you will always be my angel\n\nMy love, my love\nYou're an angel, my love\n\nOh… oh…\nHo… oh…\nOh… oh…\nOh oh… oh…\n\nAngel si ti, ne vjarvash li?\nAngel p'tja ti predskazva\nAngel ѕi ti, zabravi li?\nLjubovta ti go dokazvа"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "bulgarian"
+      ],
+      "displayedLanguages": [
+        "български"
+      ],
+      "title": "Ангел си ти",
+      "content": "Oу… oу…\nOу… oу…\n\nБяхме деца, някои са пораснали\nДругите не са, останаха си ангели\nВ теб е ключа, вратите са затворени\nЗад тях живее ангел със крила\n\nАнгел си ти, не вярваш ли\nАнгел пътя ти предсказва\nАнгел си ти, забрави ли\nЛюбовта ти го доказва\n\nOу… oу…\nOу… oу…\nOу oу… oу…\nOу oу… oу…\n\nYou're an angel born to be free\nBut I've got you and you've got me\nWhen the lights go down, you bring me salvation\nWhen the tears run dry, you appear\nTo save and love and comfort me\nTill the end of time you will alwayѕ be my angel\n\nMy love, my love\nYou're an аngel, my love\n\nОу… оу…\nОу… оу…\nОу… оу…\nOу oу… oу…\n\nАнгел си ти, не вярваш ли\nАнгел пътя ти предсказва\nАнгел си ти, забрави ли\nЛюбовта ти го доказва"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "You're an angel",
+      "content": "Ho… oh…\nHo… oh…\n\nWe were kids, some have grown up\nThe others haven't, they remained angels\nThe key is in you, the doors are closed\nBehind them, an angel with wings lives\n\nYou're an angel, don't you believe?\nAn angel predicted your way\nYou're an angel, have you forgotten?\nYour love proves it\n\nOh… oh…\nOh… oh…\nOh oh… oh…\nOh oh… oh…\n\nYou're an angel born to be free\nBut I've got you and you've got me\nWhen the lights go down, you bring me salvation\nWhen the tears run dry, you appear\nTo save and love and comfort me\nTill the end of time you will always be my angel\n\nMy love, my love\nYou're an angel, my love\n\nOh… oh…\nHo… oh…\nOh… oh…\nOh oh… oh…\n\nYou're an angel, don't you believe?\nAn angel predicted your way\nYou're an angel, hаve you forgotten?\nYour love proveѕ it"
+    }
+  ],
+  "bpm": 133,
+  "tone": "F major",
+  "artistPeople": [
+    "Miroslav Kostadinov"
+  ],
+  "backings": [
+    "Aleksandar Boychev",
+    "Eli Radanova",
+    "Vyara Panteleeva"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Miroslav Kostadinov"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Gordon Davis",
+    "Mihail Mihailov",
+    "Miroslav Kostadinov"
+  ],
+  "writers": null,
+  "broadcaster": "BNT",
+  "commentators": [
+    "Elena Rosberg",
+    "Georgi Kushvaliev"
+  ],
+  "jury": null,
+  "spokesperson": "Desislava Dobreva"
+}

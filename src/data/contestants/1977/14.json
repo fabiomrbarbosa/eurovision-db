@@ -1,0 +1,59 @@
+{
+  "id": 14,
+  "country": "PT",
+  "artist": "Os Amigos",
+  "song": "Portugal no coração",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/W3SVxow-oao",
+    "https://www.youtube-nocookie.com/embed/tiLsnwvHr54",
+    "https://www.youtube-nocookie.com/embed/YQZ3CXcY97Y",
+    "https://www.youtube-nocookie.com/embed/xRpf86DBZJQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Portugal no coração",
+      "content": "Portugal foi a razão\nPor que um dia morreu meu irmão\nMas também é coração\nA bater nesta canção\n\nNão sei bem de quem eu nasci\nNão descobri nem pai nem mãe\nSó sei que já nasci aqui e foi aqui\nQue eu fui alguém\n\nPortugal foi a razão\nPor que um dia morreu meu irmão\nMas também é coração\nA bater nesta canção\n\nDigo tudo quanto eu sou\nSerei criança ou malmequer?\nTenho apenas o que eu dou:\nEste lugar que ninguém quer\n\nNeste país onde estou\nSerei tudo quanto eu fizer\nEste povo a que me dou\nNão é homem nem mulher\n\nPortugal é querer dar a mão\nSermos amigos, termos pão\nPortugal é ter a vontade\nDe acabar com a saudade\n\nPortugal já tem idade\nPara o povo entender liberdade\nPortugal é uma nação\nOnde vive o meu irmão\nPortugal\n\nPortugal, ai meu amor\nCoração desta minha canção\nBate, bate coração\nPara termos a vida melhor\n\nPortugal, ai meu amor\nCoração desta minha canção\nBate, bate coração\nPara termos a vida melhor\n\nPortugal, ai meu amor\nCoração deѕta minha canção\nBate, bate coração\nPara haver vidа melhor"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Portugal in the heart",
+      "content": "Portugal was the reason\nWhy one day my brother died\nBut it's also a heart\nBeating in this song\n\nI don't know of whom I was born\nI didn't find out who my father and mother are\nI just know I was born here and it was here\nWhere I was someone\n\nPortugal was the reason\nWhy one day my brother died\nBut it's also a heart\nBeating in this song\n\nI say everything about who I am\nAm I a child or a marigold?\nI only have what I give\nThis place that nobody wants\n\nIn this country where I am\nI'll be everything I do\nThis homeland to which I gave myself\nIsn't a man or a woman\n\nPortugal is wanting to give a hand\nBeing friends, having bread\nPortugal is having the will\nTo end with the longings\n\nPortugal is old enough\nFor people to understand freedom\nPortugal is a nation\nWhere my brother lives\nPortugal\n\nPortugal, oh my love\nHeart of this song of mine\nBeat, beat heart\nSo we can have a better life\n\nPortugal, oh my love\nHeart of this song of mine\nBeat, beat heart\nSo we can have a better life\n\nPortugal, oh my love\nHeart of this ѕong of mine\nBeat, beat heart\nFor а better life"
+    }
+  ],
+  "bpm": 127,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Ana Bola",
+    "Edmundo Silva",
+    "Fernanda Piçarra",
+    "Fernando Tordo",
+    "Luísa Basto",
+    "Paulo da Costa"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Fernando Tordo"
+  ],
+  "conductor": "José Calvário",
+  "lyricists": [
+    "José Carlos Ary dos Santos"
+  ],
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "José Côrte-Real"
+  ],
+  "jury": null,
+  "spokesperson": "Ana Zanatti"
+}

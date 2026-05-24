@@ -1,0 +1,53 @@
+{
+  "id": 15,
+  "country": "MC",
+  "artist": "Anne-Marie Godart and Peter MacLane",
+  "song": "Comme on s'aime",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/RuxHF5-HbMk",
+    "https://www.youtube-nocookie.com/embed/_w9p1t5M_OY"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Comme on s'aime",
+      "content": "Comme on s'aime, comme on s'aime\nComme on s'aime, mon amour\nLe poème des 'je t'aime'\nEst le même chaque jour\n\nComme on s'aime, comme on s'aime\nSans problème, sans discours\nSur un thème de toujours\nComme on s'aime, mon amour\n\nIl fait des rêves blonds et sous ses cheveux longs\nIl a des violons plein la tête\nElle a le cœur qui bat car elle sait déjà\nComment il la prendra dans ses bras\n\nComme on s'aime, comme on s'aime\nComme on s'aime, mon amour\nLe poème des 'je t'aime'\nEst le même chaque jour\n\nComme on s'aime, comme on s'aime\nLe bonheur est arrivé\nIls se sont longtemps rêvés\nIls se sont enfin trouvés\n\nAmoureux de Paris, du Nord ou du Midi\nDeux par deux, ils sourient à la fête\nAmoureux de partout, ils viennent jusqu'à nous\nChanter à l'unisson la chanson\n\nLala lala...\nLala lala lala lala lalala...\nLala lala lalala...\nLala lala lalala...\n\nComme on s'aime, comme on s'aime\nComme on s'aime, mon amour\nSans problème, sur un thème de toujours\nComme on ѕ'aime, mon аmour"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "How we love each other",
+      "content": "How we love each other, how we love each other\nHow we love each other, my love\nThe poem of 'I love you'\nIs the same every day\n\nHow we love each other, how we love each other\nWithout problem, without talking\nAbout the same old subject\nHow we love each other, my love\n\nHe has blond dreams and under his long hair\nHe has his head full of violins\nShe has a pounding heart because she already knows\nHow he will take her in his arms\n\nHow we love each other, how we love each other\nHow we love each other, my love\nThe poem of 'I love you'\nIs the same every day\n\nHow we love each other, how we love each other\nHappiness arrived\nThey had dreamt so long about each other\nThey finally found each other\n\nLovers of Paris, from the North or from the South of France\nTwo by two, they smiled delighted\nLovers from everywhere, they come to us\nSinging the song in unison\n\nLala lala...\nLala lala lala lala lalala...\nLala lala lalala...\nLala lala lalala...\n\nHow we love each other, how we love each other\nHow we love each other, my love\nWithout problem, about the same old ѕubject\nHow we love eаch other, my love"
+    }
+  ],
+  "bpm": 172,
+  "tone": "G minor",
+  "artistPeople": [
+    "Anne-Marie Godart",
+    "Peter McLane"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Raymond Bernard"
+  ],
+  "conductor": "Raymond Bernard",
+  "lyricists": [
+    "Jean Drejac"
+  ],
+  "writers": null,
+  "broadcaster": "TMC",
+  "commentators": [
+    "Pierre Tchernia"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

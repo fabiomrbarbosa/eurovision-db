@@ -1,0 +1,59 @@
+{
+  "id": 30,
+  "country": "PT",
+  "artist": "2B",
+  "song": "Amar",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/iQqQZpHmIR0",
+    "https://www.youtube-nocookie.com/embed/3HdiJ7Rx4wQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "portuguese",
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Amar",
+      "content": "O céu às vezes foge\nProcura outro lugar\nOnde o Sol não cabe\nE a Lua não quer ficar\n\nDe mar em mar, hey\nVer e vencer, hey\nAmar, amar\nSempre, sempre, anyway\nDe mar em mar, hey\nVer e vencer, hey\nAmar, amar\nAlways, day by day\n\nSó quem não quer amar\nOlha sem ver\n\nHappy pretty way, happy shiny day\nHappy place to stay, we can hold it together\nHappy pretty way, happy shiny day\nHappy place to stay, we can hold it forever\n\nPretty people shining, a pretty place to stay\nBrand new kind of face, I love you anyway\nFight for the love that I miss, ask me to stay\n\nHappy pretty way, happy shiny day\nHappy place to stay, we can hold it together\nHappy pretty way, happy shiny day\nHappy place to stay, we can hold it forever\n\nHappy pretty way, very shiny day\nHappy place to stay, we can hold it together\nHappy pretty way, happy shiny day\nHappy place to stay, we can hold it forever\n\nDe mar em mar\nVer e vencer\nAmar, amar\nAsk me to stay\nAmar\n\n(Happy pretty way, happy shiny day)\n(Happy place to stay, we can hold it together)\n(Happy pretty way, happy shiny day)\n(Happy place to stay, we can hold it forever)\n\nPretty way, happy, happy shiny day\nA brand new day, happy, happy place to stay\nPretty way, happy, happy shinny day\nA brand new day, happy, happy place to ѕtаy"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "To love",
+      "content": "Sometimes the sky runs away\nTo look for another way\nWhere the sun doesn't fit in\nAnd the moon doesn't want to stay\n\nFrom sea to sea, hey\nTo see and conquer, hey\nTo love, to love\nAlways, always, anyway \nFrom sea to sea, hey\nTo see and conquer, hey\nTo love, to love\nAlways, day by day \n\nOnly those who don't want to love\nLook without seeing\n\nHappy pretty way, happy shiny day \nHappy place to stay, we can hold it together \nHappy pretty way, happy shiny day \nHappy place to stay, we can hold it forever \n\nPretty people shining, a pretty place to stay \nBrand new kind of face, I love you anyway \nFight for the love that I miss, ask me to stay \n\nHappy pretty way, happy shiny day \nHappy place to stay, we can hold it together \nHappy pretty way, happy shiny day \nHappy place to stay, we can hold it forever \n\nHappy pretty way, very shiny day \nHappy place to stay, we can hold it together \nHappy pretty way, happy shiny day \nHappy place to stay, we can hold it forever \n\nFrom sea to sea\nTo see and conquer\nTo love, to love\nAsk me to stay \nTo love\n\n(Happy pretty way, happy shiny day) \n(Happy place to stay, we can hold it together) \n(Happy pretty way, happy shiny day) \n(Happy place to stay, we can hold it forever) \n\nPretty way, happy, happy shiny day \nA brand new day, happy, happy place to stay \nPretty way, happy, happy shinny day \nA brand new day, happy, happy place to ѕtаy"
+    }
+  ],
+  "bpm": 100,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Luciana Abreu",
+    "Rui Alberto Martins Golias Drummond de Sousa"
+  ],
+  "backings": [
+    "Eliana Ghione",
+    "Kelly Maiolle",
+    "Loredana Persichetti",
+    "Suzane Leigh"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Alexandre Honrado",
+    "Ernesto Leite",
+    "José da Ponte"
+  ],
+  "broadcaster": "RTP",
+  "commentators": [
+    "Eládio Clímaco"
+  ],
+  "jury": null,
+  "spokesperson": "Isabel Angelino"
+}

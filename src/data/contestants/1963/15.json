@@ -1,0 +1,53 @@
+{
+  "id": 15,
+  "country": "SE",
+  "artist": "Monica Zetterlund",
+  "song": "En gång i Stockholm",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/c-0DjUwIjgc",
+    "https://www.youtube-nocookie.com/embed/8SAoB7qZMTE",
+    "https://www.youtube-nocookie.com/embed/yikIzK7XdxE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "En gång i Stockholm",
+      "content": "Kom med mig, sa min vän\nNu faller vinterns första tysta snö\nOch sommaren är slut\nJag har en segelbåt i Klara sjö\nKom, min vän, min båt är vit som snö\nJa, kom vi seglar ut\n\nKom, min vän, kom ombord\nDär ser du vit av snö vår Riddarfjärd\nVår båt går ut i snö\nJa, Stockholms vinter är en sällsam värld\nMås och trut, i tyst och vacker snö\nOch skön är Stockholms ö\n\nTyska kyrkans klang, ropar stumt 'ding dang'\nEn sagolik strand, ett sagolikt land\nSom möter oss två i vår båt\n\nHåll min hand, håll min hand\nFör dig och mig så är det sommar än\nKom segla ut med mig\nDär du och jag är, där är sommaren\nSommaren, och den tar aldrig slut\nFör jag, jag älѕkar dig\n\nHåll min hand, håll min hаnd"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Once upon a time in Stockholm",
+      "content": "Come with me, said my friend\nNow the first silent winter snow falls\nAnd summer is over\nI have a sailing boat in Lake Klara\nCome my friend, my boat is as white as snow\nYes, come, let's go sailing\n\nCome my friend, come aboard\nThere you can see the Riddarfjärd covered in white snow\nOur boat sails in snow\nYes, the Stockholm winter is a peculiar world\nSeagulls, in silent and beautiful snow\nAnd beautiful is the island of Stockholm\n\nThe bells of The German Church, silently call 'ding dong'\nA fairytale shore, a fairytale land\nThat meets the two of us in our boat\n\nHold my hand, hold my hand\nFor you and me it's still summer\nCome sailing with me\nWhere you and I are, there is summer\nSummer, it never ends\nBecauѕe I, I love you\n\nHold my hand, hold my hаnd"
+    }
+  ],
+  "bpm": 135,
+  "tone": "G major",
+  "artistPeople": [
+    "Monica Zetterlund"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Bobbie Ericsson"
+  ],
+  "conductor": "William Lind",
+  "lyricists": [
+    "Beppe Wolgers"
+  ],
+  "writers": null,
+  "broadcaster": "SR",
+  "commentators": [
+    "Jörgen Cederberg"
+  ],
+  "jury": null,
+  "spokesperson": "Edvard Matz"
+}

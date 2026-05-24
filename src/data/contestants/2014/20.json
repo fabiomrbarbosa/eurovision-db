@@ -1,0 +1,61 @@
+{
+  "id": 20,
+  "country": "IT",
+  "artist": "Emma",
+  "song": "La Mia Città",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/8W5ZlalAMV8",
+    "https://www.youtube-nocookie.com/embed/Si9K0ChHzDI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "La Mia Città",
+      "content": "Odio andare di fretta,\ni rumori, la nebbia,\nil tempo appeso \ndi questa città\n\nOdio le scarpe col tacco,\nche incastro distratta \nnei tombini invadenti\ndi questa città\n\nOdio me stessa allo specchio\nnon per il difetto,\nma per stupidità\n\nAmo restare in giro\nsapendo di tornare sempre \nin questa città\n\nE dimmi se c'è un senso al tempo,\nal mio vagare inutile,\ne dimmi se c'è davvero una meta\no dovrò correre per la felicità.\nE corro corro \navanti e torno indietro\nscappo, voglio, prendo e tremo\nstringo forte il tuo respiro\ne penso a me che non ho un freno\nspingo forte e non ti temo\nvoglio tutto \nvoglio te…voglio te, voglio te\n\nAmo il traffico in centro,\nparcheggiare distratta,\nil tuo sorriso, \nla mia instabilità\n\nAmo fare l'offesa\nsenza neanche una scusa\nfare pace la sera,\nspegni la città\n\nE amo me stessa per questo\nper egocentrismo, \nsenza razionalità\nAmo prenderti in giro\nsapendo di tornare sempre,\nnella mia città\nE dimmi se c'è un senso al tempo,\nal mio vagare inutile,\ne dimmi se c'è davvero una meta,\no dovrò correre per la felicità\nE corro corro \nAvanti e torno indietro,\nscappo voglio prendo e tremo,\nstringo forte il tuo respiro\ne penso a me che non ho un freno\nspingo forte e non ti temo,\nvoglio tutto, voglio te\nvoglio te, voglio te, voglio te.\nE dimmi se lo vuoi\nE dimmi che non sei\nSoltanto un riflesso confuso\nche guardo sul fondo di noi\n\nE corro corro\nAvanti e torno indietro,\nscappo voglio prendo e tremo,\nstringo forte il tuo respiro\ne penso а me che non ho un freno\nѕpingo forte non ti temo,\nvoglio tutto voglio te,\nvoglio te, voglio te,\nvoglio te, voglio te."
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "My City",
+      "content": "I Hate being in a rush,\nnoises, fog,\nthis city's hung time\n\nI hate high heels\nWhich I absent-minded wedge \nInto this city's intrusive manholes\n\nI hate myself at the mirror\nNot for the faults\nBut just because it's foolish\nI love staying around\nKnowing I will always be back\nTo this city\n\nAnd please tell me if there's a meaning to time,\nTo my useless wandering,\nAnd tell me if there's really a destination\nOr if I'll need to run to reach my happiness\n\nAnd I run and run\nBack and forth\nI run away, I want, I take and shiver\nand I hold your breath tight\nAnd I think about myself\nWith no control\nI push hard and I'm not scared of you\nI want it all\nI want you…I want you, I want you\n\nI love downtown traffic,\nI love parking inattentively\nYour smile\nMy instability\n\nI love being in a huff\nWithout even a reason\nAnd then make up in the evening\nShut down the city\n\nAnd I love myself for this\nFor egocentricity\nWithout rationality.\nI love fooling you around\nKnowing I will always be back\nTo my city.\n\nAnd please tell me if there's a meaning to time,\nTo my useless wandering,\nAnd tell me if there's really a destination\nOr if I'll need to run to reach my happiness\n\nAnd I run and run\nBack and forth\nI run away, I want, I take and shiver\nand I hold your breath tight\nAnd I think about myself\nWith no control\nI push hard and I'm not scared of you\nI want it all\nI want you…I want you, I want you\n\nPlease tell me if you want it\nAnd tell me you ain't just a confused reflection\nI am looking at on the bottom of ourselves.\n\nAnd I run and run\nBack and forth\nI run away, I want, I take and shiver\nand I hold your breath tight\nAnd I think about myself\nWith no control\nI push hard and I'm not ѕcared of you\nI want it all\nI want you…I want you,\nI want you, I wаnt you."
+    }
+  ],
+  "bpm": 136,
+  "tone": "F major",
+  "artistPeople": [
+    "Emmanuela Marrone"
+  ],
+  "backings": [
+    "Arianna Mereu"
+  ],
+  "dancers": null,
+  "stageDirector": "Leandro Emede, Nicolò Cerioni",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Emma Marrone"
+  ],
+  "broadcaster": "RAI",
+  "commentators": [
+    "Filippo Solibello",
+    "Linus",
+    "Marco Ardemagni",
+    "Nicola Savino"
+  ],
+  "jury": [
+    "Andrea Laffranchi",
+    "Andrea Miro",
+    "Francesco Pasquero",
+    "Luca de Gennaro",
+    "Paola Folli"
+  ],
+  "spokesperson": "Linus"
+}

@@ -1,0 +1,55 @@
+{
+  "id": 1,
+  "country": "FR",
+  "artist": "Joelle Ursull",
+  "song": "White and Black Blues",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/IPqSSLcefCs",
+    "https://www.youtube-nocookie.com/embed/hz0_57-Iyjc",
+    "https://www.youtube-nocookie.com/embed/XRwYViVKttU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "White and Black Blues",
+      "content": "Lorsque l'on me parle de couleur de peau\nJ'ai le blues qui me fait froid dans le dos\nJe m'sens dans un conte d'Edgar Allan Poe\nC'est le never more, les vumètres à zéro\n\nWhite and black\nDanse, balance sur le white and black blues\nNous, les blacks\nNous sommes quelque millions, treize à la douze\nParadisiaque\nAfrica, mon amour, j't'ai dans la peau\nWhite and black\nQu'importe la couleur? Tous égaux\n\nEntendez-vous les percussions des tam-tams?\nElles vous vont droit au cœur, vous transpercent l'âme\nComme la flèche d'un chasseur, équateur\nUne lame de couteau où scintillent les pleurs\n\nWhite and black\nDanse, balance sur le white and black blues\nNous, les blacks\nNous sommes quelque millions, treize à la douze\nLe long du fleuve\nSous le soleil ombré des marécages\nOù qu'il pleuve\nSur nos amours, que vienne l'orage\n\nWhite and black\nDanse, balance sur le white and black blues\nNous, les blacks\nNous sommes quelque millions, treize à la douze\nOh, white and black\nDanse, balance sur le white and black blues\nThat's all right\nDanse, balance sur le white blueѕ\n\nAnd blаck"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "White and Black Blues",
+      "content": "When someone talks to me about skin colour\nI have the blues which sends shivers down my spine\nI feel as if I'm in a tale by Edgar Allan Poe\nIt's the never more, the blue funk\n\nWhite and black \nDance, swing on the white and black blues\nWe, the blacks\nWe're a few millions, a dime a dozen\nParadisiacal\nAfrica, my love, I have you in my skin\nWhite and black \nWhat does colour matter? All equal\n\nDo you hear the beats of the tom-toms?\nThey go right through your heart, pierce your soul\nLike the arrow of a hunter, equator\nA knife blade on which tears are sparkling\n\nWhite and black \nDance, swing on the white and black blues\nWe, the blacks\nWe're a few millions, a dime a dozen\nAlong the river\nUnder the sun overshadowed by the swamps\nWhere it rains\nOn our loves, may the storm come\n\nWhite and black \nDance, swing on the white and black blues\nWe, the blacks\nWe're a few millions, a dime a dozen\nOh, white and black \nDance, swing on the white and black blues\nThat's all right \nDance, swing on the white blueѕ\n\nAnd blаck"
+    }
+  ],
+  "bpm": 98,
+  "tone": "B major",
+  "artistPeople": [
+    "Joëlle Ursull"
+  ],
+  "backings": [
+    "Jean-Yves Bikialo"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Georges Ougier de Moussac"
+  ],
+  "conductor": "Régis Dupré",
+  "lyricists": [
+    "Serge Gainsbourg"
+  ],
+  "writers": null,
+  "broadcaster": "A2F",
+  "commentators": [
+    "Richard Adaridi"
+  ],
+  "jury": null,
+  "spokesperson": "Valérie Maurice"
+}

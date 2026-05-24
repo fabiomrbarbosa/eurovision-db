@@ -1,0 +1,57 @@
+{
+  "id": 12,
+  "country": "HU",
+  "artist": "VIP",
+  "song": "Miért kell, hogy elmenj?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Nqjz3jGnxuY",
+    "https://www.youtube-nocookie.com/embed/XOB6dCIsHts",
+    "https://www.youtube-nocookie.com/embed/LW7EeOH0V8M",
+    "https://www.youtube-nocookie.com/embed/wwRauIuUYGg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "hungarian"
+      ],
+      "displayedLanguages": null,
+      "title": "Miért kell, hogy elmenj?",
+      "content": "Hogy mondjam el neked, hogy igazi volt?\nBármit is kérdeznék, már mem válaszolsz\nMás úton jársz, másvalakit vársz\n\nMiért kell, hogy elmenj?\nÚjra kezdhetnénk!\nÉrzem, hogy érted bármit megtennék\nEgy álom elkísér engem és véget ér\n\nHogy mondjam el neked, egy érzés csupán\nAz éjszaka csendjében, még hallod talán\nAs álmokon át, úgy vigyáznék rád\n\nMiért kell, hogy elmenj?\nÚjra kezdhetnénk!\nÉrzem, hogy érted bármit megtennék\nEgy álom elkísér engem és véget ér\n\nMiért kell, hogy elmenj?\nÚjra kezdhetnénk!\nÉrzem, hogy érted bármit megtennék\nEgy álom elkísér engem és véget ér\n\nMiért kell, hogy elmenj?\nÚjrа kezdhetnénk!\nEgy álom elkísér engem éѕ véget ér\nVéget ér"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Why do you have to go?",
+      "content": "How should I tell you that it was all real\nAnything I should ask, you would not reply\nYou took another road, keep waiting for somebody new\n\nWhy do you have to go?\nWe could start all over\nI feel I could do anything for you\nA dream escorted me, then ended just like that\n\nHow should I tell you that it was all but a feeling\nIn the still of the night, you can still hear me sigh\nAll through your dreams, I'd watch over you\n\nWhy do you have to go?\nWe could start all over\nI feel I could do anything for you\nA dream escorted me, then ended just like that\n\nWhy do you have to go?\nWe could start all over\nI feel I could do anything for you\nA dream escorted me, then ended just like that\n\nWhy do you have to go?\nWe could start all over\nA dream escorted me, then ended juѕt like that\nLike thаt"
+    }
+  ],
+  "bpm": 105,
+  "tone": "C major",
+  "artistPeople": [
+    "Alex Józsa",
+    "Gergő Rácz",
+    "Imre Rakonczai",
+    "Viktor Rakonczai"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Viktor Rakonczai"
+  ],
+  "conductor": "Péter Wolf",
+  "lyricists": [
+    "Krisztina Bokor Fekete"
+  ],
+  "writers": null,
+  "broadcaster": "MTV",
+  "commentators": [
+    "István Vágó"
+  ],
+  "jury": null,
+  "spokesperson": "Gyöngyi Albert"
+}

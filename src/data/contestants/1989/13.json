@@ -1,0 +1,58 @@
+{
+  "id": 13,
+  "country": "DE",
+  "artist": "Nino de Angelo",
+  "song": "Flieger",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-4iLLxMq52A",
+    "https://www.youtube-nocookie.com/embed/Okw10TVFQYs",
+    "https://www.youtube-nocookie.com/embed/vdgcj4_WAMs",
+    "https://www.youtube-nocookie.com/embed/8kYqyUCp9EQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Flieger",
+      "content": "Du und ich, wir sind so hoch geflogen\nVor gar nicht langer Zeit\nEin Flugzeug voll mit jungen Träumen\nStand für uns bereit\n\nDas mit uns war so gross\nWir eroberten den Himmel\nWarum liesst du mich nur los\nOhne Fallschirm in der Nacht?\n\nIch hab die Zeit nie ganz vergessen\nAls wir noch Flieger warn\nDu gehst nicht raus aus meinem Herzen\nIch denk nur noch daran\n\nDu hast oft gesagt: \"Wir sind stark, wir zwei\"\nSo was geht doch nicht einfach so vorbei\nIch hab die Zeit nie ganz vergessen\nAls wir noch Flieger warn\n\nWürd das gern noch mal mit dir erleben\nSo'n Flug ins Abendrot\nWürde gern noch mal mein Herz riskieren\nSogar bis in den Tod\n\nDas mit uns war so gross\nSo was gibt es nur noch selten\nWerden wir nur einmal noch\nAuf den Wolken uns verliern?\n\nIch hab die Zeit nie ganz vergessen\nAls wir noch Flieger warn\nDu gehst nicht raus aus meinem Herzen\nIch denk nur noch daran\n\nDu hast oft gesagt: \"Wir sind stark, wir zwei\"\nSo was geht doch nicht einfach so vorbei\n\nIch hab die Zeit nie ganz vergessen\nAls wir noch Flieger warn\nDu gehst nicht raus auѕ meinem Herzen\nIch denk nur noch darаn"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Flyers",
+      "content": "You and me, we flew so high\nIt was not a long time ago\nAn airplane full of young dreams\nWas ready for us\n\nThe two of us, it was so great\nWe conquered the sky\nWhy did you let me go\nWithout a parachute in the night?\n\nI've never totally forgotten the time\nWhen we were flyers\nYou haven't left my heart\nI only think about it\n\nYou've often told me: \"We're strong, both of us\"\nSomething like that couldn't pass away like this\nI've never totally forgotten the time\nWhen we were flyers\n\nI would like to do it again with you\nSuch a flight into the evening glow\nI would like to risk my heart once again\nEven if it killed me\n\nThe two of us, it was so great\nSomething like this is rare\nWill we once again\nLose ourselves in the clouds?\n\nI've never totally forgotten the time\nWhen we were flyers\nYou haven't left my heart\nI only think about it\n\nYou've often told me: \"We're strong, both of us\"\nSomething like that couldn't pass away like this\n\nI've never totally forgotten the time\nWhen we were flyerѕ\nYou haven't left my heart\nI only think аbout it"
+    }
+  ],
+  "bpm": 116,
+  "tone": "D major",
+  "artistPeople": [
+    "Domenico Gerhard Gorgoglione"
+  ],
+  "backings": [
+    "Detlef Wiedeke",
+    "Michael Scholz",
+    "Rolf Köhler"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Dieter Bohlen"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Joachim Horn-Bernges"
+  ],
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Thomas Gottschalk"
+  ],
+  "jury": null,
+  "spokesperson": "Kerstin Schweighöfer"
+}

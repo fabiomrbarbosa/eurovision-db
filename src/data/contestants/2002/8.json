@@ -1,0 +1,53 @@
+{
+  "id": 8,
+  "country": "RO",
+  "artist": "Monica Anghel & Marcel Pavel",
+  "song": "Tell Me Why",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ULjcDtXGOKE",
+    "https://www.youtube-nocookie.com/embed/zEviM4MkcgA",
+    "https://www.youtube-nocookie.com/embed/RUD0-cYF5sw",
+    "https://www.youtube-nocookie.com/embed/2mfnnBgg9XM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Tell Me Why",
+      "content": "We are behaving like two strangers in the gloomy night\nWe have lost so many feelings in this endless fight\nIf you want to go away, now I must obey\nBut for my part, you'll remain always in my heart\n\nTell me why we have to say goodbye\nWas our love only a foolish lie?\nTell me why your eyes are cold and dry\nNo more tears, no more fears\nNothing more to share together\n\nIf you want to go away, now I must obey\nBut for my part, you'll remain always in my heart\n\nTell me why we have to say goodbye\nWhy we broke our wings in flight\nTell me why couldn't we just try\nTo forgive and believe we can reach the sky\n\nTell me why we have to say goodbye\nWas our love only a foolish lie?\nTell me why your eyes are cold and dry\nNo more tears, no more fears\nNothing more to ѕhаre together\n\nTell me why"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "romanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Spune-mi de ce",
+      "content": "Ne comportăm ca doi străini în noaptea mohorâtă\nAm pierdut atât de multe sentimente în această luptă nesfârșită\nDacă vrei să pleci, acum trebuie să mă supun\nDar, din partea mea, vei rămâne mereu în inima mea\n\nSpune-mi de ce trebuie să ne luăm rămas bun\nA fost dragostea noastră doar o minciună prostească?\nSpune-mi de ce ochii tăi sunt reci și uscați\nGata cu lacrimile, gata cu temerile\nNimic mai mult pentru a împărtăși împreună\n\nDacă vrei să pleci, acum trebuie să mă supun\nDar, din partea mea, vei rămâne mereu în inima mea\n\nSpune-mi de ce trebuie să ne luăm rămas bun\nDe ce ne-am rupt aripile în zbor\nSpune-mi de ce nu am putea încerca\nSă iertăm și să credem că putem ajunge la cer\n\nSpune-mi de ce trebuie să ne luăm rămas bun\nA fost dragostea noastră doar o minciună prostească?\nSpune-mi de ce ochii tăi sunt reci și uѕcați\nGata cu lacrimile, gata cu temerile\nNimic mai mult pentru а împărtăși împreună\n\nSpune-mi de ce"
+    }
+  ],
+  "bpm": 144,
+  "tone": "G minor",
+  "artistPeople": [
+    "Marcel Pavel",
+    "Monica Elena Anghel"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ionel Tudor"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Mirela Voiculescu Fugaru"
+  ],
+  "writers": null,
+  "broadcaster": "TVR",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Leonard Miron"
+}

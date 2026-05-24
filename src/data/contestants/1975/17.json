@@ -1,0 +1,54 @@
+{
+  "id": 17,
+  "country": "NO",
+  "artist": "Ellen Nikolaysen",
+  "song": "Touch My Life with Summer",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/rGGE7hZVP3I",
+    "https://www.youtube-nocookie.com/embed/kWIHvGhSHls",
+    "https://www.youtube-nocookie.com/embed/6BDLfnIFWPo",
+    "https://www.youtube-nocookie.com/embed/Y9h-1l8mV1E"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Touch My Life with Summer",
+      "content": "You came along and touched my life with summertime\nAnd filled my soul with rays of golden sunshine\nYou made me feel that somethin' real was waiting to be found\nChanging my whole style, teaching me to smile\n\nEvery day, every way, let me stay in your summer\nSummer, stay with me\nKeep me warm, summer wine\nKeep me warm, summertime\n\nI feel the warmth of summer deep inside of me\nAnd know the glow of love will show and free me\nAnd when you're gone, I'll carry on with what you left in me\nSomething that will grow, everyone will know\n\nEvery day, every way, let me stay in your summer\nSummer, stay with me\nKeep me warm, summer wine\nKeep me wаrm, summertime\n\nI hope you'll be returning when next summer comes\nThen we'll be three, together in the summer ѕun"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "norwegian"
+      ],
+      "displayedLanguages": null,
+      "title": "Det skulle ha vært sommer nå",
+      "content": "Det skulle ha vært sommer nå og fuglesang\nNår blomster ler og hvisker med i samklang\nDet skulle sust en sang fra skog en symfoni av hav\nStillhet inni meg øyekast fra deg\n\nVarme ord lune smil virvlet rundt i vår sommer\nSommer gode venn\nHvil i ro sommereng\nHvil i ro sommerseng\n\nDet skulle ha vært sommer nå og barnesang\nMed nakne spor av føtter på en sandstrand\nDet skulle ha vært sommerduft så mett og søt av sol\nStillhet inni meg øyekast fra deg\n\nVarme ord lune smil virvlet rundt i vår sommer\nSommer gode venn\nHvil i ro sommereng\nHvil i ro sommerseng\n\nDet skulle ha vært sommer nå et stille sted\nDer minner frа en ѕommer ligger gjemt i fred"
+    }
+  ],
+  "bpm": 104,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Ellen Nikolaysen"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Svein Hundsnes"
+  ],
+  "conductor": "Carsten Klouman",
+  "lyricists": [
+    "Johnny Sareussen"
+  ],
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "John Andreassen"
+  ],
+  "jury": null,
+  "spokesperson": "Sverre Christophersen"
+}

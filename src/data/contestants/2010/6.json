@@ -1,0 +1,51 @@
+{
+  "id": 6,
+  "country": "AM",
+  "artist": "Eva Rivas",
+  "song": "Apricot Stone",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/hgz5TZugISw",
+    "https://www.youtube-nocookie.com/embed/buGOZExVf8o",
+    "https://www.youtube-nocookie.com/embed/Jafisf-pkBE",
+    "https://www.youtube-nocookie.com/embed/t42wOqtQB08"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Apricot Stone",
+      "content": "Many, many years ago, when I was a little child\nMama told me you should know our world is cruel and wild\nBut to make your way through cold and heat\nLove is all that you need\n\nI believed her every word, more than anything I heard\nBut I was too scared to lose my fun\nI began to cry a lot and she gave me apricots\nKisses of the earth, fruits of the sun\n\nApricot stone, hidden in my hand\nGiven back to me from the motherland\nApricot stone, I will drop it down in the frozen ground\nI'll just let it make its round\n\nApricot stone, hidden in my hand\nGiven back to me from the motherland\nApricot stone\n\nNow I see the northern stars shining brightly in the storm\nAnd I've got an avatar of my love to keep me warm\nNow I'm not afraid of violent winds\nThey may blow – they can't win\n\nMay the winter stay away from my harvest night and day\nMay God bless and keep my cherished fruit\nGrow my tree up to the sky, once I waved my home goodbye\nI just wanna go back to my roots\n\nApricot stone, hidden in my hand\nGiven back to me from the motherland\nApricot stone, I will drop it down in the frozen ground\nI'll just let it make its round\n\nApricot stone, hidden in my hand\nGiven back to me from the motherland\nApricot stone, hidden in my hand\nGiven back to me from the motherlаnd\nApricot ѕtone"
+    }
+  ],
+  "bpm": 101,
+  "tone": "B minor",
+  "artistPeople": [
+    "Valeriya Reshetnikova Tsaturyan"
+  ],
+  "backings": [
+    "Artem Dervoed",
+    "Djivan Gasparyan",
+    "Gor Sujyan",
+    "Marina Ahverdova"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Armen Martirosyan"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Karen Kavaleryan"
+  ],
+  "writers": null,
+  "broadcaster": "AMPTV",
+  "commentators": [
+    "Hrachuhi Utmazyan",
+    "Khoren Levonyan"
+  ],
+  "jury": null,
+  "spokesperson": "Nazeni Hovhannisyan"
+}

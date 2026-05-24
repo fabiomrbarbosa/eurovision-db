@@ -1,0 +1,49 @@
+{
+  "id": 8,
+  "country": "NL",
+  "artist": "Sandra Reemer",
+  "song": "The Party's Over Now",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/cGTEkQn-Xy4",
+    "https://www.youtube-nocookie.com/embed/Kj2beiqDhIc",
+    "https://www.youtube-nocookie.com/embed/7iNN_9BnRw4",
+    "https://www.youtube-nocookie.com/embed/vBiW0IiEWBI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The Party's Over Now",
+      "content": "The lights are low\nThe party's goin' on\nAnd he who's mine\nHe doesn't seem to miss me\nI feel alone\nI think that I'll go home\nBut if I stay, at least I hear him\n\nThe party's over now\nThe party's over now\nAt least I dream it's over now\nHe's sittin' next to me\nAnd we do both agree\nOur life ain't bad at all\n\nYes, the party's over now\nOne of those bad dreams\nSuddenly came over me\nBut now I feel at ease\n\nThe lights go out\nThe party's goin' on\nAnd he who's mine\nSeems really to enjoy it\nI hear him whisper sweet words\nBut not to me\nI wonder, am I really dreamin'?\n\nThe party's over now\nThe party's over now\nAt least I dream it's over now\nHe's sittin' next to me\nAnd we do both agree\nOur life ain't bad at all\n\nYes, the party's over now\nOne of those bad dreams\nSuddenly came over me\nBut now I feel at ease\n\nYes, the party's over now\nOne of those bad dreams\nSuddenly came over me\nBut now I feel at eаѕe"
+    }
+  ],
+  "bpm": 110,
+  "tone": "A major",
+  "artistPeople": [
+    "Barbara Alexandra Reemer"
+  ],
+  "backings": [
+    "Anita Meyer",
+    "Dianne Marchal",
+    "Jan Vermeulen",
+    "Martha Hollestelle",
+    "Okkie Huysdens"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Harry van Hoof",
+  "lyricists": null,
+  "writers": [
+    "Hans van Hemert"
+  ],
+  "broadcaster": "NOS",
+  "commentators": [
+    "Willem Duys"
+  ],
+  "jury": null,
+  "spokesperson": "Dick van Bommel"
+}

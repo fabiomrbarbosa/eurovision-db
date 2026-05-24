@@ -1,0 +1,52 @@
+{
+  "id": 4,
+  "country": "CY",
+  "artist": "Lisa Andreas",
+  "song": "Stronger Every Minute",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Dq4RNHax5ow",
+    "https://www.youtube-nocookie.com/embed/lLvZbAqVJ0c",
+    "https://www.youtube-nocookie.com/embed/rQwmqkRO7Go",
+    "https://www.youtube-nocookie.com/embed/Pqhm3ApW9_g"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Stronger Every Minute",
+      "content": "No matter where I am\nI'm always thinking of you\nIt may be hard, but I need you to understand\nThat I don't often say what I feel\nBut now this is straight from my heart\n\nMy love grows stronger every minute\nAnd it won't ever die\nI want you to stay with me\nNot just this day, but for all my life\n\nNow, when I look into your eyes\nI can tell there's something wrong\nYou're holding back the tears\nCouldn't bare to lose you now\nSo I will make my feelings clear\n\nMy love grows stronger every minute\nAnd it won't ever die\nYou must believe I'll always be there\nFor you, all my life\n\nOh… please stay\nMmm…\n\nMy love grows stronger every minute\nAnd it won't ever die\nI want you to stay with me\nNot just this day, but for all my life\n\nOh… please ѕtаy"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Más fuerte cada minuto",
+      "content": "No importa dónde estoy\nYo siempre estoy pensando en ti\nPuede ser duro, pero necesito que me entiendas\nQue yo no digo qué siento a menudo\nPero ahora está directo de mi corazón\n\nMi amor crece más fuerte cada minuto\nY nunca morirá\nNecesito que te quedes conmigo\nNo solo éste día, pero en toda mi vida\n\nAhora, cuando yo miro en tus ojos\nPuedo decirte que hay algún problema\nEstás reteniendo las lágrimas\nNo puedes perderte ahora\nAsí que dejaré claro mis sentimientos\n\nMi amor crece más fuerte cada minuto\nY nunca morirá\nTienes que creer que yo estaré aquí\nPara tí, toda mi vida\n\nOh… por favor, quédate\nMmm…\n\nMi amor crece más fuerte cada minuto\nY nunca morirá\nNecesito que te quedes conmigo\nNo solo éѕte día, pero en toda mi vida\n\nOh… por favor, quédаte"
+    }
+  ],
+  "bpm": 147,
+  "tone": "A major",
+  "artistPeople": [
+    "Lisa Andreas"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Mike Connaris"
+  ],
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Evi Papamichail"
+  ],
+  "jury": null,
+  "spokesperson": "Loukas Hamatsos"
+}

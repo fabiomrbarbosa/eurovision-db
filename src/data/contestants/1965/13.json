@@ -1,0 +1,53 @@
+{
+  "id": 13,
+  "country": "PT",
+  "artist": "Simone de Oliveira",
+  "song": "Sol de inverno",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/T-fdSwQ39IY",
+    "https://www.youtube-nocookie.com/embed/7xNAwW1Oiqw",
+    "https://www.youtube-nocookie.com/embed/vcnJxu-3eUQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Sol de inverno",
+      "content": "Sabe Deus que eu quis contigo ser feliz\nViver ao sol do teu olhar mais terno\nMorto o teu desejo, vivo o meu desejo\nPrimavera em flor ao sol de Inverno\n\nSonhos que sonhei, onde estão?\nHoras que vivi, quem as tem?\nDe que serve ter coração e não ter o amor de ninguém?\n\nBeijos que te dei, onde estão?\nA quem foste dar o que é meu?\nVale mais não ter coração do que ter e não ter, como eu\n\nEu em troca de nada dei tudo na vida\nBandeira vencida, rasgada no chão\nSou a data esquecida, a coisa perdida que vai a leilão\n\nSonhos que sonhei, onde estão?\nHoras que vivi, quem as tem?\nDe que serve ter coração e não ter o amor de ninguém?\nVivo de saudades, amor, a vida perdeu fulgor\nComo o sol de Inverno não tenho calor\n\nDe que serve ter coração e não ter o amor de ninguém?\nVivo de saudades, amor, a vida perdeu fulgor\nComo o ѕol de Inverno não tenho cаlor"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Winter sun",
+      "content": "God knows that I wanted to be happy with you\nTo live in the sunlight of your most tender look\nNow your desire is dead, I live my own desire\nBlooming spring in the winter sun\n\nDreams that I dreamt, where are they?\nHours that I lived, who has them?\nWhat's the use of having a heart, and not having anyone's love?\n\nKisses that I gave you, where are they?\nTo whom have you given what belonged to me?\nIt's better not to have a heart, than having it and not having it, like me\n\nI gave everything in life, in exchange for nothing\nDefeated flag, torn in the ground\nI'm the forgotten date, the lost thing that goes on auction\n\nDreams that I dreamt, where are they?\nHours that I lived, who has them?\nWhat's the use of having a heart, and not having anyone's love?\nI live of longings, my love, my life has lost the splendour\nLike a winter sun I have no warmth\n\nWhat's the use of having a heart, and not having anyone's love?\nI live of longings, my love, my life has lost the splendour\nLike a winter ѕun I have no wаrmth"
+    }
+  ],
+  "bpm": 168,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Simone de Oliveira"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Carlos Nóbrega e Sousa"
+  ],
+  "conductor": "Fernando de Carvalho",
+  "lyricists": [
+    "Jerónimo Bragança"
+  ],
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Gomes Ferreira"
+  ],
+  "jury": null,
+  "spokesperson": "Maria Manuela Furtado"
+}

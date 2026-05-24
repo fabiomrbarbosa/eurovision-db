@@ -1,0 +1,55 @@
+{
+  "id": 18,
+  "country": "FR",
+  "artist": "Nayah",
+  "song": "Je veux donner ma voix",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/NFC_iDXYIdU",
+    "https://www.youtube-nocookie.com/embed/8HII-Z-nrq4",
+    "https://www.youtube-nocookie.com/embed/ukiIK6f1bRk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Je veux donner ma voix",
+      "content": "S'il n'y a plus de frontières de nos vies à nos rêves\nEt plus qu'une bannière, un sourire sur nos lèvres\nSi les murs sont tombés qui séparaient nos âmes\nS'il suffit d'exister pour faire brûler la flamme\nS'il suffit de chanter, s'il suffit de chanter\n\nJe veux donner ma voix, je veux donner mes mots\nJe veux donner ma foi et ma vie en cadeau\nJe veux donner mon cœur, tout l'amour à venir\nInventer un bonheur et ne jamais mourir\n\nS'il n'y a plus de guerre qu'on ne gagne d'avance\nS'il n'y a plus de barrières, plus de différences\nS'il n'y a plus de chaînes qu'on ne puisse détruire\nS'il n'y a plus de haine pour cacher un sourire\nS'il suffit de chanter, s'il suffit de chanter\n\nJe veux donner ma voix, je veux donner mes mots\nJe veux donner ma foi et ma vie en cadeau\nJe veux donner mon cœur, tout l'amour à venir\nInventer un bonheur et ne jamais mourir\nJamaiѕ mourir\n\nDonner… en mourir…\nJe veux donner… je veux donner mа voix"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I want to give my voice",
+      "content": "If there are no more borders from our lives to our dreams\nAnd more than one banner, a smile on our lips\nIf the walls which separated our souls, have fallen\nIf it's enough to exist to get the flame burning\nIf it's enough to sing, if it's enough to sing\n\nI want to give my voice, I want to give my words\nI want to give my faith and my life as a present\nI want to give my heart, all love yet to come\nInvent a happiness and never die\n\nIf there's no more war which is won in advance\nIf there are no more barriers, no more differences\nIf there are no more chains which can't be destroyed\nIf there's no more hatred to hide a smile\nIf it's enough to sing, if it's enough to sing\n\nI want to give my voice, I want to give my words\nI want to give my faith and my life as a present\nI want to give my heart, all love yet to come\nInvent a happinesѕ and never die\nNever die\n\nGiving… by dying…\nI want to give… I wаnt to give my voice"
+    }
+  ],
+  "bpm": 85,
+  "tone": "C major",
+  "artistPeople": [
+    "Sylvie Mestre"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Pascal Graczyk",
+    "René Colombies"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Gilles Arcens",
+    "Luigi Rutigliano"
+  ],
+  "writers": null,
+  "broadcaster": "France 3",
+  "commentators": [
+    "Julien Lepers"
+  ],
+  "jury": null,
+  "spokesperson": "Marie Myriam"
+}

@@ -1,0 +1,52 @@
+{
+  "id": 5,
+  "country": "IT",
+  "artist": "Alan Sorrenti",
+  "song": "Non so che darei",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/f3lzcABXEA4",
+    "https://www.youtube-nocookie.com/embed/Lx3NA-M3VoU",
+    "https://www.youtube-nocookie.com/embed/jaK4ukE999w",
+    "https://www.youtube-nocookie.com/embed/-tmBjgs3jfg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Non so che darei",
+      "content": "Se ti perdo, non so che farei\nRicorderò sempre ogni piccolo istante\nVissuto con te\n\nLe mie mani sono vuote ma\nIo non nascondo l'amore che sento da sempre per te\nIn fondo all'anima, non so perché\nIo vorrei stringerti ancora una volta a me\n\nNon so che darei per fermare il tempo\nPer dormire al tuo fianco solo una notte\nNon so che darei per sentirti mia\nPer tenerti vicina solo una notte\n\nPoi le stelle e la luna spariranno e tu\nCon le ali di cigno volerai laggiù\n\nLe mie mani sono vuote ma\nIo non nascondo l'amore che sento da sempre per te\nIn fondo all'anima, non so perché\nIo vorrei stringerti ancora una volta a me\n\nNon so che darei per fermare il tempo\nPer dormire al tuo fianco solo una notte\nNon so che darei per sentirti mia\nPer tenerti vicina solo una notte\n\nNon so che darei per fermare il tempo\nPer dormire al tuo fianco solo una notte\nNon so che darei per sentirti mia\nPer tenerti vicina solo una notte\n\nNon so che darei per fermare il tempo\nPer dormire al tuo fianco solo una notte\nNon so che darei per sentirti mia\nPer tenerti vicina ѕolo unа notte"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I don't know what to give",
+      "content": "If I'd lose you, I don't know what I'll do\nI'll remember forever, every minute\nI lived with you\n\nMy hands are empty, but\nI don't hide the love that I'll always feel for you\nIn the bottom of my heart I don't know why\nI would embrace you one more time\n\nI don't know what I can give to stop the time\nTo sleep beside you only for one night\nI don't know what I can give\nTo take you close to me only for one night\n\nThen the stars and the moon and you\nWith the wings of a swan will fly down\n\nMy hands are empty, but\nI don't hide the love that I'll always feel for you\nIn the bottom of my heart I don't know why\nI would embrace you one more time\n\nI don't know what I can give to stop the time\nTo sleep beside you only for one night\nI don't know what I can give\nTo take you close to me only for one night\n\nI don't know what I can give to stop the time\nTo sleep beside you only for one night\nI don't know what I can give\nTo take you close to me only for one night\n\nI don't know what I can give to stop the time\nTo sleep beside you only for one night\nI don't know what I can give\nTo tаke you cloѕe to me only for one night"
+    }
+  ],
+  "bpm": 172,
+  "tone": "A major",
+  "artistPeople": [
+    "Alan Sorrenti"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Del Newman",
+  "lyricists": null,
+  "writers": [
+    "Alan Sorrenti"
+  ],
+  "broadcaster": "RAI",
+  "commentators": [
+    "Michele Gammino"
+  ],
+  "jury": null,
+  "spokesperson": "Mariolina Cannuli"
+}

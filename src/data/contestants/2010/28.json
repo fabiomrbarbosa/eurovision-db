@@ -1,0 +1,58 @@
+{
+  "id": 28,
+  "country": "MT",
+  "artist": "Thea Garrett",
+  "song": "My Dream",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/iwgF3TC2Kj0",
+    "https://www.youtube-nocookie.com/embed/0OToHVvkBfY",
+    "https://www.youtube-nocookie.com/embed/FWtw2Fvbyq8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "My Dream",
+      "content": "We used to say that dreams could be so true\nWhere am I? What will I be?\nIt's my dream which I could share with you\nA new day for you and me\nJust a smile with warmth in my heart and go all the way\nThere's so much in life and I'll sing\n\nThis is my dream, I want to make it really happen\nAnd make my dream come true\nThis is my dream, I'll make it if I just believe it\nIn a fairytale I'll live it, just like a new born star\n\nFly above like a seagull on the waves\nAnd the sun will shine upon your face\nJust believe, follow your heart and make it happen\nGrow much brighter and we'll say\n\nThis is my dream, I want to make it really happen\nAnd make my dream come true\nThis is my dream, I'll make it if i just believe it\nThere is nothing that could stop me\nI just want the world to know\n\nThis is my dream, and I know that I'll be strong\nIt will come true because I know I'll make it happen\nThis iѕ my dreаm"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "maltese"
+      ],
+      "displayedLanguages": null,
+      "title": "Ħolma",
+      "content": "Qedna li l-ħolm jaf isir realtà\nJien min jien u x'nista' nsir?\nĦolma ħlomt li fiha rajt ġejjien\nŻernieq ġdid għalina lkoll\nBi tbissim u qalb li taf tħoss u tgħin għax taf tħobb\nX'ħajja rrid ngħix\nU nkanta\n\nDin il-ħolma rrid li f'ħajti nara li tirnexxi\nU l-ħolma sseħħ tassew\nDin il-ħolma ssir jekk jiena nibqa' nemmen fiha\nNgħixha bħala ħolma msaħħra\nBħal stilla ġdida nkun\n\nTir il-fuq bħall-gawwija fuq l-ilmiet\nU fuq wiċċek jiddi dawl ix-xemx\nNemmen fik\nAra dak li trid u b'qalbek kollha\nTibda miexja l-quddiem\nU ngħidu\n\nDin il-ħolma rrid li f'ħajti nara li tirnexxi\nU l-ħolma sseħħ tassew\nDin il-ħolma ssir jekk jiena nibqa nemmen fiha\nU m'hemm xejn li se jwaqqafni\nMilli nilħaq dan l-għan\n\nDin il-ħolma rrid\nBiex niksibha inżomm sod\nNaħdem bil-ħsieb\nGħax jiena rrid illi tirnexxi, u l-ħolmа sѕir"
+    }
+  ],
+  "bpm": 138,
+  "tone": "F# major",
+  "artistPeople": [
+    "Thea Garrett"
+  ],
+  "backings": [
+    "Jackie Pace Delicata",
+    "Jes Sciberras",
+    "Nadine Axisa",
+    "Pamela Bezzina"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jason Cassar"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Sunny Aquilina"
+  ],
+  "writers": null,
+  "broadcaster": "PBS",
+  "commentators": [
+    "Valerie Vella"
+  ],
+  "jury": null,
+  "spokesperson": "Chiara Siracusa"
+}

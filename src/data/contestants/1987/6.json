@@ -1,0 +1,71 @@
+{
+  "id": 6,
+  "country": "CY",
+  "artist": "Alexia",
+  "song": "Aspro mavro",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/MoVBmWY_Ia4",
+    "https://www.youtube-nocookie.com/embed/sGZAn1hJkGI",
+    "https://www.youtube-nocookie.com/embed/nQ2JVLZo9Pc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ellinika"
+      ],
+      "title": "Aspro mavro",
+      "content": "Thimame, s' iha protodhi sto treno\nIpes pos thelis na se perimeno\nIstera, ihes pia hathi\nPsahno yia na vro kati pu mas dheni\nMa mia ikona tora pia mu meni, ne, oh…\n\nAspro, mavro, onira kano, konda mu pos yirnas\nAspro, mavro, pezo sto piano ki esi hamoyelas\nKe ta pliktra san angizo niotho na peto\nAspro, mavro, onira kano pos tha se ksanadho\n\nTo prosopo su vlepo ston kathrefti\nKathos tis niktas en' asteri pefti\nMia evhi, na' maste mazi\nTo oniro mu zondanevi panda\nM' ena tragudhi, mia glikia balanda, ne, oh…\n\nAspro, mavro, onira kano, konda mu pos yirnas\nAspro, mavro, pezo sto piano ki esi hamoyelas\nKe ta pliktra san angizo niotho na peto\nAspro, mavro, onira kano pos tha se ksanadho\n\nKlino ta matia mu, thelo sto plai su na vretho\nKe san ksipniso pia yinete t' oniro alithino\n\nAspro, mavro, onira kano, konda mu pos yirnas\nAspro, mavro, pezo sto piano ki esi hamoyelas\nKe ta pliktra san angizo niotho na peto\nAspro, mavro, onira kano pos tha se kѕanаdho"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ελληνικά"
+      ],
+      "title": "Άσπρο μαύρο",
+      "content": "Θυμάμαι, σ' είχα πρωτοδεί στο τρένο\nΕίπες πως θέλεις να σε περιμένω\nΎστερα, είχες πια χαθεί\nΨάχνω για να βρω κάτι που μας δένει\nΜα μια εικόνα τώρα πια μου μένει, ναι, ω…\n\nΆσπρο, μαύρο, όνειρα κάνω, κοντά μου πως γυρνάς\nΆσπρο, μαύρο, παίζω στο πιάνο κι εσύ χαμογελάς\nΚαι τα πλήκτρα σαν αγγίζω νοιώθω να πετώ\nΆσπρο, μαύρο, όνειρα κάνω πως θα σε ξαναδώ\n\nΤο πρόσωπό σου βλέπω στον καθρέφτη\nΚαθώς της νύχτας έν' αστέρι πέφτει\nΜια ευχή, νά' μαστέ μαζί\nΤο όνειρό μου ζωντανεύει πάντα\nΜ' ένα τραγούδι, μια γλυκιά μπαλάντα, ναι, ω…\n\nΆσπρο, μαύρο, όνειρα κάνω, κοντά μου πως γυρνάς\nΆσπρο, μαύρο, παίζω στο πιάνο κι εσύ χαμογελάς\nΚαι τα πλήκτρα σαν αγγίζω νοιώθω να πετώ\nΆσπρο, μαύρο, όνειρα κάνω πως θα σε ξαναδώ\n\nΚλείνω τα μάτια μου, θέλω στο πλάι σου να βρεθώ\nΚαι σας ξυπνήσω πια γίνεται τ' όνειρο αληθινό\n\nΆσπρο, μαύρο, όνειρα κάνω, κοντά μου πως γυρνάς\nΆσπρο, μαύρο, παίζω στο πιάνο κι εσύ χαμογελάς\nΚαι τα πλήκτρα σαν αγγίζω νοιώθω να πετώ\nΆσπρο, μαύρο, όνειρα κάνω πως θα σε ξαναδώ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "White-black",
+      "content": "I remember seeing you on the train\nAnd you said that you wanted me to wait for you\nThen you just vanished\nI look for something to bring us together\nBut only a picture is left for me, yeah, oh…\n\nWhite, black, I dream you are coming back to me\nWhite, black, I play the piano and you smile\nAnd as I touch the key I feel like flying\nWhite, black, I dream I'll see you again\n\nI see your face in the mirror\nAs a star falls in the night\nA wish we'll be together\nMy dream always comes true\nWith a song, a sweet ballad, yeah, oh…\n\nWhite, black, I dream you are coming back to me\nWhite, black, I play the piano and you smile\nAnd as I touch the key I feel like flying\nWhite, black, I dream I'll see you again\n\nI close my eyes, I want to find myself by your side\nAnd as I wake up, my dream comes true\n\nWhite, black, I dream you are coming back to me\nWhite, black, I play the piano and you smile\nAnd as I touch the key I feel like flying\nWhite, black, I dream I'll ѕee you agаin"
+    }
+  ],
+  "bpm": 133,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Alexia Bassiliou"
+  ],
+  "backings": [
+    "Andreas Papapaulou",
+    "Elena Patroklou",
+    "Evridiki Theokleous",
+    "Haris Anastasiou"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Andreas Papapaulou"
+  ],
+  "conductor": "Jo Carlier",
+  "lyricists": [
+    "Maria Papapaulou"
+  ],
+  "writers": null,
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Fryni Papadopoulou"
+  ],
+  "jury": null,
+  "spokesperson": "Anna Partelidou"
+}

@@ -1,0 +1,64 @@
+{
+  "id": 19,
+  "country": "LU",
+  "artist": "Park Café",
+  "song": "Monsieur",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/yGF8OhHOZac",
+    "https://www.youtube-nocookie.com/embed/-HeQqm-u8gM",
+    "https://www.youtube-nocookie.com/embed/f-hHhC32YLY",
+    "https://www.youtube-nocookie.com/embed/CM06y0JjvVg",
+    "https://www.youtube-nocookie.com/embed/GK6RiiaZxb8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Monsieur",
+      "content": "Il aime la mise en scène, les grands airs\nDe star de série noire, drôle d'univers\nIl joue les apparences, cartoon d'ambiances\nDevant la caméra - quel cinéma\n\nMonsieur vit dans un rêve (Il vit en Tooneland)\nIl squatte à Hollywood (Il vit en Tooneland)\nMonsieur vit dans un rêve (Il vit en Tooneland)\nDans un monde imaginaire (Il vit en Tooneland)\n\nMonsieur vit dans un rêve (Il vit en Tooneland)\nIl squatte à Hollywood (Il vit en Tooneland)\nMonsieur vit dans un rêve (Il vit en Tooneland)\nDans un monde imaginaire\n\nSon script, son scénario, c'est mégalo\nVedette du grand écran, pas pour longtemps\n\nMonsieur vit dans un rêve (Il vit en Tooneland)\nIl squatte à Hollywood (Il vit en Tooneland)\nMonsieur vit dans un rêve (Il vit en Tooneland)\nDans un monde imaginaire\n\nOo... mais je l'aime et je crois\nOo... que son étoile c'est moi\n\nMonsieur vit dans un rêve (Il vit en Tooneland)\nIl squatte à Hollywood (Il vit en Tooneland)\nMonsieur vit dans un rêve (Il vit en Tooneland)\nDans un monde imaginaire (Il vit en Tooneland)\n\nMonsieur vit dans un rêve (Il vit en Tooneland)\nIl squatte à Hollywood (Il vit en Tooneland)\nMonsieur vit dans un rêve (Il vit en Tooneland)\nDanѕ un monde imaginаire"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Mister",
+      "content": "He likes the production, the big tunes\nThe star of the serie noire, one hell of a world\nHe plays the roles, with a cartoon atmosphere\nIn front of the camera - what cinema\n\nMister lives in a dream (He lives in Tooneland)\nHe squats in Hollywood (He lives in Tooneland)\nMister lives in a dream (He lives in Tooneland)\nIn an imaginary world (He lives in Tooneland)\n\nMister lives in a dream (He lives in Tooneland)\nHe squats in Hollywood (He lives in Tooneland)\nMister lives in a dream (He lives in Tooneland)\nIn an imaginary world (He lives in Tooneland)\n\nHis script and his screenplay are self indulgent\nThe star of the big screen, but not for long\n\nMister lives in a dream (He lives in Tooneland)\nHe squats in Hollywood (He lives in Tooneland)\nMister lives in a dream (He lives in Tooneland)\nIn an imaginary world (He lives in Tooneland)\n\nOoh... but I love him and I believe\nOoh... that I'm his star\n\nMister lives in a dream (He lives in Tooneland)\nHe squats in Hollywood (He lives in Tooneland)\nMister lives in a dream (He lives in Tooneland)\nIn an imaginary world (He lives in Tooneland)\n\nMister lives in a dream (He lives in Tooneland)\nHe squats in Hollywood (He lives in Tooneland)\nMister lives in a dream (He lives in Tooneland)\nIn an imaginary world (He liveѕ in Toonelаnd)"
+    }
+  ],
+  "bpm": 120,
+  "tone": "C major",
+  "artistPeople": [
+    "Gaston Waltzing",
+    "Margaret Elizabeth Parke",
+    "Rom Heck"
+  ],
+  "backings": [
+    "Ander Schmit",
+    "Rainer Kind",
+    "Serge Vesque"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Gast Waltzing",
+    "Maggie Parke"
+  ],
+  "conductor": "Benoît Kaufman",
+  "lyricists": [
+    "Bernard Loncheval",
+    "Maggie Parke",
+    "Yves Lacomblez"
+  ],
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": [
+    "Valérie Sarn"
+  ],
+  "jury": null,
+  "spokesperson": "Jean-Luc Bertrand"
+}

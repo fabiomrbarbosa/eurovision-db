@@ -1,0 +1,49 @@
+{
+  "id": 23,
+  "country": "PL",
+  "artist": "Isis Gee",
+  "song": "For Life",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/4Q8f5AueE7g",
+    "https://www.youtube-nocookie.com/embed/kgtsjKlmRSE",
+    "https://www.youtube-nocookie.com/embed/KepFGShYKSk",
+    "https://www.youtube-nocookie.com/embed/IGkmKMvabPs"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "For Life",
+      "content": "I had no choice, perfectly clear from the start\nI heard your voice and I was falling\nInto a space where daylight kisses moonlit skies\nIt was the place as written in your eyes\nAnd oh… we made it, we finally found our way\nAnd celebrating just where we, we stand today\n\nI'll let my heart show the way\nOceans and mountains between us\nBecause your love is why\nYou made the wrong right\nI will give my all\nI will heed your call for life\n\nI had no choice, perfectly clear from the start\nI will rejoice, embrace your calling\nAnd into a space where daylight breathes within your heart\nYou found my heart and I knew it was for life\nOh…\n\nI'll let my heart show the way\nOceans and mountains between us\nBecause your love iѕ why\nYou made the wrong right\nI will give my all for life\nOoh yeаh… for life"
+    }
+  ],
+  "bpm": 140,
+  "tone": "B major",
+  "artistPeople": [
+    "Tamara Diane Gołębiowska"
+  ],
+  "backings": [
+    "Adam Gołębiowski",
+    "Asia",
+    "Beata Lapuk",
+    "Gosia",
+    "Patrycja Kawecka"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Isis Gee"
+  ],
+  "broadcaster": "TVP",
+  "commentators": [
+    "Artur Orzech"
+  ],
+  "jury": null,
+  "spokesperson": "Radosław Brzózka"
+}

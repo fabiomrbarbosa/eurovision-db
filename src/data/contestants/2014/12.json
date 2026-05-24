@@ -1,0 +1,70 @@
+{
+  "id": 12,
+  "country": "CH",
+  "artist": "Sebalter",
+  "song": "Hunter Of Stars",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/DqjoM8ZlyMc",
+    "https://www.youtube-nocookie.com/embed/kjWG0oNpWog",
+    "https://www.youtube-nocookie.com/embed/7FTrglTLRXI",
+    "https://www.youtube-nocookie.com/embed/KKBGzgEvRQI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Hunter Of Stars",
+      "content": "Looking for a candidate you have an option only one choice \nSipping my drinks looking around, there is so much beauty, oh yes we can\nBut yet, self-confidence is a fragile concept, that often fades away in the night \nAnd there it comes, that unwanted guest, there is no place for you tonight \n\nWant me to go, want me to go \nCause you think I'm lying cause you think I'm lying\nNo, open the door\nCause tonight I cannot go hunting for stars, no no\n\nLike an evil satellite, twisting the truth then leaving us alone \nIn this mad and moody world, society without love\nI state my heart has been well trained, I'm gonna be your candidate\nI am the hunter you are the prey, tonight I'm gonna eat you up\n\nWant me to go, want me to go \nCause you think I'm lying cause you think I'm lying \nNo, open the door \nCause tonight I cannot go hunting for stars, no no \n\nI press my nose to the glass, it's raining outside, it's raining outside \nI would like to storm in, roar like a lion, roar like a lion \nBut I fear your judgement, oh I fear your judgement, I'm so wet, I'm dirty \nBut I fear your judgement, oh I fear your judgement, it's me and my\nimperfection \n\nWant me to go, want me to go \ncause you think I'm lying cause you think I'm lying \nNo, open the door \nCause tonight I cannot go hunting for stars, no no \n\nWant me to go \nCause you think I'm lying cause you think I'm lying \nNo, open the door \nCause tonight I cannot go hunting for stars, no no \n\nWant me to go \nCause you think I'm lying cause you think I'm lying \nNo, open the door \nCause tonight I cannot go hunting for stаrѕ, no no"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Cacciatore Di Stelle",
+      "content": "Alla ricerca di un candidato hai un'opzione solo una scelta\nSorseggiando i miei drink guardandosi Intorno, c'è tanta bellezza, oh sì che Possiamo\nEppure, la fiducia in se stessi è un concetto Fragile, che spesso svanisce nella notte\nEd ecco che arriva, quell'ospite Indesiderato, non c'è posto per te stasera\n\nVuoi che me ne vada, vuoi che me ne vada\nPerché tu pensi che io stia mentendo Perché tu pensi che io stia mentendo\nNo, apri la porta\nPerché stasera non posso andare a caccia Di stelle, no no\n\nCome un satellite malvagio, che distorce la Verità e poi ci lascia soli\nIn questo mondo folle e lunatico, la società Senza amore\nDichiaro che il mio cuore è stato ben Addestrato, sarò il tuo candidato\nIo sono il cacciatore tu sei la preda, stasera Ti mangerò\n\nVuoi che me ne vada, vuoi che me ne vada\nPerché tu pensi che io stia mentendo Perché tu pensi che io stia mentendo\nNo, apri la porta\nPerché stasera non posso andare a caccia Di stelle, no no\n\nPremo il naso sul vetro, fuori piove, fuori Piove\nVorrei irrompere, ruggire come un leone, ruggire come un leone\nMa temo il tuo giudizio, oh temo il tuo Giudizio, sono così bagnato, sono sporco\nMa temo il tuo giudizio, oh temo il tuo Giudizio, sono io e il mio\nImperfezione\n\nVuoi che me ne vada, vuoi che me ne vada\nPerché tu pensi che io stia mentendo Perché tu pensi che io stia mentendo\nNo, apri la porta\nPerché stasera non posso andare a caccia Di stelle, no no\n\nVuoi che vada\nPerché tu pensi che io stia mentendo Perché tu pensi che io stia mentendo\nNo, apri la porta\nPerché stasera non posso andare a caccia Di stelle, no no\n\nVuoi che vada\nPerché tu pensi che io stia mentendo Perché tu pensi che io stia mentendo\nNo, apri la porta\nPerché stasera non posso andare a cacciа Di ѕtelle, no no"
+    }
+  ],
+  "bpm": 88,
+  "tone": "A minor",
+  "artistPeople": [
+    "Sebastiano Paù-Lessi"
+  ],
+  "backings": [
+    "Christoph Pedretti",
+    "Marco Cuzzovaglia",
+    "Mattia Bordignon",
+    "Patric Scott",
+    "Rocco Casella"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Sebastiano Paù-Lessi"
+  ],
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Alessandro Bertoglio",
+    "Gabriel Vetter",
+    "Jean-Marc Richard",
+    "Nicolas Tanner",
+    "Peter Schneider",
+    "Sandy Altermatt",
+    "Sven Epiney"
+  ],
+  "jury": [
+    "Ivan Broggini",
+    "Marcus van Lier",
+    "Mélanie Freymond",
+    "Pascal Vonlanthen",
+    "Sina Bellwald"
+  ],
+  "spokesperson": "Kurt Aeschbacher"
+}

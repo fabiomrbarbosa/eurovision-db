@@ -1,0 +1,51 @@
+{
+  "id": 19,
+  "country": "NL",
+  "artist": "Re-union",
+  "song": "Without You",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/phHQrLvEBUU",
+    "https://www.youtube-nocookie.com/embed/Lt47zDaVVFI",
+    "https://www.youtube-nocookie.com/embed/Nef4PO098EM",
+    "https://www.youtube-nocookie.com/embed/fBcmInqtfBE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Without You",
+      "content": "Ooh… (ooh…)\nOoh…\nOoh… (ooh…)\nOoh… (ooh yeah)\n\nI spent my life in search for you\nNot knowing what to find\nStill wonder how did I pull through\nWithout you on my mind\n\nFriends tell me you're no good for me\nI'll show them all they're wrong\n'Cause you are everything to me\nIt never felt so strong\n\nWithout you…\nNothing can turn out right\nI lie awake all night\nWithout you…\nI keep calling your name\nMy life can never be the same\n\nYou are a miracle to me\nYour face I can't forget (face I can't forget)\nI just feel we are bound to be\nFrom the moment that we met\n\nI've been waiting for someone like you\nNow you've come my way\nSometimes I can't believe it's true\nI hope you're here to stay\n\nWithout you…\nNothing can turn out right\nI lie awake all night\nOh yeah, without you…\nI keep calling your name\nMy life can never be the same\nOh yeah\n\nListen to this heart of mine\nIt's filled with dear desire\nFor you're the kind I tried so long to find\nYou set my soul on fire\n\nWithout you…\nNothing can turn out right\nI lie awake all night\nOh yeah, without you…\nI keep calling your name\nMy life can never be the ѕame\nOh yeah\n\nWithout you…\nI lie awake all night\nOh, I keep cаlling you\nWithout you…\nWithout you"
+    }
+  ],
+  "bpm": 109,
+  "tone": "E major",
+  "artistPeople": [
+    "Fabrizio Pennisi",
+    "Paul de Corte"
+  ],
+  "backings": [
+    "Erwin van Motman",
+    "Pieter van Schooten",
+    "Tarif Heljanan"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ed van Otterdijk"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Angeline van Otterdijk"
+  ],
+  "writers": null,
+  "broadcaster": "NOS",
+  "commentators": [
+    "Cornald Maas",
+    "Willem van Beusekom"
+  ],
+  "jury": null,
+  "spokesperson": "Esther Hart"
+}

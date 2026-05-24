@@ -74,7 +74,7 @@ const contests = getContestIndex()
             </td>
             <td class="song-cell">
               {c.winner
-                ? <><strong>{c.winner.artist}</strong> · <em>{c.winner.song}</em></>
+                ? <><strong>{c.winner.artist}</strong> · <a href={`/contest/${c.year}/contestant/${c.winner.contestantId}`}><em>{c.winner.song}</em></a></>
                 : <span class="muted">—</span>
               }
             </td>
@@ -141,6 +141,8 @@ const contests = getContestIndex()
   .winner-country { color: var(--c-text); }
   .song-cell { max-width: 280px; }
   .song-cell em { color: var(--c-muted); font-style: italic; }
+  .song-cell a { color: inherit; text-decoration: none; }
+  .song-cell a:hover em { color: var(--c-link); }
   .flag { margin-right: 0.35em; }
 </style>
 

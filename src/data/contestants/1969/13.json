@@ -1,0 +1,52 @@
+{
+  "id": 13,
+  "country": "IT",
+  "artist": "Iva Zanicchi",
+  "song": "Due grosse lacrime bianche",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/uL1QLj1aRM8",
+    "https://www.youtube-nocookie.com/embed/UMlC-F_u_CM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Due grosse lacrime bianche",
+      "content": "Il nostro cuore dicevi sempre\nNon è una stanza che si affitta\nNoi ci lasciamo, la stanza è vuota\nLa porta aperta resterà\n\nDue grosse lacrime bianche\nCome due perle del mare\nÈ tutto quello che a me rimane di te\n\nD'amore, no, non si muore\nPer non sentir la tua voce\nLa testa sotto il cuscino io nasconderò\n\nCome un lampo che apre il cielo\nHo visto chiaro in mezzo al buio\nSolo d'amore, no, non si muore\nRidendo, me l'hai detto tu\n\nDue grosse lacrime bianche\nCome due perle del mare\nÈ tutto quello che a me rimane di te\n\nDue grosse lacrime bianche\nChe non faranno rumore\nPerché le ultime sai non peѕano mаi"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Two big white tears",
+      "content": "Our heart, you always said\nIs not a room that you rent out\nWe left each other, the room is empty\nThe door will stay open\n\nTwo big white tears\nLike two pearls from the sea\nIs all for me that's left from you\n\nNo, you don't die because of love\nNot to hear your voice\nI'll hide my head under my pillow\n\nLike a flash that opens the sky\nI saw clearly in the middle of the dark\nNo, you don't die only because of love\nLaughing, you said that to me\n\nTwo big white tears\nLike two pearls from the sea\nIs all for me that's left from you\n\nTwo big white tears\nThat won't make a noise\nBecause the last oneѕ are never heаvy, you know"
+    }
+  ],
+  "bpm": 86,
+  "tone": "F major",
+  "artistPeople": [
+    "Iva Zanicchi"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Piero Soffici"
+  ],
+  "conductor": "Ezio Leoni",
+  "lyricists": [
+    "Carlo Daiano"
+  ],
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Renato Tagliani"
+  ],
+  "jury": null,
+  "spokesperson": "Mike Bongiorno"
+}

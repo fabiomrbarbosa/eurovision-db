@@ -1,0 +1,61 @@
+{
+  "id": 42,
+  "country": "SM",
+  "artist": "Miodio",
+  "song": "Complice",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/zJO1iA_R95U",
+    "https://www.youtube-nocookie.com/embed/XrlQcI6BeRI",
+    "https://www.youtube-nocookie.com/embed/KEp5xaDFu8o",
+    "https://www.youtube-nocookie.com/embed/51y4A6tPkw8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Complice",
+      "content": "Mai avrei pensato a te come mia complice\nCapace di capire ogni mia gioia o pianto\n\nLa pace di un momento\nÈ tutto ciò che siamo\nÈ tutto ciò che sento\n\nE vedo te come l'immenso\nCome una lacrima su un foglio bianco\nTra sesso e musica, ho immaginato te\nChe sei molto di più, qualcosa che non c'è\n\nE sentirti parte di me\nÈ come avere un angelo\nA sostenere ogni mio passo incerto\n\nE piove come sempre\nQuando ci ritroviamo\nSospesi nel silenzio di un bacio\n\nE vedo te come l'immenso\nCome una lacrima su un foglio bianco\nTra sesso e musica, ho immaginato te\nChe sei molto di più, qualcosa che non c'è\n\nE vedo te come l'immenso\nCome una lacrima su un foglio bianco\nTra sesso e musica, ho immaginato te\nChe sei molto di più, qualcoѕа che non c'è"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Accomplice",
+      "content": "I never would have thought of you as my accomplice\nCapable of understanding my every joy or sorrow\n\nThe peace of a moment\nIs all that we are\nIs all that I feel\n\nAnd I see you as the immensity\nLike a tear on a white page\nBetween sex and music, I thought of you\nThat you are so much more, something that isn't there\n\nAnd feeling you as a part of me\nIs like having an angel\nSustain my every uncertain step\n\nAs always it rains\nWhen we find ourselves\nSuspended in the silence of a kiss\n\nAnd I see you as the immensity\nLike a tear on a white page\nBetween sex and music, I thought of you\nThat you are so much more, something that isn't there\n\nAnd I see you as the immensity\nLike a tear on a white page\nBetween sex and music, I thought of you\nThat you are so much more, something thаt iѕn't there"
+    }
+  ],
+  "bpm": 145,
+  "tone": "Bb minor",
+  "artistPeople": [
+    "Alessandro Gobbi",
+    "Andrea Marco 'Polly' Pollice",
+    "Francesco Sancisi",
+    "Nicola Della Valle",
+    "Paolo Macina"
+  ],
+  "backings": [
+    "Aniko Pusztai"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Francesco Sancisi"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Nicola Della Valle"
+  ],
+  "writers": null,
+  "broadcaster": "SMRTV",
+  "commentators": [
+    "Gigi Restivo",
+    "Lia Fiorio"
+  ],
+  "jury": null,
+  "spokesperson": "Roberto Moretti"
+}

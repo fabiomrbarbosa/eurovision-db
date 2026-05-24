@@ -1,0 +1,65 @@
+{
+  "id": 1,
+  "country": "PL",
+  "artist": "Edyta Górniak",
+  "song": "To nie ja",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/PL5rmmpiHp8",
+    "https://www.youtube-nocookie.com/embed/cTnpZzEgaGo",
+    "https://www.youtube-nocookie.com/embed/x9UVz4l4nlw",
+    "https://www.youtube-nocookie.com/embed/OxXSXSHEux0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "polish"
+      ],
+      "displayedLanguages": null,
+      "title": "To nie ja",
+      "content": "Świat mój tak zwyczajny\nPod niebem biało-czarnym\nLudzie są wycięci z szarych stron\nZe środka ksiąg\n\nPiękni są z romansu tła\nZmęczeni tylko z gazet\nA ja… jestem białą, czystą kartką\nPośród was\n\nTo nie ja byłam Ewą\nTo nie ja skradłam niebo\nChociaż dosyć mam łez\nMoich łez, tylu łez\nJestem po to, by kochać mnie\n\nTo nie ja byłam Ewą\nTo nie ja skradłam niebo\nNie dodawaj mi win\nTo nie ja, to nie ja\nNie ja, jestem Ewą\n\nNiebo wieje chłodem\nPiekło kłania się ogniem do stóp\nA ja… papierowa marionetka, muszę grać\n\nTo nie ja byłam Ewą\nTo nie ja skradłam niebo\nChociaż dosyć mam łez\nMoich łez, tylu łez\nJestem po to by kochać\nWiem\n\nZanim w popiół się zmienię\nChcę być wielkim płomieniem\nChcę się wzbić ponad świat\nHen, ogrzać niebo marzeniem\n\n(To nie ja byłam Ewą)\n(To nie ja skradłam niebo)\nNo, no, no, no…\n(To nie ja byłam Ewą)\n(To nie ja ѕkradłam niebo)\nYeah, yeah, yeаh, no…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "That's not me",
+      "content": "My world is so common\nUnder a white-black sky\nThe people are cut out of grey pages\nFrom the interior of books\n\nThey are beautiful from the background romance\nYou are tired of a newspaper that is cut out\nAnd I… I'm white, a clean card\nAmongst you\n\nI was not Eve\nI had not stolen heaven\nThough I'm tired of tears\nMy tears, so many tears\nI'm born to love me\n\nI was not Eve\nI had not stolen heaven\nDon't blame it on me once more\nThat's not me, that's not me\nNot me, I'm not Eve\n\nThe sky blows chilly\nHell bows deeply with its flames to its feet\nAnd I… a marionette of paper, I have to play\n\nI was not Eve\nI had not stolen heaven\nThough I'm tired of tears\nMy tears, so many tears\nI was born to love\nI know it\n\nBefore I turn to ashes\nI want to be a big flame\nI want to look down on earth\nWant to warm up the sky with dreams\n\n(I was not Eve)\n(I had not stolen heaven)\nYes, yes, yes, yes…\n(I was not Eve)\n(I had not stolen heaven)\nYeah, yeah, yeаh, yeѕ…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Это не я",
+      "content": "Мой мир такой обычный\nПод небом чёрно-белым\nЛюди вырезаны из серых страниц\nИз книг\n\nКрасивые — фон в романе\nУставшие — только в газетах\nА я — белый, чистый лист\nСреди вас\n\nЭто не я была Евой\nЭто не я украла рай\nХотя достаточно слёз\nМоих слёз, стольких слёз\nЯ создана для любви\n\nЭто не я была Евой\nЭто не я украла рай\nНе приписывай мне вины\nЭто не я, это не я\nНе я Ева\n\nРай дует холодом\nАд склоняется огнём к стопам\nА я… бумажная марионетка, вынуждена играть\n\nЭто не я была Евой\nЭто не я украла рай\nХотя достаточно слёз\nМоих слёз, стольких слёз\nЯ создана для любви\nЗнаю\n\nПрежде чем я превращусь в пепел\nЯ хочу стать большим пламенем\nЯ хочу взлететь над миром\nВысоко, к звёздам, Согреть рай мечтой\n\n(Это не я была Евой)\n(Это не я украла рай)\n<span class=\"lyrics_question_mark\" title=\"Edit lyrics\"><i class=\"fa fa-question-circle-o\"></i></span>\n(Это не я была Евой)\n(Это не я украла рай)\n<span class=\"lyrics_question_mark\" title=\"Edit lyrics\"><i class=\"fa fa-question-circle-o\"></i></span>"
+    }
+  ],
+  "bpm": 133,
+  "tone": "D major",
+  "artistPeople": [
+    "Edyta Górniak"
+  ],
+  "backings": [
+    "Alicja Borkowska"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Stanisław Syrewicz"
+  ],
+  "conductor": "Noel Kelehan",
+  "lyricists": [
+    "Jacek Cygan"
+  ],
+  "writers": null,
+  "broadcaster": "TVP",
+  "commentators": [
+    "Artur Orzech"
+  ],
+  "jury": null,
+  "spokesperson": "Jan Chojnacki"
+}

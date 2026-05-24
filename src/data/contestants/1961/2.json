@@ -1,0 +1,52 @@
+{
+  "id": 2,
+  "country": "CH",
+  "artist": "Franca di Rienzo",
+  "song": "Nous aurons demain",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/03-NjbYQz14",
+    "https://www.youtube-nocookie.com/embed/gHf8X0WL3Wg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Nous aurons demain",
+      "content": "Nous aurons demain\nDes jardins pour cueillir les bouquets de nos rêves\nNous aurons demain\nUn matin pour sourire au soleil qui se lève\nNous pourrons demain\nDans la même maison préparer en silence\nLe berceau de la chance que nous aurons demain\n\nTu te plains d'habiter un logis sans lumière\nTu n'as pas de dimanches et je n'ai pas de toit\nQuand je quitte au matin ma banlieue sans lumière\nDans un autre quartier, toi tu rentres chez toi\n\nNous aurons demain\nMoins de temps à tuer, moins de nuits solitaires\nNous irons demain\nDans les bois nous coucher ou sauter les rivières\nNous aurons demain\nDes amis qui viendront sans frapper sous la lune\nEt jusqu'à la fortune que nous aurons demain\n\nTu me dis que le temps chaque jour nous éloigne\nTu me dis que demain est bien long à venir\nOn n'habite jamais les châteaux en Espagne\nMais faut-il, mon chéri, refuser d'en bâtir?\n\nNous aurons demain\nMoins de temps à tuer, moins de nuits solitaires\nNous irons demain\nDans les bois nous coucher ou sauter les rivières\nNous aurons demain\nDes amis qui viendront sans frapper sous la lune\nEt jusqu'à la fortune que nous aurons demain\n\nQue nous aurons demain\nQue nous auronѕ demаin"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Tomorrow we'll have",
+      "content": "Tomorrow we'll have\nGardens for picking bouquets of dreams\nTomorrow we'll have\nA morning for smiling to the rising sun\nTomorrow we could\nIn the same house, prepare silently\nThe cradle of luck that we'll have tomorrow\n\nYou complain about living in a house without lights\nYou don't have a Sunday and I don't have a ceiling\nWhen I leave in the morning my outskirt without lights\nIn another district, you go back to home\n\nTomorrow we'll have\nLess time for killing, less lonely nights\nTomorrow we'll go\nTo the woods for lying down or jumping the rivers\nTomorrow we'll have\nFriends who will come in, without knocking, under the moon\nAnd onto the luck that we'll have tomorrow\n\nYou tell me that time slows down every day\nYou tell me that tomorrow is too late for coming\nWe'll never live in Spanish castles\nBut, my darling, do we have to refuse to build one?\n\nTomorrow we'll have\nLess time for killing, less lonely nights\nTomorrow we'll go\nTo the woods for lying down or jumping the rivers\nTomorrow we'll have\nFriendѕ who will come without being illuminated by the moon\nAnd onto the luck that we'll have tomorrow\n\nThat we'll have tomorrow\nThat we'll hаve tomorrow"
+    }
+  ],
+  "bpm": 104,
+  "tone": "C major",
+  "artistPeople": [
+    "Franca di Rienzo"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Géo Voumard"
+  ],
+  "conductor": "Fernando Paggi",
+  "lyricists": [
+    "Émile Gardaz"
+  ],
+  "writers": null,
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Theodor Haller"
+  ],
+  "jury": null,
+  "spokesperson": "Boris Acquadro"
+}

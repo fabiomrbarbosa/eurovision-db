@@ -1,0 +1,58 @@
+{
+  "id": 10,
+  "country": "LU",
+  "artist": "Jean-Claude Pascal",
+  "song": "C'est peut-être pas l'Amérique",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ovqQFisIEao",
+    "https://www.youtube-nocookie.com/embed/6mCuLuilwZc",
+    "https://www.youtube-nocookie.com/embed/5TqEYsx_0wU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "C'est peut-être pas l'Amérique",
+      "content": "C'est peut-être pas l'Amérique\nMais l'Amérique, ce n'est pas tout\nJ'ai dans le cœur une musique\nEt cette musique pour moi, c'est beaucoup\n\nElle vient du nord ou de Provence\nElle est tramontane ou mistral\nElle est le violon pour la danse\nOu le chœur dans la cathédrale\n\nElle chante dans mes soirs de fête\nElle berce mes nuits de cafard\nElle est ballade ou chansonnette\nElle est piano, elle est guitare\n\nC'est peut-être pas l'Amérique\nMais l'Amérique, ce n'est pas tout\nJ'ai dans le cœur une musique\nEt cette musique pour moi, c'est beaucoup\n\nElle vient du fond de nos mémoires\nElle vient d'avant que l'on soit né\nElle nous raconte notre histoire\nNos racines et notre passé\n\nSi l'univers est à l'orage\nSi la terre tremble sous nos pieds\nNous continuerons le voyage\nPour qu'elle n'arrête pas de chanter\n\nC'est peut-être pas l'Amérique\nMais l'Amérique, ce n'est pas tout\nJ'ai dans le cœur une musique\nEt cette musique pour moi, c'est beaucoup\n\n(C'est peut-être pas l'Amérique)\n(Mais l'Amérique, ce n'est pas tout)\nJ'ai dans le cœur une musique\nEt cette musique pour moi, c'eѕt beаucoup"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "It may not be America",
+      "content": "It may not be America\nBut America isn't everything\nI've got music in my heart\nAnd this music means a lot to me\n\nIt comes from the north of the Provence\nAs Tramontane or Mistral\nIt's the fiddle to dance to\nOr the choral in the cathedral\n\nIt sings during my evening parties\nAnd rocks my nights when I feel a bit down\nIt's a ballad or a ditty\nIt's piano, it's guitar\n\nIt may not be America\nBut America isn't everything\nI've got music in my heart\nAnd this music means a lot to me\n\nIt comes from the depths of my memories,\nEven before we were born\nIt tells us our story\nOur roots and our past\n\nIf the universe is stormy\nIf the earth is shaking underneath our feet\nWe'll go on with our journey\nSo that it will never stop singing\n\nIt may not be America\nBut America isn't everything\nI've got music in my heart\nAnd this music means a lot to me\n\n(It may not be America)\n(But America isn't everything)\nI've got music in my heart\nAnd this music meanѕ а lot to me"
+    }
+  ],
+  "bpm": 89,
+  "tone": "C major",
+  "artistPeople": [
+    "Jean-Claude Villeminot"
+  ],
+  "backings": [
+    "Carole Fredericks",
+    "Georges Costa",
+    "Michel Costa"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Joël Rocher",
+  "lyricists": null,
+  "writers": [
+    "Jean-Claude Pascal",
+    "Jean-Claude Petit",
+    "Sophie Makhno"
+  ],
+  "broadcaster": "CLT",
+  "commentators": [
+    "Jacques Navadic",
+    "Marylène Bergmann"
+  ],
+  "jury": null,
+  "spokesperson": "Jacques Harvey"
+}

@@ -1,0 +1,57 @@
+{
+  "id": 11,
+  "country": "TR",
+  "artist": "Beş Yıl Önce, On Yıl Sonra",
+  "song": "Halay",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/QFkUcbTBtwM",
+    "https://www.youtube-nocookie.com/embed/ne9M44n4neE",
+    "https://www.youtube-nocookie.com/embed/Sq53qzTap0k",
+    "https://www.youtube-nocookie.com/embed/BxTwUQFsaXk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "turkish"
+      ],
+      "displayedLanguages": null,
+      "title": "Halay",
+      "content": "Yer yerinden oynar dostlar, halay denince\nBir başkayız aşka gelince\nCoşkuluyuz sel gibi, esen yel gibi\nBakmayız yabana el gibi\n\nElvan elvan açsın dostlar dalda çiçekler\nBizim elde çoktur güzeller\nSevdalı türkülerle verip elele\nSeslenelim yedi düvele\nSevdalı türkülerle verip elele\nSeslenelim yedi düvele\n\nEl ele çalsın oynansın halay\nSevgiyle çalsın oynansın halay\n\nHerkes bu meydanda canım bir yer beğensin\nDavullar çalsın eğlensin\nAşık coşsun vursun dostlar sazın teline\nCan dayanmaz tatlı diline\n\nYumak yumak örülsün dostluk bağları\nAşalım o zorlu dağları\nSevdalı türkülerle verip elele\nSeslenelim yedi düvele\nSevdalı türkülerle verip elele\nSeslenelim yedi düvele\n\nEl ele çalsın oynansın halay\nSevgiyle çalsın oynansın halay\n\nYumak yumak örülsün dostluk bağları\nAşalım o zorlu dağları\nSevdalı türkülerle verip elele\nSeslenelim yedi düvele\nSevdalı türkülerle verip elele\nSeslenelim yedi düvele\n\nEl ele çalsın oynansın halay\nSevgiyle çalsın oynanѕın halay\n\nHalаy"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Halay",
+      "content": "The ground will tremble, fellows, when the Halay is danced\nWe love in a different way\nWe are exuberant like torrents, like gusting winds\nWe don't look upon foreigners as strangers\n\nLet blooms blossom on the bough\nWe have so many beautiful things\nLet's sing old love songs\nTo the whole world\nLet's sing old love songs\nTo the whole world\n\nHand in hand, we play and dance the halay\nWith affection, we play and dance the halay\n\nLet everyone take a place on this floor\nLet drums beat and rejoice\nLet the troubadour strike the strings of his lute\nSo lovely is this tune\n\nLet's weave a web of friendship\nLet's cross over those unyielding mountains\nLet's sing old love songs\nTo the whole world\nLet's sing old love songs\nTo the whole world\n\nHand in hand, we play and dance the halay\nWith affection, we play and dance the halay\n\nLet's weave a web of friendship\nLet's cross over those unyielding mountains\nLet's sing old love songs\nTo the whole world\nLet's sing old love songѕ\nTo the whole world\n\nHand in hand, we play and dance the halay\nWith affection, we play and dance the halay\n\nHalаy"
+    }
+  ],
+  "bpm": 123,
+  "tone": "G minor",
+  "artistPeople": [
+    "Atakan Ünüvar",
+    "Esma Erdem",
+    "Mehmet Horoz",
+    "Nilgün Onatkut"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Selçuk Başar"
+  ],
+  "conductor": "Selçuk Başar",
+  "lyricists": [
+    "Ülkü Aker"
+  ],
+  "writers": null,
+  "broadcaster": "TRT",
+  "commentators": [
+    "Başak Doğru"
+  ],
+  "jury": null,
+  "spokesperson": "Fatih Orbay"
+}

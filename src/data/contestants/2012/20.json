@@ -1,0 +1,51 @@
+{
+  "id": 20,
+  "country": "MT",
+  "artist": "Kurt Calleja",
+  "song": "This Is The Night",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/lUnEZp-qHxs",
+    "https://www.youtube-nocookie.com/embed/EgaX5QuMGR8",
+    "https://www.youtube-nocookie.com/embed/cjhBsCop3Ys"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "This Is The Night",
+      "content": "Hey, look at me and you'll see that I'm into you\nTime to believe and achieve, I will stand by you\nAs from this moment on, you and I can reach the stars\nAll I need is one more chance\n\nThis is the night, this is the night\nI will be the star, let me into your heart\nThis is my life, this is the life\nI've been waiting for, I'll be back with more\n\nSinging eh eh eh eh… yeah eh eh eh…\nYeah eh eh eh… yeah eh eh eh…\nThis is the night, this is the night\nI'll be flying high, this is the night\n\nHey, I believe you and me, we are meant to be\nI can't set you free, can't you see this is killing me?\nAs from this moment on, you and I can reach the stars\nAll I need is one more chance\n\nThis is the night, this is the night\nI will be the star, let me into your heart\nThis is my life, this is the life\nI've been waiting for, I'll be back with more\n\nSinging eh eh eh eh… yeah eh eh eh…\nYeah eh eh eh… yeah eh eh eh…\nThis is the night, this is the night\nI'll be flying high, this is the night\n\nLet me into your heart\nEh eh eh eh… yeah eh eh eh…\nYeah eh eh eh… yeah eh eh eh…\n(This is the night, this is the night)\n\nThis is the night  (This is the night, this is the night)\n(I will be the star, let me into your heart)\n(This is my life, this is the life)\n(I've been waiting for, I'll be back with more)\n\nSinging eh eh eh eh… yeah eh eh eh…\nYeah eh eh eh… yeаh eh eh eh…\nThis is the night, this is the night\nI'll be flying high, this iѕ the night"
+    }
+  ],
+  "bpm": 122,
+  "tone": "F major",
+  "artistPeople": [
+    "Kurt Calleja"
+  ],
+  "backings": [
+    "Amber Bondin",
+    "Christian Calleja",
+    "Kevin Paul Calleja",
+    "Rebecca Spiteri",
+    "Warren Bonello"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Johan Jämtberg",
+    "Kurt Calleja",
+    "Mikael Gunnerås"
+  ],
+  "broadcaster": "PBM",
+  "commentators": [
+    "Elaine Saliba",
+    "Ronald Briffa"
+  ],
+  "jury": null,
+  "spokesperson": "Keith Demicoli"
+}

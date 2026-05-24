@@ -1,0 +1,63 @@
+{
+  "id": 15,
+  "country": "CH",
+  "artist": "Anita Traversi",
+  "song": "I miei pensieri",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vF9LTyvuEX8",
+    "https://www.youtube-nocookie.com/embed/91WTGN6ufdY",
+    "https://www.youtube-nocookie.com/embed/pG2qmXaVehA"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "I miei pensieri",
+      "content": "Ho cercato da sempre nel tempo\nDi donarti pensieri migliori\nHo cercato guardando nel cielo\nEd ho visto lassù come fare\nPerciò… perciò…\n\nAffido i miei pensieri a una nuvola\nChe li porti da te che sei lontano\nIl vento lentamente la sospingerà\nSu in alto nel ciel nell'immensità\n\nParole stelle forse si potranno unir\nSaran letter d'oro scritte in cielo per te\nIl sole certamente le farà brillar\nCosì tu le vedrai lassù con me\n\nAffido i miei pensieri a una nuvola\nPiano, piano verrà senza fare rumor\nGiungerà fino a te, il mio amor\n\nAffido i miei pensieri a una nuvola\nPiano, piano verrà senza fare rumor\nGiungerà fino a te, il mio amor\n\nTutto il mondo saprà ciò che penso di te\nQuei bаtuffoli d'or ѕon per te"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "My thoughts",
+      "content": "I've always been looking in the time\nTo give you better thoughts\nLooking in the sky, I was searching\nAnd up there, I've seen how to do it\nTherefore… therefore…\n\nI confide my thoughts to a cloud\nThat will bring them to you far away\nThe wind will slowly push them\nUp above in the sky, into the endlessness\n\nPerhaps star words are able to unite\nThey'll be golden letters written in the sky for you\nThe sun will certainly make them shine\nSo you will see them up there with me\n\nI confide my thoughts to a cloud\nIt will slowly, slowly arrive without making noise\nMy love will reach you\n\nI confide my thoughts to a cloud\nIt will slowly, slowly arrive without making noise\nMy love will reach you\n\nThe whole world will know what I'm thinking of you\nThose golden flockѕ аre for you"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Ti amo – je t'aime – I love you",
+      "content": "Wie ein Sturmwind kamst du in mein Leben\nSagst nicht \"prego\" und nicht \"per favore\"\nNahmst mich einfach nur in deine Arme\nUnd mit dir erst beginnt nun mein Dasein\nDenn ich weiß', ich weiß'\n\nTi amo, je t'aime, I love you\nSingt mein Herz bis hinauf zu den Sternen\nEs vertraut all mein Glück einer Wolke an\nUnd der Wind weht sie fort in weite Fernen\n\nDoch die Engel, sie sind meiner Liebe hold\nUnd bestreuen meine Wolke mit Sternengold\nUnd die Sonne strahlt wieder die Wolke an\nDass man golden am Himmel es leѕen kann\n\nTi amo, je t'aime, I love you\nBin verliebt wie noch nie nur in dich, mon chéri\nWeil ich dir ganz vertrau', Darling, ciao\n\nTi amo, je t'aime, I love you\nBin verliebt wie noch nie nur in dich, mon chéri\nWeil ich dir ganz vertrau', Darling, ciao\n\nBin verliebt wie noch nie nur in dich, mon chéri\nWeil ich dir ganz vertrau', Darling, ciаo"
+    }
+  ],
+  "bpm": 124,
+  "tone": "F major",
+  "artistPeople": [
+    "Anita Traversi"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Giovanni Pelli"
+  ],
+  "conductor": "Fernando Paggi",
+  "lyricists": [
+    "Sanzio Chiesa"
+  ],
+  "writers": null,
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Georges Hardy",
+    "Theodor Haller"
+  ],
+  "jury": null,
+  "spokesperson": "Alexandre Burger"
+}

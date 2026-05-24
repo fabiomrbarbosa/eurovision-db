@@ -1,0 +1,77 @@
+{
+  "id": 16,
+  "country": "NO",
+  "artist": "Just 4 Fun",
+  "song": "Mrs. Thompson",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/hY_90Qil2Ns",
+    "https://www.youtube-nocookie.com/embed/1YvPWE4Ia4I",
+    "https://www.youtube-nocookie.com/embed/vzPp2ODaGd4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "norwegian"
+      ],
+      "displayedLanguages": null,
+      "title": "Mrs. Thompson",
+      "content": "Undergrunn' er alltid sen og toget ute av rute\nMen jobben må du rekke likevel\nSjefen tror på overtid, hvis ikke er du ute\nMen klokka er blitt fem, så det er kveld\n\nOg på toget hjem igjen\nNår du sovner, kommer drømmen av seg selv\n\nFor livet kaller, hjertet slår\nOg kan du høre, Mrs. Thompson?\nOg tiden bare går og går\nMen hva gjør du, Mrs. Thompson?\nKom igjen\n\nForeldremøte mandag, og tirsdag foran TV'n\nOg onsdag gjør hun yoga for seg selv\nTorsdag kommer jentene, på fredag er det huset\nTalglys og rødvin lørdag kveld\n\nHele søndagen i seng\nNår hun sover, kommer drømmen om igjen\n\nFor livet kaller, hjertet slår\nOg kan du høre, Mrs. Thompson?\nOg tiden bare går og går\nMen hva gjør du, Mrs. Thompson?\nKom igjen\n\nFor livet kaller, hjertet slår\nOg kan du høre, Mrs. Thompson?\nOg tiden bare går og går\nMen hva gjør du, Mrs. Thompson?\n\nLa meg presentere deg\nFor alle tiders Mrs. Thompson\nEn hverdagshelt som viser vei\nTrå til og gjør det, Mrs. Thompson\nKom igjen\n\nFor livet kaller, hjertet slår\nOg kan du høre, Mrs. Thompson?\nOg tiden bare går og går\nMen hva gjør du, Mrs. Thompson?\n\nLa meg presentere deg for аlle tiderѕ..."
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Mrs. Thompson",
+      "content": "The underground is always late, and the trains don't run\nBut you have to make it to work anyway\nYour boss believes in overtime, otherwise you're out\nBut it's already five o'clock, so it's evening\n\nAnd on the train on the way home\nWhen you fall asleep, the dream comes on its own\n\n'Cause life is calling, your heart is beating\nAnd can you hear it, Mrs. Thompson?\nAnd time is just passing by\nBut what are you doing, Mrs. Thompson?\nCome on\n\nPTA meeting on Monday, and Tuesday in front of the TV\nOn Wednesday she does yoga by herself\nOn Thursday the girls come round, on Friday it's the housework\nCandles and red wine Saturday evening\n\nThe whole Sunday in bed\nWhen she's sleeping the dream returns once again\n\n'Cause life is calling, your heart is beating\nAnd can you hear it, Mrs. Thompson?\nAnd time is just passing by\nBut what are you doing, Mrs. Thompson?\nCome on\n\n'Cause life is calling, your heart is beating\nAnd can you hear it, Mrs. Thompson?\nAnd time is just passing by\nBut what are you doing, Mrs. Thompson?\n\nLet me introduce you\nTo the great Mrs. Thompson\nAn everyday hero who leads the way\nGo for it and do it, Mrs. Thompson\nCome on\n\n'Cause life is calling, your heart is beating\nAnd can you hear it, Mrs. Thompson?\nAnd time is just passing by\nBut what are you doing, Mrs. Thompѕon?\n\nLet me introduce you to the greаt..."
+    }
+  ],
+  "bpm": 128,
+  "tone": "F major",
+  "artistPeople": [
+    "Eiríkur Hauksson",
+    "Hanne Krogh Sundbø",
+    "Jan Groth",
+    "Marianne Antonsen"
+  ],
+  "backings": [
+    "Kari Iveland",
+    "Per Øystein Sørensen"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Kaare Skevik Jr.",
+    "P.G. Roness"
+  ],
+  "conductor": "Pete Knutsen",
+  "lyricists": [
+    "Dag Kolsrud"
+  ],
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "Jahn Teigen",
+    "John Andreassen"
+  ],
+  "jury": [
+    "Christine Holm",
+    "Egil Storeide",
+    "Erik Wesseltoft",
+    "Gustavo Pollastri",
+    "Jan Paul Brekke",
+    "Jean-Paul Choukroun",
+    "Kari Olstad",
+    "Knut Reiersrud",
+    "Kristin Skaare",
+    "Nils Einar Vinjor",
+    "Ragnhild Vaaler",
+    "Reidun Hansen",
+    "Rune Arnesen",
+    "Tine Smith",
+    "Vibeke Wesenlund"
+  ],
+  "spokesperson": "Sverre Christophersen"
+}

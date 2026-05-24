@@ -1,0 +1,66 @@
+{
+  "id": 16,
+  "country": "GR",
+  "artist": "Takis Biniaris",
+  "song": "Miazoume",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/_HIqrWzh75w",
+    "https://www.youtube-nocookie.com/embed/Uas8g9A16iY",
+    "https://www.youtube-nocookie.com/embed/l-OY2DKS87U"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ellinika"
+      ],
+      "title": "Miazoume",
+      "content": "Tha mas horizun panda kapies thiafores\nEsthitikes i taxikes i an thelis ki ales\nTha mas enonun omos panda i stigmes\nAftes pu i anthropi i apli tis lene megales\n\nMiazume san thio stales vrohis\nKi osa loyia ki an pis, mistika sto thimo su\nMiazume, ki an se kopsun sta thio\nKapu isos skeftis pos ime t' alo miso su\n\nTha mas horizun panda kapies thiafores\nTha me pikrenis, ki isos kapu se malono\nTha mas enonun omos panda i stigmes\nAftes pu kanun pio anthropino to pono\n\nMiazume san thio stales vrohis\nKi osa loyia ki an pis, mistika sto thimo su\nMiazume, ki an se kopsun sta thio\nKapu isos skeftis pos ime t' alo miso su\n\nMiazume san thio stales vrohis\nOsa loyia ki an pis, mistika sto thimo su\nMiazume, ki an se kopsun sta thio\nKapu isos skeftis pos ime t' alo miso ѕu\n\nMiаzume"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ελληνικά"
+      ],
+      "title": "Μοιάζουμε",
+      "content": "Θα μας χωρίζουν πάντα κάποιες διαφορές\nΑισθητικές ή ταξικές ή αν θέλεις κι άλλες\nΘα μας ενώνουν όμως πάντα οι στιγμές\nΑυτές που οι άνθρωποι οι απλοί τις λένε μεγάλες\n\nΜοιάζουμε σαν δυο στάλες βροχής\nΚι όσα λόγια κι αν πεις, μυστικά στο θυμό σου\nΜοιάζουμε, κι αν σε κόψουν στα δυο\nΚάπου ίσως σκεφτείς πως είμαι τ' άλλο μισό σου\n\nΘα μας χωρίζουν πάντα κάποιες διαφορές\nΘα με πικραίνεις, κι ίσως κάπου σε μαλώνω\nΘα μας ενώνουν όμως πάντα οι στιγμές\nΑυτές που κάνουν πιο ανθρώπινο τον πόνο\n\nΜοιάζουμε σαν δυο στάλες βροχής\nΚι όσα λόγια κι αν πεις, μυστικά στο θυμό σου\nΜοιάζουμε, κι αν σε κόψουν στα δυο\nΚάπου ίσως σκεφτείς πως είμαι τ' άλλο μισό σου\n\nΜοιάζουμε σαν δυο στάλες βροχής\nΌσα λόγια κι αν πεις, μυστικά στο θυμό σου\nΜοιάζουμε, κι αν σε κόψουν στα δυο\nΚάπου ίσως σκεφτείς πως είμαι τ' άλλο μισό σου\n\nΜοιάζουμε"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "We resemble",
+      "content": "Some differences will always separate us\nAesthetic or class or even others\nHowever the moments will always unite us\nWhich simple people call great\n\nWe resemble like two drops of rain\nAnd whatever words you say are secrets in your anger\nWe resemble and if you are cut in two\nSomehow you may think I'm your other half\n\nSome differences will always separate us\nYou will embitter me and I may scold you somehow\nHowever the moments will always unite us\nWhich make the pain more human\n\nWe resemble like two drops of rain\nAnd whatever words you say are secrets in your anger\nWe resemble and if you are cut in two\nSomehow you may think I'm your other half\n\nWe resemble like two drops of rain\nAnd whatever words you say are secrets in your anger\nWe resemble and if you are cut in two\nSomehow you may think I'm your other hаlf\n\nWe reѕemble"
+    }
+  ],
+  "bpm": 135,
+  "tone": "Bb minor",
+  "artistPeople": [
+    "Takis Biniaris"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Takis Biniaris"
+  ],
+  "conductor": "Haris Andreadis",
+  "lyricists": [
+    "Maro Bizani"
+  ],
+  "writers": null,
+  "broadcaster": "ERT",
+  "commentators": [
+    "Mako Georgiadou"
+  ],
+  "jury": null,
+  "spokesperson": "Kelly Sakakou"
+}

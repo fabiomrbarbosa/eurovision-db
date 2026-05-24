@@ -1,0 +1,63 @@
+{
+  "id": 21,
+  "country": "FR",
+  "artist": "Virginie Pouchin",
+  "song": "Il était temps",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-ZtZX2H6Wn4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Il était temps",
+      "content": "Devenir, comme seule raison de résister\nTenir, élever le ton pour exister\nÇa se dit, ça se chante facilement\nMais mon refrain aujourd'hui, c'est:\n\nIl était temps qu'enfin le ciel se rappelle de moi\nIl était temps, enfin une trêve, ma chance à moi\nIl était temps, il était temps\n\nCourir après l'idéal, ça vaut le coup\nSouffrir, ça fait moins mal quand c'est un rêve au bout\nÇa se dit, ça se chante legèrement\nMais mon refrain aujourd'hui, c'est:\n\nIl était temps qu'enfin le ciel se rappelle de moi\nIl était temps, enfin une trêve, ma chance à moi\nIl était temps, il était temps\n\nJ'y croyais plus\nJ'y croyais plus, d'ailleurs j'ai du mal à le croire encore\n\nIl était temps qu'enfin le ciel se rappelle de moi\nIl était temps, enfin une trêve, ma chance à moi\n\nIl était temps, pourvu que ça reste, et si ça ne dure pas\nJe serais heureuse de dire aux enfants\nQue j'y ai touché une fois dans mon temps\n\nIl étаit tempѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "It was time",
+      "content": "Become, as the only reason to resist\nHold out, raise your voice to exist\nYou can say it, you can sing it easily\nBut today my chorus is:\n\nIt was time for heaven to remember me at last\nIt was time, finally a rest, my own chance\nIt was time, it was time\n\nRun after an ideal, it's worth it\nSuffer, it hurts less when a dream is at the end\nYou can say it, you can sing it softly\nBut today my chorus is:\n\nIt was time for heaven to remember me at last\nIt was time, finally a rest, my own chance\nIt was time, it was time\n\nI didn't believe it anymore\nI didn't believe it anymore, actually it's still hard for me to believe it\n\nIt was time for heaven to remember me at last\nIt was time, finally a rest, my own chance\n\nIt was time, hopefully it will stay, and if it doesn't last\nI'd be glad to tell the children\nThat I've touched it once in my lifetime\n\nIt wаѕ time"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Det var dags",
+      "content": "Bli, som den enda anledningen att stå emot\nHåll ut, höj rösten för att existera\nDu kan säga det, du kan enkelt sjunga det\nMen idag är min refräng:\n\nDet var dags för himlen att minnas mig till slut\nDet var dags, äntligen en vila, min egen chans\nDet var dags, det var dags\n\nSpring efter ett ideal, det är värt det\nLid, det gör mindre ont när en dröm är i slutet\nDu kan säga det, du kan sjunga det mjukt\nMen idag är min refräng:\n\nDet var dags för himlen att minnas mig till slut\nDet var dags, äntligen en vila, min egen chans\nDet var dags, det var dags\n\nJag trodde inte på det längre\nJag trodde inte på det längre, det är faktiskt fortfarande svårt för mig att tro på det\n\nDet var dags för himlen att minnas mig till slut\nDet var dags, äntligen en vila, min egen chans\n\nDet var dags, förhoppningsvis kommer det att stanna, och om det inte varar\nSkulle jag vara glad att berätta för barnen\nAtt jag har rört det en gång i livet\n\nDet var dаgѕ"
+    }
+  ],
+  "bpm": 100,
+  "tone": "C minor",
+  "artistPeople": [
+    "Virginie Pouchain"
+  ],
+  "backings": [
+    "Matheson Bayley"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Corneille"
+  ],
+  "broadcaster": "France 3",
+  "commentators": [
+    "Claudy Siar",
+    "Eric Jeanjean",
+    "Michel Drucker",
+    "Peggy Olmi"
+  ],
+  "jury": null,
+  "spokesperson": "Sophie Jovillard"
+}

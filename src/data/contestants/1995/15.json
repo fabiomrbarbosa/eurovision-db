@@ -1,0 +1,58 @@
+{
+  "id": 15,
+  "country": "TR",
+  "artist": "Arzu Ece",
+  "song": "Sev!",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/WGm8jAoG89E",
+    "https://www.youtube-nocookie.com/embed/eu6d7yKBdBE",
+    "https://www.youtube-nocookie.com/embed/HamP7mfT6R4",
+    "https://www.youtube-nocookie.com/embed/Qorj0opAiBw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "turkish"
+      ],
+      "displayedLanguages": null,
+      "title": "Sev!",
+      "content": "Sev, içinde bir düş olmasa bile\nSev, sevgi bizimle\n\nSev, hiç durma sev\nSevmekle varolacak\nSonsuz bir dünya inan\nGül, hiç durma gül\nGülmek anlam verir hayatına\nUnutup bu dünyayı bir kere dene\n\nSev, gönlünce sev\nBak dünya gözlerine\nBir başka görünür inan\nGül, hiç durma gül\nGülmek anlam verir hayatına\nUnutup bu dünyayı bir kere dene\n\nHaydi gel bir şarkı söyle bana\nUzan bu şarkıyla sonsuzluğa\nGül, içinde bir düş olmasa bile\nSev, sevgi bizimle\n\nSev, hiç durma sev\nSevmekle varolacak\nSonsuz bir dünya inan\nGül, hiç durma gül\nGülmek anlam verir hayatına\nUnutup bu dünyayı bir kere dene\n\nHaydi gel bir şarkı söyle bana\nUzan bu şarkıyla sonsuzluğa\nGül, içinde bir düş olmasa bile\nSev, sevgi bizimle\n\nHaydi gel bir şarkı söyle bana\nUzan bu şarkıyla sonsuzluğa\nGül, içinde bir düş olmasа bile\nSev, ѕevgi bizimle"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Love!",
+      "content": "Love, though you don't have a dream inside\nLove, love is with us\n\nLove, love without stopping\nBelieve, that an endless world\nWill exist through love\nLaugh, laugh without stopping\nLaughing gives a sense to your life\nTry once to forget this world\n\nLove, with all your heart\nLook at the world's eyes\nBelieve that you see them different\nLaugh, laugh without stopping\nLaughing gives a sense to your life\nTry once to forget this world\n\nCome on, sing me a song\nTry to reach for eternity\nLaugh, though you don't have a dream inside\nLove, love is with us\n\nLove, love without stopping\nBelieve, that an endless world\nWill exist through love\nLaugh, laugh without stopping\nLaughing gives a sense to your life\nTry once to forget this world\n\nCome on, sing me a song\nTry to reach for eternity\nLaugh, though you don't have a dream inside\nLove, love is with us\n\nCome on, sing me a song\nTry to reach for eternity\nLaugh, though you don't have a dreаm inside\nLove, love is with uѕ"
+    }
+  ],
+  "bpm": 92,
+  "tone": "G major",
+  "artistPeople": [
+    "Arzu Ece"
+  ],
+  "backings": [
+    "Ece Sandallı",
+    "Füsun Coşkun",
+    "Sertan Belciler"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Melih Kibar"
+  ],
+  "conductor": "Melih Kibar",
+  "lyricists": [
+    "Zeynep Talu Kurşuncu"
+  ],
+  "writers": null,
+  "broadcaster": "TRT",
+  "commentators": [
+    "Bülend Özveren"
+  ],
+  "jury": null,
+  "spokesperson": "Ömer Önder"
+}

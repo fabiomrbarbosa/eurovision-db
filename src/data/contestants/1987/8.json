@@ -1,0 +1,60 @@
+{
+  "id": 8,
+  "country": "NO",
+  "artist": "Kate Gulbrandsen",
+  "song": "Mitt liv",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/pSvYltrdjQk",
+    "https://www.youtube-nocookie.com/embed/i5XieQ2N-cY",
+    "https://www.youtube-nocookie.com/embed/gdQG924GyFo",
+    "https://www.youtube-nocookie.com/embed/ld7_tXt0s2U"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "norwegian"
+      ],
+      "displayedLanguages": null,
+      "title": "Mitt liv",
+      "content": "Nå er scenelyset tent, en stemme hvisker spent\nHva har jeg å si?\nKan jeg våge å gå frem? Tør jeg møte dem?\nHar jeg nok å gi?\nJeg må gripe sjansen nå\nMen kan jeg stole på meg selv, mitt liv?\n\nNå står jeg foran en vei bare jeg kan gå\nEn fremtid i mine hender\nOg et mål bare jeg kan nå\nIngen kan ta fra meg min drøm, det er mitt liv\n\nJeg leter etter svar\nAlle tankene jeg har gir meg tvil\nMen det får ikke stanse meg\nJeg vil gå min egen vei og jeg tør å si\nDet er meg det gjelder nå\nNå skal jeg stole på meg selv, mitt liv\n\nNå ѕtår jeg foran en vei bare jeg kan gå\nEn fremtid i mine hender\nOg et mål bare jeg kan nå\nIngen kan ta fra meg min drøm\n\nForan en vei bare jeg kan gå\nEn fremtid i mine hender\nOg et mål bare jeg kan nå\nOg ingen kan ta fra meg…\nIngen kan ta frа meg min drøm\nMin drøm"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "My life",
+      "content": "Now the limelight has been lit, a voice whispers anxiously\nWhat have I to say?\nWill I dare to walk forward? Do I dare to meet them?\nDo I have enough to give?\nI have to seize the chance now\nBut can I trust myself, my life?\n\nNow I'm standing in front of a road, only I can walk\nA future in my hands\nAnd a goal only I can catch\nNo one can take my dream away from me, it is my life\n\nI'm looking for answers\nAll the thoughts I have, make me doubt\nBut that won't stop me\nI want to go my own way and I dare to say\nNow it's me it's all about\nNow I'm going to trust myself, my life\n\nNow I'm standing in front of a road, only I can walk\nA future in my hands\nAnd a goal only I can catch\nNo one can take my dream away from me\n\nIn front of a road, only I can walk\nA future in my handѕ\nAnd a goal only I can reach\nNo one can take away from me\nNo one can take away my dream from me\nMy dreаm"
+    }
+  ],
+  "bpm": 172,
+  "tone": "C# major",
+  "artistPeople": [
+    "Kate Gulbrandsen"
+  ],
+  "backings": [
+    "Amund Enger",
+    "Kari Iveland",
+    "Trygve Rasmussen"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Rolf Løvland"
+  ],
+  "conductor": "Terje Fjærn",
+  "lyricists": [
+    "Hanne Krogh",
+    "Rolf Løvland"
+  ],
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "John Andreassen",
+    "Tor Paulsen"
+  ],
+  "jury": null,
+  "spokesperson": "Sverre Christophersen"
+}

@@ -1,0 +1,75 @@
+{
+  "id": 20,
+  "country": "GR",
+  "artist": "Katerine Duska",
+  "song": "Better Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5pQV_-40m_U",
+    "https://www.youtube-nocookie.com/embed/gPHOFq4hoIU",
+    "https://www.youtube-nocookie.com/embed/ulQoRPcQVDc",
+    "https://www.youtube-nocookie.com/embed/-MSY13IfckU",
+    "https://www.youtube-nocookie.com/embed/THmHbsTiaig",
+    "https://www.youtube-nocookie.com/embed/8ihofSzcfK0",
+    "https://www.youtube-nocookie.com/embed/AtD3qcILbSc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Better Love",
+      "content": "Live for the mess\nMake me feel ageless\nNo pain, no gain\nTeach me carelessness\n\nAnd I'm about to see all that's made up\nAnd everything they want from us\nNo pain, no gain\nOnce bitten, make way\n\nAnd I can't hide it\nI won't fight this\nYearning feeling inside\n\nGotta get\n\nBetter love, better love\nAll that we're after\nWay to love, who you love\n\nBetter love, better love\nAll that we're after\nWay to love, who you love\n\nThere's nothing more to say to back it up when I am\nUnafraid, I've lost enough\nGo on, hold on for dear life\n\n'Cause I won't hide it\nI can't fight this\nBurning feeling inѕide\n\nGotta get\n\nBetter love, better love\nAll that we're after\nWay to love, who you love\n\nBetter love, better love\nAll that we're after\nWay to love, who you love\n\nWon't you lean on me\nYou can lean on me\nLet them look, don't know, don't care\nGo deep with me\nGo deep with me\nGo deep with me\n\nBetter love, better love\nAll that we're after\nWay to love, who you love\n\nBetter love, better love\nAll that we're after\nWay to love, who you love\n\nWhat you wаiting for? (x15)"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Parempi rakkaus",
+      "content": "Elä sotkua varten\nSaa minut tuntemaan iättömältä\nEi kipua, ei saavutusta\nOpeta minulle huolimattomuutta\n\nJa olen näkemässä kaiken mikä on keksitty päästä\nJa kaiken mitä he haluavat meiltä\nEi kipua, ei saavutusta\nKerran purtu, tee tie\n\nJa en voi piilotella sitä\nEn aio taistella tätä vastaan\nKaipuu tunne sisällä\n\nTäytyy saada\n\nParempaa rakkautta, parempaa rakkautta\nKaiken minkä perässä olemme\nTie rakkauteen, ketä rakastat\n\nParempi rakkaus, parempi rakkaus\nKaiken minkä perässä olemme\nTie rakkauteen, ketä rakastat\n\nMinulla ei ole enää mitään sanottavaa tukemaan sitä, kun olen\nPelkäämättä, olen menettänyt tarpeeksi\nJatka, odota rakas elämä\n\nKoska en aio piilotella sitä\nEn voi taistella sitä vastaan\nPalava tunne sisällä\n\nTäytyy saada\n\nParempaa rakkautta, parempaa rakkautta\nKaiken minkä perässä olemme\nTie rakkauteen, ketä rakastat\n\nParempi rakkaus, parempi rakkaus\nKaiken minkä perässä olemme\nTie rakkauteen, ketä rakastat\n\nEtkö aio nojata minuun\nVoit nojata minuun\nAnna heidän katsoa, en tiedä, en välitä\nMene syvälle kanssani\nMene syvälle kanssani\nMene syvälle kanssani\n\nParempi rakkaus, parempi rakkaus\nKaiken minkä perässä olemme\nTie rakkauteen, ketä rakastat\n\nParempi rakkaus, parempi rakkaus\nKaiken minkä perässä olemme\nTie rakkauteen, ketä rakaѕtаt\n\nMitä oikein odottelet? (x15)"
+    }
+  ],
+  "bpm": 88,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Katerine Duska"
+  ],
+  "backings": [
+    "Eleni Pozantzidou",
+    "Erasmia Markidi",
+    "Evgenia Liakou"
+  ],
+  "dancers": [
+    "Dimitra Vlachou",
+    "Fania Grigoriou"
+  ],
+  "stageDirector": "Efi Gousi",
+  "composers": [
+    "David Sneddon",
+    "Katerine Duska",
+    "Leon of Athens",
+    "Phil Cook"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "David Sneddon",
+    "Katerine Duska"
+  ],
+  "writers": null,
+  "broadcaster": "ERT",
+  "commentators": [
+    "Giorgos Kapoutzidis",
+    "Maria Kozakou"
+  ],
+  "jury": [
+    "Eirini Karagianni",
+    "Manolis Pantelidakis",
+    "Nikos",
+    "Stella Chroneou",
+    "Thanasis Alevras"
+  ],
+  "spokesperson": "Gus G"
+}

@@ -1,0 +1,56 @@
+{
+  "id": 18,
+  "country": "BE",
+  "artist": "Linda Lepomme",
+  "song": "Laat me nu gaan",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/tlqa2EVakU4",
+    "https://www.youtube-nocookie.com/embed/tLUqs_sMXfw",
+    "https://www.youtube-nocookie.com/embed/0A8Etsb8YTc",
+    "https://www.youtube-nocookie.com/embed/YCv5l0-vjVI",
+    "https://www.youtube-nocookie.com/embed/WaRKUpwI4Zw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "Laat me nu gaan",
+      "content": "Laat me nu gaan, zeg niets meer, laat me nu gaan\nVoel je dan niet, jouw woorden helpen mij al lang niet meer\nToe, laat me gaan, vergeet me, laat me toch gaan\nZag je dan nooit dat zonder warmte geen liefde kan leven?\nEn ik mijn leven opnieuw wil dromen\nAlsof ik jou nooit had ontmoet?\n\nNooit wil ik weer bij jou zijn, jij doet me pijn\nNooit wil ik weer me door een ander laten leven\nRaak me niet aan, nee, raak me niet aan\nLaat me alleen, ik zag de wereld alleen door jouw ogen\nVoel me bedrogen, ik hield van jou\nDat heb jij nooit verstaan, nooit verstaan\n\nZie je nou wat ik jou steeds maar zeggen wou?\nDan weet je ook hoelang een lege nacht kan duren\nAls je hoopt en wacht, doodop en moegedacht\nBesef je nou dat iets in mij zal breken alѕ ik jou verlaat?\n\nLaat me niet gaan, kijk me toch aan\nLaat me niet gaan, laat jij me zomaar gaаn?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Let me go now",
+      "content": "Let me go now, say no more, let me go now\nDon't you feel, your words are not helping me anymore for a long time\nPlease, let me go, forget me, please let me go\nDidn't you ever see that no love can live without warmth\nAnd that I want to dream my life again\nAs if I had never met you?\n\nNever again I want to be with you, you hurt me\nNever again I want someone else to live my life\nDon't touch me, no, don't touch me\nLeave me alone, I saw the world only through your eyes\nI feel betrayed, I loved you\nYou never understood that, never understood\n\nDo you see now what I always wanted to tell you?\nThen you also know how long an empty night can last\nWhen one hopes and waits, exhausted and tired of thinking\nDo you realise now something in me will break when I leave you?\n\nDon't let me go, please look at me\nDon't let me go, do you reаlly let me go like thiѕ?"
+    }
+  ],
+  "bpm": 129,
+  "tone": "F major",
+  "artistPeople": [
+    "Linda Lepomme"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Pieter Verlinden"
+  ],
+  "conductor": "Curt-Eric Holmquist",
+  "lyricists": [
+    "Bert Vivier"
+  ],
+  "writers": null,
+  "broadcaster": "BRT",
+  "commentators": [
+    "Jacques Mercier",
+    "Luc Appermont"
+  ],
+  "jury": null,
+  "spokesperson": "Anne Ploegaerts"
+}

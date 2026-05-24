@@ -1,0 +1,58 @@
+{
+  "id": 34,
+  "country": "BY",
+  "artist": "Ruslan Alehno",
+  "song": "Hasta la vista",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/wG8p0fSHc3U",
+    "https://www.youtube-nocookie.com/embed/R9kxjofDDxI",
+    "https://www.youtube-nocookie.com/embed/8S5YYzAf5cw",
+    "https://www.youtube-nocookie.com/embed/5sq5PmFaRDE",
+    "https://www.youtube-nocookie.com/embed/Uz0S1zkgWHo"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Hasta la vista",
+      "content": "You shone on me like a blinding star\nI've just never seen such a light so far\nAll my days, like fairy tales\n\nI begged you to look in my loving eyes\nBut you were as cold as arctic ice\nAnd your laugh has killed my love\n\nThe story is close to the final cut\nIt won't be the end, but a running start\nSo don't be upset, please don't ask me why\nI say goodbye\n\nHasta la vista, baby\nI'm gonna miss you, maybe\nYou can be really happy\nThough it's not fair\n\nHasta la vista, baby\nI'm gonna miss you, maybe\nHasta la vista, blame me\nBut I don't care\n\nNo way to repair the broken glass\nThere's nothing to share nor to discuss\nNow I see, you're not for me\n(You're not for me)\n\nYou've cast me away to a desert shore\nYou've shattered my heart, now you keep the score\nHave a rest, you've done your best\n\nThe story is close to the final cut\nIt won't be the end, but a running start\nSo don't you pretend you can't get it why\nI say goodbye\n\nHasta la vista, baby\nI'm gonna miss you, maybe\nYou can be really happy\nThough it's not fair\n\nHasta la vista, baby\nI'm gonna miss you, maybe\nHasta la vista, blame me\nBut I don't care\n\nHasta la vista\nHasta la viѕtа"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Hasta la vista",
+      "content": "Как странно, что я только день назад\nВсего за один твой случайный взгляд\nЦелый мир отдать был рад\nНаверное, я был тогда другим -\nНаивным до слез и смешным таким:\nВерил, что тобой любим…\n\nПустые слова - как сухой песок\nЯ счастье догнал - а поймать не смог\nНазад не мани, зря не обещай\nПрощай, прощай\n\nHasta la vista! Что же\nВремя проститься с ложью\nВсе возвратиться может\nНо не мечты\n\nHasta la vista! Мне бы\nВзвиться, как птице, в небо\nБудто и близко не был\nЯ там, где ты\n\nПусть клочья моих алых парусов\nНаполнит опять новая любовь\nСловно бриз иных миров\nПусть я утону - и еще не раз -\nНыряя в моря нежных женских глаз\nНо - не здесь и не сейчас\n\nПустые слова - жемчуг под ногой:\nВедь счастлива ты будешь не со мной\nНазад не мани, зря не обещай -\nПрощай, прощай\n\nHasta la vista! Что же\nВремя простится с ложью\nВсё возвратиться позже\nНо не мечты\n\nHasta la vista! Мне бы\nВзвиться, как птице, в небо\nБудто и близко не был\nЯ там, где ты\n\nHasta la vista\nHasta la viѕtа"
+    }
+  ],
+  "bpm": 128,
+  "tone": "C minor",
+  "artistPeople": [
+    "Ruslan Alehno"
+  ],
+  "backings": [
+    "Bogdan Reshetnyk",
+    "Emy Armine Zaryan"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Taras Demchuk"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Eleonora Melnik"
+  ],
+  "writers": null,
+  "broadcaster": "BTRC",
+  "commentators": [
+    "Denis Kurian"
+  ],
+  "jury": null,
+  "spokesperson": "Olga Barabanschikova"
+}

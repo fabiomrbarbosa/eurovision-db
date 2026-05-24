@@ -1,0 +1,56 @@
+{
+  "id": 2,
+  "country": "MT",
+  "artist": "Mary Spiteri",
+  "song": "Little Child",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/tTB6JjVgiSg",
+    "https://www.youtube-nocookie.com/embed/ukfXeehixGQ",
+    "https://www.youtube-nocookie.com/embed/gdQFpV-m5ms",
+    "https://www.youtube-nocookie.com/embed/nXQjOEszTH0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Little Child",
+      "content": "Little child, your look - it pains me\nIt's an answer your eyes seek\nCan't you see what shadow of a soul\nI've come to be tired of the scene\n\nLittle child, come sit beside me\nIt's so much I have to say\nStay as free as high winds on the seas\nNo destiny bringin' lonely tears\n\nSmile, live today, and leave the past behind\nLive it up day by day, and surely you may find\nThat both sorrow and tomorrow\nAren't worth a thought or two\nLook at me and teach me to live again\n\nLittle child, your look elates me\nIt's an answer your eyes give\nNow, you see, I'm on the road again\nI'm bringin' out what child there's in me\n\nSmile, live today, and leave the past behind\nLive it up day by day, and surely you may find\nThat both sorrow and tomorrow\nAren't worth a thought or two\nLook at me and teach me to live again\nLive again\n\nSing, live today, this moment can't endure\nOh… let us reach for the stars - we'll make it, I'm that sure\nBe it sadness, be it gladness, we can start it all anew\nLook at me, look at me, аnd the sun comes ѕhining through"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "maltese"
+      ],
+      "displayedLanguages": null,
+      "title": "Tfajjel ċkejken",
+      "content": "Tfajjel ċkejken, tħarisx lejja\nB'mistoqsija f'għajnejk sbieħ\nTar mar riħ, iż-żmien tal-logħob ferrieħ\nIl-ħsibijiet tellfu kull mistrieħ\n\nTfajjel ċkejken, ejja ħdejja\nNgħidlek ġrajja li thennik\nGħożż ġo fik, il-ġmiel li d-dinja 'ttik\nLa tħallihiex, tnikktek u bikkik\n\nTbissem illum, il-bieraħ għadda u mar\nGħix il-jum wara jum u għada qatt ma sar\nGħax l-uġiegħ tal-lum biżżejjed\nDak li ġej ma jafu ħadd\n'Tini jdejk, għallimni ngħix aħjar\n\nTfajjel ċkejken, ħares lejja\nTwettaqx l-għelt li għamilt jien\nTaħlix żmien, l-imgħoddi kien li kien\nBla tifkiriet, isbaħ u il-ġejjien\n\nTbissem illum, il-bieraħ għadda u mar\nGħix il-jum wara jum u għada qatt ma sar\nGħax l-uġiegħ tal-lum biżżejjed\nDak li ġej ma jafu ħadd\n'Tini jdejk, għallimni ngħix aħjar\nNgħix aħjar\n\nIfraħ illum, daż-żmien kemm jista' jdum?\nĦatja jien daqs l-oħrajn, li ѕibt xifer l-irdum\nJekk ħallejna dinja mejta, minn kull tama' ċaħħadnik\n'Tini jdejk, 'tini jdejn, aħfrilna dan l-imrаr"
+    }
+  ],
+  "bpm": 155,
+  "tone": "E major",
+  "artistPeople": [
+    "Mary Spiteri"
+  ],
+  "backings": [
+    "Elisabeth Melander",
+    "Margareta Nilsson",
+    "Staffan Paulsson"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Georgina Abela"
+  ],
+  "conductor": "Paul Abela",
+  "lyricists": [
+    "Raymond Mahoney"
+  ],
+  "writers": null,
+  "broadcaster": "XM",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Anna Bonanno"
+}

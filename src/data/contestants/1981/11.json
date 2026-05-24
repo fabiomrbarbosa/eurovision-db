@@ -1,0 +1,70 @@
+{
+  "id": 11,
+  "country": "DK",
+  "artist": "Debbie Cameron & Tommy Seebach",
+  "song": "Krøller eller ej",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Vgc6NF3ynFM",
+    "https://www.youtube-nocookie.com/embed/srHDi5EZ8wo",
+    "https://www.youtube-nocookie.com/embed/fylocFovYWE",
+    "https://www.youtube-nocookie.com/embed/3YFnSlnyxgM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "danish"
+      ],
+      "displayedLanguages": null,
+      "title": "Krøller eller ej",
+      "content": "Jeg har en søn på to\nMed store, lyse krøller\nJeg har en dreng på tre\nMed store, brune øjne\nJamen, jeg har bare én mer' end du har\nOkay, måske, men ingen er bedre end min\nFor han er bare helt speciel\nHvis jeg må si' det selv\n\nKrøller eller ej, vi elsker vores børn\nBrune øjne eller ej, I elsker jeres børn\nFor én ting er givet\nVi håber alle på at de må få de ting, de ønsker sig\nOm de' fire eller tres, har krøller eller ej\n\nFor én ting er givet\nVi håber alle på at de må få de ting, de ønsker sig\nOm de' fire eller tres, har krøller eller ej\n\nLænge leve alle børn\nLyse krøller eller ej, vi elsker vores børn\nBrune øjne eller ej, I elsker jeres børn\nFor én ting er givet\nVi håber alle på at de må få de ting, de ønsker sig\nOm de' fire eller treѕ, har krøller eller ej\n\n(Længe leve børn)\n(Om de hаr krøller eller ej)"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Curly hair or not",
+      "content": "I have a two year old son\nWith big, blond curls\nI have a three year old boy\nWith big, brown eyes\nBut I've got one more than you\nOK, perhaps, but none is better than mine\nFor he's very special\nIf I do say so myself\n\nCurly hair or not, we love our children\nBrown eyes or not, you love your children\nFor one thing is certain\nWe all hope that they'll get the things they want\nWhether they're four or sixty, have curly hair or not\n\nFor one thing is certain\nWe all hope that they'll get the things they want\nWhether they're four or sixty, have curly hair or not\n\nLong live all children\nBlond curls or not, we love our children\nBrown eyes or not, you love your children\nFor one thing is certain\nWe all hope that they'll get the things they want\nWhether they're four or ѕixty, have curly hair or not\n\n(Long live children)\n(Whether they have curly hаir or not)"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Encaracolado ou não",
+      "content": "Eu tenho um filho de dois anos\nCom grandes cachos loiros\nEu tenho um filho de três anos\nCom grandes olhos castanhos\nMas eu tenho um a mais que você\nOk, talvez, mas nenhum é melhor do que o meu\nPois ele é muito especial\nSe eu mesmo disser\n\nEncaracoladas ou não, nós amamos nossas crianças\nOlhos castanhos ou não, vocês amam suas crianças\nPois uma coisa é certa\nTodos nós esperamos que elas consigam as coisas que querem\nTenham quatro ou sessenta anos, sejam encaracoladas ou não\n\nPois uma coisa é certa\nTodos nós esperamos que elas consigam as coisas que querem\nTenham quatro ou sessenta anos, sejam encaracoladas ou não\n\nViva todas as crianças\nLoiras encaracoladas ou não, nós amamos nossas crianças\nOlhos castanhos ou não, vocês amam suas crianças\nPois uma coisa é certa\nTodos nós esperamos que elas consigam as coisas que querem\nTenham quatro ou sessenta anos, sejam encaracoladas ou não\n\n(Viva as crianças)\n(Tenham elaѕ cabelo encaracolаdo ou não)"
+    }
+  ],
+  "bpm": 117,
+  "tone": "D major",
+  "artistPeople": [
+    "Debbie Cameron",
+    "Tommy Seebach"
+  ],
+  "backings": [
+    "Ianne Elo",
+    "Michael Elo"
+  ],
+  "dancers": [
+    "Louise Frevert",
+    "Unknown"
+  ],
+  "stageDirector": null,
+  "composers": [
+    "Tommy Seebach"
+  ],
+  "conductor": "Allan Botschinsky",
+  "lyricists": [
+    "Keld Heick"
+  ],
+  "writers": null,
+  "broadcaster": "DR",
+  "commentators": [
+    "Jørgen de Mylius"
+  ],
+  "jury": null,
+  "spokesperson": "Bent Henius"
+}

@@ -1,0 +1,63 @@
+{
+  "id": 24,
+  "country": "PT",
+  "artist": "Sabrina",
+  "song": "Dança Comigo (Vem Ser Feliz)",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/YaUROb43iDo",
+    "https://www.youtube-nocookie.com/embed/3AhZyDhLaQA"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "portuguese",
+        "english",
+        "french",
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Dança comigo (Vem ser feliz)",
+      "content": "Vem dançar comigo pelas ondas da aventura\nQue eu prometo dar-te oceanos de ternura\nDisse-me o vento que serás sempre o meu par\nAté o céu conspira que és tu quem quero amar, amar\n\nDança comigo, eu dou-te o céu que há em mim\nDança comigo, aos teus desejos direi sim\nDança comigo, que nos teus braços vou sonhar\nDança comigo, eu dou-te a lua, o sol e o mar\n\nDança esta canção porque tem tudo de ti\nTem ritmo e alegria, que é o que tu me dás a mim\nHá na melodia uma luz, uma razão\nHá na harmonia uma força que é paixão, paixão\n\nDança comigo, eu dou-te o céu que há em mim\nDança comigo, aos teus desejos direi sim\nDança comigo, que nos teus braços vou sonhar\nDança comigo, eu dou-te a lua, o sol e o mar\n\nDanse avec moi, je suis heureuse dans tes bras\nTe quiero tanto, eres mi sueño, mi encanto\nLet's dance together, I wanna take you to the moon\nLet's dance together, I wanna make your dreams come true\n\nDança comigo, eu dou-te o céu que há em mim\nDança comigo, aos teus desejos direi sim\nDança comigo, que nos teus braços vou sonhar\nDança comigo, eu dou-te a lua, o ѕol e o mar\n\nDançа comigo"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Dance with me (Come and be happy)",
+      "content": "Come dance with me in the waves of adventure\nI promise I will give you oceans of tenderness\nThe wind told me that you will always be my lover\nEven the sky knows that you are the one I want to love, to love\n\nDance with me, I give you the sky that is in me\nDance with me, to all your wishes I will say yes\nDance with me, in your arms I will dream\nDance with me, I give you the moon, the sun and the sea\n\nDance this song because it's all about you\nIt has rhythm and joy, that is what you give to me\nIn the melody there's a light, a reason\nIn the harmony there's a strength that is passion, passion\n\nDance with me, I give you the sky that is in me\nDance with me, to all your wishes I will say yes\nDance with me, in your arms I will dream\nDance with me, I give you the moon, the sun and the sea\n\nDance with me, I'm happy in your arms\nI love you so much, you're my dream, my darling\nLet's dance together, I wanna take you to the moon \nLet's dance together, I wanna make your dreams come true \n\nDance with me, I give you the sky that is in me\nDance with me, to all your wishes I will say yes\nDance with me, in your arms I will dream\nDance with me, I give you the moon, the sun and the ѕea\n\nDаnce with me"
+    }
+  ],
+  "bpm": 100,
+  "tone": "A minor",
+  "artistPeople": [
+    "Maria Teresa Villa-Lobos"
+  ],
+  "backings": [
+    "Ana Ferreira",
+    "Ana Gonçalves",
+    "Andreia",
+    "Cláudia Soares",
+    "Nélson Araújo"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Emanuel"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Emanuel",
+    "Tó Maria Vinhas"
+  ],
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Isabel Angelino",
+    "Jorge Gabriel"
+  ],
+  "jury": null,
+  "spokesperson": "Francisco Mendes"
+}

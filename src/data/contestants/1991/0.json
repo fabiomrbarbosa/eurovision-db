@@ -1,0 +1,66 @@
+{
+  "id": 0,
+  "country": "SE",
+  "artist": "Carola",
+  "song": "Fångad av en stormvind",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/4Ml6pJqc_bw",
+    "https://www.youtube-nocookie.com/embed/yHYR_j3FJ3M",
+    "https://www.youtube-nocookie.com/embed/DkwTg74kK6I",
+    "https://www.youtube-nocookie.com/embed/yUae6Eqx1zk",
+    "https://www.youtube-nocookie.com/embed/7j2nWtNX8T0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Fångad av en stormvind",
+      "content": "Jag har aldrig slutat tro\nAtt efter varje natt väntar gryningen\nFast jag inte kan förstå\nSå finns det tid för skratt när jag börjar om igen\n\nKänner doften från en stilla ocean\nPlötsligt står jag i en levande orkan\n\nJag är fångad av en stormvind, fast för dig\nIngenting kan hindra mig när det blåser i mitt hjärta\nFångad av en stormvind natt och dag\nHär finns bara du och jag, och det ljus som himlen lämnat kvar\n\nDet är dags att ge sig av\nFör stunder som har flytt kommer aldrig mer\nReser ut på öppet hav\nDär allting blir som nytt i den framtid som du ger\n\nUtan saknad lämnar jag min trygga hamn\nFri men ändå bunden till en öppen famn\n\nJag är fångad av en stormvind, fast för dig\nIngenting kan hindra mig när det blåser i mitt hjärta\nFångad av en stormvind natt och dag\nHär finns bara du och jag, och det ljus som himlen lämnat kvar\n\nVi går tillsammans\nFörenad av kärlekens band\nMin längtan vaknar\nNär du ler och räcker mig din hand\n\nJag är fångad av en stormvind\nFångad av en stormvind, (fast för dig)\nIngenting kan hindra mig när det blåser i mitt hjärta\nFångad av en stormvind natt och dag\nHär finns bara du och jag, och det ljus som himlen lämnat kvar\n\n(Fångad av en stormvind)\nJag är fångad аv en ѕtormvind"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Captured By A Stormwind",
+      "content": "I have never stopped believing\nThat after every night waits the dawn\nEven though I can't understand\nThere's time for laughter when I start all over again\n\nI can smell the scent from a quiet ocean\nSuddenly I'm in the middle of a vivid hurricane\n\nI am captured by a stormwind, stuck on you\nNothing can stop me, when it's blowing in my heart\nCaptured by a stormwind night and day\nOnly you and I are here, and the light that heaven left behind\n\nIt is time to move on\nFor the moments that have passed, never come back\nTravelling on an open sea\nWhere everything is like new in the future you give\n\nI'm leaving my safe harbour without missing it\nFree, but still tied to open arms\n\nI am captured by a stormwind, stuck on you\nNothing can stop me, when it's blowing in my heart\nCaptured by a stormwind night and day\nOnly you and I are here, and the light that heaven left behind\n\nWe are walking together\nUnited by the bonds of love\nMy longing is awakened\nWhen you smile and give me your hand\n\nI am captured by a stormwind\nCaptured by a stormwind, (stuck on you)\nNothing can stop me, when it's blowing in my heart\nCaptured by a stormwind night and day\nOnly you and I are here, and the light that heaven left behind\n\n(Captured by a stormwind)\nI am captured by а ѕtormwind"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Captured By A Lovestorm",
+      "content": "I will never stand alone\nOr be the one to chase distant memories\nYou can open hearts of stone\nWith every touch of grace, you were there to set me free\n\nCould it be I'm on the road to paradise?\nOne step closer to the heaven in your eyes\n\nI am captured by a lovestorm from your heart\nGivin' me a brand new start, and it's gonna last forever\nCaptured by a lovestorm day and night\nFeelin' only what is right, you're the reason love is here to stay\n\nMake the best of what we share\nThe moments passing by will not come again\nI can feel it in the air\nLike raindrops from the sky softly blowin' in the wind\n\nWithout no regrets, I'll leave the past behind\nSo much love to follow till the end of time\n\nI am captured by a lovestorm from your heart\nGivin' me a brand new start, and it's gonna last forever\nCaptured by a lovestorm day and night\nFeelin' only what is right, you're the reason love is here to stay\n\nWe'll stand together\nUnited by the power of love\nI'm yours forever, free to sing\nLike angels from above\n\nI am captured by a lovestorm\nCaptured by a lovestorm (From your heart)\nGivin' me a brand new start, and it's gonna last forever\nCaptured by a lovestorm day and night\nFeelin' only what is right, you're the reason love is here to stay\n\n(Captured by a lovestorm)\nI am captured by а loveѕtorm"
+    }
+  ],
+  "bpm": 93,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Carola Maria Häggkvist"
+  ],
+  "backings": [
+    "Elisabeth Melander",
+    "Margareta Nilsson",
+    "Staffan Paulsson"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Anders Berglund",
+  "lyricists": null,
+  "writers": [
+    "Stephan Berg"
+  ],
+  "broadcaster": "SVT",
+  "commentators": [
+    "Harald Treutiger"
+  ],
+  "jury": null,
+  "spokesperson": "Bo Hagström"
+}

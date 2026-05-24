@@ -1,0 +1,71 @@
+{
+  "id": 10,
+  "country": "CY",
+  "artist": "Fanny Polymeri and Yiannis Savvidakis",
+  "song": "Apopse as vrethoume",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/9HlldYCQXKI",
+    "https://www.youtube-nocookie.com/embed/_nbjJ_G_YXc",
+    "https://www.youtube-nocookie.com/embed/wFvCkrP1KkA"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ellinika"
+      ],
+      "title": "Apopse as vrethoume",
+      "content": "Mazi ego ki esi, horis skepsi poli\nMakria as petaksume, ke ela na kanume\nTi nihta apopse yiortini\n\nApopse as vrethume\nSe kosmus ksenus makrinus\nApopse as harume\nTis ores pu pernun, ke piso dhen yirnun\n\nApopse as vrethume\nSe kosmus ksenus makrinus\nApopse as harume\nTis ores pu pernun, ke piso dhen yirnun\n\nMazi ego ki esi, protu o ilios vyi\nTi nihta as zisune, ki ela n' afisume\nTis eynies yi' avrio to proi\n\nApopse as vrethume\nSe kosmus ksenus makrinus\nApopse as harume\nTis ores pu pernun, ke piso dhen yirnun\n\nFevyi i zoi mas toso viastika\nMazi as ti harume, protu na in' arga\n\nApopse as vrethume\nSe kosmus ksenus makrinus\nApopse as harume\nTis ores pu pernun, ke piso dhen yirnun\n\nApopse as vrethume\nSe kosmus ksenus makrinus\nApopse as hаrume\nTis ores pu pernun, ke piѕo dhen yirnun"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ελληνικά"
+      ],
+      "title": "Απόψε ας βρεθούμε",
+      "content": "Μαζί εγώ κι εσύ, χωρίς σκέψη πολλή\nΜακρυά ας πετάξουμε, και έλα να κάνουμε\nΤη νύχτα απόψε γιορτινή\n\nΑπόψε ας βρεθούμε\nΣε κόσμους ξένους μακρυνούς\nΑπόψε ας χαρούμε\nΤις ώρες που περνούν, και πίσω δεν γυρνούν\n\nΑπόψε ας βρεθούμε\nΣε κόσμους ξένους μακρυνούς\nΑπόψε ας χαρούμε\nΤις ώρες που περνούν, και πίσω δεν γυρνούν\n\nΜαζί εγώ κι εσύ, προτού ο ήλιος βγει\nΤη νύχτα ας ζήσουμε, κι έλα ν' αφήσουμε\nΤις έγνοιες γι' αύριο το πρωί\n\nΑπόψε ας βρεθούμε\nΣε κόσμους ξένους μακρυνούς\nΑπόψε ας χαρούμε\nΤις ώρες που περνούν, και πίσω δεν γυρνούν\n\nΦεύγει η ζωή μας τόσο βιαστικά\nΜαζί ας τη χαρούμε, προτού να είν' αργά\n\nΑπόψε ας βρεθούμε\nΣε κόσμους ξένους μακρυνούς\nΑπόψε ας χαρούμε\nΤις ώρες που περνούν, και πίσω δεν γυρνούν\n\nΑπόψε ας βρεθούμε\nΣε κόσμους ξένους μακρυνούς\nΑπόψε ας χαρούμε\nΤις ώρες που περνούν, και πίσω δεν γυρνούν"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Let's meet tonight",
+      "content": "Me and you together, without any second thoughts\nLet's fly far away\nAnd turn this night into a celebration\n\nLet's meet tonight\nAnd go to strange distant world\nLet's enjoy tonight\nThe time that passes, and never comes back\n\nLet's meet tonight\nAnd go to strange distant world\nLet's enjoy tonight\nThe time that passes, and never comes back\n\nMe and you together, before the sun rises\nLet's live the night\nAnd leave the problems for tomorrow morning\n\nLet's meet tonight\nAnd go to strange distant world\nLet's enjoy tonight\nThe time that passes, and never comes back\n\nOur life passes so quickly\nLet's enjoy it together before it's too late\n\nLet's meet tonight\nAnd go to strange distant world\nLet's enjoy tonight\nThe time that passes, and never comes back\n\nLet's meet tonight\nAnd go to strange distant world\nLet's enjoy tonight\nThe time that passes, and never comeѕ bаck"
+    }
+  ],
+  "bpm": 99,
+  "tone": "C major",
+  "artistPeople": [
+    "Fani Polymeri",
+    "Yiannis Savvidakis"
+  ],
+  "backings": [
+    "Alexandros Panayi",
+    "Elena Patroklou",
+    "Nassia Trachonitou"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Marios Meletiou"
+  ],
+  "conductor": "Haris Andreadis",
+  "lyricists": [
+    "Efi Meletiou"
+  ],
+  "writers": null,
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Neophytos Taliotis"
+  ],
+  "jury": null,
+  "spokesperson": "Anna Partelidou"
+}

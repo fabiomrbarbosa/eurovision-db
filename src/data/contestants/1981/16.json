@@ -1,0 +1,59 @@
+{
+  "id": 16,
+  "country": "AT",
+  "artist": "Marty Brem",
+  "song": "Wenn du da bist",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/sAYinAsLQZw",
+    "https://www.youtube-nocookie.com/embed/fIZv8U-YN1Q"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Wenn du da bist",
+      "content": "Wenn du fort bist\nUnd all' die Vögel singen doch\nWenn du fort bist\nUnd die Blumen blühen doch\nBin ich einsam\nUnd all' die Menschen um mich her tun\nAls ob nichts geschehen wär'\n\nWenn du fort bist\nHör' ich das Vogelsingen nicht\nWenn du fort bist\nGibt selbst die Sonne trübes Licht\nWas ich tue, es ist alles fad und leer\nDann fehlst du mir so sehr\n\nDoch wenn du da bist\nUnd ich atme deine Nähe\nMir ganz nah bist\nUnd ich in deine Augen sehe\nWenn du da bist\nUnd ich dich in die Arme nehme\nDann vergessen wir die Welt ringsum uns her\n\nWenn du da bist\nSeh' ich die Bäume wieder blühen\nWenn du da bist\nSeh' ich die Blumen wieder blühen\nWenn du da bist\nJa, dann wünsch' ich mir so sehr:\nBitte geh nicht fort, nie mehr\n\nWenn du fort bist\nLaufe ich ohne Ziel umher\nGanz verloren\nFühl' ich mich ausgehöhlt und leer\nWenn du fort bist\nHabe ich keine Pläne mehr\nDann fehlst du mir so sehr\n\nDoch wenn du da bist\nUnd ich atme deine Nähe\nMir ganz nah bist\nUnd ich in deine Augen sehe\nWenn du da bist\nUnd ich dich in die Arme nehme\nDann vergessen wir die Welt ringsum uns her\n\nWenn du da bist\nSeh' ich die Bäume wieder blühen\nWenn du da bist\nSeh' ich die Blumen wieder blühen\nWenn du da bist\nJa, dаnn wünsch' ich mir so ѕehr:\nBitte geh nicht fort, nie mehr"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "When you're here",
+      "content": "When you are gone\nAnd though all the birds are singing\nWhen you are gone\nAnd though the flowers are blooming\nI'm lonely\nAnd all the people around me are behaving\nAs if nothing had happened\n\nWhen you are gone\nI don't hear the birds' song\nWhen you are gone\nThe sun itself shines dimly\nWhatever I do, everything is bland and lost\nThen I miss you so much\n\nBut when you are here\nAnd I breathe close to you\nWhen you are close to me\nAnd I look in the eyes\nWhen you are here\nAnd I take you in my arms\nWe are forgetting the world around us\n\nWhen you are here\nI see the tree blooming again\nWhen you are here\nI see the flowers blooming again\nWhen you are here\nI wish so much:\nPlease never don't go again\n\nWhen you are gone\nI walk around without any aim\nTotally lost\nI feel hollowed and empty\nWhen you are gone\nI have no more plans\nThen I miss you so much\n\nBut when you are here\nAnd I breathe close to you\nWhen you are close to me\nAnd I look in the eyes\nWhen you are here\nAnd I take you in my arms\nWe are forgetting the world around us\n\nWhen you are here\nI see the tree blooming again\nWhen you are here\nI see the flowers blooming again\nWhen you are here\nI wish so much:\nPleaѕe never don't go agаin"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Cuando Estás Allí",
+      "content": "Cuando te vas\nY los pájaros siguen cantando\nCuando te vas\nY las flores siguen floreciendo\nMe siento solo\nY toda la gente a mi alrededor\nActúa como si nada hubiera pasado\n\nCuando te vas\nNo escucho el canto de los pájaros\nCuando te vas\nIncluso el sol brilla con luz opaca\nTodo lo que hago es insípido y vacío\nEntonces te extraño tanta\n\nPero cuando estás aquí\nY respiro tu cercanía\nTan cerca de mí\nY te miro a los ojos\nCuando estás aquí\nY te tengo en mis brazos\nOlvidamos el mundo que nos rodea\n\nCuando estás aquí\nVeo los árboles florecer de nuevo\nCuando estás aquí\nVeo las flores brotar otra vez\nCuando estás aquí, oh\nCuánto deseo\nQue nunca te vayas otra vez\n\nCuando te vas\nCamino sin rumbo fijo\nPerdido por completo\nMe siento hueco y vacío\nCuando te vas\nYa no tengo más planes\nEntonces te extraño (te extraño) tanto (tanto)\n\nPero cuando estás aquí\nY respiro tu cercanía\nTan cerca de mí\nY te miro a los ojos\nCuando estás aquí\nY te tengo en mis brazos\nOlvidamos el mundo que nos rodea\n\nCuando estás aquí\nVeo los árboles florecer de nuevo\nCuando estás aquí\nVeo las flores brotar otra vez\nCuando estás aquí, oh\nCuánto deseo\nQue nunca te vayaѕ otrа vez"
+    }
+  ],
+  "bpm": 91,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Marty Brem"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Richard Österreicher",
+  "lyricists": null,
+  "writers": [
+    "Werner Böhmler"
+  ],
+  "broadcaster": "ORF",
+  "commentators": [
+    "Ernst Grissemann"
+  ],
+  "jury": null,
+  "spokesperson": "Jenny Pippal"
+}

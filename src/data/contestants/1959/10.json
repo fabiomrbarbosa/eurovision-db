@@ -1,0 +1,52 @@
+{
+  "id": 10,
+  "country": "MC",
+  "artist": "Jacques Pills",
+  "song": "Mon ami Pierrot",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/nlynzbLJV0o",
+    "https://www.youtube-nocookie.com/embed/SUWrNSqJFaw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Mon ami Pierrot",
+      "content": "Mon pauvre Pierrot, tu fais le gros dos\nEt ta mine est triste comme ta vie d'artiste\nOn ne t'aime plus, tes chansons d'amour\nSont trop ingénues, laisse là tes habits de velours\n\nLe public, d'un bravo, décida de ton sort\nFaut tirer le rideau sur ta vie\nFini la comédie, ton théâtre est bien mort\nEt ton chant s'est enfui dans la nuit\n\nMon pauvre Pierrot, mon ami Pierrot\nDe tant d'infortune au clair de la lune\nMon ami Pierrot qui n'a que deux mots\nJ'aimais bien ta plume, même quand elle n'était qu'un sanglot\n\nSi les temps ont changé, arlequin démodé\nMoi, je suis pour toujours ton ami\nCar tu as enchanté mes plus belles années\nC'est pourquoi je te dis aujourd'hui\n\nMon ami Pierrot qui fait le gros dos\nQui n'a plus de scène\nViens chanter tes amourѕ et tа peine\nAvec moi"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "My friend Pierrot",
+      "content": "My poor Pierrot, you make your bow\nAnd your face is sad like your life of an artist\nYou're not loved anymore, your love songs\nAre too innocent, leave your velvet clothes behind\n\nThe public, with a cheer, decided your fate\nMust drag the curtain over your life\nThe comedy has finished, your theatre is dead\nAnd your song ran away in the night\n\nMy poor Pierrot, my friend Pierrot\nAbout so much bad luck in the moonlight\nMy friend Pierrot, a man of few words\nI really loved your writing, even when it was nothing but a sigh\n\nIf times have changed, old-fashioned harlequin\nI'm forever your friend\nAs you have enchanted my most lovely years\nThat's why I tell you today\n\nMy friend Pierrot who makes his bow\nWho quits the scene\nCome and sing about your loveѕ аnd your grief\nWith me"
+    }
+  ],
+  "bpm": 143,
+  "tone": "E minor",
+  "artistPeople": [
+    "René Jacques Ducos"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Florence Veran"
+  ],
+  "conductor": "Franck Pourcel",
+  "lyricists": [
+    "Raymond Bravard"
+  ],
+  "writers": null,
+  "broadcaster": "TMC",
+  "commentators": [
+    "Claude Darget"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

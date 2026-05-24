@@ -1,0 +1,70 @@
+{
+  "id": 7,
+  "country": "IL",
+  "artist": "Liora",
+  "song": "Amen",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Gui9JWHsv-M",
+    "https://www.youtube-nocookie.com/embed/6DLEBZL4g8s",
+    "https://www.youtube-nocookie.com/embed/-hO4PczqJH8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": [
+        "ivrit"
+      ],
+      "title": "Amen",
+      "content": "Amen, Amen\n\nBitfila, Amen\nShe'ola, Amen\nKol hanshama tehalel Ya\nAmen\n\nVeten birkat shalom ushmor al beiteinu\nKarev otanu lachalom shebetocheinu\nTen tamid bracha bema'ase yadeinu\nPtach libeinu shetamid nashir lecha\n\nElohai, Amen\nTikvotai, Amen\nAtof otanu be'ahava\nAmen\n\nTen lanu chaim ushmor aleinu\nTen shetitgashem ahavateinu\nTen lanu bracha, ha'er paneinu\nPtach libeinu shetamid nashir lecha\n\nLa'olam, Amen\nLechulam, Amen\nChazek et ruach ha'adam\nAmen\n\nBitfila, Amen\nLashalom, Amen\nKol hanshama tehalel Ya\nAmen\n\nKol hanѕhama tehalel Yа\nAmen"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": [
+        "עברית"
+      ],
+      "title": "אמן",
+      "content": "אמן, אמן\n\nבתפילה, אמן\nשעולה, אמן\n'כל הנשמה תהלל יה\nאמן\n\nותן ברכת שלום ושמור על ביתנו\nקרב אותנו לחלום שבתוכנו\nתן תמיד ברכה במעשה ידנו\nפתח ליבנו שתמיד נשיר לך\n\nאלוהיי, אמן\nתקוותיי, אמן\nעטוף אותנו באהבה\nאמן\n\nתן לנו חיים ושמור עלינו\nתן שתתגשם אהבתנו\nתן לנו ברכה, האר פנינו\nפתח ליבנו שתמיד נשיר לך\n\nלעולם, אמן\nלכולם, אמן\nחזק את רוח האדם\nאמן\n\nבתפילה, אמן\nלשלום, אמן\n'כל הנשמה תהלל יה\nאמן\n\n'כל הנשמה תהלל יה\nאמן"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Amen",
+      "content": "Amen, Amen\n\nIn a prayer, Amen\nThat rises, Amen\nThe whole soul will praise God\nAmen\n\nAnd give a peace greeting and guard our homes\nBring us closer to the dream that is inside us\nGive us always a blessing in the things that we do\nOpen our hearts so that we always sing to you\n\nMy God, Amen\nMy hopes, Amen\nWrap us with love\nAmen\n\nGive us life and guard us\nLet our love be fulfilled\nGive us a blessing, light our faces\nOpen our hearts so that we always sing to you\n\nTo the world, Amen\nTo everyone, Amen\nStrengthen the human spirit\nAmen\n\nIn a prayer, Amen\nFor peace, Amen\nThe whole soul will praise God\nAmen\n\nThe whole soul will prаiѕe God\nAmen"
+    }
+  ],
+  "bpm": 163,
+  "tone": "B major",
+  "artistPeople": [
+    "Liora Simone Fadlon"
+  ],
+  "backings": [
+    "Avivit Cohen Dahan",
+    "Ayelet Shefi",
+    "Doron Karni",
+    "Guy Fridman",
+    "Nurit Fadlon"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Moshe Datz"
+  ],
+  "conductor": "Gadi Goldman",
+  "lyricists": [
+    "Hamutal Ben Zeev"
+  ],
+  "writers": null,
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Daniel Pe'er"
+}

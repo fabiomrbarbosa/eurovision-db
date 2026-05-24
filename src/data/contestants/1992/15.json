@@ -1,0 +1,59 @@
+{
+  "id": 15,
+  "country": "DE",
+  "artist": "Wind",
+  "song": "Träume sind für alle da",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/6py727DzyPQ",
+    "https://www.youtube-nocookie.com/embed/Mb8lKur2VGk",
+    "https://www.youtube-nocookie.com/embed/KG_-8J6YKS8",
+    "https://www.youtube-nocookie.com/embed/BOik9EKABwg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Träume sind für alle da",
+      "content": "Siehst du dort das junge Mädchen\nAuf dem Bahnsteig stehn?\nSie glaubt, einer von den Zügen\nWird in die Freiheit gehn\nUnd der Mann, der seinen Job verlor\nTräumt, dass er's allen zeigt\nWie Phönix aus der Asche steigt\n\nTräume sind für alle da\nGlaub daran und halt sie fest\nMit Herz, mit Leib und Seele\nMorgen ist ein neuer Tag\nKämpf um deine Träume\nDann werden sie auch wahr\n\nDort der Alte, der mal reich war\nSchläft heut unter Brücken ein\nEine Frau denkt an ein Kind\nUnd merkt nicht, dass sie weint\nDer Junge, der ganz einfach fortläuft\nMit unbekanntem Ziel\nSie alle haben Sehnsucht nach Gefühl\n\nTräume sind für alle da\nGlaub daran und halt sie fest\nMit Herz, mit Leib und Seele\nMorgen ist ein neuer Tag\nKämpf um deine Träume\nDann werden sie auch wahr\n\nEs ist niemals ganz zu spät, es ist niemals ganz vorbei\nManchmal kann ein Traum ein neuer Anfang sein\n\nTräume sind für alle da (Träume sind für alle da)\nGlaub daran und halt sie fest\nMit Herz, mit Leib und Seele\nMorgen ist ein neuer Tag (Morgen ist ein neuer Tag)\nKämpf um deine Träume\nDann werden ѕie auch wаhr"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Dreams are there for everyone",
+      "content": "Do you see the young girl\nOn the platform over there?\nShe thinks that one of the trains\nWill lead to freedom\nAnd a man who lost his job\nDreams of showing everyone\nThat he rises like a phoenix from the ashes\n\nDreams are there for everyone\nBelieve in them and hold them tight\nWith heart, with body and soul\nTomorrow is a new day\nFight for your dreams\nThen they will come true\n\nThe old man over there who once was rich\nNow falls asleep under bridges\nA woman thinks about a child\nAnd doesn't realise that she's crying\nThe boy who is running away\nWith an unknown destination\nThey're all yearning for feelings\n\nDreams are there for everyone\nBelieve in them and hold them tight\nWith heart, with body and your soul\nTomorrow is a new day\nFight for your dreams\nThen they will come true\n\nIt's never really too late, it's never really over\nSometimes a dream can be a new beginning\n\nDreams are there for everyone (Dreams are there for everyone)\nBelieve in them and hold them tight\nWith heart, with body and your soul\nTomorrow is a new day (Tomorrow is a new day)\nFight for your dreаmѕ\nThen they will come true"
+    }
+  ],
+  "bpm": 148,
+  "tone": "F major",
+  "artistPeople": [
+    "Albert Oberloher",
+    "Oliver Hahn",
+    "Petra Scheeser",
+    "Sami Kalifa",
+    "Stefan Erz",
+    "Tina Hierstetter"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ralph Siegel"
+  ],
+  "conductor": "Norbert Daum",
+  "lyricists": [
+    "Gunter Johansen"
+  ],
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Jan Hofer"
+  ],
+  "jury": null,
+  "spokesperson": "Carmen Nebel"
+}

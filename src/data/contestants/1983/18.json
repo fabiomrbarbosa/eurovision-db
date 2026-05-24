@@ -1,0 +1,61 @@
+{
+  "id": 18,
+  "country": "TR",
+  "artist": "Çetin Alp and the Short Wave",
+  "song": "Opera",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vm3_9RVDk2U",
+    "https://www.youtube-nocookie.com/embed/-q4iC8KT490",
+    "https://www.youtube-nocookie.com/embed/9fGfXAYvGlI",
+    "https://www.youtube-nocookie.com/embed/CbyqI9QK7Jk",
+    "https://www.youtube-nocookie.com/embed/KIpjXAljpCs"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "turkish"
+      ],
+      "displayedLanguages": null,
+      "title": "Opera",
+      "content": "İşte opera, heyecan fırtınası\nCoşar ruhumda, duyarım sönmez o aşkı\n\nBaleli aşk dolu, müzikli oyunlar\nUvertür, trio, duetto, korolar\nSaraydan kız kaçırma, ölmez La Traviata\n\nOpera, opera, opera, opera, opera\nOpera, opera, opera, opera, Carmen, Aida\nOpera, opera, bu gece operalarda\nTosca, Figaro, Fidelio var, coşkun aryalar\n\nLay lay la lay lay lay la lay la lay…\n(Opera, opera, opera, opera, opera)\nLay lay la lay lay lay la lay la lay…\n(Opera, opera, opera, opera), Carmen, Aida\nOpera, opera, bu gece operalarda\nTosca, Figaro, Fidelio var, coşkun aryalar\n\nİşte opera, Wagner ve Puccini\nMozart, Rossini, Verdi'nin ölmez eseri\n\nBaleli aşk dolu, müzikli oyunlar\nUvertür, trio, duetto, korolar\nSaraydan kız kaçırma, ölmez La Traviata\nÖlmez aѕlа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Opera",
+      "content": "That's opera, storm of excitement\nI feel it so strongly, this love should never end\n\nBallet, with music full of love\nOverture, trio, duet, choirs\nThe Abduction from the Seraglio, La Traviata will not die\n\nOpera, opera, opera, opera, opera\nOpera, opera, opera, opera, Carmen, Aida\nOpera, opera, tonight at the opera they play\nTosca, Figaro and Fidelio, exciting arias\n\nLay lay la lay lay lay la lay la lay…\n(Opera, opera, opera, opera, opera)\nLay lay la lay lay lay la lay la lay…\n(Opera, opera, opera, opera), Carmen, Aida\nOpera, opera, tonight at the opera they play\nTosca, Figaro and Fidelio, exciting arias\n\nThis is opera, Wagner and Puccini\nMozart, Rossini, the works of Verdi will remain forever\n\nBallet, with music full of love\nOverture, trio, duet, choirѕ\nThe Abduction from the Seraglio, La Traviatа will not die\nWill never die"
+    }
+  ],
+  "bpm": 91,
+  "tone": "D major",
+  "artistPeople": [
+    "Çetin Alp"
+  ],
+  "backings": [
+    "Ali Uyar",
+    "Bisan Yorulmaz",
+    "Gül Aktuğ",
+    "Recep Aktuğ",
+    "Sema Uğur"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Buğra Uğur"
+  ],
+  "conductor": "Buğra Uğur",
+  "lyricists": [
+    "Aysel Gürel"
+  ],
+  "writers": null,
+  "broadcaster": "TRT",
+  "commentators": [
+    "Başak Doğru"
+  ],
+  "jury": null,
+  "spokesperson": "Fatih Orbay"
+}

@@ -1,0 +1,42 @@
+{
+  "id": 12,
+  "country": "EE",
+  "artist": "Uku Suviste",
+  "song": "What Love Is",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/z4I3vvQzQ-E",
+    "https://www.youtube-nocookie.com/embed/3EIQ6U039ms",
+    "https://www.youtube-nocookie.com/embed/hZF9wlYS6wI",
+    "https://www.youtube-nocookie.com/embed/oK9fMKvsx2s"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "What Love Is",
+      "content": "How mysterious this life can be\nFull of beautiful surprises\nI never really knew the man I thought was me\n\nDreams that I believed\nConvinced my destiny\nI was meant to be alone\n\nBut how can you know how a star looks\nIf you've never looked at the sky\nI couldn't have told you what blue is\nTill I looked into your eyes,\nOr how soft the feel of a cloud is\n'Till I was touching your skin\nThe world is a wonder of wonders I'd never seen\n\nI never imagined the power\nI never imagined the need\nI never imagined what love is\nNow love is all I dream\nHow wonderful was the awakening\nNow everything is the sunrise\nPainted in sounds of your breathing\nColored by your signs\nI never knew\nWhat it was to - love\n\nMuch too sensible too reasonable\nEver to believe in miracles\n\nBut now you've come to me\nChanged my destiny\nI'll never be alone\n\nI never imagined the power\nI never imagined the need\nI never imagined what love is\nNow love is all I dream\n\nI never imagined the power\nI never imagined the need\nI never imagined what love is\nNow love is all I dream\n\nI never imagined the power\nI never knew\nWhat it wаѕ to - love"
+    }
+  ],
+  "bpm": 83,
+  "tone": "A minor",
+  "artistPeople": [
+    "Uku Suviste"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Sharon Vaughn",
+    "Uku Suviste"
+  ],
+  "broadcaster": "ERR",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

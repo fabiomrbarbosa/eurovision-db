@@ -1,0 +1,52 @@
+{
+  "id": 14,
+  "country": "NO",
+  "artist": "Odd Børre",
+  "song": "Stress",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/rLX2diZZ5TY",
+    "https://www.youtube-nocookie.com/embed/ZCH-kDR0xzo"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "norwegian"
+      ],
+      "displayedLanguages": null,
+      "title": "Stress",
+      "content": "Må… må… må… må… må… må skynde meg å\nGå… gå… gå… gå… gå… gå slik at jeg kan\nNå… nå… nå… nå… nå siste bussen hjem\n\nHa… ha… ha… ha… ha… ha… ha det riktig\nBra… bra… bra… bra… bra… bra, ikke glem å\nTa… ta… ta… ta… ta sovemedisin\n\nSmå doser er bra, må slappe litt av\nSkru på din radio, du har jo sov-i-ro\n\nRi… ri… ri… ri… ri… ri… ringes ved når\nVi… vi… vi… vi… vi… vi får litt bedre\nTid… tid… tid… tid… tid, siste bussen går\n\nMen én gang, kanskje neste år\nSkal vi få tid til alle ting\nÉn gang, kanskje neste år\nTa alt med ro, bare rusle omkring\n\nMa… ma… ma… ma… ma… ma… mange flere\nSa… sa… sa… sa… sa… sa… saker jeg sku'\nPra… pra… pra… pra… pra… pratet med deg om\n\nMen… men… men… men… men… men alt de der må\nVen… ven… ven… ven… vente til vi ses i-\nGjen… gjen… gjen… gjen… gjen, siste bussen går\n\nPrøv meditasjon, prøv te med sitron\nTa deg en liten drink, ja, du må være flink\n\nMå… må… må… må… må… må skynde meg å\nGå… gå… gå… gå… gå… gå slik at jeg kаn\nNå… nå… nå… nå… nå siste busѕen hjem"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Stress",
+      "content": "Must… must… must… must… must… must hurry up and\nGo… go… go… go… go… go so that I can\nCatch… catch… catch… catch… catch the last bus home\n\nHave… have… have… have… have… have…  have a\nNice… nice… nice… nice… nice… nice day, don't forget to\nTake… take… take… take… take sleeping pills\n\nSmall doses are good, must relax a little\nTurn on your radio, you do have ear plugs\n\nBe… be… be… be… be… be… be in touch when\nWe… we… we… we… we… we get some more\nTime… time… time… time… time, the last bus is about to leave\n\nBut sometime, maybe next year\nWe will have time for everything\nSometime, maybe next year\nJust relax, walk about\n\nMa… ma… ma… ma… ma… ma…  many more\nThings… things… things… things… things… things… things I should've\nChat… chat… chat… chat… chat… chatted with you about\n\nBut… but… but… but… but… but all that will have to\nWait… wait… wait… wait… wait until I see you a-\nGain… gain… gain… gain… gain, the last bus is about to leave\n\nTry meditation, try tea with lemon\nTake a small drink, yes, you must be good\n\nMust… must… must… must… must… must hurry up and\nGo… go… go… go… go… go so that I can\nCatch… catch… catch… catch… catch the lаst buѕ home"
+    }
+  ],
+  "bpm": 178,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Odd Børre Sørensen"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Tor Hultin"
+  ],
+  "conductor": "Øivind Bergh",
+  "lyricists": [
+    "Ola B. Johannessen"
+  ],
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "Roald Øyen"
+  ],
+  "jury": null,
+  "spokesperson": "Sverre Christophersen"
+}

@@ -1,0 +1,67 @@
+{
+  "id": 16,
+  "country": "AZ",
+  "artist": "Samra",
+  "song": "Miracle",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/cB8eSLyffsI",
+    "https://www.youtube-nocookie.com/embed/Dix6XJ_Uo-w",
+    "https://www.youtube-nocookie.com/embed/fmaRaN0MbbI",
+    "https://www.youtube-nocookie.com/embed/3xDd70HvDvc",
+    "https://www.youtube-nocookie.com/embed/vgAF2qQB_rg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Miracle",
+      "content": "You got in my head, boy, like a song\nThat I kept on singing, all along\nBut the radio stopped to play us long ago, long ago\n\nGuess I've had enough, boy, guess I'm done\nLike a burning fire, now it's gone\nThought I saw myself in you,  I made a mistake, there's nothing to say\nI'm walking away\n\nGonna take a miracle, oh oh\nGonna take a miracle to heal this love\nBaby I won't stay another night\nThis time I say goodbye, I'm letting you go\n\nGonna take a miracle, oh oh\n\nIt was a one way road for you and I\nYeah, we built this castle based on lies\nAnd now we have hit the point of no return\nWe crash and we burn, you live and you learn\n\nGonna take a miracle, oh oh\nGonna take a miracle to heal this love\nBaby I won't stay another night\nThis time I say goodbye, I'm letting you go\n\nGonna take a miracle, oh oh\nGonna take a miracle to save us now\nAnd I won't pretend to be alright\nMy heart is on the line, our end is my start\n\n(Mira-mira-miracle)\nHey (Mira-mira-mira)\nMira-mira-miracle\n\n(Gonna take a miracle)\n(Mira-mira-miracle)\nOoh… (Mira-mira-mira)\nMira-mira-miracle\n\nOh, gonna take a miracle, oh…\nGonna take a miracle to save us now\nGonna take a mira-mira-miracle, mira-mira-mira\nMira-mira-miracle to sаve uѕ now"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "azerbaijani"
+      ],
+      "displayedLanguages": null,
+      "title": "Möcüze",
+      "content": "Zehnimde bir mahni kimi dolanirsan\nEvvelinden oxumaqa calishdiqim kimi\nAmma radio'da bu mahni uzun bir müddet evvel kesilmisdi\nUzun bir müddet evvel\n\nYeteri qeder yashamisam\nAmma Indi bitdi yanan bir qush kimi Getdi\nDeyilecek bir sözüm yoxdu gedirem\nSende özümü tapdiqimi düsünmüsdüm\n\nBir möcüze olacaq\nBu sevgini davam etdirmek üçün bir möcüze olacaq\nBu gece men gedirem\nSeni terk edirem\nElvida demek növbesi mendedi\nBir möcüze olacaq\n\nBizim sonuncu yolumuzda\nYalanlardan ibaret qala insha etdin\nIndi ise sonu olmayan bir yoldayiq\nYaniriq ve çökürük\nYashayacayiq ve ögreneceyik\n\nBir möcüze olacaq\nBu sevgini davam etdirmek üçün bir möcüze olacaq\nBu gece men gedirem\nSeni terk edirem\nElvida demek növbesi mendedi\nBir möcüze olacaq\n\nBir möcüze olacaq\nBizi saxlamaq üçün\nBir möcüze olacaq\nVe men özumu yaxsi göstermeyecem\nBizim sonumuz men bashlanqicim olacaq\n\nBir möcüze olacaq\nBu sevgini davam etdirmek üçün bir möcüze olacaq\nBu gece men gedirem\nSeni terk edirem\nElvida demek növbesi mendedi\nBir möcüze olacaq\n\nBir möcüze olacaq\nBu\nBizi ѕaxlamaq üçün bir möcüze olacаq"
+    }
+  ],
+  "bpm": 96,
+  "tone": "F minor",
+  "artistPeople": [
+    "Samra Rahimli (Səmra Rəhimli)"
+  ],
+  "backings": [
+    "Dea Norberg",
+    "Jessica Marberger",
+    "Lars Säfsund",
+    "Patrik Riber",
+    "Zain Odelstål"
+  ],
+  "dancers": null,
+  "stageDirector": "Roine Söderlundh",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Amir Aly",
+    "Henrik Wikström",
+    "Jakke Erixson"
+  ],
+  "broadcaster": "İctimai",
+  "commentators": [
+    "Azer Suleymanli"
+  ],
+  "jury": [
+    "Ayyub Guliyev",
+    "Brilliant Dadashova",
+    "Farid Aliyev",
+    "Gulchohra Shafiyeva",
+    "Tarana Huseyn Muradova"
+  ],
+  "spokesperson": "Tural Asadov"
+}

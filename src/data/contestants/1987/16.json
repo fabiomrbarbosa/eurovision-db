@@ -1,0 +1,54 @@
+{
+  "id": 16,
+  "country": "CH",
+  "artist": "Carole Rich",
+  "song": "Moitié moitié",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/PxuiJNAkhOo",
+    "https://www.youtube-nocookie.com/embed/KOA5bsQt_N0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Moitié moitié",
+      "content": "Le monde est une balançoire interdite aux enfants\nPlus tu fais monter d'un côté\nEt plus l'autre descend\nEn haut c'est la vie en bleu\nEn bas c'est les larmes aux yeux\nNi beaucoup, ni trop peu\nFaudrait le juste milieu\n\nLe monde est comme un sablier implacable et stupide\nEt ça se remplit d'un côté et plus l'autre se vide\nEn bas c'est plein à craquer\nEn haut plus rien à donner\nTant de choses à changer\nFaudra faire moitié, moitié\n\nL'amour c'est moitié, moitié\nToujours faire moitié, moitié\nBonheur qu'on partage\nMet le malheur en cage\nL'amour c'est moitié, moitié\nToujours faire moitié, moitié\nTout le bien que l'on donne\nC'est le mal qu'on emprisonne\n\nMais quelque part d'un avion fou s'écrase en plein désert\nEt c'est le livre d'une vie qui redevient poussière\nL'ange du hasard a frappé\nLe génie s'est envolé\nSon message est resté\nOn va faire moitié, moitié\n\nL'amour c'est moitié, moitié\nToujours faire moitié, moitié\nBonheur qu'on partage\nMet le malheur en cage\nL'amour c'est moitié, moitié\nToujours faire moitié, moitié\nTout le bien que l'on donne\nC'est le mal qu'on emprisonne\n\nL'amour c'est moitié, moitié\nToujours faire moitié, moitié\nBonheur qu'on partage\nMet le malheur en cage\nL'amour c'est moitié, moitié\nToujours faire moitié, moitié\nTout le bien que l'on donne\nC'est le mаl qu'on empriѕonne"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Half and half",
+      "content": "The world is like a swing forbidden to children\nThe more one side goes up\nThe more the other side goes down\nAbove it's blue skies\nBelow it's tears in your eyes\nNot too much, not too little\nThere must be a middle way\n\nThe world is like an unforgiving stupid hour glass\nThe more one half fills the more the other empties\nBelow it's ready to burst\nAbove nothing more to give\nSo many things to change\nMake it half and half\n\nLove is half and half\nAlways make it half and half\nSharing happiness\nImprisons misfortune\nLove is half and half\nAlways make it half and half\nAll the good which you give\nImprisons the bad\n\nBut somewhere an errant plane crashes in the desert\nAnd the book of life returns to dust\nThe angel of fortune has struck\nThe spirit has fled\nThe message remains\nWe are going to make it half and half\n\nLove is half and half\nAlways make it half and half\nSharing happiness\nImprisons misfortune\nLove is half and half\nAlways make it half and half\nAll the good which you give\nImprisons the bad\n\nLove is half and half\nAlways make it half and half\nSharing happiness\nImprisons misfortune\nLove is half and half\nAlways make it half and half\nAll the good which you give\nImprisonѕ the bаd"
+    }
+  ],
+  "bpm": 150,
+  "tone": "F# major",
+  "artistPeople": [
+    "Carol Rich"
+  ],
+  "backings": [
+    "Jean-Jacques Egli"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Jean-Jacques Egli"
+  ],
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Bernard Thurnheer",
+    "Ezio Guidi",
+    "Serge Moisson"
+  ],
+  "jury": null,
+  "spokesperson": "Michel Stocker"
+}

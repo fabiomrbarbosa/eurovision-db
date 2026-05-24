@@ -1,0 +1,59 @@
+{
+  "id": 8,
+  "country": "NL",
+  "artist": "Corry Brokken",
+  "song": "Voorgoed voorbij",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/jI4_Z-OCev4",
+    "https://www.youtube-nocookie.com/embed/KG1EvBEr7Yc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "Voorgoed voorbij",
+      "content": "Voorgoed voorbij\nNu zijn we nooit meer samen\nM'n lieveling\nWat heb ik jou gedaan?\n\nVoorgoed voorbij\nGesloten zijn je ramen\nMaar net als toen\nZie ik viooltjes staan\n\nDe hele wereld geurt\nDe lentebloesem kleurt\nAch, waarom is er ieder jaar een nieuwe mei?\nDat is voor mij voorgoed voorbij\nDe lente van mijn leven\nDat lachend getij\n'T Is alles voorbij\n\nVoor jou was het maar spel\nIk weet heel goed\nJe hebt het niet anders bedoeld\nMaar ik, ik meende 't wel\n'K Heb het maar al te diep gevoeld\n\nDe hele wereld geurt\nDe lentebloesem kleurt\nAch, waarom is er ieder jaar een nieuwe mei?\nDat is voor mij voorgoed voorbij\nDe lente van mijn leven\nDat lachend getij\n'T Is аlleѕ voorbij"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Over for good",
+      "content": "Over for good\nNow we'll never be together again\nMy darling\nWhat have I done to you?\n\nOver for good\nYour windows are closed\nBut just like then\nI still see violets\n\nThe whole world smells good\nThe spring-flower is colouring\nAh, why is there every year a new May?\nFor me, it's over forever\nThe spring of my life\nThat season of mirth\nIt's all over\n\nFor you it was just a game\nI know very well that\nYou didn't mean it that way\nBut me, I did mean it\nI felt it very deeply\n\nThe whole world smells good\nThe spring-flower is colouring\nAh, why is there every year a new May?\nFor me, it's over forever\nThe spring of my life\nThat season of mirth\nIt'ѕ аll over"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Ушла навсегда",
+      "content": "Ушла навсегда\nТеперь мы никогда больше не будем вместе\nМой дорогой\nЧто я сделала с тобой?\n\nУшла навсегда\nЗакрыла твои окна\nНо как и тогда\nЯ вижу фиалки\n\nВесь мир благоухает\nКраски весеннего цветения\nАх, почему каждый год наступает новый май?\nДля меня он исчез навсегда\nВесна моей жизни\nУлыбчивый прилив\nВсе кончено\n\nДля тебя это была лишь игра\nЯ прекрасно знаю\nТы не хотел по-другому\nНо я, я имела это в виду\nЯ чувствовала это слишком глубоко\n\nВесь мир благоухает\nКраски весеннего цветения\nАх, почему каждый год наступает новый май?\nДля меня он исчез навсегда\nВесна моей жизни\nУлыбчивый прилив\nВсе кончено"
+    }
+  ],
+  "bpm": 128,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Corry Brokken"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Fernando Paggi",
+  "lyricists": null,
+  "writers": [
+    "Jelle de Vries"
+  ],
+  "broadcaster": "NTS",
+  "commentators": [
+    "Piet te Nuyl Jr."
+  ],
+  "jury": null,
+  "spokesperson": null
+}

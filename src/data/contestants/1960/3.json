@@ -1,0 +1,55 @@
+{
+  "id": 3,
+  "country": "NO",
+  "artist": "Nora Brockstedt",
+  "song": "Voi-voi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/gvPieP0mys4",
+    "https://www.youtube-nocookie.com/embed/KRia5ImfBG8",
+    "https://www.youtube-nocookie.com/embed/4W_1ri5DJKI",
+    "https://www.youtube-nocookie.com/embed/ZwNqLdRhsOM",
+    "https://www.youtube-nocookie.com/embed/lkqtp47lKHo",
+    "https://www.youtube-nocookie.com/embed/NUbKo2NkPoc",
+    "https://www.youtube-nocookie.com/embed/4o7LDNJqYA4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "norwegian"
+      ],
+      "displayedLanguages": null,
+      "title": "Voi-voi",
+      "content": "I en liten dal, langt mot nord\nDer hvor solen lyser natten lang\nI en liten dal, langt mot nord\nHørte jeg en samepike sang\n\nSangen var visst kommet med en vind\nSønnenvinden tok den over havet\nPiken var så lys og lett i sinn\nOg rytme fikk hun visst i vuggegave\n\nI en liten dal, glad som få\nHørte jeg en sang som lød som så:\n\nVoi voi, høyt opp i fjellet\nHører du denne hilsen fra meg?\nVoi voi, jeg vil fortelle at jeg venter på deg\nVoi voi, tiden står stille\nNår jeg venter på kjæresten min\nVoi voi, skjebnen vår ville at jeg skulle bli din\n\nVoi voi, om noen dager er det lørdag, du vet\nVoi voi, da vil en fager drøm bli virkelighet\nVoi, snart vil du komme ned til dalen og kjæresten din\nVoi voi, uken er omme, lørdagskvelden blir fin\nLørdagskvelden blir fin\n\nVoi voi, om noen dager er det lørdag, du vet\nVoi voi, da vil en fager drøm bli virkelighet\nVoi, snart vil du komme ned til dalen og kjæresten din\nVoi voi, uken er omme, lørdagskvelden blir fin\nLørdagskvelden blir fin, lørdаgѕkvelden blir fin\n\nVoi voi"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Voi-voi",
+      "content": "In a little valley, far up North\nWhere the sun shines all night long\nIn a little valley, way up North\nI heard a Sami girl sing\n\nIt seems the song arrived on a wind\nThe wind from the south brought it over the sea\nThe girl was so fair and light at heart\nAnd rhythm was her gift at the cradle\n\nIn a little valley, happy as few others were\nI heard a song that went like this:\n\nVoi voi, way up in the mountains\nCan you hear this greeting from me\nVoi voi, I want to tell you that I'm waiting for you\nVoi voi, time is standing still\nWhen I'm waiting for my sweetheart\nVoi voi, our fate was that I were to be yours\n\nVoi voi, in a few days it will be Saturday you know\nVoi voi, then a wonderful dream will become reality\nVoi, soon you'll come down to the valley and your sweetheart\nVoi voi, the week is over, saturday night will be nice\nSaturday night will be nice\n\nVoi voi, in a few days it will be Saturday you know\nVoi voi, then a beautiful dream will become reality\nVoi, soon you'll come down to the valley and your sweetheart\nVoi voi, the week is over, saturday night will be nice\nSaturday night will be nice, ѕaturdаy night will be nice\n\nVoi voi"
+    }
+  ],
+  "bpm": 155,
+  "tone": "C minor",
+  "artistPeople": [
+    "Nora Brockstedt"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Øivind Bergh",
+  "lyricists": null,
+  "writers": [
+    "Georg Elgaaen"
+  ],
+  "broadcaster": "NRK",
+  "commentators": [
+    "Erik Diesen"
+  ],
+  "jury": null,
+  "spokesperson": "Kari Borg Mannsåker"
+}

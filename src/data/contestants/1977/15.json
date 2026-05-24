@@ -1,0 +1,67 @@
+{
+  "id": 15,
+  "country": "LU",
+  "artist": "Anne Marie B.",
+  "song": "Frère Jacques",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Saa19OzePr4",
+    "https://www.youtube-nocookie.com/embed/IynMAOyN9LI",
+    "https://www.youtube-nocookie.com/embed/BpR9KNEpWf0",
+    "https://www.youtube-nocookie.com/embed/Ms2LIfT9NRQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Frère Jacques",
+      "content": "(Frère Jacques, Frère Jacques)\n(Dormez-vous? Dormez-vous?)\nFrère Jacques, Frère Jacques\nRéveille-toi, réveille-toi\n\nTu aurais bien mieux à faire\nQue de jouer au grand frère\nJe ne suis plus une enfant, tu sais\nIl a grandi mon corsage\nEt j'enrage d'être sage\nQuand tes amis veulent m'embrasser\n\nPeter - j'ai peur, Harry - j'en ris\nPablo, Tino, Pedro - zéro\nSimon - oh non, William - le drame\nJe crie, je mords, et toi tu dors\nHarold me frôle, et Pierre me serre\nEric, Patrick - c'est la panique\nFrère Jacques, sauve-moi\n\n(Frère Jacques) Dans mes rêves\n(Frère Jacques) Tu m'enlèves\n(Dormez-vous?) Dans ma nuit\n(Dormez-vous?) Tu me fuis\n\nSans toi, je me ferais nonne\nJ'entends les cloches qui sonnent\nC'est mon cœur qui bat quand je t'attends\nJ'ai mis du rouge à mes lèvres\nEt du parfum à ma fièvre\nMais surtout ne dors pas trop longtemps\n\nMmm… mmm…\n\n(Frère Jacques) Frère Jacques\n(Frère Jacques) Frère Jacques\n(Dormez-vous?) Réveille-toi\n(Dormez-vous?) Réveille-toi\n\n(Frère Jacques) Frère Jacques\n(Frère Jacques) Frère Jacques\nRéveille-toi, et vienѕ dormir аvec moi"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Brother John",
+      "content": "(Brother John, Brother John)\n(Are you sleeping? Are you sleeping?)\nBrother John, Brother John\nWake up, wake up\n\nThere is so much better to do\nThan playing my big brother\nI'm not a child anymore, you know\nMy little body has grown\nAnd I enrage to be a good girl\nWhen your friends want to kiss me\n\nPeter - I'm scared, Harry - I laugh\nPablo, Tino, Pedro - zero\nSimon - oh no, William - what a drama\nI shout, I bite and you sleep\nHarold passes very close to me, and Pierre tightens me\nEric, Patrick - it's the panic\nBrother John, save me\n\n(Brother John) In my dreams\n(Brother John) You take me with you\n(Are you sleeping?) In my night\n(Are you sleeping?) You flee me\n\nWithout you, I'd become a nun\nI can hear the bells ringing\nIt's my heartbeat when I wait for you\nI've put some red on my lips\nAnd perfume on my fever\nBut most of all, don't sleep too long\n\nMmm… mmm…\n\n(Brother John) Brother John\n(Brother John) Brother John\n(Are you sleeping?) Wake up\n(Are you sleeping?) Wake up\n\n(Brother John) Brother John\n(Brother John) Brother John\nWake up, аnd come ѕleep with me"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Irmão Jacques",
+      "content": "(Irmão Jacques, Irmão Jacques)\n(Você está dormindo? Você está dormindo?)\nIrmão Jacques, Irmão Jacques\nAcorde, acorde\n\nVocê teria coisas melhores para fazer\nDo que brincar de irmão mais velho\nEu não sou mais uma criança, você sabe\nO meu corpo pequeno cresceu\nE me enraiveço de ser uma boa menina\nQuando seus amigos querem me beijar\n\nPeter - tenho medo, Harry - eu rio\nPablo, Tino, Pedro - zero\nSimon - oh não, William - que drama\nChoro, mordo, e você dorme\nHarold roça em mim e Pierre me aperta\nEric, Patrick - é o pânico\nIrmão Jacques, sauve-me\n\n(Irmão Jacques) Nos meus sonhos\n(Irmão Jacques) Você me leva consigo\n(Você está dormindo?) Na minha noite\n(Você está dormindo?) Você foge de mim\n\nSem você, irei me fazer freira\nEscuto os relógios que soam\nÉ o meu coração que bate quando te espero\nPassei batom em meus lábios\nE perfume em minha febre\nMas acima de tudo, não durma tanto\n\nMmm… mmm…\n\n(Irmão Jacques) Irmão Jacques\n(Irmão Jacques) Irmão Jacques\n(Você está dormindo?) Acorde\n(Você está dormindo?) Acorde\n\n(Irmão Jacques) Irmão Jacques\n(Irmão Jacques) Irmão Jacqueѕ\nAcorde e venhа dormir comigo"
+    }
+  ],
+  "bpm": 125,
+  "tone": "Bb minor",
+  "artistPeople": [
+    "Anne-Marie Besse"
+  ],
+  "backings": [
+    "Anne Vassiliu",
+    "Annie Chouard",
+    "Chantal Stiruk",
+    "Lilliane Davies"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Johnny Arthey",
+  "lyricists": null,
+  "writers": [
+    "Guy Béart",
+    "Pierre Cour"
+  ],
+  "broadcaster": "CLT",
+  "commentators": [
+    "Jacques Navadic"
+  ],
+  "jury": null,
+  "spokesperson": "Jacques Harvey"
+}

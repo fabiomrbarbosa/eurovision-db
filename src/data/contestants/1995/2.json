@@ -1,0 +1,60 @@
+{
+  "id": 2,
+  "country": "SE",
+  "artist": "Jan Johansen",
+  "song": "Se på mig",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/O6W1bI_nxxc",
+    "https://www.youtube-nocookie.com/embed/ylwWj8i9hJ0",
+    "https://www.youtube-nocookie.com/embed/9EHg07V48TA"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Se på mig",
+      "content": "När din väg är lång och du är trött\nMen du måste ändå gå, mmm…\nOch när skuggorna börjar växa och få liv\nOch när natten skrämmer så\nÄr jag bredvid dig och jag följer varje steg du tar\nOch hos dig stannar jag kvar\n\nSå se på mig, åhå… en hamn i stormen\nSom en våg som fötts att bära dig\nJa, se på mig, åhå… i ljus och mörker\nÄr jag där och aldrig lämnar jag dig\n\nNär du står en dag vid ett vägskäl i ditt liv\nSom ett vilset litet barn\nÄr jag bredvid dig och jag följer varje steg du tar\nOch hos dig stannar jag kvar\n\nSå se på mig, åhå… en hamn i stormen\nSom en våg som fötts att bära dig\nJa, se på mig, åhå… i ljus och mörker\nÄr jag där och aldrig lämnar jag dig\n\nJag går med dig vart du går och aldrig lämnar jag dig\n\nSå se på mig, åhå… en hamn i stormen\nSom en våg, som fötts att älska dig\nJa, se på mig, när ljuset blir till mörker i ditt liv\nÄr jag där och aldrig lämnar jag dig\nÄlskаr dig ѕå"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Look at me",
+      "content": "When your journey is long and you are weary\nBut you still have to go on, mmm…\nAnd when the shadows start to grow and come to life\nAnd when the night scares you so\nI am beside you and I follow every step you take\nAnd with you I'll stay\n\nSo look at me, oho… a haven in the storm\nLike a wave, that is born to carry you\nYes, look at me, oho… in light and darkness\nI'll be there and I'll never leave you\n\nWhen you stand one day at a crossroads of your life\nLike a lost little child\nI am beside you and I follow every step you take\nAnd I'll stay with you\n\nSo look at me, oho… a haven in the storm\nLike a wave, that is born to carry you\nYes, look at me, oho… in light and darkness\nI'll be there and I'll never leave you\n\nI'll go with you wherever you go, and I'll never leave you\n\nSo look at me, oho… a haven in the storm\nLike a wave, that is born to love you\nYes, look at me, when the light turns into darkness in your life\nI'll be there, and I'll never leаve you\nLove you ѕo"
+    }
+  ],
+  "bpm": 136,
+  "tone": "E major",
+  "artistPeople": [
+    "Jan Johansen"
+  ],
+  "backings": [
+    "Elisabeth Melander",
+    "Margareta Nilsson",
+    "Robert Persson",
+    "Staffan Paulsson"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Bobby Ljunggren",
+    "Håkan Almqvist"
+  ],
+  "conductor": "Anders Berglund",
+  "lyricists": [
+    "Ingela Forsman"
+  ],
+  "writers": null,
+  "broadcaster": "SVT",
+  "commentators": [
+    "Kåge Gimtell",
+    "Pernilla Månsson"
+  ],
+  "jury": null,
+  "spokesperson": "Björn Hedman"
+}

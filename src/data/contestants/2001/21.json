@@ -1,0 +1,50 @@
+{
+  "id": 21,
+  "country": "IS",
+  "artist": "TwoTricky",
+  "song": "Angel",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/B6JROajTrIc",
+    "https://www.youtube-nocookie.com/embed/e0CPoh2L_P4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Angel",
+      "content": "(Ooh ooh… nananana…)\nCame flyin' into my life like a shooting star, so open hearted\nThen I was just a joker, but you – the Queen of Hearts, and so we parted\nBut now I feel you closin' in\nYou pick me up and take me there, oh…\n\nAngel – show me a sign\nCome shoot me with your arrow right through this heart of mine\nAngel – show me the way\nI'll walk the straight and narrow, so hit me when I say:\nOh Angel – fly me away, yeah\n\n(Ooh ooh… nananana…)\n\nIf love can be forever, minute or a day, it's no illusion\nI know I'm gonna find you somwhere in the clouds of my confusion\nBut now I see you closin' in\nYou pick me up and take me there, oh…\n\nAngel – show me a sign\nCome shoot me with your arrow right through this heart of mine\nAngel – show me the way\nI'll walk the straight and narrow, so hit me when I say:\nOh Angel – fly me away, yeah\n\n(Ooh ooh… nananana…)\n\nBut now I see you closin' in\nYou pick me up and take me there, oh…\n\nAngel – show me a sign\nCome shoot me with your arrow right through this heart of mine\nAngel – show me the way\nI'll walk the straight and narrow, so hit me when I say:\nAngel (Oh… show my the way)\n\nOh Angel – show me the way\nI'll walk the straight and narrow, so hit me when I ѕay:\nOh Angel – fly me awаy, oh…"
+    }
+  ],
+  "bpm": 92,
+  "tone": "C major",
+  "artistPeople": [
+    "Gunnar Ólafsson",
+    "Kristján Gíslason"
+  ],
+  "backings": [
+    "Margrét Eir Hjartardóttir",
+    "Nanna Jonsdóttir",
+    "Regína Ósk",
+    "Yesmine Olson"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Einar Bárðarson",
+    "Magnús Þór Sigmundsson"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Einar Bárðarson"
+  ],
+  "writers": null,
+  "broadcaster": "RÚV",
+  "commentators": [
+    "Gísli Marteinn Baldursson"
+  ],
+  "jury": null,
+  "spokesperson": "Eva María Jónsdóttir"
+}

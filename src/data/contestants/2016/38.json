@@ -1,0 +1,61 @@
+{
+  "id": 38,
+  "country": "DK",
+  "artist": "Lighthouse X",
+  "song": "Soldiers of Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/jGz12i-wGd0",
+    "https://www.youtube-nocookie.com/embed/Zlm0b9AI3rk",
+    "https://www.youtube-nocookie.com/embed/abiss5VZn14",
+    "https://www.youtube-nocookie.com/embed/LwbH4pX0G4E",
+    "https://www.youtube-nocookie.com/embed/2tRyFX7kJQo"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Soldiers of Love",
+      "content": "Tell me why we always fuel the fire\nwhy we tend to close our eyes\nWhat's the reason now we keep on hidin'?\nWe can make it if we tried\n\nI don't know why we don't care\nThere's nothing to fear when I know you are there\nSo let's not wait for someone else\nTo make it right, make it right\n\nTake my hand and never let go\nSide by side, we're on the open road\nUnbreakable with hope in our hearts\nStep by step, we make a new start\n\nLet's be soldiers of love, soldiers of love\nSoldiers of love for life\nTake my hand and never let go, never let go\nAnd let's be soldiers of love\n\nWhat's the meaning of a world on fire?\nAnd a heart without a soul\nI believe that we can shine a light on\nWhat we already ought to know\n\nSo let's not wait for someone else\nTo make it right, make it right\n\nTake my hand and never let go\nSide by side, we're on the open road\nUnbreakable with hope in our hearts\nStep by step, we make a new start\n\nLet's be soldiers of love, soldiers of love\nSoldiers of love for life\nTake my hand and never let go, never let go\nAnd let's be soldiers of love\n\nUnbreakable, don't let it go\nIt's an open road, time to let it show\nInvincible, gonna climb the wall\n\nTake my hand and never let go\nNever let go\n\nTake my hand and never let go\nSide by side, we're on the open road\nUnbreakable with hope in our hearts\nStep by step, we make a new start (Make a new start)\n\nLet's be soldiers of love, soldiers of love\nSoldiers of love for life\nTake my hand аnd never let go, never let go\nAnd let's be soldierѕ of love"
+    }
+  ],
+  "bpm": 127,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Johannes Nymark",
+    "Martin Palme Skriver",
+    "Søren Bjørrild Bregendal"
+  ],
+  "backings": [
+    "Anders Ørsager",
+    "Christoffer Brodersen",
+    "Søren Okholm"
+  ],
+  "dancers": null,
+  "stageDirector": "Birgitte Næss-Schmidt",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Daniel Lund Jørgensen",
+    "Johannes Nymark",
+    "Katrine Klith Andersen",
+    "Martin Skriver",
+    "Sebastian F. Ovens",
+    "Søren Bregendal"
+  ],
+  "broadcaster": "DR",
+  "commentators": [
+    "Ole Tøpholm"
+  ],
+  "jury": [
+    "Basim",
+    "Hilda Heick",
+    "Jimmy Jørgensen",
+    "Kaya Brüel",
+    "Morten Specht Larsen"
+  ],
+  "spokesperson": "Ulla Essendrop"
+}

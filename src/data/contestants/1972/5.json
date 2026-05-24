@@ -1,0 +1,56 @@
+{
+  "id": 5,
+  "country": "IT",
+  "artist": "Nicola di Bari",
+  "song": "I giorni dell'arcobaleno",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/O6UUdV92CdA",
+    "https://www.youtube-nocookie.com/embed/1Dj_FmAL8nk",
+    "https://www.youtube-nocookie.com/embed/ITYEgDa3jAU",
+    "https://www.youtube-nocookie.com/embed/YBQ_1BIn22g",
+    "https://www.youtube-nocookie.com/embed/0dOvoPKljyU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "I giorni dell'arcobaleno",
+      "content": "Erano i giorni dell'arcobaleno\nFinito l'inverno tornava il sereno\nE tu con negli occhi la luna e le stelle\nSentivi una mano sfiorare la tua pelle\n\nE mentre impazzivi al profumo dei fiori\nLa notte si accese di mille colori\nDistesa sull'erba come una che sogna\nGiacesti, bambina, ti alzasti già donna\n\nTu adesso ti vedi grande di più\nSei diventata più forte e sicura\nE già iniziata la dolce avventura\nOrmai sono bambine, le amiche di prima\nChe si ritrovano in gruppo a giocare\nE sognano ancora su un raggio di luna\n\nVivi la vita di donna importante\nPerché a sedici anni, ti senti già grande\nMa un giorno vedrai che ogni donna è matura\nAll'epoca giusta e con giusta misura\nE in questa tua corsa incontro all'amore\nTi lasci alle ѕpаlle il tempo migliore"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The days of the rainbow",
+      "content": "Those were the days of the rainbow\nWhen the winter ended, the good weather came back\nAnd you, with the moon and the stars in your eyes\nFelt a hand touching your skin\n\nAnd while you went crazy for the scent of flowers\nThe night was lit with a thousand colours\nOutspread on the grass, like someone who's dreaming\nYou were lying, little girl, but you got up as a woman\n\nNow you have grown bigger\nYou're stronger and safer\nAnd the sweet adventure already started\nNow they're little girls, old friends\nWho meet in group for playing\nAnd still dream on a moon beam\n\nYou live your life as an important woman\nBecause at the age of sixteen, you already feel grown up\nBut one day you'll see that every woman is mature\nAt the right time and with the right measure\nAnd on your course you'll find love\nYou leave the pаst behind for better timeѕ"
+    }
+  ],
+  "bpm": 165,
+  "tone": "D major",
+  "artistPeople": [
+    "Michele Scommegna"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Nicola di Bari",
+    "Piero Pintucci"
+  ],
+  "conductor": "Gianfranco Reverberi",
+  "lyricists": [
+    "Dalmazio Masini"
+  ],
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Renato Tagliani"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

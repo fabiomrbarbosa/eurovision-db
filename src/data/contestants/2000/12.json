@@ -1,0 +1,49 @@
+{
+  "id": 12,
+  "country": "NL",
+  "artist": "Linda Wagenmakers",
+  "song": "No Goodbyes",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/sHXZwI1nq-Q",
+    "https://www.youtube-nocookie.com/embed/q31mvHwMofE",
+    "https://www.youtube-nocookie.com/embed/X1n9SAxRjWU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "No Goodbyes",
+      "content": "Don't you know what you are doing to me?\nThis ain't the way to work things out\nTell me something that I've never heard before\nWe gotta get off this crazy roundabout\n\nNo more doubting, no more fears\nNo more cheating, no more tears\nNo more questions, no more lies\nNo farewells, no goodbyes\nNo goodbyes\n\nI don't understand why you keep saying:\n\"Oh, everything's just fine, there's nothing wrong\"\nSomething's been happening that we cannot ignore\nIt's time for us to sing a different song\n\nNo more doubting, no more fears\nNo more cheating, no more tears\nNo more questions, no more lies\nNo farewells, no goodbyes\nNo goodbyes\n\nOh, don't say anything you'll wish you hadn't said\nJust say nothing at all (say nothing at all)\n'Cause I know love will grow when you go\nDon't say goodbye, oh no\n\nDon't say goodbye, no goodbyes\n(No goodbyes)\nDon't say anything you'll wish you hadn't said, my baby\n(No goodbyes)\nOh no, oh no, no\n\n(Yeah…)\nNo fаrewells, no goodbyeѕ"
+    }
+  ],
+  "bpm": 135,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Linda Wagenmakers"
+  ],
+  "backings": [
+    "Chaira Borderslee",
+    "Gino Emnes",
+    "Richard Rodermond",
+    "Yolanda Germain"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "John O'Hare"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Ellert Driessen"
+  ],
+  "writers": null,
+  "broadcaster": "NOS",
+  "commentators": [
+    "Willem van Beusekom"
+  ],
+  "jury": null,
+  "spokesperson": "Marlayne"
+}

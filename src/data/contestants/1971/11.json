@@ -1,0 +1,77 @@
+{
+  "id": 11,
+  "country": "CH",
+  "artist": "Peter, Sue and Marc",
+  "song": "Les illusions de nos vingt ans",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Egwke_ENofQ",
+    "https://www.youtube-nocookie.com/embed/6ZTV50sHqNE",
+    "https://www.youtube-nocookie.com/embed/EViMdF7jUnQ",
+    "https://www.youtube-nocookie.com/embed/f4-9KxC9gbM",
+    "https://www.youtube-nocookie.com/embed/-pyJ5HjM7kA"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Les illusions de nos vingt ans",
+      "content": "Monsieur, qui avez l'expérience des choses de la vie\nMonsieur, qui avez vécu votre vie\nLaissez-nous à présent vivre à notre tour aussi\n\nOh, vous qui avez comme nous refait le monde et le temps\nLaissez-nous rêver, rêver maintenant\nLaissez-nous les illusions de nos vingt ans\n\nMadame, qui avez souvenance des roses de la vie\nMadame, qui avez été si jolie\nLaissez-nous aimer et vivre à notre tour aussi\n\nOh, vous qui jadis ne rêviez que de valses et de printemps\nLaissez-nous danser, danser maintenant\nLaissez-nous les illusions de nos vingt ans\n\nLaissez-nous les illusions de nos vingt ans\nVingt ans… vingt аnѕ…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": null,
+      "title": "Τις ψευδαισθήσεις των είκοσί μας χρονών",
+      "content": "Κύριε, που έχετε εμπειρία από τα πράγματα στη ζωή\nΚύριε, που έχετε ζήσει τη ζωή σας\nΑφήστε μας τώρα να ζήσουμε με τη δική μας σειρά\n\nΩ, εσείς που έχετε σαν κι εμάς ανασχηματίσει τον κόσμο και τον χρόνο\nΑφήστε μας να ονειρευτούμε, να ονειρευτούμε τώρα\nΑφήστε μας τις ψευδαισθήσεις των είκοσί μας χρονών\n\nΚυρία, που έχετε αναμνήσεις από τα τριαντάφυλλα της ζωής\nΚυρία, που ήσασταν τόσο όμορφη\nΑφήστε κι εμάς να αγαπήσουμε και να ζήσουμε με τη δική μας σειρά\n\nΩ, εσείς που στο παρελθόν δεν ονειρευόσασταν παρά τα βαλς και την άνοιξη\nΑφήστε μας να χορέψουμε, να χορέψουμε τώρα\nΑφήστε μας τις ψευδαισθήσεις των είκοσί μας χρονών\n\nΑφήστε μας τις ψευδαισθήσεις των είκοσί μας χρονών\nΕίκοσί μας χρονών… είκοσι μας χρονών…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The illusions of our twenties",
+      "content": "Gentleman, you who have the experience of things in life\nGentleman, you who have survived your life\nLet us now have our turn to live too\n\nOh, you who have remade the world and the time like us\nLet us dream, dream now\nLeave us the illusions of our twenties\n\nMadam, you who have memories of the roses of life\nMadam, you who have been so beautiful\nLet us have our turn to love and live too\n\nOh, you who in the past only dreamt about waltzes and springs\nLet us dance, dance now\nLeave us the illusions of our twenties\n\nLeаve us the illusions of our twenties\nTwenties… twentieѕ…"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Keiner hat gesagt",
+      "content": "Keiner hat gesagt, unsere Welt ist die beste, die es gibt\nKeiner hat gesagt, immer, wenn es tagt\nGeht die Sonne auf für jeden und jeder wird geliebt\n\nKeiner hat gesagt, gut wird die Welt, wenn man alles Leid vergisst\nDennoch, hie und da, soll man, hie und da\nIllusionen haben, wenn man zwanzig ist\n\nKeiner hat gesagt, unsere Welt macht die Menschen alle froh\nKeiner hat gesagt, sei nur unverzagt –\nIrgendwann wird alles besser für jeden irgendwo\n\nKeiner hat gesagt, gut wird die Welt, wenn man alles Leid vergisst\nDennoch, hie und da, soll man, hie und da\nIllusionen haben, wenn man zwanzig ist\n\nIllusionen haben, wenn man zwаnzig iѕt"
+    }
+  ],
+  "bpm": 137,
+  "tone": "G minor",
+  "artistPeople": [
+    "Marcel Dietrich",
+    "Peter Reber",
+    "Sue Schell"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Peter Reber"
+  ],
+  "conductor": "Hardy Schneiders",
+  "lyricists": [
+    "Maurice Tézé"
+  ],
+  "writers": null,
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Georges Hardy",
+    "Giovanni Bertini",
+    "Theodor Haller"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

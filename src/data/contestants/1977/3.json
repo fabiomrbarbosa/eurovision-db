@@ -1,0 +1,65 @@
+{
+  "id": 3,
+  "country": "MC",
+  "artist": "Michèle Torr",
+  "song": "Une petite Française",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-SyVTXuVGo4",
+    "https://www.youtube-nocookie.com/embed/aiQHThnR8Kg",
+    "https://www.youtube-nocookie.com/embed/6-23NNPuAYI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Une petite Française",
+      "content": "Je n'suis pas Marilyn, je n'aime pas la nuit\nEt dans les magazines je ne lis pas ma vie\nJe suis une provinciale, je n'ai pas lu Pascal\nJ'ai une vie normale, c'est presque original\n\nUne petite Française née en Provence\nQuand elle avait quinze ans, vint à Paris\nEpousa la chanson, ne changea pas son nom\nEt la voilà, devant vous aujourd'hui\n\nUne petite Française née en Provence\nLoin de ses jeux d'enfants s'était enfuie\nA-t-elle eu bien raison de quitter sa maison\nPour se trouver devant vous aujourd'hui?\n\nJe n'suis pas une idole qu'on aime et qu'on détruit\nJe vis mes années folles toujours loin de Paris\nEt sans avoir de Rolls, il n'y a pas mieux, je crois\nQuand je vois quelques gosses qui jouent autour de moi\n\nUne petite Française née en Provence\nQuand elle avait quinze ans vint à Paris\nEpousa la chanson, ne changea pas son nom\nEt la voilà – devant vous aujourd'hui\n\nUne petite Française née en Provence\nLoin de ses jeux d'enfants s'était enfuie\nA-t-elle eu bien raison de quitter sa maison\nPour se trouver devant vouѕ аujourd'hui?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": null,
+      "title": "Μία μικρή Γαλλίδα",
+      "content": "Δεν είμαι η Μάριλυν, δε μου αρέσει η νύχτα\nΚαι μέσα στα περιοδικά δε διαβάζω τη ζωή μου\nΕίμαι μία επαρχιακή, δεν έχω διαβάσει Πασκάλ\nΈχω μία συνηθισμένη ζωή, είναι σχεδόν πρωτότυπο\n\nΜία μικρή Γαλλίδα γεννημένη στη Προβηγκία\nΌταν ήταν δεκαπέντε χρονών, πήγε στο Παρίσι\nΠαντρεύτηκε το τραγούδι, δεν άλλαξε το όνομά της\nΚαι να την εδώ, μπροστά σας σήμερα\n\nΜία μικρή Γαλλίδα γεννημένη στη Προβηγκία\nΜακριά από τα παιδικά της παιχνίδια έφυγε τρεχτή\nΚαλά έκανε και άφησε το σπίτι της\nΓια να βρεθεί μπροστά σας σήμερα;\n\nΔεν είμαι είδωλο, που το αγαπούν και το καταστρέφουν\nΠάντα ζω τα τρελά μου χρόνια μακριά απ' το Παρίσι\nΚαι χωρίς να έχω Ρολς, δεν πιστεύω να υπάρχει καλύτερο\nΌταν βλέπω κάποια παιδιά να παίζουν γύρω μου\n\nΜία μικρή Γαλλίδα γεννημένη στη Προβηγκία\nΌταν ήταν δεκαπέντε χρονών, πήγε στο Παρίσι\nΠαντρεύτηκε το τραγούδι, δεν άλλαξε το όνομά της\nΚαι να την εδώ, μπροστά σας σήμερα\n\nΜία μικρή Γαλλίδα γεννημένη στη Προβηγκία\nΜακριά από τα παιδικά της παιχνίδια έφυγε τρεχτή\nΚαλά έκανε και άφησε το σπίτι της\nΓια να βρεθεί μπροστά σας σήμερα;"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "A little Frenchwoman",
+      "content": "I'm not Marilyn, I don't like the night\nAnd in the magazines I don't read my life\nI'm a provincial, I didn't read Pascal\nI have a normal life, it's almost original\n\nA little Frenchwoman born in Provence\nWhen she was fifteen, she came to Paris\nMarried the song, didn't change her name\nAnd there she is, in front of you today\n\nA little Frenchwoman born in Provence\nRan away far from her children's games\nWas she right to leave her home\nTo be found in front of you today?\n\nI'm not an idol who is loved and destroyed\nI always live my turbulent years far from Paris\nAnd without having a Rolls, I believe there's no better\nWhen I see some kids playing around me\n\nA little Frenchwoman born in Provence\nWhen she was fifteen, she came to Paris\nMarried the song, didn't change her name\nAnd there she is, in front of you today\n\nA little Frenchwoman born in Provence\nRan away far from her children's games\nWas ѕhe right to leave her home\nTo be found in front of you todаy?"
+    }
+  ],
+  "bpm": 93,
+  "tone": "D minor",
+  "artistPeople": [
+    "Michèle Torr"
+  ],
+  "backings": [
+    "Françoise Walle"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Olivier Toussaint",
+    "Paul de Senneville"
+  ],
+  "conductor": "Yvon Rioland",
+  "lyricists": [
+    "Jean Albertini"
+  ],
+  "writers": null,
+  "broadcaster": "TMC",
+  "commentators": [
+    "Georges de Caunes"
+  ],
+  "jury": null,
+  "spokesperson": "Carole Chabrier"
+}

@@ -1,0 +1,61 @@
+{
+  "id": 6,
+  "country": "NL",
+  "artist": "Bernadette",
+  "song": "Sing Me a Song",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/MCW7GprKIj0",
+    "https://www.youtube-nocookie.com/embed/UIcx8yZXD8g",
+    "https://www.youtube-nocookie.com/embed/RkfhLONE8NA",
+    "https://www.youtube-nocookie.com/embed/iJsy1bBByyA"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "dutch",
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Sing Me a Song",
+      "content": "Sing me a song\nZo'n klein chanson\nBlues, ballad of folk\nKinderliedjes mag ook\nEn laten dan mensen zingen uit alle landen\n\nSing me a song\nSing me a song\nWaar de wereld om draait is muziek\nEn muziek doet verstaan\n\nSing me a song\n(Sing sing sing me a song song)\n(Zing een chanson son)\nZing een chanson\n(Sing me a song song)\n(Zing het dan)\nOver je land\n(Over landen)\nHoe het daar is en wat doe je dan zo aldaar?\n\n(Sing me a song)\nSing sing sing me a song song\nZing een chanson son\n(Zing een chanson)\nSing me a song song, zing het dan\nEn laat me even weten\nKan ik je soms ook helpen?\n\nSing me a song\nZo'n klein chanson\nBruin, blank of zwart\n't Komt uit hetzelfde hart\n\nSing me a song\nSing me a song\nWaar de wereld om draait is muziek\nEn muziek doet verstaan\n\nHo ho, come on\n\nSing me a song\n(Sing sing sing me a song song)\n(Zing een chanson son)\nZing een chanson\n(Sing me a song song)\n(Zing het dan)\nOver je land\n(Over landen)\nHoe het daar is en wat doe je dan zo aldaar?\n\nSing me a song\nZing een chanson\nHoe je leeft\n(Hoe je leeft daar)\nLaat het me weten, dus sing me а ѕong"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Sing Me a Song",
+      "content": "Sing me a song\nSuch a little chanson\nBlues, ballad or folk\nChildren's songs are allowed too\nAnd then let the people of all countries sing\n\nSing me a song\nSing me a song\nWhat the world is all about is music\nAnd music makes understanding\n\nSing me a sang\n(Sing sing sing me a song song)\n(Sing a chanson son)\nSing a chanson\n(Sing me a song song)\n(Come on and sing it)\nAbout your country\n(About countries)\nHow it is there and what do you do over there?\n\n(Sing me a song)\nSing sing sing me a song song\nSing a chanson son\n(Sing a chanson)\nSing me a song song, come on and sing it\nAnd let me know\nCan I maybe help you too?\n\nSing me a song\nSuch a little chanson\nBrown, white or black\nIt comes from the same heart\n\nSing me a song\nSing me a song\nWhat the world is all about is music\nAnd music makes understanding\n\nHo ho, come on\n\nSing me a sang\n(Sing sing sing me a song song)\n(Sing a chanson son)\nSing a chanson\n(Sing me a song song)\n(Come on and sing it)\nAbout your country\n(About countries)\nHow it is there and what do you do over there?\n\nSing me a song\nSing a chanson\nHow you live\n(How you live there)\nLet me know it, so sing me а ѕong"
+    }
+  ],
+  "bpm": 123,
+  "tone": "A major",
+  "artistPeople": [
+    "Bernadette Kraakman"
+  ],
+  "backings": [
+    "Cees Stolk",
+    "Dianne Marchal",
+    "Hans Vermeulen",
+    "Julya Loko",
+    "Sandra Reemer"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Piet Souer"
+  ],
+  "conductor": "Piet Souer",
+  "lyricists": [
+    "Martin Duiser"
+  ],
+  "writers": null,
+  "broadcaster": "NOS",
+  "commentators": [
+    "Willem Duys"
+  ],
+  "jury": null,
+  "spokesperson": "Flip van der Schalie"
+}

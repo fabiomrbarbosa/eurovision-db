@@ -1,0 +1,65 @@
+{
+  "id": 38,
+  "country": "SI",
+  "artist": "Hannah",
+  "song": "Straight Into Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/I2_zGcuEuwU",
+    "https://www.youtube-nocookie.com/embed/SqL0SP3zARg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Straight Into Love",
+      "content": "Faster than light, here comes the night\nTomorrow is now\nYou flow through my veins, inside me you'll stay\nThere is no doubt\n\nNo one in this world, no diamonds, no pearls\nLike your love divine\nSo high off the ground, we'll never come down\nNo limit, no sky\n\nStraight into love, we'll break through the dawn\nAnd light the world up from the sky when we collide\nStraight into love and never let go\nWe'll light the world up from the sky into the night\n\nWe're turning the tide, with eyes open wide\nThere's no stopping now\nWith all that we have, we stand on the edge\nBefore we dive down\n\nStraight into love, we'll break through the dawn\nAnd light the world up from the sky when we collide\nStraight into love, oh…\nWe'll light the world up from the sky into the night\n\nWe found the place where we belong\nOut of the dark, our flame is strong\nWe're moving fast, we won't look back\nHigher and higher we go\n\nStraight into love, oh…\nStraight into love\nStrаight into love\nWe'll light the world up from the ѕky into the night"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Dritti Nell’Amore",
+      "content": "Più veloce della luce, ecco che arriva la notte\nDomani è ora\nScorri nelle mie vene, dentro di me rimarrai\nNon c'è dubbio\n\nNessuno in questo mondo, niente diamanti, niente perle\nCome il tuo amore divino\nCosì in alto da terra, non scenderemo mai\nNessun limite, nessun cielo\n\nDritti nell'amore, sfonderemo l'alba\nE illumina il mondo dal cielo quando ci scontriamo\nDritti nell'amore e non lasciare mai andare\nIllumineremo il mondo dal cielo nella notte\n\nStiamo invertendo la rotta, con gli occhi spalancati\nNon ci si può fermare ora\nCon tutto quello che abbiamo, siamo al limite\nPrima di tuffarci\n\nDritti nell'amore, sfonderemo l'alba\nE illumina il mondo dal cielo quando ci scontriamo\nDritti nell'amore, oh…\nIllumineremo il mondo dal cielo nella notte\n\nAbbiamo trovato il posto a cui apparteniamo\nFuori dal buio, la nostra fiamma è forte\nCi ѕtiamo muovendo velocemente, non ci guarderemo indietro\nSempre più in alto andiamo\n\nDritti nell'amore, oh…\nDritti nell'amore\nDritti nell'amore\nIllumineremo il mondo dal cielo nellа notte"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Derechos al amor",
+      "content": "Más rápida que la luz, ya llega la noche\nMañana es ahora\nFluyes por mis venas, y te quedarás dentro de mí\nNo hay duda\n\nNadie en este mundo, ni diamantes, ni perlas\nSon tan divinos como tu amor\nDespegados del suelo, jamás bajaremos\nSin límite, sin cielo\n\nDerechos al amor, apareceremos a través de la aurora\nE iluminaremos el mundo, desde el cielo, cuando choquemos\nDerechos al amor, y sin cejar\nIluminaremos el mundo desde el cielo en la noche\n\nDamos marcha atrás a la marea, con ojos muy abiertos\nYa no hay quién nos pare\nCon todo lo que tenemos, permaneceremos en el borde\nAntes de zambullirnos\n\nDerechos al amor, apareceremos a través de la aurora\nE iluminaremos el mundo, desde el cielo, cuando choquemos\nDerechos al amor, oh…\nIluminaremos el mundo desde el cielo en la noche\n\nEncontramos el lugar al que pertenecemos\nFuera de la oscuridad, nuestra llama es fuerte\nNos movemos rápido, y no miraremos hacia atrás\nE volaremos alto y más alto aún\n\nDerechos al amor, oh…\nDerechos al amor\nDerechos al amor\nIluminaremos el mundo deѕde el cielo en lа noche"
+    }
+  ],
+  "bpm": 128,
+  "tone": "D major",
+  "artistPeople": [
+    "Hannah Mancini"
+  ],
+  "backings": [
+    "Anže Škrube",
+    "Linda Andrews",
+    "Matic Zadravec",
+    "Primož Pavlič",
+    "Susanne Ørum"
+  ],
+  "dancers": null,
+  "stageDirector": "Urška Žnidaršič",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Hannah Mancini"
+  ],
+  "broadcaster": "RTVSLO",
+  "commentators": [
+    "Andrej Hofer"
+  ],
+  "jury": null,
+  "spokesperson": "Andrea F"
+}

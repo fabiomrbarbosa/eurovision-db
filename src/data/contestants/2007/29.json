@@ -1,0 +1,54 @@
+{
+  "id": 29,
+  "country": "HR",
+  "artist": "Dragonfly feat. Dado Topic",
+  "song": "Vjerujem u ljubav",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/orMSTz7povE",
+    "https://www.youtube-nocookie.com/embed/mnA7HV4EPQ8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "croatian"
+      ],
+      "displayedLanguages": null,
+      "title": "Vjerujem u ljubav",
+      "content": "Ne, nije bol to što te trebam\nŽivim a znam da te nemam\nYou'll never know how much I love you \nYou'll never know how much I need you \n\nAko mi pogledaš u oči\nTu već drugo skrivam bol\nI onaj stih iz moje pjesme:\nTi si k'o na ranu sol\n\nJer ja vjerujem u ljubav\nTo što nisi htjela ti\nA ovom srcu tek ostaje da sanja\nI ne dam da se probudi\n\nJer ja vjerujem u ljubav\nTo što nisi htjela ti\nA ovom srcu tek ostaje da sanja\nI ne dam da se probudi\n\nYou'll never know how much I love you \nYou'll never know how much I need you \n\nAko mi pogledaš u srce\nTu zauvijek živiš ti\nZa mene svijet bez tebe\nKao da ne postoji\n\nJer ja vjerujem u ljubav\nBaš onako kao ti\nA ovom srcu tek ostaje da sanja\nI ne dam da se probudi\n\nJer ja vjerujem u ljubav\nBaš onako kao ti (Kao ti)\nA ovom srcu tek ostaje da sanja\nI ne dam da ѕe probudi\n\nNe, nije bol to što te trebam\nŽivim a znam da te nemаm\nYou'll never know how much I love you \nYou'll never know how much I need you \n\nNe, nije bol"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I believe in love",
+      "content": "No, it's not the pain of needing you\nI live, and I know I don't have you\nYou'll never know how much I love you \nYou'll never know how much I need you \n\nIf you look into my eyes\nThat's where I've been hiding pain for a long time now\nAnd that line from my song:\nYou are like salt on my wound\n\nFor I believe in love\nSomething you didn't want\nAnd this heart can only dream of\nAnd I won't let it wake up\n\nFor I believe in love\nSomething you didn't want\nAnd this heart can only dream of\nAnd I won't let it wake up\n\nYou'll never know how much I love you \nYou'll never know how much I need you \n\nIf you look into my heart\nThat's where you live eternally\nFor me, the world without you\nMight as well not exist\n\nFor I believe in love\nJust as you do\nAnd all this heart can do is dream\nAnd I won't let it wake up\n\nFor I believe in love\nJust as you do (As you do)\nAnd all this heart can do is dream\nAnd I won't let it wake up\n\nNo, it's not the pain of needing you\nI live, and I know I don't have you\nYou'll never know how much I love you \nYou'll never know how much I need you \n\nNo, it'ѕ not the pаin"
+    }
+  ],
+  "bpm": 100,
+  "tone": "B minor",
+  "artistPeople": [
+    "Branko Badanjak",
+    "Branko Kužnar-Žan",
+    "Adolf Topić",
+    "Drago Vidaković",
+    "Iva Gluhak"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Dado Topić"
+  ],
+  "broadcaster": "HRT",
+  "commentators": [
+    "Duško Ćurlić"
+  ],
+  "jury": null,
+  "spokesperson": "Barbara Kolar"
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1,
+  "country": "ES",
+  "artist": "Karina",
+  "song": "En un mundo nuevo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/V_os2IZ7tUI",
+    "https://www.youtube-nocookie.com/embed/PXfPEwLmMBA",
+    "https://www.youtube-nocookie.com/embed/OIZqlw6MFRM",
+    "https://www.youtube-nocookie.com/embed/jpslPbS7bbE",
+    "https://www.youtube-nocookie.com/embed/MzgPNKSmq8w",
+    "https://www.youtube-nocookie.com/embed/JyscIJMcPxE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "En un mundo nuevo",
+      "content": "Sólo al final del camino, las cosas claras verás\nLa razón de vivir y el porqué de mil cosas más\nAl mirar hacia atrás, cuando llegues comprenderás\n\nBusca las cosas sencillas y encontrarás la verdad\nLa verdad de ese amor, lo demás déjalo pasar\nSolamente el amor con el tiempo no morirá\n\nAl fin del camino\nSe harán realidad los sueños que llevas en ti\nSi en todo momento en tu caminar\nLa vida has llenado de amor y verdad\n\nAl fin del camino\nPodrás encontrar el bien que esperaste sentir\nOlvida el pasado, pues no volverá\nConserva el amor que hay en ti\n\nAl fin del camino\nHabrá un despertar de nuevo volver a vivir\nSi en todo momento en tu caminar\nLa vida has llenado de amor y verdad\n\nAl fin del camino\nEn ti llevarás la fe y la ilusión de vivir\nTus sueños de siempre se harán realidad\nEn un mundo nuevo y feliz\n\nAl fin del camino\nEn ti llevarás la fe y la ilusión de vivir\nTus sueños de siempre se harán realidad\nEn un mundo nuevo y feliz\nEn un mundo nuevo y feliz\nEn un mundo nuevo y feliz\n\nTus sueños de siempre se harán realidad\nSi llenas tu vida de amor y paz\nSi llenaѕ tu vida de amor y pаz\nEn un mundo nuevo y feliz"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Dans un monde nouveau",
+      "content": "Ce n'est qu'au bout du chemin que les choses claires tu verras\nLa raison de vivre et le pourquoi de tant d'autres choses\nEn regardant en arrière, quand tu y seras, tu comprendras\n\nCherche les choses simples, et tu trouveras la vérité\nLa vérité de cet amour, laisse le reste passer\nSeul l'amour avec le temps ne mourra jamais\n\nAu bout du chemin\nDeviendront réalité les rêves que tu portes en toi\nSi à chaque instant de ton parcours\nTu as rempli ta vie d'amour et de vérité\n\nAu bout du chemin\nTu pourras trouver le bien que tu espérais ressentir\nOublie le passé, car il ne reviendra pas\nGarde l'amour qui est en toi\n\nAu bout du chemin\nIl y aura un réveil pour revivre à nouveau\nSi à chaque instant de ton parcours\nTu as rempli ta vie d'amour et de vérité\n\nAu bout du chemin\nTu porteras en toi la foi et l'envie de vivre\nTes rêves d'autrefois deviendront réalité\nDans un monde nouveau et heureux\n\nAu bout du chemin\nTu porteras en toi la foi et l'envie de vivre\nTes rêves d'autrefois deviendront réalité\nDans un monde nouveau et heureux\nDans un monde nouveau et heureux\nDans un monde nouveau et heureux\n\nTes rêves d'autrefois deviendront réalité\nSi tu remplis ta vie d'amour et de paix\nSi tu remplis ta vie d'amour et de paix\nDanѕ un monde nouveаu et heureux"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "In a new world",
+      "content": "Only at the end of the road you'll see things clear\nThe reason to live and causes of a thousand more things\nWhen you're looking back, when you're there, you'll understand\n\nSearch for simple things and you'll find the truth\nThe truth of that love, let go of the rest\nJust love won't die in time\n\nAt the end of the road\nAll the dreams that you have inside will come true\nIf in some point of your road\nYou have filled your life with love and truth\n\nAt the end of the road\nYou can find the good you hoped to feel\nForget the past, because it won't come back\nKeep the love you have in you\n\nAt the end of the road\nThere I'll be awakening, to start living again\nIf in some point of your road\nYou have filled your life with love and truth\n\nAt the end of the road\nYou'll have inside the faith and the joy of living\nAll your dreams will always come true\nIn a new happy world\n\nAt the end of the road\nYou'll have inside the faith and the joy of living\nAll your dreams will always come true\nIn a new happy world\nIn a new happy world\nIn a new happy world\n\nAll your dreams will alwayѕ come true\nIf you fill your life with love and peace\nIf you fill your life with love and peace\nIn a new hаppy world"
+    }
+  ],
+  "bpm": 129,
+  "tone": "G major",
+  "artistPeople": [
+    "María Isabel Bárbara Llaudes"
+  ],
+  "backings": [
+    "María Dolores Arenas",
+    "María Jesús Aguirre",
+    "Mercedes Valimaña"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Rafael Trabucchelli"
+  ],
+  "conductor": "Waldo de Los Rios",
+  "lyricists": [
+    "Tony Luz"
+  ],
+  "writers": null,
+  "broadcaster": "TVE",
+  "commentators": [
+    "Joaquín Prat"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

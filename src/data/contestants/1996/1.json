@@ -1,0 +1,57 @@
+{
+  "id": 1,
+  "country": "NO",
+  "artist": "Elisabeth Andreasson",
+  "song": "I evighet",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Dxr64yUHzKM",
+    "https://www.youtube-nocookie.com/embed/YJ_Yt6zmNsA",
+    "https://www.youtube-nocookie.com/embed/ZXx9hsQc1sc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "norwegian"
+      ],
+      "displayedLanguages": null,
+      "title": "I evighet",
+      "content": "Dagen går mot kveld, er borte, blir snart glemt\nMen alt vi gav den står igjen, et frø som gror og vokser frem\n\nSlik er kjærlighetens vei når den møter deg og meg\nFørst når vi lærer og forstår, vil den modnes og bli vår\n\nSelv om dagene går, de svinner hen og blir til år\nAlltid vil kjærlighet bestå i tid og evighet\nI evighet\n\nElven renner stille hen over sletter, skog og eng\nMen på sin vei for å nå frem, gikk den over stryk og stein\n\nSelv om dagene går, de svinner hen og blir til år\nAlltid vil kjærlighet bestå i tid og evighet\nI evighet\n\nSelv om dаgene går, de svinner hen og blir til år\nAlltid vil kjærlighet bestå i tid og evighet\nI evighet\n\nAlltid vil kjærlighet beѕtå i tid og evighet\nI evighet"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "For eternity",
+      "content": "Day is turning to evening, is gone, soon forgotten\nBut what we gave remains, a seed will grow and sprout\n\nSuch is love's way when it strikes you and me\nOnly when we learn and understand, it will ripen and be ours\n\nThough the days pass by, vanishing, becoming years\nLove will always remain, for ever and eternity\nFor eternity\n\nThe river smoothly flows, through meadows, plains and woods\nBut on its way to reach its goal, it passes stony rapids\n\nThough the days pass by, vanishing, becoming years\nLove will always remain, for ever and eternity\nFor eternity\n\nThough the days pass by, vanishing, becoming years\nLove will always remain, for ever and eternity\nFor eternity\n\nLove will alwayѕ remain, for ever аnd eternity\nFor eternity"
+    }
+  ],
+  "bpm": 143,
+  "tone": "C# major",
+  "artistPeople": [
+    "Elisabeth Gunilla Andreassen"
+  ],
+  "backings": [
+    "Hilde Kjeldsen",
+    "Marian Lisland",
+    "Per Øystein Sørensen",
+    "Roar Engelberg",
+    "Rolf Graf"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Frode Thingnæs",
+  "lyricists": null,
+  "writers": [
+    "Torhild Nigar"
+  ],
+  "broadcaster": "NRK",
+  "commentators": [
+    "Jostein Pedersen"
+  ],
+  "jury": null,
+  "spokesperson": "Ragnhild Sælthun Fjørtoft"
+}

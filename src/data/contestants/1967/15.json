@@ -1,0 +1,55 @@
+{
+  "id": 15,
+  "country": "NO",
+  "artist": "Kirsti Sparboe",
+  "song": "Dukkemann",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Y7I__FNMevk",
+    "https://www.youtube-nocookie.com/embed/sSzMIIWRk3k",
+    "https://www.youtube-nocookie.com/embed/Rs-Xs5fZRmI",
+    "https://www.youtube-nocookie.com/embed/BV_r9_Yuudo",
+    "https://www.youtube-nocookie.com/embed/GoKwSBVnth8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "norwegian"
+      ],
+      "displayedLanguages": null,
+      "title": "Dukkemann",
+      "content": "Det var en søt liten dukkemann\nEn så fri og freidig og glad\nHan lo av de andre små dukker, han, å ja…\n\nFor denne særegne dukkemann\nTenk, han var skarpsindig som få\nHan sa at de henger jo alle mann i tråd\n\nHan lo av de dumme små dukker som danset\nPå ordre fra noe de ikke forstod\nHan lo så han hikstet, men plutselig stanset han opp\nFor hans tråd den ble klippet i to\n\nOg se vår særegne dukkemann\nHan forsto: hvis dansen skal gå\nDa må man nok sprelle som alle mann i tråd\n\nHan lo av de dumme små dukker som danset\nPå ordre fra noe de ikke forstod\nHan lo så han hikstet, men plutselig stanset han opp\nFor hans tråd den ble klippet i to\n\nSå ble vår særegne dukkemann\nUten liv og måtte forstå:\nEn tråd har en snelle, så hvis man vil telle\nDa må man nok sprelle ѕom alle mаnn i tråd"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Puppet man",
+      "content": "There was a sweet little puppet man\nSomeone so free and bold and happy\nHe was laughing at all the other puppets, him, oh yes…\n\nBecause this particular puppet man\nImagine, he was sharper than most\nHe said, all of them are hanging on a string\n\nHe laughed at all the stupid little puppets dancing\nAt the command of something they didn't understand\nHe howled with laughter, but suddenly stopped\nBecause his string was cut in half\n\nAnd look, our particular puppet man\nHe understood: if the dance is to go on\nThen you have to jump about like all on a string\n\nHe laughed at all the stupid little puppets dancing\nAt the command of something they didn't understand\nHe howled with laughter, but suddenly stopped\nBecause his string was cut in half\n\nThus our particular puppet man became\nLifeless and had to understand:\nA string has a spool and if you want to count\nYou must jump like everyone on а ѕtring"
+    }
+  ],
+  "bpm": 105,
+  "tone": "G major",
+  "artistPeople": [
+    "Kirsti Sparboe"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Tor Hultin"
+  ],
+  "conductor": "Øivind Bergh",
+  "lyricists": [
+    "Ola B. Johannessen"
+  ],
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "Erik Diesen"
+  ],
+  "jury": null,
+  "spokesperson": "Sverre Christophersen"
+}

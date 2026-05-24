@@ -1,0 +1,59 @@
+{
+  "id": 16,
+  "country": "BE",
+  "artist": "Nicole and Hugo",
+  "song": "Baby, Baby",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/RrFvCYa05pk",
+    "https://www.youtube-nocookie.com/embed/KqRtE2jlXu4",
+    "https://www.youtube-nocookie.com/embed/FdM1vroyyTM",
+    "https://www.youtube-nocookie.com/embed/l8Y_4lIUIcw",
+    "https://www.youtube-nocookie.com/embed/BucgoUtIstw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "Baby, baby",
+      "content": "Naj nanana… nanana na nana…\nOh… na nanana… nanana na nana…\nLala lala la…\n\nBaby, baby  – wat is er nou?\nZeg me even, ben ik van jou?\nZeg het me nog wel duizend maal\nSpreek van liefde in elke taal\n\nLiefde is broos, 't is net als porselein\nOh… breekt in je hand voor het voltooid kan zijn\nLaat ons samen zijn\n\nBaby, baby, I love you \nYo te quiero,  oui, mon amour \n't Is zo heerlijk samen te zijn\nMaar het scheiden doet toch geen pijn\n\nToch weet ik wel, een vrouw kan niets alleen\nOh… liefde gebeurt enkel met twee bijeen\nLaat ons samen zijn\n\nSoms is liefde maar liefdepijn\nAl wou je dat het anders kon zijn\n\nBaby, baby  – wat is er nou?\nZeg me even, ben ik van jou?\nZeg het me nog wel duizend maal\nSpreek van liefde in elke taal\n\nBaby, baby, I love you \nYo te quiero,  oui, mon amour \n't Is zo heerlijk samen te zijn\nMaar het ѕcheiden doet toch geen pijn\n\nNaj nanana… nanana na nana…\nOh… na nanana… nanana na nana…\nLala lala lа…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Baby, baby",
+      "content": "Nai nanana… nanana na nana…\nOh… na nanana… nanana na nana…\nLala lala la…\n\nBaby, baby – what's the matter now?\nJust tell me, am I yours?\nTell me for another thousand times\nTalk about love in every language\n\nLove is fragile, it's just like china\nOh… breaks in your hand before it can be finished\nLet's be together\n\nBaby, baby, I love you\nI love you, yes, my love\nIt's so lovely to be together\nBut the divorce doesn't hurt after all\n\nThough, I know, a woman can't do anything alone\nOh… love only happens together with two\nLet's be together\n\nSometimes love is nothing but a sore\nAlthough you wanted that it could be different\n\nBaby, baby – what's the matter now?\nJust tell me, am I yours?\nTell me for another thousand times\nTalk about love in every language\n\nBaby, baby, I love you\nI love you, yes, my love\nIt's so lovely to be together\nBut the divorce doeѕn't hurt after all\n\nNai nanana… nanana na nana…\nOh… na nanana… nanana na nana…\nLala lala lа…"
+    }
+  ],
+  "bpm": 129,
+  "tone": "C major",
+  "artistPeople": [
+    "Hugo Verbraeken",
+    "Nicole van Palm"
+  ],
+  "backings": [
+    "Claude Lombard"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ignace Baert"
+  ],
+  "conductor": "Francis Bay",
+  "lyricists": [
+    "Erik Marijsse"
+  ],
+  "writers": null,
+  "broadcaster": "BRT",
+  "commentators": [
+    "Herman Verelst",
+    "Paule Herreman"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

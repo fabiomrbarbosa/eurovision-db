@@ -11,9 +11,10 @@
  * client-side fetching.
  */
 
-import { readFileSync } from "fs";
+import { readFileSync, readdirSync } from "fs";
 import { join } from "path";
 import type {
+  ContestantDetail,
   ContestantReference,
   ContestantWithResults,
   ContestDetail,
@@ -63,14 +64,17 @@ export function getCountryName(
 // ---------------------------------------------------------------------------
 
 export function getYears(): number[] {
-  return readJson<number[]>(dataPath("years.json"));
+  return readdirSync(dataPath("contests"))
+    .filter((f) => f.endsWith(".json"))
+    .map((f) => parseInt(f, 10))
+    .filter((n) => !isNaN(n))
+    .sort((a, b) => a - b);
 }
 
 // ---------------------------------------------------------------------------
-// Contest index (lightweight, includes winner + contestant list)
+// Contest index (derived at build time from individual contest files)
 // ---------------------------------------------------------------------------
 
-/** Shape of the pre-built index entry (written by fetch-all.ts) */
 export interface ContestIndexEntry {
   year: number;
   city: string;
@@ -87,6 +91,7 @@ export interface ContestIndexEntry {
     song: string;
   }>;
   winner: {
+    contestantId: number;
     country: string;
     artist: string;
     song: string;
@@ -97,10 +102,48 @@ export interface ContestIndexEntry {
 let _index: ContestIndexEntry[] | null = null;
 
 export function getContestIndex(): ContestIndexEntry[] {
-  if (!_index) {
-    _index = readJson<ContestIndexEntry[]>(dataPath("index.json"));
-  }
-  return _index!;
+  if (_index) return _index;
+
+  const contestsDir = dataPath("contests");
+  const files = readdirSync(contestsDir).filter((f) => f.endsWith(".json"));
+
+  _index = files
+    .map((file) => {
+      const detail = readJson<ContestDetail>(join(contestsDir, file));
+      const final = detail.rounds.find((r) => r.name === "final");
+      const winnerPerf = final?.performances?.find((p) => p.place === 1) ?? null;
+      const winnerContestant = winnerPerf
+        ? detail.contestants.find((c) => c.id === winnerPerf.contestantId) ?? null
+        : null;
+      return {
+        year: detail.year,
+        city: detail.city,
+        country: detail.country,
+        intendedCountry: detail.intendedCountry,
+        slogan: detail.slogan,
+        logoUrl: detail.logoUrl,
+        broadcasters: detail.broadcasters,
+        presenters: detail.presenters,
+        contestants: detail.contestants.map((c) => ({
+          id: c.id,
+          country: c.country,
+          artist: c.artist,
+          song: c.song,
+        })),
+        winner: winnerContestant
+          ? {
+              contestantId: winnerContestant.id,
+              country: winnerContestant.country,
+              artist: winnerContestant.artist,
+              song: winnerContestant.song,
+              points: winnerPerf!.scores.find((s) => s.name === "total")?.points ?? null,
+            }
+          : null,
+      };
+    })
+    .sort((a, b) => a.year - b.year);
+
+  return _index;
 }
 
 // ---------------------------------------------------------------------------
@@ -160,6 +203,14 @@ export function getResolvedContest(year: number): ResolvedContest {
 
   const cancelled = detail.rounds.every((r) => r.performances === null);
   return { ...detail, contestantsById, results, cancelled };
+}
+
+// ---------------------------------------------------------------------------
+// Contestant detail (requires fetch:contestants to populate src/data/contestants/)
+// ---------------------------------------------------------------------------
+
+export function getContestantDetail(year: number, id: number): ContestantDetail {
+  return readJson<ContestantDetail>(dataPath("contestants", String(year), `${id}.json`));
 }
 
 // ---------------------------------------------------------------------------

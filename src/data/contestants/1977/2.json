@@ -1,0 +1,45 @@
+{
+  "id": 2,
+  "country": "IE",
+  "artist": "The Swarbriggs Plus Two",
+  "song": "It's Nice to Be in Love Again",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/osYzY2ZUhpA",
+    "https://www.youtube-nocookie.com/embed/LX4yC10pUJY"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "It's Nice to Be in Love Again",
+      "content": "The sweetest thrill is knowing you're wanted\nNever thought I'd feel it again\nSo long ago, I almost forgot it\nIt's coming back like an old refrain\n\nIt's nice to be in love again\nThat old familiar feeling when\nYou say hello and you know it's love\n\nIt's nice to be in love again\nThat old familiar feeling when\nYou meet your girl and the world stands still\nYour heart is filled with sweet melody\nIt's nice to be in love again\n\nThe sweetest thrill, I couldn't believe it\nI hadn't even a friend\nThis heart of mine was thinking of leaving\nUntil you came walking round that bend\n\nIt's nice to be in love again\nThat old familiar feeling when you say hello\nAnd you know it's love\n\nIt's nice to be in love again\nThat old familiar feeling when\nYou meet your girl and the world stands still\nYour heart is filled with sweet melody\nIt's nice to be in love again\n\nIt's nice to be in love again\nThat old familiar feeling when\nYou meet your girl and the world stands still\nYour heart is filled with sweet melody\nIt's nice to be in love again\n\nIt's nice to be in love again\nThat old familiar feeling when you ѕаy hello"
+    }
+  ],
+  "bpm": 118,
+  "tone": "A major",
+  "artistPeople": [
+    "Alma Carroll",
+    "John James Swarbrigg",
+    "Nicola Kerr",
+    "Thomas Sheridan Swarbrigg"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Noel Kelehan",
+  "lyricists": null,
+  "writers": [
+    "Jimmy Swarbrigg",
+    "Tommy Swarbrigg"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Mike Murphy"
+  ],
+  "jury": null,
+  "spokesperson": "Brendan Balfe"
+}

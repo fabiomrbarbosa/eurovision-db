@@ -1,0 +1,51 @@
+{
+  "id": 3,
+  "country": "FR",
+  "artist": "Patrick Fiori",
+  "song": "Mama Corsica",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-nyNhpPSew8",
+    "https://www.youtube-nocookie.com/embed/7o7rLMDqhns"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french",
+        "corsican"
+      ],
+      "displayedLanguages": null,
+      "title": "Mama Corsica",
+      "content": "Elle a toujours un peu de vin\nQuelques fruits, un peu de pain\nPour les amis qui ont faim\nMama Corsica\n\nElle a le cœur grand comme le ciel\nElle est sincère comme elle est belle\nMama Corsica\n\nElle est comme ses vieilles dames en noir\nQui portent en elles leur histoire\nMama Corsica\n\nIl paraît même que le Bon Dieu\nIl en était fou amoureux\nEn la dessinant de ses doigts\n\nMama Corsica, sta sera cantemu en corsu per te\nMama Corsica, au nom de l'amour et au nom de l'amitié\nMama Corsica, u mondu n'a occhji sta sera che per te\nMama Corsica, comme si le monde chantait en corse pour te saluer\n\nElle prie toujours pour ses garçons\nQuand ils sont loins de la maison\nMama Corsica\n\nElle sourit quand on pense à elle\nElle aime bien qu'on lui soit fidèle\nMama Corsica\n\nN'allez pas croire tout ce que l'on dit\nAu fond c'est elle qui nous unit\nMama Corsica\n\nTant mieux qu'il y ait des différences\nElle ne fait pas de préférence\nTous ses enfants ont le sang corse\n\nMama Corsica, sta sera cantemu en corsu per te\nMama Corsica, au nom de l'amour, ce soir c'est toi, la terre d'amitié\nMama Corsica, u mondu n'a occhji sta sera che per te\nMama Corsica, comme si le monde chantait en corse pour te saluer\n\nMama Corsica\nMama Corѕicа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Mama Corsica",
+      "content": "She always has a little wine\nSome fruits, a bit of bread\nFor the starving friends\nMama Corsica\n\nHer heart is as wide as the sky\nShe's as sincere as she's beautiful\nMama Corsica\n\nShe's like those old ladies in black\nWho bear their story inside themselves\nMama Corsica\n\nIt even seems that the Good Lord\nWas crazy in love with her\nDrawing her with his fingers\n\nMama Corsica, tonight we're singing in Corsican for you\nMama Corsica, on behalf of love and friendship\nMama Corsica, tonight the world has only eyes for you\nMama Corsica, as if the world sung in Corsican to greet you\n\nShe always prays for her boys\nWhen they are far from home\nMama Corsica\n\nShe smiles when you're thinking of her\nShe likes it when you're faithful to her\nMama Corsica\n\nDon't believe everything what people say\nBasically it's her who unites us\nMama Corsica\n\nNever mind that there are differences\nShe doesn't have preferences\nAll her children have Corsican blood\n\nMama Corsica, tonight we're singing in Corsican for you\nMama Corsica, on behalf of love, tonight you're the land of friendship\nMama Corsica, tonight the world has only eyes for you\nMama Corsica, as if the world sung in Corsican to greet you\n\nMama Corsica\nMama Corѕicа"
+    }
+  ],
+  "bpm": 128,
+  "tone": "C major",
+  "artistPeople": [
+    "Patrick Fiori"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Christian Cravero",
+  "lyricists": null,
+  "writers": [
+    "François Valéry"
+  ],
+  "broadcaster": "FT2",
+  "commentators": [
+    "Patrice Laffont"
+  ],
+  "jury": null,
+  "spokesperson": "Olivier Minne"
+}

@@ -1,0 +1,53 @@
+{
+  "id": 6,
+  "country": "BE",
+  "artist": "Bob Benny",
+  "song": "Hou toch van mij",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Ckaxz47Jgbc",
+    "https://www.youtube-nocookie.com/embed/fTBfNWQ2uMU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "Hou toch van mij",
+      "content": "Meer dan een rijkdom, meer dan een macht\nMeer dan een roem naar trouw of naar pracht\nLiefste, verlang ik naar jou\n\nAl m'n geluk, al wat ik betracht\nLigt in jouw hand, zo blank en zo zacht\nLiefste, verhoor mij toch gauw\n\nHou toch van mij\nZoveel als de bloem van zonneschijn houdt\nTeder, omdat de zon haar ontluiken doet\n\nHou toch van mij\nZoveel als de ster van duisternis houdt\nEeuwig, omdat het duister haar stralen doet\n\nLiefste, hou toch van mij\nZoveel als de vlam zich hecht aan het hout\nHevig, opdat het vuur feller laaien zou\n\nSchenk mij je hele hart in liefd' en trouw\nHou toch van mij zoveel als ik hou van jou\n\nHou toch van mij\nZoveel als de bloem van zonneschijn houdt\nTeder, omdat de zon haar ontluiken doet\n\nHou toch van mij\nZoveel als de ster van duisternis houdt\nEeuwig, omdat het duister haar stralen doet\n\nLiefste, hou toch van mij\nZoveel als de vlam zich hecht aan het hout\nHevig, opdat het vuur feller laaien zou\n\nSchenk mij je hele hart in liefd' en trouw\nHou toch van mij zoveel alѕ ik hou vаn jou"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Do love me",
+      "content": "More than fortune, more than power\nMore than glory of fidelity and beauty\nDarling, I long to you\n\nAll my luck, all that I foster\nLies in your hand, so white and so soft\nDarling, do grant me soon\n\nDo love me\nAs much as the flower loves sunshine\nTenderly, because the sun opens its petals\n\nDo love me\nAs much as the star loves darkness\nEternally, because darkness makes it shine\n\nDarling, do love me\nAs much as the flame clings to the wood\nIntense, so the fire would blaze fiercer\n\nOffer me whole your heart in love and faithfulness\nDo love me as much as I love you\n\nDo love me\nAs much as the flower loves sunshine\nTenderly, because the sun opens its petals\n\nDo love me\nAs much as the star loves darkness\nEternally, because darkness makes it shine\n\nDarling, do love me\nAs much as the flame clings to the wood\nIntense, so the fire would blaze fiercer\n\nOffer me whole your heart in love and faithfulness\nDo love me as much аѕ I love you"
+    }
+  ],
+  "bpm": 119,
+  "tone": "C major",
+  "artistPeople": [
+    "Emiel Wagemans"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Hans Flower"
+  ],
+  "conductor": "Francis Bay",
+  "lyricists": [
+    "Ke Riema"
+  ],
+  "writers": null,
+  "broadcaster": "NIR",
+  "commentators": [
+    "Nic Bal",
+    "Paule Herreman"
+  ],
+  "jury": null,
+  "spokesperson": "Bert Leysen"
+}

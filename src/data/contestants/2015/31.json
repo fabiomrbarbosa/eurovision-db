@@ -1,0 +1,57 @@
+{
+  "id": 31,
+  "country": "DK",
+  "artist": "Anti Social Media",
+  "song": "The Way You Are",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/J--Tgi_iZQ8",
+    "https://www.youtube-nocookie.com/embed/hASaICVH5Sg",
+    "https://www.youtube-nocookie.com/embed/vnSiyaJ4rUk",
+    "https://www.youtube-nocookie.com/embed/XcCBzFMnGSM",
+    "https://www.youtube-nocookie.com/embed/psm6HAOjTxs"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The Way You Are",
+      "content": "Summer's here, winter's gone\nFinally I can see the sun\nEvery time you walk into the room\n\nAnd all my fears disappear\nWhen I'm in your atmosphere\nI don't know what it is you do\n\nBut you do\n(Yeah, yeah, yeah)\nBut you do\n(Yeah, yeah, yeah)\nAnd I can't explain why\n\nIt's the way you are\nIt's just the way that you are\nThat can make my day\nThe bad times go away\n\nIt's the way you are\nIt's just the way that you are\nThat can make my day\nThe bad times go away\n\nLike an old radio\nA song I just can't let go\nAll I got on my mind is you\nMovie stars and caviar\nCouldn't get me where you are\nThere's nothing I could do about it\n\nIt's the way you are\nIt's just the way that you are\nThat can make my day\nThe bad times go away\n\nAnd I'll be right there\nWhen you need someone to guide you\n(Guide you)\nWhatever it takes, girl\nI will be doing it for you\n(For you)\n\n'Cause I've been acting like a fool\nI wanna take my time and spent it all on you\nSo girl just come and sweep my feet off the ground\nLike you do\n\nIt's the way you are\nIt's just the way that you are\nThat can make my day\nThe bad times go away\n\nHey, it's the way you are\nIt's just the way that you are\nThat can make my day\nThe bad times go away\n\nBecause it's all about you\nBecause it's all about you, girl\nAnd I'm hanging on to every single word you say\n\nIt's the way you are\nIt's just the way that you are\nThat can make my day\nThe bad times go away\n\nIt'ѕ the way you аre"
+    }
+  ],
+  "bpm": 125,
+  "tone": "C major",
+  "artistPeople": [
+    "David Rønne Vang",
+    "Emil Vissing Christensen",
+    "Nikolaj Tøth Andersen",
+    "Philip Thornhill"
+  ],
+  "backings": [
+    "Johanna Beijbom",
+    "Nellie Ettison"
+  ],
+  "dancers": null,
+  "stageDirector": "Birgitte Næss-Schmidt",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Chief 1",
+    "Remee"
+  ],
+  "broadcaster": "DR",
+  "commentators": [
+    "Ole Tøpholm"
+  ],
+  "jury": [
+    "Anna David",
+    "Jonas Schrøder",
+    "Lotte Feder",
+    "Søren Poppe",
+    "Tamra Rosanes"
+  ],
+  "spokesperson": "Basim"
+}

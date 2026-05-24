@@ -1,0 +1,70 @@
+{
+  "id": 8,
+  "country": "CY",
+  "artist": "Elena Patroclou",
+  "song": "S.O.S.",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Qf2fLGTlwR4",
+    "https://www.youtube-nocookie.com/embed/wwSoju8Mqfg",
+    "https://www.youtube-nocookie.com/embed/ilidvftZpjE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ellinika"
+      ],
+      "title": "S.O.S.",
+      "content": "Edho, sto trito planiti\nPote dhe svisan i foties\nPos miazi me trelo komiti\nYemato me pirinikes\n\nTon ilio kaname ehthro mas\nPandu pligosame ti yi\nMoliname ton urano mas\nKe rihni oksini vrohi\n\nEdho planitis yi, edho planitis yi\nSOS, SOS, SOS\nEdho planitis yi, edho planitis yi\nSOS, SOS, SOS\n\nTriyiro ta pulia pethenun\nTa psaria vyenun sti steria\nPandu i anthropi sopenun\nDhe kserun ti na kanun pia\n\nEdho planitis yi, edho planitis yi\nSOS, SOS, SOS\nEdho planitis yi, edho planitis yi\nSOS, SOS, SOS\n\nEdho planitis yi, edho plаnitiѕ yi\nSOS, SOS, SOS\nSOS"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ελληνικά"
+      ],
+      "title": "S.O.S.",
+      "content": "Εδώ, στον τρίτο πλανήτη\nΠοτέ δεν σβήσαν οι φωτιές\nΠώς μοιάζει με τρελό κομήτη\nΓεμάτο με πυρηνικές\n\nΤον ήλιο κάναμε εχθρό μας\nΠαντού πληγώσαμε τη γη\nΜολύναμε τον ουρανό μας\nΚαι ρίχνει όξινη βροχή\n\nΕδώ πλανήτης γη, εδώ πλανήτης γη\nSOS, SOS, SOS\nΕδώ πλανήτης γη, εδώ πλανήτης γη\nSOS, SOS, SOS\n\nΤριγύρω τα πουλιά πεθαίνουν\nΤα ψάρια βγαίνουν στη στεριά\nΠαντού οι άνθρωποι σωπαίνουν\nΔεν ξέρουν τι να κάνουν πια\n\nΕδώ πλανήτης γη, εδώ πλανήτης γη\nSOS, SOS, SOS\nΕδώ πλανήτης γη, εδώ πλανήτης γη\nSOS, SOS, SOS\n\nΕδώ πλανήτης γη, εδώ πλανήτης γη\nSOS, SOS, SOS\nSOS"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "S.O.S.",
+      "content": "Here, on the third planet\nThe fires have never died out\nHow it looks like a mad comet\nFull of nuclear arms\n\nWe've made the sun our enemy\nWe've hurt the earth everywhere\nWe've polluted our sky\nAnd acid rain is falling\n\nPlanet Earth calling, planet Earth calling\nSOS, SOS, SOS\nPlanet Earth calling, planet Earth calling\nSOS, SOS, SOS\n\nThe birds die around us\nThe fish get out on land\nAll people stay ѕilent\nThey don't know what to do anymore\n\nPlanet Earth calling, planet Earth calling\nSOS, SOS, SOS\nPlanet Earth calling, planet Earth calling\nSOS, SOS, SOS\n\nPlanet Earth calling, planet Earth cаlling\nSOS, SOS, SOS\nSOS"
+    }
+  ],
+  "bpm": 137,
+  "tone": "A major",
+  "artistPeople": [
+    "Elena Patroklou"
+  ],
+  "backings": [
+    "Alexandros Panayi",
+    "Dalida Mitzi",
+    "Nassia Trachonitou"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Kypros Charalambus"
+  ],
+  "conductor": "Alexandros Kyros Zografou",
+  "lyricists": [
+    "Andreas Christou"
+  ],
+  "writers": null,
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Evi Papamichail"
+  ],
+  "jury": null,
+  "spokesperson": "Anna Partelidou"
+}

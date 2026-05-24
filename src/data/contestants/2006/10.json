@@ -1,0 +1,56 @@
+{
+  "id": 10,
+  "country": "TR",
+  "artist": "Sibel Tüzün",
+  "song": "Superstar",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/BlIDxZ1YfVc",
+    "https://www.youtube-nocookie.com/embed/V9U8P8W3E4g",
+    "https://www.youtube-nocookie.com/embed/YOY4E_26nXo"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "turkish"
+      ],
+      "displayedLanguages": null,
+      "title": "Süper star",
+      "content": "Ay hemen doğmuyorsa, olsun\nGece uzun karanlık, olursa olsun\nGözlerin kamaşıyor, aldırma\nAşka hazır mısın?\n\nBırak seninle olsun duygun\nGözlerini kapat, sus, yüreğin vursun\nIşığım aydınlatsın geceyi\nAşka hazır mısın?\n\nKarşında süper star – sev beni\nKarşında süper star – hisset beni\nKarşında süper star – yaşa beni\nArzu benim, arzu benim, arzu benim sana\n\nKarşında süper star – sev beni\nKarşında süper star – hisset beni\nKarşında süper star – yaşa beni\nArzu benim, arzu benim, arzu benim sana\n\nAy hemen doğmayacak, olsun\nGece uzun karanlık, olsun\nGözlerin kamaşacak, aldırma\nAşka hazır mısın?\nBırak durmadan aksın duygun\nGözlerini kapat, yüreğin vursun\nIşığım aydınlatsın\n\nAy hemen doğmuyorsa, olsun\nGece uzun karanlık, olursa olsun\nGözlerin kamaşıyor, aldırma\nAşka hazır mısın?\n\nI am your superstar – you feel me, baby \nI'm your shining star – you reach me, baby \nI know what you are – just show me, baby \nAre you ready? Are you ready? \nAre you ready for love? \n\nKarşında süper star – sev beni\nKarşında süper star – hisset beni\nKarşında süper star – yaşa beni\nArzu benim, arzu benim, arzu benim sana\n\nKarşında süper star – sev beni\nKarşında süper star – hisset beni\nKarşında süper star – yaşa beni\nArzu benim, arzu benim, arzu benim ѕanа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Superstar",
+      "content": "If the moon doesn't rise quickly, let it be\nLet the night be a long darkness, if it will be, let it be\nYour eyes are glittering, don't bother\nAre you ready for love?\n\nLet your emotions be with you\nClose your eyes, be silent, let your heart beat\nLet my light clear up the night\nAre your ready for love?\n\nSuperstar in front of you – love me\nSuperstar in front of you – feel me\nSuperstar in front of you – live me\nI'm the desire, I'm the desire, I'm the desire for you\n\nSuperstar in front of you – love me\nSuperstar in front of you – feel me\nSuperstar in front of you – live me\nI'm the desire, I'm the desire, I'm the desire for you\n\nThe moon won't rise quickly, let it be\nLet the night be a long darkness, let it be\nYour eyes will glitter, don't bother\nAre you ready for love?\nLet it go, let  your emotions flow\nClose your eyes, let your heart beat\nLet my light clear it up\n\nIf the moon doesn't rise quickly, let it be\nLet the night be a long darkness, if it will be, let it be\nYour eyes are glittering, don't bother\nAre you ready for love?\n\nI am your superstar – you feel me, baby \nI'm your shining star – you reach me, baby \nI know what you are – just show me, baby \nAre you ready? Are you ready? \nAre you ready for love? \n\nSuperstar in front of you – love me\nSuperstar in front of you – feel me\nSuperstar in front of you – live me\nI'm the desire, I'm the desire, I'm the desire for you\n\nSuperstar in front of you – love me\nSuperstar in front of you – feel me\nSuperstаr in front of you – live me\nI'm the desire, I'm the desire, I'm the deѕire for you"
+    }
+  ],
+  "bpm": 132,
+  "tone": "F minor",
+  "artistPeople": [
+    "Sibel Tüzün"
+  ],
+  "backings": [
+    "Arthur Gourounlian",
+    "Glenn Ball",
+    "James Robinson",
+    "Scott Marshall"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Sibel Tüzün"
+  ],
+  "broadcaster": "TRT",
+  "commentators": [
+    "Bülend Özveren"
+  ],
+  "jury": null,
+  "spokesperson": "Meltem Ersan Yazgan"
+}

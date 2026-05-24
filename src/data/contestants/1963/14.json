@@ -1,0 +1,50 @@
+{
+  "id": 14,
+  "country": "FI",
+  "artist": "Laila Halme",
+  "song": "Muistojeni laulu",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/mIo8JxprBN0",
+    "https://www.youtube-nocookie.com/embed/qX0oNRq1Rys"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Muistojeni laulu",
+      "content": "La la la la la, la la la la la…\nLa la la la la la la la…\nLa la la la la, la la la la la…\nLa la la la la la la la…\n\nVieläkin kun kuulen sävelen tuon tunteellisen\nAina uudelleen se mieleeni saa muistotkin sen\nSinä sen mulle lauloit omistit  kokonaan\nMelkein jo luulen, äänes kun kuulen\nTä unta on vaan\n\nKun pois sä lähdit niin viel' sydämessään laulusi soi\nKenties sama laulu onnen uuden toiselle toi\nLevyäs vielä soitan, kulunut vaikkakin on\nMuistoni vain on, niin kulumaton\n\nLevyäs vielä soitan, kulunut vaikkakin on\nMuiѕtoni vain on, niin kulumaton\n\nLa la la la la, la la la la la…\nLa la la la la la la la…\nLa la la la la, la la la la la…\nLa la la la la la la lа…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The song of my memories",
+      "content": "La la la la la, la la la la la…\nLa la la la la la la la…\nLa la la la la, la la la la la…\nLa la la la la la la la…\n\nEven now when I hear that emotional tune\nAlways again it reminds me of its memories\nYou sang it to me, devoted to me in whole\nI almost think, when I hear your voice\nThis is only a dream\n\nWhen you left your song was still playing in my heart\nPerhaps the same song brought new happiness to another\nI'm still playing your record, even though it's worn\nMy memory just can't wear out\n\nI'm still playing your record, even though it's worn\nMy memory juѕt can't wear out\n\nLa la la la la, la la la la la…\nLa la la la la la la la…\nLa la la la la, la la la la la…\nLa la la la la la la lа…"
+    }
+  ],
+  "bpm": 111,
+  "tone": "D major",
+  "artistPeople": [
+    "Laila Halme"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "George de Godzinsky",
+  "lyricists": null,
+  "writers": [
+    "Börje Sundgren"
+  ],
+  "broadcaster": "YLE",
+  "commentators": [
+    "Aarno Walli"
+  ],
+  "jury": null,
+  "spokesperson": "Poppe Berg"
+}

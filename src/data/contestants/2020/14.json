@@ -1,0 +1,56 @@
+{
+  "id": 14,
+  "country": "FR",
+  "artist": "Tom Leeb",
+  "song": "The Best in Me",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/J5SOdhXjYko",
+    "https://www.youtube-nocookie.com/embed/O-1WR2Vd7Qk",
+    "https://www.facebook.com/plugins/video.php"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french",
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "",
+      "content": "La nuit comme un écho\nComme un reflet à tes mots\nDans mon cœur, je lis\nUn éternel récit\nDe toi\nDe toi, de toi, de toi\n\nYou, you are the best in me\nYou're making it all complete\nYou are, you are, you are\nIn every breath I breathe\nForever eternally\nYou are, you are, you are\nYou are the best in me\n\nJ'irai au bout des sens\nFaire voyager mon innocence\nPour qu'ils donnent vie\nÀ tout c'qu'on s'est promis\nYou are\nYou are, you are, you are\n\nYou, you are the best in me\nYou're making it all complete\nYou are, you are, you are\nIn every breath I breathe\nForever eternally\nYou are, you are, you are\nYou are the best in me\n\nMon alli, mon alliée\nMême si le temps devait s'arrêter\nSans toi, je perds le meilleur de moi\n\nYou are the best in me\n(You are the best in me)\n(You're making it all complete)\nYou are, you are, you are\nYou are the best in me\nYou're making it all complete\nYou are, you are, you are\nIn every breath I breathe\nForever eternally\nYou are, you are, you are\nYou are the best in me\nYou аre the beѕt in me"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "",
+      "content": "The night is like an echo\nLike a reflection of your words\nInside my heart, I read\nAn endless story\nAbout you\nAbout you, about you, about you\n\nYou, you are the best in me\nYou're making it all complete\nYou are, you are, you are\nIn every breath I breathe\nForever eternally\nYou are, you are, you are\nYou are the best in me\n\nI'd do the impossible\nSend my innocence on a journey\nSo that it gives birth\nTo everything we promised each other\nYou are\nYou are, you are, you are\n\nYou, you are the best in me\nYou're making it all complete\nYou are, you are, you are\nIn every breath I breathe\nForever eternally\nYou are, you are, you are\nYou are the best in me\n\nMy accomplice, my accomplice\nEven if time were to stop\nWithout you, I'd lose the best in me\n\nYou are the best in me\n(You are the best in me)\n(You're making it all complete)\nYou are, you are, you are\nYou are the best in me\nYou're making it all complete\nYou are, you are, you are\nIn every breath I breathe\nForever eternally\nYou are, you are, you are\nYou are the best in me\nYou аre the beѕt in me"
+    }
+  ],
+  "bpm": 136,
+  "tone": "C# major",
+  "artistPeople": [
+    "Tom Leeb"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Peter Boström",
+    "Thomas G:son"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Amir",
+    "John Lundvik",
+    "Léa Ivanne",
+    "Tom Leeb"
+  ],
+  "writers": null,
+  "broadcaster": "France 2",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

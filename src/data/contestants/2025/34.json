@@ -1,0 +1,378 @@
+{
+  "id": 34,
+  "country": "BE",
+  "artist": "Red Sebastian",
+  "song": "Strobe Lights",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/fl4LaADiLBY",
+    "https://www.youtube-nocookie.com/embed/oVrsnGFmuss",
+    "https://www.youtube-nocookie.com/embed/ScupiVTosHU",
+    "https://www.youtube-nocookie.com/embed/xs0Fl142kYw",
+    "https://www.youtube-nocookie.com/embed/xgMmvt3dOrM",
+    "https://www.youtube-nocookie.com/embed/pf8zTKptGbw",
+    "https://www.youtube-nocookie.com/embed/MIpw-blxGyI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Strobe Lights",
+      "content": "Strobe lights, gettin' lost in your eyes\nCotton candy haze, we're floating up in space\n\nFallin' where up is down\nScreamin', but won't make a sound\nAlice, show me your hand\nTake it to Wonderland\n\nStep into the mirror to bright new dimensions\nWhere no words are needed to feel the connection\nWhere clocks never tick and where love is the ending\nCome down through the looking glass\n\nStrobe lights, gettin' lost in your eyes\nCotton candy haze, we're floating round in space\nSkin tight, never felt so alive\nCaught up in this maze\nIt's where I wanna stay\n\nFlyin' deep underground\nSilence never felt so loud\n\nStep into the mirror to bright new dimensions\nWhere no words are needed to feel the connection\nWhere clocks never tick and where love is the ending\nCome down through the looking glass\n\nStrobe lights, gettin' lost in your eyes\nCotton candy haze, we're floating round in space\nSkin tight, I feel so alive\nCaught up in this maze\nIt's where I wanna stay\n\nThat's where I wanna stay\nThat's where I wanna ѕtаy"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "norwegian"
+      ],
+      "displayedLanguages": null,
+      "title": "Strobelys",
+      "content": "Strobelys, går meg vill i øynene dine\nSukkerspinn tåke, flyter opp i rommet\n\nFaller hvor opp er ned\nSkriker men lager ikke en lyd\nAlice, vis meg hånda di\nTa den til eventyrland\n\nTre inn i speilet til lyse nye dimensjoner\nHvor ingen ord trengs for å føle forbindelsen\nHvor klokker aldri tikker og hvor kjærlighet er slutten\nKom ned gjennom speilglasset\n\nStrobelys, går meg vill i øynene dine\nSukkerspinn tåke, flyter opp i rommet\nHudtett, aldri føltes så i live\nFanget i denne labyrinten\nDet er hvor jeg vill bli\n\nFlyr dypt under bakken\nStillheten har føltes så bråkete\n\nTre inn i speilet til lyse nye dimensjoner\nHvor ingen ord trengs for å føle forbindelsen\nHvor klokker aldri tikker og hvor kjærlighet er slutten\nKom ned gjennom speilglasset\n\nStrobelys, går meg vill i øynene dine\nSukkerspinn tåke, vi vil flyte rundt i rommet\nHudtett, aldri føltes ѕå i live\nFanget i denne lаbyrinten\nDet er hvor jeg vill bli\n\nDet er hvor jeg vil bli\nDet er hvor jeg vil bli"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": null,
+      "title": "אורות מהבהבים",
+      "content": "אורות מהבהבים, הולך לאיבוד בעיניך\nערפל של צמר גפן מתוק, מרחפים בחלל\n\nנופלים היכן שלמעלה זה למטה\nצועקים אבל לא משמיעים קול\nאליס, הראי לי את ידך\nקחי אותי לארץ הפלאות\n\nהיכנסי למראה לממדים חדשים\nשבהם לא צריך מילים כדי להרגיש את החיבור\nשבהם השעונים לא מתקתקים והאהבה היא הסוף\nבואי דרך מבעד למראה\n\nאורות מהבהבים, הולך לאיבוד בעיניך\nערפל של צמר גפן מתוק, נרחף לנו בחלל\nעור חשוף, אף פעם לא הרגשתי כל כך חי\nלכוד במבוך הזה\nכאן אני רוצה להישאר\n\nעפים עמוק מתחת לאדמה\nהשתיקה מעולם לא הרגישה כל כך רועשת\n\nהיכנסי למראה לממדים חדשים\nשבהם לא צריך מילים כדי להרגיש את החיבור\nשבהם השעונים לא מתקתקים והאהבה היא הסוף\nבואי דרך מבעד למראה\n\nאורות מהבהבים, הולך לאיבוד בעיניך\nערפל של צמר גפן מתוק, נרחף לנו בחלל\nעור חשוף, אני מרגיש כל כך חי\nלכוד במבוך הזה\nכאן אני רוצה להישאר\n\nכאן אני רוצה להישאר\nכאן אני רוצה להישאר"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "slovak"
+      ],
+      "displayedLanguages": null,
+      "title": "Stroboskopické svetlá",
+      "content": "Stroboskopické svetlá, ztrácam sa v tvojich očiach\nNiečo atraktívne, ale nepodstatné, vznášame sa vo vesmíre\n\nPadám tam, kde hore je dole\nKričím, ale nevydávam ani hlásku\nAlica, ukáž mi svoju ruku\nZober ju do krajiny zázrakov\n\nVstúpte do zrkadla, do úplne nových dimenzií\nTam, kde nepotrebujeme žiadne slová, aby sme cítili to prepojenie\nTam, kde hodiny tikajú a kde koncom je láska\nZíjdi dole cez to lákavé zrkadlo\n\nStroboskopické svetlá, ztrácam sa v tvojich očiach\nNiečo atraktívne, ale nepodstatné, vznášame sa vo vesmíre\nPriliehavý, ešte nikdy som sa necítil tak živo\nZachytený v tomto bludisku\nTo je to miesto, kde chcem zostať\n\nLietam hlboko v podzemí\nTicho ešte nikdy nebolo takéto hlasné\n\nVstúpte do zrkadla, do úplne nových dimenzií\nTam, kde nepotrebujeme žiadne slová, aby sme cítili to prepojenie\nTam, kde hodiny tikajú a kde koncom je láska\nZíjdi dole cez to lákavé zrkadlo\n\nStroboskopické svetlá, ztrácam sa v tvojich očiach\nNiečo atraktívne, ale nepodstatné, vznášame sa vo vesmíre\nPriliehavý, ešte nikdy som sa necítil tak živo\nZachytený v tomto bludisku\nTo je to miesto, kde chcem zostať\n\nTo je to miesto, kde chcem zostať\nTo je to miesto, kde chcem zoѕtаť"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "romanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Lumini stroboscopice",
+      "content": "Lumini stroboscopice, mă pierd în ochii tăi\nAbur de vată de zahăr, plutim prin spațiu\n\nCăzând acolo unde sus e jos\nStrig dar nu se-aude un sunet\nAlice, arată-mi mâna ta\nDu-mă în Țara Minunilor\n\nPășește-n oglindă spre lumi mai strălucitoare\nUnde cuvintele tac, dar simți legătura\nUnde ceasurile nu bat, iar iubirea e finalul\nCoboară prin oglinda fermecată\n\nLumini stroboscopice, mă pierd în ochii tăi\nAbur de vată de zahăr, plutim prin spațiu\nStrâns uniți, n-am fost vreodată mai vii\nPrinși în acest labirint\nAici vreau să rămân\n\nZburând adânc sub pământ\nTăcerea n-a fost nicicând atât de zgomotoasă\n\nPășește-n oglindă spre lumi mai strălucitoare\nUnde cuvintele tac, dar simți legătura\nUnde ceasurile nu bat, iar iubirea e finalul\nCoboară prin oglinda fermecată\n\nLumini stroboscopice, mă pierd în ochii tăi\nAbur de vată de zahăr, plutim prin spațiu\nStrâns uniți, n-am fost vreodată mai vii\nPrinși în acest labirint\nAici vreau să rămân\n\nAici vreau să rămân\nAici vreаu ѕă rămân"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "czech"
+      ],
+      "displayedLanguages": null,
+      "title": "Stroboskopická světla",
+      "content": "Stroboskopická světla, ztrácím se v tvých očích\nOpar z cukrové vaty, vznášející se v prostoru\n\nPadám tam, kde nahoře je dole\nKřičím, ale nevydávám ani hlásku\nAlenko, ukaž mi svou ruku\nVezmi ji do říše divů\n\nVstupte do zrcadla do zářivých nových dimenzí\nTam, kde nepotřebujeme slova, abychom cítili spojení\nKde hodiny nikdy netikají a kde láska je konec\nPojď dolů skrze zrcadlo\n\nStroboskopická světla, ztrácím se ve tvých očích\nCukrový opar, budeme se vznášet v prostoru\nPřiléhavý, nikdy jsem se necítil tak naživu\nChycen v tomhle bludišti\nJe to místo, kde chci zůstat\n\nLétám hluboko pod zemí\nTicho mi nikdy nepřipadalo tak hlasité\n\nVstupte do zrcadla do zářivých nových dimenzí\nTam, kde nejsou potřeba slova, abychom cítili spojení\nKde hodiny nikdy netikají a kde láska je konec\nPojď dolů skrze zrcadlo\n\nStroboskopická světla, která se ztrácejí ve tvých očích\nCukrový opar, budeme se vznášet ve vesmíru\nPřiléhavý, cítím se tak naživu\nChycen v tomhle bludišti\nJe to místo, kde chci zůstat\n\nJe to místo, kde chci zůstat\nJe to místo, kam chci zůѕtаt"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "croatian"
+      ],
+      "displayedLanguages": null,
+      "title": "Stroboskopska svjetla",
+      "content": "Stroboskopska svjetla, gubim se u tvojim očima\nMagla od šećerne vune, lebdimo u svemiru\n\nPadamo gdje je gore dolje\nVrištimo, ali se ne čuje zvuk\nAlice, pokaži mi ruku\nPovedi me u zemlju čudesa\n\nZakorači u zrcalo, u nove sjajne dimenzije\nGdje riječi nisu potrebne da bi osjetili povezanost\nGdje satovi nikad ne kucaju i gdje je ljubav kraj\nSiđi kroz zrcalo\n\nStroboskopska svjetla, gubim se u tvojim očima\nMagla od šećerne vune, lebdimo u svemiru\nKoža na koži, nikad se nisam osjećao življim\nZarobljen u ovom labirintu\nTu želim ostati\n\nLetimo duboko pod zemljom\nTišina nikad nije bila glasnija\n\nZakorači u zrcalo, u nove sjajne dimenzije\nGdje riječi nisu potrebne da bi osjetili povezanost\nGdje satovi nikad ne kucaju i gdje je ljubav kraj\nSiđi kroz zrcalo\n\nStroboskopska svjetla, gubim se u tvojim očima\nMagla od šećerne vune, lebdimo u svemiru\nKoža na koži, nikad se nisam osjećao življim\nZarobljen u ovom labirintu\nTu želim ostati\n\nTu želim ostati\nTu želim oѕtаti"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "irish"
+      ],
+      "displayedLanguages": null,
+      "title": "Soilse stríoc",
+      "content": "Soilse stríoc, ag dul amú i do shúile\nCrotach milis cadáis, ag snámh suas sa spás\n\nAg titim áit a bhfuil suas síos\nScreadaíl ach ní dhéanfaidh sé fuaim\nAlice, taispeáin dom do lámh\nTóg go hiontach é\n\nCéim isteach sa scáthán go toisí geal nua\nI gcás nach bhfuil gá le focail ar bith chun an nasc a mhothú\nNuair nach gcuireann cloig tic riamh agus cá bhfuil an grá mar chríoch\nTar síos tríd an ghloine ag féachaint\n\nSoilse stríoc, ag dul amú i do shúile\nCeo milis cadáis, beidh muid ag snámh thart sa spás\nCraiceann daingean, níor mhothaigh sé chomh beo sin riamh\nGafa suas sa chathair ghríobháin seo\nIs é an áit ar mhaith liom fanacht\n\nAg eitilt go domhain faoi thalamh\nNíor mhothaigh tost chomh hard sin riamh\n\nCéim isteach sa scáthán go toisí geal nua\nI gcás nach bhfuil gá le focail ar bith chun an nasc a mhothú\nNuair nach gcuireann cloig tic riamh agus cá bhfuil an grá mar chríoch\nTar síos tríd an ghloine ag féachaint\n\nSoilse stríoc, ag dul amú i do shúile\nCeo milis cadáis, beidh muid ag snámh thart sa spás\nCraiceann daingean, mothaím chomh beo\nGafa suas sa chathair ghríobháin seo\nIѕ é an áit ar mhaith liom fanacht\n\nSin an áit ar mhaith liom fanacht\nSin an áit ar mhaith liom fanаcht"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "azerbaijani"
+      ],
+      "displayedLanguages": null,
+      "title": "Strob işıqları",
+      "content": "Strob işıqları, gözlərində itib gedirəm\nŞəkər pambığı dumanı, boşluqda süzürəm\n\nYıxılıram, yuxarı aşağıdır\nQışqırıram, amma səsim çıxmır\nAlice, mənə əlini göstər\nMəni möcüzələr ölkəsinə apar\n\nGüzgüdən keç, yeni parlaq ölçülərə\nSözlər lazım deyil, hiss edirik bir-birimizi\nSaatlar heç vaxt tıqqıldamır, sevgi sondur\nGəl, keç bax bu aynadan\n\nStrob işıqları, gözlərində itib gedirəm\nŞəkər pambığı dumanı, boşluqda süzəcəyik\nDərimə yapışan hisslər, heç vaxt bu qədər canlı olmamışdım\nBu labirintə düşmüşəm\nElə burda qalmaq istəyirəm\n\nYeraltına dərin enirik\nSəssizlik heç vaxt bu qədər gur olmamışdı\n\nGüzgüdən keç, yeni parlaq ölçülərə\nSözlər lazım deyil, hiss edirik bir-birimizi\nSaatlar heç vaxt tıqqıldamır, sevgi sondur\nGəl, keç bax bu aynadan\n\nStrob işıqları, gözlərində itib gedirəm\nŞəkər pambığı dumanı, boşluqda süzəcəyik\nDərimə yapışan hisslər, heç vaxt bu qədər canlı olmamışdım\nBu labirintə düşmüşəm\nElə burda qalmaq istəyirəm\n\nElə burda qalmaq istəyirəm\nElə burda qalmаq iѕtəyirəm"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Lumières Strobos",
+      "content": "Lumières strobos, je me perds dans tes yeux\nNuages de sucre, on s'envole dans les cieux\n\nTomber où tout bascule\nCrier sans qu'un son circule\nAlice, montre-moi ta main\nEmmène-moi au pays des merveilles\n\nPasse le miroir, vers d'autres dimensions\nNul besoin de mots pour sentir l'unisson\nLà où l'amour est la fin des chemins\nDescends au miroir sans fin\n\nLumières strobos, je me perds dans tes yeux\nNuages de sucre, on s'envole dans les cieux\nSi proches, jamais été si vivant\nPiégé dans ce labyrinthe\nC'est ici que je veux rester\n\nVolant sous la surface\nLe silence fait son éclat\n\nPasse le miroir, vers d'autres dimensions\nNul besoin de mots pour sentir l'unisson\nLà où l'amour est la fin des chemins\nDescends au miroir sans fin\n\nLumières strobos, je me perds dans tes yeux\nNuages de sucre, on s'envole dans les cieux\nSi proches, jamais été si vivant\nPiégé dans ce lаbyrinthe\nC'est ici que je veux rester\n\nC'est ici que je veux rester\nC'est ici que je veux reѕter"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "indonesian"
+      ],
+      "displayedLanguages": null,
+      "title": "Lampu Strobo",
+      "content": "Lampu strobo, tersesat di matamu sendiri\nKabut gulali, kita melayang di angkasa\n\nJatuh dimana atas adalah bawah\nBerteriak, tanpa suara\nAlice, tunjukkan tanganmu\nBawa itu ke Negeri Ajaib\n\nMelangkahlah ke cermin menuju dimensi baru yang cerah\nDi mana tak perlu kata-kata 'tuk merasakan hubungan\nDi mana jam tak pernah berdetak dan di mana cinta adalah akhir\nTurunlah melalui kaca cermin\n\nLampu strobo, tersesat di matamu sendiri\nKabut gulali, kita melayang di angkasa\nKulit kuat, tak pernah merasa begitu hidup\nTerjebak dalam labirin ini\nDi situlah aku ingin tinggal\n\nTerbang jauh di bawah tanah\nKeheningan tak pernah terasa begitu keras\n\nMelangkahlah ke cermin menuju dimensi baru yang cerah\nDi mana tak perlu kata-kata 'tuk merasakan hubungan\nDi mana jam tak pernah berdetak dan di mana cinta adalah akhir\nTurunlah melalui kaca cermin\n\nLampu strobo, tersesat di matamu sendiri\nKabut gulali, kita melayang di angkasa\nKulit kuat, aku merasa sangat hidup\nTerjebak dalam labirin ini\nDi situlah aku ingin tinggal\n\nDi situlah aku ingin tinggal\nDi ѕitulah aku ingin tinggаl"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": null,
+      "title": "Φωτορυθμικά φώτα",
+      "content": "Φωτορυθμικά φώτα, χάνονται στα μάτια σου\nΟμίχλη μαλλί της γριάς, που επιπλέει στο διάστημα\n\nΠέφτω εκεί που το πάνω είναι κάτω\nΟυρλιάζω αλλά δεν βγάζω ήχο\nΑλίκη, δείξε μου το χέρι σου\nΠαρ' το στη χώρα των θαυμάτων\n\nΜπες στον καθρέφτη για φωτεινές νέες διαστάσεις\nΕκεί που δεν χρειάζονται λόγια για να νιώσεις τη σύνδεση\nΕκεί που τα ρολόγια δεν χτυπούν ποτέ και η αγάπη είναι το τέλος\nΚατέβα μέσα από το τζάμι\n\nΦωτορυθμικά φώτα, χάνονται στα μάτια σου\nΟμίχλη μαλλί της γριάς, θα επιπλέουμε στο διάστημα\nΣτενός, ποτέ δεν ένιωσα τόσο ζωντανός\nΠιάστηκα σε αυτόν τον λαβύρινθο\nΕκεί θέλω να μείνω\n\nΠετώντας βαθιά υπόγεια\nΗ σιωπή δεν αισθάνθηκε ποτέ τόσο δυνατή\n\nΜπείτε στον καθρέφτη για φωτεινές νέες διαστάσεις\nΕκεί που δεν χρειάζονται λόγια για να νιώσεις τη σύνδεση\nΕκεί που τα ρολόγια δεν χτυπούν ποτέ και η αγάπη είναι το τέλος\nΚατέβα μέσα από το τζάμι\n\nΦωτορυθμικά φώτα, χάνονται στα μάτια σου\nΟμίχλη μαλλί της γριάς, θα επιπλέουμε στο διάστημα\nΣτενός, νιώθω τόσο ζωντανός\nΠιάστηκα σε αυτόν τον λαβύρινθο\nΕκεί θέλω να μείνω\n\nΕκεί θέλω να μείνω\nΕκεί θέλω να μείνω"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "lithuanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Stroboskopinės šviesos",
+      "content": "Stroboskopinės šviesos, pasiklystu tavo akyse\nCukraus vatos migla, kuri sklando erdvėje\n\nKrentu kur viršus yra apačia\nRėkiu, bet neišleidžiu nei garso\nAlisa, parodyk man savo ranką\nNunešk mane į stebuklų šalį\n\nŽengiu į veidrodį ir pasineriu į naujus pasaulius\nKur žodžių nereikia pajusti ryšį\nTen, kur laikrodžiai netiksi ir meilė yra pabaiga\nNusileidžiu pro stebuklų veidrodį\n\nStroboskopinės šviesos, pasiklystu tavo akyse\nCukraus vatos migla, mes sklesime erdvėje\nGlotnus, niekada nesijaučiau toks gyvas\nĮsitrigęs šiame laibirinte\nČia ir noriu pasilikti\n\nSkrendu giliai po žeme\nTyla dar niekada nebuvo tokia garsi\n\nŽengiu į veidrodį ir pasineriu į naujus pasaulius\nKur žodžių nereikia pajusti ryšį\nTen, kur laikrodžiai netiksi ir meilė yra pabaiga\nNusileidžiu pro stebuklų veidrodį\n\nStroboskopinės šviesos, pasiklystu tavo akyse\nCukraus vatos migla, mes sklesime erdvėje\nGlotnus, niekada nesijaučiau toks gyvas\nĮsitrigęs šiame laibirinte\nČia ir noriu pasilikti\n\nČia ir noriu pasilikti\nČia ir noriu pаѕilikti"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "tagalog"
+      ],
+      "displayedLanguages": null,
+      "title": "Kislap ng Liwanag",
+      "content": "Kislap ng liwanag, nalulunod sa 'yong titig\nUlap na matamis, lumulutang sa langit\n\nBumabagsak kung saan paitaas ang ilalim\nSumisigaw ngunit 'di marinig ang tinig\nAlice, ipakita mo ang 'yong kamay\nDalhin mo ako sa mahiwagang paraiso\n\nPumasok sa salaming patungo sa bagong daigdig\nKung saan walang salitang kailangan upang maramdaman ang lambing\nKung saan walang orasan, pag-ibig ang hangganan\nBumaba sa salaming daan\n\nKislap ng liwanag, nalulunod sa 'yong titig\nUlap na matamis, tayo'y lulutang sa langit\nYakap ng init, ako'y nabubuhay\nNaligaw sa gubat ng hiwaga\nDito ko gustong manatili\n\nLumulutang sa kailaliman\nKatahimika'y parang sigaw ng sanlibutan\n\nPumasok sa salaming patungo sa bagong daigdig\nKung saan walang salitang kailangan upang maramdaman ang lambing\nKung saan walang orasan, pag-ibig ang hangganan\nBumaba sa salaming daan\n\nKislap ng liwanag, nalulunod sa 'yong titig\nUlap na matamis, tayo'y lulutang sa langit\nYakap ng init, ako'y nabubuhay\nNaligaw sa gubat ng hiwaga\nDito ko gustong manatili\n\nDito ko gustong manatili\nDito ko guѕtong manаtili"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "flemish"
+      ],
+      "displayedLanguages": null,
+      "title": "Stroboscoop",
+      "content": "Stroboscoop, verdwijn in jouw blik\nSuikerspinmist, zwevend door het niks\n\nVallen waar omhoog zinkt neer\nSchreeuwen, maar het klinkt niet meer\nAlice, laat jouw hand zien hier\nBreng me naar jouw land, zo fier\n\nStap door de spiegel naar stralende sferen\nWaar geen woorden nodig zijn om te verbinden\nWaar klokken nooit tikken en liefde nooit stopt\nKom mee, door de spiegel zacht\n\nStroboscoop, verdwijn in jouw blik\nSuikerspinmist, we zweven door het niks\nHuid aan huid, nog nooit zo geleefd\nVerdwaald in dit doolhof\nHier wil ik steeds blijven\n\nVliegen diep de grond in laag\nStilte voelt zo luid vandaag\n\nStap door de spiegel naar stralende sferen\nWaar geen woorden nodig zijn om te verbinden\nWaar klokken nooit tikken en liefde nooit stopt\nKom mee, door de spiegel zacht\n\nStroboscoop, verdwijn in jouw blik\nSuikerspinmist, we zweven door het niks\nHuid aan huid, nog nooit zo geleefd\nVerdwaаld in dit doolhof\nHier wil ik steeds blijven\n\nHier wil ik steeds blijven\nHier wil ik steedѕ blijven"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "ukrainian"
+      ],
+      "displayedLanguages": null,
+      "title": "Стробоскопи",
+      "content": "Стробоскопи, гублюся у твоїх очах\nСолодка імла, відносить у космос\n\nПадаю туди, де вгору — це вниз\nКричу, але не видаю ні звуку\nАліса, покажи мені руку\nЗабери в Країну Чудес\n\nЗроби в яскраві нові виміри у дзеркало крок\nДе слова не потрібні, щоб відчути зв'язок\nДе годинники не йдуть, а любов — це завершення\nСпустися вниз крізь задзеркалля\n\nСтробоскопи, гублюся у твоїх очах\nСолодка імла, ми будемо блукати в космосі\nЩільно, ніколи не почувався таким живим\nЗастряг у цьому лабіринті\nІ хочу тут залишитися\n\nПоліт глибоко під землею\nТиша ніколи не була такою гучною\n\nЗроби в яскраві нові виміри у дзеркало крок\nДе слова не потрібні, щоб відчути зв'язок\nДе годинники не йдуть, а любов — це завершення\nСпустися вниз крізь задзеркалля\n\nСтробоскопи, гублюся у твоїх очах\nСолодка імла, ми будемо блукати в космосі\nЩільно, ніколи не почувався таким живим\nЗастряг у цьому лабіринті\nІ хочу тут залишитися\n\nЦе те, де я хочу залишитися\nЦе те, де я хочу залишитися"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Luci Stroboscopiche",
+      "content": "Luci stroboscopiche, mi perdo nei tuoi occhi\nNebbia di zucchero filato, stiamo galleggiando nello spazio\n\nCadendo dove sopra è sotto\nUrlando, ma senza emettere un suono\nAlice, fammi vedere la mano\nPortala nel Paese delle Meraviglie\n\nEntra dentro lo specchio verso dimensioni nuove e splendenti\nDove non ci servono parole per sentire i legami\nDove gli orologi non fanno tic toc e l'amore è il finale\nScendi qui attraverso lo specchio\n\nLuci stroboscopiche, mi perdo nei tuoi occhi\nNebbia di zucchero filato, stiamo galleggiando nello spazio\nCosì vicini, non mi sono mai sentito così vivo\nQuesto labirinto\nÈ dove voglio stare\n\nVolando nel profondo della terra\nIl silenzio non mi è mai sembrato così assordante\n\nEntra dentro lo specchio verso dimensioni nuove e splendenti\nDove non ci servono parole per sentire i legami\nDove gli orologi non fanno tic toc e l'amore è il finale\nScendi qui attraverso lo specchio\n\nLuci stroboscopiche, mi perdo nei tuoi occhi\nNebbia di zucchero filato, stiamo galleggiando nello spazio\nCosì vicini, non mi sono mai sentito così vivo\nQuesto labirinto\nÈ dove voglio stare\n\nE' lì che voglio stare\nE' lì che voglio ѕtаre"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "serbian"
+      ],
+      "displayedLanguages": null,
+      "title": "Stroboskopi",
+      "content": "Stroboskopi, gubim se u tvojim očima\nMagla boje šećerne vune, lebdimo u svemiru\n\nPadamo tamo gde je gore dole\nVrištimo, ali se ne čuje zvuk\nAlisa, pokaži mi svoju ruku\nPovedi me u zemlju čuda\n\nZakorači u ogledalo, u svet novih dimenzija\nGde reči nisu potrebne da osetiš povezanost\nGde satovi ne otkucavaju i gde ljubav je kraj\nSiđi kroz ogledalo\n\nStroboskopi, gubim se u tvojim očima\nMagla boje šećerne vune, lebdimo u svemiru\nKoža na kožu, nikad se nisam osećao življe\nZarobljen u ovom lavirintu\nTu želim da ostanem\n\nLetimo duboko ispod zemlje\nTišina nikada nije bila glasnija\n\nZakorači u ogledalo, u svet novih dimenzija\nGde reči nisu potrebne da osetiš povezanost\nGde satovi ne otkucavaju i gde ljubav je kraj\nSiđi kroz ogledalo\n\nStroboskopi, gubim se u tvojim očima\nMagla boje šećerne vune, lebdimo u svemiru\nKoža na kožu, osećam se življe nego ikad\nZarobljen u ovom lavirintu\nTu želim da ostanem\n\nTu želim da ostanem\nTu želim da oѕtаnem"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "esperanto"
+      ],
+      "displayedLanguages": null,
+      "title": "Strobaj Lumoj",
+      "content": "Strobaj lumoj, mi perdiĝas en viaj okuloj\nKoton-sukera nebulo, flosante tra la spaco\n\nFalante kie supre estas malsupre\nKriante, sed sen sono\nAlico, montru al mi vian manon\nKonduku min al Mirlando\n\nPaŝu en la spegulon al brilaj novaj dimensioj\nKie neniuj vortoj necesas por senti la ligon\nKie horloĝoj neniam tik-takas kaj kie amo estas la fino\nVenu tra la spegula vitro\n\nStrobaj lumoj, mi perdiĝas en viaj okuloj\nKoton-sukera nebulo, ni flosos tra la spaco\nHaŭto proksime, mi neniam sentis min tiel viva\nKaptita en ĉi tiu labirinto\nJen kie mi volas resti\n\nFlugante profunde subtere\nSilento neniam ŝajnis tiel laŭta\n\nPaŝu en la spegulon al brilaj novaj dimensioj\nKie neniuj vortoj necesas por senti la ligon\nKie horloĝoj neniam tik-takas kaj kie amo estas la fino\nVenu tra la spegula vitro\n\nStrobaj lumoj, mi perdiĝas en viaj okuloj\nKoton-sukera nebulo, ni flosos tra la spaco\nHaŭto proksime, mi sentas min tiel viva\nKaptita en ĉi tiu labirinto\nJen kie mi volas resti\n\nJen kie mi volas resti\nJen kie mi volаs reѕti"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "danish"
+      ],
+      "displayedLanguages": null,
+      "title": "Strobelys",
+      "content": "Strobelys, farer vild i dine øjne\nCandyfloss-tåge, flyder ude i universet\n\nFalder, hvor op er ned\nSkriger, men der kommer ingen lyd\nAlice, vis mig din hånd\nTag den til eventyrland\n\nTræd ind i spejlet mod strålende nye dimensioner\nHvor ingen ord behøves for at føle forbindelsen\nHvor urene aldrig tikker og hvor kærlighed er enden\nKom ned gennem spejlet\n\nStrobelys, farer vild i dine øjne\nCandyfloss-tåge, vi vil flyde rundt i universet\nÅlestram, har aldrig følt mig så levende\nFanget i den her labyrint\nDet er hvor jeg har lyst til at blive\n\nFlyver dybt under jorden\nStilhed har aldrig føltes så højt\n\nTræd ind i spejlet mod strålende nye dimensioner\nHvor ingen ord behøves for at føle forbindelsen\nHvor urene aldrig tikker og hvor kærlighed er enden\nKom ned gennem spejlet\n\nStrobelys, farer vild i dine øjne\nCandyfloss-tåge, vi vil flyde rundt i universet\nÅlestram, jeg føler mig så levende\nFanget i den her labyrint\nDet er hvor jeg har lyst til at blive\n\nDet er hvor jeg har lyst til at blive\nDet er hvor jeg har lyѕt til аt blive"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Välkkyvät valot",
+      "content": "Välkkyvät valot, eksyy silmissäsi\nHattara usva, leijuu avaruudessa\n\nTippuu missä ylös on alhaalla\nKiljun, mutta en tee ääntä\nAlice, näytä minulle kätesi\nVie se ihmemaahan\n\nAstu peiliin uusiin kirkkaisiin ulottuvuuksiin\nMissä yhteyden tuntemiseen ei tarvita sanoja\nMissä kellot eivät ikinä tikitä ja rakkaus loppuu\nTule alas katselasin läpi\n\nVälkkyvät valot, eksyy silmissäsi\nHattara usva, leijumme avaruudessa ympäriinsä\nIhonpitävä, koskaan tuntenut olevansa niin elävä\nJäin kiinni tähän sokkeloon\nSinne haluan jäädä\n\nLennän syvällä maan alla\nHiljaisuus ei koskaan tuntunut näin kovalta\n\nAstu peiliin uusiin kirkkaisiin ulottuvuuksiin\nMissä yhteyden tuntemiseen ei tarvita sanoja\nMissä kellot eivät ikinä tikitä ja rakkaus loppuu\nTule alas katselasin läpi\n\nVälkkyvät valot, eksyy silmissäsi\nHattara usva, leijumme avaruudessa ympäriinsä\nIhonpitävä, koskaan tuntenut olevansa niin elävä\nJäin kiinni tähän ѕokkeloon\nSinne haluan jäädä\n\nSe on minne haluan jäädä\nSe on minne haluаn jäädä"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "thai"
+      ],
+      "displayedLanguages": null,
+      "title": "ไฟสโตรบ",
+      "content": "ไฟสโตรบ ลอยหายไปในตาของเธอ\nม่านน้ำตาลอันหวานลอยอยู่ในอวกาศ\n\nตกลงไปที่ที่ฟ้าคือพื้น\nกรีดร้องแต่ไม่มีเสียง\nอลิซ แสดงมือให้ฉันดู\nพาไปสู่ดินแดนมหัศจรรย์\n\nก้าวเข้าไปในกระจกสู่มิติใหม่ที่สดใส\nที่ซึ่งไม่ต้องใช้คำพูดเพื่อรู้สึกถึงการเชื่อมต่อ\nที่ที่นาฬิกาไม่เคยเดิน และที่รักคือจุดจบ\nลงมาผ่านกระจกเงา\n\nไฟสโตรบ ลอยหายไปในตาของเธอ\nม่านน้ำตาลอันหวาน เราจะลอยอยู่ในอวกาศ\nชุดรัดแน่น รู้สึกมีชีวิตชีวา\nหลงอยู่ในเขาวงกตนี้\nที่นี่คือที่ที่ฉันอยากอยู่\n\nบินลึกลงไปใต้ดิน\nความเงียบที่ไม่เคยรู้สึกดังขนาดนี้\n\nก้าวเข้าไปในกระจกสู่มิติใหม่ที่สดใส\nที่ซึ่งไม่ต้องใช้คำพูดเพื่อรู้สึกถึงการเชื่อมต่อ\nที่ที่นาฬิกาไม่เคยเดิน และที่รักคือจุดจบ\nลงมาผ่านกระจกเงา\n\nไฟสโตรบ ลอยหายไปในตาของเธอ\nม่านน้ำตาลอันหวาน เราจะลอยอยู่ในอวกาศ\nชุดรัดแน่น รู้สึกมีชีวิตชีวา\nหลงอยู่ในเขาวงกตนี้\nที่นี่คือที่ที่ฉันอยากอยู่\n\nที่นี่คือที่ที่ฉันอยากอยู่\nที่นี่คือที่ที่ฉันอยากอยู่"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "catalan"
+      ],
+      "displayedLanguages": null,
+      "title": "Llums Estroboscòpiques",
+      "content": "Llums estroboscòpiques, perdent-se en els teus ulls\nCalima de cotó de sucre, flotant amunt a l'espai\n\nCaient on amunt és avall\nCridant però sense fer cap so\nAlícia, ensenya'm la mà\nPorta-la al país de les meravelles\n\nEntra al mirall cap a brillants, noves dimensions\nOn no calen paraules per sentir la connexió\nOn els rellotges no fan tic-tac i on l'amor és el final\nBaixa a través del mirall\n\nLlums estroboscòpiques, perdent-se en els teus ulls\nCalima de cotó de sucre, flotarem per l'espai\nAjustat com la pell, mai m'he sentit tan viu\nAtrapat en aquest laberint\nÉs on em vull quedar\n\nVolant profundament sota terra\nEl silenci mai s'havia sentit tan fort\n\nEntra al mirall cap a brillants, noves dimensions\nOn no calen paraules per sentir la connexió\nOn els rellotges no fan tic-tac i on l'amor és el final\nBaixa a través del mirall\n\nLlums estroboscòpiques, perdent-se en els teus ulls\nCalima de cotó de sucre, flotarem per l'espai\nAjustat com la pell, mai m'he sentit tan viu\nAtrapat en aquest laberint\nÉs on em vull quedar\n\nÉs on em vull quedar\nÉѕ on em vull quedаr"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "Flikkerende Lichten",
+      "content": "Flikkerende lichten die verdwalen in je ogen\nEen suikerspin waas drijvend in de ruimte\n\nVallen waar de top de bodem is\nIk schreeuw, maar ik maak geen geluid\nAlice, laat me je hand zien\nBreng haar naar wonderland\n\nStap in de spiegel, in nieuwe heldere dimensies\nWaar je geen woorden nodig hebt om je verbonden te voelen\nWaar de klok nooit tikt en waar liefde het einde is\nGa naar beneden in de spiegel\n\nFlikkerende lichten die verdwalen in je ogen\nEen waas van suikerspin, we zullen zweven in de ruimte\nStrak, ik voel me levend\nIk ben verdwaald in dit doolhof\nDaar wil ik blijven\n\nVliegen diep onder de grond\nDe stilte leek nog nooit zo luid\n\nStap in de spiegel, in nieuwe heldere dimensies\nWaar je geen woorden nodig hebt om je verbonden te voelen\nWaar de klok nooit tikt en waar liefde het einde is\nKijk door de spiegel\n\nFlikkerende lichten die verdwalen in je ogen\nIn een mist van suikerѕpin, zullen we zweven in de ruimte\nStrak, ik voel me levend\nIk ben verdwaald in dit doolhof\nDaar wil ik blijven\n\nDaar wil ik blijven\nDaаr wil ik blijven"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Stroboskopljus",
+      "content": "Stroboskopljus, förlorar mig i dina ögon\nSockervaddsdimma, svävar upp i rymden\n\nFaller där upp är ner\nSkriker men utan ljud\nAlice, visa mig din hand\nTa mig till underlandet\n\nKliv in genom spegeln till lysande nya dimensioner\nDär inga ord behövs för att känna förbindelsen\nDär klockor aldrig tickar och där kärlek är slutet\nKom ner genom spegelglaset\n\nStroboskopljus, förlorar mig i dina ögon\nSockervaddsdimma, vi svävar runt i rymden\nHudtajt, har aldrig känt mig så levande\nFångad i denna labyrint\nDet är där jag vill stanna\n\nFlyger djupt under marken\nTystnaden har aldrig känts så högljudd\n\nKliv in genom spegeln till lysande nya dimensioner\nDär inga ord behövs för att känna förbindelsen\nDär klockor aldrig tickar och där kärlek är slutet\nKom ner genom spegelglaset\n\nStroboskopljus, förlorar mig i dina ögon\nSockervaddsdimma, vi svävar runt i rymden\nHudtight, jag känner mig så levande\nFångad i denna labyrint\nDet är där jag vill stanna\n\nDet är där jag vill stanna\nDet är där jag vill ѕtannа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Мерцающие огни",
+      "content": "Мерцающие огни, теряющиеся в твоих глазах\nДымка из сахарной ваты, парящая в пространстве\n\nПадаю туда, где верх - это низ\nКричу, но не издаю ни звука\nАлиса, покажи мне свою руку\nПеренеси ее в страну чудес\n\nШагни в зеркало, в новые яркие измерения\nГде не нужны слова, чтобы почувствовать связь\nТам, где часы никогда не тикают, и где любовь - это конец\nСпустись в зазеркалье\n\nМерцающие огни, теряющиеся в твоих глазах\nДымка из сахарной ваты, мы будем парить в космосе\nОбтягивающий, я чувствую себя живым\nЯ запутался в этом лабиринте\nВот где я хочу остаться\n\nЛечу глубоко под землю\nТишина никогда не казалась такой громкой\n\nШагни в зеркало, в новые яркие измерения\nГде не нужны слова, чтобы почувствовать связь\nГде часы никогда не тикают и где любовь - это конец\nЗагляни в зазеркалье\n\nМерцающие огни, теряющиеся в твоих глазах\nВ тумане из сахарной ваты, мы будем парить в космосе\nОбтягивающий, я чувствую себя живым\nЯ запутался в этом лабиринте\nВот где я хочу остаться\n\nВот где я хочу остаться\nВот где я хочу остаться"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "turkish"
+      ],
+      "displayedLanguages": null,
+      "title": "Strop Işıkları",
+      "content": "Strop ışıkları, gözlerinde kayboluyorum\nPamuk şeker bulutu, uzayda süzülüyoruz\n\nYukarı aşağı düşerken\nBağırıyorum ama ses çıkmıyor\nAlice, bana elini göster\nBeni harikalar diyarına götür\n\nAynaya girip yeni parlak boyutlara adım at\nBağlantıyı hissetmek için kelimeler gerekmiyor\nSaatler hiç tik tak etmez ve aşk sonuca ulaşır\nAynadan aşağı in\n\nStrop ışıkları, gözlerinde kayboluyorum\nPamuk şeker bulutu, uzayda dolanacağız\nDaracık, hiç bu kadar canlı hissetmedim\nBu labirentte kayboldum\nBurada kalmak istiyorum\n\nDerinlerde uçuyorum\nSessizlik hiç bu kadar gürültülü olmamıştı\n\nAynaya girip yeni parlak boyutlara adım at\nBağlantıyı hissetmek için kelimeler gerekmiyor\nSaatler hiç tik tak etmez ve aşk sonuca ulaşır\nAynadan aşağı in\n\nStrop ışıkları, gözlerinde kayboluyorum\nPamuk şeker bulutu, uzayda dolanacağız\nDaracık, kendimi çok canlı hissediyorum\nBu labirentte kayboldum\nBurada kalmak istiyorum\n\nOrada kalmak istediğim yer\nOrada kalmаk iѕtediğim yer"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "maltese"
+      ],
+      "displayedLanguages": null,
+      "title": "Dawl Iteptep",
+      "content": "Dawl iteptep, jintillef f'għajnejk\nTajjar tal-ħelu, jitbandal fl-ispazju\n\nJaqa' fejn fuq hu isfel\nIwerżaq iżda ma jagħmilx ħoss\nAliċja, urini jdejk\nĦudni fid-dinja tal-meravilja\n\nAqbeż fil-mera biex idawwal dimensjonijiet ġodda\nFejn m'hemmx bżonn kliem biex tħoss l-għaqda\nFejn l-arloġġi qatt ma tektku u fejn l-imħabba qatt ma tintemm\nEjja 'l isfel lejn il-lenti\n\nDawl iteptep, jintillef f'għajnejk\nTajjar tal-ħelu, jitbandal fl-ispazju\nIssikat, qatt ma ħassejtni daqsekk ħajja\nInqbadt f'dan il-labirint\nFejn nixtieq nibqa'\n\nIntir 'l isfel taħt l-art\nIs-silenzju qatt ma nstema' daqsekk jgħajjat\n\nAqbeż fil-mera biex idawwal dimensjonijiet ġodda\nFejn m'hemmx bżonn kliem biex tħoss l-għaqda\nFejn l-arloġġi qatt ma tektku u fejn l-imħabba qatt ma tintemm\nEjja 'l isfel lejn il-lenti\n\nDawl iteptep, jintillef f'għajnejk\nTajjar tal-ħelu, jitbandal fl-ispazju\nIssikat, qatt ma ħassejtni daqѕekk ħajja\nInqbadt f'dan il-labirint\nFejn nixtieq nibqa'\n\nHawn hu fejn nixtieq nibqa'\nHawn hu fejn nixtieq nibqа'"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Stroboskoplichter",
+      "content": "Stroboskopische Lichter, sich in deinen Augen verlieren\nZuckerwatten-Nebel, schwebend im Raum\n\nFallen wo oben unten ist\nSchreien, aber es macht kein Geräusch\nAlice, zeig mir deine Hand\nBring es ins Wunderland\n\nSteig in den Spiegel in neue leuchtende Dimensionen\nWo keine Wörter nötig sind, um die Verbindung zu fühlen\nWo Uhren nicht ticken und wo Liebe das Ende ist\nKomm runter durch den Spiegel\n\nStroboskopische Lichter, sich in deinen Augen verlieren\nZuckerwatten-Nebel, wir schweben durch den Raum\nHauteng, niemals fühlte ich mich so lebendig\nGefangen in diesem Labyrinth\nDas ist wo ich bleiben will\n\nFliegen, tief unter der Erde\nStille fühlte sich nie so laut an\n\nSteig in den Spiegel in neue leuchtende Dimensionen\nWo keine Wörter nötig sind, um die Verbindung zu fühlen\nWo Uhren nicht ticken und wo Liebe das Ende ist\nKomm runter durch den Spiegel\n\nStroboskopische Lichter, sich in deinen Augen verlieren\nZuckerwatten-Nebel, wir schweben durch den Raum\nHauteng, ich fühle mich so lebendig\nGefangen in diesem Labyrinth\nDas ist wo ich bleiben will\n\nDas ist wo ich bleiben will\nDаs iѕt wo ich bleiben will"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Luzes Intermitentes",
+      "content": "Luzes intermitentes, me perdendo em seus olhos\nNévoa de algodão-doce, flutuando pelo espaço\n\nCaindo onde o alto é baixo\nGritando, mas sem fazer som\nAlice, mostre-me sua mão\nLeve-me ao País das Maravilhas\n\nEntre no espelho para novas dimensões brilhantes\nOnde nenhuma palavra é necessária para sentir a conexão\nOnde os relógios nunca fazem tique-taque e o amor é o destino\nVenha pelo espelho mágico\n\nLuzes intermitentes, a perder-me nos teus olhos\nNévoa de algodão-doce, vamos flutuar pelo espaço\nPele colada, nunca me senti tão vivo\nPreso nesse labirinto\nÉ onde eu quero ficar\n\nVoando bem fundo no subsolo\nO silêncio nunca pareceu tão alto\n\nEntre no espelho para novas dimensões brilhantes\nOnde nenhuma palavra é necessária para sentir a conexão\nOnde os relógios nunca fazem tique-taque e o amor é o destino\nVenha pelo espelho mágico\n\nLuzes intermitentes, me perdendo em seus olhos\nNévoa de algodão-doce, vamos flutuar pelo espaço\nPele colada, me sinto tão vivo\nPreso nesѕe labirinto\nÉ onde eu quero ficar\n\nÉ onde eu quero ficar\nÉ onde eu quero ficаr"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Luces Estroboscópicas",
+      "content": "Luces estroboscópicas, perdiéndose en tus ojos\nBruma de algodón de azúcar, flotando arriba en el espacio\n\nCayendo donde arriba es abajo\nGritando pero sin hacer ningún sonido\nAlicia, muéstrame tu mano\nLlévala al país de las maravillas\n\nDa un paso dentro del espejo a brillantes nuevas dimensiones\nDonde no se necesitan palabras para sentir la conexión\nDonde los relojes nunca hacen tictac y donde el amor es el final\nBaja a través del espejo\n\nLuces estroboscópicas, perdiéndose en tus ojos\nNiebla de algodón de azúcar, flotaremos en el espacio c\nCeñidos, nunca me sentí tan vivo\nAtrapado en este laberinto\nEs donde me quiero quedar\n\nVolando profundo bajo tierra\nEl silencio nunca se sintió tan fuerte\n\nDa un paso dentro del espejo a brillantes nuevas dimensiones\nDonde no se necesitan palabras para sentir la conexión\nDonde los relojes nunca hacen tictac y donde el amor es el final\nBaja a través del espejo\n\nLuces estroboscópicas, perdiéndose en tus ojos\nNiebla de algodón de azúcar, flotaremos en el espacio\nCeñidos, nunca me sentí tan vivo\nAtrapado en este laberinto\nEs donde me quiero quedar\n\nEs donde me quiero quedar\nEѕ donde me quiero quedаr"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "hungarian"
+      ],
+      "displayedLanguages": null,
+      "title": "Villogó fények",
+      "content": "Villogó fények, elveszek a szemeidben\nVattacukor köd, lebeg az űrben\n\nEsni oda, ahol a lent az fent\nOrdítani, de nem kiadni hangot\nAlice, add a kezed\nVigyél el Csodaországba\n\nLépj be a tükörbe, új, világosabb dimenziókba\nAhol nincs szükség szavakra, hogy érezd a kötődést\nAhol az órák soha nem ketyegnek, és ahol a szerelem a vég\nGyere le a mágikus tükrön keresztül\n\nVillogó fények, elveszek a szemeidben\nVattacukor köd, lebegünk az űrben\nKözel egymáshoz, sose éreztük ennyire élőnek magunkat\nEbben a labirintusban ragadtunk\nItt akarok maradni\n\nMélyen a föld alatt repülve\nA csend soha nem volt ilyen hangos\n\nLépj be a tükörbe, új, világosabb dimenziókba\nAhol nincs szükség szavakra, hogy érezd a kötődést\nAhol az órák soha nem ketyegnek, és ahol a szerelem a vég\nGyere le a mágikus tükrön keresztül\n\nVillogó fények, elveszek a szemeidben\nVattacukor köd, lebegünk az űrben\nKözel egymáshoz, sose éreztük ennyire élőnek magunkat\nEbben a labirintuѕban ragadtunk\nItt akarok maradni\n\nItt akarok maradni\nItt akarok marаdni"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "chinese"
+      ],
+      "displayedLanguages": null,
+      "title": "閃光燈",
+      "content": "閃光燈　迷失在你的眼眸中\n棉花糖霧氣　漂浮在太空中\n\n墜落於上下不分的地方\n放聲尖叫卻出不了聲音\n愛麗絲　讓我看妳的手\n帶著它邁入仙境\n\n踏入鏡子　進入明亮的新領域\n在那　毋須言語就能感受連結\n在那　時鐘靜止　愛就是終點\n穿過那鏡面走下來吧\n\n閃光燈　迷失在你的眼眸中\n棉花糖霧氣　我們在太空中漂浮\n緊貼肌膚　從未如此有活力\n陷進這一座迷宮\n我就想留在這裡\n\n在地底深處飛翔著\n沉默從未如此響亮\n\n踏入鏡子　進入明亮的新領域\n在那　毋須言語就能感受連結\n在那　時鐘靜止　愛就是終點\n穿過那鏡面走下來吧\n\n閃光燈　迷失在你的眼眸中\n棉花糖霧氣　我們在太空中漂浮\n緊貼肌膚　我感到活力充沛\n陷進這一座迷宮\n我就想留在這裡\n\n我就想留在這裡\n我就想留在這裡"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "latin"
+      ],
+      "displayedLanguages": null,
+      "title": "micantia luminaria",
+      "content": "Trementibus lumina erratus in oculis tuis\nA bombacio Candy obducto spatio volitare\n\nRecidisset in quo summo fundo est\nClamo sed nihil sonus\nAlicia, ostende manum tuam\nUt eam in Terra Mirabili\n\nIn speculum, in novas dimensiones claras\nUbi non opus est verbis sentire connexa\nUbi horologium numquam ticks et ubi amor est finis\nDescende in speculo\n\nTrementibus lumina erratus in oculis tuis\nObducto bombicis Candy, nos in spatio innatat\nStricta, sentio vivere\nEgo lost in hoc error\nId ubi vis manere\n\nSub alta volans\nSilentium numquam tanta\n\nIn speculum, in novas dimensiones claras\nUbi non opus est verbis sentire connexa\nUbi horologium numquam ticks et ubi amor est finis\nVide per speculum\n\nTrementibus lumina erratus in oculis tuis\nIn caligine bombicis Candy, in spatio innatat\nStricta, sentio vivere\nEgo lost in hoc error\nId ubi vis manere\n\nId ubi vis manere\nId ubi viѕ mаnere"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "polish"
+      ],
+      "displayedLanguages": null,
+      "title": "Światła stroboskopowe",
+      "content": "Światła stroboskopowe, gubiące się w twoich oczach\nMgiełka waty cukrowej, unosząca się w przestrzeni\n\nSpadanie tam, gdzie góra to dół\nKrzycząc, ale nie wydając żadnego dźwięku\nAlicjo, pokaż mi swoją dłoń\nZabierz ją do krainy czarów\n\nWejdź w lustro do jasnych nowych wymiarów\nGdzie żadne słowa nie są potrzebne, by poczuć więź\nGdzie zegary nigdy nie tykają i gdzie miłość jest końcem\nZejdź na dół przez lustro\n\nŚwiatła stroboskopowe, gubiące się w twoich oczach\nMgiełka waty cukrowej, będziemy unosić się w przestrzeni\nObciśle, nigdy nie czułem się tak żywy\nZłapany w tym labiryncie\nTo jest miejsce, w którym chcę zostać\n\nLecąc głęboko pod ziemią\nCisza nigdy nie była tak głośna\n\nKrok w lustro do jasnych nowych wymiarów\nGdzie żadne słowa nie są potrzebne, by poczuć więź\nGdzie zegary nigdy nie tykają i gdzie miłość jest końcem\nZejdź w dół przez lustro\n\nŚwiatła stroboskopowe, gubiące się w twoich oczach\nMgiełka waty cukrowej, będziemy unosić się w przestrzeni\nObciśle, czuję się taki żywy\nZłapany w ten labirynt\nTo jest miejsce, w którym chcę zostać\n\nTo tam chcę zostać\nTo tam chcę zoѕtаć"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "latvian"
+      ],
+      "displayedLanguages": null,
+      "title": "Stroboskopiskās gaismas",
+      "content": "Stroboskopiskās gaismas, pazušana tavās acīs\nCukurvates migla, ceļas augšup kosmosā\n\nKrišana, kur augšup ir lejup\nKliegšana, bet bez skaņas\nAlise, parādi man savu roku\nPaņem to uz brīnumzemi\n\nIekāp spogulī uz spilgtām jaunām dimensijām\nKur vārdi nav vajadzīgi, lai sajustu savienojumu\nKur pulksteņi nekad netikšķ un kur mīlestība ir beigas\nNāc lejup caur palielināmo stiklu\n\nStroboskopiskās gaismas, pazušana tavās acīs\nCukurvates migla, ceļas augšup kosmosā\nApspīlēts, nekad neesmu juties tik dzīvs\nIesprostots šajā labirintā\nTur es vēlos palikt\n\nLidošana dziļi pazemē\nKlusums nekad nav šķitis tik skaļš\n\nIekāp spogulī uz spilgtām jaunām dimensijām\nKur vārdi nav vajadzīgi, lai sajustu savienojumu\nKur pulksteņi nekad netikšķ un kur mīlestība ir beigas\nNāc lejup caur palielināmo stiklu\n\nStroboskopiskās gaismas, pazušana tavās acīs\nCukurvates migla, ceļas augšup kosmosā\nApspīlēts, nekad neesmu juties tik dzīvs\nIesprostots šajā labirintā\nTur es vēlos palikt\n\nTur es vēlos palikt\nTur es vēloѕ pаlikt"
+    }
+  ],
+  "bpm": 145,
+  "tone": "G major",
+  "artistPeople": [
+    "Seppe Herreman"
+  ],
+  "backings": [
+    "Lani Pellegrini"
+  ],
+  "dancers": [
+    "Bruno De Rouck",
+    "Goran Tourenne",
+    "Hugo Gebbia"
+  ],
+  "stageDirector": "Yves Ruth",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Ameerah A. Roelants",
+    "Billie Bentein",
+    "Seppe Herreman",
+    "Willem Vanderstichele"
+  ],
+  "broadcaster": "VRT",
+  "commentators": [
+    "Jean-Louis Lahaye",
+    "Joëlle Scoriels",
+    "Peter Van de Veire"
+  ],
+  "jury": [
+    "Billie Leyers",
+    "Hans Francken",
+    "Indy van Cauwenberg",
+    "Noémie Wolfs",
+    "Xavier Taveirne"
+  ],
+  "spokesperson": "Manu Van Acker"
+}

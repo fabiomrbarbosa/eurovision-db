@@ -1,0 +1,73 @@
+{
+  "id": 11,
+  "country": "LT",
+  "artist": "Ieva Zasimauskaitė",
+  "song": "When We're Old",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/pPDFhfU25go",
+    "https://www.youtube-nocookie.com/embed/srUdgydGEfI",
+    "https://www.youtube-nocookie.com/embed/q5zBaNFUQ9A",
+    "https://www.youtube-nocookie.com/embed/ezev-dWcd_E",
+    "https://www.youtube-nocookie.com/embed/ZkfcI_s2Uzc",
+    "https://www.youtube-nocookie.com/embed/uqWgSn-gh8c",
+    "https://www.youtube-nocookie.com/embed/psREd4I-KEo"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "When We're Old",
+      "content": "I know I'll never forget that day when first time we met\nWe've come a long way since then and I would do It all again\nFrom your very first smile I knew that I'd walk a mile\nSee it's for real when you know you never want to let go\n\nThese are the reasons I want you to know (oh oh oh)\nYou make this place feel like home\nThese are the reasons I can't let you go (oh oh oh)\nLet's sing this song that we wrote\nWhen we're old (oh oh oh)\nWhen we're old (oh oh oh)\n\nNo matter what comes our way I feel like you're here to stay\nYou were there right from the start and let me inside your heart\nAfter all this time, I hate the sound of goodbye\nAnd if you leave I would…\n\nThese are the reasons I want you to know (oh oh oh)\nYou make this place feel like home\nThese are the reasons I can't let you go (oh oh oh)\nLet's sing this song that we wrote\nWhen we're old (oh oh oh)\nWhen we're old (oh oh oh)\n\nRight from our very first kiss I knew it'll end up like thiѕ\nI'm not afraid to grow old if I have your hаnd to hold"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "lithuanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Kol myliu",
+      "content": "Mums nebereikia kalbėt, galiu iškart pažadėt:\nTuo vingiuotu keliu norėsiu eiti kartu\nNuo vienos šypsenos man pasaulis sustos\nNes kai taip stipriai myli, atrodo, mirti gali\n\nO visa kita yra nesvarbu, (o-o-o)\nKol tavo ranką turiu\nVisą pasaulį paversim savu. (o-o-o)\nŽinau, suklyst negaliu\nKol myliu (a-a-o)\nKol myliu (a-a-o)\nKas benutiks priešaky, žinok, mane tu turi\nGalėčiau viską atleist ir širdin įsileist\nNiekad nepaleist\nTik stipriau apkabink ir kad myli primink\n\nO visa kita yra nesvarbu, (o-o-o)\nKol tavo ranką turiu\nVisą pasaulį paversim savu. (o-o-o)\nŽinau, suklyst negaliu\nKol myliu (a-a-o)\nKol myliu (a-a-o)\n\nJaučiau tai nuo pat pradžių:\nViską įveiksim kartu\nO kai ateiѕ pabaiga\nSvarbu, kad būtum šaliа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Когда мы состаримся",
+      "content": "Я никогда не забуду тот день, когда мы впервые встретились\nПрошло столько времени, но я хочу прожить его еще раз\nНачиная с самой первой улыбки, я знала, что мы будем вместе\nКак приятно понимать, что никогда не отпустишь свою любовь\n\nЕсть причины, которые ты должен знать\nОни делают это место нашим новым домом\nЕсть причины, которые я не забуду\nИ впишу их в нашу песню\nКогда мы состаримся (о-о-о)\nКогда мы состаримся (о-о-о)\n\nНеважно, что встанет у нас на пути, все равно нас это не остановит\nНо мы будем готовы начать наш путь заново, если мы будем в сердцах друг друга\nПосле всего этого, я не переношу расставаний\nДаже когда приходится…\n\nЕсть причины, которые ты должен знать\nОни делают это место нашим новым домом\nЕсть причины, которые я не забуду\nИ впишу их в нашу песню\nКогда мы состаримся (о-о-о)\nКогда мы состаримся (о-о-о)\n\nС твоего первого поцелуя, я поняла, что мы не закончим никогда\nЯ не боюсь стареть, ведь ты будешь всегда держать меня за руку"
+    }
+  ],
+  "bpm": 89,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Ieva Zasimauskaitė-Kiltinavičienė"
+  ],
+  "backings": [
+    "Akmėja Bru"
+  ],
+  "dancers": null,
+  "stageDirector": "Povilas Varvuolis, Rasa Micachienė",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Vytautas Bikus"
+  ],
+  "broadcaster": "LRT",
+  "commentators": [
+    "Darius Užkuraitis",
+    "Gerūta Griniūtė"
+  ],
+  "jury": [
+    "Dovilė Filmanavičiūtė",
+    "Jurga",
+    "Lauras Lučiūnas",
+    "Leon Somov",
+    "Mindaugas Urbaitis"
+  ],
+  "spokesperson": "Eglė Daugėlaitė"
+}

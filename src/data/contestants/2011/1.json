@@ -1,0 +1,58 @@
+{
+  "id": 1,
+  "country": "IT",
+  "artist": "Raphael Gualazzi",
+  "song": "Madness Of Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/TE0uNLp3LuU",
+    "https://www.youtube-nocookie.com/embed/bjJ-0Q6ZVUM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian",
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Madness Of Love",
+      "content": "Dire si, dire mai non è facile, sai\nAnd all the world around you seems to slip and disappear\nIo non so più chi sei, non mi importa chi sei\nI know for certain I won't bother you with nostalgia\n\nMa vedrai un altro me in un sogno fragile\nRiderai come se non ti avessi amato mai\nCercherai un altro me oltre l'ombra di un caffè\nTroverai solo me\nSe mi fermo un attimo, io non so più chi sei\n\nQui si vive così, day by day, night by night\nBut someone hit me and I fell into your heart, my dear\nAnd you'll fly over lands where your eyes can't find the end\nUp on mountains, down lanes\nBeing so far away from you just makes me feel so damned\n\nE vedrai un'altra te, quasi invincibile\nViva come non mai ed è li che tu mi avrai\nOltre false magie l'orizzonte sarai\nSplenderai, splenderai, splenderai, ѕplenderаi"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Madness Of Love",
+      "content": "Saying yes, saying never is not easy, you know\nAnd all the world around you seems to slip and disappear\nI no longer know who you are, I don't care who you are\nI know for certain I won't bother you with nostalgia\n\nBut you'll see another me in a fragile dream\nYou'll laugh as if I had never loved you\nYou'll look for another me beyond the shadow of a coffee\nYou'll only find me\nIf I stop for a moment, I no longer know who you are\n\nHere we live like this, day by day, night by night\nBut someone hit me and I fell into your heart, my dear\nAnd you'll fly over lands where your eyes can't find the end\nUp on mountains, down lanes\nBeing so far away from you just makes me feel so damned\n\nAnd you will see another you, almost invincible\nAlive as ever and it is there where you will have me\nYou'll be the horizon beyond all the false mаgic\nYou'll shine, you'll shine, you'll shine, you'll ѕhine"
+    }
+  ],
+  "bpm": 144,
+  "tone": "G major",
+  "artistPeople": [
+    "Raffaele Gualazzi"
+  ],
+  "backings": [
+    "Christian Chicco Marini",
+    "Giuseppe Conte",
+    "Luigi Faggi Grigioni",
+    "Manuele Montanari",
+    "Massimo Valentini"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Raphael Gualazzi"
+  ],
+  "broadcaster": "RAI",
+  "commentators": [
+    "Bob Sinclar",
+    "Raffaella Carrà"
+  ],
+  "jury": null,
+  "spokesperson": "Raffaella Carrà"
+}

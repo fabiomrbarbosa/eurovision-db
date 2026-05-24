@@ -1,0 +1,57 @@
+{
+  "id": 6,
+  "country": "BA",
+  "artist": "Dino & Beatrice",
+  "song": "Putnici",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/RRxgcossuOs",
+    "https://www.youtube-nocookie.com/embed/pxNJ1HKKUnQ",
+    "https://www.youtube-nocookie.com/embed/4Dn9hfv8YxM",
+    "https://www.youtube-nocookie.com/embed/-NzTlgyTnkk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "bosnian",
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Putnici",
+      "content": "Ja vjerujem u Boga i Bož'je određenje\nI vjerujem da ništa nije priviđenje\nSve je tako stvarno, sve tako realno\nJa vjerujem u to, ja vjerujem u to\n\nNe, ništa nije bilo, a da nije moralo\nNema toga lica što se nije boralo\nNema kamena što neće jednom postat prah\nA ni ramena što neće osjetiti strah\n\nQu'est-ce que tu veux ?\nTu es le voyageur\n\nNous sommes, vous êtes, ils sont, elles sont\nNous sommes, vous êtes les voyageurs\nNous avons, vous avez, ils ont, elles ont\nNous avons, vous avez la maison, la maison\n\nDolazak je samo jedne knjige korica\nA odlazak njena sestra parica\nŠta smo ti i ja, do putnici bez mjesta?\nNikad saznat nećemo kud nas vodi ova cesta\n\nŠta smo ti i ja\nQue sommes-nous, toi et moi\nSinon des voyageurs sans place ?\n\nReci da li žališ, reci da l' se kaješ\nAko kažeš da, ti, ustvari, sebe daješ\nReci da li žališ, reci da l' se kaješ\nAko kažeš da, to je dokaz izbora\n\nQu'est-ce que tu veux ?\nTu es le voyageur\n\nNous sommes, vous êtes, ils sont, elles sont\nNous sommes, vous êtes les voyageurs\nNous avons, vous avez, ils ont, elles ont\nNous avons, vous avez la maison, la maison\n\nNous sommes, vous êtes, ils sont, elles sont\nNous sommes, vous êtes les voyageurs\nNous avons, vous avez, ils ont, elles ont\nNous avons, vous avez la maison, la mаiѕon"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Travellers",
+      "content": "I believe in God and God's decree\nAnd I believe that nothing is an illusion\nEverything is so true, so real\nI believe in it, I believe in it\n\nNo, nothing occured that didn't have to\nThere isn't a face that wasn't wrinkled\nThere isn't a rock that won't become ashes\nNo shoulder that won't feel fear\n\nWhat is it that you want?\nYou are the traveller\n\nWe are, you are, they are, they are\nWe are, you are the travellers\nWe have, you have, they have, they have\nWe have, you have the house, the house\n\nArrival is just a cover of a book\nBut parting is a dream's evil sister\nWhat are we, if not travellers without a place?\nWe'll never know where this road leads us\n\nWhat are we\nWhat are we, you and me\nIf not travellers without a place?\n\nTell me are you sorry, do you feel remorse\nIf you say yes, you'll be giving up on yourself\nTell me are you sorry, do you feel remorse\nIf you say yes, it'll be a proof of choice\n\nWhat is it that you want?\nYou are the traveller\n\nWe are, you are, they are, they are\nWe are, you are the travellers\nWe have, you have, they have, they have\nWe have, you have the house, the house\n\nWe are, you are, they are, they are\nWe are, you are the travellers\nWe have, you have, they have, they have\nWe have, you hаve the house, the houѕe"
+    }
+  ],
+  "bpm": 172,
+  "tone": "C major",
+  "artistPeople": [
+    "Béatrice Poulot",
+    "Edin Dervišhalidović"
+  ],
+  "backings": [
+    "Selma Muhedinović",
+    "Vesna Andrée-Zaimović"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Edin Dervišhalidović"
+  ],
+  "broadcaster": "RTVBIH",
+  "commentators": [
+    "Ismeta Dervoz-Krvavac"
+  ],
+  "jury": null,
+  "spokesperson": "Segmedina Srna"
+}

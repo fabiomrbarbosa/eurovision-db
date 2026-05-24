@@ -1,0 +1,52 @@
+{
+  "id": 20,
+  "country": "SK",
+  "artist": "Katarína Hasprová",
+  "song": "Modlitba",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/0G9m6m4ctmQ",
+    "https://www.youtube-nocookie.com/embed/sgqXqzLxHZk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "slovak"
+      ],
+      "displayedLanguages": null,
+      "title": "Modlitba",
+      "content": "Láska v nás sa stráca, mám strach\nAko prežiť bez spoločných snov\nTúžim sa vrátiť zastaviť čas\nVeriť smútku, že utečie s tmou\nOdchádzaš preč a dúfaš, že nájdeš\nTen svet, ktorý láka ťa leskom a slávou\nVzdávaš sa nás a popieraš lásku\nTak choď, bež si rýchlo\nBez zbytočných klamstiev\nA falošných slov\n\nLáska kráčam údolím sĺz\nA len ty môžeš zmierniť môj žiaľ\nTúžim sa dotknúť tvojich pier, tvojich rúk\nProsím vráť sa mi, nevzdaj sa nás\nZostal si sám a viem, že sa blíži\nTen deň, keď sa vrátiš\nJa viem ten deň príde\nČakám ťa, poď, spolu zažeňme smútok\nChcem lásku a vášeň\nChcem oddanosť nehu\nChcem všetko čo máš\n\nModlitba lásky na veky\nModlitba vášne a nehy\nModlitba lásky, čo verí\nZázraku v nás\nZázraku v nás\n\nLáska kráčam údolím sĺz\nA len ty môžeš zmierniť môj žiaľ\nTúžim sa dotknúť tvojich pier, tvojich rúk\nProsím vráť sa mi, nevzdaj sa nás\nZostal si sám a viem, že sa blíži\nTen deň, keď sa vrátiš\nJa viem ten deň príde\nČakám ťa, poď, spolu zažeňme smútok\nChcem lásku a vášeň\nChcem oddanosť nehu\nChcem všetko čo máš\n\nModlitba lásky na veky\nModlitba vášne a nehy\nModlitba lásky, čo verí\nZázraku v nás, len v nás\nZázrаku v náѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "A prayer",
+      "content": "Love is fading out, I feel scared\nHow to survive without our dreams\nI want to return, to stop the time\nMay sadness vanish with the darkness\nYou go away and hope to find\nThe world of splendour and fame\nYou give up and deny our love\nSo go there, hurry up\nWithout useless lies\nAnd false words\n\nLove, I am walking the valley of tears\nOnly you can get me out of misery\nI long to touch your hands, your lips\nPlease, come back, do not give up\nYou are left alone and i know, that they're close\nBut I know, the day of your return\nIs close, I know it will come\nI'm waiting for you, come, away with sadness\nI want your love and passion\nI want your tenderness\nI want everything you have got\n\nA prayer of love, forever\nA prayer of passion and tenderness\nA prayer of love, hoping in miracles\nInside of us\nInside of us\n\nLove, I am walking the valley of tears\nOnly you can get me out of misery\nI long to touch your hands, your lips\nPlease, come back, do not give up\nYou are left alone and I know, that they're close\nBut I know, the day of your return\nIs close, I know it will come\nI'm waiting for you, come, away with sadness\nI want your love and passion\nI want your tenderness\nI want everything you have got\n\nA prayer of love, forever\nA prayer of passion and tenderness\nA prayer of love, hoping in mirаcles\nInside of us, only us\nInside of uѕ"
+    }
+  ],
+  "bpm": 162,
+  "tone": "C major",
+  "artistPeople": [
+    "Katarína Hasprová"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Gabriel Dušík"
+  ],
+  "conductor": "Vladimir Valović",
+  "lyricists": [
+    "Anna Wepperyová"
+  ],
+  "writers": null,
+  "broadcaster": "STV",
+  "commentators": [
+    "Juraj Čurný"
+  ],
+  "jury": null,
+  "spokesperson": "Alena Heribanová"
+}

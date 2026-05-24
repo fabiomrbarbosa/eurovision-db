@@ -1,0 +1,68 @@
+{
+  "id": 30,
+  "country": "NO",
+  "artist": "Agnete",
+  "song": "Icebreaker",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ACLcqZMwCSo",
+    "https://www.youtube-nocookie.com/embed/S2GUS-3T7cU",
+    "https://www.youtube-nocookie.com/embed/3KSh0Z8c_00",
+    "https://www.youtube-nocookie.com/embed/uptjPZuyrdk",
+    "https://www.youtube-nocookie.com/embed/A3bjhMC6-j8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Icebreaker",
+      "content": "Every night\nBefore I sleep, a shiver down my spine\nThoughts alight\nWhat can I do to make you listen?\n\nLike a northern light\nYou're dancing over every borderline\nPassing every sign\nBetween reality and fiction\n\nEvery single promise that you ever made\nSpinning in my mind like a hurricane\nBaby, as I hear your mayday\nMayday\n\nI'll be your icebreaker\nWhen you're stuck in frozen water, frozen water\nIcebreaker\nWhen you're stuck in frozen water, frozen water\n\nYou go astray\nJust like a polaroid, you fade away\nI'll be your partner\nAnd liberate you from your prison\n\nBaby, as I hear your mayday\nMayday\n\nI'll be your icebreaker\nWhen you're stuck in frozen water, frozen water\nIcebreaker\nWhen you're stuck in frozen water, frozen water\n\nWe're too young to say goodbye\nWhenever you lose faith just hold the line\nIt takes a lot of nerve to save a life…\n\nIcebreaker\nWhen you're stuck in frozen water, frozen water\nIcebreaker\nWhen you're ѕtuck in frozen water\n\nAh…\nFrozen wаter"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "norwegian"
+      ],
+      "displayedLanguages": null,
+      "title": "Isbryter",
+      "content": "Hver natt\nFør jeg sovner, rister det nedover ryggen min\nTankene stemmer\nHva kan jeg gjøre for å få deg til å lytte?\n\nSom et nordlys\nDanser over alle grensene\nPasserer hvert eneste tegn\nMellom virkelighet og fiksjon\n\nHvert eneste løfte du noen gang har gitt\nSpinner i tankene mine som en orkan\nBaby, ja, jeg hører din mayday\nMayday\n\nJeg skal være isbryteren din\nNår du sitter fast i frossent vann, frossent vann\nIsbryter\nNår du sitter fast i frossent vann, frossent vann\n\nDu går på villspor\nAkkurat som ett polaroid bilde forsvinner du\nJeg kan være partneren din\nOg befri deg fra fengselet ditt\n\nBaby, ja, jeg hører din mayday\nMayday\n\nJeg skal være isbryteren din\nNår du sitter fast i frossent vann, frossent vann\nIsbryter\nNår du sitter fast i frossent vann, frossent vann\n\nVi er for unge til å si farvel\nNår du mister troen, bare hold på linjen\nDet krever mye nerve å redde et liv\n\nIsbryter\nNår du sitter fast i frossent vann, frossent vann\nIsbryter\nNår du sitter fast i frossent vann, frossent vann\n\nAh…\nFrosѕent vаnn"
+    }
+  ],
+  "bpm": 178,
+  "tone": "F# minor",
+  "artistPeople": [
+    "Agnete Kristin Johnsen"
+  ],
+  "backings": [
+    "Charlotte Bredesen",
+    "Gabriel Alares",
+    "Ingunn Dalland",
+    "Nicoline Berg Kaasin"
+  ],
+  "dancers": [
+    "Sara Christine Einbu"
+  ],
+  "stageDirector": "Mattias Carlsson",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Agnete Kristin Johnsen",
+    "Gabriel Alares",
+    "Ian Curnow"
+  ],
+  "broadcaster": "NRK",
+  "commentators": [
+    "Olav Viksmo-Slettan"
+  ],
+  "jury": [
+    "Christian Ingebrigtsen",
+    "Mia Gundersen",
+    "Nicholas Emmanuel Carlie",
+    "Pernille Torp-Holte",
+    "Tom Stereo"
+  ],
+  "spokesperson": "Elisabeth Andreassen"
+}

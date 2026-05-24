@@ -1,0 +1,57 @@
+{
+  "id": 16,
+  "country": "PL",
+  "artist": "Blue Cafe",
+  "song": "Love Song",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/kWS-S53Zsio",
+    "https://www.youtube-nocookie.com/embed/v05cnOO4gb8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish",
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Love Song",
+      "content": "Every day (Every day)\nI feel I need somebody\nEvery night (Every night)\nI wanna feel your body\nEvery day (Every day)\nI can not wait\nEvery night (Every night)\nI sing this way\n\nSweet song, love song\nSweet song, wanna give you this song\nSweet song, love song\nSweet song\n\nEvery day (Every day)\nI wanna love somebody\nEvery night (Every night)\nI feel I need your body\nEvery day (Every day)\nI feel the same\nEvery night (Every night)\nI sing this way\n\nSweet song, love song\nSweet song, wanna give you this song\nSweet song, love song\nSweet song\n(Uno, dos, tres, cuatro)\n\nTe quiero como eres\nQuiero ser tu muchacha\nTú me das alegría\nDe sentirme muchacha\nTe busco en la mañana\nPorque soy tu muchacha\n(Oh…)\n\nSweet song, love song\nSweet song, wanna give you this song\nSweet song, love song\nSweet song\n(Yo te quiero, sí, mi muchacha)\n\nSweet song, love song\nSweet song, love song\nSweet song, love song\nSweet song\n\nSweet song, love song\nSweet song, wannа give you this song\nSweet song, love song\nSweet ѕong"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Love Song",
+      "content": "Every day (Every day)\nI feel I need somebody\nEvery night (Every night)\nI wanna feel your body\nEvery day (Every day)\nI can not wait\nEvery night (Every night)\nI sing this way\n\nSweet song, love song\nSweet song, wanna give you this song\nSweet song, love song\nSweet song\n\nEvery day (Every day)\nI wanna love somebody\nEvery night (Every night)\nI feel I need your body\nEvery day (Every day)\nI feel the same\nEvery night (Every night)\nI sing this way\n\nSweet song, love song\nSweet song, wanna give you this song\nSweet song, love song\nSweet song\n(One, two, three, four)\n\nI love you the way you are\nI want to be your girl\nYou give me the joy\nOf feeling like a girl\nI look for you in the morning\nBecause I'm your girl\n(Oh…)\n\nSweet song, love song\nSweet song, wanna give you this song\nSweet song, love song\nSweet song\n(I love you, yes, my girl)\n\nSweet song, love song\nSweet song, love song\nSweet song, love song\nSweet song\n\nSweet song, love song\nSweet song, wannа give you this song\nSweet song, love song\nSweet ѕong"
+    }
+  ],
+  "bpm": 105,
+  "tone": "Bb minor",
+  "artistPeople": [
+    "Michał Niewiadomski",
+    "Paweł Rurak-Sokal",
+    "Piotr Grąbkowski",
+    "Piotr Sławiński",
+    "Tatiana Okupnik"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Paweł Rurak-Sokal"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Tatiana Okupnik"
+  ],
+  "writers": null,
+  "broadcaster": "TVP",
+  "commentators": [
+    "Artur Orzech"
+  ],
+  "jury": null,
+  "spokesperson": "Maciej Orłoś"
+}

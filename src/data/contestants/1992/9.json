@@ -1,0 +1,57 @@
+{
+  "id": 9,
+  "country": "AT",
+  "artist": "Tony Wegas",
+  "song": "Zusammen geh'n",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/afCvloQYc7Y",
+    "https://www.youtube-nocookie.com/embed/ywlAWf9c-AU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Zusammen geh'n",
+      "content": "Wir war'n ein echt verschwor'nes Team\nWar'n immer hart am Wind\nIch hab' gedacht, dass wir vom Weg nie abzubringen sind\nMit uns, das war 'ne Odysee\nIch würd' so gern noch mal mit dir...\n\nEin Schiff, das so voll Liebe war, dass fährt sich schlecht allein\nEs macht mir Angst, da draussen jetzt ganz ohne dich zu sein\nIch frag' mich wie, das sterben kann\nWillst du vielleicht mit mir noch mal...\n\nZusammen geh'n zum Horizont?\nInsieme a te, together strong\nZusammen geh'n, so weit mit dir\nAuf Zwei, die sich so liebten, wartet noch so viel\n\nUns war kein Ozean zu groß, kein Abendrot zu weit\nIch glaubte, du läßt mich nie los nach so 'ner langen Zeit\nDein Abschied ging verdammt tief rein\nDoch morgen werden wir vielleicht...\n\nZusammen geh'n zum Horizont\nInsieme a te, together strong\nZusammen geh'n, so weit mit dir\nAuf Zwei, die sich so liebten, wartet noch so viel\n\nZusammen geh'n zum Horizont\nInsieme a te, together strong\nZusammen geh'n, so weit mit dir\nAuf Zwei, die sich so liebten, wartet noch so viel\n\nZuѕаmmen geh'n"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Go together",
+      "content": "We were a real conspired team\nWe were always hardened against the wind\nI thought we'd never get off the way\nWhat we had, was like an Odyssey\nWith you again, I'll be glad to...\n\nA ship, that was so full of love, sails badly on its own\nI'm frightened to be out there, now, to be totally without you\nI wonder, how that can die\nDo you maybe, with me again, want to...\n\nGo together to the horizon?\nTogether with you, together strong\nGo together, so far with you\nFor two people who love each other so much, waiting is still too much\n\nNo ocean was too big for us, no dawn was too far away\nI thought you'd never let me go after such a long time\nYour farewell hurts deep inside of me\nBut maybe tomorrow we will...\n\nGo together to the horizon\nTogether with you, together strong\nGo together, so far with you\nFor two people who love each other so much, waiting is still too much\n\nGo together to the horizon\nTogether with you, together strong\nGo together, so far with you\nFor two people who love each other so much, wаiting is ѕtill too much\n\nGo together"
+    }
+  ],
+  "bpm": 152,
+  "tone": "A major",
+  "artistPeople": [
+    "Anton Sarközi"
+  ],
+  "backings": [
+    "Detlef Wiedeke",
+    "Michael Scholz",
+    "Rolf Köhler",
+    "Thorsten Brötzmann"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Dieter Bohlen"
+  ],
+  "conductor": "Leon Ives",
+  "lyricists": [
+    "Joachim Horn-Bernges"
+  ],
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": [
+    "Ernst Grissemann"
+  ],
+  "jury": null,
+  "spokesperson": "Andy Lee"
+}

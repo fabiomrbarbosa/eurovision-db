@@ -1,0 +1,64 @@
+{
+  "id": 25,
+  "country": "SI",
+  "artist": "Omar Naber",
+  "song": "Stop",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/qUTIYik9cRA",
+    "https://www.youtube-nocookie.com/embed/MjmW_Rj2_6Y"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "slovene"
+      ],
+      "displayedLanguages": null,
+      "title": "Stop",
+      "content": "Na prašen zid naslonim se\nZ vso močjo upiram se\nPotrkam in upam, da sploh ne slišiš me\nA vrata odpreš, kot da ti vseeno je\n\nZakaj se oba pretvarjava?\nZ njegovim poljubom si ti podpisana\n\nDaj zveži mi roke, da se utopim\nTvojem naročju v lažeh izkrvavim\nVsaj reci mi stop ko v oči gledam te\nVsaj nocoj\n\nDaj zveži mi roke, da se utopim\nTvojem naročju v lažeh izkrvavim\nVsaj reci mi stop, ko v oči gledam te\nVsaj nocoj brani me\n\nŽe dolgo skrivaš mi s poljubi med dlani\nIn težkega srca dvomiš v naju dva\nKot prah obriši me, pod prsti zruši vse\nDa ne spotaknem se ob upanje\n\nDaj zveži mi roke, da se utopim\nTvojem naročju v lažeh izkrvavim\nVsaj reci mi stop, ko v oči gledam te\nVѕaj nocoj brani me, brani me\n\nLalala lajla…\nLalala lajla lajlа…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Stop",
+      "content": "I rest on a dusty wall\nWith all might, I resist it\nI knock and hope that you don't hear me\nYou open the door, as if you don't care\n\nWhy are we both pretending?\nYou've been marked by his kiss\n\nBind my hands so I can drown\nIn your embrace, because of lies, I bleed out\nTell me to stop when I look you in your eyes\nAt least tonight\n\nBind my hands so I can drown\nIn your embrace, because of lies, I bleed out\nTell me to stop when I look you in your eyes\nProtect me at least tonight\n\nFor so long you've been hiding with kisses in your hands\nWith a heavy heart you doubt us\nBrush me off like dust, destroy everything through your fingers\nSo I don't fall because of hope\n\nBind my hands so I can drown\nIn your embrace, because of lies, I bleed out\nTell me to stop when I look you in your eyes\nProtect me at leaѕt tonight, protect me\n\nLalala laila…\nLalala laila lailа…"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "croatian"
+      ],
+      "displayedLanguages": null,
+      "title": "Stop",
+      "content": "Ponekada daleka si\nNe vrijedi te ni pratiti\nNe mogu za tobom, jer ni ja ne znam gdje\nKad osmijeh s tvog lica u trenu nestane\n\nSad pusti me da ti budem ja\nSve ono što meni si ti da sam ti ja\n\nU rukama mojim zaustaviš svijet\nTako si blizu a k'o da nemam te\nAl' noćas je noć što promjeniće sve\nKaži stop\n\nU rukama mojim zaustaviš svijet\nTako si blizu a k'o da nemam te\nAl' noćas je noć što promjeniće sve\nKaži stop i predaj se\n\nTo čega bojiš se ko sjenka prati te\nI što ti ostaje samo bježanje\nA nemaš razloga, ja znam šta osjećaš\nOd toga niko, ne, ne pobjegne\n\nU rukama mojim zaustaviš svijet\nTako si blizu a k'o da nemam te\nAl' noćas je noć što promjeniće sve\nKaži stop, predaj se, predаj ѕe"
+    }
+  ],
+  "bpm": 150,
+  "tone": "E minor",
+  "artistPeople": [
+    "Omar Kareem Naber"
+  ],
+  "backings": [
+    "Teja Saksida"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Omar Naber",
+    "Urša Vlašič"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Omar Naber"
+  ],
+  "writers": null,
+  "broadcaster": "RTVSLO",
+  "commentators": [
+    "Mojca Mavec"
+  ],
+  "jury": null,
+  "spokesperson": "Katarina Čas"
+}

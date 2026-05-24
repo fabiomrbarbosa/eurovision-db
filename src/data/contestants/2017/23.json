@@ -1,0 +1,81 @@
+{
+  "id": 23,
+  "country": "UA",
+  "artist": "O.Torvald",
+  "song": "Time",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/mogNLkIEI0k",
+    "https://www.youtube-nocookie.com/embed/iRW8mhIPbHU",
+    "https://www.youtube-nocookie.com/embed/AbTzFSMc5cQ",
+    "https://www.youtube-nocookie.com/embed/VKCIsDLd_Vo",
+    "https://www.youtube-nocookie.com/embed/t4vcONZWePs",
+    "https://www.youtube-nocookie.com/embed/iZN_pAjOj30",
+    "https://www.youtube-nocookie.com/embed/wq-YqbDSw1c"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Time",
+      "content": "Slow down, give me some time\nTurn down the volume of your cry\nLet's take time to find a place without violence\nLet's listen and hear the true meaning of silence\n\nTime to look, time to see, time to find\n\nTime to look into your eyes\nTime to find truth, time against the lies\nTime will give us a sign\nIt can make a promise, it's our time to shine\n\nJust listen, take a look around\nStop missing the things you haven't found\nYou will realise there's no common ground\nThere's no compromise between the time and sound\n\nTime to look, time to see\nTime to find\n\nTime to look into your eyes\nTime to find truth, time against the lies\nTime will give us a sign\nIt can make a promise, it's our time to shine\n\nTime to look, time to see\nTime to find\n\nTime to look into your eyes\nTime to find truth, time against the lies\nTime will give us a sign\nIt can make а promise, it's our time to ѕhine"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "ukrainian"
+      ],
+      "displayedLanguages": null,
+      "title": "Час",
+      "content": "Заспокойся, дай мені трохи часу\nЗменш гучність свого крику\nДавай виділимо час, аби знайти місце без жорстокості\nДавай слухати та чути справжню суть тиші\n\nЧас дивитися, час бачити, час шукати\n\nЧас подивитися в твої очі\nЧас віднайти істину, виступити проти брехні\nЧас подасть нам знак\nВін може пообіцяти, що це наш час сяяти\n\nПросто вислухай, подивись навколо\nГоді сумувати за тим, чого ти не віднайшов\nТи зрозумієш, що немає нічого спільного\nНемає компромісу між часом та звуком\n\nЧас дивитися, час бачити\nЧас шукати\n\nЧас подивитися в твої очі\nЧас віднайти істину, виступити проти брехні\nЧас подасть нам знак\nВін може пообіцяти, що це наш час сяяти\n\nЧас дивитися, час бачити\nЧас шукати\n\nЧас подивитися в твої очі\nЧас віднайти істину, виступити проти брехні\nЧас подасть нам знак\nВін може пообіцяти, що це наш час сяяти"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Tiempo",
+      "content": "Ve más lento, dame algo de tiempo\nBaja el volumen de tu llanto\nTomemos algo de tiempo para buscar un lugar sin violencia\nEscuchemos y oigamos el verdadero significado del silencio\n\nTiempo para ver, tiempo para mirar, tiempo para encontrar\n\nTiempo para verte a los ojos\nTiempo para encontrar la verdad, tiempo contra las mentiras\nEl tiempo nos dará una señal\nNos lo promete, es nuestro momento para brillar\n\nEscucha, mira a tu alrededor\nDeja de echar de menos lo que no has encontrado\nTe darás cuenta de que no hay terreno común\nNo hay compromiso entre el tiempo y el sonido\n\nTiempo para ver, tiempo para mirar\nTiempo para encontrar\n\nTiempo para verte a los ojos\nTiempo para encontrar la verdad, tiempo contra las mentiras\nEl tiempo nos dará una señal\nNos lo promete, es nuestro momento para brillar\n\nTiempo para ver, tiempo para mirar\nTiempo para encontrar\n\nTiempo para verte a los ojos\nTiempo para encontrar la verdad, tiempo contra las mentiras\nEl tiempo nos dará una señal\nNos lo promete, es nueѕtro momento para brillаr"
+    }
+  ],
+  "bpm": 102,
+  "tone": "F# major",
+  "artistPeople": [
+    "Yevhen Halych",
+    "Denys Myzyuk",
+    "Mykola Rayda",
+    "Mykyta Vasyl'yev",
+    "Oleksandr Solokha"
+  ],
+  "backings": [
+    "Dasha Mineyeva"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Denys Myzyuk",
+    "Yevhen Halych",
+    "Zhenia Galych"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Yevhen Kamenchuk"
+  ],
+  "writers": null,
+  "broadcaster": "UA:PBC",
+  "commentators": [
+    "Andrii Horodyskyi",
+    "Tetyana Terekhova"
+  ],
+  "jury": [
+    "Illaria",
+    "Sergii Grachov",
+    "Serzh Gagarin",
+    "Yana Pryadko",
+    "Yurii Rybchynskyi"
+  ],
+  "spokesperson": "Zlata Ognevich"
+}

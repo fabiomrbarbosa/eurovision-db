@@ -1,0 +1,60 @@
+{
+  "id": 28,
+  "country": "TR",
+  "artist": "Yüksek Sadakat",
+  "song": "Live It Up",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/RgqKYI6myHM",
+    "https://www.youtube-nocookie.com/embed/beVb1UCLUHA",
+    "https://www.youtube-nocookie.com/embed/FBtQF4csntE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Live It Up",
+      "content": "Here's your favourite song on the radio\nShake your head to the beat, it's rock 'n' roll\nIf you're feeling the world has kicked you down\nAll you need is just to have a little fun\n\nHey… it's time to live it up\nMy friend, put the record on\nSing it loud and let it out, life is beautiful\nMy friend, let it out, life is beautiful\n\nGive yourself a break, come on and live it up\nGive yourself a break, come on and live it up\nGive yourself a break\n\nDriving on with no map to lead me on\nEyes on the horizon and there's no turning round\nSometimes I feel, I feel I'm not alone\nSo let your colours shine right next to mine\n\nHey… it's time to live it up\nMy friend, put the record on\nSing it loud and let it out, life is beautiful\nMy friend, let it out, life is beautiful\n\nGive yourself a break, come on and live it up\nGive yourself a break, come on and live it up\nGive yourself a break\n\nI say my friend, life is beautiful\nI say my friend, life is beautiful\nI say my friend, put the record on\nSing it loud and let it out, life is beautiful\nMy friend, let it out, life is beautiful\n\nGive yourself a break, come on and live it up\nGive yourself a break, come on and live it up\nGive yourѕelf a breаk"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "turkish"
+      ],
+      "displayedLanguages": null,
+      "title": "Parti Çocuğlu",
+      "content": "Canın sıkıldı ondan ayrılınca\nEve kapandın tam bir gün boyunca\nModern zamanda aşkın acısı\nSürse sürse bir günün yarısı\n\nHey, hey parti çocuğu\nHey, hey parti çocuğu\n\nSakın dönüp de arkana bakma\nAsla inama ve asla korkma\nZaten her şey, her şey plastik\nKullan at ve kafana takma\n\nHey, hey parti çocuğu\nHey, hey parti çocuğu\n\nArtık başlat oyunu\nGörelim senle gecenin sonunu\nParti çocuğu başlat oyunu\nUnuttur bize evin yolunu\nUnuttur bize evin yolunu\nUnuttur bize\n\nParti çocuğu başlat oyunu\nGörelim senle gecenin sonunu\nParti çocuğu başlat oyunu\nGörelim senle gecenin sonunu\nParti çocuğu başlat oyunu\nGörelim senle gecenin sonunu\nParti çocuğu başlat oyunu\nUnuttur bize evin yolunu\nUnuttur bize evin yolunu\nUnuttur bize\n\nParti çocuğu başlat oyunu\nGörelim senle gecenin ѕonunu\nParti çocuğu başlаt oyunu\nUnuttur bize evin yolunu\nUnuttur bize evin yolunu\nUnuttur bize"
+    }
+  ],
+  "bpm": 127,
+  "tone": "E major",
+  "artistPeople": [
+    "Alpay Şalt",
+    "Kenan Vural",
+    "Kutlu Özmakinacı",
+    "Serkan Özgen",
+    "Uğur Onatkut"
+  ],
+  "backings": null,
+  "dancers": [
+    "Leilani Franco"
+  ],
+  "stageDirector": null,
+  "composers": [
+    "Kutlu Özmakinacı"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Ergün Arsal"
+  ],
+  "writers": null,
+  "broadcaster": "TRT",
+  "commentators": [
+    "Bülend Özveren",
+    "Erhan Konuk"
+  ],
+  "jury": null,
+  "spokesperson": "Ömer Önder"
+}

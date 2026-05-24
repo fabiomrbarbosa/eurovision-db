@@ -1,0 +1,55 @@
+{
+  "id": 13,
+  "country": "DE",
+  "artist": "Maxi & Chris Garden",
+  "song": "Lied für einen Freund",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/jTzWGNIQ_Nc",
+    "https://www.youtube-nocookie.com/embed/JxjAOIjOCZA",
+    "https://www.youtube-nocookie.com/embed/WWa1ZwWvgRI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Lied für einen Freund",
+      "content": "Hier ist ein Lied für dich, hör einfach zu\nDenn diese Melodie ist so wie du\nHör zu\n\nEhrlich und gradheraus, zärtlich und klug\nFröhlich und still zugleich und stark genug\n\nDenn so bist du, wie dieses Lied für einen Freund\nEin Lied wie du, so wie du lebst und wie du träumst\nWenn du es hörst irgendwo\nDu fehlst mir so\n\nFreunde gehn nie zu früh, sie enttäuschen dich nie\nFreunde bleiben, wenn niemand sonst bleibt\nTeilen Glück und auch Leid\n\nFür dich ist dieses Lied, das ist nicht viel\nDoch wenn dаs Lied verklingt, bleibt ein Gefühl\n\nDenn so bist du, wie dieses Lied für einen Freund\nEin Lied wie du, so wie du lebst und wie du träumst\nWenn du es hörst irgendwo\nDu fehlst mir ѕo"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Song for a friend",
+      "content": "This is a song for you, just listen to it\nBecause this melody is just like you\nListen\n\nHonest and plainspoken, tender and clever\nHappy and quiet and at the same time and strong enough\n\nBecause that's the way you are, like this song for a friend\nA song like you, like the way you live and dream\nWhen you hear it somewhere\nI miss you so\n\nFriends never go too early, they never disappoint you\nFriends will stay when no one else remains\nShare your luck and also your pain\n\nThis song is for you, it's not very much\nBut when this song is over, a feeling remains\n\nBecause that's the way you are, like this song for a friend\nA song like you, like the way you live and dream\nWhen you heаr it somewhere\nI miss you ѕo"
+    }
+  ],
+  "bpm": 127,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Christiane Gärtner",
+    "Meike Gärtner"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ralph Siegel"
+  ],
+  "conductor": "Michael Thatcher",
+  "lyricists": [
+    "Gunter Johansen"
+  ],
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Claus-Erich Boetzkes",
+    "Nicole"
+  ],
+  "jury": null,
+  "spokesperson": "Lotti Ohnesorge"
+}

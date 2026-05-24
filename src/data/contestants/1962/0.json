@@ -1,0 +1,61 @@
+{
+  "id": 0,
+  "country": "FR",
+  "artist": "Isabelle Aubret",
+  "song": "Un premier amour",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/JmMrx3QUYOM",
+    "https://www.youtube-nocookie.com/embed/spMSF9hwaJM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Un premier amour",
+      "content": "Un premier amour, premier amour, premier amour\nNe s'oublie jamais, s'oublie jamais, s'oublie jamais\nUn premier amour, on le cherche toujours\nDans d'autres amours, toute sa vie on court après\n\nIl nous a troublé et fait rêver et fait trembler\nCe premier amour, premier amour, premier amour\nMais l'enfant qu'on est, l'enfant qu'on est resté\nFrémira toujours au souvenir de cet amour\n\nEt toi, et toi que j'aimais\nQu'as-tu fait de toi?\nQu'as-tu fait sans moi?\nEt moi, moi qui t'ai perdu\nQu'ai-je fait de plus?\nQu'ai-je fait de tant de bonheur?\nSavions-nous d'ailleurs…\n\nQu'un premier amour, premier amour, premier amour\nNe s'oublie jamais, s'oublie jamais, s'oublie jamais?\nQu'un premier amour, on le cherche toujours\nDans d'autres amours, toute sa vie on court après?\n\nQue tous ces baisers qu'on s'est volés plus que donnés\nCes gestes innocents nous engageaient pour si longtemps?\nNon, les enfants d'alors que nous étions encore\nN'ont pas soupçonné tant, ils étaient émerveillés\nQu'un premier amour, leur premier amour étаit ѕi fort"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": null,
+      "title": "Ένας πρώτος έρωτας",
+      "content": "Ένας πρώτος έρωτας, πρώτος έρωτας, πρώτος έρωτα\nΠοτέ δεν ξεχνιέται, ποτέ δεν ξεχνιέται, ποτέ δεν ξεχνιέται\nΈνας πρώτος έρωτας, πάντα ψάχνουμε για αυτόν\nΣε άλλους έρωτες, το επιδιώκουμε όλη μας τη ζωή\n\nΜας μπέρδεψε και μας έκανε να ονειρευόμαστε και να τρέμουμε\nΑυτός ο πρώτος έρωτας, πρώτος έρωτας, πρώτος έρωτας\nΑλλά το παιδί που είμαστε, το παιδί που παραμείναμε\nΘα βουίζει πάντα στη μνήμη αυτού του έρωτα\n\nΚι εσύ, κι εσύ που αγάπησα\nΤι έφτιαξες από τον εαυτό σου;\nΤι έχεις κάνει χωρίς εμένα;\nΚι εγώ, εγώ που σε έχασα\nΤι περισσότερο έχω κάνει;\nΉμουν τόσο πιο τυχερή;\nΞέραμε όντως…\n\nΈνας πρώτος έρωτας, πρώτος έρωτας, πρώτος έρωτα\nΠοτέ δεν ξεχνιέται, ποτέ δεν ξεχνιέται, ποτέ δεν ξεχνιέται;\nΈνας πρώτος έρωτας, πάντα ψάχνουμε για αυτόν\nΣε άλλους έρωτες, το επιδιώκουμε όλη μας τη ζωή;\n\nΌτι όλα εκείνα τα φιλιά που έχουμε κλέψει παρά δώσαμε\nΑυτές οι αθώες χειρονομίες μας δέσμευσαν τόσο καιρό;\nΌχι, τα παιδιά που ακόμα ήμασταν τότε\nΔεν υποψιάζονταν πολλά, ήταν ευχαριστημένα\nΑυτός ο πρώτος έρωτοας, ο πρώτος τους έρωτας ήταν τόσο δυνατός"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "A first love",
+      "content": "A first love, first love, first love\nIs never forgotten, never forgotten, never forgotten\nA first love, we always look for it\nIn other loves, we pursue it our whole life\n\nIt confused us and made us dream and made us tremble\nThat first love, first love, first love\nBut the child that we are, the child that we remained\nWill always hum in memory of this love\n\nAnd you, and you who I loved\nWhat did you make of yourself?\nWhat have you done without me?\nAnd I, I who lost you\nWhat have I done more?\nWas I so much more lucky?\nDid we actually know…\n\nThat a first love, first love, first love\nIs never forgotten, never forgotten, never forgotten?\nThat a first love, we always look for it\nIn other loves, we pursue it our whole life?\n\nThat all those kisses that we have stolen rather than given\nThose innocent gestures engaged us for so long?\nNo, the children that we still were back then\nDidn't suspect much, they were delighted\nThat a first love, their first love wаs so ѕtrong"
+    }
+  ],
+  "bpm": 92,
+  "tone": "D minor",
+  "artistPeople": [
+    "Thérèse Coquerelle"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Claude-Henri Vic"
+  ],
+  "conductor": "Franck Pourcel",
+  "lyricists": [
+    "Roland Stephane Valade"
+  ],
+  "writers": null,
+  "broadcaster": "RTF",
+  "commentators": [
+    "Pierre Tchernia"
+  ],
+  "jury": null,
+  "spokesperson": "André Valmy"
+}

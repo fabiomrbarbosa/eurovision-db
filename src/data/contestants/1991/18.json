@@ -1,0 +1,60 @@
+{
+  "id": 18,
+  "country": "DK",
+  "artist": "Anders Frandsen",
+  "song": "Lige der hvor hjertet slår",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/0_xIqvlPx9Y",
+    "https://www.youtube-nocookie.com/embed/ES-ZsLVsXAM",
+    "https://www.youtube-nocookie.com/embed/23P6Ahvfc6A",
+    "https://www.youtube-nocookie.com/embed/M8K2SZGmTBA"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "danish"
+      ],
+      "displayedLanguages": null,
+      "title": "Lige der hvor hjertet slår",
+      "content": "Som en drøm fløj du rundt i mig, listed' dig ind i mit sind\nVendte rundt på min virk'lighed\nFanged' mine tanker, leged' med min selvtillid\nTvivl og håb og længsel farer ud og ind\nHar du det mon li'som jeg? Så hør på mig:\n\nMød mig lige der hvor hjertet slår, hvor kærligheden foregår\nDer hvor verden ender, der hvor tanken vender rundt\nTa' mig læng're ud end lyset når og hold om mig i tusind år\nVed du at jeg venter? Vil du gerne vide hvor?\nLige der hvor hjertet slår\n\nDenne nat blev du virk'lighed, smelted' dig ind i min krop\nFløj af sted i det tomme rum\nSvimmel og beruset drak jeg af din kærlighed\nVerden er forandret, ska' vi samme vej?\nÅhh… Har du det mon li'som jeg? Så ta' med mig\n\nMød mig lige der hvor hjertet slår, hvor kærligheden foregår\nDer hvor verden ender, der hvor tanken vender rundt\nTa' mig læng're ud end lyset når og hold om mig i tusind år\nVed du at jeg venter? Vil du gerne vide hvor?\nLige der hvor hjertet slår\n\nÅh åhh… Lige der hvor hjertet slår, hvor kærligheden foregår\nDer hvor verden ender, der hvor tanken vender rundt\nÅh… Ta' mig læng're ud end lyset når og hold om mig i tusind år\nVed du аt jeg venter? Vil du gerne vide hvor?\nLige der hvor hjertet slår\nLige der hvor hjertet ѕlår"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Right where the heart beats",
+      "content": "Like a dream, you were flying around inside me, sneaking into my mind\nTurned my reality upside down\nCaught my thoughts, played with my self-confidence\nMmm… doubts and hopes and longings whizzing out and in\nDo you feel like I do? Then listen to me:\n\nMeet me right where the heart beats, where love happens\nWhere the world ends, where the thought is turning around\nTake me further out than the light can reach and hold me for a thousand years\nDo you know that I'm waiting? Do you want to know where?\nRight where the heart beats\n\nThis night you became reality, melted into my body\nFlew through the empty space\nDizzy and intoxicated, I drank of your love\nMmm… the world has changed, are we going the same way?\nOh… do you feel like I do? Then come with me\n\nMeet me right where the heart beats, where love happens\nWhere the world ends, where the thought is turning around\nTake me further out than the light can reach and hold me for a thousand years\nDo you know that I'm waiting? Do you want to know where?\nRight where the heart beats\n\nOh… Right where the heart beats, where love happens\nWhere the world ends, where the thought is turning around\nOh… take me further out than the light can reach and hold me for a thousand years\nDo you know that I'm waiting? Do you want to know where?\nRight where the heart beats\nRight where the heart beаtѕ"
+    }
+  ],
+  "bpm": 109,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Anders Frandsen"
+  ],
+  "backings": [
+    "Jacob Launbjerg",
+    "Lei Moe",
+    "Lupe Moe",
+    "Michael Elo",
+    "Peter Busborg"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Henrik Krogsgaard",
+  "lyricists": null,
+  "writers": [
+    "Michael Elo"
+  ],
+  "broadcaster": "DR",
+  "commentators": [
+    "Camilla Miehe-Renard"
+  ],
+  "jury": [
+    "Eli Berenthz"
+  ],
+  "spokesperson": "Bent Henius"
+}

@@ -1,0 +1,74 @@
+{
+  "id": 17,
+  "country": "PL",
+  "artist": "Justyna",
+  "song": "Sama",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vdR-E5U3D4s",
+    "https://www.youtube-nocookie.com/embed/ecRhNypdCaU",
+    "https://www.youtube-nocookie.com/embed/fkXPN49CWOk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "polish"
+      ],
+      "displayedLanguages": null,
+      "title": "Sama",
+      "content": "Teraz o tym wiem\nKiedy świat na mnie czasem rozgniewa się\nDaje smutek bym\nTam gdzie wieżowca oko\nCzekała aż do zmroku\nW tym najdalszym z miejsc\nBy pchłą stać się małą\n\nTeraz o tym wiem\nKiedy świat na mnie czasem rozgniewa się\nDaje smutek bym\nTam gdzie wieżowca oko\nCzekała aż do zmroku\nSama tak\nI czuła się tak marnie\nPoczuła ѕię tak marnie\nJakby Bóg, dobry Bóg\nNie lubił pcheł\n\nOne - nah - wanna - ee - yeаh…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Alone",
+      "content": "Now I know\nThat when the world is angry with me\nIt's sad and I remain\nThere at that skyscraper's stair's eye\nUntil the dusk comes\nIn this faraway place\nTo become a little flea\n\nNow I know\nThat when the world is angry with me\nIt's sad and I remain\nThere at that skyscraper's stair's eye\nUntil the dusk comes\nI'm alone\nAnd I feel poor\nFeeling so poor\nAs if God, the good God\nDidn't love little fleaѕ\n\nOne - nah - wanna - ee - yeаh…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "ukrainian"
+      ],
+      "displayedLanguages": null,
+      "title": "На самоті",
+      "content": "Зараз це знаю\nКоли світ на мене часом злиться\nНавіює мені смуток\nТам де око хмарочоса\nЧекала аж до темряви\nВ тому найдальшому місці\nЗробити блоху маленькою\n\nЗараз о тим знаю\nКоли світ на мене часом злиться\nНавіює мені смуток\nТам де око хмарочоса\nЧекала аж до темряви\nНа самоті так\nІ почувалася такою нещасною\nПочувалася такою нещасною\nЯкби Бог, Добрий Бог\nНе любив бліх\n\nOne - nah - wannа - ee - yeаh…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Sola",
+      "content": "Ahora lo sé\nCuando el mundo a veces se enfada conmigo\nMe da tristeza y me quedo\nAllí donde el ojo del rascacielos\nEsperando a que anochezca\nEn ese lugar tan lejano\nPara convertirme en una pequeña pulga\n\nAhora lo sé\nCuando el mundo a veces se enfada conmigo\nMe da tristeza y me quedo\nAllí donde el ojo del rascacielos\nA esperar a que anochezca\nSola así\nY me sentía tan miserable\nTan, tan miserable\nComo si a Dios, el buen Dios\nNo le gustaran las pulgaѕ\n\nOne - nah - wanna - ee - yeаh…"
+    }
+  ],
+  "bpm": 178,
+  "tone": "D major",
+  "artistPeople": [
+    "Justyna Maria Steczkowska"
+  ],
+  "backings": [
+    "Magda Steczkowska"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Mateusz Pospieszalski",
+    "Wojciech Waglewski"
+  ],
+  "conductor": "Noel Kelehan",
+  "lyricists": [
+    "Wojciech Waglewski"
+  ],
+  "writers": null,
+  "broadcaster": "TVP",
+  "commentators": [
+    "Artur Orzech"
+  ],
+  "jury": null,
+  "spokesperson": "Jan Chojnacki"
+}

@@ -1,0 +1,61 @@
+{
+  "id": 2,
+  "country": "FR",
+  "artist": "Noëlle Cordier",
+  "song": "Il doit faire beau là-bas",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/9eWFFOduXWI",
+    "https://www.youtube-nocookie.com/embed/3_Hktnik5mk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Il doit faire beau là-bas",
+      "content": "Il doit faire beau là-bas, dans ce joli pays\nDe ma fenêtre à moi, je vois tomber la pluie\n\nPuisque tu es parti, c'était pour être heureux\nSi tu as réussi tant mieux\n\nJe déteste tous ces gens avec lesquels tu vis sans moi\nJe déteste tous ces gens qui ne te parlent jamais de moi\n\nC'est l'hiver et le vent que je vais traverser\nC'est pour toi maintenant l'été\n\nIl doit faire beau là-bas, dans ce joli pays\nDe ma fenêtre à moi, je vois tomber la pluie\n\nDéjà quatre saisons ont passé sur nous deux\nEt sur notre maison il pleut\n\nJe déteste tous ces gens avec lesquels je vis sans toi\nJe déteste tous ces gens qui ne me parlent jamais de toi\n\nSi tu dois revenir, n'attends pas trop longtemps\nJe ne peux retenir le temps\n\nIl doit faire beau là-bas, dans ce joli pays\nDe ma fenêtre à moi, je vois ѕ'enfuir la vie\n\nLа vie…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": null,
+      "title": "Πρέπει να κάνει ωραία ο καιρός εκεί",
+      "content": "Πρέπει να κάνει ωραία ο καιρός εκεί, σ' αυτήν την όμορφη χώρα\nΑπό το παράθυρο μου, βλέπω να πέφτει η βροχή\n\nΚαθώς έφευγες, ήταν για την χαρά\nΑν το κατάφερες, σου εύχομαι όλα τα καλύτερα\n\nΜισώ όλους αυτούς τους ανθρώπους, με τους οποίους ζεις χωρίς εμένα\nΜισώ όλους αυτούς τους ανθρώπους, που δεν σου μιλούν ποτέ για μένα\n\nΕίναι χειμώνα και άνεμο που θα περάσω\nΓια σένα είναι τώρα καλοκαίρι\n\nΠρέπει να κάνει ωραία ο καιρός εκεί, σ' αυτήν την όμορφη χώρα\nΑπό το παράθυρο μου, βλέπω να πέφτει η βροχή\n\nΤέσσερις εποχές έχουν ήδη περάσει πάνω μας\nΚαι πάνω στο σπίτι μας βρέχει\n\nΜισώ όλους αυτούς τους ανθρώπους, με τους οποίους ζω χωρίς εσένα\nΜισώ όλους αυτούς τους ανθρώπους, που δε μου μιλούν ποτέ για σένα\n\nΑν πρέπει να επιστρέψεις, μην περιμένεις πάρα πολύ\nΔεν μπορώ να κρατήσω τον καιρό\n\nΠρέπει να κάνει ωραία ο καιρός εκεί, σ' αυτήν την όμορφη χώρα\nΑπό το παράθυρο μου, βλέπω να φεύγει η ζωή\n\nΗ ζωή…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The weather must be good there",
+      "content": "The weather must be good there, in that beautiful country\nFrom my own window, I see the rain falling\n\nAs you left, it was for being happy\nAll the best if you've been successful\n\nI hate all those people with whom you live without me\nI hate all those people who never speak to you about me\n\nIt's winter and I'll go through the wind\nIt's summer for you now\n\nThe weather must be good there, in that beautiful country\nFrom my own window, I see the rain falling\n\nFour seasons have already passed over us\nAnd it rains on our house\n\nI hate all those people with whom you live without me\nI hate all those people who never speak to me about you\n\nIf you have to come back, don't wait too long\nI can't hold the time\n\nThe weather must be good there, in that beautiful country\nFrom my own window, I see life eѕcаping\n\nLife…"
+    }
+  ],
+  "bpm": 115,
+  "tone": "F major",
+  "artistPeople": [
+    "Noëlle Cordier"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Hubert Giraud"
+  ],
+  "conductor": "Franck Pourcel",
+  "lyricists": [
+    "Pierre Delanoë"
+  ],
+  "writers": null,
+  "broadcaster": "ORTF",
+  "commentators": [
+    "Pierre Tchernia"
+  ],
+  "jury": null,
+  "spokesperson": "Jean-Claude Massoulier"
+}

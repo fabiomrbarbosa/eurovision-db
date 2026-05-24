@@ -1,0 +1,53 @@
+{
+  "id": 21,
+  "country": "PT",
+  "artist": "Rita Guerra",
+  "song": "Deixa-me sonhar",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/mhH7Xv7NkTU",
+    "https://www.youtube-nocookie.com/embed/V00OGSJuaw8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "portuguese",
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Deixa-me sonhar (só mais uma vez)",
+      "content": "Leva o sol, leva o mar\nLeva contigo a luz do meu luar\nLeva o amanhecer, do céu leva a cor\nDeixa o anoitecer e a minha dor, e a minha dor\n\nMas quando fores\nDeixa-me sonhar só mais uma vez\nPensar que vais ficar sempre junto a mim\nFaz-me acreditar só mais uma vez\nQue eu ainda sou tudo para ti\n\nLeva o ar que eu respiro\nDeixa a minha vida sem sentido\nLeva o meu sorriso, o meu coração\nLeva o meu destino na tua mão, na tua mão\n\nSo when you're gone\nI'll keep the dream alive only one more day\nBelieve you're by my side, right here close to me\nHelp me to survive only one more day\nSay I'm still the one, and I'll always be\n\nAnd if time lingers on\nIn your arms will be the place I belong\nOh...\n\nKeep the dream alive only one more day\nBelieve you're by my side, all I ever need\nHelp me to survive only one more day\nSay I'm still the one, and I'll alwаyѕ be"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Let me dream (only one more time)",
+      "content": "Take the sun, take the sea\nTake with you the light of my moonlight\nTake the dawning, from the sky take the colour\nLeave the nightfall and my pain, and my pain\n\nBut when you go\nLet me dream only one more time\nAnd think you're going to stay always beside me\nMake me believe only one more time\nThat I'm still everything to you\n\nTake the air that I breathe\nLeave my life without sense\nTake my smile, my heart\nTake my destiny in your hand, in your hand\n\nSo when you're gone\nI'll keep the dream alive only one more day\nBelieve you're by my side, right here close to me\nHelp me to survive only one more day\nSay I'm still the one, and I'll always be\n\nAnd if time lingers on\nIn your arms will be the place I belong\nOh...\n\nKeep the dream alive only one more day\nBelieve you're by my side, all I ever need\nHelp me to survive only one more day\nSay I'm still the one, and I'll alwаyѕ be"
+    }
+  ],
+  "bpm": 126,
+  "tone": "F major",
+  "artistPeople": [
+    "Rita Maria Azevedo Mafra Guerra"
+  ],
+  "backings": [
+    "Beto"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Paulo Martins"
+  ],
+  "broadcaster": "RTP",
+  "commentators": [
+    "Margarida Mercês de Mello"
+  ],
+  "jury": null,
+  "spokesperson": "Helena Ramos"
+}

@@ -1,0 +1,50 @@
+{
+  "id": 12,
+  "country": "IT",
+  "artist": "Luca Barbarossa",
+  "song": "Ti scrivo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/R9WeTphAYQE",
+    "https://www.youtube-nocookie.com/embed/tEgQcm7PHIM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Ti scrivo",
+      "content": "Scusa se ti scrivo\nMa sai con le parole\nNon sempre si riesce\nA dire quello che si vuole\n\nSarà per timidezza\nPer paura di sentire\nTroppo chiaramente\nQuello che ci fa soffrire\n\nScusa se ti scrivo\nNon ci siamo più sentiti\nPer non correre il pericolo\nDi sorprenderci feriti\n\nChissà per quante volte\nSenza neanche rendercene conto\nAvremo camminato\nA pochi metri in pieno centro\n\nScusa se ti scrivo\nMa adesso cosa mi rimane\nUn pugno di ricordi\nUna foto col tuo nome\n\nScritto nella neve\nMentre guardi verso l'obiettivo\nE coi tuoi occhi mi sorridi\nE mi fai sentire vivo\nVivo, vivo, vivo, vivo, vivo\nAnche senza te\nE troverò un motivo\nPer continuare a vivere\nVivere\n\nScusa se ti scrivo\nMa sai non c'è poesia\nA dire che ti amo\nSulla tua segreteria\n\nSarò rimasto indietro\nMa quello che ho nel cuore\nNon voglio che su un nastro\nSi possa cancellare\n\nScusa se ti scrivo\nMa dimmi cosa mi rimane\nParlare dei ricordi\nE giocare col tuo nome\n\nScritto sopra un muro\nSenza neanche un buon motivo\nÈ soltanto che a gridarlo\nMi fa sentire vivo\nVivo, vivo, vivo, vivo, vivo\nAnche ѕenza te\nE troverò un motivo\nPer continuare а vivere\nVivere, vivere"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I write you",
+      "content": "Sorry if I write you\nBut you know with words\nYou can't always\nSay what you really want\n\nIt could be shyness\nOr fear of hearing\nWhat too easily\nMakes us suffer\n\nSorry if I write you\nIt's a long time since we've talked\nBecause we didn't want to run the risk\nOf hurting each other\n\nWho knows for how many times\nWithout even realising it\nWe've walked\nA few meters away from each other\n\nSorry if I write you\nBut now what remains\nAre some memories\nA picture with your name\n\nWritten on the snow\nWhile you're looking into the lens\nAnd your eyes are smiling at me\nAnd you make me feel alive\nAlive, alive, alive, alive, alive\nAlso without you\nI'll find a reason\nTo keep on living\nLiving\n\nSorry if I write you\nBut you know there's no poetry\nSaying that I love you\nOn your answering machine\n\nProbably I'm out\nBut what I feel in my heart\nI don't want on a tape\nWhere it can be removed from\n\nSorry if I write you\nBut tell me what is left\nOf speaking about memories\nAnd of playing with your name\n\nIt's written on a wall\nWithout a good reason\nI just scream out your name\nIt makes me feel alive\nAlive, alive, alive, alive, alive\nAlso without you\nI'll find a reаѕon\nTo keep on living\nLiving, living"
+    }
+  ],
+  "bpm": 128,
+  "tone": "E major",
+  "artistPeople": [
+    "Luca Barbarossa"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Luca Barbarossa"
+  ],
+  "broadcaster": "RAI",
+  "commentators": [
+    "Daniele Piombi"
+  ],
+  "jury": null,
+  "spokesperson": "Mariolina Cannuli"
+}

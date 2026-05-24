@@ -1,0 +1,62 @@
+{
+  "id": 10,
+  "country": "FI",
+  "artist": "Laila Kinnunen",
+  "song": "Valoa ikkunassa",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/xMu44znU-8A",
+    "https://www.youtube-nocookie.com/embed/pJuWlBHtp8g",
+    "https://www.youtube-nocookie.com/embed/aNTEW5V0gkg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Valoa ikkunassa",
+      "content": "Yön vaipan alle on jo jäänyt maa\nOn tullut aika valot sammuttaa\nVain varjot vakavina paikallaan nyt käyvät uneksimaan\n\nOn valo jäänyt pieneen ikkunaan\nKen valvoo ajatukset seuranaan?\nHän omaa ystäväänsä kaivaten näin laulaa – toivoen:\n\nValon säteiden tie minut muistoihin vie\nLyhty ikuinen on, muisto kuihtumaton\n\nKautta hiljaisen yön taakse tähtösten vyön\nLaulu hänelle soi, jos kuulla hän voi\n\nNyt syttyy kaunis uusi tähtönen\nJo laulajakin huomaa loiston sen\nNyt armas laittoi valon ikkunaan\nMua kuulee kaivatessaan\n\nJää valo alle aamun koittavan\nPää uneen vaipunut on laulajаn\nHän luokse ystävänsä kiitäen käy ѕiivin unien"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Light in the window",
+      "content": "The gown of the night has covered the land\nTime has come to turn off the lights\nOnly the shadows stay seriously still and begin to dream\n\nA small window is still lit\nWho is awake, accompanied by her thoughts?\nLonging for her friend she is singing and hoping:\n\nA path of rays of light leads me into memories\nThe lantern burns forever, the memory never fades\n\nThrough the silent night all the way behind the stars\nShe sings a song for him, if he can hear it\n\nA beautiful new star has lit up\nThe singer notices its shine as well\nNow the loved one lit his window\nHe hears me while he is longing\n\nThe light is disguised by the rising dawn\nThe singer has fallen asleep\nShe flies to her friend on the wings of dreаmѕ"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Ett ljus i ett fönster",
+      "content": "Jag vandrar gatan fram och det är natt\nOch det har tystnat kvällens sista skratt\nOch alla sover tryggt i eget bo\nBlott jag får ej någon ro\n\nEtt enda fönster lyser klart ännu\nOch bakom rullgardinen där finns du\nPå nytt så stannar jag här utanför\nOch rösterna jag hör\n\nKommer du aldrig ut?\nVarför fick jag min ring?\nVarför gjorde du slutt?\nJag förstår ingenting\n\nJag ser skuggan av er\nHur hon tar dig i famn\nOch jag hör och jag ser\nHon viskar ditt namn\n\nDet är så tyst och mörkt i stadens hus\nOch man har släckt varenda gatuljus\nOch fast jag redan känner gryningen\nSå vänter jag på min vän\n\nEtt enda fönster lyser klart ännu\nOch bakom rullgardinen där finns du\nOch detta ljus betyder allt för mig\nJag älѕkar barа dig"
+    }
+  ],
+  "bpm": 100,
+  "tone": "G major",
+  "artistPeople": [
+    "Laura Kinnunen"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Eino Hurme"
+  ],
+  "conductor": "George de Godzinsky",
+  "lyricists": [
+    "Sauvo Puhtila"
+  ],
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Aarno Walli"
+  ],
+  "jury": null,
+  "spokesperson": "Poppe Berg"
+}

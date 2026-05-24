@@ -1,0 +1,83 @@
+{
+  "id": 16,
+  "country": "AL",
+  "artist": "Jonida Maliqi",
+  "song": "Ktheju tokës",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-NAbYUoxIfg",
+    "https://www.youtube-nocookie.com/embed/eo4aFzAkQkA",
+    "https://www.youtube-nocookie.com/embed/OQFbA7yfzjo",
+    "https://www.youtube-nocookie.com/embed/-vZDCw9Pedw",
+    "https://www.youtube-nocookie.com/embed/eGH20RCBUyI",
+    "https://www.youtube-nocookie.com/embed/P0lToVjUzDM",
+    "https://www.youtube-nocookie.com/embed/BIIORUGI2xY"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "albanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Ktheju tokës",
+      "content": "Ti këndon edhe qan\nNë duar lotët mbledh\nI mban\n\nNjë ditë jeton\nNë tjetrën vdes\nSa mall, pak shpresë\nI vetëm, pa identitet\n\nKtheju tokës tënde\nO njeri që zemrën le peng\nKtheju tokës tënde\nTi e di një zemër të pret\n\nNjë ditë jeton\nNë tjetrën vdes\nSa mall, pak shpresë\nI vetëm, pа identitet\n\nKtheju tokës tënde\nO njeri që zemrën le peng\nKtheju tokëѕ tënde\nTi e di një zemër të pret"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Return to the Land",
+      "content": "You sing and cry\nIn hands, tears are gathered\nYou hold them\n\nOne day you live\nThe next you die\nSo much nostalgia, so little hope\nAlone, no identity\n\nReturn to your land\nOh man that let the heart hostage\nReturn to your land\nYou know there is a heart waiting for you\n\nOne day you live\nThe next you die\nSo much nostalgia, so little hope\nAlone, no identity\n\nReturn to your land\nOh man that let the heart hostage\nReturn to your land\nYou know there iѕ a heart wаiting for you"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Palaa maahasi",
+      "content": "Sinä laulat ja itket\nKäsissä, kyyneleet kerääntyy\nPidät niitä\n\nEräänä päivänä elät\nSeuraavana päivänä kuolet\nNiin paljon nostalgiaa, niin vähän toivoa\nYksin, ei identiteettiä\n\nPalaa maahasi\nVoi mies, joka otti sydämen panttivangiksi\nPalaa maahasi\nTiedäthän siellä olevan sydän odottelemassa sinua\n\nEräänä päivänä elät\nSeuraavana päivänä kuolet\nNiin paljon nostalgiaa, niin vähän toivoa\nYksin, ei identiteettiä\n\nPalaa maahasi\nVoi mies, joka otti sydämen panttivangiksi\nPalaa maahasi\nTiedäthän siellä olevan sydän odottelemassa ѕinuа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Retorne A Sua Terra",
+      "content": "Você canta e chora\nNa mãos, lágrimas são recolhidas\nVocê as segura\n\nUm dia você vive\nNa outro, você morre\nTanta nostalgia, tão pouca esperança\nSozinho, sem identidade\n\nVolte para sua terra\nÓ homem, que fez do coração refém\nVolte para sua terra\nVocê sabe que há um coração esperando por você\n\nUm dia você vive\nNa outro, você morre\nTanta nostalgia, tão pouca esperança\nSozinho, sem identidade\n\nVolte para sua terra\nÓ homem, que fez do coração refém\nVolte para sua terra\nVocê sabe que há um coração eѕperаndo por você"
+    }
+  ],
+  "bpm": 117,
+  "tone": "Eb minor",
+  "artistPeople": [
+    "Jonida Maliqi"
+  ],
+  "backings": [
+    "Artemisa Mithi",
+    "Tiri Gjoci",
+    "Wendi Mancaku"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Eriona Rushiti"
+  ],
+  "broadcaster": "RTSH",
+  "commentators": [
+    "Andri Xhahu"
+  ],
+  "jury": [
+    "Dilan Reka",
+    "Eranda Libohova",
+    "Gent Rushi",
+    "Julka Gramo",
+    "Vikena Kamenica"
+  ],
+  "spokesperson": "Andri Xhahu"
+}

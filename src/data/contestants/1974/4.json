@@ -1,0 +1,60 @@
+{
+  "id": 4,
+  "country": "LU",
+  "artist": "Ireen Sheer",
+  "song": "Bye Bye I Love You",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ODcfXdEHwz0",
+    "https://www.youtube-nocookie.com/embed/6wVX8WYB_p4",
+    "https://www.youtube-nocookie.com/embed/POe9khbC0m4",
+    "https://www.youtube-nocookie.com/embed/KfcnQqc_TRk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french",
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Bye Bye I Love You",
+      "content": "Moi, je ne savais presque pas parler français\nQuand on s'est connu tous les deux\nDe ton côté, tu ne dis pas un mot d'anglais\nMais tu devinais dans mes yeux, et nous étions heureux\n\nTous les rêves sont permis, pourtant ce soir je te quitte\nTon cœur a changé si vite que nos rêves sont finis\n\nBye bye, I love you, love you\nC'était le plus bel été de ma vie, I love you, chéri\nLe cœur meurtri, je pars en laissant derrière moi\nTant de peine, tant de jours, tant d'amour avec toi\n\nTous les rêves sont permis, je t'aimais, j'avais confiance\nJ'attendais de l'existence ce que tu m'avais promis\nTous les rêves sont permis, tu n'as pas été fidèle\nTu m'as fait pleurer pour elle, trop de fois tu m'as menti\n\nBye bye, I love you, love you\nC'était le plus bel été de ma vie, I love you, chéri\nLe cœur meurtri, je pars en laissant derrière moi\nTant de peine, tant de jours, tant d'amour avec toi\n\nBye bye, I love you, love you\nC'était le plus bel été de ma vie, I love you, chéri\nLe cœur meurtri, je pars en laissant derrière moi\nTant de peine, tant de jours, tant d'amour avec toi\n\nMais pour nous partager, regretter, et t'aimer comme avant\nMais pour nous partager, regretter, et ѕ'aimer comme avаnt"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Bye Bye I Love You",
+      "content": "I didn't really speak French\nWhen we both got to know each other\nFrom your side, you don't say a word of English\nBut you guessed in my eyes, and we were happy\n\nAll dreams are allowed, although I leave you tonight\nYour heart changed so quickly that our dreams have ended\n\nBye bye, I love you, love you\nIt was the most beautiful summer in my life, I love you, darling\nMy hurt heart, I leave, letting behind me\nSo much sorrow, so many days, so much love with you\n\nAll dreams are allowed, I loved you, I trusted you\nI waited for the existence of what you promised me\nAll dreams are allowed, you haven't been loyal\nYou made me cry for her, you lied to me too many times\n\nBye bye, I love you, love you\nIt was the most beautiful summer in my life, I love you, darling\nMy hurt heart, I leave, letting behind me\nSo much sorrow, so many days, so much love with you\n\nBye bye, I love you, love you\nIt was the most beautiful summer in my life, I love you, darling\nMy hurt heart, I leave, letting behind me\nSo much sorrow, so many days, so much love with you\n\nBut to share us, be sorry and love you like before\nBut to share us, be ѕorry and love eаch other like before"
+    }
+  ],
+  "bpm": 178,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Ireen Sheer"
+  ],
+  "backings": [
+    "Catherine Bonnevay",
+    "Dominique Poulain",
+    "Francine Chantereau",
+    "Martine Latorre"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ralph Siegel"
+  ],
+  "conductor": "Charles Blackwell",
+  "lyricists": [
+    "Michael Kunze"
+  ],
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": [
+    "Jacques Navadic"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

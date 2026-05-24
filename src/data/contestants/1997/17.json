@@ -1,0 +1,59 @@
+{
+  "id": 17,
+  "country": "DE",
+  "artist": "Bianca Shomburg",
+  "song": "Zeit",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/G9DeK9uhi4M",
+    "https://www.youtube-nocookie.com/embed/fd4rKt46GEw",
+    "https://www.youtube-nocookie.com/embed/VKP8iPJ2Ifc",
+    "https://www.youtube-nocookie.com/embed/dBkNsgbB4sE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Zeit",
+      "content": "Manchmal lief die Zeit mir durch die Hände\nManchmal wollt sie einfach nicht vergehen\nDoch die Zeit heilt viele Wunden\nUnd in manchen schweren Stunden\nTräumte ich die Zeit zurückzudrehen, denn\n\nZeit, Zeit, wo bleibt nur die Zeit?\nZeit, Zeit, wann ist es soweit?\nWer weiss was noch passiert?\nWer weiss wohin der Weg mich führt?\nSag, wo bist du?\n\nZeit, Zeit, was kommt in dieser Zeit\nNoch auf mich zu?\n\nIch hab um ein bisschen Glück gebetet\nUnd um die verlorne Zeit geweint\nDoch es konnt auf eine Frage\nMir keiner hier die Antwort sagen\nKönnen wir in Frieden glücklich sein? – Nein\n\nZeit, Zeit, wo bleibt nur die Zeit?\nZeit, Zeit, wann ist es soweit?\nWo werd ich morgen sein?\nBin ich am Ende doch allein?\nUnd wo bist du?\n\n(Zeit, Zeit, wo bleibt nur die Zeit?)\nWie schnell die Zeit vergeht\n(Zeit, Zeit, wann ist es soweit?)\nWie schnell der Wind sich dreht\nWer weiss was noch passiert?\nWer weiss wohin der Weg uns führt?\nSag, wo bist du?\n\nZeit, Zeit, iѕt der Weg auch weit\nIch brauch dаzu nur ein wenig Zeit"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Time",
+      "content": "Sometimes time ran through my fingers\nAnd sometimes it just wouldn't go by\nBut time heals many wounds\nAnd often, in difficult moments\nI wished that I could turn back time, because\n\nTime, time, where does the time go?\nTime, time, when is it the right time?\nWho knows what'll happen next?\nWho knows where the road will lead us?\nTell me, where are you?\n\nTime, time, what else will happen during this time\nTo me?\n\nI prayed for a bit of luck\nAnd cried for the times gone by\nBut there was one question\nWhich no one here was able to answer:\nCan we live happily in peace? – No\n\nTime, time, where does the time go?\nTime, time, when is it the right time?\nWhere will I be tomorrow?\nIn the end, will I be alone?\nAnd where are you?\n\n(Time, time, where does the time go?)\nHow quickly time goes by\n(Time, time, when is it the right time?)\nHow quickly the wind turns\nWho knows what'll happen next?\nWho knows where the road will lead us?\nTell me, where are you?\n\nTime, time, even if the road is long\nAll I need iѕ а little time"
+    }
+  ],
+  "bpm": 144,
+  "tone": "F minor",
+  "artistPeople": [
+    "Bianca Shomburg"
+  ],
+  "backings": [
+    "Klaus Scharffenorth",
+    "Pepe Solera",
+    "Uwe Adams",
+    "Wolly Emperhoff"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ralph Siegel"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Gunter Johansen"
+  ],
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Peter Urban"
+  ],
+  "jury": null,
+  "spokesperson": "Christina Mänz"
+}

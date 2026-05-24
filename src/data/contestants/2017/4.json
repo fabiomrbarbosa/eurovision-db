@@ -1,0 +1,60 @@
+{
+  "id": 4,
+  "country": "SE",
+  "artist": "Robin Bengtsson",
+  "song": "I Can't Go On",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/RjH_4oYqLw4",
+    "https://www.youtube-nocookie.com/embed/nH6X2DVP8V4",
+    "https://www.youtube-nocookie.com/embed/338wyBvfvgI",
+    "https://www.youtube-nocookie.com/embed/PPpabP8Xkzc",
+    "https://www.youtube-nocookie.com/embed/26H8KcKJZEM",
+    "https://www.youtube-nocookie.com/embed/keQXcgtekoc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I Can't Go On",
+      "content": "I can't go on\nI can't go on \nGotta keep it together \n\nDon't get me wrong \nDon't get me wrong \nCause baby you make me better\n\nHey \n\nWith just one look you make me shiver \nI just wanna take you home \nWanna go OH \nYeah I wanna go OOH \n\nNow girl you make me a believer  \nI wanna take off all my clothes   \nwanna go OH \nYou make me wanna go OH\n\nI just can't go on no more \nWhen you look this freakin' beautiful\n\nooh \n\nHands down to the floor my love \nAnd I'm doing  \nWhatever you want\n\nI can't go on I can't go on  \nWhen you look this freakin' beautiful  \nI can't go on I can't go on  \nWhen you look this freakin' beautiful\n\nYou've got me good \nYou've got me good \nAnd I'm not going nowhere\n\nRight in your hook \nThat's understood \nBut Im take you to somewhere\n\nI just can't go on no more \nWhen you look this freakin' beautiful\n\nHands down to the floor my love \nAnd I'm doing  \nWhatever you want\n\nI can't go on I can't go on  \nWhen you look this freakin' beautiful \n\nI can't go on I can't go on  \nWhen you look this freakin' beautiful \n\nSo freakin' beautiful  \nBaby I just can't go on\n\nI can't go on I can't go on  \nWhen you look this freakin' beautiful \n\nI can't go on I can't go on  \nWhen you look this freakin' beautiful \n\nSo freakin' beautiful  \nBaby I juѕt cаn't go on"
+    }
+  ],
+  "bpm": 109,
+  "tone": "A minor",
+  "artistPeople": [
+    "Hans Robin Gustav Bengtsson"
+  ],
+  "backings": [
+    "Alvaro Estrella",
+    "Erik Segerstedt",
+    "Kevin Foo",
+    "Lamin Holmén",
+    "Patrik Riber"
+  ],
+  "dancers": null,
+  "stageDirector": "Lotta Furebäck, Mari Ryberger, Zain Odelstål",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "David Kreuger",
+    "K-One",
+    "Robin Stjernberg"
+  ],
+  "broadcaster": "SVT",
+  "commentators": [
+    "Edward af Sillén",
+    "Måns Zelmerlöw"
+  ],
+  "jury": [
+    "Andreas Johnson",
+    "Gustav Nils Uno Efraimsson",
+    "Maria Lundin",
+    "Michael Cederberg",
+    "Wiktoria"
+  ],
+  "spokesperson": "Wiktoria"
+}

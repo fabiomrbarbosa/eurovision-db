@@ -1,0 +1,48 @@
+{
+  "id": 4,
+  "country": "SE",
+  "artist": "Fame",
+  "song": "Give Me Your Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-qAkQRczjDI",
+    "https://www.youtube-nocookie.com/embed/tpKQlcmo0PM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Give me your love",
+      "content": "Hoohooh, hoohooh, hoohooh\nHaha, haha\nGive me your love\n\nOh, I can be the one you love forever\nI can be the dream of your heart\nEvery single moment\nOh, I'm thinking of you\nI wish you felt the same way that I do\n\nGive me your love\nGive me all of your love\nI'm the one for you\nAnd try to believe me\nI just wanna be\nThere by your side\n\nGive me your love\nGive me all of your love\nWhen the morning comes\nI'm waiting tonight and it feels so right\nGive me your love\n\nYou can turn the winter into summer\nOh, yeah\nYou can be my wonder every day\nMmm, hoh…\nEvery time I see you, I just wanna hold you\nI wish you felt the same way that I do\n\nGive me your love\nGive me all of your love\nI'm the one for you\nAnd try to believe me\nI just wanna be\nThere by your side\n\nGive me your love\nGive me all of your love\nWhen the morning comes\nI've waited tonight and it feels so right\nGive me your love\n\nSometimes I think that you're an angel\nAnd it's plain to see that you can rescue me\nRescue me\n\nGive me your love\nGive me all of your love\nI'm the one for you\nAnd try to believe me\nI just wanna be\nThere by your side\n\nGive me your love\nGive me all of your love\nWhen the morning comes\nI've waited tonight аnd it feels ѕo right\nGive me your love"
+    }
+  ],
+  "bpm": 132,
+  "tone": "D major",
+  "artistPeople": [
+    "Jessica Andersson",
+    "Magnus Bäcklund"
+  ],
+  "backings": [
+    "Dea Norberg",
+    "Jenny Petersson",
+    "Martin Kagemark",
+    "Micke Blomqvist"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Calle Kindbom",
+    "Carl Lösnitz"
+  ],
+  "broadcaster": "SVT",
+  "commentators": [
+    "Pekka Heino"
+  ],
+  "jury": null,
+  "spokesperson": "Kattis Ahlström"
+}

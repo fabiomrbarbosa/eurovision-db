@@ -1,0 +1,63 @@
+{
+  "id": 4,
+  "country": "SE",
+  "artist": "Carola",
+  "song": "Invincible",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vFu5y0nP-RQ",
+    "https://www.youtube-nocookie.com/embed/TsuEgC3a3KY",
+    "https://www.youtube-nocookie.com/embed/Ol1kDeRvcwQ",
+    "https://www.youtube-nocookie.com/embed/FKOorNmrfuA"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Invincible",
+      "content": "Never gonna run away, I'm not gonna hide\nI know just what I feel inside\nOh… nothing's gonna make a change, forever with you\nYou're always by my side\nYou're always on my mind\n\nInvincible – one love supreme\nUnbreakable – one land of dreams\nTwo hearts unite – insatiable\nThis love tonight – invincible\n\nLove is like a miracle invading your heart\nAnd when it strikes, it hits you hard\nWhoa… and when it's comin' over you, you won't let it go\nI'm always on your side (Always on your side)\nYou're always on my mind\n\nInvincible – one love supreme\nUnbreakable – one land of dreams\nTwo hearts unite – insatiable\nThis love tonight – invincible\n\nI'm always on your side (Always on your side)\nYou're always on my mind\n\n(Invincible) Oh… invincible\nUnbreakable – one land of dreams, a land of dreams\nTwo hearts unite – insatiаble\nThis love tonight – invincible\n\nThiѕ love tonight – invincible"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Evighet",
+      "content": "Du finns I varje andetag, i varje steg\nSom himlen bär en evighet\nOh… Tiden den står stilla när, vi rör vid varann\nMitt hjärta det brinner\nDin kärlek vinner\n\nEn evighet – en kort sekund \nNär vi blir ett – med tid och rum \nEtt ögonblicks – oändlighet \nLångt bortom allt – i evighet\n\nJag vill alltid stanna här för här är jag fri \nDu är den värld jag lever I\nWhoa… Ingenting kan stoppa mig\nDet blåser en vind, i hjärtan som brinner\nNär kärlek vinner\n\nEn evighet – en kort sekund\nNär vi blir ett – med tid och rum\nEtt ögonblicks – oändlighet\nLångt bortom allt – i evighet\n\nMitt hjärta det brinner (Hjärta det brinner)\nNär kärlek vinner\n\n(En evighet) Åh… jag älskar dig \nNär vi blir ett – med tid och rum \nEtt ögonblickѕ – oändlighet \nLångt bortom allt – i evighet\n\nLångt bortom аllt – i evighet"
+    }
+  ],
+  "bpm": 131,
+  "tone": "B major",
+  "artistPeople": [
+    "Carola Maria Häggkvist"
+  ],
+  "backings": [
+    "Caroline Jönsson",
+    "Dea Norberg",
+    "Johan Röhr",
+    "Martin Kagemark",
+    "Therese Löf"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Bobby Ljunggren",
+    "Henrik Wikström",
+    "Thomas G:son"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Carola Häggkvist",
+    "Thomas G:son"
+  ],
+  "writers": null,
+  "broadcaster": "SVT",
+  "commentators": [
+    "Pekka Heino"
+  ],
+  "jury": null,
+  "spokesperson": "Jovan Radomir"
+}

@@ -1,0 +1,72 @@
+{
+  "id": 17,
+  "country": "PT",
+  "artist": "Filipa Azevedo",
+  "song": "Há dias assim",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/dI1_UmwKNOM",
+    "https://www.youtube-nocookie.com/embed/wNngyFnyaPM",
+    "https://www.youtube-nocookie.com/embed/jkpZwVQ98rQ",
+    "https://www.youtube-nocookie.com/embed/vQI4X4BL4Qw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Há dias assim",
+      "content": "Há dias assim\nQue nos deixam sós\nA alma vazia\nA mágoa na voz\n\nGastámos as mãos\nTanto as apertámos\nJá não há palavras\nFoi de tanto as calarmos\n\nHá uma canção\nQue não te cantei\nVersos por rimar\nPoemas que nunca inventei\n\nQuem nos pôs assim?\nA vida rasgada\nQuem te me levou?\nRoubou-me a alma\nMas de ti não sabe nada\n\nHá dias assim\nNão há que esconder\nRecear palavras\nAmar ou sofrer\n\nOcultar sentidos\nFingir que não há\nHá dias perdidos\nEntre cá e lá\n\nHá uma canção\nQue não te cantei\nVersos por rimar\nPoemas que nunca inventei\n\nQuem nos pôs assim?\nA vida rasgada\nQuem te me levou?\nRoubou-me a alma\nMas de ti não sabe nada\n\nSei que um dia saberás\nQue a vida é uma só\nNão volta atrás\n\nQuem nos pôs assim?\nA vida rasgada\nQuem te me levou\nRoubou-me a alma\nMas de ti não ѕabe nadа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "There are such days",
+      "content": "There are such days\nThat leave us alone\nThe soul empty\nThe hurt in our voice\n\nWe wore away our hands\nWe hold them tight so much\nThere are no words anymore\nBecause we kept quiet so much\n\nThere is a song\nWhich I have not sung to you\nVerses that are still to rhyme\nPoems that I have never invented\n\nWho set us this way?\nThe life torn\nWho took you from me?\nStole my soul\nBut does not know a thing about you\n\nThere are such days\nThere is no need to hide\nFear words\nTo love or to suffer\n\nTo hide senses\nTo pretend they do not exist\nThere are lost days\nHere and there\n\nThere is a song\nWhich I have not sung to you\nVerses that are still to rhyme\nPoems that I have never invented\n\nWho set us this way?\nThe life torn\nWho took you from me?\nStole my soul\nBut does not know a thing about you\n\nI know one day you will know\nThat life is only one\nIt does not turn back\n\nWho set us this way?\nThe life torn\nWho took you from me?\nStole my soul\nBut doeѕ not know a thing аbout you"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Бывают дни",
+      "content": "Бывают дни\nКоторые оставляют нас одинокими\nВ душе пустота\nА в голосе боль\n\nНаши руки стёрты\nМы так крепко держались друг за друга\nНет больше слов\nВедь мы так долго хранили молчание\n\nЕсть песня\nКоторую я ещё не пела тебе\nЕсть строки, которые ещё не сложились в рифму\nИ ещё не написанные стихи\n\nКто сделал это с нами?\nЖизнь порвана\nКто забрал тебя у меня?\nКто украл мою душу\nХотя ничего о тебе не знает?\n\nБывают дни\nКогда не нужно прятаться\nБойся слов\nЛюбить или страдать\n\nПрятать чувства\nПритворяться, что их не существует\nБывают потерянные дни\nВремя от времени\n\nЕсть песня\nКоторую я ещё не пела тебе\nЕсть строки, которые ещё не сложились в рифму\nИ ещё не написанные стихи\n\nКто сделал это с нами?\nЖизнь порвана\nКто забрал тебя у меня?\nКто украл мою душу\nХотя ничего о тебе не знает?\n\nЗнаю, однажды ты поймёшь\nЧто жизнь одна\nИ её не вернуть\n\nКто сделал это с нами?\nЖизнь порвана\nКто забрал тебя у меня?\nКто украл мою душу\nХотя ничего о тебе не знает?"
+    }
+  ],
+  "bpm": 132,
+  "tone": "B minor",
+  "artistPeople": [
+    "Filipa Azevedo"
+  ],
+  "backings": [
+    "Augusto Madureira",
+    "Patrícia Antunes",
+    "Patrícia Silveira",
+    "Pedro Mimoso"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Augusto Madureira"
+  ],
+  "broadcaster": "RTP",
+  "commentators": [
+    "Sérgio Mateus"
+  ],
+  "jury": [
+    "Américo Faria",
+    "Ana Galvão",
+    "Paula Casanova",
+    "Ramón Galarza",
+    "Ricardo Soler"
+  ],
+  "spokesperson": "Ana Galvão"
+}

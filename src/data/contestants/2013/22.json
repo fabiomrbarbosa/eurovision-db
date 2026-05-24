@@ -1,0 +1,58 @@
+{
+  "id": 22,
+  "country": "FR",
+  "artist": "Amandine Bourgeois",
+  "song": "L'enfer et moi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/hQwiQj5Dyj8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "L'enfer et moi",
+      "content": "Tu m'as mise K.O. d'entrée\nIl faut croire que j'ai bien aimé\nLiens de cuir et mains de soie\n\nQui blesses-tu et dans quel port\nJusqu'à faire rougir l'aurore?\nTu m'as jeté comme un sort\n\nJe vais te faire l'enfer\nDe là où tu te perds\nRegarde bien derrière\nEt ce sera moi\n\nTu m'as fait pleurer à vif\nMon cou porte encore ta griffe\nJ'aimais échanger de peau\n\nNo limits, c'est un classique\nJ'aimais nos amours toxiques\nCelles qui font que tout est beau\n\nJe vais te faire l'enfer\nDe là où tu te perds\nRegarde bien derrière\n\nJe vais te faire l'enfer\nDe là où tu te perds\nRegarde bien derrière\nEt ce sera moi\n\nJe vais te faire l'enfer\nTu vas manquer d'air\nÀ moins une, à moins que\nOn s'retrouve à deux\nÀ moins qu'il nous faille\nRenoncer aux batailles\n\n(Je vais te faire l'enfer) J'vais te faire l'enfer\nTu vas manquer d'air (De là où tu te perds)\nÀ moins une, à moins que\nOn s'retrouve à deux (Regarde bien derrière)\nÀ moins qu'il nous faille\nRenoncer aux batailles\n\n(Je vais te faire l'enfer) J'vais te faire l'enfer\nTu vas manquer d'air  (De là où tu te perds)\nÀ moins une, à moins que\nOn s'retrouve à deux (Regarde bien derrière)\nÀ moins qu'il nous faille\nRenoncer\n\n(Je vaiѕ te fаire l'enfer)"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Hell and me",
+      "content": "You knocked me out from the start\nI might even believe I kind of liked it\nLeather ties and silk hands\n\nWho do you hurt and in which pose\nUntil the dawn turns red?\nYou cast me off like a spell\n\nI'm gonna give you hell\nFrom where you lose yourself\nLook well behind you\nAnd it will be me\n\nYou made me cry fiercely\nMy neck still shows your tag\nI liked exchanging skin\n\nNo limits,  it's a classic\nI liked our toxic love\nThe kind that makes everything beautiful\n\nI'm gonna give you hell\nFrom where you lose yourself\nLook well behind you\n\nI'm gonna give you hell\nFrom where you lose yourself\nLook well behind you\nAnd it will be me\n\nI'm gonna give you hell\nYou're gonna lack air\nA close call, unless\nWe end up together\nUnless we have to\nRenounce our battles\n\n(I'm gonna give you hell) I'm gonna give you hell\nYou're gonna lack air (From where you lose yourself)\nA close call, unless\nWe end up together (Look well behind you)\nUnless we have to\nRenounce our battles\n\n(I'm gonna give you hell) I'm gonna give you hell\nYou're gonna lack air (From where you lose yourself)\nA close call, unless\nWe end up together (Look well behind you)\nUnlesѕ we have to\nRenounce\n\n(I'm gonnа give you hell)"
+    }
+  ],
+  "bpm": 90,
+  "tone": "C# minor",
+  "artistPeople": [
+    "Amandine Bourgeois"
+  ],
+  "backings": [
+    "Fanny Llado",
+    "Guillaume Eyango",
+    "Judith Flessel-Toto"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "David Salkin"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Boris Bergman"
+  ],
+  "writers": null,
+  "broadcaster": "France 3",
+  "commentators": [
+    "Audrey Chauveau",
+    "Bruno Berberes",
+    "Cyril Féraud",
+    "Mireille Dumas"
+  ],
+  "jury": null,
+  "spokesperson": "Marine Vignes"
+}

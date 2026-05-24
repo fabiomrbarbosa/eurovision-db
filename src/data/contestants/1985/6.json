@@ -1,0 +1,59 @@
+{
+  "id": 6,
+  "country": "IT",
+  "artist": "Al Bano and Romina Power",
+  "song": "Magic, oh magic",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/y0X_tqgeOsg",
+    "https://www.youtube-nocookie.com/embed/SSPPD861k28",
+    "https://www.youtube-nocookie.com/embed/CoNGH5H6sgI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Magic, oh magic",
+      "content": "(Magic, oh magic, c'è una musica strana)\n(Magic, oh magic, vagamente italiana)\n\nCiao a te, caro amico mio\nCiao a te, che sai cos'è un addio\nE aspetti un giorno migliore\nChe sia pieno d'amore\nE qualcuno che si accorga di te\n\nCiao a te, che sogni non ne fai\nCiao a te, che un giorno tornerai\nPensando a un posto lontano\nDove tu da bambino\nTi fermavi a giocare con lei\n\nMagic, oh magic, c'è una musica strana\nMagic, oh magic, vagamente italiana\n\nChe colora di speranza\nL'infinito in una stanza\nE di colpo quella stanza non c'è\n\nMagic, oh magic, c'è una musica strana\nMagic, oh magic, una fata morgana\n\nCiao a te, che non ti arrendi mai\nCiao a te, che ricomincerai\nCantando nuove parole\nCamminando verso il sole\nAnche adesso che il sole non c'è\n\nMagic, oh magic, c'è una musica strana\nMagic, oh magic, vagamente italiana\n\nChe colora di speranza\nL'infinito in una stanza\nE di colpo quella stanza non c'è\n\nMagic, oh magic, c'è una musica strana\nMagic, oh magic, una fata morgana\n\nMagic, oh magic, c'è una musica strana\nMagic, oh magic, vagamente italiana\n\nMagic, oh magic, c'è una musica ѕtrana\nMagic, oh magic, una fata morganа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Magic, oh magic",
+      "content": "(Magic, oh magic, there's strange music)\n(Magic, oh magic, a little bit Italian)\n\nHello to you, my beloved friend\nHello to you, who knows what goodbye means\nAnd you're waiting for a better day\nThat is full of love\nAnd someone that notices you\n\nHello to you, who doesn't dream\nHello to you, that one day you will return\nThinking of a faraway place\nWhen you were a child\nYou were playing with her\n\nMagic, oh magic, there's strange music\nMagic, oh magic, a little bit Italian\n\nIt has the colour of hope\nOf the infinity in one room\nAnd suddenly that room doesn't exist anymore\n\nMagic, oh magic, there's strange music\nMagic, oh magic, a fata morgana\n\nHello to you, who never surrenders\nHello to you, who will restart\nSinging new words\nWalking towards the sun\nEven if the sun isn't here anymore for you\n\nMagic, oh magic, there's strange music\nMagic, oh magic, a little bit Italian\n\nIt has the colour of hope\nOf the infinity in one room\nAnd suddenly that room doesn't exist anymore\n\nMagic, oh magic, there's strange music\nMagic, oh magic, a fata morgana\n\nMagic, oh magic, there's strange music\nMagic, oh magic, a little bit Italian\n\nMagic, oh magic, there's strange muѕic\nMagic, oh magic, a fata morganа"
+    }
+  ],
+  "bpm": 87,
+  "tone": "C major",
+  "artistPeople": [
+    "Albano Carrisi",
+    "Romina Power"
+  ],
+  "backings": [
+    "Lalla Francia",
+    "Paola Orlandi",
+    "Ylenia Carrisi"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Dario Farina",
+    "Michael Hoffmann"
+  ],
+  "conductor": "Fiorenzo Zanotti",
+  "lyricists": [
+    "Cristiano Minellono"
+  ],
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Rosanna Vaudetti"
+  ],
+  "jury": null,
+  "spokesperson": "Beatrice Cori"
+}

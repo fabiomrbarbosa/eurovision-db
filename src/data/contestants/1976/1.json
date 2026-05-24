@@ -1,0 +1,97 @@
+{
+  "id": 1,
+  "country": "FR",
+  "artist": "Catherine Ferry",
+  "song": "Un, deux, trois",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/glRnQkHDq98",
+    "https://www.youtube-nocookie.com/embed/4np_wo6ugGA",
+    "https://www.youtube-nocookie.com/embed/la3VQ4q4Btc",
+    "https://www.youtube-nocookie.com/embed/-HcevIHZHBQ",
+    "https://www.youtube-nocookie.com/embed/rWjhcJDfSD0",
+    "https://www.youtube-nocookie.com/embed/Lwe0rQw1xEc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Un, deux, trois",
+      "content": "Un, deux, trois\nMa politique à moi\nC'est d'être aimée de toi\nEt chanter lalala lala lala…\n\nUn, deux, trois\nLa vie n'est pas pour moi\nUn livre de Kafka\nUn, deux, trois\n\nJouez, jouez, musiciens\nEnchantez-moi, magiciens\nTourne, tourne dans ma tête à moi\nFais briller les yeux des enfants-rois\n\nFais-moi rêver, comédien\nChante, danse, baladin\nDans la ronde folle, entraînez-moi\nDonnez-moi l'amour et la joie\n\nUn, deux, trois (Un, deux, trois)\nQu'il pleuve sur les toits (Sur les toits)\nQu'il neige sur les bois\nIl fait si bon dans tes bras, lala lala…\n\nUn, deux, trois (Un, deux, trois)\nJe n'entends que ta voix (Que ta voix)\nJe ne vis que pour toi\nJe t'aime\n\nJouez, jouez, musiciens\nEnchantez-moi, magiciens\nTourne, tourne dans ma tête à moi\nFais briller les yeux des enfants-rois\n\nFais-moi rêver, comédien\nChante, danse, baladin\nDans la ronde folle, entraînez-moi\nDonnez-moi l'amour et la joie\n\nLa la la…\n\nFais-moi rêver, comédien\nChante, danse, baladin\nDans la ronde folle, entraînez-moi\nSol mi sol sol fa mi…\nSol mi sol ѕol fa mi…\nDonnez-moi l'amour et lа joie"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": null,
+      "title": "Ένα, δύο, τρία",
+      "content": "Ένα, δύο, τρία\nΗ δική μου πολιτική\nΕίναι να μ' αγαπάς εσύ\nΚαι να τραγουδώ λαλαλα λαλα λαλα…\n\nΈνα, δύο, τρία\nΗ ζωή δεν είναι για μένα\nΈνα βιβλίο του Κάφκα\nΈνα, δύο, τρια\n\nΠαίξτε, παίξτε μουσικοί\nΜαγέψετε με δακτυλουργοί\nΚάνε την κεφαλή μου να γυρίζει, να γυρίζει\nΚάνω τα μάτια των παιδιών-βασιλιάδων να λάμπουν\n\nΚάνε με να ονειρευτώ, κωμικέ\nΤραγούδα, χόρεψε, ηθοποιέ\nΠάρε με στον τρελό τον κύκλο\nΔώστε μου αγάπη και χαρά\n\nΈνα, δύο, τρία (Ένα, δύο τρία)\nΑς βρέξει στις στέγες (Στις στέγες)\nΑς χιονίσει στα δάση\nΕίναι τόσο ωραία στα χέρια σου, λαλα λαλα…\n\nΈνα, δύο, τρία (Ένα, δύο, τρία)\nΔεν ακούω παρά τη φωνή σου (Παρά τη φωνή σου)\nΔε ζω παρά για σένα\nΣ' αγαπώ\n\nΠαίξτε, παίξτε μουσικοί\nΜαγέψετε με δακτυλουργοί\nΚάνε την κεφαλή μου να γυρίζει, να γυρίζει\nΚάνω τα μάτια των παιδιών-βασιλιάδων να λάμπουν\n\nΚάνε με να ονειρευτώ, κωμικέ\nΤραγούδα, χόρεψε, ηθοποιέ\nΠάρε με στον τρελό τον κύκλο\nΔώστε μου αγάπη και χαρά\n\nΛα λα λα…\n\nΚάνε με να ονειρευτώ, κωμικέ\nΤραγούδα, χόρεψε, ηθοποιέ\nΠάρε με στον τρελό τον κύκλο\nΣολ μι σολ σολ φα μι…\nΣολ μι σολ σολ φα μι…\nΔώστε μου αγάπη και χαρά"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "One, two, three",
+      "content": "One, two, three\nMy own policy\nIs to be loved by you\nAnd to sing lalala lala lala…\n\nOne, two, three\nFor me, life is not\nA book by Kafka\nOne, two, three\n\nPlay, play, musicians\nDelight me, magicians\nMake my head spin, spin\nMake the eyes of the king-children shine\n\nMake me dream, comedian\nSing, dance, entertainer\nTake me off into the crazy circle\nGive me love and joy\n\nOne, two, three (One, two, three)\nMay it rain on the roofs (On the roofs)\nMay it snow on the woods\nIt's so nice in your arms, lala lala…\n\nOne, two, three (One, two, three)\nI only hear your voice (Only your voice)\nI only live for you\nI love you\n\nPlay, play, musicians\nDelight me, magicians\nMake my head spin, spin\nMake the eyes of the king-children shine\n\nMake me dream, comedian\nSing, dance, entertainer\nTake me off into the crazy circle\nGive me love and joy\n\nLa la la…\n\nMake me dream, comedian\nSing, dance, entertainer\nTake me off into the crazy circle\nSol mi sol sol fa mi…\nSol mi sol ѕol fa mi…\nGive me love аnd joy"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Eins, Zwei, Drei",
+      "content": "Eins, zwei, drei\nWoran denkst du dabei\nFällt es dir wieder ein unser Spiel\nDass wir als Kinder spielten\n\nEins, zwei, drei\nWünschen wir es herbei\nWie es früher mal war\nEins, zwei, drei\n\nIch war Räuber, du Gendarm\nDie Art kannst du dir heute sparen\nDamals dachten wir noch nicht daran\nDass mit diesem Spiel das Glück begann\n\nIch war Räuber, du Gendarm\nHeut' liege ich in deinem Arm\nDieses Spiel soll nie zu Ende geh'n\nDenn mit dir ist Liebe erst schön\n\nEins, zwei, drei (Eins, zwei, drei)\nJeder Tag geht vorbei (Geht vorbei)\nDoch die Stunden mir dir\nSind für mich mehr als nur Erinnerung\n\nEins, zwei, drei (Eins, zwei, drei)\nWie ein Vogel so frei (Ay… so frei)\nWill ich leben mit dir\nEins, zwei, drei\n\nIch war Räuber, du Gendarm\nDie Art kannst du dir heute sparen\nDamals dachten wir noch nicht daran\nDass mit diesem Spiel das Glück begann\n\nIch war Räuber, du Gendarm\nHeut' liege ich in deinem Arm\nDieses Spiel soll nie zu Ende geh'n\nDenn mit dir ist Liebe erst schön\n\nLa la la…\n\nIch war Räuber, du Gendаrm\nHeut' liege ich in deinem Arm\nDieses Spiel soll nie zu Ende geh'n\nDenn mit dir ist die Liebe…\nNur mit dir ist die Liebe…\nDenn mit dir ist Liebe ѕchön"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Un, dos, tres",
+      "content": "Un, dos, tres\nUn, dos, tres\nCanto así mi refrán\nPues la vida es cantar\nY soñar lalala lalalala…\n\nUn, dos, tres\nSólo quiero pensar\nQue es muy fácil amar\nUn, dos, tres\n\nVen y aprende a sonreír\nQue la vida es para ti\nCanta mi refrán al sol y al mar\nCántale a la flor tu libertad\n\nSiempre hay por quién vivir\nSiempre hay por qué esperar\nVes que fácil es el ser feliz\nLo demás Àqué puede importar?\n\nUn, dos, tres (Un, dos, tres)\nHoy ya puede nevar (Oh… llover)\nY llover y tronar\nSoy feliz, lalala lalalala…\n\nUn, dos, tres (Un, dos, tres)\nNo detengo mi andar (Mi andar)\nQue los años se van\nUn, dos, tres\n\nVen y aprende a sonreír\nQue la vida es para ti\nCanta mi refrán al sol y al mar\nCántale a la flor tu libertad\n\nSiempre hay por quién vivir\nSiempre hay por qué esperar\nVes que fácil es el ser feliz\nLo demás Àqué puede importar?\n\nLa la la…\n\nSiempre hay por quién vivir\nSiempre hay por qué esperar\nVes que fácil es el ser feliz\nSol mi sol sol fa mi…\nSol mi sol sol fa mi…\nLo demáѕ Àqué puede importаr?"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "One, two, three",
+      "content": "One, two, three\nI can count easily\nAnd those figures could be\nAdding up to so much more to me, whoa…\n\nOne, two, three\nAdding you next to me\nCan make two and two three\n\nIf I can count on having you around\nLift me up when I am down\nAlways there to help when I appeal\nShouldering with me each heavy wheel\n\nOnce we join, we won't divide\nAll my hopes, I multiply\nEver since we met, I wanted to\nFeel I could keep counting on you\n\nOne, two, three (One, two, three)\nIt can happen so quick (Oh so quick)\nSimple arithmetic\nSimply you plus me can do the trick, yes\n\nOne, two, three (One, two, three)\nThat's what life is about (Is about)\nI have figured it out\n\nIf I can count on having you around\nLift me up when I am down\nAlways there to help when I appeal\nShouldering with me each heavy wheel\n\nOnce we join, we won't divide\nAll my hopes, I multiply\nEver since we met, I wanted to\nFeel I could keep counting on you\n\nLa la la…\n\nOnce we join, we won't divide\nAll my hopes, I multiply\nEver since we met, I wanted to\nFeel I could keep counting\nOn not juѕt аnyone\nBut keep on counting on you"
+    }
+  ],
+  "bpm": 149,
+  "tone": "A major",
+  "artistPeople": [
+    "Catherine Ferry"
+  ],
+  "backings": [
+    "Bernard Balavoine",
+    "Daniel Balavoine",
+    "Guy Balavoine",
+    "Patrice Scheider"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Tony Rallo"
+  ],
+  "conductor": "Tony Rallo",
+  "lyricists": [
+    "Jean-Paul Cara"
+  ],
+  "writers": null,
+  "broadcaster": "TF1",
+  "commentators": [
+    "Jean-Claude Massoulier"
+  ],
+  "jury": null,
+  "spokesperson": "Michel Drucker"
+}

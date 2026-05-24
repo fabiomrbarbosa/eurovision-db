@@ -1,0 +1,54 @@
+{
+  "id": 4,
+  "country": "FR",
+  "artist": "Alain Barrière",
+  "song": "Elle était si jolie",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/gkB6U5hYj1Q",
+    "https://www.youtube-nocookie.com/embed/_xul-8tQQzo",
+    "https://www.youtube-nocookie.com/embed/-4C6SqcwX8w",
+    "https://www.youtube-nocookie.com/embed/45ojPWemWlY"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Elle était si jolie",
+      "content": "Elle était si jolie que je n'osais l'aimer\nElle était si jolie, je ne peux l'oublier\nElle était trop jolie quand le vent l'emmenait\nElle fuyait ravie et le vent me disait:\n\nElle est bien trop jolie, et toi, je te connais\nL'aimer toute une vie, tu ne pourras jamais\nOui, mais elle est partie, c'est bête, mais c'est vrai\nElle était si jolie, je n'oublierai jamais\n\nAujourd'hui c'est l'automne et je pleure souvent\nAujourd'hui c'est l'automne, qu'il est loin – le printemps\nDans le parc où frissonnent les feuilles au vent mauvais\nSa robe tourbillonne, puis elle disparaît\n\nElle était si jolie que je n'osais l'aimer\nElle était si jolie, je ne peux l'oublier\nElle était trop jolie quand le vent l'emmenait\nElle était si jolie, je n'oublierai jamаiѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "She was so pretty",
+      "content": "She was so pretty, that I didn't dare to love her\nShe was so pretty, I can't forget her\nShe was too pretty when the wind took her\nShe escaped full of delight and the wind told me:\n\nShe's very pretty, and I know you\nYou couldn't love her all your life\nYes, but she's gone, it's a shame, but it's true\nShe was so pretty, I'll never forget\n\nToday it's autumn and I often cry\nToday it's autumn and the spring is far away\nIn the park where the leaves tremble in the ill wind\nHer dress swirls, then she disappears\n\nShe was so pretty, that I didn't dare to love her\nShe was so pretty, I can't forget her\nShe was too pretty when the wind took her\nShe wаs ѕo pretty, I'll never forget"
+    }
+  ],
+  "bpm": 120,
+  "tone": "C minor",
+  "artistPeople": [
+    "Alain Bellec"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Alain Barrière"
+  ],
+  "conductor": "Franck Pourcel",
+  "lyricists": [
+    "A. Migiani"
+  ],
+  "writers": null,
+  "broadcaster": "RTF",
+  "commentators": [
+    "Pierre Tchernia"
+  ],
+  "jury": null,
+  "spokesperson": "Armand Lanoux"
+}

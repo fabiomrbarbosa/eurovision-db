@@ -1,0 +1,67 @@
+{
+  "id": 3,
+  "country": "IL",
+  "artist": "Ilanit",
+  "song": "Ey Sham",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/xrLS0pMuezQ",
+    "https://www.youtube-nocookie.com/embed/DT4KizDJ06I",
+    "https://www.youtube-nocookie.com/embed/tl5PpPzYcAA",
+    "https://www.youtube-nocookie.com/embed/J4W9ZV4fXYk",
+    "https://www.youtube-nocookie.com/embed/pVxLDoKV9-o",
+    "https://www.youtube-nocookie.com/embed/S0e-ZMWHtdY"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": [
+        "ivrit"
+      ],
+      "title": "Ey Sham",
+      "content": "Ba chatsi halaila va'ani era\nChalomot ba'im lasaf\nZe hasheket shelifnei hase'ara\nBo nelech achshav\n\nSham – sham ra'iti keshet be'anan\nSham – sham ole haboker belavan\nEi sham – sham nimtsa beyachad et hagan\nEt gan ha'ahava\n\nSham – sham shama'ati shir yashan noshan\nSham – sham yareach laila laila\nSham – sham nimtsa beyachad et hagan\nEt gan ha'ahava\n\nEt beiti halaila haruchot otfim\nOchazim bo mikol tsad\nEl me'ever le'avim anu afim\nYad ochezet yad\n\nYom chadash halaila belibi nokesh\nVe'ata karev imo\nEt ganei hatchelet yachad nevakesh\nSha'aram navo\n\nSham – sham ra'iti keshet be'anan\nSham – sham ole haboker belavan\nEi sham – sham nimtsa beyachad et hagan\nEt gan ha'ahava\n\nEi sham – sham nimtѕa beyachad et hagan\nEt gan ha'ahavа"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": [
+        "עברית"
+      ],
+      "title": "אי שם",
+      "content": "בא חצי הלילה ואני ערה\nחלומות באים לסף\nזה השקט שלפני הסערה\nבוא נלך עכשיו\n\nשם – שם ראיתי קשת בענן\nשם – שם עולה הבוקר בלבן\nאי שם – שם נמצא ביחד את הגן\nאת גן האהבה\n\nשם – שם שמעתי שיר ישן נושן\nשם – שם ירח לילה לילה\nשם – שם נמצא ביחד את הגן\nאת גן האהבה\n\nאת ביתי הלילה הרוחות עוטפים\nאוחזים בו מכל צד\nאל מעבר לעבים אנו עפים\nיד אוחזת יד\n\nיום חדש הלילה בליבי נוקש\nואתה קרב עימו\nאת גני התכלת יחד נבקש\nשערם נבוא\n\nשם – שם ראיתי קשת בענן\nשם – שם עולה הבוקר בלבן\nאי שם – שם נמצא ביחד את הגן\nאת גן האהבה\n\nשם – שם נמצא ביחד את הגן\nאת גן האהבה"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Somewhere",
+      "content": "It's midnight and I'm awake\nDreams come to an end\nThis is the calm before the storm\nLet's go now\n\nThere - there I saw a rainbow\nThere - there the morning rises in white\nSomewhere - there we will find the garden together\nThe garden of love\n\nThere - there I heard an old, old song\nThere - There's moon, night, night\nThere - there we will find the garden together\nThe garden of love\n\nThe winds wrap my house at night\nHolding it from all sides\nBeyond the clouds we fly\nHand holding hand\n\nA new day tonight in knocking on my heart\nAnd you are coming with it\nWe will ask for the Blue Gardens together\nIn their gates we'll come\n\nThere - there I saw a rainbow\nThere - there the morning riseѕ in white\nSomewhere - there we will find the garden together\nThe garden of love\n\nThere - there we will find the garden together\nThe gаrden of love"
+    }
+  ],
+  "bpm": 91,
+  "tone": "G major",
+  "artistPeople": [
+    "Hanna Dresner-Tzakh (חנה דרזנר)"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Nurit Hirsh"
+  ],
+  "conductor": "Nurit Hirsh",
+  "lyricists": [
+    "Ehud Manor"
+  ],
+  "writers": null,
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

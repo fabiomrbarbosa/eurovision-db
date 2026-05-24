@@ -1,0 +1,72 @@
+{
+  "id": 7,
+  "country": "BE",
+  "artist": "Bobbejaan Schoepen",
+  "song": "Straatdeuntje",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/uReyESf0aV0",
+    "https://www.youtube-nocookie.com/embed/mIrK5vfyVXg",
+    "https://www.youtube-nocookie.com/embed/hGyLCmZjSAQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "Straatdeuntje",
+      "content": "Langs de straten danst er een deuntje\nEn ik blijf even staan\nWaar komt toch dat aardige deuntje\nWel zo ineens vandaan?\n\nHet speelt in de bomen\nDartelt in de wind\nHet is niet te tomen\n't Wordt al gauw m'n vriend\n\nLangs de straten zweeft er een deuntje\n't Is of een zonnestraal\nDoordringt met dat aardige deuntje\nTot in het kleinst portaal\n\nTralalala tralala tralalala…\nTralalala tralala tralalala…\n\nLangs de straten danst er een deuntje\nHet klinkt voor groot en klein\nOh, wat kan zo'n eenvoudig deuntje\nAl gauw onmisbaar zijn\n\nHet klopt op de ruiten\nVraagt: \"Laat mij erin\"\nIk kan het zo fluiten\n't Stemt me goed gezind\n\nLangs de straten zweeft er een deuntje\nHet volgt mij overal\nEn ik hoop dat dit aardig deuntje\nSteedѕ mijn vriend blijven zal\n\nTralalala tralala tralalala…\nTralalala lalala tralalalа…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "estonian"
+      ],
+      "displayedLanguages": null,
+      "title": "Tänavale",
+      "content": "Tänavatel tantsib laul\nJa ma isegi seisan paigal\nKust see sõbralik lugu tuleb?\nKas äkki?\n\nMängib puude otsas\nHullab tuule käes\nSeda ei saa kontrollida\nSellest saab varsti mu sõber\n\nMööda tänavaid hõljub meloodia\nSee on nagu päikesekiir\nLäbib selle kena viisi\nKuni väikseima portaalini\n\nTralalala tralalala tralalala…\nTralalala tralalala tralalala…\n\nTänavatel tantsib laul\nSee kõlab suurepäraselt ja väikeselt\nOh, mida nii lihtne lugu teha suudab\nJuba suuresti peamiselt\n\nSee koputab akendele\nKüsib: \"Lase mind sisse\"\nMa võin kohe vilistada\nSee tekitab minus hea tunde\n\nMööda tänavaid hõljub meloodia\nSee järgneb mulle kõikjale\nJa ma loodan, et see kena lugu\nMinu sõber jääb alatisekѕ\n\nTralalala tralalala tralalala…\nTralalala lalala tralalalа…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Street tune",
+      "content": "Along the streets, a tune is dancing\nAnd for a moment I stand still\nWhere is that pretty tune\nAll of a sudden coming from?\n\nIt's playing in the trees\nFrolicking in the wind\nIt can't be bridled\nIt's soon becoming my friend\n\nAlong the streets, a tune is floating\nIt's as if a sunbeam\nIs penetrating with that pretty tune\nInto the most little portal\n\nTralalala tralala tralalala…\nTralalala tralala tralalala…\n\nAlong the streets, a tune is dancing\nIt's heard by young and old\nOh, how such a simple tune\nCan become indispensable so quickly\n\nIt knocks on the windows\nAsks: \"Let me in\"\nI can easily whistle it\nIt makes me good-humoured\n\nAlong the streets, a tune is floating\nIt follows me everywhere\nAnd I hope that this pretty tune\nWill alwayѕ remain my friend\n\nTralalala tralala tralalala…\nTralalala lalala tralalalа…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Уличная мелодия",
+      "content": "По улицам танцует мелодия\nИ я останавливаюсь на мгновение\nОткуда эта приятная мелодия\nОткуда вдруг взялась?\n\nОна играет на деревьях\nИгривая на ветру\nЕе невозможно сдержать\nСкоро она станет моим другом\n\nМелодия плывет по улицам\nСловно лучик солнца\nПроникает с этой прекрасной мелодией\nДо самого маленького уголка\n\nТралалала тралалала тралалала…\nТралалала тралалала тралалала тралалала…\n\nПо улицам танцует мелодия\nОна звучит для больших и маленьких\nО, как такая простая мелодия может быть\nСкоро станет незаменимой\n\nОна стучится в окна\nПросит: \"Впустите меня\"\nЯ могу насвистывать ее вот так\nОна поднимает мне настроение\n\nПо улицам плывет мелодия\nОна следует за мной повсюду\nИ я надеюсь, что эта приятная мелодия\nОстанется моим другом навсегда\n\nТралалала тралалала тралалала…\nТралалала лалала тралалала…"
+    }
+  ],
+  "bpm": 185,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Modest Schoepen"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Harry Frékin"
+  ],
+  "conductor": "Willy Berking",
+  "lyricists": [
+    "Eric Franssen"
+  ],
+  "writers": null,
+  "broadcaster": "NIR",
+  "commentators": [
+    "Janine Lambotte",
+    "Nic Bal"
+  ],
+  "jury": null,
+  "spokesperson": "Bert Leysen"
+}

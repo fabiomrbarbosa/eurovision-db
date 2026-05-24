@@ -1,0 +1,69 @@
+{
+  "id": 13,
+  "country": "AT",
+  "artist": "Tony Wegas",
+  "song": "Maria Magdalena",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/lfM2uGefRO8",
+    "https://www.youtube-nocookie.com/embed/kdOvgCvwbro",
+    "https://www.youtube-nocookie.com/embed/NjFbFqaLyUw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Maria Magdalena",
+      "content": "Maria Magdalena – gib mir deine Macht\nFür immer und nicht nur für eine Nacht\n\nWie ein Donner ohne Warnung, wie der jüngste Tag\nWie die Sintflut, mehr als ich ertrag\nBist du über mich gekommen, hast mich überfahr'n\nHast mein Herz im Sturm genommen, wie ein Orkan\n\nHimmel oder Hölle\nWo du herkommst ist mir gleich\nBeides in dir, Gut und Böse\nMacht mich arm und reich\n\nMaria Magdalena – du bist Glück und Leid\nMaria Magdalena – schenk' mir die Ewigkeit\nMaria Magdalena – gib mir deine Macht\nFür immer und nicht nur für eine Nacht\n\nDeine Augen schrei'n nach Liebe\nSehnsucht heißt dein Blick\nImmer weiter, niemals mehr zurück\nDu bist eine der Sirenen, die Odysseus sah\nIch bind' mich los und stell' mich der Gefahr\n\nNur wer leidet ist am Leben\nWer nichts fühlt ist tot\nSchmerzen nehmen, Liebe geben\nDas ist mein Gebot\n\nMaria Magdalena – du bist Glück und Leid\nMaria Magdalena – schenk' mir die Ewigkeit\nMaria Magdalena – gib mir deine Macht\nFür immer und nicht nur für eine Nacht\n\nMaria Magdalena – du bist Glück und Leid\nMaria Magdalena – ѕchenk' mir die Ewigkeit\nMaria Magdalena – gib mir deine Macht\nFür immer und nicht nur für eine Nаcht"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Mary Magdalene",
+      "content": "Mary Magdalene – give me your power\nForever and not just for one night\n\nLike thunder without any warning, like the first day\nLike the Flood, more than I can suffer\nYou were coming over me, you ran over me\nYou conquered my heart in a storm, like a hurricane\n\nHeaven or hell\nWhere you come from is all the same to me\nBoth inside of you, good and evil\nIt makes me poor and rich\n\nMary Magdalene – you are happiness and sorrow\nMary Magdalene – give me eternity\nMary Magdalene – give me your might\nForever and not just for one night\n\nYour eyes crying for love\nYearning is the name for your look\nGoing onwards, never again backwards\nYou are one of the sirens, seen by Odysseus\nI untie myself and place myself in danger\n\nOnly those who suffer are alive\nWho feels nothing are dead\nTo take pain, to give love\nThat's my command\n\nMary Magdalene – you are happiness and sorrow\nMary Magdalene – give me eternity\nMary Magdalene – give me your might\nForever and not just for one night\n\nMaria Magdalena – you are happiness and sorrow\nMaria Magdalena – give me eternity\nMaria Magdalena – give me your might\nForever аnd not juѕt for one night"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Mary Magdalene",
+      "content": "Mary Magdalene – guide me on my way\nKeep me warm until our judgement day\n\nLike a thunder struck by lightning, like a stormy sea\nLike a wonder, more than I could be\nCame into my life of sorrow, took away my heart\nShowed me all my secret wishes, gave me a lucky card\n\nGive me love and strong affection, let me feel your spell\nGive me hope and satisfaction, keep my fortune well\n\nMary Magdalene – angel in disguise\nMary Magdalene – tell me sweet, sweet lies\nMary Magdalene – guide me on my way\nKeep me warm until our judgement day\n\nGuardian angel out of hell or a devil is disgrace\nThat feeling is on in many ways\nShout so my desire'd keep our fire burn so strong\nA love so true will never turn out wrong\n\nBe my Virgin, be my lover, be my secret dream\nBe the keeper of the Grail and be my gorgeous queen\n\nMary Magdalene – angel in disguise\nMary Magdalene – tell me sweet, sweet lies\nMary Magdalene – guide me on my way\nKeep me warm until our judgement day\n\nMary Magdalene – angel in disguise\nMary Magdalene – tell me sweet, sweet lieѕ\nMary Magdalene – guide me on my way\nKeep me warm until our judgement dаy"
+    }
+  ],
+  "bpm": 164,
+  "tone": "D major",
+  "artistPeople": [
+    "Anton Sarközi"
+  ],
+  "backings": [
+    "Anzo Morawetz",
+    "Christian Felke",
+    "Gerhard Lux",
+    "Mario Argandoña",
+    "Stephan Gleixner"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Christian Kolonovits",
+    "Johann Bertl"
+  ],
+  "conductor": "Christian Kolonovits",
+  "lyricists": [
+    "Thomas Spitzer"
+  ],
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": [
+    "Ernst Grissemann"
+  ],
+  "jury": null,
+  "spokesperson": "Andy Lee"
+}

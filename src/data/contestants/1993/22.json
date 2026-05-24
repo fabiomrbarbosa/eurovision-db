@@ -1,0 +1,60 @@
+{
+  "id": 22,
+  "country": "SI",
+  "artist": "1X Band",
+  "song": "Tih deževen dan",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/K7OuxggEx6I",
+    "https://www.youtube-nocookie.com/embed/gnzbZR9zMjU",
+    "https://www.youtube-nocookie.com/embed/UdC8sTnSHac",
+    "https://www.youtube-nocookie.com/embed/bnd-IdrTHTU",
+    "https://www.youtube-nocookie.com/embed/xGHVG7JSmKY"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "slovene"
+      ],
+      "displayedLanguages": null,
+      "title": "Tih deževen dan",
+      "content": "Tih deževen dan, zaprem oči, potujem daleč stran\nČez pretekle dni narišem senco in že me več ni\n\nKako dobro se zlivam v ta svet, ki me omamlja\nKako vase potegne me čas, ki ne obstaja\n\nKaj bi svet brez sanj\n(Kaj bi?)\nKo gre sreča tja v en dan?\nKaj bi čas brez sanj?\n(Kaj bi?)\nSaj življenje bilo bi zaman\n\nKaj bi svet brez sanj\n(Kaj bi?)\nKo gre sreča tja v en dan?\nKaj bi čas brez sanj?\nČas brez sanj\n\nModro je nebo tam v daljavi sliši se zvon\nV sapi jutranji še en revež za mano hiti\n\nKako dobro se zlivam v ta svet, ki me omamlja\nKako vase potegne me čas, ki ne obstaja\n\nKaj bi svet brez sanj\n(Kaj bi?)\nKo gre sreča tja v en dan?\nKaj bi čas brez sanj?\n(Kaj bi?)\nSaj življenje bilo bi zaman\n\nKaj bi svet brez sanj\n(Kaj bi?)\nKo gre sreča tja v en dan?\nKaj bi čas brez sanj?\nČas brez ѕаnj"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "A quiet rainy day",
+      "content": "A quiet rainy day, I close my eyes, wander far away\nI paint a shadow over past days and fade away\n\nHow well I merge with this world that dazes me\nHow I'm absorbed in time that doesn't exist\n\nWhat would the world be without dreams\n(What would?)\nWhen good luck squanders?\nWhat would time be without dreams?\n(What would?)\nLife would be in vain\n\nWhat would the world be without dreams\n(What would?)\nWhen good luck squanders?\nWhat would time be without dreams?\nTime without dreams\n\nThe blue sky there, in the distance, the bell is heard\nIn the morning breeze another victim follows me\n\nHow well I merge with this world that dazes me\nHow I'm absorbed in time that doesn't exist\n\nWhat would the world be without dreams\n(What would?)\nWhen good luck squanders?\nWhat would time be without dreams?\n(What would?)\nLife would be in vain\n\nWhat would the world be without dreams\n(What would?)\nWhen good luck squanders?\nWhat would time be without dreams?\nTime without dreаmѕ"
+    }
+  ],
+  "bpm": 132,
+  "tone": "G minor",
+  "artistPeople": [
+    "Andrej Bedjanič",
+    "Barbara Šinigoj",
+    "Brane Vidan",
+    "Cole Moretti",
+    "Sandra Zupanc",
+    "Tomaž Kosec"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Cole Moretti"
+  ],
+  "conductor": "Jože Privšek",
+  "lyricists": [
+    "Tomaž Kosec"
+  ],
+  "writers": null,
+  "broadcaster": "RTVSLO",
+  "commentators": [
+    "Tajda Lekše"
+  ],
+  "jury": null,
+  "spokesperson": "Miša Molk"
+}

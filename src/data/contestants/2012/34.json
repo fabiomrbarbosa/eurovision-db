@@ -1,0 +1,67 @@
+{
+  "id": 34,
+  "country": "IL",
+  "artist": "Izabo",
+  "song": "Time",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-uy4ggnLzKI",
+    "https://www.youtube-nocookie.com/embed/lWMH6ID6Enc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "hebrew",
+        "english"
+      ],
+      "displayedLanguages": [
+        "ivrit"
+      ],
+      "title": "Time",
+      "content": "Time, time, don't let me down\nYou're the man in my playground\nWhat you say I will obey night and day\n\nFeel free to turn me on\nFeel free to change my song\nI will count and you will go on sing my song\n\nI say\n(Zman-man, ten li rak siman man, ten li et hazman)\n(Lama lokhets alay? Tishan)\nYou got to give me more time\n(Zman-man, lama lo tishan-shan? Tagid li kama zman)\n(Lama lihyot shakhor lavan?)\n\nTime, time, could you be mine?\nI will feed you songs and wine\nI'll make you lazy, I'll make you late\nWait, wait, wait\n\nWait, wait, we two are one\nBut you always take the lead\nI lay down and you just run\nMind your speed\n\nI say\n(Zman-man, ten li rak siman man, ten li et hazman)\n(Lama lokhets alay? Tishan)\nYou got to give me more time\n(Zman-man, lama lo tishan-shan? Tagid li kama zman)\nGimme, gimme, gimme, gimme time\n(Lama lihyot shakhor lavan?)\nYou don't know what we talk about\n\n(Zman… zman…)\n\n(Zman-man, ten li rak siman man, ten li et hazman)\n(Lama lihyot ѕhakhor lavаn?)\n\nTime, time, don't let me down"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "hebrew",
+        "english"
+      ],
+      "displayedLanguages": [
+        "עברית"
+      ],
+      "title": "Time",
+      "content": "Time, time, don't let me down\nYou're the man in my playground\nWhat you say I will obey night and day\n\nFeel free to turn me on\nFeel free to change my song\nI will count and you will go on sing my song\n\nI say\n(זמן-זמן, תן לי רק סימן-מן, תן לי את הזמן)\n(למה לוחץ עלי? תישן)\nYou got to give me more time\n(זמן-מן, למה לא תישן-שן, תגיד לי כמה זמן)\n(?למה להיות שחור-לבן)\n\nTime, time, could you be mine?\nI will feed you songs and wine\nI'll make you lazy, I'll make you late\nWait, wait, wait\n\nWait, wait, we two are one\nBut you always take the lead\nI lay down and you just run\nMind your speed\n\nI ѕay\n(זמן-זמן, תן לי רק סימן-מן, תן לי את הזמן)\n(למה לוחץ עלי? תישן)\nYou got to give me more time\n(זמן-מן, למה לא תישן-שן, תגיד לי כמה זמן)\nGimme, gimme, gimme, gimme time\n(?למה להיות שחור-לבן)\nYou don't know what we talk аbout\n\n(…זמן… זמן)\n\n(זמן-זמן, תן לי רק סימן-מן, תן לי את הזמן)\n(?למה להיות שחור-לבן)\n\nTime, time, don't let me down"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Time",
+      "content": "Time, time, don't let me down\nYou're the man in my playground\nWhat you say I will obey night and day\n\nFeel free to turn me on\nFeel free to change my song\nI will count and you will go on sing my song\n\nI say\n(Time, time, just give me a sign, sign, give me the time)\n(Why are you pressuring me? Go to sleep)\nYou got to give me more time\n(Time, time, why won't you sleep, sleep? Tell me how much time)\n(Why should we be black and white?)\n\nTime, time, could you be mine?\nI will feed you songs and wine\nI'll make you lazy, I'll make you late\nWait, wait, wait\n\nWait, wait, we two are one\nBut you always take the lead\nI lay down and you just run\nMind your speed\n\nI say\n(Time, time, just give me a sign, sign, give me the time)\n(Why are you pressuring me? Go to sleep)\nYou got to give me more time\n(Time, time, why won't you sleep, sleep? Tell me how much time)\nGimme, gimme, gimme, gimme time\n(Why should we be black and white?)\nYou don't know what we talk about\n\n(Time… time…)\n\n(Time, time, just give me a sign, sign, give me the time)\n(Why ѕhould we be black аnd white?)\n\nTime, time, don't let me down"
+    }
+  ],
+  "bpm": 130,
+  "tone": "B major",
+  "artistPeople": [
+    "Jonathan Levi",
+    "Nir Mantzur",
+    "Ran Shem Tov",
+    "Shiri Hadar"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Ran Shem Tov",
+    "Shiri Hadar"
+  ],
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Ofer Nachshon"
+}

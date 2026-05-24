@@ -1,0 +1,56 @@
+{
+  "id": 1,
+  "country": "GB",
+  "artist": "Cliff Richard",
+  "song": "Congratulations",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/_xJcE9tnY6E",
+    "https://www.youtube-nocookie.com/embed/WgmjyX_7qNM",
+    "https://www.youtube-nocookie.com/embed/sFFzWF09rHc",
+    "https://www.youtube-nocookie.com/embed/gn37JaJmFv8",
+    "https://www.youtube-nocookie.com/embed/rFsD2c_Vky4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Congratulations",
+      "content": "Congratulations and celebrations\nWhen I tell everyone that you're in love with me\nCongratulations and jubilations\nI want the world to know I'm happy as can be\n\nWho would believe that I could be happy and contented?\nI used to think that happiness hadn't been invented\nBut that was in the bad old days before I met you\nOr when I let you walk into my heart\n\nCongratulations and celebrations\nWhen I tell everyone that you're in love with me\nCongratulations and jubilations\nI want the world to know I'm happy as can be\n\nI was afraid that maybe you thought you were above me\nThat I was only fooling myself to think you'd love me\nBut then tonight you said you couldn't live without me\nThat round about me, you wanted to stay\n\nCongratulations and celebrations\nWhen I tell everyone that you're in love with me\nCongratulations and jubilations\nI want the world to know I'm happy as can be\n\nCongratulations and jubilations\nI want the world to know I'm happy as can be\n\nI want the world to know I'm happy aѕ cаn be"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Congratulazioni",
+      "content": "Congratulazioni e festeggiamenti\nQuando dico a tutti che siete innamorati di me\nCongratulazioni e giubilo\nVoglio che il mondo sappia che sono felice come non mai\n\nChi avrebbe mai creduto che potessi essere felice e contento?\nPensavo che la felicità non fosse stata inventata\nMa quello era nei brutti vecchi tempi prima che ti incontrassi\nO quando ti ho lasciato entrare nel mio cuore\n\nCongratulazioni e festeggiamenti\nQuando dico a tutti che siete innamorati di me\nCongratulazioni e giubilo\nVoglio che il mondo sappia che sono felice come non mai\n\nAvevo paura che forse pensavi di essere superiore a me\nChe mi stessi solo prendendo in giro pensando che mi avresti amato\nMa poi stasera hai detto che non potevi vivere senza di me\nChe intorno a me volevi restare\n\nCongratulazioni e festeggiamenti\nQuando dico a tutti che siete innamorati di me\nCongratulazioni e giubilo\nVoglio che il mondo sappia che sono felice come non mai\n\nCongratulazioni e giubilo\nVoglio che il mondo sappia che sono felice come non mai\n\nVoglio che il mondo sappia che ѕono felice come non mаi"
+    }
+  ],
+  "bpm": 98,
+  "tone": "A major",
+  "artistPeople": [
+    "Harry Rodger Webb"
+  ],
+  "backings": [
+    "Barbara Moore",
+    "Betty Prescott",
+    "Margo Quantrell"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Norrie Paramor",
+  "lyricists": null,
+  "writers": [
+    "Bill Martin",
+    "Phil Coulter"
+  ],
+  "broadcaster": "BBC",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Michael Aspel"
+}

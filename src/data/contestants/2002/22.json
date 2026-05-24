@@ -1,0 +1,51 @@
+{
+  "id": 22,
+  "country": "LT",
+  "artist": "Aivaras",
+  "song": "Happy You",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/VluwCcgqocc",
+    "https://www.youtube-nocookie.com/embed/bz1FJq8yaJk",
+    "https://www.youtube-nocookie.com/embed/DOKFwJrrkb4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Happy You",
+      "content": "Wanna show to you alone\nThe world around us, high and low\nGlowing stars and dancing moon\nHappy I 'cause happy you\n\nClose your eyes and make a wish\nCould it be a scorching kiss?\nYou're my sweetest mountain dew, (baby)\nHappy I 'cause happy you\nFor our dreams come true, they always do\n\nWatching the sunrise, beautiful red skies\nHoping this day will never end\nSinging a love song with a perfect rhyme\nA song of love composed for you\n\nLove brings passion, love brings joy\nLove brings riches we enjoy\nAll is wonder, all is new, (baby)\nHappy I 'cause happy you\nFor our dreams come true, they always do\n\nWatching the sunrise, beautiful red skies\nHoping this day will never end\nSinging a love song with a perfect rhyme\nA song of love composed for you\n\n(Watching the sunrise)\nBabe, it looks great\n(Singing a love song)\nBabe, it sounds great\n\nWatching the sunrise, beautiful red skies\nHoping this day will never end\nSinging a love song with a perfect rhyme\nA song of love composed for you\n\nWatching the sunrise, beautiful red skies\nHoping this day will never end\nSinging a love song with a perfect rhyme\nA song of love composed for you\n\nWаtching the sunriѕe"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "lithuanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Laiminga Tu",
+      "content": "Noriu parodyti tau vienai\nPasaulį aplink mus, aukštai ir žemai\nŠvytinčios žvaigždės ir šokantis mėnulis\nLaimingas aš nes laiminga tu\n\nUžmerk akis ir sugalvok norą\nGalbūt tai rūstus bučinys\nTu mano saldžiausia Mountain Dew, (mažule)\nLaimingas aš nes laiminga tu\nNes mūsų svajonės visad išsipildo\n\nŽiūrim saulėtekį, gražūs raudoni debesys\nTikimės ši diena niekad nesibaigs\nDainuojant meilės dainą puikiu rimu\nMeilės daina sudaryta tau\n\nMeilė neša aistrą, meilė nešą džiaugsmą\nMeilė neša turtą mes mėgaujamės\nViskas stebuklas, viskas nauja, (mažule)\nLaimingas aš nes laiminga tu\nNes mūsų svajonės visad išsipildo\n\nŽiūrim saulėtekį, gražūs raudoni debesys\nTikimės ši diena niekad nesibaigs\nDainuojant meilės dainą puikiu rimu\nMeilės daina sudaryta tau\n\n(Žiūrim saulėtekį)\nMažule, atrodo puikiai\n(Dainuojant meilės dainą)\nMažule, skamba puikiai\n\nŽiūrim saulėtekį, gražūs raudoni debesys\nTikimės ši diena niekad nesibaigs\nDainuojant meilės dainą puikiu rimu\nMeilės daina sudaryta tau\n\nŽiūrim saulėtekį, gražūs raudoni debesys\nTikimės ši diena niekad nesibaigs\nDainuojant meilės dainą puikiu rimu\nMeilės daina sudaryta tau\n\nŽiūrim ѕаulėtekį"
+    }
+  ],
+  "bpm": 120,
+  "tone": "C major",
+  "artistPeople": [
+    "Aivaras Stepukonis"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Aivaras Stepukonis"
+  ],
+  "broadcaster": "LRT",
+  "commentators": [
+    "Darius Užkuraitis"
+  ],
+  "jury": null,
+  "spokesperson": "Loreta Tarozaitė"
+}

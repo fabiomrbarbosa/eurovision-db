@@ -1,0 +1,88 @@
+{
+  "id": 2,
+  "country": "RU",
+  "artist": "Sergey Lazarev",
+  "song": "Scream",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/eNzlxEZ_JG4",
+    "https://www.youtube-nocookie.com/embed/gEpUgRtXBss",
+    "https://www.youtube-nocookie.com/embed/wCKHUldGcEI",
+    "https://www.youtube-nocookie.com/embed/wQ8XADgKZ1s",
+    "https://www.youtube-nocookie.com/embed/4kk-tv3Zzk4",
+    "https://www.youtube-nocookie.com/embed/ZA1oAQPoOvQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Scream",
+      "content": "No I can't stay here longer\nYou cannot make me cry\nSo, I will leave you to wonder\nWhat will become of our lives\n\nI'll swallow hard\nFall apart\nBreak and bleed but\nYou won't see\n\nTears won't fall\nWhile pride stands tall\nMaybe they can't be heard or seen\nBut tears aren't quiet things\n\nThey scream\nThey scream\nThey scream\n\nThough my throat is on fire\nMy eyes will be liars\nAnd they'll try to stay drier\nUntil you turn away\n\nI'll swallow hard\nFall apart\nBreak and bleed but\nYou won't see\n\nTears will fall\nI hear them all\n\nThey scream\nThey scream\n\nNot so silent and innocent\nAcid rain from your finger prints\nEchoes rivers of loneliness\nHitting the walls of my heart\n\nThey scream\n<i style=\"color:#789\">Not so silent and innocent\nAcid rain from your finger prints</i>\nThey scream\n<i style=\"color:#789\">Echoes rivers of loneliness\nHitting the wallѕ of my heаrt</i>"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Urlo",
+      "content": "No, non posso restare a lungo\nNon puoi farmi piangere\nQuindi ti lascerò domandare\nCosa ne sarà delle nostre vita\n\nIngoierò a fatica\nCrollerò\nMi romperò e sanguinerò ma\nTu non lo vedrai\n\nNon cadranno lacrime\nMentre l'orgoglio è alto\nForse non possono essere sentiti o visti\nMa le lacrime non sono cose silenziose\n\nUrlano\nUrlano\nUrlano\n\nNonostante le mia gola sia in fiamme\nI miei occhi mentiranno\nE proveranno ad essere più asciutti\nFinché non ti volti\n\nIngoierò a fatica\nCrollerò\nMi romperò e sanguinerò ma\nTu non lo vedrai\n\nCadranno lacrime\nLe sento tutte\n\nUrlano\nUrlano\n\nNon così silenzioso ed innocente\nPioggia acida dalle tue impronte\nEchi, fiumi di solitudine\nColpendo le pareti del mio cuore\n\nUrlano\n<i style=\"color:#789\">Non così silenzioso ed innocente</i>\n<i style=\"color:#789\">Pioggia acida dalle tue impronte</i>\nUrlano\n<i style=\"color:#789\">Echi, fiumi di ѕolitudine</i>\n<i style=\"color:#789\">Colpendo le pаreti del mio cuore</i>"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Grito",
+      "content": "No, no puedo quedarme\nNo me harás llorar\nAsí que te dejaré preguntándote\nQue será de nuestras vidas\n\nTragaré saliva\nMe caeré a pedazos\nMe romperé y sangraré\nPero no lo verás\n\nNo caerán lágrimas\nMientras mi orgullo se mantiene\nQuizás no se puedan ver u oír\nPero las lágrimas no son silenciosas\n\nGritan\nGritan\nGritan\n\nAunque mi garganta este en llamas\nMis ojos mentirán\nY trataran de mantenerse secos\nHasta que te des la vuelta\n\nTragaré saliva\nMe caeré a pedazos\nMe romperé y sangraré\nPero no lo verás\n\nLágrimas caerán\nYa las escucho\n\nGritan\nGritan\n\nNo tan silencioso o inocente\nLluvia ácida cae de tus huellas\nEcos, ríos de soledad\nGolpeando las paredes de mi corazón\n\nGritan\n*No tan silencioso o inocente*\n*Lluvia ácida cae de tus huellas*\nGritan\n*Ecos, ríos de soledad*\n*Golpeando las paredeѕ de mi corаzón*"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Крик",
+      "content": "Мы не сможем остаться и не сможем простить\nВ нашем сломанном мире ничего не спасти\n\nОтпустить, не любить, но как сердцу всё забыть?\nЛожь твоя, как в бездну шаг, слёз моих не увидишь ты\nНо эхом из пустоты\n\nМой крик\nМой крик\nМой крик\n\nМного разных историй, всю правду откроют\nНо какой же ценою, если нас больше нет?\n\nОтпустить, не любить, и как сердцу всё забыть?\nДождь внутри, услышишь ты\n\nМой крик\nМой крик\n\nНет любви, лишь одна тоска\nВ сердце боль, правда у виска\nСлёзы снова в глазах на миг\nИ остается со мной\n\nМой крик\n<i style=\"color:#789\">Нет любви, лишь одна тоска\nВ сердце боль, правда у виска</i>\nМой крик\n<i style=\"color:#789\">Слёзы снова в глазах на миг и остается со мной</i>"
+    }
+  ],
+  "bpm": 92,
+  "tone": "D major",
+  "artistPeople": [
+    "Sergey Vyacheslavovich Lazarev (Серге́й Вячесла́вович Ла́зарев)"
+  ],
+  "backings": [
+    "Adam Svensson",
+    "Erik Segerstedt",
+    "Jennie Jahns",
+    "Marie Nordmark Sjöström",
+    "Simon Lingmerth"
+  ],
+  "dancers": null,
+  "stageDirector": "Fokas Evangelinos",
+  "composers": [
+    "Dimitris Kontopoulos",
+    "Philipp Kirkorov"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Sharon Vaughn"
+  ],
+  "writers": null,
+  "broadcaster": "RTR",
+  "commentators": [
+    "Dmitry Guberniev",
+    "Olga Shelest"
+  ],
+  "jury": [
+    "Anastasiya Tolmachevy",
+    "Igor Gulyaev",
+    "Lora Kvint",
+    "Maria Tolmachevy",
+    "Simon Osiashvilli"
+  ],
+  "spokesperson": "Ivan Bessonov"
+}

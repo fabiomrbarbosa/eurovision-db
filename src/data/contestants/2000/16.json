@@ -1,0 +1,56 @@
+{
+  "id": 16,
+  "country": "RO",
+  "artist": "Taxi",
+  "song": "The Moon",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/GdUaK3KHN4E",
+    "https://www.youtube-nocookie.com/embed/j4dVW9mFdaE",
+    "https://www.youtube-nocookie.com/embed/5Fh5mJNzCss",
+    "https://www.youtube-nocookie.com/embed/5jP-pZLBINM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The Moon",
+      "content": "I knew it all from the start\nI knew you'll rise above my world, a little sun warming my heart\nI betrayed myself, I knew I lied\nYou've searched into my soul to find love\nAnd found me hiding deep inside\nYou did see a way to set me free\n\nNow I hear when the wind is playing with the stars of my night\nSimply 'cause I have you near\nNow I feel when the moon is playing on and on and on with my heart\nSimply 'cause your love is real\nOh…\n\nI knew it all, I understood\nI simply blinked and let the light give me reasons to be good\nYou did see a way to set me free\n\nNow I hear when the wind is playing with the stars of my night\nSimply 'cause I have you near\nNow I feel when the moon is playing on and on and on with my heart\nSimply 'cause your love is real\nOh…\n\nYes, I feel when the moon is playing\nOh…\n\nNow I hear how the wind is playing with the stars of my night\nSimply 'cause I have you near\nNow I feel when the moon is playing on and on and on with my heart\nSimply 'cause your love iѕ reаl\nOh…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "romanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Luna",
+      "content": "Am știut c-o s-ăpari\nDe undeva din lumea asta - un soare mic o să răsari\nAm știut să m-ascund\nAtât de bine-n mine, în locuri\nÎn care n-am cum să pătrund\nAi deschis un loc de mult închis\n\nȘi ascult cum se joacă vântul noaptea printre stele\nȘi nu cred că vreau mai mult\nBa aștept să apară luna, să se joace-n părul tău\nInima să-mi bată-n piept\nOh…\n\nAm știut să-nțeleg\nSă văd din nou lumina, să aleg să mă dezleg\nAi deschis un loc de mult închis\n\nȘi ascult cum se joacă vântul noaptea printre stele\nȘi nu cred că vreau mai mult\nBa aștept să apară luna, să se joace-n părul tău\nInima să-mi bată-n piept\nOh…\n\nDa, simt când se joacă luna\nOh…\n\nȘi ascult cum se joacă vântul noaptea printre stele\nȘi nu cred că vreau mai mult\nBa aștept să apară luna, să se joace-n părul tău\nInima ѕă-mi bаtă-n piept\nOh…"
+    }
+  ],
+  "bpm": 139,
+  "tone": "C major",
+  "artistPeople": [
+    "Adrian Borțun",
+    "Dan Teodorescu",
+    "George Pătrănoiu",
+    "Georgiana Pană",
+    "Lucian Cioargă"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Dan Teodorescu"
+  ],
+  "broadcaster": "TVR",
+  "commentators": [
+    "Leonard Miron"
+  ],
+  "jury": null,
+  "spokesperson": "Andreea Marin"
+}

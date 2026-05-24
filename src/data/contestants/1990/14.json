@@ -1,0 +1,57 @@
+{
+  "id": 14,
+  "country": "NL",
+  "artist": "Maywood",
+  "song": "Ik wil alles met je delen",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/wa4UjvbF3so",
+    "https://www.youtube-nocookie.com/embed/PRRq6bQBqsc",
+    "https://www.youtube-nocookie.com/embed/UK6nG8h9uEI",
+    "https://www.youtube-nocookie.com/embed/9ndKsF2tVAs"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "Ik wil alles met je delen",
+      "content": "Jij bent niet de enige\nDie zich verloren voelt\nEn al kwamen woorden harder aan\nDan ik ze had bedoeld\n\nIk meende alles wat ik zei\nIk heb ook geleerd\nOm te vechten voor een nieuwe dag\nIs dat dan verkeerd?\n\nIk wil alles met je delen\nWil alles voor je zijn\nEn als jij me wilt vertrouwen\nDan delen we de pijn\n\nSamen met je janken\nSamen uit je bol\nSamen door het lint gaan\nNiets is mij te dol\n\nHet leven is een carrousel\nHet leven is een straat\nDie eens doodloopt\nAls je niet meer weet hoe het verder gaat\n\nEven, ja heel even maar\nDenk je: 't is voorbij\nMaar ik hou van jou zoals je bent\nHou jij ook van mij?\n\nIk wil alles met je delen\nWil alles voor je zijn\nEn als jij me wilt vertrouwen\nDan delen we de pijn\n\nSamen met je janken\nSamen uit je bol\nSamen door het lint gaan\nEn niets is mij te dol\n\nAls ik het licht zie aan de horizon\nWeet ik nog hoe het was\nHoe het eens begon\n\nIk wil alles met je delen\n'k Wil alles voor je zijn\n\nSamen met je janken\nSamen uit je bol\nSamen door het lint gaаn\nNiets iѕ mij te dol"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I want to share everything with you",
+      "content": "You are not the only one\nWho's feeling lost\nAnd although my words sounded rougher\nThan I had meant them\n\nI  meant everything I said\nI also learned\nTo fight for a new day\nIs that wrong then?\n\nI want to share everything with you\nWant to be everything for you\nAnd if you want to trust me\nThen we'll share the pain\n\nCrying together\nGetting crazy together\nLosing our head together\nNothing is too crazy for me\n\nLife is a merry-go-round\nLife is a street\nThat comes to a dead end once\nWhen you don't know anymore where to go\n\nA moment, yes just a moment\nYou think: it's over\nBut I love you the way you are\nDo you love me too?\n\nI want to share everything with you\nWant to be everything for you\nAnd if you want to trust me\nThen we'll share the pain\n\nCrying together\nGetting crazy together\nLosing our head together\nAnd nothing is too crazy for me\n\nWhen I see the light on the horizon\nI still remember how it was\nHow it once started\n\nI want to share everything with you\nI want to be everything for you\n\nCrying together\nGetting crazy together\nLosing our head together\nNothing iѕ too crаzy for me"
+    }
+  ],
+  "bpm": 75,
+  "tone": "G minor",
+  "artistPeople": [
+    "Alie de Vries",
+    "Doetie de Vries"
+  ],
+  "backings": [
+    "Dian Senders",
+    "Jody Pijper",
+    "Jolande Fouraux"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Harry van Hoof",
+  "lyricists": null,
+  "writers": [
+    "Alice May"
+  ],
+  "broadcaster": "NOS",
+  "commentators": [
+    "Willem van Beusekom"
+  ],
+  "jury": null,
+  "spokesperson": "Joop van Os"
+}

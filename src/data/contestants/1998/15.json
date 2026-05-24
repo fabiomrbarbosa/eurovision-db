@@ -1,0 +1,58 @@
+{
+  "id": 15,
+  "country": "ES",
+  "artist": "Mikel Herzog",
+  "song": "¿Qué voy a hacer sin ti?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/BghC0ueSTqs",
+    "https://www.youtube-nocookie.com/embed/mpeyuB_gEvA"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "¿Qué voy a hacer sin ti?",
+      "content": "Eras la niña de mis ojos\nEras la reina de mi corazón\nEras mi mundo\nTodo mi rumbo\n\nUna vida por delante\nTantos sueños para compartir\nY en un momento\nTe olvidaste de vivir\n\n¿Qué voy a hacer sin ti\nSi ya no estás aquí?\n¿Cómo puedo entregarte amor?\nTantos besos que no te di\n\n¿Qué voy a hacer sin ti\nSi ya no estás aquí?\n¿Qué le digo a mi corazón\nQue no para de repetir?\n¿Qué voy a hacer sin ti?\n\nAhora tienes que marcharte\nNo me quiero separar de ti\n¿Si no te tengo\nPara qué quiero vivir?\n\n¿Qué voy a hacer sin ti\nSi ya no estás aquí?\n¿Cómo puedo entregarte amor?\nTantos besos que no te di\n\n¿Qué voy a hacer sin ti\nSi ya no estás aquí?\n¿Qué le digo a mi corazón\nQue no para de repetir?\n¿Qué voy a hacer sin ti?\n\n¿Qué voy a hacer sin ti\nSi ya no estás aquí?\n¿Cómo puedo entregarte amor?\nTantos besos que no te di\n\n¿Qué voy a hacer sin ti\nSi ya no estás aquí?\n¿Qué le digo a mi corazón\nQue se cansa de repetir?\n¿Qué voy a hаcer ѕin ti?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "What am I going to do without you?",
+      "content": "You were the apple of my eyes\nYou were the queen of my heart\nYou were my world\nAll my course\n\nA life in front of us\nSo many dreams to share\nAnd in a moment\nYou forgot to live\n\nWhat am I going to do without you\nIf you're no longer here?\nHow can I give you love?\nSo many kisses I haven't  given to you\n\nWhat am I going to do without you\nIf you're no longer here?\nWhat can I tell my heart\nThat doesn't stop repeating?\nWhat will I do without you?\n\nNow you have to go\nI don't want to separate from you\nIf I don't have you\nWhy do I want to live?\n\nWhat am I going to do without you\nIf you're no longer here?\nHow can I give you love?\nSo many kisses I haven't  given to you\n\nWhat am I going to do without you\nIf you're no longer here?\nWhat can I tell my heart\nThat doesn't stop repeating?\nWhat am I going to do without you?\n\nWhat am I going to do without you\nIf you're no longer here?\nHow can I give you love?\nSo many kisses I haven't  given to you\n\nWhat am I going to do without you\nIf you're no longer here?\nWhat can I tell my heart\nThat iѕ tired of repeating?\nWhat аm I going to do without you?"
+    }
+  ],
+  "bpm": 147,
+  "tone": "C major",
+  "artistPeople": [
+    "Miguel Herzog Herzog"
+  ],
+  "backings": [
+    "Adolfo Rodríguez",
+    "Andrea Bronston",
+    "Esmeralda Cayuelas",
+    "José María Guzmán",
+    "Soledad 'Sol' Pilas"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Alberto Estébanez"
+  ],
+  "conductor": "Alberto Estébanez",
+  "lyricists": [
+    "Mikel Herzog"
+  ],
+  "writers": null,
+  "broadcaster": "TVE",
+  "commentators": [
+    "José Luis Uribarri"
+  ],
+  "jury": null,
+  "spokesperson": "Belén Fernández de Henestrosa"
+}

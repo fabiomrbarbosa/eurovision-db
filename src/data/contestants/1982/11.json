@@ -1,0 +1,56 @@
+{
+  "id": 11,
+  "country": "NO",
+  "artist": "Jahn Teigen & Anita Skorgan",
+  "song": "Adieu",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/AN8ZuJh1fY4",
+    "https://www.youtube-nocookie.com/embed/huf7k1cTTgE",
+    "https://www.youtube-nocookie.com/embed/gTN9JOuOHQo",
+    "https://www.youtube-nocookie.com/embed/iVhupAU1DEw",
+    "https://www.youtube-nocookie.com/embed/QeIxI9873lE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "norwegian"
+      ],
+      "displayedLanguages": null,
+      "title": "Adieu",
+      "content": "Si meg, hva betyr adieu?\nEr det bare trist, no' som sårer deg?\nTro meg, vi skal ta adieu\nIkke sånn som sist, da jeg gikk fra deg\nJeg vil alltid huske deg som en venn\nOm vi aldri mere ses igjen\n\nVi har våre minner, de vil aldri dø\nNå er tiden inne til å si adieu\n\nSi meg, hva betyr adieu?\nKan det ha verdi om alt er forbi?\nTro meg, vi skal ta adieu\nVise kjærlighet om vi skilles helt\nJeg vil alltid huske deg som en venn\nOm vi aldri mere ses igjen\n\nVi har våre minner, de vil aldri dø\nNå er tiden inne til å ѕi аdieu\nAdieu"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Goodbye",
+      "content": "Tell me, what does goodbye mean?\nIs it only sad, something that hurts you?\nBelieve me, we can say goodbye\nNot like the last time, when I left you\nI will always remember you as a friend\nIf we never see each other again\n\nWe have our memories, they will never die\nNow the time has come, to say goodbye\n\nTell me, what does goodbye mean?\nCan it have any worth if all belongs to the past?\nBelieve me, we will say goodbye\nShow love if we split up completely\nI will always remember you as a friend\nIf we never see each other again\n\nWe have our memories, they will never die\nNow the time has come, to ѕаy goodbye\nGoodbye"
+    }
+  ],
+  "bpm": 86,
+  "tone": "C major",
+  "artistPeople": [
+    "Anita Skorgan",
+    "Jahn Teigen"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jahn Teigen"
+  ],
+  "conductor": "Sigurd Jansen",
+  "lyricists": [
+    "Herodes Falsk"
+  ],
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "Bjørn Scheele"
+  ],
+  "jury": null,
+  "spokesperson": "Erik Diesen"
+}

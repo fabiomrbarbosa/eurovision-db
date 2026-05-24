@@ -1,0 +1,59 @@
+{
+  "id": 14,
+  "country": "YU",
+  "artist": "Seid-Memić Vajta",
+  "song": "Lejla",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/fWV5yZD7U8c",
+    "https://www.youtube-nocookie.com/embed/kI17xe8534U",
+    "https://www.youtube-nocookie.com/embed/FAYxXMe90k0",
+    "https://www.youtube-nocookie.com/embed/9mjx8IPqzqA",
+    "https://www.youtube-nocookie.com/embed/Br_R9AXsaUM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "serbo-croatian"
+      ],
+      "displayedLanguages": null,
+      "title": "Lejla",
+      "content": "Nikad te niko neće voljet' k'o ja, nikada\nNikad te niko neće voljet' k'o ja, nikada\n\nMalo nam je trebalo znaj\nSamo malo još jedan san\nZa nas bi procvjetale ruže\nDa si dočekala sa mnom dan\nO samo da si ostala tu\n\nAli nisi željela to\nAli nisi željela to\n\nNikad te niko neće voljet' k'o ja, nikada\nNikad te niko neće voljet' k'o ja, Lejla\n\nPtice bi nas pjesmom vodile znaj\nSunce bi nam obasjalo put\nZa našu sreću i za tebe draga\nSačuvao sam ljubav svu\nO samo da si ostala tu\n\nAli nisi željela to\nAli niѕi željela to\n\nNikad te niko neće voljet' k'o ja, nikada\nNikad te niko neće voljet' k'o ja, Lejla\nNikad te niko neće voljet' k'o ja, Lejlа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Lejla",
+      "content": "No one will ever love you like I do, never\nNo one will ever love you like I do, never\n\nWe only need a little, you know\nJust a little, one more dream\nRoses would have bloomed for us\nHad you waited for the day with me\nIf you had only stayed here\n\nBut you did not want that\nBut you did not want that\n\nNo one will ever love you like I do, never\nNo one will ever love you like I do, Lejla\n\nBirds would have led us with songs, you know\nThe sun would have lit up our path\nFor our happiness and for you, darling\nI have kept all the love\nIf you had only ѕtayed here\n\nBut you did not want that\nBut you did not want that\n\nNo one will ever love you like I do, never\nNo one will ever love you like I do, Lejla\nNo one will ever love you like I do, Lejlа"
+    }
+  ],
+  "bpm": 133,
+  "tone": "A major",
+  "artistPeople": [
+    "Seid-Memić Vajta"
+  ],
+  "backings": [
+    "Ismeta Dervoz-Krvavac",
+    "Jadranka Stojaković",
+    "Neda Ukraden"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Ranko Rihtman",
+  "lyricists": null,
+  "writers": [
+    "Ranko Boban"
+  ],
+  "broadcaster": "JRT",
+  "commentators": [
+    "Mladen Popović",
+    "Oliver Mlakar",
+    "Tomaž Terček"
+  ],
+  "jury": null,
+  "spokesperson": "Helga Vlahović"
+}

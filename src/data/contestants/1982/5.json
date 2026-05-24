@@ -1,0 +1,56 @@
+{
+  "id": 5,
+  "country": "LU",
+  "artist": "Svetlana",
+  "song": "Cours après le temps",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vQPdRhIwx_w",
+    "https://www.youtube-nocookie.com/embed/6Qq8MrIi5z4",
+    "https://www.youtube-nocookie.com/embed/ZIxc0Z0nNzM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Cours après le temps",
+      "content": "Cours après le temps, cours après l'argent\nCours sans t'arrêter, si tu veux gagner\nCours après la gloire, va vers la victoire\nCours sans regarder ceux qui sont tombés\n\n(Cours après le temps) Si je dois courir tout le temps\n(Cours après l'argent) À quoi me servira l'argent?\n(Cours sans t'arrêter) Et le temps comment l'attraper\n(Si tu veux gagner) Si je ne le vois pas passer?\n\n(Cours après la gloire) Ce n'est pas très glorieux, la gloire\n(Va vers la victoire) Ça disparaît dans les miroirs\n(Cours sans regarder) Et souvent pour y arriver\n(Ceux qui sont tombés) Tu n'oses plus te regarder\n\nCours de cœur en cœur (De cœur en cœur)\nCours vers le bonheur (Vers le bonheur)\nIl y a trop d'amour (Il y a trop d'amour)\nPour vivre un amour (Pour vivre un amour)\n\nCours sans te soucier (Sans te soucier)\nDu mal que tu fais (Du mal que tu fais)\nIl faut être fou (Être fou)\nPour vivre à genoux\n\n(Cours de cœur en cœur) Je n'ai pas le cœur assez fort\n(Cours vers le bonheur) Pour pouvoir battre des records\n(Il y a trop d'amour) Et même s'il est un peu trop grand\n(Pour vivre un amour) Un seul amour y tient dedans\n\n(Cours sans te soucier) Je n'ai jamais connu la haine\n(Du mal que tu fais) Je ne sais pas faire de la peine\n(Il faut être fou) Et s'il existe d'autres fous\n(Pour vivre à genoux) Qu'ils me donnent rendez-vous\n\nCours après le temps, moi, j'ai tout le temps\nAu tableau d'honneur, on brûle son cœur\n\nLa lalalala… la lalalala…\nToi, tu veux gagner, moi, je vaiѕ aimer\n\n(La lalalala… la lalalala…) Ah…\n(La lalalala… lalala lala…) Ah…\n(La lalalala… la lalalala…) Ah…\n(La lalalala… lalala lalа…) Ah…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Run after time",
+      "content": "Run after time, run after money\nRun without stopping, if you want to win\nRun after glory, go towards victory\nRun without looking at the ones who have fallen\n\n(Run after time) If I have to run all the time\n(Run after money) What could I do with the money?\n(Run without stopping) And how to catch time\n(If you want to win) If I don't see it passing by?\n\n(Run after glory) Glory is not very glorious\n(Go towards victory) It vanishes in the mirrors\n(Run without looking) But often to reach it\n(At the ones who have fallen) You don't dare to look at yourself anymore\n\nRun from heart to heart (From heart to heart)\nRun towards happiness (Towards happiness)\nThere is too much love (There is too much love)\nTo live one love (To live one love)\n\nRun without worrying (Without worrying)\nAbout the harm you do (About the harm you do)\nYou must be mad (Be mad)\nTo live on your knees\n\n(Run from heart to heart) My heart isn't strong enough\n(Run towards happiness) To beat records\n(There is too much love) And even if it's a bit too big\n(To live one love) A single love will fit into it\n\n(Run without worrying) I never knew hatred\n(About the harm you do) I'm unable to grieve\n(You must be mad) And if there exist other mad people\n(To live on your kneeѕ) Then I want to meet them\n\nRun after time, I've got time\nOn the honour table, you burn your heart\n\nLa lalalala… la lalalala…\nYou want to win, I'm going to love\n\n(La lalalala… la lalalala…) Ah…\n(La lalalala… lalala lala…) Ah…\n(La lalalala… la lalalala…) Ah…\n(La lalalala… lalala lalа…) Ah…"
+    }
+  ],
+  "bpm": 126,
+  "tone": "C major",
+  "artistPeople": [
+    "Claire de Loutchek"
+  ],
+  "backings": [
+    "Georges Costa",
+    "Michel Costa"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Cyril Assous"
+  ],
+  "conductor": "Jean Claudric",
+  "lyricists": [
+    "Michel Jouveaux"
+  ],
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": [
+    "Marylène Bergmann"
+  ],
+  "jury": null,
+  "spokesperson": "Jacques Harvey"
+}

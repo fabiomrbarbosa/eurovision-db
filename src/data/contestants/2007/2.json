@@ -1,0 +1,66 @@
+{
+  "id": 2,
+  "country": "RU",
+  "artist": "Serebro",
+  "song": "Song # 1",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/MVPez6Zvr8g",
+    "https://www.youtube-nocookie.com/embed/AQNYqhcHKPo",
+    "https://www.youtube-nocookie.com/embed/yFa6eg0PIxs",
+    "https://www.youtube-nocookie.com/embed/7BjsOzALya8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Song # 1",
+      "content": "It's a dirty money track, yeah\nGirls, kick the flow\nListen to me\nAll my girls, get ready\nWe'll make it easy\n\nWhen I catch you pickin' me\nYou better get a chill\nBoy, you wanna take on me\n'Cause I'm your killin' pill\n\nCan't you see the way I move\nMy dress, my flashy skin?\nListen up, you know I got\nThe place you've never been\n\nSlow down (Slow down)\nBoy, you don't wanna let me down\nYou better stop, you know what?\n\nOh, don't call me funny bunny\nI'll blow your money, money\nI'll get you to my bad ass spinnin' for you\nOh, I'll make it easy, honey\nI'll take your money, yummy\nI've got my bitches standin' up next to me\n\nSo come and check it\nSo come and check it\nSo come and check it\nMy bad ass spinnin' for you\n\nSo come and check it\nSo come and check it\nSo come and check it\nMy bad ass spinnin' for you (Watch out)\n\nKeep on takin' over you\nIt's kinda gettin' free\nBaby boy, you know I still\nGot sexy freak in me\n\nGotta tease you, nasty guy\nSo take it, don't be shy\nPut your cherry on my cake\nAnd taste my cherry pie\n\nSlow down (Slow down)\nBoy, you don't wanna let me down\nYou better stop, you know what?\n\nOh, don't call me funny bunny\nI'll blow your money, money\nI'll get you to my bad ass spinnin' for you\nOh, I'll make it easy, honey\nI'll take your money, yummy\nI've got my bitches standin' up next to me\n\nMaybe I'll take you with me tonight\nMaybe you'll show me another way\nAnd find a reason for me to stay\nBut something I must tell you:\n\nFeel my vibration\nGet it\n\nOh, don't call me funny bunny\nI'll blow your money, money\nI'll get you to my bad ass spinnin' for you\nOh, I'll make it easy, honey\nI'll take your money, yummy\nI've got my bitches standin' up next to me\n\nSo come and check it\nSo come and check it\nSo come and check it\nMy bad ass spinnin' for you\n\nSo come and check it\nSo come and check it\nSo come and check it\nMy bad аss ѕpinnin' for you"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "serbian"
+      ],
+      "displayedLanguages": null,
+      "title": "Pesma # 1",
+      "content": "Ovo je pesma sa prljavim parama, yeah\nDevojke, dajte ritam\nSlušaj me\nSve moje devojke, spremite se\nOlakšaćemo stvar\n\nKad te uhvatim kako me gledaš\nBolje tiho budi\nDečko, hoćeš da me osvojiš?\nJer ja sam tvoj otrov slatki\n\nZar ne vidiš kako se krećem\nHaljina, koža što blista?\nSlušaj me, znaš da imam\nMesta gde nikad nisi bio\n\nUspori (uspori)\nDečko, nemoj da me izneveriš\nBolje stani, znaš šta?\n\nOh, ne zovi me smešnim zekom\nPoharaću ti novac, ceo\nUvrteću te u igru svoju, bez milosti\nOh, biće ti lako, mili\nUzeću ti pare, slatki\nImam svoje ribe, sve pored mene\n\nPa dođi i proveri\nPa dođi i proveri\nPa dođi i proveri\nMoj ludi ritam je za tebe\n\nPa dođi i proveri\nPa dođi i proveri\nPa dođi i proveri\nMoj ludi ritam je za tebe (Pazi sad)\n\nNastavljam da te preuzimam\nSkroz se opuštam\nMili, znaš da još uvek\nU meni ima divlje vatre\n\nMoram malo da te dražim, zločesti\nPa uzmi to, ne budi stidljiv\nStavi trešnju na moj kolač\nI probaj moj trešnjin raj\n\nUspori (uspori)\nDečko, nemoj da me izneveriš\nBolje stani, znaš šta?\n\nOh, ne zovi me smešnim zekom\nPoharaću ti novac, ceo\nUvrteću te u igru svoju, bez milosti\nOh, biće ti lako, mili\nUzeću ti pare, slatki\nImam svoje ribe, sve pored mene\n\nMožda te povedem večeras\nMožda mi pokažeš neki novi put\nI daš mi razlog da ostanem\nAl' nešto moraš da znaš:\n\nOseti moje vibracije\nUzmi ih\n\nOh, ne zovi me smešnim zekom\nPoharaću ti novac, ceo\nUvrteću te u igru svoju, bez milosti\nOh, biće ti lako, mili\nUzeću ti pare, slatki\nImam svoje ribe, ѕve pored mene\n\nPa dođi i proveri\nPa dođi i proveri\nPa dođi i proveri\nMoj ludi ritam je za tebe\n\nPa dođi i proveri\nPa dođi i proveri\nPa dođi i proveri\nMoj ludi ritam je zа tebe"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Песня номер один",
+      "content": "Послушай меня\nВсё, что я говорю – не верь\nНикогда мне не верь\n\nЭто тихие слова, что ты мне говорил\nЯ не верила тебе, поэтому ты был\nЭта нежная любовь, похожая на Е…\nТы пытаешься, но я забыла о тебе\n\nМолчи – я не буду с тобой, молчи\nЯ про тебя забуду\n\nАу, девчонки ямми-ямми\nСледите за краями\nНо попадает в кровь\nЛя-сука любовь\n\nАу, девчонки, кто-то сзади\nПодумал, что мы кошки\nНо попадает в кровь\nЛя-сука любовь\n\nПока до встречи\nПока до встречи\nПока до встречи\nИ в кровь – ля-сука любовь\n\nПока до встречи\nПока до встречи\nПока до встречи\nИ в кровь – ля-сука любовь\n\nНичего не говори, а просто уходи\nЯ не знаю, что потом и что там впереди\nЭта нежная любовь, похожая на Е…\nЗакружила у тебя и закружила мне\n\nМолчи – я не буду с тобой, молчи\nЯ про тебя забуду\n\nАу, девчонки ямми-ямми\nСледите за краями\nНо попадает в кровь\nЛя-сука любовь\n\nАу, девчонки, кто-то сзади\nПодумал, что мы кошки\nНо попадает в кровь\nЛя-сука любовь\n\nПока до встречи\nПока до встречи\nПока до встречи\nИ в кровь – ля-сука любовь\n\nПока до встречи\nПока до встречи\nПока до встречи\nИ в кровь – ля-сука любовь\n\nЯ постараюсь тебя забыть\nВсё может быть и уже не быть\nЯ прикоснулась к твоим губам\nИ я тебя забыла\n\nАу, девчонки ямми-ямми\nСледите за краями\nНо попадает в кровь\nЛя-сука любовь\n\nАу, девчонки, кто-то сзади\nПодумал, что мы кошки\nНо попадает в кровь\nЛя-сука любовь\n\nПока до встречи\nПока до встречи\nПока до встречи\nИ в кровь – ля-сука любовь\n\nПока до встречи\nПока до встречи\nПока до встречи\nИ в кровь – ля-сука любовь"
+    }
+  ],
+  "bpm": 125,
+  "tone": "F major",
+  "artistPeople": [
+    "Elena Temnikova",
+    "Marina Lizorkina",
+    "Olga Serebkina"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Maxim Fadeev"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Daniil Babichev"
+  ],
+  "writers": null,
+  "broadcaster": "C1R",
+  "commentators": [
+    "Elena Batinova",
+    "Yuriy Aksuta"
+  ],
+  "jury": null,
+  "spokesperson": "Yana Churikova"
+}

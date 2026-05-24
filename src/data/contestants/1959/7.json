@@ -1,0 +1,55 @@
+{
+  "id": 7,
+  "country": "DE",
+  "artist": "Alice and Ellen Kessler",
+  "song": "Heut' woll'n wir tanzen geh'n",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/aJSN68U31l4",
+    "https://www.youtube-nocookie.com/embed/_-uySoGcLr8",
+    "https://www.youtube-nocookie.com/embed/b_NLJyHlRfg",
+    "https://www.youtube-nocookie.com/embed/LsAgA_sNMlw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Heut' woll'n wir tanzen geh'n",
+      "content": "Hallo, Boy, heute Abend wollen wir tanzen gehn\nHallo, Boy, heute wollen wir uns im Rhythmus drehn\nHast du Zeit? Dann komm mit, sag nicht nein\nHeute wollen wir glücklich sein\n\nHallo, Boy, heute Abend ist die Band so gut\nHallo, Boy, und wir haben doch Musik im Blut\nHast du Zeit? Dann komm mit, sag nicht nein\nSchön ist doch die Welt zu zwein\n\nUnd darum wolln wir tanzen, tanzen\nOhne Pause bis morgen früh\nImmer tanzen, tanzen nach dieser Melodie\n\nHallo, Boy, alle Sorgen lassen wir zuhaus\nHallo, Boy, und wir tanzen uns mal richtig aus\nHast du Zeit? Dann komm mit, sag nicht nein\nHeute wollen wir glücklich sein\n\nWas die Teenager begeistert\nUnd was allen Twens gefällt\nJa, was jeder immer gerne hört\nDas ist Musik aus aller Welt\n\nUnd darum wolln wir tanzen, tanzen\nOhne Pause bis morgen früh\nImmer tanzen, tanzen nach dieser Melodie\n\nHallo, Boy, alle Sorgen lassen wir zuhaus\nHallo, Boy, und wir tanzen uns mal richtig aus\nHast du Zeit? Dann komm mit, sаg nicht nein\nHeute wollen wir beide glücklich ѕein"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Tonight we want to go dancing",
+      "content": "Hello, boy, tonight we want to go dancing\nHello, boy, tonight we want to move to the rhythm\nHave you got some time? Then come along, don't say no\nToday we want to be happy\n\nHello, boy, tonight the band is really good\nHello, boy, and we've got music in our blood\nHave you got some time? Then come along, don't say no\nThe world is wonderful with the two of us\n\nAnd that's why we want to dance, dance\nWithout any break till tomorrow morning\nAlways dancing, dancing to this melody\n\nHello, boy, we'll leave all our worries at home\nHello, boy, and we'll have a really good dance\nHave you got some time? Then come along, don't say no\nToday we want to be happy\n\nWhat the teenager goes mad for\nAnd what all twenties like\nYes, what everyone always likes to hear\nIs music from all over the world\n\nAnd that's why we want to dance, dance\nWithout any break till tomorrow morning\nAlways dancing, dancing to this melody\n\nHello, boy, we'll leave all our worries at home\nHello, boy, and we'll have a really good dance\nHave you got some time? Then come along, don't ѕay no\nToday we both want to be hаppy"
+    }
+  ],
+  "bpm": 136,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Alice Kessler",
+    "Ellen Kessler"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Helmut Zander"
+  ],
+  "conductor": "Franck Pourcel",
+  "lyricists": [
+    "Astrid Voltmann"
+  ],
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Elena Gerhard"
+  ],
+  "jury": null,
+  "spokesperson": "Walter Andreas Schwarz"
+}

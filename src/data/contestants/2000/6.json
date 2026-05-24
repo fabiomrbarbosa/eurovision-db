@@ -1,0 +1,73 @@
+{
+  "id": 6,
+  "country": "SE",
+  "artist": "Roger Pontare",
+  "song": "When Spirits Are Calling My Name",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/873dUOlMAe8",
+    "https://www.youtube-nocookie.com/embed/Sgb4ogPNHxs",
+    "https://www.youtube-nocookie.com/embed/deXCS49qQiM",
+    "https://www.youtube-nocookie.com/embed/h3jRwMCRH8g",
+    "https://www.youtube-nocookie.com/embed/zlf8y8CslOA"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "When Spirits Are Calling My Name",
+      "content": "I am caught in a trap, there is no turning back, I'm finally facin' the fear\nThe sky is on fire, and up with the flames, my hope and my dreams disappear\nSo bring me the power, I'll be the king of the land and the seas\nShow me the way to go, let me fight with my body and soul\n\nLet me be the native son with freedom in my heart\nLife will never be the same when spirits are calling my name\nMy name…\n\nLet me out of the darkness, the shadow of pain, and I'm keepin' my promise to you\nMy people, my spirit, the home of my heart - you're with me wherever I go\nSo bring me the power, I'll be the king of the land and the seas\nI've got a way to go, let me fight with my body and soul\n\nLet me be the native son with freedom in my heart\nLife will never be the same when spirits are calling my name\nMy name…\n\nSo bring me the power, I'll be the king of the land and the seas\nI've got a way to go, let me fight with my body and soul\n\nLet me be the native son with freedom in my home\nLife will never be the same when spirits are calling my name\n\nSpiritѕ are calling my nаme"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "När vindarna viskar mitt namn",
+      "content": "Jag blev fångad i ett mörker, jag såg inget ljus fast allt runtomkring stod i brand\nI lågornas sken fanns mitt hopp och min tro som virvlade bort och försvann\nSå ge mig min styrka, ge mig kraft att försvara mitt land\nJag har en väg att gå, jag ser yxan i krigarens hand\n\nVill ni att jag vänder om och slåss för den jag är?\nAldrig sviker jag mitt land när vindarna viskar mitt namn\nMitt namn…\n\nRegnet som föll, det fick dölja min sorg och släcka min brinnande törst\nFlydde till bergen när gryningen kom och plötsligt jag hörde en röst\nVindarna viskar, jag hör hur dom kallar mitt namn\nJag har en väg att gå, jag ser yxan i krigarens hand\n\nVill ni att jag vänder om och slåss för den jag är?\nAldrig sviker jag mitt land när vindarna viskar mitt namn\nMitt namn…\n\nSå ge mig min styrka, ge mig kraft att försvara mitt land\nJag har en väg att gå, jag ser yxan i krigarens hand\n\nVill ni att jag vänder om och slåss för den jag är?\nAldrig sviker jag mitt land när vindarna viskar mitt namn\n\nVindarna viѕkar mitt nаmn"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": [
+        "english"
+      ],
+      "title": "When the Winds Whisper My Name",
+      "content": "I was caught in the darkness, I couldn't see the light\nThough everything was engulfed in flames\nAll my hope and faith was trapped therewithin\nIt had now gone up in smoke\n\nGive me the power to defend my country\nGive me a way to go\nI see the axe-wielding warrior\n\nDo you want me to turn back to fight for my life?\nI'll never let my country down when the winds whisper my name\n\nThe falling rain concealed my sorrows\nAnd quenched my aching thirst\nFled to the mountains at dawn\nWhen I suddenly heard a voice\n\nI hear how the winds whisper, calling my name\nI've got a way to go\nI see the axe-wielding warrior\n\nDo you want me to turn back to fight for my life?\nI'll never let my country down when the winds whisper my name\n\nThe winds whiѕper my nаme"
+    }
+  ],
+  "bpm": 123,
+  "tone": "G minor",
+  "artistPeople": [
+    "Roger Pontare"
+  ],
+  "backings": [
+    "Frank Ådahl",
+    "Johan Sara JR",
+    "Kasaluk",
+    "Ken Roulette",
+    "Pernilla Emme"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Linda Jansson",
+    "Peter Dahl",
+    "Thomas Holmstrand"
+  ],
+  "broadcaster": "SVT",
+  "commentators": [
+    "Christer Lundh",
+    "Pernilla Månsson"
+  ],
+  "jury": null,
+  "spokesperson": "Malin Ekander"
+}

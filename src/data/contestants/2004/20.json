@@ -1,0 +1,52 @@
+{
+  "id": 20,
+  "country": "AT",
+  "artist": "Tie Break",
+  "song": "Du Bist",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/_KXWrVtNFiE",
+    "https://www.youtube-nocookie.com/embed/SruHT-NU2Ks"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Du bist",
+      "content": "Diese Stille, die ich hab'\nImmer wenn du bei mir bist\nDiese pure Fantasie\nDiese Kraft, die du nur gibst\n\nDiese kleinen Glücksmomente\nDie du mir so zahlreich gibst\nImmer fehlen dann die Worte\nWeil es ohne dich nichts gibt\n\nWenn du traurig bist, dann wein' ich mit dir mit\nWenn du schläfst, dann träum' ich mit dir mit\n\nDu bist das Leben, das ich lieb'\nDu hast das Lachen, das ich brauch'\nDu bist der Stern am Sternenzelt\nUnd alles andere Schöne auch\n\nDu bist die Kraft, die mich umgibt\nDu bist die Wärme, bist das Licht\nUnd was ich sonst noch alles brauch'\nDas bist du auch\n\nDu bist ein Wahnsinns-Optimist\nFür dich sind Grenzen unbekannt\nFür dich ist jeder Wunsch ein Ziel\nUnd alle Träume werden wahr\n\nWenn du traurig bist, dann wein' ich mit dir mit\nWenn du schläfst, dann träum' ich mit dir mit\n\nDu bist das Leben, das ich lieb'\nDu hast das Lachen, das ich brauch'\nDu bist der Stern am Sternenzelt\nUnd alles andere Schöne auch\n\nDu bist die Kraft, die mich umgibt\nDu bist die Wärme, bist das Licht\nUnd was ich sonst noch alles brauch'\nDas bist du auch\n\nDie Luft, die mir den Atem gibt\nDas Wunder, dass man Leben nennt\nDas Wasser, dass ich nicht verdurst'\nAll das in einem, das bist du\n\nDu bist das Leben, das ich lieb'\nDu hast das Lachen, das ich brauch'\nDu bist der Stern am Sternenzelt\nUnd alles andere Schöne auch\n\nDu bist die Kraft, die mich umgibt\nDu bist die Wärme, bist das Licht\nUnd was ich sonst noch alles brauch'\nDas biѕt du аuch"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "You are",
+      "content": "This silence that I have\nEverytime when you are with me\nThis pure fantasy\nThis power that you just give\n\nThese little moments of luck\nThat you so often give me\nThat's when words always fail me\nBecause there is nothing without you\n\nIf you are sad, I'm crying along with you\nIf you are sleeping, I'm dreaming along with you\n\nYou are the life that I love\nYou have the laughter that I need\nYou are the star on the starry sky\nAnd all the other beautiful things too\n\nYou are the power that surrounds me\nYou are the warmth, you are the light\nAnd anything else that I need\nYou are that too\n\nYou are a total optimist\nFor you borders are unknown\nFor you every wish is a goal\nAnd all dreams come true\n\nIf you are sad, I'm crying along with you\nIf you are sleeping, I'm dreaming along with you\n\nYou are the life that I love\nYou have the laughter that I need\nYou are the star on the starry sky\nAnd all the other beautiful things too\n\nYou are the power that surrounds me\nYou are the warmth, you are the light\nAnd anything else that I need\nYou are that too\n\nThe air that gives me my breath\nThe wonder that is called life\nThe water that keeps me from dying of thirst\nYou are all that in one\n\nYou are the life that I love\nYou have the laughter that I need\nYou are the star on the starry sky\nAnd all the other beautiful things too\n\nYou are the power that surrounds me\nYou are the warmth, you are the light\nAnd anything elѕe that I need\nYou are thаt too"
+    }
+  ],
+  "bpm": 130,
+  "tone": "F major",
+  "artistPeople": [
+    "Stefan di Bernardo",
+    "Thomas Elzenbaumer",
+    "Tommy Pegram"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Peter Zimmermann"
+  ],
+  "broadcaster": "ORF",
+  "commentators": [
+    "Andi Knoll"
+  ],
+  "jury": null,
+  "spokesperson": "Dodo Roščić"
+}

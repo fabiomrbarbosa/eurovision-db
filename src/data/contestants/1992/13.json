@@ -1,0 +1,59 @@
+{
+  "id": 13,
+  "country": "ES",
+  "artist": "Serafin",
+  "song": "Todo esto es la música",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/X2gWIT3WUBY",
+    "https://www.youtube-nocookie.com/embed/dQoXsnCUTdY"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Todo esto es la música",
+      "content": "Solo una vez más, antes de marchar\nLejos hacia otro lugar\nTenemos que hablar por una vez más\nPara ver si podemos continuar\n\nEres mi obsesión, y sólo pido a Dios\nQue mañana te acuerdes de mí\nSolo una canción puede hablar de amor\nY contar las penas que hay en mi corazón\n\nTodo esto es la música que rodea tu cuerpo\nSolo este momento me llena de felicidad\nTodo esto es la música que llevo tan dentro de mí\nEl recuerdo, para ser sincero, es por ti\n\nPienso que fui yo la culpa\nPero tú te fuiste sin decir adiós\nSolo entre los dos, el odio y el amor\nExisten en nuestro corazón\n\nTodo esto es la música que rodea tu cuerpo\nSolo este momento me llena de felicidad\nTodo esto es la música que llevo tan dentro de mí\nEl recuerdo, para ser sincero (es por ti)\n\nTodo lo bueno y malo de la vida\nTiene sentido con la música\nMúsica es alegría, también melancolía\nPaz, armonía y sueños\nY el sabor de tus besos\n\nTodo esto es la música que rodea tu cuerpo\nSolo este momento me llena de felicidad\nTodo esto es la música que llevo tan dentro de mí\nEl recuerdo, parа ser sincero, es por ti, eѕ por ti"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "All this is music",
+      "content": "Just once before going\nFar away to another place\nWe have to talk once again\nAnd see if we can go on\n\nYou're my obsession, and only I beg God\nThat tomorrow you will remember me\nOnly a song can speak of love\nAnd tell all the sorrows that I have in my heart\n\nAll this is music, which surrounds your body\nOnly this moment fills me with happiness\nAll this is music, which I have so inside of me\nMy memory, to be sincere, is for you\n\nI think it was my fault\nBut you left without saying goodbye\nOnly between us, hate and love\nAre in our hearts\n\nAll this is music, which surrounds your body\nOnly this moment fills me with happiness\nAll this is music, which I have so inside of me\nMy memory, to be sincere (is for you)\n\nEverything good and bad in life\nMakes sense with music\nMusic is happiness, and also sadness\nPeace, harmony and dreams\nAnd the taste of your kisses\n\nAll this is music, which surrounds your body\nOnly this moment fills me with happiness\nAll this is music, which I hаve so inside of me\nMy memory, to be sincere, is for you, iѕ for you"
+    }
+  ],
+  "bpm": 134,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Serafín Lizoain Vidondo"
+  ],
+  "backings": [
+    "Adolfo Rodríguez",
+    "Ernesto Baquero",
+    "Mabi Vidal",
+    "Manuel Rodríguez",
+    "María Lar"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Alfredo Valbuena",
+    "Luis Miguélez"
+  ],
+  "conductor": "Javier Losada",
+  "lyricists": [
+    "Luis Miguélez"
+  ],
+  "writers": null,
+  "broadcaster": "TVE",
+  "commentators": [
+    "José Luis Uribarri"
+  ],
+  "jury": null,
+  "spokesperson": "María Ángeles Balañac"
+}

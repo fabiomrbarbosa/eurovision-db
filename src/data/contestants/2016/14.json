@@ -1,0 +1,63 @@
+{
+  "id": 14,
+  "country": "LV",
+  "artist": "Justs",
+  "song": "Heartbeat",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/o-2Lt7zzlBU",
+    "https://www.youtube-nocookie.com/embed/f6FdGky3_4E",
+    "https://www.youtube-nocookie.com/embed/KOVU7_ZsnkQ",
+    "https://www.youtube-nocookie.com/embed/aT0wvYxaTv4",
+    "https://www.youtube-nocookie.com/embed/H8lyUEq3v-M"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Heartbeat",
+      "content": "I know you told so many times\nSo many words in different rhymes\nBut I don't feel the same\n\nI wasn't innocent, I know\nAnd things I did for sure were wrong\nThe time has passed so long\n\nFeeling your heartbeat\nThat's what I want\nThat's what I need\nFeeling again that you're breathing with me\n\nI'm getting wild when I'm alone\nI learned by heart you're not my own\nBut I never asked you to belong\n\nYou're my desire and my pain\nBut all battles are in vain\nYou mean more than anything to me\n\nFeeling your heartbeat\nThat's what I want\nThat's what I need\nFeeling again that you're breathing with me\n\nFeeling your heartbeat\nThat's what I want\nThat's what I need\nFeeling again that you're breathing with me\n\nYou're the one that I need\nYou're the air that I breathe\nDon't throw my heart away\nI want you to stay\n\nFeeling your heartbeat\nThat's what I want\nThat's what I need\nFeeling again that you're breathing with me\n\nFeeling your heartbeat\nThat's what I want\nThat'ѕ what I need\nFeeling again that you're breathing with me\n\nFeeling your heartbeаt"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "latvian"
+      ],
+      "displayedLanguages": null,
+      "title": "Sirdspukstus",
+      "content": "Es zinu, tu teici vairākkārt\nDaudz vārdu citādās atskaņās\nBet es nejūtos tāpat\n\nEs nebiju nevainīgs, es zinu\nUn lietas, ko darīju, patiesi bija nepareizas\nTik daudz laika ir aizgājis\n\nJust tavus sirdspukstus\nTas ir tas, ko es gribu\nTas ir tas, ko man vajag\nJust vēlreiz, ka elpojam kopā\n\nEs kļūstu mežonīgs, kad esmu viens\nEs iemācījos no galvas, ka neesi mana\nBet es nekad nelūdzu Tev būt manai\n\nTu esi mana kāre un mana sāpe\nBet visas cīņas ir veltīgas\nTu man nozīmē vairāk nekā jebkas\n\nJust tavus sirdspukstus\nTas ir tas, ko es gribu\nTas ir tas, ko man vajag\nJust vēlreiz, ka elpojam kopā\n\nJust tavus sirdspukstus\nTas ir tas, ko es gribu\nTas ir tas, ko man vajag\nJust vēlreiz, ka elpojam kopā\n\nTu esi vienīgā, kas man ir vajadzīga\nTu esi gaiss, ko es elpoju\nNemet manu sirdi prom\nEs vēlos, lai paliec\n\nJust tavus sirdspukstus\nTas ir tas, ko es gribu\nTas ir tas, ko man vajag\nJust vēlreiz, ka elpojam kopā\n\nJust tavus sirdspukstus\nTas ir tas, ko es gribu\nTas ir tas, ko man vajag\nJust vēlreiz, ka elpojam kopā\n\nJust tаvus sirdspukstuѕ"
+    }
+  ],
+  "bpm": 115,
+  "tone": "C# major",
+  "artistPeople": [
+    "Justs Sirmais"
+  ],
+  "backings": [
+    "Anna Zankovska",
+    "Katrīna Anna Vīgante"
+  ],
+  "dancers": null,
+  "stageDirector": "Andrejs Gavrišs",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Aminata Savadogo"
+  ],
+  "broadcaster": "LTV",
+  "commentators": [
+    "Toms Grēviņš",
+    "Valters Frīdenbergs"
+  ],
+  "jury": [
+    "Aigars Dinsbergs",
+    "Andrejs Volkovs",
+    "Antra Lapsa",
+    "DJ Rudd",
+    "Iluta Alsberga"
+  ],
+  "spokesperson": "Toms Grēviņš"
+}

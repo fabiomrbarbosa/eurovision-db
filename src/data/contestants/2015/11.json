@@ -1,0 +1,73 @@
+{
+  "id": 11,
+  "country": "AZ",
+  "artist": "Elnur Hüseynov",
+  "song": "Hour Of The Wolf",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/L_y-yMIzTNc",
+    "https://www.youtube-nocookie.com/embed/kYsj1fFE1Xw",
+    "https://www.youtube-nocookie.com/embed/posc46rmR3E",
+    "https://www.youtube-nocookie.com/embed/MA6LkGMqVjw",
+    "https://www.youtube-nocookie.com/embed/SpNNxA-l60M"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Hour Of The Wolf",
+      "content": "I hold my breath, I'm on the edge\nStorming hills, I've been lost and found\nI hope they're coming, I can hear them running\n\nI once met peace, he said that he\nSoon would have the answers to this hurt\nAnd my mind was made up, I would never give up\n\nNo I won't sleep tonight\nIf tomorrow comes I'll lose my mind\nI won't give up my right, I know every heart deserves a fight\n\nI will beat on the drum, rise above with me\nI will go till I'm numb, rise above with me\nNo I won't sleep tonight\n\nThey whine and roar, hungry for more\nYellow glowing eyes, I'm hypnotized\nI feel brave yet scared, but I'll stay prepared\n\nOh have my soul, it's destined\nIt's written in the sky\nLet me not be blinded by this hurt\nSet him loose I'm ready\nFor the stars to guide me\n\nNo I won't sleep tonight\nIf tomorrow comes I'll lose my mind\n\nNo I won't sleep tonight\nIf tomorrow comes I'll lose my mind\nI won't give up my right, I know every heart deserves a fight\n\nI will beat on the drum, rise above with me\nI will go till I'm numb, rise above with me\nNo I won't sleep tonight\n\nNo I won't sleep tonight\nIf tomorrow comes I'll lose my mind\nI won't give up my right, I know every heart deserveѕ а fight"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Hora del Lobo",
+      "content": "Aguanto mi aliento, estoy al límite\nColinas tormentosas, he sido perdido y encontrado\nEspero que vengan, los oigo correr\n\nUna vez conocí a la paz, él me dijo que el\nPronto tendría la respuesta a este dolor\nY ahí es donde decidí, nunca me rendiré\n\nNo, no dormiré esta noche\nSi el mañana llega, perderé la cabeza\nNo me rendiré sin mi derecho, todo corazón merece una lucha\n\nGolpearé en el tambor, alzaos conmigo\nSeguiré hasta caer, alzaos conmigo\nNo, no dormiré esta noche\n\nGimen y rugen, hambrientos por más\nBrillantes ojos amarillos, estoy hipnotizado\nMe siento valiente aunque asustado, pero estaré preparado\n\nOh, ten mi alma, está destinada\nEstá escrito en el cielo\nNo dejes que este dolor me ciegue\nDéjalo libre, estoy listo\nPara que las estrellas me guíen\n\nNo, no dormiré esta noche\nSi el mañana llega, perderé la cabeza\n\nNo, no dormiré esta noche\nSi el mañana llega, perderé la cabeza\nNo me rendiré sin mi derecho, todo corazón merece una lucha\n\nGolpearé en el tambor, alzaos conmigo\nSeguiré hasta caer, alzaos conmigo\nNo, no dormiré esta noche\n\nNo, no dormiré esta noche\nSi el mañana llega, perderé la cabeza\nNo me rendiré ѕin mi derecho, todo corazón merece una luchа"
+    }
+  ],
+  "bpm": 106,
+  "tone": "D major",
+  "artistPeople": [
+    "Elnur Hüseynov"
+  ],
+  "backings": [
+    "Krysten Cummings",
+    "Nicklas Lif",
+    "Tamara Nivillac"
+  ],
+  "dancers": [
+    "Julia Spiesser",
+    "Lukas McFarlane"
+  ],
+  "stageDirector": "Ambra Succi",
+  "composers": [
+    "Lina Hansson",
+    "Nicklas Lif",
+    "Nicolas Rebscher"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Lina Hansson",
+    "Nicklas Lif",
+    "Nicolas Rebscher",
+    "Sandra Bjurman"
+  ],
+  "writers": null,
+  "broadcaster": "İctimai",
+  "commentators": [
+    "Kamran Guliyev"
+  ],
+  "jury": [
+    "Faig Agayev",
+    "Fidan Haciyeva",
+    "Samira Allahverdi",
+    "Tunzala Kahraman",
+    "Zumrud Araz Dadashzada"
+  ],
+  "spokesperson": "Tural Asadov"
+}

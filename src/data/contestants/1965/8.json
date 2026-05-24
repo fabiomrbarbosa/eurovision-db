@@ -1,0 +1,52 @@
+{
+  "id": 8,
+  "country": "MC",
+  "artist": "Marjorie Noël",
+  "song": "Va dire à l'amour",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/rAH4DJR4MZM",
+    "https://www.youtube-nocookie.com/embed/E9DNkAlQHP0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Va dire à l'amour",
+      "content": "Va dire à l'amour\nQue j'ait dix-sept ans\nDis-lui qu'en rêvant\nJe l'attends, je l'attends, je l'attends\n\nVa dire à l'amour\nQu'il vienne en copain\nEt nous verrons bien\nSi mon cœur, si mon cœur le retient\n\nTu sauras mieux que moi\nLe trouver dans la nuit\nTu sauras mieux que moi\nLui parler en ami\n\nVa dire à l'amour\nQu'avant son éveil\nMes jours sont pareils\nÀ des jours et des jours sans soleil\n\nMais pourquoi, mais pour qui\nSont les fleurs du printemps?\nMais pourquoi et pour qui\nBat mon cœur plus souvent?\n\nVa dire à l'amour\nQue j'ait dix-sept ans\nDis-lui qu'en rêvant\nJe l'attends, je l'attends, je l'аttends\nEt qu'il pense à moi longtempѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Go and tell love",
+      "content": "Go and tell love\nThat I'm seventeen years old\nTell him that while dreaming\nI'm waiting for him, I'm waiting for him, I'm waiting for him\n\nGo and tell love\nThat he must come as a friend\nAnd we'll see\nIf my heart, if my heart keeps him\n\nYou'll know better than me\nWhere to find him in the night\nYou'll know better than me\nHow to talk to him as a friend\n\nGo and tell love\nThat before his awakening\nMy days are just like\nDays and days without sun\n\nBut why, but for whom\nAre the flowers of spring?\nBut why and for whom\nDoes my heart beat more often?\n\nGo and tell love\nThat I'm seventeen years old\nTell him that while dreaming\nI'm waiting for him, I'm waiting for him, I'm waiting for him\nAnd that he muѕt think of me for а long time"
+    }
+  ],
+  "bpm": 88,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Marjorie Noël"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Raymond Bernard"
+  ],
+  "conductor": "Raymond Bernard",
+  "lyricists": [
+    "Jacques Mareuil"
+  ],
+  "writers": null,
+  "broadcaster": "TMC",
+  "commentators": [
+    "Pierre Tchernia"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

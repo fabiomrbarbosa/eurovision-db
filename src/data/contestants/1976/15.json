@@ -1,0 +1,51 @@
+{
+  "id": 15,
+  "country": "ES",
+  "artist": "Braulio",
+  "song": "Sobran las palabras",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/glDKvjKX20c",
+    "https://www.youtube-nocookie.com/embed/fRl1BwcNfLE",
+    "https://www.youtube-nocookie.com/embed/owe7g1CgtT4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Sobran las palabras",
+      "content": "A veces, hasta sobran las palabras\nCuando se trata de hablar sencillamente de amor\nY prefiero la elocuencia de un silencio\nA esa frase desgastada\nQue a nada suena en mi voz\n\nYa sé que tú puedes creer\nQue a mí me falta el interés\nPero a veces las promesas más fervientes\nSólo tratan de ocultar que está muriendo el amor\n\nAmor, amor, mi amor\nTendrías que aceptarme así\nSi ves que no me gusta conversar\nAprende a interpretar mi ausencia\n\nAmor, amor, mi amor\nEs todo cuanto sé decir\nAmar es algo más que hacer reír\nYo sé que llenaré tu vida de amor\n\nA veces, hasta sobran las palabras\nCuando se trata de hablar sencillamente de amor\nY el gesto que hasta pasa inadvertido\nPuede ser más importante\nQue un juramento ante Dios\n\nAmor, amor, mi amor\nTendrías que aceptarme así\nSi ves que no me gusta conversar\nAprende a interpretar mi ausencia\n\nAmor, amor, mi amor\nTendrías que aceptarme así\nEs todo cuanto ѕé decir, amor, аmor"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Words are unnecessary",
+      "content": "Sometimes, even words are unnecessary\nWhen we're simply talking about love\nAnd I prefer the eloquence of a silence\nTo a used phrase\nWhich means nothing in my heart\n\nI know that you can think\nThat I don't have interest\nBut sometimes the most fervent promises\nOnly try to hide that love is dying\n\nLove, love, my love\nYou should accept me that way\nIf you see that I don't like to talk\nLearn to interpret my absence\n\nLove, love, my love\nThat's all I can say\nLoving is different from laughing\nI know that I'll fill your life with love\n\nSometimes, even words are unnecessary\nWhen we're simply talking about love\nAnd the sign that even escapes attention\nCan be more important\nThan an oath to God\n\nLove, love, my love\nYou should accept me that way\nIf you see that I don't like to talk\nLearn to interpret my absence\n\nLove, love, my love\nYou should accept me that way\nThat's all I can ѕаy, love, love"
+    }
+  ],
+  "bpm": 90,
+  "tone": "D major",
+  "artistPeople": [
+    "Braulio Antonio García Bautista"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Juan Barcons",
+  "lyricists": null,
+  "writers": [
+    "Braulio"
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "José Luis Uribarri"
+  ],
+  "jury": null,
+  "spokesperson": "José María Íñigo"
+}

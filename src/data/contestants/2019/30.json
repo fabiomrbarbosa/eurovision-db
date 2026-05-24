@@ -1,0 +1,59 @@
+{
+  "id": 30,
+  "country": "BE",
+  "artist": "Eliot",
+  "song": "Wake Up",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/iFB9NnjU4ns",
+    "https://www.youtube-nocookie.com/embed/17QXkQEckE4",
+    "https://www.youtube-nocookie.com/embed/aJrLcRkCBo4",
+    "https://www.youtube-nocookie.com/embed/T5o9-9Uo3yQ",
+    "https://www.youtube-nocookie.com/embed/ndo1uDzV1ck",
+    "https://www.youtube-nocookie.com/embed/hDSe8qZnc-8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "",
+      "content": "I wake up every night\nI can't find anyone to pray\nSomewhere in the light\nChanging all up\nI'm afraid on the side\nLooking out for the lies to say\nSomeone has the light\nFeeding our fire\n\nI came to fight\nI came to fight over you\nDon't want your lies\nDon't want your lies, I need truth\nI came to fight\nI came to fight over you\nNo one will try\nNo one will try if that's true\n\nI won't wait for the sign\nI can't find anyone to stay\nBut there's something in the light\nSaving our lives\n\nI came to fight\nI came to fight over you\nDon't want your lies\nDon't want your lies, I need truth\nI came to fight\nI came to fight over you\nNo one will try\nNo one will try if that's true\n\nAnd I can face you now\nNo, I won't break you down\nIf I can find you, I won't hide you\nIt's not what I do\n\nI came to fight\nI came to fight over you\nDon't want your lies\nDon't want your lies, I need truth\nI came to fight\nI came to fight over you\nNo one will try\nNo one will try if thаt'ѕ true"
+    }
+  ],
+  "bpm": 145,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Eliot Vassamillet"
+  ],
+  "backings": [
+    "Elya Lufwa",
+    "Julien Michel",
+    "Mahdy Coulibaly",
+    "Renato Bennardo"
+  ],
+  "dancers": null,
+  "stageDirector": "Jean-Jacques Marotte",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Eliot Vassamillet",
+    "Pierre Dumoulin"
+  ],
+  "broadcaster": "RTBF",
+  "commentators": [
+    "Jean-Louis Lahaye",
+    "Maureen Louys",
+    "Peter Van de Veire"
+  ],
+  "jury": [
+    "Alex Germys",
+    "Hakima Darhmouch",
+    "Joelle Morane",
+    "Olivier Biron",
+    "Pierre Bertinchamps"
+  ],
+  "spokesperson": "David Jeanmotte"
+}

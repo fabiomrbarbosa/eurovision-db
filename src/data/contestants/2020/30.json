@@ -1,0 +1,50 @@
+{
+  "id": 30,
+  "country": "PT",
+  "artist": "Elisa",
+  "song": "Medo de sentir",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/eIZ48w4epng",
+    "https://www.youtube-nocookie.com/embed/mJN7sZGthvE",
+    "https://www.youtube-nocookie.com/embed/sbY5erNcOG4",
+    "https://www.youtube-nocookie.com/embed/yyb8XqNRwCc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Medo de sentir",
+      "content": "Qual é a saída\nEu acho que já não sei amar\nE se o amor me convida\nAgora não consigo aceitar\nParece que é rotina\nA minha solidão teima em voltar\n\nEu não era assim\nMas agora tenho medo de sentir\nPergunta ao tempo ele sabe tudo sobre mim\nPergunta ao tempo ele sabe tudo sobre mim\n\nSe me dás a tua mão\nEu não sei como vou reagir\nSe falas de coração\nParece que estou outra vez a ouvir\nMais uma ilusão\nQue não tarda muito em partir\n\nEu não era assim\nMas agora tenho medo de sentir\nPergunta ao tempo ele sabe tudo sobre mim\nPergunta ao tempo ele sabe tudo sobre mim\nO que ele guarda, diz tudo o que eu sinto por ti\n\nEu já tentei mudar\nMas a vida levou\nO melhor que eu tinha em mim\nE se um dia eu voltar\nEsperarás por mim?\n\nEu não era assim\nMas agora tenho medo de sentir\nPergunta ao tempo ele sabe tudo sobre mim\nPergunta ao tempo ele sabe tudo sobre mim\nO que ele guardа, diz tudo o que eu ѕinto por ti"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Fear to Feel",
+      "content": "What's the way out\nI think I don't know how to love anymore\nAnd if love invites me\nI can't accept it now\nSeems like it's routine\nMy loneliness insists in returning\n\nI wasn't like this\nBut now I have fear to feel\nAsk the time, it knows everything about me\nAsk the time, it knows everything about me\n\nIf you give me your hand\nI don't know how I'll react\nIf you speak from the heart\nIt feels like I'm listening again\nTo one more illusion\nThat doesn't take too long to leave\n\nI wasn't like this\nBut now I have fear to feel\nAsk the time, it knows everything about me\nAsk the time, it knows everything about me\nWhat it keeps away, says everything that I feel for you\n\nI already tried to change\nBut life took away\nThe best that I had in me\nAnd if I was to return some day\nWill you wait for me?\n\nI wasn't like this\nBut now I have fear to feel\nAsk the time, it knows everything about me\nAsk the time, it knows everything about me\nWhat it keeps away, sayѕ everything thаt I feel for you"
+    }
+  ],
+  "bpm": 154,
+  "tone": "A minor",
+  "artistPeople": [
+    "Maria Elisa Silva"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Marta Carvalho"
+  ],
+  "broadcaster": "RTP",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

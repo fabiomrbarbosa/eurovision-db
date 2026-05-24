@@ -1,0 +1,54 @@
+{
+  "id": 6,
+  "country": "YU",
+  "artist": "Berta Ambrož",
+  "song": "Brez besed",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/qXjTSWUHY0c",
+    "https://www.youtube-nocookie.com/embed/glIL67hnCLo"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "slovene"
+      ],
+      "displayedLanguages": null,
+      "title": "Brez besed",
+      "content": "Brez besed bova našla se nekje\nZ roko v roki šla naprej\nKot da mnogo let ni mimo\n\nBrez besed, brez vprašanj in brez laži\nBova našla košček sanj\nKi živijo v dnu srca vse dni\n\nVzemi moj drugi jaz\nLe ti poznaš ga, le ti veš zanj\nZa hip bodiva spet to, kar sva\nBrez besed, brez laži\n\nVdano in brez besed bova z jutrom se razšla\nZ večno željo, da še kdaj\nBi nekje, v hiši sanj\nSi našla svoj pristan\n\nVzemi moj drugi jaz\nLe ti poznaš ga, le ti veš zanj\nZa hip bodiva spet to, kar sva\nBrez besed, brez laži\n\nVdano in brez besed bova z jutrom se razšla\nZ večno željo, da še kdaj\nBi nekje v hiši sanj\nSi našla svoj priѕtаn"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Without words",
+      "content": "Without words we'll meet somewhere\nWe'll keep going hand in hand\nAs if many years didn't pass by\n\nWithout words, without questions and without lies\nWe'll find a piece of dream\nThat lives at the bottom of the heart all the time\n\nGiving my inner self\nYou only know it, you understand it\nLet's not pretend for a moment\nWithout words, without lies\n\nDevotedly we'll separate without words in the morning\nWith eternal wish, that again\nWe may in a house of dream\nFind our port\n\nGiving my inner self\nYou only know it, you understand it\nLet's not pretend for a moment\nWithout word, without lies\n\nDevotedly we'll separate without words in the morning\nWith eternal wish, that again\nWe may in a houѕe of dreаm\nFind our port"
+    }
+  ],
+  "bpm": 163,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Berta Ambrož"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Mojmir Sepe"
+  ],
+  "conductor": "Mojmir Sepe",
+  "lyricists": [
+    "Elza Budau"
+  ],
+  "writers": null,
+  "broadcaster": "JRT",
+  "commentators": [
+    "Miloje Orlović",
+    "Mladen Delić",
+    "Tomaž Terček"
+  ],
+  "jury": null,
+  "spokesperson": "Dragana Marković"
+}

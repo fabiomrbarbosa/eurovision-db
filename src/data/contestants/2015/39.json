@@ -1,0 +1,61 @@
+{
+  "id": 39,
+  "country": "CH",
+  "artist": "Mélanie René",
+  "song": "Time To Shine",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ya1r_nFHiCQ",
+    "https://www.youtube-nocookie.com/embed/uBn2PeYPaYY",
+    "https://www.youtube-nocookie.com/embed/SDRM-sIu4zg",
+    "https://www.youtube-nocookie.com/embed/D-yBnnLy79o",
+    "https://www.youtube-nocookie.com/embed/DHCQGEAuCTE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Time To Shine",
+      "content": "I've been walking, in the darkness\nAlways hiding from my true self\nAfraid of letting go, of deception in their eyes\nA wounded ego, unafraid to start a fight\n\nI've been walking, on a lonely road\nFor many stories, I have once been told\nNo matter what they say\nI will follow my heart\nI think it's time for me to stand up\nAnd hold my ground\n\n'Cause I'm living my dreams\nNever been so alive\nThe sky's the limit\nnow that I know I can fly\nNo more pulling me down, no more mucking around\nI'm growing up, I'm growing up\nAnd it's my time to shine\nYeah, it's my time to shine\n\nIt don't matter if I'm wrong or right\nI'm getting stronger every time\nI try not to let it go\nTake it one step at a time\nI've made my ego, now it's time for me to let it shine\n\n'Cause I'm living my dreams\nThe sky's the limit\nnow that I know I can fly\nNo more pulling me down, no more mucking around\nI'm growing up, I'm growing up\nAnd it's my time to shine\nYeah, it's my time to shine\n\nI've been walking, in the darkness\nAlways hiding from my true self\nI've learned to let it go\nI've learned to let it go\nI've learned to let it go\nNow it's my time to shine\n\n'Cause I'm living my dreams\nNever been so alive\nThe sky's the limit\nnow that I know I can fly\nNo more pulling me down, no more mucking around\nI'm growing up, I'm growing up\nAnd it's my time to shine\nYeаh, it's my time to ѕhine"
+    }
+  ],
+  "bpm": 140,
+  "tone": "A minor",
+  "artistPeople": [
+    "Mélanie René"
+  ],
+  "backings": [
+    "Anissa Condemi Montemouhin",
+    "Flavie Crisinel Cheuwa",
+    "Idyl Nahla",
+    "Natacha Karine Montille"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Mélanie René"
+  ],
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Clarissa Tami",
+    "Gabriel Vetter",
+    "Jean-Marc Richard",
+    "Nicolas Tanner",
+    "Paolo Meneguzzi",
+    "Peter Schneider",
+    "Sven Epiney"
+  ],
+  "jury": [
+    "Andrea Pärli",
+    "Gabriel Broggini",
+    "Georg Schlunegger",
+    "Rafaela Spitzli",
+    "Simon Moser"
+  ],
+  "spokesperson": "Laetitia Guarino"
+}

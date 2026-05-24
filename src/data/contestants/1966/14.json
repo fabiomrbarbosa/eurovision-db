@@ -1,0 +1,64 @@
+{
+  "id": 14,
+  "country": "NL",
+  "artist": "Milly Scott",
+  "song": "Fernando en Philippo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/2TvG-AWdk-g",
+    "https://www.youtube-nocookie.com/embed/HPxTSv8Wj-0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "Fernando en Philippo",
+      "content": "Tong-ki tong ti-ki kong-kong-kong\nRi-ki kong-kong-kong ti-ki kong-kong\nRi kong-kong ti-ki kong-kong-kong\nTi-ki kong-kong-kong\n\nFernando, Fernando\nGitarist uit Santiago\nSpeelt de hele avond solo\nEn rijdt dan nog naar San Antonio\n\nFilippo, Filippo\nIs heel anders dan Fernando\nHeus die stapt niet in z'n auto\nEn rijdt dan nog naar San Antonio\n\nMaar Fernando die verlangt zo naar haar\nOok al is hij moe, hij pakt z'n gitaar\nGeeft z'n liedjes en z'n liefde cadeau aan haar\nIn San Antonio\n\nFernando, Fernando\nGitarist uit Santiago\nSpeelt de hele avond solo\nEn rijdt dan nog naar San Antonio\n\nTong-ki tong ti-ki tong-tong-tong\nRi-ki tong-tong-tong ti-ki kong-kong\nRi kong-tong ti-ki tong-tong-rong\nTi-ki tong-tong-tong\n\nFernando, Fernando\nGitarist uit Santiago\nSpeelt de hele avond solo\nEn rijdt dan nog naar San Antonio\n\nOngelukkig valt het lot op een keer\nOp een nacht vindt hij zijn meisje niet meer\nZij ging 's avonds naar Philippo\nVerdween alleen uit San Antonio\n\nFilippo, Filippo\nZegt nu 's avondѕ tot Fernando:\n\"Wacht nog even, want ze komt zo\"\n\"Ze komt voor mij uit Sаn Antonio\"\n\nTong-ki tong ri-ki kong-kong-tong\nTi-ki kong-kong-kong ti-ki kong-kong\nRi kong-kong ti-ki kong-kong-kong\nTi-ki kong-kong-kong"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Fernando & Philippo",
+      "content": "Tong-ki tong ti-ki kong-kong-kong\nRi-ki kong-kong-kong ti-ki kong-kong\nRi kong-kong ti-ki kong-kong-kong\nTi-ki kong-kong-kong\n\nFernando, Fernando\nGuitarist from Santiago\nPlays the whole evening solo\nAnd then still drives to San Antonio\n\nPhilippo, Philippo\nIs totally different from Fernando\nReally, he doesn't get into his car\nAnd then still drives to San Antonio\n\nBut Fernando is longing so much for her\nEven though he's tired, he takes his guitar\nGives his songs and his love as a present to her\nIn San Antonio\n\nFernando, Fernando\nGuitarist from Santiago\nPlays the whole evening solo\nAnd then still drives to San Antonio\n\nTong-ki tong ti-ki tong-tong-tong\nRi-ki tong-tong-tong ti-ki kong-kong\nRi kong-tong ti-ki tong-tong-rong\nTi-ki tong-tong-tong\n\nFernando, Fernando\nGuitarist from Santiago\nPlays the whole evening solo\nAnd then still drives to San Antonio\n\nBut once the dice were loaded against him\nOne night he couldn't find his girl anymore\nShe went to Philippo in the evening\nDisappeared alone from San Antonio\n\nPhilippo, Philippo\nNow says to Fernando in the evening:\n\"Just wait a while, because she'll be here soon\"\n\"She'ѕ coming for me from Sаn Antonio\"\n\nTong-ki tong ri-ki kong-kong-tong\nTi-ki kong-kong-kong ti-ki kong-kong\nRi kong-kong ti-ki kong-kong-kong\nTi-ki kong-kong-kong"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Fernando y Felipe",
+      "content": "Tong-ki tong ti-ki kong-kong-kong\nRi-ki kong-kong-kong ti-ki kong-kong\nRi kong-kong ti-ki kong-kong-kong\nTi-ki kong-kong-kong\n\nFernando, Fernando\nPasa la noche cantando\nPorque vive enamorado\nY su canción le calma el corazón\n\nFelipe, Felipe\nEs distinto que Fernando\nPasa la noche soñando\nCon ese amor que está en su corazón\n\nUna canta pues no puede dormir\nOtra duerme porque quiere soñar\nSon dos formas diferentes de amar, de amar\nDos formas de vivir\n\nFernando, Fernando\nPasa la noche cantando\nPorque vive enamorado\nY su canción le calma el corazón\n\nFernando, Fernando\nPasa la noche cantando\nPorque vive enamorado\nY su canción le calma el corazón\n\nPero un día que Felipe durmió\nFernando ya su amor se llevó\nCon su voz y sus canciones\nDe amor, de amor, al fin la conquistó\n\nFelipe, Felipe\nDesde entonces ha jurado\nNo vivir jamás soñando pues\nNunca más ѕu amor le quitаrán\n\nTong-ki tong ri-ki kong-kong-tong\nTi-ki kong-kong-kong ti-ki kong-kong\nRi kong-kong ti-ki kong-kong-kong\nTi-ki kong-kong-kong"
+    }
+  ],
+  "bpm": 146,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Milly Scott"
+  ],
+  "backings": [
+    "Cornelis Visser",
+    "Jan-Christiaan Meyer"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Kees de Bruyn"
+  ],
+  "conductor": "Dolf van der Linden",
+  "lyricists": [
+    "Gerrit den Braber"
+  ],
+  "writers": null,
+  "broadcaster": "NOS",
+  "commentators": [
+    "Teddy Scholten"
+  ],
+  "jury": null,
+  "spokesperson": "Pim Jacobs"
+}

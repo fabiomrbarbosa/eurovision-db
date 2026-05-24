@@ -1,0 +1,54 @@
+{
+  "id": 7,
+  "country": "FR",
+  "artist": "Nathalie Pâque",
+  "song": "J'ai volé la vie",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/f9rxnwHbg8A",
+    "https://www.youtube-nocookie.com/embed/4jh-M7D9CKI",
+    "https://www.youtube-nocookie.com/embed/HOVPew3n6CA"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "J'ai volé la vie",
+      "content": "J'pourrais pas vous dire mon âge\nJ'saurais pas écrire mon nom\nJ'ai grandi ortie sauvage\nSur des écorces de goudron\n\nJ'sais pas d'où viennent les images\nQui sont collées à mes yeux\nNi d'où monte cette rage\nDe chanter ce que je veux\n\nJ'ai volé la vie – oui, je l'avoue\nJe n'sais plus à qui ni où\nJe m'suis enfuie en faisant un pied de nez au néant\nJ'ai volé la vie sans un regret\nÀ deux ombres qui passaient\nMais mon rayon de soleil, je l'ai gardé\n\nJ'sais pas à quoi je ressemble\nJ'sais pas vers qui je m'en vais\nMais de mes châteaux de cendres\nJe sens que le feu renaît\n\nJe sens que mes yeux s'éclairent\nQue quelqu'un m'envoie du jour\nQue j'arrive à la frontière\nQui me sépare de l'amour\n\nJ'ai volé la vie – oui, je l'avoue\nJe n'sais plus à qui ni où\nJe m'suis enfuie en faisant un pied de nez au néant\nJ'ai volé la vie sans un regret\nÀ deux ombres qui passaient\nMais mon rayon de soleil, je l'ai gardé\n\nJ'ai volé la vie – oui, je l'avoue\nJe n'sais plus à qui ni où\nJe m'suis enfuie en faisant un pied de nez au néant\nJ'ai volé la vie sans un regret\nÀ deux ombres qui passaient\nMais mon rayon de ѕoleil, je l'ai gаrdé"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I stole life",
+      "content": "I couldn't tell you my age\nI couldn't write my name\nI grew up as a wild nettle\nOn patches of tar\n\nI don't know where the images\nThat stick to my eyes are coming from\nNor where this desire\nTo sing what I want is rising from\n\nI stole life – yes, I admit it\nI no longer know who or where\nI ran away pulling funny noses at nothing\nI stole life without any regret\nFrom two shadows that passed by\nBut I have kept my ray of sunshine\n\nI don't know what I look like\nI don't know who I'm going to\nBut from my castles made of ashes\nI feel the fire come to life again\n\nI feel my eyes lighting up\nSomeone will send me away from the day\nThat I arrive at the border\nWhich separates me from love\n\nI stole life – yes, I admit it\nI no longer know who or where\nI ran away pulling funny noses at nothing\nI stole life without any regret\nFrom two shadows that passed by\nBut I have kept my ray of sunshine\n\nI stole life – yes, I admit it\nI no longer know who or where\nI ran away pulling funny noses at nothing\nI stole life without any regret\nFrom two shadows that passed by\nBut I have kept my rаy of sunѕhine"
+    }
+  ],
+  "bpm": 147,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Nathalie Pâque"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "G. G. Candy",
+    "Guy Mattéoni"
+  ],
+  "conductor": "Guy Mattéoni",
+  "lyricists": [
+    "Sylvain Lebel"
+  ],
+  "writers": null,
+  "broadcaster": "A2F",
+  "commentators": [
+    "Lionel Cassan"
+  ],
+  "jury": null,
+  "spokesperson": "Marie-Ange Nardi"
+}

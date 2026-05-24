@@ -1,0 +1,61 @@
+{
+  "id": 9,
+  "country": "SE",
+  "artist": "Jill Johnson",
+  "song": "Kärleken är",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/aGBU1IGC17s",
+    "https://www.youtube-nocookie.com/embed/SLnDxQlh-bM",
+    "https://www.youtube-nocookie.com/embed/1ni0L2o81R4",
+    "https://www.youtube-nocookie.com/embed/C4YkxwZ_UwE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Kärleken är",
+      "content": "Här, i den stilla gryningen, kan jag känna allting andas igen\nDom tunga molnen drev iväg med vindarna\nInga tårar ifrån himlen blir till regn\n(Vi hör orden i en sång) som finns kvar här i våra hjärtan\n(Vi i lugnet efter storm)\n\nEn ängel flög förbi mot himmeln så fri\nMen hon lämnade sitt leende på vår jord\nSom en sol som värmer oss, som en himmels stjärnebloss\nSå vi kan betrakta livets skeende med en tro\nKärleken är\n\nOch när natten sänker sig\nÄr vi trygga i varandras andetag\n(En vind som smyger sig intill)\nBär en doft utav vilda rosor\n\nEn ängel flög förbi mot himmeln så fri\nMen hon lämnade sitt leende på vår jord\nSom en sol som värmer oss, som en himmels stjärnebloss\nSå vi kan betrakta livets skeende med en tro\nKärleken är\nOh… oh… oh…\n\nEn ängel flög förbi mot himmeln så fri\nMen hon lämnade sitt leende på vår jord\nSom en sol som värmer oss, som en himmels stjärnebloss\nSå vi kan betraktа livets ѕkeende med en tro\nAtt kärleken är"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Love is",
+      "content": "Here, in the still dawn, I can feel everything breathe again\nThe heavy clouds drifted away with the winds\nNo tears from the sky turns into rain\n(We hear the words from a song) which is still in our hearts\n(We in calm after the storm)\n\nAn angel passed, to heaven so free\nBut she left her smile on our Earth\nLike a sun which makes us warm, like a heaven's starlight\nSo that we can observe life's process with a belief\nLove is\n\nHere, and where the night is approaching\nWe're safe in each other's breaths\n(A wind, which nestles against)\nCarries a smell of wild rose\n\nAn angel passed to heaven so free\nBut she left her smile on our Earth\nLike a sun which makes us warm, like a heaven's starlight\nSo that we can observe life's process with a belief\nLove is\nOh… oh… oh…\n\nAn angel passed to heaven so free\nBut she left her smile on our Earth\nLike a sun which makes us warm, like a heaven's starlight\nSo that we can observe life's process with a belief\nThаt love iѕ"
+    }
+  ],
+  "bpm": 148,
+  "tone": "E major",
+  "artistPeople": [
+    "Jill Johnson"
+  ],
+  "backings": [
+    "Fredrik Ivarson",
+    "Lennart Sjöholm",
+    "Mats Westling",
+    "Peter Hallström"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Bobby Ljunggren",
+    "Håkan Almqvist"
+  ],
+  "conductor": "Anders Berglund",
+  "lyricists": [
+    "Ingela Forsman"
+  ],
+  "writers": null,
+  "broadcaster": "SVT",
+  "commentators": [
+    "Christer Björkman",
+    "Pernilla Månsson"
+  ],
+  "jury": null,
+  "spokesperson": "Björn Hedman"
+}

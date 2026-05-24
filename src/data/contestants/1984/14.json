@@ -1,0 +1,64 @@
+{
+  "id": 14,
+  "country": "CY",
+  "artist": "Andy Paul",
+  "song": "Anna Maria Lena",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-xnUr1pgNiI",
+    "https://www.youtube-nocookie.com/embed/UiT3QxIdEJw",
+    "https://www.youtube-nocookie.com/embed/m3b0tHUB2Ak"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ellinika"
+      ],
+      "title": "Anna Maria Lena",
+      "content": "T' onoma su to tragudho, Anna\nFilakto s' eho sto lemo, Anna\nTi kardhia mu ti zestenis ap' tin pagonia\nKe mu dhiohnis to himona ke ti monaksia\n\nAnna Maria Lena\nMia agapi mas krati\nO Anna, tha ine ena\nT' oniro mas sti zoi\nAnna Maria Lena\n\nI hara sti zoi in' akrivi, Anna\nMe gliko skopo tha sto po, Anna\nTora vrika tin alithia, dhromo anikto\nPias' to heri pu su dhino, tha fthasume ki i dhio\n\nAnna Maria Lena\nMia agapi mas krati\nO Anna, tha ine ena\nT' oniro mas sti zoi\nAnna Maria Lena\n\nOh Anna Maria Lena\nMia agapi mas krati\nWhoa… Anna tha ine ena\nT' oniro mas sti zoi\n\nOh Anna Maria Lena\nMia agapi mas krati\nO Anna, tha ine ena\nT' oniro mas ѕti zoi\nAnna Maria Lenа"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ελληνικά"
+      ],
+      "title": "Άννα Μαρία Λένα",
+      "content": "Τ' όνομά σου το τραγουδώ, Άννα\nΦυλακτό σ' έχω στο λαιμό, Άννα\nΤην καρδιά μου τη ζεσταίνεις απ' την παγωνιά\nΚαι μου διώχνεις το χειμώνα και τη μοναξιά\n\nΆννα Μαρία Λένα\nΜια αγάπη μας κρατεί\nΩ Άννα, θα είναι ένα\nT' όνειρο μας στη ζωή\nΆννα Μαρία Λένα\n\nΗ χαρά στη ζωή ειν' ακριβή, Άννα\nΜε γλυκό σκοπό θα στο πω, Άννα\nΤώρα βρήκα την αλήθεια, δρόμο ανοικτό\nΠιασ' το χέρι που σου δίνω, θα φθάσουμε κι οι δυο\n\nΆννα Μαρία-Λένα\nΜια αγάπη μας κρατεί\nΩ Άννα, θα είναι ένα\nT' όνειρο μας στη ζωή\nΆννα Μαρία-Λένα\n\nΩ Άννα Μαρία-Λένα\nΜια αγάπη μας κρατεί\nΩ Άννα, θα είναι ένα\nT' όνειρο μας στη ζωή\n\nΩ Άννα Μαρία-Λένα\nΜια αγάπη μας κρατεί\nΩ Άννα, θα είναι ένα\nT' όνειρο μας στη ζωή\nΆννα Μαρία-Λένα"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Anna Maria Lena",
+      "content": "I sing out your name, Anna\nI keep you around my neck, Anna\nYou keep my heart warm from the cold\nAnd you take away from me the winter and my isolation\n\nAnna Maria Lena\nOne love holds us\nOh Anna, it'll only be one\nOur dream in life\nAnna Maria Lena\n\nHappiness in life is dear, Anna\nWith a sweet purpose I'll tell it to you, Anna\nNow I found the truth, an open road\nTake the hand I'm giving you, we'll both reach there\n\nAnna Maria Lena\nOne love holds us\nOh Anna, it'll only be one\nOur dream in life\nAnna Maria Lena\n\nOh Anna Maria Lena\nOne love holds us\nOh Anna, it'll only be one\nOur dream in life\n\nOh Anna Maria Lena\nOne love holds uѕ\nOh Anna, it'll only be one\nOur dream in life\nAnna Maria Lenа"
+    }
+  ],
+  "bpm": 141,
+  "tone": "A major",
+  "artistPeople": [
+    "Antreas Pavlou"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Pierre Cao",
+  "lyricists": null,
+  "writers": [
+    "Andy Paul"
+  ],
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Pavlos Pavlou"
+  ],
+  "jury": null,
+  "spokesperson": "Anna Partelidou"
+}

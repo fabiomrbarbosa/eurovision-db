@@ -1,0 +1,50 @@
+{
+  "id": 14,
+  "country": "ES",
+  "artist": "Conchita Bautista",
+  "song": "Qué bueno, qué bueno",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/GGr7-OObQRw",
+    "https://www.youtube-nocookie.com/embed/LrKkpY5-Fmk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Qué bueno, qué bueno",
+      "content": "Qué bueno, qué bueno, qué bueno\nSaber que tú sientes lo mismo que yo\nQué bueno, qué bueno, qué bueno\nSaber que estoy dentro de tu corazón\n\nQué bueno, qué bueno, qué bueno\nSaber que es sincero el amor que me das\nQué bueno, qué bueno, qué bueno\nSaber que me espera la felicidad\n\nLas horas parecen siglos\nLos días la eternidad\nDespués cuando estoy contigo\nEl tiempo volando se va\n\nPero qué bueno, qué bueno, qué bueno\nSaber que tus besos ya son para mí\nQué bueno, qué bueno, qué bueno\nQué bueno el cariño que siento por ti\nQué bueno, qué bueno, qué bueno\nQué bueno el cariño que siento por ti\n\nQué bueno, qué bueno, qué bueno\nSaber que es sincero el amor que me das\nQué bueno, qué bueno, ay, qué bueno\nSaber que me espera la felicidad\n\nLas horas parecen siglos\nLos días la eternidad\nDespués cuando estoy contigo\nEl tiempo volando se va\n\nPero qué bueno, qué bueno, qué bueno\nSaber que tus besos ya son para mí\nQué bueno, qué bueno, qué bueno\nQué bueno el cariño que siento por ti\nQué bueno, qué bueno, qué bueno\nQué bueno el cаriño que ѕiento por ti"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "How good, how good",
+      "content": "How good, how good, how good\nTo know that you feel the same as me\nHow good, how good, how good\nTo know that I'm inside your heart\n\nHow good, how good, how good\nTo know that the love you feel for me is true\nHow good, how good, how good\nTo know that happiness is waiting for me\n\nHours seem like centuries\nDays like eternity\nThen, when I'm with you\nTime flies by\n\nBut how good, how good, how good\nTo know that your kisses are for me\nHow good, how good, how good\nHow good is the affection I feel for you\nHow good, how good, how good\nHow good is the affection I feel for you\n\nHow good, how good, how good\nTo know that the love you feel for me is true\nHow good, how good, how good\nTo know that happiness is waiting for me\n\nHours seem like centuries\nDays like eternity\nThen when I'm with you\nTime flies by\n\nBut how good, how good, how good\nTo know that your kisses are for me\nHow good, how good, how good\nHow good is the affection I feel for you\nHow good, how good, how good\nHow good iѕ the аffection I feel for you"
+    }
+  ],
+  "bpm": 155,
+  "tone": "F major",
+  "artistPeople": [
+    "María Concepción Bautista Fernández"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Adolfo Ventas Rodríguez, Claes Rosendahl",
+  "lyricists": null,
+  "writers": [
+    "Antonio Figueroa Egea"
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "Federico Gallo"
+  ],
+  "jury": null,
+  "spokesperson": "Pepe Palau"
+}

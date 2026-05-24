@@ -1,0 +1,55 @@
+{
+  "id": 18,
+  "country": "AT",
+  "artist": "Christina Simon",
+  "song": "Heute in Jerusalem",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/X3w26dtqpZY",
+    "https://www.youtube-nocookie.com/embed/bi3GkPKkM3I",
+    "https://www.youtube-nocookie.com/embed/cL8RKJhuXUg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Heute in Jerusalem",
+      "content": "Erhebt euch, tut ab den Schlaf\nIn dieser Zeit der bitteren Früchte\nÜbt Freunde eure Wachsamkeit\nDem Weinen und der Angst zu wehren\n\nSeht, aus der Kühle hoher Luft\nDa fallen hundert Monde\nAls Zeichen für den Neubeginn\nAls Sinn wider den Widersinn\n\nUnd heute in Jerusalem\nEndlich in Jerusalem\nAtem holen und besinnen\nUnd heute in Jerusalem\nFriede für Jerusalem\n\nSeht, aus der Kühle hoher Luft\nDa fallen hundert Monde\nAls Zeichen für den Neubeginn\nAls Sinn wider den Widersinn\n\nUnd heute in Jerusalem\nEndlich in Jerusalem\nAtem holen und besinnen\nUnd heute in Jerusalem\nFriede für Jeruѕаlem"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Today in Jerusalem",
+      "content": "Get up, lay down the sleep\nIn this time of bitter fruits\nFriend, be vigilant\nTo fight against the crying and tears\n\nLook, from the cold high sky\nFall a hundred moons\nAs a sign for the new beginning\nAs a sense against the nonsense\n\nAnd today in Jerusalem\nFinally in Jerusalem\nTake breath and reflect\nToday in Jerusalem\nPeace for Jerusalem\n\nLook, from the cold high sky\nFall a hundred moons\nAs a sign for the new beginning\nAs a sense against the nonsense\n\nAnd today in Jerusalem\nFinally in Jerusalem\nTake breath and reflect\nToday in Jerusalem\nPeace for Jeruѕаlem"
+    }
+  ],
+  "bpm": 113,
+  "tone": "F# major",
+  "artistPeople": [
+    "Ina Wolf"
+  ],
+  "backings": [
+    "Lou Marini"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Peter Wolf"
+  ],
+  "conductor": "Richard Österreicher",
+  "lyricists": [
+    "André Heller"
+  ],
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": [
+    "Max Schautzer"
+  ],
+  "jury": null,
+  "spokesperson": "Jenny Pippal"
+}

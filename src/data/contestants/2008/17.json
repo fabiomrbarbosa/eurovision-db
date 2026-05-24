@@ -1,0 +1,51 @@
+{
+  "id": 17,
+  "country": "SE",
+  "artist": "Charlotte Perrelli",
+  "song": "Hero",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/M9_XxUjDw0Q",
+    "https://www.youtube-nocookie.com/embed/idBPJ9WXX3o",
+    "https://www.youtube-nocookie.com/embed/nx5S01zY4x4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Hero",
+      "content": "Everything has a beginning\nEverything comes to an end\nTake it or leave it, you'd better believe it\nBe my love or be my friend\n\nTry to deny what you're feeling\nAnd you'll know that your heart will say no\nLove will last longer, growing stronger and stronger\nIf you stay and don't let go\n\nOh… out of the light, like a star, like a hero\nLove will survive\nOh… taking the fight is the life of a hero\nStaying alive\n\nThis is a story of love and compassion\nOnly heroes can tell\nOh… out of the light, like a star, like a hero\nLove will survive\n\nHeaven and earth keep colliding\nBut with love on a world of its own\nOh… there you can't fake it, just make it or break it\nOnly you can find the one\n\nOh… out of the light, like a star, like a hero\nLove will survive\nOh… taking the fight is the life of a hero\nStaying alive\n\nThis is a story of love and compassion\nOnly heroes can tell\nOh… out of the light, like a star, like a hero\nLove will survive (Will survive)\nOh… survive (Will survive)\n\nHeroes can live on their own\nBut heroes never die alone\n\nOh… out of the light, like a star, like a hero\nLove will survive\nOh… taking the fight is the life of a hero\nStaying alive\n(This is a story of love and compassion)\nHeroes can tell\nOh, out of the light, like a star, like а hero\nLove will ѕurvive"
+    }
+  ],
+  "bpm": 127,
+  "tone": "D major",
+  "artistPeople": [
+    "Anna Jenny Charlotte Jensen Perrelli"
+  ],
+  "backings": [
+    "Dea Norberg",
+    "Martin Kagemark",
+    "Micke Blomqvist",
+    "Wictoria Nilsson"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Bobby Ljunggren",
+    "Fredrik Kempe"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Fredrik Kempe"
+  ],
+  "writers": null,
+  "broadcaster": "SVT",
+  "commentators": [
+    "Josef Sterzenbach",
+    "Kristian Luuk"
+  ],
+  "jury": null,
+  "spokesperson": "Björn Gustafsson"
+}

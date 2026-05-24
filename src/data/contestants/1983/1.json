@@ -1,0 +1,81 @@
+{
+  "id": 1,
+  "country": "IL",
+  "artist": "Ofra Haza",
+  "song": "Hi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/z81U2sLEtdY",
+    "https://www.youtube-nocookie.com/embed/Oa2Greug8R4",
+    "https://www.youtube-nocookie.com/embed/McjcRwvfMWY",
+    "https://www.youtube-nocookie.com/embed/rE5DXfC2Ehg",
+    "https://www.youtube-nocookie.com/embed/XaQLGWCtVkA"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": [
+        "ivrit"
+      ],
+      "title": "Hi",
+      "content": "Shim'u, echai, ani od chai\nUshtei enai od nisa'ot la'or\nRabim chochai, ach gam prachai\nUlefanai shanim rabot misfor\n\nAni sho'el umitpalel\nTov shelo avda od hatikva\n\nOver mizmor midor ledor\nKema'ayan me'az ve'ad olam\n\nAni sho'el umitpalel\nTov shelo avda od hatikva\n\nChai, chai, chai\nKen, ani od chai\nZe hashir sheSaba shar etmol le'Aba\nVehayom ani\n\nAni od chai, chai, chai\nAm Yisra'el chai\nZe hashir sheSaba shar etmol le'Aba\nVehayom ani\n\nHomim yamai (Chai, chai)\nVelelotai (Chai, chai)\nUveshamai, amud ha'esh od kam\n\nAshir bli dai (Chai, chai)\nEfros yadai (Chai, chai)\nLeyedidai asher me'ever yam\n\nAni sho'el umitpalel\nTov shelo avda od hatikva\n\nChai, chai, chai\nKen, ani od chai\nZe hashir sheSaba shar etmol le'Aba\nVehayom ani\n\nAni od chai, chai, chai\nAm Yisra'el chai\nZe hashir sheSaba shar etmol le'Aba\nVehayom ani\n\nShim'u, echai, ani od chai\nUshtei enai od nisa'ot la'or\nAz ko lechai lechol orchai\nUlevanay hamevakshim lachzor\n\nAni sho'el (Ani sho'el)\nUmitpalel (Mitpalel)\nTov shelo avda od hatikva\n\nChai, chai, chai\nKen, ani od chai\nZe hashir sheSaba shar etmol le'Aba\nVehayom ani\n\nAni od chai, chai, chai\nAm Yisra'el chai\nZe hashir sheSaba ѕhar etmol le'Aba\nVehayom ani\n\nChai, chai, chai\nAni od chai, chai, chаi"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": [
+        "עברית"
+      ],
+      "title": "חי",
+      "content": "שמעו, אחיי, אני עוד חי\nושתי עיניי עוד נישאות לאור\nרבים חוחיי, אך גם פרחיי\nולפניי שנים רבות מספור\n\nאני שואל ומתפלל\nטוב שלא אבדה עוד התקווה\n\nעובר מזמור מדור לדור\nכמעיין מאז ועד עולם\n\nאני שואל ומתפלל\nטוב שלא אבדה עוד התקווה\n\nחי, חי, חי\nכן, אני עוד חי\nזה השיר שסבא שר אתמול לאבא\nוהיום אני\n\nאני עוד חי, חי, חי\nעם ישראל חי\nזה השיר שסבא שר אתמול לאבא\nוהיום אני\n\n(הומים ימיי (חי, חי\n(ולילותיי (חי, חי\nובשמיי, עמוד האש עוד קם\n\n(אשיר בלי די (חי, חי\n(אפרוש ידיי (חי, חי\nלידידיי אשר מעבר ים\n\nאני שואל ומתפלל\nטוב שלא אבדה עוד התקווה\n\nחי, חי, חי\nכן, אני עוד חי\nזה השיר שסבא שר אתמול לאבא\nוהיום אני\n\nאני עוד חי, חי, חי\nעם ישראל חי\nזה השיר שסבא שר אתמול לאבא\nוהיום אני\n\nשמעו, אחיי, אני עוד חי\nושתי עיניי עוד נישאות לאור\nאז כה לחי לכל אורחיי\nולבניי המבקשים לחזור\n\n(אני שואל (אני שואל\n(ומתפלל (מתפלל\nטוב שלא אבדה עוד התקווה\n\nחי, חי, חי\nכן, אני עוד חי\nזה השיר שסבא שר אתמול לאבא\nוהיום אני\n\nאני עוד חי, חי, חי\nעם ישראל חי\nזה השיר שסבא שר אתמול לאבא\nוהיום אני\n\nחי, חי, חי\nאני עוד חי, חי, חי"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": null,
+      "title": "Ζω",
+      "content": "Ακούστε, αδέρφια μου, ακόμα ζω\nΚαι τα δυο μου μάτια ακόμα βλέπουν φως\nΠολλοί είναι οι κάκτοι μου, αλλά και τ' άνθη μου\nΚαι έχω αμέτρητα χρόνια μπροστά μου\n\nΡωτώ και προσεύχομαι\nΚαλό πράγμα που η ελπίδα δεν είναι ακόμα χαμένη\n\nΈνα τραγούδι περνά από γενιά σε γενιά\nΣαν μία αιώνια άνοιξη\n\nΡωτώ και προσεύχομαι\nΚαλό πράγμα που η ελπίδα δεν είναι ακόμα χαμένη\n\nΖω, ζω, ζω\nΝαι, ακόμα ζω\nΑυτό είναι το τραγούδι που τραγουδούσε χθες ο παππούς μου στον παπά μου\nΚαι σήμερα εγώ\n\nΑκόμα ζω, ζω, ζω\nΤο έθνος του Ισραήλ ζει\nΑυτό είναι το τραγούδι που τραγουδούσε χθες ο παππούς μου στον παπά μου\nΚαι σήμερα εγώ\n\nΟι μέρες μου βροντούν (Ζω, ζω)\nΣαν και τις νύκτες μου (Ζω, ζω)\nΚαι στον ουρανό μου, η στήλη της φωτιάς ακόμα στέκεται\n\nΠάντα θα τραγουδώ (Ζω, ζω)\nΘα απλώνω τα χέρια μου (Ζω, ζω)\nΣτους φίλους μου πέρα από τις θάλασσες\n\nΡωτώ και προσεύχομαι\nΚαλό πράγμα που η ελπίδα δεν είναι ακόμα χαμένη\n\nΖω, ζω, ζω\nΝαι, ακόμα ζω\nΑυτό είναι το τραγούδι που τραγουδούσε χθες ο παππούς μου στον παπά μου\nΚαι σήμερα εγώ\n\nΑκόμα ζω, ζω, ζω\nΤο έθνος του Ισραήλ ζει\nΑυτό είναι το τραγούδι που τραγουδούσε χθες ο παππούς μου στον παπά μου\nΚαι σήμερα εγώ\n\nΑκούστε, αδέρφια μου, ακόμα ζω\nΚαι τα δυο μου μάτια ακόμα βλέπουν το φως\nΛοιπών συγχαίρω τους καλεσμένους μου\nΚαι τους γιους μου που ζητούν να επιστρέψουν\n\nΡωτώ (Ρωτώ)\nΚαι προσεύχομαι (Προσεύχομαι)\nΚαλό πράγμα που η ελπίδα δεν είναι ακόμα χαμένη\n\nΖω, ζω, ζω\nΝαι, ακόμα ζω\nΑυτό είναι το τραγούδι που τραγουδούσε χθες ο παππούς μου στον παπά μου\nΚαι σήμερα εγώ\n\nΑκόμα ζω, ζω, ζω\nΤο έθνος του Ισραήλ ζει\nΑυτό είναι το τραγούδι που τραγουδούσε χθες ο παππούς μου στον παπά μου\nΚαι σήμερα εγώ\n\nΖω, ζω, ζω\nΑκόμα ζω, ζω, ζω"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Alive",
+      "content": "Listen, my brothers, I'm still alive\nAnd both my eyes still look into the light\nMany are my thorns, but also my flowers\nAnd I have countless years ahead of me\n\nI ask and I pray\nGood thing hope is not yet lost\n\nA song is passed from generation to generation\nLike an eternal spring\n\nI ask and I pray\nGood thing hope is not yet lost\n\nAlive, alive, alive\nYes, I'm still alive\nThis is the song that Grandpa sang yesterday to Dad\nAnd today it's me\n\nI'm still alive, alive, alive\nThe Nation of Israel is alive\nThis is the song that Grandpa sang yesterday to Dad\nAnd today it's me\n\nMy days rumble (Alive, alive)\nAs do my nights (Alive, alive)\nAnd in my skies, the pillar of fire still stands\n\nI'll sing forever (Alive, alive)\nI'll reach out my hands (Alive, alive)\nTo my friends from across the seas\n\nI ask and I pray\nGood thing hope is not yet lost\n\nAlive, alive, alive\nYes, I'm still alive\nThis is the song that Grandpa sang yesterday to Dad\nAnd today it's me\n\nI'm still alive, alive, alive\nThe Nation of Israel is alive\nThis is the song that Grandpa sang yesterday to Dad\nAnd today it's me\n\nListen, my brothers, I'm still alive\nAnd both my eyes still look into the light\nSo kudos to all my guests\nAnd to my sons who ask to return\n\nI ask (I ask)\nAnd I pray (I pray)\nGood thing hope is not yet lost\n\nAlive, alive, alive\nYes, I'm still alive\nThis is the song that Grandpa sang yesterday to Dad\nAnd today it's me\n\nI'm still alive, alive, alive\nThe Nation of Israel is alive\nThis is the song that Grandpa sang yesterday to Dad\nAnd today it's me\n\nAlive, alive, alive\nI'm ѕtill alive, alive, аlive"
+    }
+  ],
+  "bpm": 112,
+  "tone": "Bb minor",
+  "artistPeople": [
+    "Ofra Haza"
+  ],
+  "backings": [
+    "Danny Balfolski",
+    "Sasi Keshet",
+    "Shlomo Maman",
+    "Sima Amiel",
+    "Vardina Cohe"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Avi Toledano"
+  ],
+  "conductor": "Silvio Nanssi Brandes",
+  "lyricists": [
+    "Ehud Manor"
+  ],
+  "writers": null,
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Yitzhak Shim'oni"
+}

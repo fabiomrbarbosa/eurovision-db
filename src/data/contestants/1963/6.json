@@ -1,0 +1,52 @@
+{
+  "id": 6,
+  "country": "AT",
+  "artist": "Carmela Corren",
+  "song": "Vielleicht geschieht ein Wunder",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/TQM5qto_R3E",
+    "https://www.youtube-nocookie.com/embed/vCFpRsJI-Yw",
+    "https://www.youtube-nocookie.com/embed/0D6uCJmorHs"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german",
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Vielleicht geschieht ein Wunder",
+      "content": "Vielleicht geschieht ein Wunder\nUnd dieses Wunder kann nur die Liebe sein\nDoch wenn's kein Wunder gibt, bleib' ich allein\n\nManchmal ist so leer und so trübe der Tage Lauf\nAber ich vertrau' auf die Liebe und geb' nicht auf\n\nVielleicht geschieht ein Wunder\nUnd dieses Wunder kann nur die Liebe sein\nDoch wenn's kein Wunder gibt, bleib' ich allein\n\nDarling, you have made this a wonderful world for me\nLet's make every moment together a memory\n\nWho knows what comes tomorrow\nMaybe it's sorrow, maybe it's happiness\nMaybe a dream comes true or maybe it's you\n\nToday I long to love you\nAnd if tomorrow sorrow should come our way\nWe'll think about love we found today\n\nJa da da di da… ja da da di da da…\nDoch wenn'ѕ kein Wunder gibt, bleib' ich аllein"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Maybe a miracle will happen",
+      "content": "Maybe a miracle will happen\nAnd this wonder can only be love\nBut when there won't be a miracle, I will stay alone\n\nSometimes the days are so senseless and so gloomy\nBut I'm trusting in love and I won't give up\n\nMaybe a miracle will happen\nAnd this wonder can only be love\nBut when there won't be a miracle, I will stay alone\n\nDarling, you have made this a wonderful world for me\nLet's make every moment together a memory\n\nWho knows what comes tomorrow\nMaybe it's sorrow, maybe it's happiness\nMaybe a dream comes true or maybe it's you\n\nToday I long to love you\nAnd if tomorrow sorrow should come our way\nWe'll think about love we found today\n\nJa da da di da.. ja da da di da da…\nBut when there won't be a miracle, I will ѕtay аlone"
+    }
+  ],
+  "bpm": 118,
+  "tone": "A major",
+  "artistPeople": [
+    "Carmela Corren"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Erwin Halletz"
+  ],
+  "conductor": "Erwin Halletz",
+  "lyricists": [
+    "Peter Wehle"
+  ],
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Emil Kollpacher"
+}

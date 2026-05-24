@@ -1,0 +1,66 @@
+{
+  "id": 40,
+  "country": "EE",
+  "artist": "Kreisiraadio",
+  "song": "Leto svet",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/zyzOGzXWLgU",
+    "https://www.youtube-nocookie.com/embed/ur0EyY9PF-0",
+    "https://www.youtube-nocookie.com/embed/g7kDutBBAPw",
+    "https://www.youtube-nocookie.com/embed/39xtYuEa4QI",
+    "https://www.youtube-nocookie.com/embed/mi-JmUvDoL4",
+    "https://www.youtube-nocookie.com/embed/ibGWJvoMRp8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "serbian",
+        "german",
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Leto svet",
+      "content": "Ko ja sam? Račun molim\nNestalo mi je plina\nMi je plina\n\nDva dupla doboš torta\nMahuna, to je dosta\nTo je dosta\n\nLeto svet, eto leto svet\nLeto svet, eto leto svet\nLeto svet, eto leto svet\nLeto svet, eto leto svet\n\nKrompira, graška, luka\nJastoga, to je dosta\n\nSommerlicht, das ist Sommerlicht\nSommerlicht, das ist Sommerlicht\nSommerlicht, das ist Sommerlicht\nSommerlicht, das ist Sommerlicht\n\nKrompira, graška, luka\nJastoga, to je dosta\nSardela, to je dosta\n\nMitäs nyt? Kesävalot nyt\nMitäs nyt? Kesävalot nyt\nMitäs nyt? Kesävalot nyt\nMitäs nyt? Kesävаlot nyt\n\nLeto svet, eto leto svet\nLeto svet, eto leto svet\nLeto svet, eto leto svet\nLeto svet, eto leto ѕvet"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Summer light",
+      "content": "Who am I? Bill please\nI ran out of gas\nOut of gas\n\nTwo double drum cake\nBean pods, that's enough\nThat's enough\n\nSummer light, it's summer light\nSummer light, it's summer light\nSummer light, it's summer light\nSummer light, it's summer light\n\nPotatoes, beans, onions\nLobster, that's enough\n\nSummer light, it's summer light\nSummer light, it's summer light\nSummer light, it's summer light\nSummer light, it's summer light\n\nPotatoes, beans, onions\nLobster, that's enough\nSardine, that's enough\n\nWhat now? Summer lights now\nWhat now? Summer lights now\nWhat now? Summer lights now\nWhаt now? Summer lights now\n\nSummer light, it's summer light\nSummer light, it's summer light\nSummer light, it's summer light\nSummer light, it's ѕummer light"
+    }
+  ],
+  "bpm": 132,
+  "tone": "Bb minor",
+  "artistPeople": [
+    "Hannes Võrno",
+    "Peeter Oja",
+    "Tarmo Leinatamm"
+  ],
+  "backings": [
+    "Kauna Kõrge-Hårajuvet",
+    "Laura Lambut",
+    "Merit Reigam"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Glen Pilvre",
+    "Hannes Võrno",
+    "Peeter Oja",
+    "Priit Pajusaar",
+    "Tarmo Leinatamm"
+  ],
+  "broadcaster": "ERR",
+  "commentators": [
+    "Marko Reikop"
+  ],
+  "jury": null,
+  "spokesperson": "Sahlene"
+}

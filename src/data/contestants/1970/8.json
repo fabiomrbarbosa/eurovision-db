@@ -1,0 +1,52 @@
+{
+  "id": 8,
+  "country": "BE",
+  "artist": "Jean Vallée",
+  "song": "Viens l'oublier",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/1uK41BM4c44",
+    "https://www.youtube-nocookie.com/embed/PIJio5M3XSo"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Viens l'oublier",
+      "content": "Un chagrin vient d'apparaître\nUn peu de pluie pour tes cils\nQuelques larmes viennent de naître\nUn peu d'amour qui s'enfuit\n\nViens l'oublier\nCe garçon te fait trop souvent souffrir\nViens l'effacer\nCe premier amour était mal écrit\n\nUn nuage va disparaître\nUn bouquet d'ombres qui s'enfuit\nUn soleil vient d'apparaître\nUn peu de bleu pour tes cils\n\nViens l'oublier\nCe garçon te fait trop souvent souffrir\nViens l'effacer\nCe premier amour était mal écrit\n\nUne étoile vient d'apparaître\nUn peu de nuit pour tes cils\nUne rose vient de naître\nUn peu d'amour dans la nuit\n\nViens l'oublier\nCe garçon te fait trop souvent souffrir\nAllez, viens l'effacer\nCe premier amour était mаl écrit\n\nVienѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Come to forget him",
+      "content": "A grief has just appeared\nA bit of rain for your lashes\nSome tears have just been born\nA bit of love that runs away\n\nCome to forget him\nThat boy makes you suffer too much\nCome to wipe him out\nThat first love was written badly\n\nA cloud will disappear soon\nA bouquet of shadows that runs away\nA sun has just appeared\nA bit of blue for your lashes\n\nCome to forget him\nThat boy makes you suffer too much\nCome to wipe him out\nThat first love was written badly\n\nA star has just appeared\nA bit of night for your lashes\nA rose has just been born\nA bit of love in the night\n\nCome to forget him\nThat boy makes you suffer too much\nCome to wipe him out\nThat first love waѕ written bаdly\n\nCome"
+    }
+  ],
+  "bpm": 92,
+  "tone": "E major",
+  "artistPeople": [
+    "Paul Goeders"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Jack Say",
+  "lyricists": null,
+  "writers": [
+    "Jean Vallée"
+  ],
+  "broadcaster": "RTB",
+  "commentators": [
+    "Claude Delacroix",
+    "Jan Theys",
+    "Paule Herreman"
+  ],
+  "jury": null,
+  "spokesperson": "André Hagon"
+}

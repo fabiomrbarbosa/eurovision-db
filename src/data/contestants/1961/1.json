@@ -1,0 +1,53 @@
+{
+  "id": 1,
+  "country": "GB",
+  "artist": "The Allisons",
+  "song": "Are You Sure?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/K1tw0zLcVEQ",
+    "https://www.youtube-nocookie.com/embed/_jgo__9dEyw",
+    "https://www.youtube-nocookie.com/embed/blm96qS8hXo"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Are You Sure?",
+      "content": "Goodbye (goodbye)\nFarewell (farewell)\nI'm not sure what to do\nSo long (so long)\nAu revoir (au revoir)\nIt's hard, but I'll pull through\n\nAre you sure you won't be sorry?\nComes tomorrow, you won't want me\nBack again to hold you tightly?\n\nNow are you sure\nIt's not your foolish heart?\nThat you won't grieve\nIf we're to be apart?\n\nYou will see, as time goes by\nWe'll grow lonely - you and I\nDreaming of each other and we'll cry\n\nGoodbye (goodbye)\nFarewell (farewell)\nI'm not sure what to do\nSo long (so long)\nAu revoir (au revoir)\nIt's hard, but I'll pull through\n\nAre you sure you won't be sorry?\nComes tomorrow, you won't want me\nBack again to hold you tightly?\n\nJust stop and think\nIt's your decision now\nFor you're the one\nWho went and broke the vow\n\nYou'll be sorry, wait and see\nSpend your life in misery\nWishing that you had returned to me\n\nGoodbye (goodbye)\nFarewell (farewell)\nWhat is there to live for?\nBefore you go\nJust think now, are you sure?\n\nAre you sure you won't be sorry?\nComes tomorrow, you won't want me\nBack again to hold you tightly in my аrmѕ?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "romanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Ești Sigură?",
+      "content": "La revedere (la revedere)\nRămas bun (rămas bun)\nNu sunt sigur ce să fac\nAdio (adio)\nAu revoir (au revoir)\nEste greu, însă voi rezista\n\nEști sigură că nu vei regreta?\nMâine, nu mă vei dori\nÎnapoi ca să te strâng ferm?\n\nAcum ești sigură\nCă nu e doar inima ta naivă?\nCă nu vei jeli\nDacă e să fim despărțiți?\n\nVei vedea, de-a lungul timpului\nVom deveni singuratici - tu și cu mine\nVisându-ne reciproc și vom plânge\n\nLa revedere (la revedere)\nRămas bun (rămas bun)\nNu sunt sigur ce să fac\nAdio (adio)\nAu revoir (au revoir)\nEste greu, însă voi rezista\n\nEști sigură că nu vei regreta?\nMâine, nu mă vei dori\nÎnapoi ca să te strâng ferm?\n\nOprește-te și gândește-te\nE alegerea ta acum\nCăci tu ești cea\nCare a încălcat jurământul\n\nÎți va părea rău, așteaptă și vei vedea\nPetrecându-ți viața în suferință\nDorind să te fi întors la mine\n\nLa revedere (la revedere)\nRămas bun (rămas bun)\nPentru ce să mai trăiești?\nÎnainte să pleci\nGândește-te, ești sigură?\n\nEști sigură că nu vei regreta?\nMâine, nu mă vei dori\nÎnapoi cа să te ѕtrâng ferm?"
+    }
+  ],
+  "bpm": 172,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Bernard Colin Day",
+    "Brian Henry John Alford"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Harry Robinson",
+  "lyricists": null,
+  "writers": [
+    "Bob Allison",
+    "John Allison"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Tom Sloan"
+  ],
+  "jury": null,
+  "spokesperson": "Michael Aspel"
+}

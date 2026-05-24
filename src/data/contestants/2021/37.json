@@ -1,0 +1,95 @@
+{
+  "id": 37,
+  "country": "GE",
+  "artist": "Tornike Kipiani",
+  "song": "You",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5qnogt74_F8",
+    "https://www.youtube-nocookie.com/embed/zOHwiWElR1A",
+    "https://www.youtube-nocookie.com/embed/w6jzan8nfxc",
+    "https://www.youtube-nocookie.com/embed/v5onk9a4wPA",
+    "https://www.youtube-nocookie.com/embed/yVpMg3hCblQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "You",
+      "content": "Sunshine, I wanna touch you\nWind blow, I wanna see you\nI wanna touch\nI wanna ѕee\nI wanna be with you\n\nOcean, I wanna hear you\nMountain, I wanna feel you\nI wanna hear\nI wanna feel\nAnd I wanna be with you\n\nYou're everywhere where I am\nYou're in everything that I do\nMy love, my love\nI wanna be with you\n\nYou…\nAh ahh…\n\nMy love, my love\nI wannа be with you"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "romanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Tu",
+      "content": "Soare, vreau să te ating\nVântul suflă, vreau să te văd\nVreau să te ating\nVreau să te văd\nVreau să fiu cu tine\n\nOcean, vreau să te aud\nMunte, vreau să te simt\nVreau să te aud\nVreau să te simt\nȘi vreau să fiu cu tine\n\nEști peste tot unde sunt\nEști în tot ce fac\nDragostea mea, dragostea mea\nVreau să fiu cu tine\n\nTu…\nAh ahh…\n\nDragostea mea, dragostea mea\nVreаu ѕă fiu cu tine"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "georgian"
+      ],
+      "displayedLanguages": null,
+      "title": "შენ",
+      "content": "Მზეო, მინდა შეგეხო\nᲥარი უბერავს, მინდა გნახო\nᲛინდა შევეხო\nᲛინდა ვნახო\nᲗჟკამ ეა ჟ რვბ\n\nᲝკეანე, მინდა გაგიგო\nᲛთი, თჟკამ ეა ჟვ ჟლსფამ\nᲗჟკამ ეა ჟლსქამ\nᲛინდა ვიგრძნო\nᲓა მინდა შენთან ვიყო\n\nᲨენ ყველგან ხარ სადაც მე ვარ\nᲨენ ყველაფერში ხარ, რასაც მე ვაკეთებ\nᲩემი სიყვარული, ჩემი სიყვარული\nᲗჟკამ ეა ჟ რვბ\n\nᲨენ…\n\nᲩემი სიყვარული, ჩემი სიყვარული\nᲗჟკამ ეა ჟ რვბ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Toi",
+      "content": "Soleil, je veux te toucher\nCoup de vent, je veux te voir\nJe veux toucher\nJe veux voir\nJe veux être avec toi\n\nOcéan, je veux t'entendre\nMontagne, je veux te sentir\nJe veux entendre\nJe veux ressentir\nEt je veux être avec toi\n\nTu est partout où je suis\nTu est dans tout ce que je faiѕ\nMon amour, mon amour\nJe veux être avec toi\n\nToi…\nAh ahh…\n\nMon amour, mon amour\nJe veux être аvec toi"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Sinä",
+      "content": "Auringonpaiste, haluan koskettaa sinua\nTuuli puhaltaa, haluan nähdä sinut\nHaluan koskettaa\nHaluan nähdä\nHaluan olla kanssasi\n\nValtameri, haluan kuulla sinut\nVuori, haluan tuntea sinut\nHaluan kuulla\nHaluan tuntea\nJa haluan olla kanssasi\n\nOlet kaikkialla missä minäkin\nOlet kaikessa mitä teen\nRakkaani, rakkaani\nHaluan olla kanssas\n\nSinä…\nAh ahh…\n\nRakkaani, rakkaani\nHaluan olla kanssаѕi"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "polish"
+      ],
+      "displayedLanguages": null,
+      "title": "Ty",
+      "content": "Słońce, chce Cię dotknąć\nPodmuchu wiatru, chce Cię zobaczyć\nChce dotknąć\nChce zobaczyć\nChcę być z tobą\n\nOceanie, chce cię usłyszeć\nGóro, chce cię poczuć\nChce usłyszeć\nChce poczuć\nI chcę być z tobą\n\nJesteś wszędzie gdzie ja jestem\nJesteś we wszyѕtkim co robię\nMoja miłość, moja miłość\nChcę być z tobą\n\nTy…\nAh ahh…\n\nMoja miłość, mojа miłość\nChcę być z tobą"
+    }
+  ],
+  "bpm": 134,
+  "tone": "C major",
+  "artistPeople": [
+    "Tornike Kipiani"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Emilia Sandquist",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Tornike Kipiani"
+  ],
+  "broadcaster": "GPB",
+  "commentators": [
+    "Nika Lobiladze"
+  ],
+  "jury": [
+    "David Evgenidze",
+    "Helen Kalandadze",
+    "Nodiko Tatishvili",
+    "Sopho Toroshelidze",
+    "Zaza Orashvili"
+  ],
+  "spokesperson": "Oto Nemsadze"
+}

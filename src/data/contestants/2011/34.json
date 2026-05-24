@@ -1,0 +1,64 @@
+{
+  "id": 34,
+  "country": "IL",
+  "artist": "Dana International",
+  "song": "Ding Dong",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/gkopelCFFF0",
+    "https://www.youtube-nocookie.com/embed/6fJzprA9e6U",
+    "https://www.youtube-nocookie.com/embed/JmBMQJlzTa4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "hebrew",
+        "english"
+      ],
+      "displayedLanguages": [
+        "ivrit"
+      ],
+      "title": "Ding dong",
+      "content": "Ve'ulai hayamim hatovim\nHigi'u hem kan, rak od rega katan\nVehakol yishtane me'achshav\nVenohav, nohav\n\nAnd if you have a dream of your own\nDon't be afraid to go on with your heart\nClose your eyes and hear the bells of your soul\n\nDing dong, say no more\nI hear silent prayers\nAnd it's making me high and fly\nI know where to go and I'm coming now\n\nVe'ulai ze kim'at, ze karov\nAchshav ba toro shel harega hatov\nHake'ev shebalev mistovev veholech, ozev\n\nDing dong, say no more\nI hear silent prayers\nAnd it's making me high and fly\nI know where to go and I'm coming now\n\nHaleli et hayom shemevi lach et halaila\nHaleli et hazman sheya'ir otach\nHu yavi lach ge'ula\n\nHaleli et hayom shemevi lach et halaila\nHaleli et hazman sheya'ir otach\nVeyavi lach ge'ula\n\nDing dong, say no more\nI hear silent prayers\nAnd it's making me high and fly\nI know where to go and I'm coming\n\nDing dong, say no more\nI hear silent prayers\nAnd it'ѕ making me high and fly\nI know where to go аnd I'm coming now"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "hebrew",
+        "english"
+      ],
+      "displayedLanguages": [
+        "עברית"
+      ],
+      "title": "Ding dong",
+      "content": "\n\n\n\nAnd if you have a dream of your own\nDon't be afraid to go on with your heart\nClose your eyes and hear the bells of your soul\n\nDing dong, say no more\nI hear silent prayers\nAnd it's making me high and fly\nI know where to go and I'm coming now\n\n\n\n\n\nDing dong, say no more\nI hear silent prayers\nAnd it's making me high and fly\nI know where to go and I'm coming now\n\n\n\n\n\nהללי את היום שמביא לך את הלילה\nהללי את הזמן שיאיר אותך\nויביא לך גאולה\n\n\n\nDing dong, say no more\nI hear silent prayers\nAnd it's making me high and fly\nI know where to go and I'm coming\n\nDing dong, say no more\nI hear silent prayers\nAnd it's making me high and fly\nI know where to go and I'm coming now"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Ding dong",
+      "content": "And maybe the better days\nHave arrived here, just a short moment\nAnd everything will change from now on\nAnd we'll love, we'll love\n\nAnd if you have a dream of your own\nDon't be afraid to go on with your heart\nClose your eyes and hear the bells of your soul\n\nDing dong, say no more\nI hear silent prayers\nAnd it's making me high and fly\nI know where to go and I'm coming now\n\nAnd maybe it's almost, it's close\nNow comes the turn of the good moment\nThe pain in the heart turns and goes, leaves\n\nDing dong, say no more\nI hear silent prayers\nAnd it's making me high and fly\nI know where to go and I'm coming now\n\nPraise the day that brings you the night\nPraise the time that will light you\nIt will bring you redemption\n\nPraise the day that brings you the night\nPraise the time that will light you\nAnd bring you redemption\n\nDing dong, say no more\nI hear silent prayers\nAnd it's making me high and fly\nI know where to go and I'm coming\n\nDing dong, say no more\nI hear silent prayers\nAnd it'ѕ making me high and fly\nI know where to go аnd I'm coming now"
+    }
+  ],
+  "bpm": 128,
+  "tone": "F# major",
+  "artistPeople": [
+    "Sharon Cohen"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Dana International"
+  ],
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Ofer Nachshon"
+}

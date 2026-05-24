@@ -1,0 +1,46 @@
+{
+  "id": 2,
+  "country": "IE",
+  "artist": "Liam Reilly",
+  "song": "Somewhere In Europe",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/SAjFewDxTFM",
+    "https://www.youtube-nocookie.com/embed/hT1ag2Si7BE",
+    "https://www.youtube-nocookie.com/embed/e4f3hX1G8fk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Somewhere In Europe",
+      "content": "It's been a long time since we were together\nI'm back in Ireland and I miss you more than ever\nIn early spring we parted and I've been here since then\nBut if I could only see you once again\n\nMeet me in Paris on a Champs-Élysées night\nWe could be in Rome again, 'neath the Trevi fountain light\nWe should be together, and maybe we just might\nIf you could only meet me somewhere in Europe tonight\n\nI remember Amsterdam as we sailed along the canal\nAnd as the leaves began to fall, we were walking in old Bruxelles\nIn the Black Forest on a German summer's day\nAnd the memories refuse to go away\n\nMeet me in Paris on a Champs-Élysées night\nWe could be in Rome again, 'neath the Trevi fountain light\nWe should be together, and maybe we just might\nIf you could only meet me somewhere in Europe\n\nDon't you remember those Adriatic days?\nI miss your laughter and all your little ways\nI can still see you in London, walking on Trafalgar Square\nAnd drinking wine in Old Seville, how I wish that we were there\n\nMeet me in Paris on a Champs-Élysées night\nWe could be in Rome again, 'neath the Trevi fountain light\nWe should be together, maybe we just might\nIf you could only meet me somewhere in Europe tonight\n\nMeet me in Paris on a Champs-Élysées night\nWe could be in Rome again, 'neath the Trevi fountain light\nWe should be together, and mаybe we just might\nIf you could only meet me ѕomewhere in Europe tonight\n\nSomewhere in Europe tonight\nSomewhere in Europe"
+    }
+  ],
+  "bpm": 172,
+  "tone": "C major",
+  "artistPeople": [
+    "Liam O'Reilly"
+  ],
+  "backings": [
+    "Kim Jackson",
+    "Mary Downes"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Noel Kelehan",
+  "lyricists": null,
+  "writers": [
+    "Liam Reilly"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Clíona Ní Bhuachalla",
+    "Jimmy Greeley"
+  ],
+  "jury": null,
+  "spokesperson": "Eileen Dunne"
+}

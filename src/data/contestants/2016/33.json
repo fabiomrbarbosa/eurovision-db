@@ -1,0 +1,65 @@
+{
+  "id": 33,
+  "country": "IS",
+  "artist": "Greta Salóme",
+  "song": "Hear Them Calling",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/6osxLLPLUDk",
+    "https://www.youtube-nocookie.com/embed/7xQxQRdZasQ",
+    "https://www.youtube-nocookie.com/embed/BO6Mku4vFB4",
+    "https://www.youtube-nocookie.com/embed/366dFFxh4hc",
+    "https://www.youtube-nocookie.com/embed/7d3DEbpNzpk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Hear Them Calling",
+      "content": "Can you hear them calling\nOh they're calling out tonight\nNow the skies are burning\nOh they burn so bright\n\nWe shiver as we step into\nThe cold cold night\nThen we're running we are running now\n\nI hear them calling me\nI hear them whispering\nThey're singing oh we are coming home\n\nI hear them calling me\nI hear them howling\nSinging oh we are coming home\n\nSee the shadows dancing\nOh they dance for us tonight\nAnd as I'm tossing and I'm turning\nOh they come alive\n\nWe shiver as we step into\nThe cold cold night\nThen we're running we are running now\n\nI hear them calling me\nI hear them whispering\nThey're singing oh we are coming home\n\nI hear them calling me\nI hear them howling\nSinging oh we are coming home\nOh oh oh, Oh oh oh\n\nCan you hear them?\nI hear them calling me\nOh oh oh\nCan you hear them?\nI hear them calling me\nOh oh oh\n\nI hear them calling me\nI hear them whispering\nI hear them calling me\nWe're coming home\n\nI hear them calling me\nI hear them whispering\nI hear them calling me\nNow i'm coming home\n\nI hear them calling me\nI hear them whispering\nI hear them calling me\nI hear them whispering\nThey're ѕinging oh we are coming home\nSinging oh we аre coming home"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "icelandic"
+      ],
+      "displayedLanguages": null,
+      "title": "Raddirnar",
+      "content": "Úti dansa skuggar\nOg þeir skríða á eftir mér\nLæðast inn í huga\nMinn og leika sér\n\nOg yfir svarta sandana\nVið stígum hægt\nSvo ég heyri þegar kallað er:\n\nÉg heyri raddirnar\nÞær eru allsstaðar\nÓ leiðið okkur að lokum heim\nOg yfir auðnina\nOg inn í nóttina\nLeiðið okkur að lokum heim\n\nNístir inn að beini\nNapur vindur þenur sig\nOg það er sama hvað ég reyni\nÓ, hann fangar mig\n\nOg yfir svarta sandana\nVið ѕtígum hægt\nSvo ég heyri þegar kallað er:\n\nÓ, ég heyri, ég heyri raddirnar\nOoooh\nÓ, ég heyri, ég heyri raddirnаr\nOoooh"
+    }
+  ],
+  "bpm": 133,
+  "tone": "F major",
+  "artistPeople": [
+    "Greta Salóme Stefánsdóttir"
+  ],
+  "backings": [
+    "Gisli Magnason",
+    "Hafsteinn Þórólfsson",
+    "Kristján Gíslason",
+    "Lilja Björk Runólfsdóttir",
+    "Pétur Örn Guðmundsson"
+  ],
+  "dancers": null,
+  "stageDirector": "Ásgeir Helgi Magnússon, Jonathan Duffy",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Greta Salóme Stefánsdóttir"
+  ],
+  "broadcaster": "RÚV",
+  "commentators": [
+    "Gísli Marteinn Baldursson"
+  ],
+  "jury": [
+    "Björgvin Ívar Baldursson",
+    "Kristín Björg Þorsteinsdóttir",
+    "Kristjana Stefánsdóttir",
+    "Magnús Jón Kjartansson",
+    "Vera Hjördis Matsdóttir"
+  ],
+  "spokesperson": "Unnsteinn Manuel Stefánsson"
+}

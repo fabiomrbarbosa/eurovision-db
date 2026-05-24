@@ -1,0 +1,46 @@
+{
+  "id": 1,
+  "country": "GB",
+  "artist": "Scott Fitzgerald",
+  "song": "Go",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/T8mWt2ePsJQ",
+    "https://www.youtube-nocookie.com/embed/ydcoTqPZxIw",
+    "https://www.youtube-nocookie.com/embed/5bnYsVZR-HE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Go",
+      "content": "I never felt like this before\nSeein' you again only makes me sad\nI recall the times when we\nWere in love and had everything\nIt makes me so sad\n\nTime is meant to heal the pain\nI thought was gone\nSeein' you again has made it carry on\n\nGo before you break my heart once more\nI know that's what you come here for\nGo before you say 'I love you' the way you did\nThe day before you walked away from me\n\nLookin' back on the times we had\nThings were beautiful then\nBut how quick they've changed\nOne day you were in love with me\nThen the next, so suddenly, he came along\n\nTime is meant to heal the pain\nI thought was gone\nSeein' you again has made it carry on, yeah\n\nGo before you break my heart once more\nI know that's what you come here for\nGo before you say 'I love you' the way you did\nThe day before you walked away from me\n\n(Go before you break my heart once more)\nJust go, just go away\n(I know that's what you come here for)\nJust leave me behind to face another day\nGo before you ѕay 'I love you' the way you did\nThe day before you walked away from me\n\nThe day before you walked awаy from me"
+    }
+  ],
+  "bpm": 84,
+  "tone": "B minor",
+  "artistPeople": [
+    "William McPhail"
+  ],
+  "backings": [
+    "Des Dyer",
+    "Dominic Grant",
+    "Julie Forsyth"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Ronnie Hazlehurst",
+  "lyricists": null,
+  "writers": [
+    "Julie Forsyth"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Terry Wogan"
+  ],
+  "jury": null,
+  "spokesperson": "Colin Berry"
+}

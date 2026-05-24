@@ -1,0 +1,64 @@
+{
+  "id": 34,
+  "country": "MK",
+  "artist": "Vasil",
+  "song": "Here I Stand",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/WRcSHPb_Qwc",
+    "https://www.youtube-nocookie.com/embed/zOHwiWElR1A",
+    "https://www.youtube-nocookie.com/embed/nd4YfjVWrro",
+    "https://www.youtube-nocookie.com/embed/Z3NeYgbcw1I",
+    "https://www.youtube-nocookie.com/embed/LR2aKaL5yb0",
+    "https://www.youtube-nocookie.com/embed/s19KtKXwTcg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Here I Stand",
+      "content": "There are times when I remember back\nWish to hug\nThe child about to crack\nI'll tell him: Wait, you won't be long\nTrust your heart and just stay strong\n\n'Cause baby, they all tried to break us\nNot knowing it's what makes us\nThis is how we found our way\nNow here I stand\nThere's no pretend\nMy walls are down, my heart's in your hand\nUnchain my wings\nAnd the oceans of tears will fade to black\nWith the song of my years, ooh-ooh-ooh\n\nThey all tried to break us\nNot knowing it's what makes us\nThis is how we found our way\n<i style=\"color:#789\">Here I stand</i>\nMy walls are down, my heart's in your hand\n<i style=\"color:#789\">They all tried to break us\nNot knowing it's what makes us\nThis is how we found our way</i>\n\nThere are times when I remember back\nAnd all I do is smile\nAll for you\n\n<i style=\"color:#789\">They all tried to break us\nNot knowing it's what makes us\nAnd this iѕ how we found our wаy</i>"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "romanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Aici Stau",
+      "content": "Sunt momente când îmi amintesc\nÎmi doresc să îmbrățișez\nCopilul pe cale să cedeze\nÎi voi spune: Așteaptă, nu vei fi mult\nÎncrede-te în inima ta și doar rămâi puternic\n\nPentru că, iubirea mea, toți au încercat să ne distrugă\nFără să știe că asta ne face\nAșa ne-am găsit drumul\nAcum aici stau\nNu e nicio prefăcătorie\nZidurile mele sunt jos, inima mea e în mâinile tale\nDezleagă-mi aripile\nȘi oceanele de lacrimi se vor estompa în negru\nCu melodia anilor mei, ooh-ooh-ooh\n\nToți au încercat să ne distrugă\nFără să știe că asta ne face\nAșa ne-am găsit drumul\n<i style=\"color:#789\">Aici stau</i>\nZidurile mele sunt jos, inima mea e în mâinile tale\n<i style=\"color:#789\">Toți au încercat să ne distrugă\nFără să știe că asta ne face\nAșa ne-am găsit drumul</i>\n\nSunt momente când îmi amintesc\nȘi tot ce fac este să zâmbesc\nTotul pentru tine\n\n<i style=\"color:#789\">Toți au încercat să ne distrugă\nFără să știe că asta ne face\nȘi așa ne-аm găѕit drumul</i>"
+    }
+  ],
+  "bpm": 138,
+  "tone": "G major",
+  "artistPeople": [
+    "Vasil Garvanliev (Васил Гарванлиев)"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Mari Ryberger, Tine Matulessy",
+  "composers": [
+    "Borče Kuzmanovski",
+    "Davor Jordanovski",
+    "Vasil Garvanliev"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Vasil Garvanliev"
+  ],
+  "writers": null,
+  "broadcaster": "MKRTV",
+  "commentators": [
+    "Eli Tanaskovska"
+  ],
+  "jury": [
+    "Darko Tasev",
+    "Erhan Shukri",
+    "Ile Spasev",
+    "Lara Ivanova",
+    "Robert Bilbilov"
+  ],
+  "spokesperson": "Vane Markoski"
+}

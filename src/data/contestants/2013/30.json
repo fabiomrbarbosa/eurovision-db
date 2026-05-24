@@ -1,0 +1,59 @@
+{
+  "id": 30,
+  "country": "CH",
+  "artist": "Takasa",
+  "song": "You And Me",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Ba6ovg4yAto",
+    "https://www.youtube-nocookie.com/embed/fBGpqq2LFSQ",
+    "https://www.youtube-nocookie.com/embed/tmEsg_XEdAc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "You And Me",
+      "content": "When the times are getting rough, gold and silver turn to dust\nPeople build their barricades out of jealousy and hate\nBut there's one thing they could never, never ever separate\n\nAh… let it hear from near and far\nThis is how it's meant to be, we're together, you and me\nAh… nothing can tear us apart\nSailing on a stormy sea, we're together, you and me\n\nWe build castles with our hands, on a solid ground they stand\nThey're our shelter from the storm, keep us safe and keep us warm\nNo, there's nothing that can hurt us, whatever there may come\n\nAh… let it hear from near and far\nThis is how it's meant to be, we're together, you and me\nAh… nothing can tear us apart\nSailing on a stormy sea, we're together, you and me\n\nTime is flowing to the sea, but it's still you and me\nNothing's like it used to be, but we're here, you and me\n\nAh… let it hear from near and far\nThis is how it's meant to be, we're together, you and me\nAh… nothing can tear us apart\nSailing on a stormy sea, we're together, you and me\n\nAh, nothing can tear us apart\nSailing on a stormy ѕea, we're together, you аnd me"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Tú y yo",
+      "content": "Cuando los tiempos se vuelven difíciles y el oro y la plata se vuelven polvo\nLa gente construye sus barricadas basándose en los celos y el odio\nPero existe una cosa que nunca jamás podrán separar\n\nAh… escuchadlo cerca y lejos\nAsí es como tiene que ser, estamos juntos, tú y yo\nAh… nada nos puede separar\nNavegando en un mar tormentoso, estamos juntos, tú y yo\n\nConstruimos castillos con las manos que se levantan sobre tierra firme\nSon nuestro refugio de la tormenta, nos resguardan y nos mantienen calientes\nNo, no existe nada que nos pueda hacer daño, pase lo que pase\n\nAh… escuchadlo cerca y lejos\nAsí es como tiene que ser, estamos juntos, tú y yo\nAh… nada nos puede separar\nNavegando en un mar tormentoso, estamos juntos, tú y yo\n\nEl tiempo fluye hacia el mar, pero ahí quedamos tú y yo\nNada es como era, pero aquí estamos, tú y yo\n\nAh… escuchadlo cerca y lejos\nAsí es como tiene que ser, estamos juntos, tú y yo\nAh… nada nos puede separar\nNavegando en un mar tormentoso, estamos juntos, tú y yo\n\nAh… nada nos puede separar\nNavegando en un mar tormentoso, estаmos juntoѕ, tú y yo"
+    }
+  ],
+  "bpm": 134,
+  "tone": "B major",
+  "artistPeople": [
+    "Christoph Jakob",
+    "Emil Ramsauer",
+    "Jonas Gygax",
+    "Katharina Hauri",
+    "Michel Sterckx",
+    "Sarah Breiter"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Georg Schlunegger"
+  ],
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Alessandro Bertoglio",
+    "Jean-Marc Richard",
+    "Nicolas Tanner",
+    "Sven Epiney"
+  ],
+  "jury": null,
+  "spokesperson": "Mélanie Freymond"
+}

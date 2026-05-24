@@ -1,0 +1,57 @@
+{
+  "id": 15,
+  "country": "BA",
+  "artist": "Mija Martina",
+  "song": "Ne Brini",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/KPFjADXmEPo",
+    "https://www.youtube-nocookie.com/embed/sfXLT3XIdjM",
+    "https://www.youtube-nocookie.com/embed/zwGG5xV4Fl8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "croatian"
+      ],
+      "displayedLanguages": null,
+      "title": "Ne brini",
+      "content": "Odlazi dan\nTi polako za njim kreni ali sam\nJer izgubiti ćeš igru\nOvu igru koju odavno već znam\n(Sava Raka tika taka, bija baja buf)\n\nNe brini, ne brini za mene\nLaž mi ništa ne može\nKaži, kaži kako je\nKada se gubi sve\n\nPred svima govoriš da ništa ne patiš\nI da me ne voliš, baby (Baby)\nSad, važi, pokaži\nDa možeš bez mene\n\nJer samo dvije riječi\nDanas ti želim reći:\nBar (bar), bar (bar) za kraj\n\nNe brini, ne brini za mene\nLaž mi ništa ne može\nKaži, kaži kako je\nKada se gubi sve\n\nNe brini, ne brini za mene\nLaž mi ništa ne može\nKaži, kaži kako je\nKada se gubi sve\n\nI couldn't stand the lie\nNow you are doomed to cry\nBye (bye), bye (don't ever), don't lie\n\n(Could it be, could it be, is it true?)\n(I was fool that could die for you)\nTell me, tell me, can't you see?\nYou'll never die for me\n\nCould it be, could it be, is it true? (Is it true?)\nI was fool that could die for you\n(You know that I could die for you)\nTell me, tell me, can't you see?\nYou'll never die for me\n\nCould it be, could it be, is it true?\nI was fool that could die for you\nTell me, tell me, can't you see?\nYou'll never die for me\n\nTell me, tell me, cаn't you ѕee?\nYou'll never die for me"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Don't worry",
+      "content": "The day departs\nYou slowly follow it, alone\n'Cause you will lose the game\nThis game I have known for long\n(Down by the river where nobody goes)\n\nDon't worry, don't worry about me\nLies can't hurt me\nSay, say what it feels like\nWhen everything is lost\n\nYou tell everyone that you don't suffer\nThat you don't love me, baby (Baby)\nNow, fine, show me\nThat you can do without me\n\nBecause only two words\nI have to tell you today:\nAt least (at least), at least (at least) for the end\n\nDon't worry, don't worry about me\nLies can't hurt me\nSay, say what it feels like\nWhen everything is lost\n\nDon't worry, don't worry about me\nLies can't hurt me\nSay, say what it feels like\nWhen everything is lost\n\nI couldn't stand the lie \nNow you are doomed to cry \nBye (bye), bye (don't ever), don't lie \n\n(Could it be, could it be, is it true?) \n(I was fool that could die for you) \nTell me, tell me, can't you see? \nYou'll never die for me \n\nCould it be, could it be, is it true? (Is it true?) \nI was fool that could die for you \n(You know that I could die for you) \nTell me, tell me, can't you see? \nYou'll never die for me \n\nCould it be, could it be, is it true? \nI was fool that could die for you \nTell me, tell me, can't you see? \nYou'll never die for me \n\nTell me, tell me, cаn't you ѕee? \nYou'll never die for me"
+    }
+  ],
+  "bpm": 132,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Mija Martina Barbarić"
+  ],
+  "backings": [
+    "Andrej Pucarević",
+    "Dunja Galineo",
+    "Vladimir Pavelić-Bubi"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ines Prajo"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Arjana Kunštek"
+  ],
+  "writers": null,
+  "broadcaster": "PBSBIH",
+  "commentators": [
+    "Dejan Kukrić"
+  ],
+  "jury": null,
+  "spokesperson": "Ana Vilenica"
+}

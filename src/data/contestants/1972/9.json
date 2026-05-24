@@ -1,0 +1,53 @@
+{
+  "id": 9,
+  "country": "ES",
+  "artist": "Jaime Morey",
+  "song": "Amanece",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/gQhFbPhyhfI",
+    "https://www.youtube-nocookie.com/embed/4aZwVqMmHqg",
+    "https://www.youtube-nocookie.com/embed/gb8zgjFSfn8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Amanece",
+      "content": "Amanece\nLa lluvia moja lentamente mi despertar\nLa gente camina cerca de mi soledad sin parar\nAmanece\nParece que el cielo se nubló para nosotros\nDesde el momento triste en que escuché tu adiós\n\nYo sé de un lugar a través del mar\nDonde el día brilla más cuando amanece\nNuestra nave irá rumbo hacia esa luz\nPor el mar de tu confianza\nCon viento de esperanza en el mañana\n\nEscucha\nTratemos de empezar hoy otra vez, ¿por qué no?\nSi quieres, será nuestra bandera la amistad y el amor\nAmanece\nBusquemos, busquemos en el cielo azules nuevos\nGanemos la batalla a nuestra incomprensión\n\nYo sé de un lugar a través del mar\nDonde el día brilla más cuando amanece\nNuestra nave irá rumbo hacia esa luz\nPor el mar de tu confianza\nCon viento de esperanza en el mañana\n\nYo sé de un lugar a través del mar\nDonde el día brilla más cuando amanece\nYo sé de un lugar a través del mar\nDonde el día brilla máѕ cuando amаnece"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "It's dawning",
+      "content": "It's dawning\nThe rain wets slowly my awakening\nPeople walk by my loneliness without stopping\nIt's dawning\nIt seems like the sky became grey for us\nBecause of the sad moment when I heard your goodbye\n\nI know a place beyond the sea\nWhere the day shines brighter in the dawn\nOur boat will sail towards that light\nOn your trusted sea\nWith a wind of hope for the day of tomorrow\n\nListen\nLet's try to start over again today, why not?\nIf you want to, friendship and love will be our flag\nIt's dawning\nLet's search, search for new blue colours in the sky\nLet's win the battle against incomprehension\n\nI know a place beyond the sea\nWhere the day shines brighter in the dawn\nOur boat will sail towards that light\nOn your trusted sea\nWith a wind of hope for the day of tomorrow\n\nI know a place beyond the sea\nWhere the day shines brighter in the dawn\nI know a place beyond the sea\nWhere the day shineѕ brighter in the dаwn"
+    }
+  ],
+  "bpm": 114,
+  "tone": "B minor",
+  "artistPeople": [
+    "Jaime Garcia Morey"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Augusto Algueró"
+  ],
+  "conductor": "Augusto Algueró",
+  "lyricists": [
+    "Ramón Arcusa"
+  ],
+  "writers": null,
+  "broadcaster": "TVE",
+  "commentators": [
+    "Julio Rico"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

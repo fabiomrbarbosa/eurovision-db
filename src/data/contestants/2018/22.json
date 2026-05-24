@@ -1,0 +1,73 @@
+{
+  "id": 22,
+  "country": "ES",
+  "artist": "Amaia & Alfred",
+  "song": "Tu canción",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/28oMEFgSoyk",
+    "https://www.youtube-nocookie.com/embed/nO4mDiJRH6Q",
+    "https://www.youtube-nocookie.com/embed/g8wx7BRfqSI",
+    "https://www.youtube-nocookie.com/embed/RDm-GGHYfU4",
+    "https://www.youtube-nocookie.com/embed/UD2Wkqr0RD0",
+    "https://www.youtube-nocookie.com/embed/d7mbclbS1Fo",
+    "https://www.youtube-nocookie.com/embed/PKsoEFJueP0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Tu canción",
+      "content": "Nunca llegué a imaginar\nQue viajar a la luna sería real\nLo pones todo al revés\nCuando besas mi frente y descubro por qué\nYa no puedo inventarlo\n\nSiento que bailo por primera vez\nEres el arte que endulza la piel\nDe mi mente viajera que sigue tus pies\nSiento que bailo por primera vez junto a ti\n\nSé que en ti puedo encontrar\nEsa voz que me abriga si el tiempo va mal\nTodo es perfecto si estás\nA mi lado creando una nueva ciudad\n\nSiento que bailo por primera vez\nEres el arte que endulza la piel\nDe mi mente viajera que sigue tus pies\nSiento que bailo por primera vez\n\nYa no puedo inventarlo\nSolo quiero\nTu canción, oh, oh, oh\nOh, oh, oh, oh\n\nSiento que bailo por primera vez\nEres el arte que endulza la piel\nDe mi mente viajera que sigue tus pieѕ\nSiento que bailo por primera vez junto а ti"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Your Song",
+      "content": "I never got to imagine\nThat traveling to the moon would be for real\nYou put everything upside down\nWhen you kiss my forehead and I find out why\nI can no longer.. make it up\n\nI feel like dancing for the first time\nYou are the art that sweetens my skin\nFrom my traveling mind that follows your feet\nI feel like dancing for the first time by your side\n\nI know in you I can find\nThat voice that shelters me when times are bad\nEverything's perfect if you are\nBy my side creating a new city\n\nI feel like dancing for the first time\nYou are the art that sweetens the skin\nFrom my traveling mind that follows your feet\nI feel like dancing for the first time, by your side\n\nI can no longer make it up\nI only want\nYour song, oh, oh, oh\nOh, oh, oh, oh\n\nI feel like dancing for the first time\nYou are the art that sweetens the skin\nFrom my traveling mind that follows your feet\nI feel like dаncing for the first time by your ѕide"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Your Song",
+      "content": "I never thought i could be\nHere in heaven, so close to the sound of my dreams\nYou put my heart upside down\nWhen your beautiful mind turns my life back around\nNow I'm falling… Free, i'm falling\n\nFeels like i'm dancing in bright, shining stars\nPulling you close is like touching the sky\nNow i know how it feels to be loved and alive\nFeels like i'm dancing in bright, shining stars, next to you\n\nYou make me feel nice and warm\nWith your voice and your smile, i could just sing along\nEverything's perfect, it's love\nTake my hand, take me home, and then show me the world\n\nFeels like i'm dancing in bright, shining stars\nPulling you close is like touching the sky\nNow i know how it feels to be loved and alive\nFeels like i'm dancing in bright, shining stars\n\nNow i'm falling… Free, i'm falling\nGetting closer\nTo your song, oh, oh, oh\nOh, oh, oh, oh\n\nFeels like i'm dancing in bright, shining stars\nPulling you close is like touching the sky\nNow i know how it feels to be loved and alive\nFeels like i'm dancing in bright, shining stаrѕ, next to you"
+    }
+  ],
+  "bpm": 121,
+  "tone": "C major",
+  "artistPeople": [
+    "Alfred García Castillo",
+    "Amaia Romero Arbizu"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Tinet Rubira",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Raúl Gómez García",
+    "Sylvia Ruth Santoro López"
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "Julia Varela",
+    "Tony Aguilar"
+  ],
+  "jury": [
+    "Brisa Fenoy",
+    "Conchita",
+    "Miriam",
+    "Rafa Cano",
+    "Roi"
+  ],
+  "spokesperson": "Nieves Álvarez"
+}

@@ -1,0 +1,53 @@
+{
+  "id": 7,
+  "country": "DE",
+  "artist": "Ingrid Peters",
+  "song": "Über die Brücke geh'n",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ecTPDbSEUr8",
+    "https://www.youtube-nocookie.com/embed/iiXWx2LgeCE",
+    "https://www.youtube-nocookie.com/embed/XqcZC-3ghwo"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Über die Brücke geh'n",
+      "content": "Worte genug, komm, wir gehen ans Licht\nDort wird man uns sehn, nein, Angst hab ich nicht\nDenn deine Hand gibt mir ein Gefühl von Vertraun\nLass uns beginnen und eine Brücke baun, whoa…\n\nÜber die Brücke gehn, andere Menschen verstehn\nAndere Lieder, andere Länder der Erde\nÜber die Brücke gehn, hinter die Mauer zu sehn\nGute Gedanken schmelzen das Eis in den Herzen unsrer Welt\n\nWir sind zu Gast nur für einige Zeit\nAuf diesem Stern voll Licht und Dunkelheit\nWas daraus wird liegt auch mit an dir und an mir\nÖffne dein Herz und dann öffnet sich die Tür, whoa…\n\nÜber die Brücke gehn, andere Menschen verstehn\nAndere Lieder, andere Länder der Erde\nÜber die Brücke gehn, hinter die Mauer zu sehn\nGute Gedanken schmelzen das Eis in den Herzen unsrer Welt\n\nÜber die Brücke gehn, heller die Sonne zu sehn\nHeller den Morgen, heller den Glanz unsrer Sterne\nÜber die Brücke gehn, heller die Liebe zu sehn\nGute Gedanken schmelzen dаs Eis in den Herzen unsrer Welt\n\nUnѕrer einzigen Welt"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Crossing the bridge",
+      "content": "Enough words, come on, we go into the light\nThere we will be seen, no, I'm not afraid\nBecause your hand gives me a feeling of trust\nLet's begin to build a bridge, whoa….\n\nCrossing the bridge, understanding other people\nOther songs, other countries in the world\nCrossing the bridge, looking behind the wall\nGood thoughts melt the ice in the hearts of our world\n\nWe are only guests for a little time\nOn this star filled with light and darkness\nWhat becomes of it also depends on you and me\nOpen your heart and then the door will open, whoa…\n\nCrossing the bridge, understanding other people\nOther songs, other countries in the world\nCrossing the bridge, looking behind the wall\nGood thoughts melt the ice in the hearts of our world\n\nCrossing the bridge, to see the brighter sun\nThe brighter morning, the brighter shine of our star\nCrossing the bridge, to see love grow brighter\nGood thoughts melt the ice in the heаrtѕ of our world\n\nOur unique world"
+    }
+  ],
+  "bpm": 138,
+  "tone": "A major",
+  "artistPeople": [
+    "Ingrid Peters"
+  ],
+  "backings": [
+    "Klaus Pröpper"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Hans Blum",
+  "lyricists": null,
+  "writers": [
+    "Hans Blum"
+  ],
+  "broadcaster": "ARD",
+  "commentators": [
+    "Ado Schlier"
+  ],
+  "jury": null,
+  "spokesperson": "Christoph Deumling"
+}

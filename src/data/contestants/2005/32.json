@@ -1,0 +1,53 @@
+{
+  "id": 32,
+  "country": "BG",
+  "artist": "Kaffe",
+  "song": "Lorraine",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/l6rnAKD1QuU",
+    "https://www.youtube-nocookie.com/embed/HPvW8FU6CiQ",
+    "https://www.youtube-nocookie.com/embed/etHFZ-xUso4",
+    "https://www.youtube-nocookie.com/embed/6MNzwC6KaMQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Lorraine",
+      "content": "Standing here alone again\nWaiting for the moment that we shared, my love\nNo matter how many lies you say\nNo matter how many miles you walk away from me\nLorraine\n\nHere I am, all alone\nWaiting for the moment again\nBut I know that you are gone\n\nYou got to know that harder the rain\nSweeter the pain\nI can still remember Lorraine in the rain\n\nCalling you again and again\nI'll wait for your name\nI can still remember Lorraine in the rain\n\nWhispering your name again\nSinging prayers among the stars\nFor you, my sweet Lorraine\nYou've always given me some great times\nTry to imagine how we fly so far away from here\nMy Lorraine\n\nHere I am, all alone\nWaiting for the moment we shared\nBut I know that you are gone\n\nYou got to know that harder the rain\nSweeter the pain\nI can still remember Lorraine in the rain\n\nCalling you again and again\nI'll wait for your name\nI can still remember Lorraine in the rain\n\nI can still remember Lorraine\nI can still remember Lorraine in the rain\n\nYou got to know that harder the rain\nSweeter the pain (My sweet Lorraine)\nI can still remember Lorraine in the rain\n(Remember Lorraine in the rain)\n\nCalling you again and again\n(Again and again and again)\nI'll wait for your name (My sweet Lorraine)\nI can still remember Lorraine in the rain\n\n(I will fly so far away from here, my love)\nI can ѕtill remember Lorraine in the rаin"
+    }
+  ],
+  "bpm": 148,
+  "tone": "G major",
+  "artistPeople": [
+    "Orlin Orlinov Pavlov"
+  ],
+  "backings": [
+    "Georgi Yanev",
+    "Martin Tashev",
+    "Milen Kukоshаrоv",
+    "Valeri Tsenkov",
+    "Vesselin Vesselinov-Eko"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Vesselin Vesselinov-Eko"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Orlin Pavlov",
+    "Vesselin Vesselinov-Eko"
+  ],
+  "writers": null,
+  "broadcaster": "BNT",
+  "commentators": [
+    "Elena Rosberg",
+    "Georgi Kushvaliev"
+  ],
+  "jury": null,
+  "spokesperson": "Evgenia Atanasova"
+}

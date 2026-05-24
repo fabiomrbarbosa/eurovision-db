@@ -1,0 +1,61 @@
+{
+  "id": 38,
+  "country": "CH",
+  "artist": "Gjon's Tears",
+  "song": "Répondez-moi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/O9GAfFHZE-E",
+    "https://www.youtube-nocookie.com/embed/VXMp3V2cI2Q",
+    "https://www.youtube-nocookie.com/embed/GQxyvIHq0WM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Répondez-moi",
+      "content": "Pourquoi la pluie\nEt les nuages aussi\nEt les nuages aussi\nPourquoi le soir\nTu t'endors dans mon lit\nTu t'endors dans mon lit\nPourquoi on dort\nSi loin de la famille\nDans un autre pays\nPourquoi la mort\nVient après la vie\nVient après la vie\n\nJ'donne ma langue au chat\nRépondez-moi\nPas de langue de bois\nRépondez-moi\n\nPourquoi on court\nSans jamais s'arrêter\nSans jamais s'arrêter\nPourquoi on prie\nChacun de son côté\nChacun de son côté\nPourquoi je suis\nIci étranger\nLà-bas étranger\nPourquoi mon fils\nGrandira sans été\nGrandira sans été\n\nJ'donne ma langue au chat\nRépondez-moi\nPas de langue de bois\nRépondez-moi\n\nJ'donne ma langue au chat\nRépondez…\n\nJ'donne ma langue au chat\nRépondez-moi\nPas de lаngue de boiѕ\nRépondez-moi"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Answer Me",
+      "content": "Why the rain\nAnd the clouds, too\nAnd the clouds, too\nWhy at night\nYou fall asleep in my bed\nYou fall asleep in my bed\nWhy do we sleep\nSo far away from the family\nIn another country\nWhy does death\nCome after life\nCome after life\n\nI won't keep guessing\nAnswer me\nNo waffling\nAnswer me\n\nWhy do we run\nWithout ever stopping\nWithout ever stopping\nWhy do we pray\nAll in our own ways\nAll in our own ways\nWhy am I\nA stranger here\nA stranger over there\nWhy will my son\nGrow up without summer\nGrow up without summer\n\nI won't keep guessing\nAnswer me\nNo waffling\nAnswer me\n\nI won't keep guessing\nAnswer…\n\nI won't keep guessing\nAnswer me\nNo wаffling\nAnѕwer me"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Vastaa minulle",
+      "content": "Miksi sade\nJa pilvet myös\nJa pilvet myös\nMiksi yöllä\nNukahdat sänkyyni\nNukahdat sänkyyni\nMiksi nukumme\nNiin kaukana perheestä\nToisessa maassa\nMiksi kuolema\nTulee elämän jälkeen\nTulee elämän jälkeen\n\nEn jatka arvailemista\nVastaa minulle\nEi höpötystä\nVastaa minulle\n\nMiksi juoksemme\nIlman pysähtymistä\nIlman pysähtymistä\nMiksi rukoilemme\nKaikki omilla tavoillamme\nKaikki omilla tavoillamme\nMiksi olen\nMuukalainen täällä\nMuukalainen tuolla\nMiksi poikani\nKasvaa ilman kesää\nKasvaa ilman kesää\n\nEn jatka arvailemista\nVastaa minulle\nEi höpötystä\nVastaa minulle\n\nEn jatka arvailemista\nVastaa…\n\nEn jatka arvailemista\nVastaa minulle\nEi höpötystä\nVaѕtaа minulle"
+    }
+  ],
+  "bpm": 104,
+  "tone": "Eb minor",
+  "artistPeople": [
+    "Gjon Muharremaj"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Alizé Oswald",
+    "Gjon's Tears",
+    "Jeroen Swinnen",
+    "Xavier Michel"
+  ],
+  "broadcaster": "SSR SRG",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

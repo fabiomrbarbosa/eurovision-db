@@ -1,0 +1,53 @@
+{
+  "id": 5,
+  "country": "ES",
+  "artist": "Nina",
+  "song": "Nacida para amar",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/MUd0TxLz7zg",
+    "https://www.youtube-nocookie.com/embed/Jv2nPdadU14",
+    "https://www.youtube-nocookie.com/embed/pF-V6TTSpqI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Nacida para amar",
+      "content": "Cállate, bésame\nHazme creer que todo sigue igual\nCierra los ojos, por favor\nDame una noche más\n\nCállate, ámame\nDame de plazo hasta la aurora\nSi no te puedo hacer feliz\nNo me lo digas ahora\n\nNacida para amar\nQuisiera unirme a tu camino\nY caminar por tu destino\nBesar tus huellas\nAmar tu signo\nNacida para amar\n\nYa lo sé, es tarde ya\nGracias por este cuerpo a cuerpo\nSi no te vuelvo a ver, mi amor\nGracias por todos tus besos\n\nNacida para amar\nQuisiera unirme a tu camino\nY caminar por tu destino\nBesar tus huellas\nAmar tu signo\nNacida para amar\n\nNacida para amar\nLlevo en mi piel la primavera\nY en mis caricias luna llena\nY mucho más amor del que quiѕiera\nNacida para amаr"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Born to love",
+      "content": "Be silent, kiss me\nMake me believe that everything remains the same\nClose your eyes, please\nGive me one more night\n\nBe silent, love me\nGive me time until dawn\nIf I can't make you happy\nDon't tell me now\n\nBorn to love\nI'd like to join your way\nAnd to walk to your destiny\nTo kiss your footprints\nTo love your sign\nBorn to love\n\nI already know, it's already late\nThank you for this body-to-body\nIf I don't see you again, my love\nThank you for all your kisses\n\nBorn to love\nI'd like to join your way\nAnd to walk to your destiny\nTo kiss your footprints\nTo love your sign\nBorn to love\n\nBorn to love\nI'm carrying spring in my skin\nAnd full moon in my caresseѕ\nAnd much more love than I wаnted\nBorn to love"
+    }
+  ],
+  "bpm": 153,
+  "tone": "C major",
+  "artistPeople": [
+    "Anna María Agustí Flores"
+  ],
+  "backings": [
+    "Alejandro Gutiérrez"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Juan Carlos Calderón López De Arroyabe",
+  "lyricists": null,
+  "writers": [
+    "Juan Carlos Calderón"
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "Tomás Fernando Flores"
+  ],
+  "jury": null,
+  "spokesperson": "Matilde Jarrín"
+}

@@ -1,0 +1,49 @@
+{
+  "id": 38,
+  "country": "MT",
+  "artist": "Olivia Lewis",
+  "song": "Vertigo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vhy-c5XMFks",
+    "https://www.youtube-nocookie.com/embed/YoZYvkASMFI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Vertigo",
+      "content": "You're spinnin' me round and you're holdin' me down\nLovin' you gives me vertigo\nI'm losin' my ground, givin' in to your heart\nKissin' you gives me vertigo\n\nAnd I'm lost, then I'm found\nAnd I run, then I hide\nAnd I turn, you're not there\nI say yes, you say no\nLovin' you gives me vertigo\n\nAnd I give, but you take\nI made one big mistake\nGave you all, A to Z\nThen you came, now you go\nLovin' you gives me vertigo\n\nYou're liftin' me high, then you're takin' me low\nIt's feelin' like I'm getting vertigo\nYou colour me blue, turn my passion to red\nIt's feelin' like I've become indigo\n\nAnd I give, but you take\nI made one big mistake\nGave you all, A to Z\nThen you came, now you go\nLovin' you gives me vertigo\n\nAm I crazy? Could it be maybe\nSolo is the way to go?\n\n(And I'm) lost, then I'm found\nAnd I run, then I hide\nAnd I turn, you're not there\nI say yes, you say no\nLovin' you gives me vertigo\n\nAnd I give, but you take\nI made one big mistake\nGave you all, A to Z\nThen you cаme, now you go\nLovin' you giveѕ me vertigo"
+    }
+  ],
+  "bpm": 137,
+  "tone": "E minor",
+  "artistPeople": [
+    "Olivia Lewis"
+  ],
+  "backings": [
+    "Jaana Vähämäki",
+    "Jes Sciberras",
+    "Johanna Beijbom",
+    "Joseph Chetcuti",
+    "Lisette Vares Uhlmann"
+  ],
+  "dancers": null,
+  "stageDirector": "Anna Christodoulidou",
+  "composers": [
+    "Philip Vella"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Gerard James Borg"
+  ],
+  "writers": null,
+  "broadcaster": "PBS",
+  "commentators": [
+    "Antonia Micallef"
+  ],
+  "jury": null,
+  "spokesperson": "Mireille Bonello"
+}

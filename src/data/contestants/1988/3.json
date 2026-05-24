@@ -1,0 +1,73 @@
+{
+  "id": 3,
+  "country": "LU",
+  "artist": "Lara Fabian",
+  "song": "Croire",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/fk1OKOuTKy8",
+    "https://www.youtube-nocookie.com/embed/8q78UrUSCMM",
+    "https://www.youtube-nocookie.com/embed/eEOaNiS9Pdo",
+    "https://www.youtube-nocookie.com/embed/DkvfurCqnd4",
+    "https://www.youtube-nocookie.com/embed/Z5OxvU97UJI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Croire",
+      "content": "Non, j'veux pas chanter sur des mots qui pleurent\nComme le cri d'un violon trop noir\nNous, on voit la vie avec les yeux du cœur\nRien nous empêchera d'y croire\n\nCroire au nouveau monde qu'on a dans la tête\nCroire en nous pour changer demain\nCroire même aux mensonges si ça les arrête\nCroire aux lignes de nos mains\n\nCroire au ciel inondé d'oiseaux\nCroire encore à l'espace de tes bras\nCroire à la couleur de ta peau\nCroire qu'on marchera plus au pas\n\nCroire au temps quand on a vingt ans\nCroire qu'on peut construire sur un sol volcan\nCroire qu'on peut crier au fou\n\nQuand on a l'аmour en nouѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Believing",
+      "content": "No, I don't want to sing on crying lyrics\nSuch as the sound of a too dark violin\nWe, we see life with the eyes of the heart\nNothing can keep us from believing in it\n\nBelieving in the new world we have in our heads\nBelieving in us in order to change tomorrow\nEven believing in lies if this can stop them\nBelieving in the lines in our hands\n\nBelieving in the sky filled up with birds\nStill believing in the space between your arms\nBelieving in the colour of your skin\nBelieving that we won't march in step anymore\n\nBelieving that we're twenty\nBelieving that we can build a volcanic ground\nBelieving that we can scream\n\nWhen we hаve love within uѕ"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Glaub",
+      "content": "Komm', ich geh' mit dir durch den Sommerwind\nWeißt du noch wie ein Vogel singt?\nAuch wenn diesem Morgen die Hoffnung fehlt\nGlaub' an eine gute Welt\n\nGlaub' an eine Macht, die dein Leben hält\nGlaub' an den, der die Sterne zählt\nGlaub' an diese Wahrheit, sag' nicht vielleicht\nGlauben war noch niemals leicht\n\nGlaub' an die Menschen, die mit dir geh'n\nIch will dir helfen, die Sonne zu seh'n\nGlaub' daran, dass dich jemand liebt\nGlaub', dass es noch Wunder gibt\n\nGlaub' an den Fremden vor deiner Tür\nGlaub' an einen Frieden ganz tief in dir\nGlaub' an dich und glaub' an mich\n\nDаnn ѕing' ich mein Lied für dich"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Trust",
+      "content": "No, there is no time\nTo just moan and cry\nFor you feel the world's so unjust\nTake the time to open your hearts and eyes\nKnow in mankind you can trust\n\nTrust in those who strive for a brand new day\nTrust in me come on take my hand\nTrust with harmony\nThat we change bad ways\nTrust in the goodness of man\n\nTrust like the new bird\nThat takes to flight\nTrust in the child daily struggling for life\nTrust if lost, you will find his light\nTrust the rainbow's there insight\n\nTrust like you did when you were so young\nTrust that with real love\nWe can build as one\nTrust stand up, say it with song\n\nThen peаce will shine like the ѕun"
+    }
+  ],
+  "bpm": 89,
+  "tone": "F# major",
+  "artistPeople": [
+    "Lara Crokaert"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jacques Cardona"
+  ],
+  "conductor": "Régis Dupré",
+  "lyricists": [
+    "Alain Garcia"
+  ],
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": [
+    "Valérie Sarn"
+  ],
+  "jury": null,
+  "spokesperson": "Jean-Luc Bertrand"
+}

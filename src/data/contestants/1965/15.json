@@ -1,0 +1,61 @@
+{
+  "id": 15,
+  "country": "DE",
+  "artist": "Ulla Wiesner",
+  "song": "Paradies, wo bist du",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/O6WrGoP1rpU",
+    "https://www.youtube-nocookie.com/embed/2mLqEPpfTgM",
+    "https://www.youtube-nocookie.com/embed/HRA0JApCcWo"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Paradies, wo bist du",
+      "content": "Erst ein Blick, dann ein Wort\nDann ein Brief, dann ein 'Du'\nDann ein Kuss, dann ein Herz\nWo bist du, Paradies?\nHab ich dich gefunden?\n\nDann der Tag, dann das Licht\nDann der Schlag ins Gesicht\nAlles aus und vorbei\nOh Paradies, wo bist du?\n\nBin ich so alleine\nIch steh da und weine\nWie ein kleines Mädchen verirrt in der Stadt\n\nDann Musik, dann ein Duft\nSonnenschein in der Luft\nBlumen blühn, traumhaft schön\nOh Paradies, wo bist du?\n\nDa da da… ta da da da da…\nDa da du ya da da da… ta da da da da da…\nDi di du di… di di du da di di…\nDa di day…\n\nBin ich so alleine\nIch steh da und weine\nWie ein kleines Mädchen verirrt in der Stadt\n\nDann ein Mensch und ein Wort\nDann ein Brief und ein 'Du'\nDann ein Kuss und ein Herz\nOh Paradies, oh Paradies\nOh Parаdies, wo biѕt du?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": null,
+      "title": "Παράδεισε, πού είσαι;",
+      "content": "Πρώτα μια ματιά, τότε μια λέξη\nΤότε ένα γράμμα, τότε ένα \"Εσύ\"\nΤότε ένα φιλί, τότε μία καρδιά\nΠού είσαι, παράδεισε;\nΣ' έχω βρει;\n\nΤότε η μέρα, τότε το φως\nΤότε ένα χαστούκι στο πρόσωπο\nΌλα τελειωμένα και έξω\nΩ παράδεισε, που είσαι;\n\nΕίμαι τόσο μόνη\nΣτέκομαι εκεί και κλαίω\nΣαν ένα μικρό κορίτσι, χαμένο στη πόλη\n\nΤότε μουσική, τότε μια μυρωδιά\nΛιακάδα στον αέρα\nΤα λουλούδια ανθίζουν, απίστευτα όμορφα\nΩ παράδεισε, πού είσαι;\n\nΤα ντα ντα… τα ντα ντα ντα ντα…\nΝτα ντα ντου για ντα ντα να… τα ντα ντα ντα ντα ντα…\nΝτι ντι ντου ντι… ντι ντι ντου ντα ντι ντι…\nΝτα ντι ντέι…\n\nΕίμαι τόσο μόνη\nΣτέκομαι εκεί και κλαίω\nΣαν ένα μικρό κορίτσι, χαμένο στη πόλη\n\nΤότε ένας άνδρας και μία λέξη\nΤότε ένα γράμμα και ένα \"Εσύ\"\nΤότε ένα φιλί και μία καρδιά\nΩ παράδεισε, ω παράδεισε\nΩ παράδεισε, πού είσαι;"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Paradise, where are you",
+      "content": "First a look, then a word\nThen a letter, then a first-name basis\nThen a kiss, then a heart\nWhere are you, paradise?\nHave I found you?\n\nThen the day, then the light\nThen the slap in the face\nEverything over and out\nOh paradise, where are you?\n\nI'm so alone\nStanding there and crying\nLike a little girl, lost in the city\n\nThen music, then a scent\nSunshine in the air\nFlowers blooming, fabulously beautiful\nOh paradise, where are you?\n\nDa da da… ta da da da da…\nDa da du ya da da da… ta da da da da da…\nDi di du di… di di du da di di…\nDa di day…\n\nI'm so alone\nStanding there and crying\nLike a little girl, lost in the city\n\nThen a person and a word\nAnd a letter and a first-name basis\nThen a kiss and a heart\nOh paradise, oh paradise\nOh paradiѕe, where аre you?"
+    }
+  ],
+  "bpm": 110,
+  "tone": "C major",
+  "artistPeople": [
+    "Ulla Wiesner"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Alfred Hause",
+  "lyricists": null,
+  "writers": [
+    "Barbara Kist",
+    "Hans Blum"
+  ],
+  "broadcaster": "ARD",
+  "commentators": [
+    "Hermann Rockmann"
+  ],
+  "jury": null,
+  "spokesperson": "Lia Wöhr"
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12,
+  "country": "BE",
+  "artist": "Emly Starr",
+  "song": "Samson",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/SODUziCgyLY",
+    "https://www.youtube-nocookie.com/embed/Sj6Vo1yB5FQ",
+    "https://www.youtube-nocookie.com/embed/7DIMjHuEB9c",
+    "https://www.youtube-nocookie.com/embed/fBHvt7eaK2M",
+    "https://www.youtube-nocookie.com/embed/9QRSoBIYo3U"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "Samson",
+      "content": "Praat veel van veroveringen\nVan liefde, maar dan zonder trouw\nJe weet wel wat je moet verzinnen\nVoor iedere mooie vrouw\n\nOoh... playboy, 'k zou je graag vergeten\nOoh ooh... niemand kan je liefde geven\n\nSamson, honderden verhalen\nZonder een Delilah\nSamson, vergeet je wilde haren\nZoek je een Delilah\nSamson\n\nJe geeft meer om je rare vrienden\nWaarmee je luchtkastelen bouwt\nBij vrienden wil je vreugde vinden\nAl hou ik echt van jou\n\nOoh... playboy, ik wil met je leven\nOoh ooh... niemand kan je liefde geven\n\nSamson, honderden verhalen\nZonder een Delilah\nSamson, vergeet je wilde haren\nZoek je een Delilah\nJe liefde delen is te veel\n\nIk ben je Delilah (Als jij dat wil)\n'k Verlang zo naar jou\nDe ware Delilah (Als jij dat wil)\nJe enige vrouw\n\nOoh... playboy, ik wil met je leven\nOoh ooh... geen ander kan je liefde geven\n\nSamson, honderden verhalen\nZonder een Delilah\nSamson, 'k neem je wilde haren graag\nGraag met me mee\n\nSamson, I love you\nSаmѕon"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Samson",
+      "content": "Talks a lot about conquests\nAbout disloyal love\nYou know what to concoct\nFor every beautiful woman\n\nOoh... playboy, I'd rather forget you\nOoh ooh... no one can give you love\n\nSamson, hundreds of stories\nWithout a Delilah\nSamson, forget your wild hairs\nFind yourself a Delilah\nSamson\n\nYou care more about your strange friends\nWith whom you build castles in the air\nWith friends you want to find joy\nThough I really love you\n\nOoh... playboy, I want to live with you\nOoh ooh... no one can give you love\n\nSamson, hundreds of stories\nWithout a Delilah\nSamson, forget your wild hairs\nFind yourself a Delilah\nSharing your love is too much\n\nI'm your Delilah (If you want to)\nI'm longing for you\nThe true Delilah (If you want to)\nYour only wife\n\nOoh... playboy, I want to live with you\nOoh ooh... no one else can give you love\n\nSamson, hundreds of stories\nWithout a Delilah\nSamson, I take your wild hairs gladly\nGladly along with me\n\nSamson, I love you \nSаmѕon"
+    }
+  ],
+  "bpm": 139,
+  "tone": "C minor",
+  "artistPeople": [
+    "Marie-Christine Mareels"
+  ],
+  "backings": [
+    "Bob 'Bobott' Baelemans",
+    "Fred 'Bekky' Beekmans",
+    "Nancy Dee"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Giuseppe Marchese",
+    "Kick Dandy"
+  ],
+  "conductor": "Giuseppe Marchese",
+  "lyricists": [
+    "Kick Dandy",
+    "Penny Els"
+  ],
+  "writers": null,
+  "broadcaster": "BRT",
+  "commentators": [
+    "Jacques Mercier",
+    "Luc Appermont"
+  ],
+  "jury": null,
+  "spokesperson": "Walter De Meyere"
+}

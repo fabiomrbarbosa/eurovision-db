@@ -1,0 +1,63 @@
+{
+  "id": 10,
+  "country": "GB",
+  "artist": "Blue",
+  "song": "I Can",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/y1dXMWWq6y8",
+    "https://www.youtube-nocookie.com/embed/mRU31ieUhJM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I Can",
+      "content": "(Ge-ge-ge-get back up again\nGe-ge-ge-get back up again)\n\nYou were the eyes in the face of fortune\nI lost my way and I couldn't find you\nOh, oh no\n\nWe're not the first ones to be divided\nWon't be the last to be reunited\nNo, oh no\n\nIt's like rain fallin' down\nDrops of pain hit the ground\nI can't speak, there's no sound when you're gone\n(Yeah, yeah, come on)\n\nI can, I will\nI know I can untie these hands\nI can, I will\nI know I can untie these hands\n(Ge-ge-ge-get back up again)\n\nI can, oh\nI can\n(Get back up again)\n\nI've never lost anything quite like this\nNo second chances if I don't find it\nNo, oh no, no\n\nYou closed the door and you kept on walkin'\nLeft me behind and there's no more talkin'\nNo, oh no\n\nIt's like rain fallin' down\nDrops of pain hit the ground\nI can't speak, there's no sound when you're gone\n\nI can, I will\nI know I can untie these hands\n(Ge-ge-ge-get back up again )\n\nI can, I will\nI know I can untie these hands\n(Ge-ge-ge-get back up again)\n(Come on)\n\nI can, oh\nI can\n(Get back up again)\n\nWe're not the first ones to be divided, oh\nWon't be the last to be reunited, no\n(Come again, one more time)\nWhen you're gone\n(Come on)\n\nI can, I will\nI know I can untie these hands\n(Ge-ge-ge-get back up again)\nI can, I will\nI know I can untie these handѕ\n(Ge-ge-ge-get back up again)\n\nI can, I can\n(Ge-ge-ge-get back up agаin)"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Yo puedo",
+      "content": "(Vu-vu-vu-vuelve a subir de nuevo)\n(Vu-vu-vu-vuelve a subir de nuevo)\n\nTú fuiste los ojos en la cara de la fortuna\nHe perdido mi camino y no pude encontrarte\nOh, oh no\n\nNo somos los primeros en ser divididos\nNo somos los últimos en ser reunidos\nNo, oh no\n\nEs como la lluvia cayéndose\nGotas del dolor golpeándose\nNo puedo hablar, no hay sonido cuando tú no estás\n(Sí, sí, vamos)\n\nYo puedo, yo haré\nSé que yo puedo desatar esas manos\nYo puedo, yo haré\nSé que yo puedo desatar esas manos\n(Vu-vu-vu-vuelve a subir de nuevo)\n\nYo puedo, oh\nYo puedo\n(Vuelve a subir de nuevo)\n\nNunca he perdido algo como así\nNinguna oportunidad si yo no encuentro\nNo, oh no, no\n\nHas cerrado la puerta y seguías caminando\nDejándome solo y no hay más charlas\nNo, oh no\n\nEs como la lluvia cayéndose\nGotas del dolor golpeándose\nNo puedo hablar, no hay sonido cuando tú no estás\n\nYo puedo, yo haré\nSé que yo puedo desatar esas manos\n(Vu-vu-vu-vuelve a subir de nuevo)\n\nYo puedo, yo haré\nSé que yo puedo desatar esas manos\n(Vu-vu-vu-vuelve a subir de nuevo)\n(Vamos)\n\nYo puedo, oh\nYo puedo\n(Vuelve a subir de nuevo)\n\nNo somos los primeros en ser divididos, oh\nNo somos los últimos en ser reunidos, no\n(Vamos, una vez más)\nCuando tú no estás\n(Vamos)\n\nYo puedo, yo haré\nSé que yo puedo desatar esas manos\n(Vu-vu-vu-vuelve a subir de nuevo)\nYo puedo, yo haré\nSé que yo puedo desatar esas manos\n(Vu-vu-vu-vuelve a subir de nuevo)\n\nYo puedo, yo puedo\n(Vu-vu-vu-vuelve а ѕubir de nuevo)"
+    }
+  ],
+  "bpm": 93,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Antony Costa",
+    "Duncan James",
+    "Lee Ryan",
+    "Simon Webbe"
+  ],
+  "backings": [
+    "Bryan Chambers",
+    "Daniel Thomas"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Ben Collier",
+    "Ciaron Bell",
+    "Duncan James",
+    "Ian Hope",
+    "Lee Ryan",
+    "Liam Keenan"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Graham Norton",
+    "Sara Cox",
+    "Scott Mills"
+  ],
+  "jury": null,
+  "spokesperson": "Alex Jones"
+}

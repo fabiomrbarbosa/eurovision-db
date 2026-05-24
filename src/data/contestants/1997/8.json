@@ -1,0 +1,46 @@
+{
+  "id": 8,
+  "country": "MT",
+  "artist": "Debbie Scerri",
+  "song": "Let Me Fly",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/VIYs6dye8oA",
+    "https://www.youtube-nocookie.com/embed/BA8o4HUi0VQ",
+    "https://www.youtube-nocookie.com/embed/W-ZN1fssKuQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Let Me Fly",
+      "content": "Each time I hear the music play\nIt makes me feel that way\nThe memories we once shared\nCome back inside me\n\nAnd when I hear that same old song\nThroughout the whole night long\nThe pains that we've been through\nAll fade away\n\nLet me fly and I will reach way up high\nI will climb the steps that lead to the sky\nWhere the clouds caress your face with my tears\nLet me try - I can fly\n\nLet me hear the songs that I never played\nI will find the keys that open the gate\nOf my dreams, which light the flame in my life\nIf they die, I can't fly\n\nHahah, hahahah\nHahah, hahah, hahah\n\nAnd when the music stops to play\nThe thrill soon fades away\nDark shadows from the past\nWill haunt my day\n\nLet me fly and I will reach way up high\nI will climb the steps that lead to the sky\nWhere the clouds caress your face with my tears\nLet me try - I can fly\n\nLet me hear the songs that I never played\nI will find the keys that open the gate\nOf my dreamѕ, which light the flame in my life\nIf they die, I cаn't fly\n\nTill I die, let me fly"
+    }
+  ],
+  "bpm": 147,
+  "tone": "E minor",
+  "artistPeople": [
+    "Debbie Scerri"
+  ],
+  "backings": [
+    "Donata Mattei",
+    "Philip Vella",
+    "Renzo Spiteri"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Ray Agius",
+  "lyricists": null,
+  "writers": [
+    "Ray Agius"
+  ],
+  "broadcaster": "PBS",
+  "commentators": [
+    "Gino Cauchi"
+  ],
+  "jury": null,
+  "spokesperson": "Anna Bonanno"
+}

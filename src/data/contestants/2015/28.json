@@ -1,0 +1,52 @@
+{
+  "id": 28,
+  "country": "MT",
+  "artist": "Amber",
+  "song": "Warrior",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/SaJxu3vorLc",
+    "https://www.youtube-nocookie.com/embed/wevxW3l_tkg",
+    "https://www.youtube-nocookie.com/embed/F4KEgc5uduM",
+    "https://www.youtube-nocookie.com/embed/N4Qtr5iNIeU",
+    "https://www.youtube-nocookie.com/embed/he2_tIyUxHg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Warrior",
+      "content": "We suffer silently\nAlways fighting to break free\n\nWe were living in a shadow\nWe were too scared to let go\nWouldn't accept defeat\n\nWhen by losing we were winning\nWe have to be courageous\nTo be able to get through this\nAnd then it hits\n\nBreak through the silence\nThe noise is louder than its ever been\nCreate something timeless\nNever look back\nThe past is the past\nI had no choice but to become a\nWarrior\nI had to conquer\nI did not break, I left my faith in hope\n\nWe are not the enemy\nWe're just tired of suffering\n\nWe broke through the shadows\nWe finally let go\nIt was not defeat\nIt was us truly winning\nWe were courageous\nAnd we got through this\nAnd then it hits\n\nBreak through the silence\nThe noise is louder than its ever been\nCreate something timeless\nNever look back\nThe past is the paѕt\nI had no choice but to become a\nWarrior\nI had to conquer\nI did not break, I left my faith in hope\n\nI'm a warrior, I will conquer\nI'm a warrior, I will conquer\nI'm a wаrrior"
+    }
+  ],
+  "bpm": 152,
+  "tone": "G major",
+  "artistPeople": [
+    "Amber Bondin"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Elton Zarb"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Matt Mercieca"
+  ],
+  "writers": null,
+  "broadcaster": "PBS",
+  "commentators": [
+    "Corazon Mizzi"
+  ],
+  "jury": [
+    "Dominic Cini",
+    "Dorothy Anne Bezzina",
+    "Howard Keith Debono",
+    "Joseph Chetcuti",
+    "Pierre Cordina"
+  ],
+  "spokesperson": "Julie Zahra"
+}

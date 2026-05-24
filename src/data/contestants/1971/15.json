@@ -1,0 +1,62 @@
+{
+  "id": 15,
+  "country": "AT",
+  "artist": "Marianne Mendt",
+  "song": "Musik",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/WeO5piPgTes",
+    "https://www.youtube-nocookie.com/embed/Ln2dwJ0g18c",
+    "https://www.youtube-nocookie.com/embed/N43Szx3h1Yc",
+    "https://www.youtube-nocookie.com/embed/kwWHUQM9Odo"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "viennese"
+      ],
+      "displayedLanguages": null,
+      "title": "Musik",
+      "content": "Überall, wo ma hinschaut\nMachen die Leit Musik\nOft wird's verkauft als des, was gar net is\n\nDann aber wird's schee einpackt\nMit Liachter obendrauf\nUnd wird verschickt als Flucht ins Paradies\n\nNet des Liacht, net der Glanz\nNet die Show soll die Musik sein\nWie da Wind, wia a Traum\nSoll's die Sprach der Phantasie und Freiheit sein\n\nDie Sprach in der ma reden\nDie reicht no lang net aus\nDaß ma an andern sagen ka, was ma gespiat\n\nDrum ham ma die Musik gemacht\nWas anders wird's nie sei\nWas rundherum ist, macht mi no verwirrt\n\nNet des Liacht, net der Glanz\nNet die Show soll die Musik sein\nWie da Wind, wia a Traum\nSoll's die Sprach der Phantasie und Freiheit sein\n\nNet des Liacht, net der Glanz\nNet die Show soll die Musik sein\nWie da Wind, wia a Traum\nSoll's die Sprach der Phantаsie und Freiheit ѕein"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Music",
+      "content": "Everywhere, where you look around\nPeople make music\nOften it's sold as something what it really isn't\n\nThen it's packed nicely\nWith lights on the top\nAnd it's sent as an escape into paradise\n\nNot the light, not the glamour\nNot the show is what music is about\nLike the wind, like a dream\nIt has to be the language of fantasy and freedom\n\nThe language that we speak\nIs not enough at all\nYou have to be able to tell someone what you feel\n\nThat's why music is made\nIt won't be different\nWhat's around it, only confuses me\n\nNot the light, not the glamour\nNot the show is what music is about\nLike the wind, like a dream\nIt has to be the language of fantasy and freedom\n\nNot the light, not the glamour\nNot the show is what music is about\nLike the wind, like a dream\nIt has to be the language of fantaѕy аnd freedom"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Musik",
+      "content": "Überall, wo man hinschaut\nMachen die Leute Musik\nOft wird es verkauft als das, was es gar nicht ist\n\nDann aber wird es schön verpackt\nMit Lichtern oben drauf\nUnd wird es verschickt als Flucht ins Paradies\n\nNicht das Licht, nicht der Glanz\nNicht die Show soll die Musik sein\nWie der Wind, wie ein Traum\nSoll es die Sprache der Phantasie und Freiheit sein\n\nDie Sprache in der man reden\nDie reicht noch lange nicht aus\nDaß man am anderen sagen kan, was man spürt\n\nDarum hat man die Musik gemacht\nAnders wird es nie sein\nWas drumherum ist, macht mich nur verwirrt\n\nNicht das Licht, nicht der Glanz\nNicht die Show soll die Musik sein\nWie der Wind, wie ein Traum\nSoll es die Sprache der Phantasie und Freiheit sein\n\nNicht das Licht, nicht der Glanz\nNicht die Show soll die Musik sein\nWie der Wind, wie ein Traum\nSoll es die Sprache der Phantаsie und Freiheit ѕein"
+    }
+  ],
+  "bpm": 126,
+  "tone": "E minor",
+  "artistPeople": [
+    "Marianne Mendt"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Robert Opratko",
+  "lyricists": null,
+  "writers": [
+    "Manuel Rigoni",
+    "Richard Schönherz"
+  ],
+  "broadcaster": "ORF",
+  "commentators": [
+    "Ernst Grissemann"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

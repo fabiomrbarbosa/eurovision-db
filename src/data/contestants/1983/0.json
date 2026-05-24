@@ -1,0 +1,67 @@
+{
+  "id": 0,
+  "country": "LU",
+  "artist": "Corinne Hermès",
+  "song": "Si la vie est cadeau",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/jnPs07g58Ms",
+    "https://www.youtube-nocookie.com/embed/M4tl8De0BhA",
+    "https://www.youtube-nocookie.com/embed/CDuytijQiaU",
+    "https://www.youtube-nocookie.com/embed/OFVNjugPGok"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Si la vie est cadeau",
+      "content": "Nous, c'était du bleu\nUn ciel d'été, un océan transparent\nNous, nous étions deux\nEt l'on s'aimait à faire arrêter le temps\n\nMais le temps nous a trahis\nAlors pourquoi m'avoir promis la terre entière?\nNotre amour aurait suffi\nJe ne voulais pas d'un bonheur imaginaire\nSi la vie est cadeau\n\nSi la vie est un cadeau\nCadeau donné, cadeau repris, cadeau volé\nPrends l'amour comme un cadeau\nCadeau donné, cadeau repris, cadeau volé\nLe bonheur est trop court\n\nNous, c'était l'enfant que je voulais\nPour te l'offrir au printemps\n\nMais le temps a tous les droits\nAlors pourquoi m'avoir promis la terre entière\nEt l'enfant qui n'est pas là?\nC'est aujourd'hui mon seul bonheur imaginaire\nSi la vie est cadeau\n\nSi la vie est un cadeau\nCadeau donné, cadeau repris, cadeau volé\nPrends l'amour comme un cadeau\nCadeau donné, cadeau repris, cadeau volé\nLe bonheur est trop court\n\n(Si la vie eѕt un cadeаu)"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": null,
+      "title": "אם החיים היו מתנה",
+      "content": "אנו, הכל היה כחול\nשמי קיץ, אוקינוס שקוף\nאנו, הינו שנים\nונאהב אחד את השני חזק מספיק כדי לעצור את הזמן\n\nאבל הזמן רימה אותנו\nאז, למה להבטיח לי את העולם כולו?\nהאהבה שלנו הייתה מספיקה\nלא רציתי שמחה דמיונית\nאם החיים היו מתנה\n\nאם החיים היו מתנה\nמתנה ניתנת, מתנה מוחזרת, מתנה גנובה\nכך את האהבה כמתנה\nמתנה ניתנת, מתנה מוחזרת, מתנה גנובה\nהשמחה היא קצרה מידי\n\nאנחנו, זה היה הילד שכל כך רציתי\nלהציע לך באביב\n\nאבל הזמן הוא היחיד שקובע\nאז, למה להבטיח לי את העולם כולו?\nוהילד שאיננו שם?\nעכשיו זאת האהבה הדמיונית היחידה שלי\nאם החיים היו מתנה\n\nאם החיים היו מתנה\nמתנה ניתנת, מתנה מוחזרת, מתנה גנובה\nכך את האהבה כמתנה\nמתנה ניתנת, מתנה מוחזרת, מתנה גנובה\nהשמחה היא קצרה מידי\n\n(אם החיים היו מתנה)"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "If life is a gift",
+      "content": "We, we were blue\nA summer sky, a transparent ocean\nWe, we were two\nAnd when we loved each other, time stood still\n\nBut time betrayed us\nSo why did you promise me the whole world?\nOur love would have been enough\nI didn't want an imaginary happiness\nIf life is a gift\n\nIf life is a gift\nGiven gift, recovered gift, stolen gift\nTake love as a gift\nGiven gift, recovered gift, stolen gift\nHappiness is too short\n\nWe, it was the child that I wanted\nTo give it to you in springtime\n\nBut time has all the rights\nSo why did you promise me the whole world\nAnd the child that isn't there?\nToday is my only imaginary happiness\nIf life is a gift\n\nIf life is a gift\nGiven gift, recovered gift, stolen gift\nTake love as a gift\nGiven gift, recovered gift, stolen gift\nHappiness is too short\n\n(If life iѕ а gift)"
+    }
+  ],
+  "bpm": 142,
+  "tone": "Eb minor",
+  "artistPeople": [
+    "Corinne Hermès"
+  ],
+  "backings": [
+    "Georges Costa",
+    "Michel Costa",
+    "Patrick Alessi"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jean-Pierre Millers"
+  ],
+  "conductor": "Michel Bernholc",
+  "lyricists": [
+    "Alain Garcia"
+  ],
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": [
+    "Valérie Sarn"
+  ],
+  "jury": null,
+  "spokesperson": "Jacques Harvey"
+}

@@ -1,0 +1,55 @@
+{
+  "id": 9,
+  "country": "AT",
+  "artist": "Simone",
+  "song": "Keine Mauern mehr",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/pq3ndrZzaf0",
+    "https://www.youtube-nocookie.com/embed/-34QbgFt6ng",
+    "https://www.youtube-nocookie.com/embed/gHXrBp4n-r0",
+    "https://www.youtube-nocookie.com/embed/_u71qgj6Sww"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Keine Mauern mehr",
+      "content": "Zur selben Zeit vor einem Jahr\nHat niemand sich's gedacht\nDass unser Freiheitsdrang\nDen Sprung nach vorne macht\n\nGegenwart kommt in Fahrt\nSie muß um jeden Preis\nBunter sein, nicht nur schwarz und weiß\n\nDenn unsere Zukunft wird erst jetzt geboren\nViele Sprachen, viele Ohren\n\nKeine Mauern mehr, No walls anywhere \n(Keine Mauern mehr)\nTomber les barrières , Keine Mauern mehr\nKeine Mauern mehr\n\nDer Wind ist stark, er nimmt in Sturm\nBläst manchem ins Gesicht\nDie feste Hand am Widerstand zerbricht\n\nDenn unsere Zukunft wird erst jetzt geboren\nViele Sprachen, viele Ohren\n\nKeine Mauern mehr, No wallѕ anywhere \n(Keine Mauern mehr)\nNema više zidova , Keine Mauern mehr\n\nKeine Mаuern mehr"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "No walls anymore",
+      "content": "Around this time last year\nNobody would have thought\nThat our desire for freedom\nWould take this leap forward\n\nThe present time comes quickly\nIt must at any price\nBe more colourful, not just black and white\n\nFor our future is just born now\nMany languages, many ears\n\nNo walls anymore, No walls anywhere \n(No walls anymore)\nLet the barriers fall , No walls anymore\nNo walls anymore\n\nThe wind is strong, it increases to gale\nBlows someone in the face\nThe firm hand is broken by the resistance\n\nFor our future is just born now\nMany languages, many ears\n\nNo walls anymore, No walls anywhere \n(No walls anymore)\nThere are no more walls , No walls anymore\n\nNo wallѕ аnymore"
+    }
+  ],
+  "bpm": 126,
+  "tone": "F major",
+  "artistPeople": [
+    "Simone Stelzer"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Marc Berry",
+    "Nanna Berry"
+  ],
+  "conductor": "Richard Österreicher",
+  "lyricists": [
+    "Mario Botazzi"
+  ],
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": [
+    "Barbara Stöckl"
+  ],
+  "jury": null,
+  "spokesperson": "Tilia Herold"
+}

@@ -1,0 +1,56 @@
+{
+  "id": 14,
+  "country": "YU",
+  "artist": "Krunoslav Slabinac",
+  "song": "Tvoj dječak je tužan",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/AM6aUeSRHO4",
+    "https://www.youtube-nocookie.com/embed/4CETZV2VBD8",
+    "https://www.youtube-nocookie.com/embed/LUNWaL0Osbg",
+    "https://www.youtube-nocookie.com/embed/6J5jLYFgnZE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "croatian"
+      ],
+      "displayedLanguages": null,
+      "title": "Tvoj dječak je tužan",
+      "content": "Još uvjek mislim na onu koja tu\nKraj mene već dugo ne spava\nA noć je duga i tamna kao bol\nA postelja prazna i prazan je stol\n\nJa ne znam gdje živi i da li još zna\nDa negdje bez nje još sanjam i ja\nJer drugi je vodi na daleki put\nDo zvijezda i dalje, bez mene\n\nU nekom vrtu i ti si sada ruža\nDok bdijem u noći, ti znaš da sam tužan\n\nNe zovi me više, ti znaš da je kraj\nMom putu do zvijezda bez tebe\n\nU drugom vrtu i ti si sada ruža\nTvoj dječak te ѕanja, tvoj dječak je tužаn"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Your boy is sad",
+      "content": "I still think of the one who\nDoesn't sleep beside me anymore\nThe night is long and dark like pain\nThe bed is empty, and so is the table\n\nI don't know where she lives and whether she knows\nThat I still dream of her, somewhere without her\nBecause someone else is with her on a faraway journey\nTo the stars and beyond, without me\n\nIn some garden, you're still a rose\nWhile I can't sleep, you know I'm feeling sad\n\nDon't call me anymore, you know that\nMy journey is over without you\n\nIn another garden, you're still a rose\nYour boy dreams of you, your boy is ѕаd"
+    }
+  ],
+  "bpm": 104,
+  "tone": "E minor",
+  "artistPeople": [
+    "Krunoslav Kićo Slabinac"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ivan Krajač"
+  ],
+  "conductor": "Miljenko Prohaska",
+  "lyricists": [
+    "Zvonimir Golob"
+  ],
+  "writers": null,
+  "broadcaster": "JRT",
+  "commentators": [
+    "Milovan Ilić",
+    "Oliver Mlakar",
+    "Tomaž Terček"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

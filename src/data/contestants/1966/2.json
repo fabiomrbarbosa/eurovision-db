@@ -1,0 +1,63 @@
+{
+  "id": 2,
+  "country": "NO",
+  "artist": "Åse Kleveland",
+  "song": "Intet er nytt under solen",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/tsEARycMg_8",
+    "https://www.youtube-nocookie.com/embed/04qhY4Q2Yfk",
+    "https://www.youtube-nocookie.com/embed/C6XsUxlYj_8",
+    "https://www.youtube-nocookie.com/embed/f4Iw93AAuuw",
+    "https://www.youtube-nocookie.com/embed/icMWt3B9pcU",
+    "https://www.youtube-nocookie.com/embed/HwA-hRlvxxA"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "norwegian"
+      ],
+      "displayedLanguages": null,
+      "title": "Intet er nytt under solen",
+      "content": "Jeg vet om en gammel mann, en som har levd lenge\nJeg vet om en gammel mann, en som har levd lenge\nHan er så snill når han spør meg om hva som har hendt meg\nOg om solen har brent meg\n\nJeg prater og søker trøst, han gynger i stolen\nHan sier med sprukken røst: \"Intet er nytt under solen\"\n\nMen hva har vel det å si om ting har hendt før meg?\nMen hva har vel det å si om ting har hendt før meg?\nNei, det som gjør meg så vondt med alt det som han visste\nAt hans øyne er triste\n\nHva har jeg å vente på meg selv der i stolen?\nNår han er så trist der nå, intet er nytt under solen\n\nMen hva har vel det å si om ting har hendt før meg?\nMen hva har vel det å si om ting har hendt før meg?\nNei, det som gjør meg så vondt med alt det som han visste\nAt hans øyne er triste\n\nHva har jeg å vente på meg selv der i stolen?\nNår hаn er så trist der nå, intet er nytt under ѕolen"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "There's nothing new under the sun",
+      "content": "I know an old man, someone who has lived for a long time\nI know an old man, someone who has lived for a long time\nHe's so kind asking me what has happened to me\nAnd if the sun had burnt me\n\nI talk and seek comfort, he rocks in his chair\nHe says with a broken voice: \"There's nothing new under the sun\"\n\nBut what does it matter if things happened before me?\nBut what does it matter if things happened before me?\nNo, what makes me hurt so much with all that he knew\nThat his eyes were sad\n\nWhat can expect myself in that rocking chair?\nWhen he's so sad there now, there's nothing new under the sun\n\nBut what does it matter if things happened before me?\nBut what does it matter if things happened before me?\nNo, what makes me hurt so much with all that he knew\nThat his eyes were sad\n\nWhat can expect myself in that rocking chair?\nWhen he's so sаd there now, there's nothing new under the ѕun"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Non c'è niente di nuovo sotto il sole",
+      "content": "Conosco un uomo vecchio, qualcuno che ha vissuto a lungo\nConosco un uomo vecchio, qualcuno che ha vissuto a lungo\nLui è così gentile a chiedermi cosa mi fosse sucesso\nE se il sole mi avesse ustionata\n\nIo parlo e cerco conforto, lui si dondola sulla sua sedia\nLui dice con la voce rotta: \"Non c'è niente di nuovo sotto il sole\n\nMa che importa se sono successe delle cose prima di me?\nMa che importa se sono successe delle cose prima di me?\nNo, ciò che mi fa male così tanto con tutto ciò che sapeva\nChe i suoi occhi fossero tristi\n\nCosa posso aspettarmi su quella sedia a dondolo?\nQuando lui ora è così triste lì, non c'è niente di nuovo sotto il sole\n\nMa che importa se sono successe delle cose prima di me?\nMa che importa se sono successe delle cose prima di me?\nNo, ciò che mi fa male così tanto con tutto ciò che sapeva\nChe i suoi occhi fossero tristi\n\nCosa posso aspettarmi su quella sedia a dondolo?\nQuando lui orа è così triste lì, non c'è niente di nuovo sotto il ѕole"
+    }
+  ],
+  "bpm": 185,
+  "tone": "F minor",
+  "artistPeople": [
+    "Åse Kleveland"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Øivind Bergh",
+  "lyricists": null,
+  "writers": [
+    "Arne Bendiksen"
+  ],
+  "broadcaster": "NRK",
+  "commentators": [
+    "Sverre Christophersen"
+  ],
+  "jury": null,
+  "spokesperson": "Erik Diesen"
+}

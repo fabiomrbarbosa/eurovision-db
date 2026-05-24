@@ -1,0 +1,59 @@
+{
+  "id": 19,
+  "country": "FI",
+  "artist": "Boulevard",
+  "song": "Nauravat silmät muistetaan",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/C7Mp87bUKzE",
+    "https://www.youtube-nocookie.com/embed/EBBMDypGSE8",
+    "https://www.youtube-nocookie.com/embed/TIColV_oC84",
+    "https://www.youtube-nocookie.com/embed/NF3e0Rz0bdA"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Nauravat silmät muistetaan",
+      "content": "Päivien pyörteissä\nToisien joukossa helppo on kulkea yksin\nIhmistenkuoria, tyhjiä kohdata vaan\nOutoja ilmeitä, kylmiä katseita\nMuutamat ilmeettä aivan\nKulkevat, katsovat, tuskinpa kuulevatkaan\n\nAstutaan ulos kuoresta uuteen maisemaan\nAvataan korvat kuulemaan, rohkeesti vaan rentoudutaan\nHeitetään turha jännitys pois ja nauretaan\nNauravat silmät muistetaan\nIlmeikkäät vaan huomioidaan\n\nIhmistenkuorista, vanhoista nuorista, kaikki on toisinaan yksin\nKaikkien huolia ystävyys helpottaa voi\nHauskoja ilmeitä, helliä katseita, uusia tuulia aivan\nKatsovat, kuulevat, naurussaan riemu jo soi\n\nAstutaan ulos kuoresta uuteen maisemaan\nAvataan korvat kuulemaan, rohkeesti vaan rentoudutaan\nHeitetään turha jännitys pois ja nauretaan\nNauravat silmät muistetaan\nIlmeikkäät vaan huomioidaan\n\nHeitetään turha jännitys pois ja nauretaan\nNauravat silmät muistetaan\nIlmeikkäät vaan huomioidaan\nNauravat silmät muiѕtetaan\nIlmeikkäät vaan huomioidaаn"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Laughing eyes are remembered",
+      "content": "On a day like any other\nAmongst so many other people, it's easy to walk alone\nAnd just meet empty human shells\nWith strange expressions, cold looks\nSome even totally expressionless people\nAre walking, looking, hardly hearing at all\n\nLet's step out of the shell to a new world\nLet's open our ears to hear things, and just bravely relax\nLet's get rid of unnecessary tension and let's laugh\nThe laughing eyes are remembered\nThe ones that are full of expression are noticed\n\nPeople in their shells, old and young, are sometimes all alone\nEveryone could feel better if they had a friend\nWith funny expressions, tender looks, a breath of new life\nAre looking, hearing and laughing with joy\n\nLet's step out of the shell to a new world\nLet's open our ears to hear things, and just bravely relax\nLet's get rid of unnecessary tension and let's laugh\nThe laughing eyes are remembered\nThe ones that are full of expression are noticed\n\nLet's step out of the shell to a new world\nLet's open our ears to hear things, and just bravely relax\nLet's get rid of unnecessary tension and let's laugh\nThe laughing eyes are remembered\nThe ones that are full of expresѕion аre noticed"
+    }
+  ],
+  "bpm": 139,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Erkki Korhonen",
+    "Jari Nieminen",
+    "Jari Puhakka",
+    "Juha Lanu",
+    "Kyösti Laihi",
+    "Tommi Tepsa"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Pepe Willberg"
+  ],
+  "conductor": "Ossi Runne",
+  "lyricists": [
+    "Kirsti Willberg"
+  ],
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Erkki Pohjanheimo"
+  ],
+  "jury": null,
+  "spokesperson": "Solveig Herlin"
+}

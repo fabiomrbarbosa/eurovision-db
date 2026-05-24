@@ -1,0 +1,56 @@
+{
+  "id": 6,
+  "country": "BE",
+  "artist": "Claude Lombard",
+  "song": "Quand tu reviendras",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/MySlh7ah_MQ",
+    "https://www.youtube-nocookie.com/embed/k5sQwrWZC0I",
+    "https://www.youtube-nocookie.com/embed/Hhbcj745f8E",
+    "https://www.youtube-nocookie.com/embed/RH5ceMRxAR4",
+    "https://www.youtube-nocookie.com/embed/BDioUdv-Mrg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Quand tu reviendras",
+      "content": "Quand tu reviendras, toi qui m'as quittée\nToi qui es si loin de moi\nUn oiseau me dira: \"Chante ton bonheur\"\n\nQuand tu reviendras, te hâtant là-bas\nPar nos chemins d'autrefois\nMonteront tes couleurs aux créneaux de mon cœur\n\nPassent les semaines, se traînent les jours\nEt moi, j'attends ton retour\nEn filant la laine dans mes beaux atours\nEn bordant ma peine de doux fils d'amour\n\nQuand tu reviendras, toi qui m'as laissé\nTant d'espoir au fond de moi\nMon amour t'attendra auprès d'un feu de bois\n\nVeille ma tendresse sur ton étendard\nMais avant de te revoir\nMoi, pauvre princesse, le cœur dans le noir\nJe tourne sans cesse mon rouet d'espoir\n\nCar tu reviendras sans plus me quitter\nEt mon cœur sera comblé\nPuisque je t'aime, puiѕque je t'аime"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "When you will come back",
+      "content": "When you will come back, you who have left me\nYou who are so far away from me\nA bird will tell me: \"Sing your bliss\"\n\nWhen you will come back, hasting you over there\nAlong our ancient roads\nShowing your colours in the merlons of my heart\n\nWeeks passing by, the days are lingering\nAnd I'm waiting for your return\nSpinning the wool in my beautiful finery\nEmbroiding my pain in soft threads of love\n\nWhen you will come back, you who have left me\nWith a lot of hope in front of me\nMy love is waiting for you nearby a wood fire\n\nWatch my tenderness on your standard\nBut before seeing you back\nMe, poor princess, my heart in black\nI'm turning incessantly my spinning wheel of hope\n\nBecause you will come back without ever leaving me again\nAnd my heart will be satisfied\nBecause I love you, becаuѕe I love you"
+    }
+  ],
+  "bpm": 110,
+  "tone": "D minor",
+  "artistPeople": [
+    "Claude Lombard"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jo van Wetter"
+  ],
+  "conductor": "Henri Segers",
+  "lyricists": [
+    "Roland Dero"
+  ],
+  "writers": null,
+  "broadcaster": "RTB",
+  "commentators": [
+    "Herman Verelst",
+    "Paule Herreman"
+  ],
+  "jury": null,
+  "spokesperson": "André Hagon"
+}

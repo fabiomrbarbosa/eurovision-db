@@ -1,0 +1,57 @@
+{
+  "id": 28,
+  "country": "HR",
+  "artist": "Nina Badrić",
+  "song": "Nebo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/QzdI4yuqwzY",
+    "https://www.youtube-nocookie.com/embed/z5_tqyCjFZ8",
+    "https://www.youtube-nocookie.com/embed/OdzGUF7aiaM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "croatian"
+      ],
+      "displayedLanguages": null,
+      "title": "Nebo",
+      "content": "Poslušaj me kad ti kažem sve sam probala\nJoš si u mislima mojim, još te svojim osjećam\nA čujem da ljubiš i kažu mi ljudi da briga te\nJa, k'o da pameti nemam, još tebi nadam se\n\nMa sve ti nebo vrati i zapamti svaki dug\nSvatko od nas sanja a nebo određuje put\nSve ti nebo vrati, netko gore to vidi sve\nI ove moje suze na duši nosit ćeš\n\nA čujem da ljubiš i kažu mi ljudi da briga te\nJa, k'o da pameti nemam, tebi još nadam se\n\nMa sve ti nebo vrati i zapamti svaki dug\nSvatko od nas sanja a nebo određuje put\nSve ti nebo vrati, netko gore to vidi sve\nI ove moje suze na duši nosit ćeš\n\n(Sve) hej, (sve) sve…\nSve ti nebo vrati (Sve, sve)\nNeko to gore vidi sve\nO… neko to gore vidi sve\nSve… sve…\n\n(Sve ti nebo vrati) Sve ti nebo vrati\n(Netko gore to vidi sve)\n(Ove moje suze nа duši nosit ćeš)\nNeko to gore vidi ѕve"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Heaven",
+      "content": "Listen to me when I tell you I've tried everything\nYou're still in my thoughts, I still feel you as mine\nBut I hear you're in love and people tell me you don't care\nMe, like I've lost my mind, I still hope for you\n\nBut heaven pays everything back and remembers all debts\nEach one of us dreams and heaven determines our path\nHeaven pays everything back, someone up there sees it all\nAnd these tears of mine will become your burden\n\nBut I hear you're in love and people tell me you don't care\nMe, like I've lost my mind, I still hope for you\n\nBut heaven pays everything back and remembers all debts\nEach one of us dreams and heaven determines our path\nHeaven pays everything back, someone up there sees it all\nAnd these tears of mine will become your burden\n\n(All) hey, (all) all…\nHeaven pays everything back (all, all)\nSomeone up there sees it all\nWhoa… someone up there sees it all\nAll… all…\n\n(Heaven pays everything back) Heaven pays everything back\n(Someone up there sees it all)\n(These tears of mine will become your burden)\nSomeone up there seeѕ it аll"
+    }
+  ],
+  "bpm": 113,
+  "tone": "F major",
+  "artistPeople": [
+    "Nina Badrić"
+  ],
+  "backings": [
+    "Danijela Večerinović",
+    "Dinko Zec",
+    "Igor Barberić",
+    "Ivana Čabraja",
+    "Jelena Majić"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Nina Badrić"
+  ],
+  "broadcaster": "HRT",
+  "commentators": [
+    "Duško Ćurlić"
+  ],
+  "jury": null,
+  "spokesperson": "Nevena Rendeli"
+}

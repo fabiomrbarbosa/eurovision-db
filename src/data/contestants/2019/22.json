@@ -1,0 +1,69 @@
+{
+  "id": 22,
+  "country": "IL",
+  "artist": "Kobi Marimi",
+  "song": "Home",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/uCdS42uCqP0",
+    "https://www.youtube-nocookie.com/embed/wEZRK8KIkKc",
+    "https://www.youtube-nocookie.com/embed/7d__XXiVJkE",
+    "https://www.youtube-nocookie.com/embed/TBYqgW4E7qY",
+    "https://www.youtube-nocookie.com/embed/AIMOgw8gZVI",
+    "https://www.youtube-nocookie.com/embed/e0B58heGK3I",
+    "https://www.youtube-nocookie.com/embed/tlzrW0Tk0IQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Home",
+      "content": "Caught up in this moment 'til my heartbeat stops\nI've been running barefoot to the mountain tops\nNothing comes as easy as it goes\nI can hug the water when it snows\n\nI feel the sun upon my skin\nAnd I am someone, I am someone\nYou pulled my heart, I took it in\nIt made me someone, I am someone\nAnd now I'm done, I'm coming home\n\nI used to listen to the way they talk\nCounting down the minutes from the ticking clock\n\nI feel the sun upon my skin\nAnd I am someone, I am someone\nYou pulled my heart, I took it in\nIt made me someone, I am someone\nAnd now I'm done, I'm coming\n\nHome was so far, collecting scars, I refuse\nAnother touch won't be another bruise\n\nI feel the sun upon my skin\nAnd I am someone, I am someone\nYou pulled my heart, I took it in\nIt made me someone, I am someone\n\nI am standing tall not giving in\n'Cause I am someone, I аm ѕomeone\n\nAnd now I'm done, I'm coming\nNow I'm done, I'm coming\nNow I'm done, I'm coming home"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": null,
+      "title": "בית",
+      "content": "נתפס ברגע כאן עד שפעימת ליבי עוצרת\nרצתי יחף אל פסגות ההרים\nשום דבר לא בא בקלות שבו הוא הולך\nאני יכול לחבק את המים כשיורד שלג\n\nאני מרגיש את השמש על פני עורי\nואני מישהו, אני מישהו\nלקחת את ליבי, אני הכנסתי אותו\nזה הפך אותי למישהו, אני מישהו\nועכשיו גמרתי, אני חוזר הביתה\n\nהקשבתי פעם לאיך שהם מדברים\nסופר את הדקות מהשעון המטקטק\n\nאני מרגיש את השמש על פני עורי\nואני מישהו, אני מישהו\nלקחת את ליבי, אני הכנסתי אותו\nזה הפך אותי למישהו, אני מישהו\nועכשיו גמרתי, אני חוזר הביתה\n\nהבית היה כה רחוק, מצולק, אני מסרב\nעוד מגע לא יהיה עוד חבורה\n\nאני מרגיש את השמש על פני עורי\nואני מישהו, אני מישהו\nלקחת את ליבי, אני הכנסתי אותו\nזה הפך אותי למישהו, אני מישהו\n\nאני עומד איתן, לא נכנע\nכי אני מישהו, אני מישהו\n\nועכשיו גמרתי, אני חוזר הביתה\nעכשיו גמרתי, אני חוזר הביתה\nעכשיו גמרתי, אני חוזר הביתה"
+    }
+  ],
+  "bpm": 109,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Yakov Hezi Marimi"
+  ],
+  "backings": [
+    "Lera Axelrod",
+    "Liron Nathan Levo",
+    "Maayan Bukris",
+    "Ofree Israeli",
+    "Yossi Mark"
+  ],
+  "dancers": null,
+  "stageDirector": "Moshe Kepten",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Inbar Weitzman",
+    "Ohad Shargai"
+  ],
+  "broadcaster": "KAN",
+  "commentators": [
+    "Eran Zarachowicz",
+    "Sharon Taicher"
+  ],
+  "jury": [
+    "Avi Ochayon",
+    "Aviad Rosenbaum",
+    "Dikla",
+    "Doron Talmon",
+    "Shlomit Aharon"
+  ],
+  "spokesperson": "Izhar Cohen"
+}

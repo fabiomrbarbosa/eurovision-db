@@ -1,0 +1,58 @@
+{
+  "id": 17,
+  "country": "FI",
+  "artist": "Seija Simola",
+  "song": "Anna rakkaudelle tilaisuus",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/By44-7_5afM",
+    "https://www.youtube-nocookie.com/embed/ZQneK02fryE",
+    "https://www.youtube-nocookie.com/embed/kryhZiTxRMg",
+    "https://www.youtube-nocookie.com/embed/_x4uHd1gtmU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Anna rakkaudelle tilaisuus",
+      "content": "Silmin viattomin katsot vielä pikkumies\nOn niin epävarma askel pienten jalkain\nMutta aika kuluu mieheks vartut pikkumies\nLeikit vaihtuu työhön aikuisten\n\nSilloin toivon suurta rakkautta sydämmeesi sun\nSiten helpompi on tiesi taivaltaa\nKovaa maailmaa niin vaikea on joskus ymmärtää\nMuista se, niin koittaa aika uus\n\nKovaa maailmaa niin vaikea on joskus ymmärtää\nMuista se, niin koittaa aika uus\n\nKäsi pienoinen on vielä hetken kädessäin\nHymy aurinkoisin äidin hymyyn vastaa\nAikaa pysähtymään silloin niin mä toivoisin\nPian huomaan susta kasvanut on mies\n\nUsein matkallasi aikuisten niin kovaan maailmaan\nMoni aate, ihon väri vaatii kantaa ottamaan\nMutta tärkeintä on rakkaudelle antaa tilaisuus\nMuista se, niin koittaa aika uus\n\nUsein matkallasi aikuisten niin kovaan maailmaan\nMoni aate, ihon väri vaatii kantaa ottamaan\nMutta tärkeintä on rakkaudelle antaa tilaisuus\nMuista se, niin koittaa aika uus\n\nMutta tärkeintä on rakkaudelle antaa tilaisuus\nMuista se, niin koittaa aikа uuѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Give love a chance",
+      "content": "Little man you still look with such innocent eyes\nYour little feet walk with unsteady steps\nBut time goes by and a little boy grows into a man\nPlaying turns into grown-ups' work\n\nI hope that you'll have a big love in your heart then\nBecause it's easier to go your own way\nSometimes it's difficult to understand the hard world\nRemember this, and a new time will begin\n\nSometimes it's difficult to understand the hard world\nRemember this, and a new time will begin\n\nThe little hand is still in my hand for a while\nThe sunniest smile answers to mother's smile\nThen I hope that I could stop the time\nSoon I'll notice you've become a man\n\nOften in your journey to the adults' hard world\nYou'll have to take a stand on many ideas and skin colours\nBut it's most important to give love a chance\nRemember this and a new time will begin\n\nOften in your journey to the adults' hard world\nYou'll have to take a stand on many ideas and skin colours\nBut it's most important to give love a chance\nRemember this and a new time will begin\n\nBut it's most important to give love a chance\nRemember thiѕ and а new time will begin"
+    }
+  ],
+  "bpm": 80,
+  "tone": "G major",
+  "artistPeople": [
+    "Seija Saara Maria Simola"
+  ],
+  "backings": [
+    "Irma Tapio",
+    "Pepe Willberg"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Reijo Karvonen"
+  ],
+  "conductor": "Ossi Runne",
+  "lyricists": [
+    "Reijo Karvonen",
+    "Seija Simola"
+  ],
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Erkki Toivanen"
+  ],
+  "jury": null,
+  "spokesperson": "Kaarina Pönniö"
+}

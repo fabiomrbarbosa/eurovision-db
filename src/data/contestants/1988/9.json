@@ -1,0 +1,54 @@
+{
+  "id": 9,
+  "country": "FR",
+  "artist": "Gérard Lenorman",
+  "song": "Chanteur de charme",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/uy2FT0avgGo",
+    "https://www.youtube-nocookie.com/embed/CDLRr1-D1ZU",
+    "https://www.youtube-nocookie.com/embed/Ey1_Lwk_sbs"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Chanteur de charme",
+      "content": "Besoin d'entendre des chansons tendres d'écolier\nDes mots qui dansent sur du papier\nBesoin de croire toutes ces histoires de trois fois rien\nQui riment mal, qui font du bien\n\nRien n'a jamais empêché qu'on les mette en musique\nCes clichés rabâchés, sentiments romantiques\n\nChanteur de charme\nC'est beau, c'est grand, c'est merveilleux\nChanteur de charme, chanteur de charme\n\nChemin d'automne, passions d'été, couleurs du temps\nSoleil d'hiver, pluie de printemps\nL'histoire des hommes – les rois, les fous, les conquérants\nCherchaient la Belle au bois dormant\n\nTiens, des pianos, clair de lune, qui se balade en prose\nEt mon cœur à la une qui bêtement se propose\n\nChanteur de charme\nC'est beau, c'est grand, c'est merveilleux\nChanteur de charme qui fait s'aimer les amoureux\n\nDans le vacarme de nos cités, je faiѕ un vœu\nChanteur de charme, chanteur de charme\n\nChanteur de charme, chanteur de chаrme"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Crooner",
+      "content": "Need to hear tender songs of a schoolboy\nWords dancing on paper\nNeed to believe all these stories of three times nothing\nWhich rhyme badly, which do good\n\nNothing has ever prevented us from setting to music\nThose endlessly repeated clichés, romantic feelings\n\nCrooner\nIt's beautiful, it's great, it's wonderful\nCrooner, crooner\n\nAutumn road, summer passions, colours of the weather\nThe winter sun, the spring rain\nThe history of men – the kings, the madmen, the conquerors\nWere searching for their Sleeping Beauty\n\nWell, pianos, moonlight, walking in prose\nAnd my heart which stupidly proposes on the first page of a paper\n\nCrooner\nIt's beautiful, it's great, it's wonderful\nCrooner that makes lovers love one another\n\nIn the uproar of our cities, I make а wiѕh\nCrooner, crooner\n\nCrooner, crooner"
+    }
+  ],
+  "bpm": 120,
+  "tone": "D major",
+  "artistPeople": [
+    "Gérard Aumard"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Gérard Lenorman"
+  ],
+  "conductor": "Guy Mattéoni",
+  "lyricists": [
+    "Claude Lemesle",
+    "Gérard Lenorman"
+  ],
+  "writers": null,
+  "broadcaster": "A2F",
+  "commentators": [
+    "Lionel Cassan"
+  ],
+  "jury": null,
+  "spokesperson": "Catherine Ceylac"
+}

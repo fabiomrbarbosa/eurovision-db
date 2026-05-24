@@ -1,0 +1,52 @@
+{
+  "id": 9,
+  "country": "BA",
+  "artist": "Laka",
+  "song": "Pokušaj",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/kIRDbmpC2PI",
+    "https://www.youtube-nocookie.com/embed/Xkmtfv7syYY",
+    "https://www.youtube-nocookie.com/embed/5eUeBrPisRg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "bosnian"
+      ],
+      "displayedLanguages": null,
+      "title": "Pokušaj",
+      "content": "<i style=\"color:#789\">Ne silazi sa čardaka</i>\n<i style=\"color:#789\">Rek'o mi je pjevač Laka</i>\n<i style=\"color:#789\">Ne klepeći nanulama</i>\n<i style=\"color:#789\">Nemoj da se praviš dama</i>\n\n<i style=\"color:#789\">Ne silazi sa čardaka</i>\n<i style=\"color:#789\">Rek'o mi je lično Laka</i>\n<i style=\"color:#789\">Ne silazi sa čardaka</i>\n<i style=\"color:#789\">Dok ti ljubav nije jaka</i>\n\nNa moju omiljenu foru\nPrevarim faunu i floru\nDa život nije postao u moru\nNego od ljubavi\nLjubavi, ljubavi\nOd ljubavi\n\nKolike protračismo dane\nLežeći, jedući banane\nPa spadosmo na niske grane\nBez ljubavi\nLjubavi, ljubavi\nBez ljubavi\n\nPokušaću da te poljubim a ti se pravi luda\nPokušaću da te poljubim a ti se pravi luda\nPokušaću da te probudim a ti se pravi budna\n\n<i style=\"color:#789\">Ne silazi sa čardaka</i>\n<i style=\"color:#789\">Rek'o mi je pjevač Laka</i>\n<i style=\"color:#789\">Ne klepeći nanulama</i>\n<i style=\"color:#789\">Nemoj da se praviš dama</i>\n\n<i style=\"color:#789\">Ne silazi sa čardaka</i>\n<i style=\"color:#789\">Rek'o mi je lično Laka</i>\n<i style=\"color:#789\">Ne silazi sa čardaka</i>\n<i style=\"color:#789\">Dok ti ljubav nije jaka</i>\n\nPokušaću da te poljubim a ti se pravi luda\nPokušaću da te poljubim a ti se pravi luda\nPokušaću da te probudim a ti se pravi budna\n\nPokušaću da te poljubim a ti se pravi luda\n<i style=\"color:#789\">Ne silazi sa čardaka</i>\n<i style=\"color:#789\">Rek'o mi je pjevač Laka</i>\nPokušaću da te poljubim a ti se pravi luda\n<i style=\"color:#789\">Ne klepeći nanulama</i>\n<i style=\"color:#789\">Nemoj da se praviš dama</i>\nPokušaću da te probudim a ti ѕe pravi budnа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Try",
+      "content": "<i style=\"color:#789\">Don't come down from the balcony</i>\n<i style=\"color:#789\">Laka the singer told me</i>\n<i style=\"color:#789\">Don't make noise with your sandals</i>\n<i style=\"color:#789\">Don't pretend to be a lady</i>\n\n<i style=\"color:#789\">Don't come down from the balcony</i>\n<i style=\"color:#789\">Laka told me personally</i>\n<i style=\"color:#789\">Don't come down from the balcony</i>\n<i style=\"color:#789\">Until your love is strong</i>\n\nI tricked both fauna and flora\nWith my favourite prank\nThat life did not begin in the sea\nBut of love\nLove, love\nOf love\n\nHow many days did we spend\nLying down, eating bananas\nAnd then we fell onto the lower branches\nWithout love\nLove, love\nWithout love\n\nI'll try to kiss you and you can act foolish\nI'll try to kiss you and you can act foolish\nI'll try to wake you up and you can pretend you're awake\n\n<i style=\"color:#789\">Don't come down from the balcony</i>\n<i style=\"color:#789\">Laka the singer told me</i>\n<i style=\"color:#789\">Don't make noise with your sandals</i>\n<i style=\"color:#789\">Don't pretend to be a lady</i>\n\n<i style=\"color:#789\">Don't come down from the balcony</i>\n<i style=\"color:#789\">Laka told me personally</i>\n<i style=\"color:#789\">Don't come down from the balcony</i>\n<i style=\"color:#789\">Until your love is strong</i>\n\nI'll try to kiss you and you can act foolish\nI'll try to kiss you and you can act foolish\nI'll try to wake you up and you can pretend you're awake\n\nI'll try to kiss you and you can act foolish\n<i style=\"color:#789\">Don't come down from the balcony</i>\n<i style=\"color:#789\">Laka the singer told me</i>\nI'll try to kiss you and you can act foolish\n<i style=\"color:#789\">Don't make noise with your sandalѕ</i>\n<i style=\"color:#789\">Don't pretend to be a lady</i>\nI'll try to wake you up and you can pretend you're awаke"
+    }
+  ],
+  "bpm": 144,
+  "tone": "E major",
+  "artistPeople": [
+    "Elvir Laković",
+    "Mirela Laković"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Laka"
+  ],
+  "broadcaster": "BHRT",
+  "commentators": [
+    "Dejan Kukrić"
+  ],
+  "jury": null,
+  "spokesperson": "Melina Garibović"
+}

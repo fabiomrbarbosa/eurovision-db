@@ -1,0 +1,51 @@
+{
+  "id": 7,
+  "country": "FR",
+  "artist": "Kali",
+  "song": "Monté la riviè",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/fTeI98arY2I",
+    "https://www.youtube-nocookie.com/embed/QKi4P1mROtI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french",
+        "antillean creole"
+      ],
+      "displayedLanguages": null,
+      "title": "Monté la riviè",
+      "content": "Monté la riviè, wo, whoa…\nEntre les roches et les racines\nUn jour tu verras la source de la rivière\nMonté la riviè, oh…\nWouvè zorey ou\nFòk ou aprann kouté bri dlo-a\nI ké toujou montré'w la pou kontinyé\nKontinyé, oui, pe pe ba…\nOu pé ké janmen swèf\nPli ou ké monté pli dlo-a ké fré\nPli ou ké lé bwè pli ou kè lé monté\n\nMonté la riviè, wo\nEntre les roches et les racines\nUn jour tu verras la source de la rivière\nMonté la riviè, wo\nWouvè dé zyé'w gran\nToujou gadé koulè dlo-a\nAnmizi ou ka monté, i ka vini pli klè\nPli klè, oui, pe pe ba…\nOu pé pa garé\nAfos i klè tèlman, i ka briyé\nOu sé di sé an limyè ki ka gidé'w monté\n\nLa rivière d'amour, la rivière da la vie, oui\nMonté la riviè\nWé, wé, wé… la riviè la vie, doudou…\n\nMonté la riviè, wo\nAfos janbé wòch ni an lè\nOu ké rivé lasous-la ka soti ya\nMonté la riviè, wo\nAfos janbé wòch ni an lè\nOu ké rivé lasous-la ka soti ya\n\nMonté la riviè, wo\nEntre les roches et les racines\nUn jour tu verras la source de la rivière\nAfos janbé wòch ni an lè\nOu ké rivé lasous-la ka soti ya\nEntre les roches et les racines\nUn jour tu verras la ѕource de la rivière\nMonté lа riviè, wo"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Go up the river",
+      "content": "Go up the river, wo, whoa…\nAmong the rocks and the roots\nOne day you'll see the source of the river\nGo up the river, oh…\nOpen up your ears\nListen carefully to the sound of water\nIt will always show you the way\nThe way, yes, pe pe ba…\nYou'll never be thirsty\nAs you go up, the water will be fresher\nYou'll want to drink more and then you'll go up\n\nGo up the river, wo\nAmong the rocks and the roots\nOne day you'll see the source of the river\nGo up the river, wo\nOpen up your big eyes\nLook carefully to the colour of the water\nAs you go up, it will be clearer\nClearer, yes, pe pe ba…\nYou can't get lost\nIt's so clear, it's shining\nLike a light that shows you the way up\n\nThe river of love, the river of life, yes\nGo up the river\nWeah, weah, weah… the river of life, doodoo…\n\nGo up the river, wo\nBy crossing stones we arrive\nAt the time you should already go out\nGo up the river, wo\nBy crossing stones we arrive\nAt the time you should already go out\n\nGo up the river, wo\nAmong the rocks and the roots\nOne day you'll see the source of the river\nBy crossing stones we arrive\nAt the time you should already go out\nAmong the rocks and the roots\nOne dаy you'll see the ѕource of the river\nGo up the river, wo"
+    }
+  ],
+  "bpm": 166,
+  "tone": "A minor",
+  "artistPeople": [
+    "Jean-Marc Monnerville"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Magdi Vasco Novarrez",
+  "lyricists": null,
+  "writers": [
+    "Jean-Marc Monnerville"
+  ],
+  "broadcaster": "A2F",
+  "commentators": [
+    "Thierry Beccaro"
+  ],
+  "jury": null,
+  "spokesperson": "Olivier Minne"
+}

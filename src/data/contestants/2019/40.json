@@ -1,0 +1,59 @@
+{
+  "id": 40,
+  "country": "IE",
+  "artist": "Sarah McTernan",
+  "song": "22",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/lX7DT9GMHQM",
+    "https://www.youtube-nocookie.com/embed/LXBIDYh_UE4",
+    "https://www.youtube-nocookie.com/embed/Nh8iFJTxVHI",
+    "https://www.youtube-nocookie.com/embed/P_SehZvRaVk",
+    "https://www.youtube-nocookie.com/embed/JXHqe5CofPM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "",
+      "content": "I see 22, oh, and I think of you\nLately that's all I do\nDon't you know that I I'm always driving back\nWanna come home to you\n\nOh, I know I've always been afraid to say\nHow I feel, but that's got to change\n\nEvery time I'm with somebody I'm confusing them with you\nAnywhere I go reminds me of the things we used to do\nAnd I dreamed about the street where we kissed out of the blue\nIt's your house, number 22\n\nBaby, where are you?\nNumber 22\n\nI see 22, oh, it's like déjà vu\nBoy, if you only knew\nThis time I messed it up, but I can't give you up\nYour face is all I got\n\nYeah, I know I've always been afraid to say\nHow I feel, but that's got to change\n\nEvery time I'm with somebody I'm confusing them with you\nAnywhere I go reminds me of the things we used to do\nAnd I dream about the street where we kissed out of the blue\nIt's your house, number 22\n\nNumber 22, yeah\nBaby, where are you?\nNumber 22\n\nAll alone tonight\nWishing you were laying by my side\nSo I just keep on driving back\nTo pass the time\n\n<i style=\"color:#789\">Every time I'm with somebody I'm confusing them with you\nAnywhere I go reminds me of the things we used to do</i>\nAny time I'm with somebody\nAnd I dream аbout the street where we kissed out of the blue\nIt's your house, number 22\n<i style=\"color:#789\">Every time I'm with somebody I'm confusing them with you</i>\nEverybody, no, no, no\n<i style=\"color:#789\">Anywhere I go reminds me of the things we uѕed to do</i>\nI remember you\nNumber 22\nNumber 22"
+    }
+  ],
+  "bpm": 125,
+  "tone": "C major",
+  "artistPeople": [
+    "Sarah McTernan"
+  ],
+  "backings": [
+    "Ciara O'Connor",
+    "Fiona Harte",
+    "Michael Hopkins"
+  ],
+  "dancers": [
+    "Adele Dempsey",
+    "Rhianna Binns"
+  ],
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Janieck Devy",
+    "Misha",
+    "Roel Rats"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Marty Whelan"
+  ],
+  "jury": [
+    "Aidan O'Connor",
+    "Emma Reynolds",
+    "Jennifer O'Brien",
+    "Paddy McKenna",
+    "Ronan Hardiman"
+  ],
+  "spokesperson": "Sinéad Kennedy"
+}

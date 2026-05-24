@@ -1,0 +1,61 @@
+{
+  "id": 6,
+  "country": "RU",
+  "artist": "Tolmachevy Sisters",
+  "song": "Shine",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/BCNN1JAgWqk",
+    "https://www.youtube-nocookie.com/embed/f7HKBlAzN5I",
+    "https://www.youtube-nocookie.com/embed/MPI7AnD_QS8",
+    "https://www.youtube-nocookie.com/embed/hEq4pw7K4Ys"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Shine",
+      "content": "Been looking at the sky\nWishing on a star\nWaiting for a brand new start\n\nLiving on the edge\nCloser to the crime\nCross the line a step at a time\n\nNow maybe there's a place\nMaybe there's a time\nMaybe there's a day you'll be mine\n\nNow something's got to give\nMake a brighter day\nAll we got to say\n\nShine into my darkness\nShine into the night, my rising sun\nDrive away the madness\nCan you be a masterpiece of love\nSending out a message out above\nTelling all the world to show some love\nNo one's gone bring me down, bring me down\nYou are my rising sun\n\nKeep looking up ahead\nRiding like a wind\nOpen up your heart, let me in\n\nMy life is on a string\nWhen I see you smile\nOur love will last a thousand miles\n\nNow maybe there's a place\nMaybe there's a time\nMaybe there's a day you'll be mine\n\nNow something's got to give\nMake a brighter day\nAll we got to ѕаy"
+    }
+  ],
+  "bpm": 120,
+  "tone": "E minor",
+  "artistPeople": [
+    "Anastasiya Andreyevna Tolmacheva (Анастасия Андреевна Толмачёвы)",
+    "Maria Andreyevna Tolmacheva (Мария Андреевна Толмачёвы)"
+  ],
+  "backings": [
+    "Anna Nilsson",
+    "Anna Strandberg",
+    "Jenny Tärneberg",
+    "Rui Andrade"
+  ],
+  "dancers": null,
+  "stageDirector": "Fokas Evangelinos",
+  "composers": [
+    "Dimitris Kontopoulos",
+    "Philipp Kirkorov"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Gerard James Borg",
+    "John Ballard",
+    "Ralph Charlie"
+  ],
+  "writers": null,
+  "broadcaster": "RTR",
+  "commentators": [
+    "Dmitry Guberniev",
+    "Olga Shelest"
+  ],
+  "jury": [
+    "Dominik Joker",
+    "Leonid Rudenko",
+    "Margarita Mitrofanova",
+    "Sergey Zhilin",
+    "Yulia Nachalova"
+  ],
+  "spokesperson": "Alsou"
+}

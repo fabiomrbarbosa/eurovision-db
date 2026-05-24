@@ -1,0 +1,41 @@
+{
+  "id": 3,
+  "country": "IE",
+  "artist": "Pat McGeegan",
+  "song": "Chance of a Lifetime",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/sibyBO_do5M",
+    "https://www.youtube-nocookie.com/embed/xhPwWMv-xrM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Chance of a Lifetime",
+      "content": "One day, while I was out walking\nI saw your face in the midst of a crowd\nHere, I thought, is the chance of a lifetime\nI thought you'd stepped from a cloud\n\nThink of that wonderful meeting\nOh, the sun shone down on us from above\nWhy should I be out walking that day and get\nThe chance of a lifetime of love?\n\nShow me the way you are feeling\nAlways tell me just what I should know\nOh, a guiding hand must have brought us together\nBut now that seems so long ago\n\nYou are the one I have dreamt of\nOh, I never thought my dreams would come true\nAll I want is the chance of a lifetime\nThe chance of a lifetime with you\n\nShow me the way you are feeling\nAlways tell me just what I should know\nOh, a guiding hand must have brought us together\nBut now that seems so long ago\n\nYou are the one I have dreamt of\nI never thought my dreams would come true\nAll I want is the chance of a lifetime\nThe chance of a lifetime with you\n\nAll I want iѕ the chance of a lifetime\nThe chance of а lifetime with you"
+    }
+  ],
+  "bpm": 104,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Patrick McGuigan"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Noel Kelehan",
+  "lyricists": null,
+  "writers": [
+    "John Kennedy"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Brendan O'Reilly"
+  ],
+  "jury": null,
+  "spokesperson": "Gay Byrne"
+}

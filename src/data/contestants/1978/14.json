@@ -1,0 +1,59 @@
+{
+  "id": 14,
+  "country": "AT",
+  "artist": "Springtime",
+  "song": "Mrs. Caroline Robinson",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vo3NxHycwqU",
+    "https://www.youtube-nocookie.com/embed/-Y8Ypd4B6zI",
+    "https://www.youtube-nocookie.com/embed/JPel7kCCxmc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Mrs. Caroline Robinson",
+      "content": "Mrs. Caroline Robinson\nFliegt nur mit einem Luftballon\nDenn sie hat den Besen satt\nAls Nobelhexe dieser Stadt\n\nMrs. Caroline Robinson\nLiebt Telepathie und Television\nSchwefel, Krach, Chanel und Bach\nMode macht sie schwach\n\nWenn sie will, ist es still\nNur die Turmuhr schlägt\nMitternacht, die Sonne lacht\nDer Mond schnarcht unentwegt\n\nEin Wunder ist geschehen\nUnd niemand kann verstehen\nWarum, weshalb, wieso\nEs ist heut' Hexenshow\n\nMrs. Caroline Robinson\nIst für Männer die Sensation\nSex-Appeal statt Besenstiel\nSeit sie von dem Besen fiel\n\nMrs. Caroline Robinson\nLiebt Telepathie und Television\nSchwefel, Krach, Chanel und Bach\nMode macht sie schwach\n\nWenn ein Hund ohne Grund\nEinmal Zeitung liest\nUngeniert die Frau studiert\nGlaube, was du siehst\n\nEin Wunder ist geschehen\nUnd niemand kann verstehen\nWarum, weshalb, wieso\nEs ist heut' Hexenshow\n\nMrs. Caroline Robinson\nFliegt nur mit einem Luftballon\nDenn sie hat den Besen satt\nAls Nobelhexe dieser Stadt\n\nMrs. Caroline Robinson\nLiebt Telepathie und Television\nSchwefel, Krach, Chanel und Bach\nMode macht sie schwach\n\nMrs. Caroline Robinson\nIst für Männer die Sensation\nSex-Appeal statt Besenstiel\nSeit sie von dem Besen fiel\n\nMrs. Caroline Robinson\nLiebt Telepathie und Television\nSchwefel, Krach, Chanel und Bach\nMode macht sie ѕchwаch"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Mrs. Caroline Robinson",
+      "content": "Mrs. Caroline Robinson\nOnly flies with a balloon\nBecause she's tired of her broom\nAs top-witch of this town\n\nMrs. Caroline Robinson\nLikes telepathy and television\nSulphur, bang, Chanel and Bach\nFashion makes her weak\n\nIf she wants it, everything is still\nOnly the tower clock ticks\nMidnight, the sun laughs\nThe moon snores without stopping\n\nA miracle has happened\nAnd no one understands\nWhy, for what, how's that\nToday it's witch show\n\nMrs. Caroline Robinson\nIs a sensation for men\nSex appeal instead of the broomstick\nEver since she dropped off her broom\n\nMrs. Caroline Robinson\nLikes telepathy and television\nSulphur, bang, Chanel and Bach\nFashion makes her weak\n\nWhen a dog without a cause\nReads the paper\nAnd studies the women without shame\nBelieve what you see\n\nA miracle has happened\nAnd no one understands\nWhy, for what, how's that\nToday it's witch show\n\nMrs. Caroline Robinson\nOnly flies with a balloon\nBecause she's tired of her broom\nAs top-witch of this town\n\nMrs. Caroline Robinson\nLikes telepathy and television\nSulphur, bang, Chanel and Bach\nFashion makes her weak\n\nMrs. Caroline Robinson\nIs a sensation for men\nSex appeal instead of the broomstick\nEver since she dropped off her broom\n\nMrs. Caroline Robinson\nLikes telepathy and television\nSulphur, bang, Chanel and Bach\nFashion makeѕ her weаk"
+    }
+  ],
+  "bpm": 85,
+  "tone": "C major",
+  "artistPeople": [
+    "Erwin Broswimmer",
+    "Gerhard Markel",
+    "Norbert Niedermayer",
+    "Walter Markel"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Gerhard Markel",
+    "Walter Markel"
+  ],
+  "conductor": "Richard Österreicher",
+  "lyricists": [
+    "Gerhard Markel",
+    "Norbert Niedermayer",
+    "Walter Markel"
+  ],
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": [
+    "Ernst Grissemann"
+  ],
+  "jury": null,
+  "spokesperson": "Jenny Pippal"
+}

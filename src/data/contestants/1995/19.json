@@ -1,0 +1,58 @@
+{
+  "id": 19,
+  "country": "BE",
+  "artist": "Frédéric Etherlinck",
+  "song": "La voix est libre",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/YtcH83cV2Dg",
+    "https://www.youtube-nocookie.com/embed/K0Bf9hzO2kY",
+    "https://www.youtube-nocookie.com/embed/iVNDtTaC520"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "La voix est libre",
+      "content": "La voix est libre, libre de tout\nTout est possible et on s'en fout\nEn équilibre sur les genoux\nLa voix est libre, libre de tout\n\nLa voix est libre, libre de tout\nTout est possible et on s'en fout\nPrends-toi pour cible, tiens-toi debout\nLa voix est libre, libre de tout\n\nLibre de crier tes rêves\nLe matin quand tu te lèves\nT'inventer un face-à-face devant ta glace\nRegarde-toi dans les yeux et parle avec qui tu veux\nTu t'es pas levé pour rien, c'est déjà bien\n\nLa voix est libre, libre de tout\nTout est possible et on s'en fout\nEn équilibre sur les genoux\nLa voix est libre, libre de tout\n\nLibre d'effacer l'écran\nDe ces images en noir et sang\nTu peux changer les couleurs qui te font peur\n(Yeah, yeah, yeah...)\nQuand tu descends dans la rue, si on t'a pas reconnu\nT'as pas crié assez fort, essaie encore\n\nLa voix est libre, libre de tout\nTout est possible et on s'en fout\nEn équilibre sur les genoux\nLa voix est libre, libre de tout\n\nLa voix est libre, libre de tout\nTout est possible et tu t'en fous\nChacun sa bible écris partout\nLа voix eѕt libre, libre de tout"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The voice is free",
+      "content": "The voice is free, free of everything\nEverything is possible and we don't give a damn\nBalanced on our knees\nThe voice is free, free of everything\n\nThe voice is free, free of everything\nEverything is possible and we don't give a damn\nTake yourself as target, carry on\nThe voice is free, free of everything\n\nFree to cry out your dreams\nWhen you wake up in the morning\nTo imagine that you have a duel with your reflection\nLook yourself in the eyes and talk to whom you want\nYou didn't wake up for nothing, it's fine already\n\nThe voice is free, free of everything\nEverything is possible and we don't give a damn\nBalanced on our knees\nThe voice is free, free of everything\n\nFree to wipe out your screen\nOf those black and bloody pictures\nYou can change the colours that scare you\n(Yeah, yeah, yeah...)\nWhen you run down the street, if they didn't recognise you\nYou didn't cry out loud enough, try again\n\nThe voice is free, free of everything\nEverything is possible and we don't give a damn\nBalanced on our knees\nThe voice is free, free of everything\n\nThe voice is free, free of everything\nEverything is possible and you don't give a damn\nEach person hаs his own written bible\nThe voice iѕ free, free of everything"
+    }
+  ],
+  "bpm": 154,
+  "tone": "A major",
+  "artistPeople": [
+    "Frédéric Maeterlinck"
+  ],
+  "backings": [
+    "Angelo Crisci",
+    "Anne Theunis",
+    "Emilio Raponi",
+    "Jean-Paul Furnémont",
+    "Pierre Theunis"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Alec Mansion",
+  "lyricists": null,
+  "writers": [
+    "Pierre Theunis"
+  ],
+  "broadcaster": "RTBF",
+  "commentators": [
+    "André Vermeulen",
+    "Jean-Pierre Hautier"
+  ],
+  "jury": null,
+  "spokesperson": "Marie-Françoise Renson"
+}

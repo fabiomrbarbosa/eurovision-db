@@ -1,0 +1,416 @@
+{
+  "id": 24,
+  "country": "NO",
+  "artist": "Gåte",
+  "song": "Ulveham",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/YBbL8ORqNVU",
+    "https://www.youtube-nocookie.com/embed/JArm2ozAm0Q",
+    "https://www.youtube-nocookie.com/embed/UycoKAz1Jm8",
+    "https://www.youtube-nocookie.com/embed/UipzszlJwRQ",
+    "https://www.youtube-nocookie.com/embed/67V4QTypleM",
+    "https://www.youtube-nocookie.com/embed/Qs4ibmEh-qk",
+    "https://www.youtube-nocookie.com/embed/EmmXeF0MvQI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "norwegian"
+      ],
+      "displayedLanguages": [
+        "nynorsk"
+      ],
+      "title": "Ulveham",
+      "content": "Eg var meg så ven og fager ei møy\nMed stimoder vond, mi moder ho døy\nHo skapte meg om til eit svær og ei nål\nOg sende meg av ti kongens gård\nOg vreida mi stimoder kjende mest\nNår alle dei gillaste lika meg best\n\n…\n\nHo gav meg ein ham som ulve grå\nHo svor meg til einsam i skogjen gå\nOg аldri blir eg heil og god\nFør eg fær drukkje min broderѕ blod\n\n…"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "norwegian"
+      ],
+      "displayedLanguages": [
+        "bokmål"
+      ],
+      "title": "Ulveham",
+      "content": "Jeg var ei så vakker og fager møy\nMed ei stemor ond, mi mor hun døde\nHun gjorde meg om til et sverd og ei nål\nOg sendte meg av til kongens gård\nOg vreden mi stemor kjente mest\nNår alle de flotteste likte meg best\n\n…\n\nHun ga meg en ham som en ulv grå\nHun tvang meg til ensomt i skogen gå\nOg аldri blir jeg hel og god\nFør jeg får drukket min broderѕ blod\n\n…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "arabic"
+      ],
+      "displayedLanguages": null,
+      "title": "جلد الذئب",
+      "content": "لقد كنت عذراء صافية وجميلة المظهر\nمع زوجة أبي الشريرة، ماتت والدتي\nلقد حولتني إلى سيف وإبرة\nوأرسلتني إلى عزبة الملك\nوكان الغضب الذي شعرت به زوجة أبي أكثر من غيره\nعندما كان كل العظماء يحبونني أكثر\n\n…\n\nأعطتني جلد مثل الذئب الرمادي\nلقد لعنتني لكي أمشي وحدي في الغابة\nولن أكون كاملة أو صالحة أبدًا\nقبل أن أشرب دم أخي\n\n…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": null,
+      "title": "עור זאב",
+      "content": "הייתי פעם, אישה עדינה ויפת מראה\nעם אמא חורגת מרשעת, אמי האמיתית הלכה לעולמה\nהמרשעת הפכה אותי לחרב ומחט\nושלחה אותי לאחוזת המלך\nזעמה של אמי החורגת הורגש\nכשכל הטובים ביותר אהבו אותי יותר ממנה\n\n…\n\nהיא הפכה את עורי לעור זאב\nהיא קיללה אותי ללכת לבד ביער\nואני לעולם לא אהיה שלמה ובריאה\nעד שאוכל לשתות את לאחיי את הדם\n\n…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "romanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Piele de lup",
+      "content": "Eram atât de frumoasă și drăguță o fată\nCu o mamă vitregă rea, mama mea a murit\nM-a transformat într-un ac și un ac\nȘi m-a trimis la curtea regelui\nȘi mama vitregă m-a invidiat cel mai mult\nCând toți cei mai iubiți mă iubeau cel mai mult\n\n…\n\nMi-a dat un ham care era gri ca lupul\nM-a jurat să umblu singur prin pădure\nȘi nu voi fi niciodată întreg și sănătos\nPână nu voi bea ѕângele frаtelui meu\n\n…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "georgian"
+      ],
+      "displayedLanguages": null,
+      "title": "მგლის კანი",
+      "content": "Ისეთი პატიოსანი და ლამაზი გოგო ვიყავი\nᲑოროტ დედინაცვალთან, დედაჩემი - გარდაიცვალა\nᲛან მახვილად და ნემსად გადამაქცია\nᲓა მან გამომიგზავნა სამეფო მამულში\nᲓა დედინაცვალის ბრაზი ყველაზე მეტად იგრძნობოდა\nᲠოცა ყველაფერი მომეწონა ყველაზე მეტად\n\n…\n\nᲜაცრისფერი მგელივით კანი მომცა\nᲛან დამწყნა, ტყეში მარტო სიარული\nᲓა მე არასოდეს ვიქნები მთლიანი და ჯანმრთელი\nᲡანამ ჩემს ძმას სისხლს არ დავასხამ\n\n…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "estonian"
+      ],
+      "displayedLanguages": null,
+      "title": "Hundi Nahk",
+      "content": "Ma olin nii sõbralik ja ilus tüdruk\nKurja kasuemaga suri mu ema\nTa muutis minust mõõga ja nõela\nJa saatis mind kuninga häärberisse\nJa viha, mida mu kasuema tundis kõige rohkem\nKui kõik parimad mulle kõige rohkem meeldisid\n\n…\n\nTa andis mulle naha nagu hallile hundile\nTa sõimas mind üksi metsas kõndima\nJa ma ei oleks kunagi terve ja hea\nKuni ѕaan venna verd juuа\n\n…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "bosnian"
+      ],
+      "displayedLanguages": null,
+      "title": "Vučja koža",
+      "content": "Bila sam tako pravedna i lijepa djevojka\nSa zlom maćehom, majka mi je umrla\nOna me pretvorila u mač i iglu\nI poslala me na kraljevski posjed\nA bijes moje maćehe bio je najjači\nKad su me svi najugledniji najviše voljeli\n\n…\n\nDala mi je kožu poput sivog vuka\nProklela me da hodam sama po šumi\nI nikada ne bih bila cjelovita i dobra\nDok ne bih mogla popiti krv ѕvoga bratа\n\n…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "czech"
+      ],
+      "displayedLanguages": null,
+      "title": "Vlčí kůže",
+      "content": "Já byla tak férová a pohledná panna\nS ďábelskou nevlastní matkou, moje matka ona umřela\nProměnila mě v meč a jehlu\nA poslala mě pryč do královo panství\nA ten hněv který moje nevlastní matka cítila nejvíce\nKdyž všichni nejlepší mě měli nejraději\n\n…\n\nDala mi kůži jako šedý vlk\nZaklela mě v chození sama v lesích\nA že nikdy nebudu celá a dobrá\nDokud jѕem už mohla pít brаtrovu krev\n\n…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "croatian"
+      ],
+      "displayedLanguages": null,
+      "title": "Vučja koža",
+      "content": "Bila sam tako pravedna i lijepa djevojka\nSa zlom maćehom, majka mi je umrla\nOna me pretvorila u mač i iglu\nI poslala me na kraljevski posjed\nA bijes moje maćehe bio je najjači\nKad su me svi najugledniji najviše voljeli\n\n…\n\nDala mi je kožu poput sivog vuka\nProklela me da po šumi hodam sama\nI nikada neću biti potpuna i dobra\nDok ne popijem krv ѕvoga bratа\n\n…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "irish"
+      ],
+      "displayedLanguages": null,
+      "title": "Fear mac tíre",
+      "content": "Bhí mé chomh maith agus álainn go leor\nLe spreagadh olc, mi mother ho a dhéanamh\nD'iompaigh Ho isteach i gceann mór agus snáthaid mé\nAgus cuir amach mé feirm deich rí\nAgus is cosúil gurb é mo vreida an ceann is eolach\nNuair is fearr liom an gillaste ar fad\n\n…\n\nThug Ho ceann cosúil le mac tíre liath dom\nMhionnaigh Ho dom einsam san fhoraois dul\nAgus ní fhaighim heil aguѕ maith riamh\nSula n-ólaim fuil mo dheаrthár\n\n…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "azerbaijani"
+      ],
+      "displayedLanguages": null,
+      "title": "Qurd Dərisi",
+      "content": "Mən çox ədalətli və gözəl gənc qız idim\nPis ögey anası ilə anam öldü\nMəni qılınc və iynəyə çevirdi\nO, məni padşahın yanına yola saldı\nVə ən çox ögey anamın hiss etdiyi qəzəbi\nƏn böyük məni sevəndə\n\n…\n\nMənə boz qurd kimi dəri verdi\nMeşədə tək gəzmək üçün məni ѕöydü\nVə mən heç vaxt tam və yaxşı ola bilməzdim\nQardaşımın qаnını içməmişdən əvvəl\n\n…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Peau de loup",
+      "content": "J'étais une jeune fille si élégante et gracile\nDotée d'une affreuse marâtre, ma mère avait péri\nElle me transforma en épée et en aiguille\nEt m'envoya à la cour du roi\nEt ma marâtre ressentit une telle colère\nLorsque tous les grands de ce monde m'adorèrent\n\n…\n\nElle me donna une peau de loup gris\nEt me maudit à errer seule dans les bois\nEt je ne pourrais retrouver ma forme et ma bonté\nQu'après avoir bu le ѕаng de mon frère\n\n…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "indonesian"
+      ],
+      "displayedLanguages": null,
+      "title": "Kulit Serigala",
+      "content": "Aku adalah gadis yang dermawan dan rupawan\nDengan ibu tiri yang biadab. Ibuku telah tiada\nBeliau mengubahku menjadi pedang dan jarum\nDan mengirim aku ke tanah milik Sang Raja\nKemarahan ibu tiriku meluap\nKetika semua orang baik sangat menyukaiku\n\n…\n\nBeliau memberiku kulit serigala kelabu\nDan memaksaku pergi ke hutan sendirian\nDan aku takkan pernah menjadi utuh dan baik\nSebelum aku meminum darah ѕaudarаku\n\n…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": null,
+      "title": "Δέρμα Λύκου",
+      "content": "Ήμουν τόσο δίκαιη και βλέπουσα κοπέλα\nΜε μια κακιά μητριά, η μητέρα μου πέθανε\nΜε μετέτρεψε σε σπαθί και βελόνα\nΚαι με έστειλε στο κτήμα του βασιλιά\nΚαι την οργή που ένιωθε περισσότερο η μητριά μου\nΌταν όλοι οι μεγαλύτεροι με συμπαθούσαν περισσότερο\n\n…\n\nΜου έδωσε ένα δέρμα σαν γκρίζος λύκος\nΜε καταράστηκε να περπατάω μόνη μου στο δάσος\nΚαι ποτέ δεν θα ήμουν ολόκληρος και καλός\nΜέχρι να μπορέσω να πιω το αίμα του αδελφού μου\n\n…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "lithuanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Vilko oda",
+      "content": "Buvau labai šauni ir graži mergina\nSu pikta pamote. Mano mama buvo mirusi\nJi pavertė mane į kardą ir adatą\nIr išsiuntė mane į karaliaus dvarą\nMano pamotės rūstybė augo\nKai visi geriausi žmonės mane mylėjo labiausiai\n\n…\n\nJi man suteikė pilko vilko slėptuvę\nIr privertė mane eiti vieną į mišką\nIr aš niekada nebūčiau sveika ir gera\nPrieš išgeriant ѕavo brolio krаują\n\n…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Wolf skin",
+      "content": "I was a very fine and beautiful maiden\nWith an evil stepmother. My mother had died\nShe transformed me into a sword and a needle\nAnd sent me off to the King's estate\nThe wrath of my stepmother grew\nWhen all the fine people loved me most\n\n…\n\nShe gave me the hide of a grey wolf\nAnd forced me to go into the woods alone\nAnd I would never be whole and good\nBefore I hаd drunk of my brother'ѕ blood\n\n…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "icelandic"
+      ],
+      "displayedLanguages": null,
+      "title": "Úlfshúð",
+      "content": "Ég var svo heiðarleg og falleg stelpa\nMeð vondri stjúpmóður, móður minni - hún dó\nHún breytti mér í sverð og nál\nOg sendi mig til konungsbúsins\nOg reiði stjúpmóður minnar fannst hvað sterkast\nÞegar mér líkaði best af öllum\n\n…\n\nHún gaf mér húð eins og grár úlfur\nHún bölvaði mér að ganga ein í skóginum\nOg ég verð aldrei heil og heilbrigð\nÞangаð til ég drekk blóð bróður mínѕ\n\n…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "ukrainian"
+      ],
+      "displayedLanguages": null,
+      "title": "Вовча шкура",
+      "content": "Я була такою щедрою та чарівною дівчиною\nЗі злою мачухою, моя мати померла\nВона перетворила мене на меч та голку\nІ відправила мене до королівського двору\nІ гнів моєї мачухи найбільше відчувався\nКоли всі найвеличніші любили мене найбільше\n\n…\n\nВона дала мені шкуру, як у сірого вовка\nВона прокляла мене, щоб я ходила самотня у лісі\nЯ ніколи не буду цілісною і доброю\nДоки не вип'ю крові свого брата\n\n…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "belarusian"
+      ],
+      "displayedLanguages": null,
+      "title": "Воўчая шкура",
+      "content": "Я была такой сумленнай і прыгожай дзяўчынай\nСа злой мачахай, мая маці - яна памерла\nЯна ператварыла мяне ў меч і іголку\nІ адправіла мяне ў каралеўскі маёнтак\nІ гнеў маёй мачахі адчуваўся мацней за ўсё\nКалі я падабалася ўсім найвялікшым больш за ўсё\n\n…\n\nЯна дала мне шкуру, як у шэрага ваўка\nЯна пракляла мяне, каб я шпацыравала адна па лесе\nІ я ніколі не буду цэлай і здаровай\nПакуль я не вып'ю кроў майго брата\n\n…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Pelle di lupo",
+      "content": "Ero una fanciulla così bella e graziosa\nCon una matrigna malvagia, mia madre è morta\nLei mi trasformò in una spada e in un ago\nE mi mandò nei possedimenti del re\nE l'ira che la mia matrigna provò fu di più\nQuando tutti i più potenti mi preferirono\n\n…\n\nLei mi donò la pelle di un lupo grigio\nLei mi maledisse affinché camminassi da sola nel bosco\nE non mi sentirò mai bene e sana\nFin quando non potrò bere il ѕangue di mio frаtello\n\n…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "armenian"
+      ],
+      "displayedLanguages": null,
+      "title": "Գայլի Մաշկ",
+      "content": "Ես այնաքան ազնիվ և գեղեցիկ աղջիկ էի\nՉար խորդ մայրով, իմ մայրը- նա մահացել էր\nՆա ինձ թուր ու ասեղ էր դարձրել\nԵՒ ուղարկել էր ինձ թագավորական վայր\nԵՒ իմ խորդ մոր չարությունը' ամենաշատն էր զգացվում\nԵրբ ես դուր էի գալիս բարձագույններին ամենից շատ\n\n…\n\nՆա տվեց ինձ մաշկ ինչպես գորշ գայլինն էր\nՆա անիծել էր ինձ որպեսզի ես զբոսնեյի անտառում միայնակ\nԵՒ ես երբեք չեմ լինի առողջ ու անվնաս\nՄինչև ես չխմեմ իմ եղբոր արյունը\n\n…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "serbian"
+      ],
+      "displayedLanguages": null,
+      "title": "Вучја кожа",
+      "content": "Била сам тако лепа и наочита девојка\nСа злом маћехом, моја мајка је умрла\nПретворила ме је у мач и иглу\nИ послала ме је на краљевско имање\nГнев моје маћехе осећао се највише\nКад су сви највећи волели мене\n\n…\n\nДала ми је кожу сивог вука\nПроклела ме је да ходам сама по шуми\nИ да никад не будем целовито и добро\nСве док не будем могла попити крв мог брата\n\n…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "bulgarian"
+      ],
+      "displayedLanguages": null,
+      "title": "Вълча кожа",
+      "content": "Бях толкова честно и красиво момиче\nСъс зла мащеха, майка ми тя умря\nТя ме превърна в меч и игла\nИ ме изпрати в кралското имение\nИ гневът на мащехата ми се усещаше най-силно\nКогато бях харесван от всички най-велики най-много\n\n…\n\nТя ми даде кожа като сив вълк\nТя ме прокле да ходя сам в гората\nИ никога няма да бъда цял и здрав\nДокато не изпия кръвта на брат си\n\n…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "albanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Lëkura E Ujkut",
+      "content": "Unë isha një vajzë kaq e bukur dhe e pashme\nMe një njerkë të keqe, që kur nëna ime vdiq\nAjo më ktheu në një shpatë dhe një gjilpërë\nDhe më dërgoi në kështjellën e mbretit\nDhe më të madhin zemërim e ndjeu njerka ime\nKur të gjithë më madhëshorët më pëlqyen më shumë\n\n…\n\nAjo më dha një lëkurë si të një ujku gri\nAjo më mallkoi të ecja vetëm në pyll\nDhe nuk do të isha kurrë si më parë\nDeri ѕa të pija gjakun e vëllаit tim\n\n…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "danish"
+      ],
+      "displayedLanguages": null,
+      "title": "Ulveskind",
+      "content": "Jeg var sådan et fint og smukt pigebarn\nMed en ond stedmor, min mor var død\nHun forvandlede mig til et sværd og en nål\nOg sendte mig til kongens gård\nOg min stedmors vrede føltes stærkest\nNår alle de bedste holdt mest af mig\n\n…\n\nHun gav mig en hud som en grå ulv\nHun tvang mig til at gå alene i skoven\nOg jeg bliver aldrig hel og rаsk\nFør jeg drikker min brorѕ blod\n\n…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Suden nahka",
+      "content": "Olin niin ystävällinen ja nätti tyttö\nKanssa ilkeän äitipuolen, äitini kuoli\nHän muutti minut miekaksi ja neulaksi\nJa lähetti minut kunikaankartanolle\nJa viha, jonka äitipuoleni tunsi eniten\nKun kaikki parhaat pitivät minusta eniten\n\n…\n\nHän antoi minulle nahan kuin harmaalla sudella\nHän kirosi minut kävelemään yksin metsässä\nJa en tulisi koskaan olemaan kokonainen ja hyvä\nKunnes pyѕtyn juomaan veljeni vertа\n\n…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "catalan"
+      ],
+      "displayedLanguages": null,
+      "title": "Pell de llop",
+      "content": "Jo era una donzella tan elegant i bonica\nAmb una madrastra malvada, la meva mare va morir\nEm va convertir en una espasa i una agulla\nI em va enviar a la cort del rei\nI la ira que la meva madrastra més va sentir va ser\nQuan als més poderosos qui més els agradava era jo\n\n…\n\nEm va donar una pell com d'un llop gris\nEm va maleir a caminar sola pel bosc\nI no podria mai ser sencera i bona\nFins que em begués la ѕаng del meu germà\n\n…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "Wolvenhuid",
+      "content": "Ik was zo'n eerlijk en fraai meisje\nMet een slechte stiefmoeder, mijn moeder was dood\nZe veranderde mij in een zwaard en een naald\nEn stuurde me naar de koning zijn landgoed\nEn de wraak die mijn stiefmoeder bij zich droeg\nToen de grootsten mij het leukste vonden\n\n…\n\nZe gaf mij een huid als een grijze wolf\nZe betoverde me om alleen door het boѕ te lopen\nEn ik zal nooit heel en goed worden\nTotdat ik het bloed vаn mijn eigen broer dronk\n\n…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Vargskinn",
+      "content": "Jag var mig en mö så vän och fager\nMed styvmoder ond, min moder hon dog\nHon gjorde mig om till til ett svärd och en nål\nOch sände mig av till kungens gård\nOch vrede kände min styvmoder mest\nNär alla de största tyckte om mig bäst\n\n…\n\nHon gav mig ett skinn som varg grå\nHon bad mig att ensam i skogen gå\nOch aldrig blir jag hel och god\nFörrän jag fått drickа min broderѕ blod\n\n…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Волчья шкура",
+      "content": "Я была такой честной и красивой девушкой\nСо злой мачехой, моя мать - она умерла\nОна превратила меня в меч и иглу\nИ отправила меня в королевское поместье\nИ гнев моей мачехи ощущался сильнее всего\nКогда я нравилась всем величайшим больше всего\n\n…\n\nОна дала мне шкуру, как у серого волка\nОна прокляла меня, чтобы я гуляла одна по лесу\nИ я никогда не буду целой и здоровой\nПока я не выпью кровь моего брата\n\n…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "turkish"
+      ],
+      "displayedLanguages": null,
+      "title": "Kurt Derisi",
+      "content": "Çok adaletli ve güzel bir genç kızdım\nŞeytani bir üvey anneyle, annem öldü\nO beni bir kılıç ve iğneye dönüştürdü\nVe beni kralın yerine uğurladı\nVe en çok üvey annemin hissettiği öfke\nEn büyükler en çok beni sevdiğinde\n\n…\n\nO bana gri bir kurt gibi bir deri verdi\nOrmanda yalnız yürümem için beni lanetledi\nVe aѕla tam ve iyi olamazdım\nErkek kardeşimin kаnını içemeden\n\n…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Wolfshaut",
+      "content": "Ich war eine faire und ansehliche Maid\nMit einer bösen Stiefmutter, meine Mutter sie starb\nSie machte mich zum Schwert und zur Nadel\nUnd schickte mich zum Anwesen des Königs\nUnd den Zorn fühlte meine Stiefmutter am meisten\nWenn all' die Größten mich am meisten mochten\n\n…\n\nSie gab mir eine Haut, wie die eines grauen Wolfs\nSie verfluchte mich allein' in den Wäldern zu laufen\nUnd ich wäre nie komplett und gut\nBis ich dаs Blut meines Bruderѕ trinken könnte\n\n…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Pele de Lobo",
+      "content": "Eu era uma moça tão bela e tão formosa\nCom uma madrasta malvada, a minha mãe morreu\nEla transformou-me numa espada e numa agulha\nEla enviou-me para a corte do rei\nE a fúria que a minha madrasta sentiu foi maior\nQuando todos os poderosos gostaram mais de mim\n\n…\n\nEla transformou-me a pele na de um lobo\nEla amaldiçoou-me a vaguear pelos bosques\nE que eu nunca me sentiria bem e completa\nAté eu beber o ѕаngue do meu irmão\n\n…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "faeroese"
+      ],
+      "displayedLanguages": null,
+      "title": "Úlvahúð",
+      "content": "Eg var ein so erlig og vøkur genta\nVið óndari stjúkmammu, mammu míni - hon doyði\nHon gjørdi meg til svørð og nál\nOg sendi meg í kongsbúgvið\nOg vreiði hjá stjúkmóður míni kendist sterkast\nTá eg var dámdur av øllum teimum størstu mest\n\n…\n\nHon gav mær eitt húð sum ein gráur úlvur\nHon bannaði meg at ganga ein í skóginum\nOg eg verði ongаntíð heil og frísk\nInntil eg drekki bróður mínѕ blóð\n\n…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Piel de lobo",
+      "content": "Yo era una doncella tan bella y atractiva\nCon una madrastra malvada, mi madre murió\nElla me convirtió en una espada y una aguja\nY me envió a la finca del rey\nY la ira que más sintió mi madrastra fue\nCuando a todos los más grandes les agradaba más\n\n…\n\nElla me dio una piel como de lobo gris\nElla me maldijo para que caminara sola en el bosque\nY nunca me sintiera plena y buena\nHasta que pudiera beber la ѕangre de mi hermаno\n\n…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "hungarian"
+      ],
+      "displayedLanguages": null,
+      "title": "Farkasbőr",
+      "content": "Olyan becsületes és csinos lány voltam\nEgy gonosz mostohaanyával, anyám meghalt\nÁtalakított egy karddá s tűvé\nÉs elküldött a király birtokára\nÉs a harag amit mostohaanyám érzett\nMikor a legnagyobbak engem jobban kedveltek\n\n…\n\nEgy szürke farkas bőrét adta rám\nMegátkozott, hogy egyedül legyek\nÉs sohаsem leszek egész és jó\nAmíg meg nem iѕzom bátyám vérét\n\n…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "chinese"
+      ],
+      "displayedLanguages": null,
+      "title": "狼皮",
+      "content": "我曾是一位優雅美麗的少女\n有個惡毒的繼母　我的母親已經去世\n她將我化成一把劍和一根針\n並將我送至國王的莊園\n繼母的怒火與日俱增\n當所有善良的人都最愛我時\n\n…\n\n她給了我灰狼的毛皮\n強迫我獨自走入密林\n我永遠無法恢復原樣和善良\n除非我喝下我兄弟的血液\n\n…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "polish"
+      ],
+      "displayedLanguages": null,
+      "title": "Wilcza skóra",
+      "content": "Byłam taką piękną i czarującą dziewczyną\nZe złą macochą, moja matka - ona umarła\nOna zmieniła mnie w miecz i igłę\nI wysłała do królewskiego dworu\nI gniew mojej macochy był najbardziej odczuwalny\nGdy wszyscy najwięksi lubili mnie najbardziej\n\n…\n\nOna dała mi skórę jak szarego wilka\nOna przeklęła mnie bym samotnie po lesie ѕzła\nI ja nigdy nie będę cała i dobra\nDopóki nie wypiję krwi mojego bratа\n\n…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "latvian"
+      ],
+      "displayedLanguages": null,
+      "title": "Vilkāda",
+      "content": "Es biju tik godīga un glīta jaunava\nAr ļaunu pamāti, mana māte - viņa nomira\nViņa pārvērta mani zobenā un adatā\nUn nosūtīja mani uz karaļnamu\nUn naids, kuru mana pamāte juta visstiprāk\nKad visiem labākajiem es patiku visvairāk\n\n…\n\nViņa iedeva man ādu kā pelēkam vilkam\nViņa nolādēja mani staigāt vienai mežā\nUn es nekad nebūšu vesela un laba\nLīdz es nedzeršu sava brāļa аsiniѕ\n\n…"
+    }
+  ],
+  "bpm": 130,
+  "tone": "B minor",
+  "artistPeople": [
+    "Gunnhild Sundli",
+    "John Stenersen",
+    "Jon Even Schärer",
+    "Magnus Børmark",
+    "Mats Paulsen"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Mona Berntsen",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Gunnhild Sundli",
+    "Jon Even Schärer",
+    "Magnus Børmark",
+    "Marit Jensen Lillebuen",
+    "Ronny Graff Janssen",
+    "Sveinung Eklo Sundli"
+  ],
+  "broadcaster": "NRK",
+  "commentators": [
+    "Marte Stokstad"
+  ],
+  "jury": [
+    "Annprincess Johnson Koffa",
+    "Daniel Johansen Elmrhari",
+    "Gunnilla Sussmann",
+    "Lars Horn Lavik",
+    "Lisa Stokke"
+  ],
+  "spokesperson": "Ingvild Helljesen"
+}

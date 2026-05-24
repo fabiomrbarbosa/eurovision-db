@@ -1,0 +1,59 @@
+{
+  "id": 23,
+  "country": "EE",
+  "artist": "Silvi Vrait",
+  "song": "Nagu Merelaine",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/6kcB60LSXj0",
+    "https://www.youtube-nocookie.com/embed/p0BWDVulEGA",
+    "https://www.youtube-nocookie.com/embed/L4oqW8EKCqw",
+    "https://www.youtube-nocookie.com/embed/UrkfzqspyPY",
+    "https://www.youtube-nocookie.com/embed/hlRIG_kMDG8",
+    "https://www.youtube-nocookie.com/embed/GYm-voUqd0U",
+    "https://www.youtube-nocookie.com/embed/EbnAH8EKvdM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "estonian"
+      ],
+      "displayedLanguages": null,
+      "title": "Nagu Merelaine",
+      "content": "Ma saabun salaja, kui laine, mis randa merevaiku viib\nJa meremaik mu huulte peal on maine, kui rõivas võbeleb kui tiib\n\nOlla võin kui jää või tulikuum, su kõigi unistuste tuum\nJa valgel ööl ka varjust truum\nEnda nii sulle tõin ma, kuigi tean, et homme võin ma\nMuutuda vaid nimeks sinu suul\n\nJa muutun samuti kui laine, mis piire millekski ei pea\nSa oled mees ja mina olen naine, tean mõnda, mida sa ei tea\n\nOlla võin kui jää või tulikuum, su kõigi unistuste tuum\nJa valgel ööl ka varjust truum\nEnda nii sulle tõin ma, kuigi tean, et homme võin ma\nMuutuda vaid nimeks sinu suul\n\nMa olen nagu päev, sa öö, üks meri teine on kui maa\nKui palju tundeid mahub meie vahele, aimata ei suuda keegi\nMuutub meri, muutub maagi\n\nOlla võin kui jää või tulikuum, su kõigi unistuste tuum\nJa valgel ööl ka varjust truum\nEnda nii sulle tõin ma, kuigi tean, et homme võin ma –\nMuutuda vaid nimeks sinu suul\n\n(Olla võin kui jää või tulikuum,) su kõigi unistuste tuum\nJa valgel ööl ka varjust truum\nEnda nii sulle tõin ma, kuigi tean, et homme võin ma –\nMuutuda vaid nimeks sinu suul\n\nMuutuda vаid nimeks sinu ѕuul"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Like a seawave",
+      "content": "I arrive secretly, as a wave, that brings the amber to the shore\nAnd the taste of sea on my lips is earthly, when garment flickers as a wing\n\nI can be as ice or burninghot, the core of your every dream\nAnd in the white night even faithful than a shadow\nSo I brought myself to you, though I know, tomorrow I may\nBecome just a name on your lips\n\nAnd I also change as a wave, that considers borders as nothing\nYou are a man and I am a woman, I know some things, that you don't know\n\nI can be as ice or burninghot, the core of your every dream\nAnd in the white night even faithful than a shadow\nSo I brought myself to you, though I know, tomorrow I may\nBecome just a name on your lips\n\nI'm like a day, youre a night, one is the sea, the other just as the land\nHow many feelings can there be between us, no one can intuit\nThe sea will change, so does the land\n\nI can be as ice or burninghot, the core of your every dream\nAnd in the white night even faithful than a shadow\nSo I brought myself to you, though I know, tomorrow I may\nBecome just a name on your lips\n\n(I can be as ice or burninghot,) the core of your every dream\nAnd in the white night even faithful than a shadow\nSo I brought myself to you, though I know, tomorrow I may\nBecome just a name on your lips\n\nBecome just a nаme on your lipѕ"
+    }
+  ],
+  "bpm": 91,
+  "tone": "Eb minor",
+  "artistPeople": [
+    "Silvi Vrait"
+  ],
+  "backings": [
+    "Karl Madis"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ivar Must"
+  ],
+  "conductor": "Urmas Lattikas",
+  "lyricists": [
+    "Leelo Tungal"
+  ],
+  "writers": null,
+  "broadcaster": "ERR",
+  "commentators": [
+    "Vello Rand"
+  ],
+  "jury": null,
+  "spokesperson": "Urve Tiidus"
+}

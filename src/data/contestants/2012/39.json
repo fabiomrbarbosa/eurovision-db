@@ -1,0 +1,50 @@
+{
+  "id": 39,
+  "country": "LV",
+  "artist": "Anmary",
+  "song": "Beautiful Song",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/KAxYfMFE_94",
+    "https://www.youtube-nocookie.com/embed/BeXo4HzpmuU",
+    "https://www.youtube-nocookie.com/embed/DuOBY-S63Rk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Beautiful Song",
+      "content": "I was born in distant nineteen-eighty\nThe year that Irish Johnny Logan won\nThirty years or more, they still remember\nSo dream away, today's the day, I'm singing my song\n\nWhen I join this grand parade of winners\nAnd we've made this song a worldwide hit\nI will buy oh my own mic to sing in\nAnd all the jobs I've had before I'm surely gonna quit\n\nBeautiful song is on the radio, is in the TV shows and plays on and on\nBeautiful song that everybody hums and everybody loves\nBeautiful song is on the radio, is in the TV shows and plays on and on\nBeautiful song that everybody hums and everybody loves\n\nMy mamma said to grow and be a singer\nDad just smiled and gave me my guitar\nI did my best and I'll be so much better\nBrightest of the highest and the farthest of the stars\n\nAnd on the day when Sir Mick Jagger phones me\nTell him please that I am very busy\nWriting brand new songs with Paul McCartney\n\"So sorry, Mick, I'll call you back, one day I'll call you back\"\n\nBeautiful song is on the radio, is in the TV shows and plays on and on\nBeautiful song that everybody hums and everybody loves\nBeautiful song is on the radio, is in the TV shows and plays on and on\nBeautiful song that everybody hums and everybody loves\n\nBeautiful song is on the radio, is in the TV shows\nBeautiful song that everybody hums and everybody loves\n\nBeautiful song is on the radio, is in the TV shows and plays on and on\nBeautiful song that everybody hums and everybody loves\n(Beautiful song is on the radio, is in the TV shows and plays on and on)\nBeautiful song that everybody hums аnd everybody loveѕ"
+    }
+  ],
+  "bpm": 88,
+  "tone": "Ab minor",
+  "artistPeople": [
+    "Linda Amantova"
+  ],
+  "backings": [
+    "Anita Levša",
+    "Anna Zhukova",
+    "Jelena Matule",
+    "Līga Robežniece"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ivars Makstnieks"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Rolans Ūdris"
+  ],
+  "writers": null,
+  "broadcaster": "LTV",
+  "commentators": [
+    "Kārlis Būmeisters",
+    "Valters Frīdenbergs"
+  ],
+  "jury": null,
+  "spokesperson": "Valters Frīdenbergs"
+}

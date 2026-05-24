@@ -1,0 +1,44 @@
+{
+  "id": 27,
+  "country": "NL",
+  "artist": "Glennis Grace",
+  "song": "My Impossible Dream",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/S_Yy3L4mJKo",
+    "https://www.youtube-nocookie.com/embed/v65DIfYw5mE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "My impossible dream",
+      "content": "I have a dream…\n\nYou 'n' me, we're driftin' far apart\nOur story has been told\nCan't you see, the writing's on the wall?\nI've come in from the cold\nAnd I will follow my dream\n\nI'll fight the big wide world\nI'll make it on my own\nAgainst all odds I'm breakin' free\nThe gauntlet has been thrown\nMy colours have been shown\nNow I seek my impossible dream\n\nNow's the time\nTo hold my head up high\nFind my identity\nSo I will follow my dream\n\nI'll fight the big wide world\nI'll make it on my own\nAgainst all odds I'm breakin' free\nThe gauntlet has been thrown\nMy colours have been shown\nNow I seek my impossible dream\n\nMy dream…\n\nI'll fight the big world\nI'll make it on my own again\nAgainst all odds I'm breakin' free\nThe gauntlet has been thrown\nMy colours have been shown\nNow I seek my imposѕible dreаm"
+    }
+  ],
+  "bpm": 136,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Glenda Batta"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Robert D. Fisher"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Bruce Smith"
+  ],
+  "writers": null,
+  "broadcaster": "NOS",
+  "commentators": [
+    "Cornald Maas",
+    "Willem van Beusekom"
+  ],
+  "jury": null,
+  "spokesperson": "Nancy Coolen"
+}

@@ -1,0 +1,60 @@
+{
+  "id": 6,
+  "country": "NL",
+  "artist": "Saskia & Serge",
+  "song": "Tijd",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/I2jYbjgZypA",
+    "https://www.youtube-nocookie.com/embed/5mt-y0PZIVM",
+    "https://www.youtube-nocookie.com/embed/n1tJB67w-w4",
+    "https://www.youtube-nocookie.com/embed/Lacp3Co8UVE",
+    "https://www.youtube-nocookie.com/embed/ANpaVNRcsek"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "Tijd",
+      "content": "Jij stuurde mij je dromen\nMaar dat was niet genoeg\nIk vroeg je zelf te komen\nIk vroeg het veel te vroeg\n\nVerlangen is een bloesem\nEn bloesem wordt een vrucht\nEn stormen worden opgebouwd\nUit adem, zucht voor zucht\n\nJij stuurde mij verhalen\nDie las ik veel te vlug\nEen snoer met duizend kralen\nEn nog was jij niet terug\n\nEen vogel trekt naar 't zuiden\nPrecies op uur en dag\nEn wie geen tranen heeft geplengd\nHerkent geen echte lach\n\nJij komt om mij te warmen\nDe stip komt dichterbij\nIk voel al haast je armen\nHet wachten is voorbij\n\nDe tijd bepaalt het ritme\nEn gaat zijn eigen gang\nEn iemand die nog vlugger wil\nDie maakt het eenѕ zo lаng"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Time",
+      "content": "You sent me your dreams\nBut that wasn't enough\nI asked you to come yourself\nI asked it way too early\n\nDesire is a blossom\nAnd a blossom becomes a fruit\nAnd storms are composed\nOf breath, sigh by sigh\n\nYou sent me stories\nI read them way too quick\nA necklace with thousand beads\nAnd still you weren't back\n\nA bird migrates southward\nOn the exact hour and day\nAnd those who didn't shed tears\nDon't recognise a real laugh\n\nYou come to warm me\nThe dot is coming closer\nI can almost feel your arms\nThe waiting is over\n\nThe time sets the rhythm\nAnd goes its own way\nAnd someone who wants to go even faster\nMakes it twice аѕ long"
+    }
+  ],
+  "bpm": 110,
+  "tone": "F major",
+  "artistPeople": [
+    "Trudy van den Berg",
+    "Ruud Schaap"
+  ],
+  "backings": [
+    "Joop Stokkermans",
+    "José van den Heuvel",
+    "Lenian Benjamins"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Joop Stokkermans"
+  ],
+  "conductor": "Dolf van der Linden",
+  "lyricists": [
+    "Gerrit den Braber"
+  ],
+  "writers": null,
+  "broadcaster": "NOS",
+  "commentators": [
+    "Pim Jacobs"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

@@ -1,0 +1,51 @@
+{
+  "id": 26,
+  "country": "AM",
+  "artist": "Emmy",
+  "song": "Boom Boom",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/FsKBnL6dWOk",
+    "https://www.youtube-nocookie.com/embed/zqJD7fPSWAc",
+    "https://www.youtube-nocookie.com/embed/nJiOylTbwPg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Boom Boom",
+      "content": "My days and nights are passing, long hours are running\nBut we are still fighting – ay ay ay\nThe love is still so shining, why are we denying?\nI really don't know why – ay ay ay\n\nCome and take my hand, now don't be shy (Don't be shy)\nAnd let's try to hold our spirits high (Spirits high)\n\nBoom boom, chucka chucka, your kiss is like a, like a\nBoom boom, chucka chucka, your love is like a, like a\nI wanna say that one thing is true (True)\nI'm in love with you\n\nBoom boom, chucka chucka, your kiss is like a, like a\nBoom boom, chucka chucka, your love is like a, like a\nI wanna say that one thing is true (True)\nI'm in love with you\n\nI know that love cannot lie, I wanna give you a new try\nSo there's no need to cry – ay ay ay\nAnd if you want, we can fly, high up to the sky\nJust you and I – ay ay ay ay\n\nCome and take my hand, now don't be shy\nAnd let's try to hold our spirits high\n\nBoom boom, chucka chucka, your kiss is like a, like a\nBoom boom, chucka chucka, your love is like a, like a\nI wanna say that one thing is true (True)\nI'm in love with you\n\nBoom boom, chucka chucka, your kiss is like a, like a\nBoom boom, chucka chucka, your love is like a, like a\nI wanna say that one thing is true (True)\nI'm in love with you\n\nYou are the strongest fighter\nYou're the king for me (I'm in love with you)\nIt's time to win me in the ring of love, baby\nBaby, boom\n\nBoom boom, chucka chucka, your kiss is like a, like a\nBoom boom, chucka chucka, your love is like a, like a\nI wanna say that one thing is true (True)\nI'm in love with you\n\nBoom boom, chucka chucka, your kiss is like a, like a\nBoom boom, chucka chucka, your love is like a, like a\nI wanna say thаt one thing iѕ true (True)\nI'm in love with you"
+    }
+  ],
+  "bpm": 130,
+  "tone": "C minor",
+  "artistPeople": [
+    "Emma Bejanyan"
+  ],
+  "backings": [
+    "Charalampos Christodoulou",
+    "Charis Savvas",
+    "Emy Armine Zaryan",
+    "Jenia Evgenios Buli",
+    "Petros Zlatkos"
+  ],
+  "dancers": null,
+  "stageDirector": "Emy Armine Zaryan",
+  "composers": [
+    "Hayk Harutyunyan",
+    "Hayk Hovhannisyan"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Sosi Khanikyan"
+  ],
+  "writers": null,
+  "broadcaster": "AMPTV",
+  "commentators": [
+    "Artak Vardanyan"
+  ],
+  "jury": null,
+  "spokesperson": "Lusine Tovmasyan"
+}

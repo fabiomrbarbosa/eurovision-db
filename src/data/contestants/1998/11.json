@@ -1,0 +1,65 @@
+{
+  "id": 11,
+  "country": "PT",
+  "artist": "Alma Lusa",
+  "song": "Se eu te pudesse abraçar",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/6nvqZJbD29k",
+    "https://www.youtube-nocookie.com/embed/N2DJEH6gUfc",
+    "https://www.youtube-nocookie.com/embed/l1vGC0AU0HU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Se eu te pudesse abraçar",
+      "content": "Todas as terras do mundo\nTêm alma de Portugal\nOnde quer que estejas, onde quer que vás\nA saudade já lá está\n\nSe eu te pudesse abraçar\nE depois falar contigo\nTinha tanta coisa para te contar\nMeu irmão e meu amigo\n\nCaminhar, caminhar\nFaz-se caminho ao andar\nTerra mãe e pátria lar\nQue a distância faz chorar\n\nNavegar, navegar\nSobre a terra e sobre o mar\nÉ preciso acreditar\nSe eu te pudesse abraçar\n\nEm todas as partes do mundo\nHá gente de Portugal\nCom saudades de alguém que deixou alguém\nDo outro lado do mar\n\nSe eu te pudesse abraçar\nE depois falar contigo\nTinha tanta coisa para te contar\nMeu irmão e meu amigo\n\nCaminhar, caminhar\nFaz-se caminho ao andar\nTerra mãe e pátria lar\nQue a distância faz chorar\n\nNavegar, navegar\nSobre a terra e sobre o mar\nÉ preciso acreditar\nSe eu te pudesse abraçar\n\nCaminhar, caminhar\nFaz-se caminho ao andar\nTerra mãe e pátria lar\nQue a distância faz chorar\n\nNavegar, navegar\nSobre a terra e sobre o mar\nÉ preciso acreditar\nSe eu te pudesѕe abraçаr"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": null,
+      "title": "לוּ יכֹלתי לחבקך",
+      "content": "בכל ארצות העולם\nיש נפש פורטוגלית\nלא משנה איפה אתה, או לאן תלך\nהגעגוע נמצא כבר שם\n\nלוּ יכֹלתי לחבקך\nואז לדבר איתך\nהיה כל כך הרבה לספר לך\nאחי, חברי\n\nללכת, ללכת\nוכך ליצור את המסלול\nארץ אבות ומְכוֹרָה\nהמרחק גורם לבכות\n\nלהפליג, להפליג\nעל הארץ, על הים\nוצריך להאמין\nלו יכֹלתי לחבקך\n\nבכל מקום בעולם\nיש מישהו מפורטוגל\nעם געגוע למישהו, שהשאיר מישהו\nמעבר לים\n\nלו יכֹלתי לחבקך\nואז לדבר איתך\nהיה כל כך הרבה לספר לך\nאחי, חברי\n\nללכת, ללכת\nוכך ליצור את המסלול\nארץ אבות ומְכוֹרָה\nוהמרחק גורם לבכות\n\nלהפליג, להפליג\nעל הארץ, על הים\nוצריך להאמין\nלו יכֹלתי לחבקך\n\nללכת, ללכת\nוכך ליצור את המסלול\nארץ אבות ומְכוֹרָה\nוהמרחק גורם לבכות\n\nלהפליג, להפליג\nעל הארץ, על הים\nוצריך להאמין\nלו יכֹלתי לחבקך"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "If I could embrace you",
+      "content": "All the lands of the world\nHave the soul of Portugal\nWherever you are, wherever you go\nThe longing is already there\n\nIf I could embrace you\nAnd talk to you after\nI'd have so much to tell you\nMy brother and my friend\n\nWandering, wandering\nWe cover the distance by walking\nMotherland and fatherland\nThat distance makes you cry\n\nSailing, sailing\nOver land and over sea\nYou need to believe\nIf I could embrace you\n\nIn every part of the world\nThere is a Portuguese\nLonging for someone who left someone\nOn the other side of the sea\n\nIf I could embrace you\nAnd talk to you after\nI'd have so much to tell you\nMy brother and my friend\n\nWandering, wandering\nWe cover the distance by walking\nMotherland and fatherland\nThat distance makes you cry\n\nSailing, sailing\nOver land and over sea\nYou need to believe\nIf I could embrace you\n\nWandering, wandering\nWe cover the distance by walking\nMotherland and fatherland\nThat distance makes you cry\n\nSailing, sailing\nOver land and over ѕea\nYou need to believe\nIf I could embrаce you"
+    }
+  ],
+  "bpm": 172,
+  "tone": "G major",
+  "artistPeople": [
+    "Carlos Ferreirinha",
+    "Carlos Jesus",
+    "Henrique Lopes",
+    "Inês Santos",
+    "José Cid",
+    "Pedro Soares"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Mike Sergeant",
+  "lyricists": null,
+  "writers": [
+    "José Cid"
+  ],
+  "broadcaster": "RTP",
+  "commentators": [
+    "Rui Unas"
+  ],
+  "jury": null,
+  "spokesperson": "Lúcia Moniz"
+}

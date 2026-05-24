@@ -1,0 +1,57 @@
+{
+  "id": 12,
+  "country": "IS",
+  "artist": "Anna Mjöll",
+  "song": "Sjúbídú",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/2K6OpOt-FR0",
+    "https://www.youtube-nocookie.com/embed/5_tCpMqwuOg",
+    "https://www.youtube-nocookie.com/embed/2gILlTmi7kU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "icelandic"
+      ],
+      "displayedLanguages": null,
+      "title": "Sjúbídú",
+      "content": "(Sjúbí-dúbí-dú)\nLouis hann söng margt sjúbídú\nSarah og Ella með\nFrankie hann söng \"New York, New York\"\nOg sjúbídú, sjúbídú\n\nHeyrðir þú Sammy sjúbídú?\nSöng ekki Nat Cole með?\nManst' eftir Elvis syngja \"Love Me Tender\"?\nOg sjúbídú, sjúbídú\n\nSjúbídú, sjúbídú\nMenn skilja jafnt á Skagaströnd og Tímbúktú\nSjúbídú, sjúbídú\nÍ öllum heimi einum rómi sjúbídú\n\nDizzy hann dáði sjúbídú\nDýrðlegan flutti tón\nOg Billie Holiday um síðkvöld söng margt\nSjúbídú, sjúbídú\n\nSjúbídú, sjúbídú\nMenn skilja jafnt á Skagaströnd og Tímbúktú\nSjúbídú, sjúbídú\nÍ öllum heimi einum rómi sjúbídú\n\nTónanna mál í sérhverri sál\nSungið með hjartans tilfinningu\nSama hvar er, söngurinn fer\nSvífandi á væng' um geim\n\n(Sjúbídú, sjúbídú) Sjúbí-dúbí\nMenn skilja jafnt á Skagаströnd og Tímbúktú\nSjúbídú, ѕjúbídú\n(Sjúbí-dúbí-dú) Sjúbí-dúbí-dú"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Shoobe-doo",
+      "content": "(Shoobe-doobe doo)\nLouis he sang alot shoobe-doo\nSarah and Ella too\nFrankie he sang \"New York, New York\"\nAnd shoobe-doo, shoobe-doo\n\nDid you hear Sammy, shoobe-doo?\nDidn't Nat Cole sing along?\nD'you remember Elvis singing \"Love Me Tender\"?\nAnd shoobe-doo, shoobe-doo\n\nShoobe-doo, shoobe-doo\nPeople understand it even on Skagaströnd and Timbuktu\nShoobe-doo, shoobe-doo\nIn the whole world, all together shoobe-doo\n\nDizzy he adored shoobe-doo\nAdorably did few tones\nAnd Billie Holliday on a late night sang much\nShoobe-doo, shoobe-doo\n\nShoobe-doo, shoobe-doo\nPeople understand it even on Skagaströnd and Timbuktu\nShoobe-doo, shoobe-doo\nIn the whole world, all together shoobe-doo\n\nThe tones' language in every soul\nSung with the feeling in our heart\nNo matter where, the singing will go\nGliding on it's wings through space\n\n(Shoobe-doo, shoobe-doo) Shoobe-doo\nPeople understand it even from Skagаströnd to Timbuktu\nShoobe-doo, ѕhoobe-doo\n(Shoobe-doobe-doo) Shoobe-doobe-doo"
+    }
+  ],
+  "bpm": 102,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Anna Mjöll Ólafsdóttir"
+  ],
+  "backings": [
+    "Daniel O'Brien",
+    "Michael Maher",
+    "Rick Palombi",
+    "Ross Bolton"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Ólafur Gaukur Þórhallsson",
+  "lyricists": null,
+  "writers": [
+    "Anna Mjöll Ólafsdóttir",
+    "Ólafur Gaukur Þórhallsson"
+  ],
+  "broadcaster": "RÚV",
+  "commentators": [
+    "Jakob Frímann Magnússon"
+  ],
+  "jury": null,
+  "spokesperson": "Svanhildur Konráðsdóttir"
+}

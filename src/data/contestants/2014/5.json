@@ -1,0 +1,69 @@
+{
+  "id": 5,
+  "country": "UA",
+  "artist": "Mariya Yaremchuk",
+  "song": "Tick - Tock",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/slHboKF9PIQ",
+    "https://www.youtube-nocookie.com/embed/h5DhH0jWyfk",
+    "https://www.youtube-nocookie.com/embed/sdAf2EjhRiE",
+    "https://www.youtube-nocookie.com/embed/dJHRLjnkiuI",
+    "https://www.youtube-nocookie.com/embed/kvc1wqPvqp8",
+    "https://www.youtube-nocookie.com/embed/a38Q2H06REg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Tick - Tock",
+      "content": "I believe that I've loved you\nSince the first time that I saw you\nBells rang angels sang\nWhen the light of the night\nFell on us we knew\n\nOh oh…\n\nWe both knew that you were mine\nNow cover me, I'll buy us time, time\n\nOh oh…\n\nOh wait for me I'm worth your while\nTick-tock, can you hear me go tick tock\nMy heart is like a clock, I'm steady like a rock\nSch don't stop, kiss and kiss me till I drop\nMy heart is like a clock you wind it with your love\nYou wind and wind, it with your love\n\nNow I know it's too hard to\nGo tick tock without the glimpse of you\nIf you cave in I break\nI keep losing my pace\nIn this endless race\n\nOh oh…\n\nThey all know that you're mine\nThey can see we belong\nShelter me, you'll do fine\nWait for me, I'll buy us time\n\nTick-tock, can you hear me go tick tock\nMy heart is like a clock, I'm steady like a rock\nSch don't stop, kiss and kiss me till I drop\nMy heart iѕ like а clock, you wind it with your love"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Tick - Tock",
+      "content": "Creo que te he amado\nDes de la primera vez que te vi\nCampanas sonaron ángeles cantaron\nCuando la luz de la noche\nCayó hacia nosotros supimos\n\nOh oh…\n\nLos dos supimos que eras mío\nAhora cúbreme, compraré tiempo, tiempo\n\nOh oh…\n\nOh espérame vale la pena la espera\nTick tock, puedes oírme haciendo tick tock\nMi corazón es como un reloj estoy quieta como una roca\nSch no pares, bésame y bésame hasta que caiga\nMi corazón es como un reloj y lo mueves con tu amor\nLo mueves lo mueves con tu amor\n\nAhora sé que es demasiado difícil\nHacer tock tock sin una pizca de tí\nSi tu te rindes yo me rompo\nSigo perdiendo el ritmo\nEn esta carrera interminable\n\nOh oh…\n\nTodos saben que eres mío\nPueden ver que pertenezemos\nProtégeme, estarás bien\nEspérame, compraré tiempo\n\nTick tock, me puedes oír haciendo tick tock\nMi corazón es como un reloj estoy quieta como una roca\nSch no pares, bésame y bésame hasta que caiga\nMi corazón es como un reloj y lo mueveѕ con tu аmor"
+    }
+  ],
+  "bpm": 125,
+  "tone": "F# minor",
+  "artistPeople": [
+    "Mariya Nazarivna Yaremchuk (Марія Назарівна Яремчук)"
+  ],
+  "backings": [
+    "Anna Linnéa Isbäck",
+    "Anneli Maria Tornkvist",
+    "Elin Eva Maria Svensson",
+    "Graciela Chin A Loi"
+  ],
+  "dancers": null,
+  "stageDirector": "Olena Kolyadenko",
+  "composers": [
+    "Mariya Yaremchuk"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Mariya Yaremchuk",
+    "Sandra Bjurman"
+  ],
+  "writers": null,
+  "broadcaster": "NTU",
+  "commentators": [
+    "Tetyana Terekhova",
+    "Timur Miroshnychenko"
+  ],
+  "jury": [
+    "Alla Popova",
+    "Kateryna Komar",
+    "Kostiantyn Mishukov",
+    "Oleksandr Zlotnyk",
+    "Olena Valovyk"
+  ],
+  "spokesperson": "Zlata Ognevich"
+}

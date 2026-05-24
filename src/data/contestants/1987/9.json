@@ -1,0 +1,71 @@
+{
+  "id": 9,
+  "country": "GR",
+  "artist": "Bang",
+  "song": "Stop!",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/W0xXBsnhhb8",
+    "https://www.youtube-nocookie.com/embed/QTiYMMCx-Hk",
+    "https://www.youtube-nocookie.com/embed/is77nlgW0VE",
+    "https://www.youtube-nocookie.com/embed/gIG9unjotlc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ellinika"
+      ],
+      "title": "Stop!",
+      "content": "San mia star pu pozari otan tis astraftun flas\nKe to stil sou Garbo, sto sakaki liga stras\nOti kanis yia thoxa ke lefta\nThes ti hanis, alu ine i hara\n\nKi ego su leo stop, mi, rock 'n' roll ine i zoi\nStop, mi, skepsu mia stigmi\nStop, mi, xekiname ap' tin arhi\nThes, na, then ine arga\n\nKikloforas stis disco, ke milas yia cinema\nMia zoi me risko, champagnia, parti, mistika\nOti kanis yia thoxa ke lefta\nThes ti hanis, alu ine i hara\n\nKi ego su leo stop, mi, rock 'n' roll ine i zoi\nStop, mi, skepsu mia stigmi\nStop, mi, xekiname ap' tin arhi\nThes, na, then ine arga\n\nKi ego su leo stop, mi, rock 'n' roll ine i zoi\nStop, mi, skepsu mia stigmi\nStop, mi, xekiname ap' tin arhi\nTheѕ, na, then ine argа\n\nStop"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ελληνικά"
+      ],
+      "title": "Στοπ!",
+      "content": "Σαν μια σταρ που ποζάρει, όταν της αστράφτουν φλας\nΚαι το στιλ σου Γκάρμπο, στο σακάκι λίγα στρας\nΌτι κάνεις για δόξα και λεφτά\nΔες τι χάνεις, αλλού είναι η χαρά\n\nΚι εγώ σου λέω στοπ, μη, ροκ-εν-ρολ είναι η ζωή\nΣτοπ, μη, σκέψου μια στιγμή\nΣτοπ, μη, ξεκινάμε απ' την αρχή\nΔες, να, δεν είναι αργά\n\nΚυκλοφοράς στις ντίσκο, και μιλάς για σινεμά\nΜια ζωή με ρίσκο, σαμπάνια, πάρτι, μυστικά\nΌτι κάνεις για δόξα και λεφτά\nΔες τι χάνεις, αλλού είναι η χαρά\n\nΚι εγώ σου λέω στοπ, μη, ροκ-εν-ρολ είναι η ζωή\nΣτοπ, μη, σκέψου μια στιγμή\nΣτοπ, μη, ξεκινάμε απ' την αρχή\nΔες, να, δεν είναι αργά\n\nΚι εγώ σου λέω στοπ, μη, ροκ-εν-ρολ είναι η ζωή\nΣτοπ, μη, σκέψου μια στιγμή\nΣτοπ, μη, ξεκινάμε απ' την αρχή\nΔες, να, δεν είναι αργά\n\nΣτοπ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Stop!",
+      "content": "Just like a star, posing when the lights flash\nYour style is like Garbo, glitter on your jacket\nWhatever you do is for fame and money\nSee what you are missing, joy is somewhere else\n\nAnd I tell you stop! Don't! Life is rock 'n' roll\nStop! Don't! Just think for a second\nStop! Don't! Let's start all over again\nLook… it's not too late\n\nYou go around in discos, talking about cinema\nA life full of risk, champagne, parties, secrets\nWhatever you do is for fame and money\nSee what you are missing, joy is somewhere else\n\nAnd I tell you stop! Don't! Life is rock 'n' roll\nStop! Don't! Just think for a second\nStop! Don't! Let's start all over again\nLook… it's not too late\n\nAnd I tell you stop! Don't! Life is rock 'n' roll\nStop! Don't! Just think for a second\nStop! Don't! Let's start all over again\nLook… it'ѕ not too lаte\n\nStop"
+    }
+  ],
+  "bpm": 90,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Thanos Kalliris",
+    "Vassilis Dertillis"
+  ],
+  "backings": [
+    "Katerina Kalliris",
+    "Marianna Efstratiou",
+    "Tereza"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Giorgos Niachros",
+  "lyricists": null,
+  "writers": [
+    "Thanos Kalliris",
+    "Vassilis Dertillis"
+  ],
+  "broadcaster": "ERT",
+  "commentators": [
+    "Dafni Bokota"
+  ],
+  "jury": null,
+  "spokesperson": "Kelly Sakakou"
+}

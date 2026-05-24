@@ -1,0 +1,58 @@
+{
+  "id": 23,
+  "country": "DK",
+  "artist": "Malene",
+  "song": "Tell Me Who You Are",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/BZYnmqCJ7zI",
+    "https://www.youtube-nocookie.com/embed/2-IFAZMeofI",
+    "https://www.youtube-nocookie.com/embed/ze4k7BgAupU",
+    "https://www.youtube-nocookie.com/embed/GSBenx4DrJs"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Tell me who you are",
+      "content": "Morning light breaking darkness\nbringing dawn on again\nI can feel you are restless\nI'm afraid for day to begin\nYou are here, still around me\nbut your mind goes runnin' free\n\nTell me who you are, show me what to do\nLet me be the one that you hold on to\nOpen up your heart, let me look inside\nBaby, we'll go wrong if you try to hide\nSo tell me who you are\n\nNot a word, not a whisper\nI'm confused, feelin' low\nIn my dreams - sweet surrender\nthrough your arms - like a river I flow\nYou are here, still around me\nbut your mind goes runnin' free\n\nTell me who you are, show me what to do\nLet me be the one that you hold on to\nOpen up your heart, let me look inside\nBaby, we'll go wrong if you try to hide\nSo tell me who you… tell me who you are\n\nYou are here, still around me\nbut your mind goes runnin' free\nOh…\n\n<i style=\"color:#789\">Tell me who you are, show me what to do</i>\nTell me who you are\n<i style=\"color:#789\">Let me be the one that you hold on to</i>\nLet me be the one you hold on to\n<i style=\"color:#789\">Open up your heart, let me look inside</i>\nOpen up your heart and let me look inside\n<i style=\"color:#789\">Baby, we'll go wrong if you try to hide</i>\nBaby, we'll go wrong if you hide\n\nTell me who you are, show me what to do\nLet me be the one that you hold on to\nOpen up your heart, let me look inѕide\nBaby, we'll go wrong if you try to hide\nSo tell me who you аre"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "danish"
+      ],
+      "displayedLanguages": null,
+      "title": "Vis mig hvem du er",
+      "content": "Som en sol når den skinner\nKan du varme min sjæl\nI mit hjerte det brænder\nDine øjne, de siger 'farvel'\nDu er langt væk fra mig\nDu er her og du er ej\n\nVis mig hvem du er, sig mig hvad du tror\nLad mig komme nær, ej på sidespor\nSmid din maske ud, find dit hjerte frem\nLivet er derude, tiden virker stram\nSå vis mig hvem du er\n\nIntet ord tør du sige\nOg jeg intet forstår\nMin uro er ved at stige\nMine tanker, de går i stå\nDu er langt væk fra mig\nDu er her og du er ej\n\nVis mig hvem du er, sig mig hvad du tror\nLad mig komme nær ej på sidespor\nSmid din maske ud, find dit hjerte frem\nLivet er derude, tiden virker stram\nSå vis mig hvem du er, hvem du er\n\nDu er langt væk fra mig\nDu er her og du er ej\nåh…\n\n<i style=\"color:#789\">Vis mig hvem du er, sig mig hvad du tror</i>\nVis mig hvem du er, åh…\n<i style=\"color:#789\">Lad mig komme nær ej på sidespor</i>\nFind dit hjerte, la' mig kommer nær\n<i style=\"color:#789\">Smid din maske ud, find dit hjerte frem</i>\nSmid din maske ud, yeah\n<i style=\"color:#789\">Livet er derude, tiden virker stram</i>\nÅh…\n\nVis mig hvem du er, sig mig hvad du tror\nLad mig komme nær ej på sidespor\nSmid din maske ud, find dit hjerte frem\nLivet er derude, tiden virker strаm\nSå viѕ mig hvem du er"
+    }
+  ],
+  "bpm": 106,
+  "tone": "F# minor",
+  "artistPeople": [
+    "Malene Winther Mortensen"
+  ],
+  "backings": [
+    "Kenny Lübcke",
+    "Lei Moe",
+    "Lupe Moe",
+    "Michael Ronson",
+    "Stine Findsen"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Michael Ronson"
+  ],
+  "broadcaster": "DR",
+  "commentators": [
+    "Keld Heick"
+  ],
+  "jury": null,
+  "spokesperson": "Signe Svendsen"
+}

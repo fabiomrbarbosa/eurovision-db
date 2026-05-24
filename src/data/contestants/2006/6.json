@@ -1,0 +1,55 @@
+{
+  "id": 6,
+  "country": "UA",
+  "artist": "Tina Karol",
+  "song": "Show Me Your Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/mRqhkwTIuU8",
+    "https://www.youtube-nocookie.com/embed/4m4_FzOl7Es",
+    "https://www.youtube-nocookie.com/embed/y84MEQExWIk",
+    "https://www.youtube-nocookie.com/embed/KhFdMSof1B4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Show Me Your Love",
+      "content": "Hi, baby, here I am\nFeel like I'm born again\nYou see it in my eyes, my heart is on fire\nDon't hide your love away, don't wait another day\n\nShow me your love, show me how much you care\nTalk to my heart, whisper my name\nShow me your love, I need you more than air\nYou'll be my part, that's why I came\n\nI love the way you shine\nLove when you cross the line\nJust give me one more sign, show me your desire\nDon't hide your love away, don't wait another day\n\nShow me your love, show me how much you care\nTalk to my heart, whisper my name\nShow me your love, I need you more than air\nYou'll be my part, that's why I came\n\nShow me your love, show me how much you care\nTalk to my heart, whisper my name\nShow me your love, I need you more than air\nYou'll be my part, that's why I came\n\nLai la dada dala dei… lai dada…\nLai la dada dala dei… lai dada…\nLai la dada dala dei… lai dada…\nLei da… lei da…\n\nShow me your love, show me how much you care\nTalk to my heart, whisper my name\nShow me your love, I need you more than air\nYou'll be my part, that's why I came\n\nShow me your love, show me how much you care\nTalk to my heart, whisper my name\nShow me your love, I need you more than air\nYou'll be my part, that's why I came\n\nDon't hide your love away\nShow feelings every day\n\nShow me your love, show me how much you care\nTalk to my heart, whisper my name\nShow me your love, I need you more than air\nYou'll be my part\nThat's why, that's why, that'ѕ why I cаme"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "ukrainian"
+      ],
+      "displayedLanguages": null,
+      "title": "Покажи мені кохання",
+      "content": "Гей, любий, це я\nЗдається, ніби я знову оживаю\nТи бачиш це в моїх очах, серце просто палає\nНе ховай своє кохання, не гай жодного дня\n\nПокажи мені кохання, покажи, як ти піклуєшся\nПоговори з моїм серцем, прошепочи моє ім'я\nПокажи мені кохання, ти потрібен мені більше, ніж повітря\nТи станеш частиною мене — саме тому я прийшла\n\nМені подобається, як ти сяєш\nЛюблю, коли ти переходиш межу\nДай мені ще один знак, покажи своє бажання\nНе ховай своє кохання, не гай жодного дня\n\nПокажи мені кохання, покажи, як ти піклуєшся\nПоговори з моїм серцем, прошепочи моє ім'я\nПокажи мені кохання, ти потрібен мені більше, ніж повітря\nТи станеш частиною мене — саме тому я прийшла\n\nПокажи мені кохання, покажи, як ти піклуєшся\nПоговори з моїм серцем, прошепочи моє ім'я\nПокажи мені кохання, ти потрібен мені більше, ніж повітря\nТи станеш частиною мене — саме тому я прийшла\n\nЛай ла дада дала дей… лай дада\nЛай ла дада дала дей… лай дада\nЛай ла дада дала дей… лай дада\nЛей да… лей да…\n\nПокажи мені кохання, покажи, як ти піклуєшся\nПоговори з моїм серцем, прошепочи моє ім'я\nПокажи мені кохання, ти потрібен мені більше, ніж повітря\nТи станеш частиною мене — саме тому я прийшла\n\nПокажи мені кохання, покажи, як ти піклуєшся\nПоговори з моїм серцем, прошепочи моє ім'я\nПокажи мені кохання, ти потрібен мені більше, ніж повітря\nТи станеш частиною мене — саме тому я прийшла\n\nНе ховай своє кохання\nВідкривай почуття щодня\n\nПокажи мені кохання, покажи, як ти піклуєшся\nПоговори з моїм серцем, прошепочи моє ім'я\nПокажи мені кохання, ти потрібен мені більше, ніж повітря\nТи станеш частиною мене —\nСаме тому, саме тому, саме тому я прийшла"
+    }
+  ],
+  "bpm": 130,
+  "tone": "E minor",
+  "artistPeople": [
+    "Tetiana Grigorivna Liberman"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Mikhail Nekrasov",
+    "Tina Karol"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Pavlo Shylko"
+  ],
+  "writers": null,
+  "broadcaster": "NTU",
+  "commentators": [
+    "Pavlo Shylko"
+  ],
+  "jury": null,
+  "spokesperson": "Igor Posypaiko"
+}

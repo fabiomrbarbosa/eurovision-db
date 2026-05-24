@@ -1,0 +1,59 @@
+{
+  "id": 16,
+  "country": "NO",
+  "artist": "Britt Synnøve Johansen",
+  "song": "Venners nærhet",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/DGIUODWyzD4",
+    "https://www.youtube-nocookie.com/embed/ZnVViX5r_fU",
+    "https://www.youtube-nocookie.com/embed/dmKeWpvCMoc",
+    "https://www.youtube-nocookie.com/embed/nhG0iejEamo"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "norwegian"
+      ],
+      "displayedLanguages": null,
+      "title": "Venners nærhet",
+      "content": "Du søker mine tanker, jeg vet hva du vil si\nMen sa du det du visste, ville tausheten forbli\n\nNår venners nærhet er blitt en trussel\nOg håpefulle smil blir visket bort\nKom da og vekk meg, la oss danse\nSå forblir du min, du er min venn\n\nJeg vet at du er liten, men likevel så stor\nAll verden vil du favne, jeg hilser deg, min bror\n\nNår venners nærhet er blitt en trussel\nOg håpefulle smil blir visket bort\nKom da og vekk meg, la oss danse\nSå forblir du min, du er min venn\n\n(Din stemme den har nådd meg, og jeg slipper deg inn)\nFor det er rom for oss begge, for tanker og for sinn\n\nNår venners nærhet er blitt en trussel\nOg håpefulle smil blir visket bort\nKom da og vekk meg, la oss dаnѕe\nSå forblir du min, du er min venn"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The closeness of friends",
+      "content": "You seek out my thoughts, I know what you will say\nBut if you told me what you know, the silence would remain\n\nWhen the closeness of friends has become a threat\nAnd smiles of hope are erased\nThen come and wake me up, let's dance\nThen you'll remain mine, you are my friend\n\nI know you are small, but still very big\nYou want to embrace the whole world, I greet you, brother\n\nWhen the closeness of friends has become a threat\nAnd smiles of hope are erased\nThen come and wake me, let's dance\nThen you'll remain mine, you are my friend\n\n(Your voice has reached me, and I let you in)\nFor there is room for us both, for thoughts and minds\n\nWhen the closeness of friends has become a threat\nAnd smiles of hope are erased\nThen come and wake me, let'ѕ dance\nThen you'll remain mine, you аre my friend"
+    }
+  ],
+  "bpm": 76,
+  "tone": "G major",
+  "artistPeople": [
+    "Britt Synnøve Johansen"
+  ],
+  "backings": [
+    "Elisabeth Moberg",
+    "Geir Rebbestad",
+    "Jon Dagsland",
+    "Kari Iveland"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Inge Enoksen"
+  ],
+  "conductor": "Pete Knutsen",
+  "lyricists": [
+    "Leiv N. Grøtte"
+  ],
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "John Andreassen"
+  ],
+  "jury": null,
+  "spokesperson": "Sverre Christophersen"
+}

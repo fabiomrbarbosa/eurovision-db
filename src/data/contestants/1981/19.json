@@ -1,0 +1,59 @@
+{
+  "id": 19,
+  "country": "NO",
+  "artist": "Finn Kalvik",
+  "song": "Aldri i livet",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/HnTmqt9rmDw",
+    "https://www.youtube-nocookie.com/embed/IzCloez3Dtg",
+    "https://www.youtube-nocookie.com/embed/JVUFizR2A2Y",
+    "https://www.youtube-nocookie.com/embed/04Xj4w34ru8",
+    "https://www.youtube-nocookie.com/embed/x9kxPf4TAVA"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "norwegian"
+      ],
+      "displayedLanguages": null,
+      "title": "Aldri i livet",
+      "content": "(Aldri i livet, aldri i livet)\n\nDaggryet nynner en myk sorgløs sang\nSom da jeg så deg for første gang\nI dine tidløse øyne fins svar\nSom ingen andre jeg kjenner har\n\nHver gang jeg drar herfra, tenker du på meg da?\nHver gang jeg drar herfra, glem ikke løftet jeg ga:\n\nAldri i livet har jeg tenkt på å reise ifra deg\nAldri i livet, min venn, før jeg slår følge med vinden\n\nAldri i livet har jeg tenkt på å reise ifra deg\nAldri i livet, min venn, før jeg slår følge med vinden\n\nDu har gitt livet en ny harmoni\nTiden i ensomhet er forbi\nJeg har vært blindet, men nå kan jeg se\nElskling, fordi du har lært meg det\n\nHver gang jeg drar herfra, tenker du på meg da?\nHver gang jeg drar herfra, glem ikke løftet jeg ga:\n\nAldri i livet har jeg tenkt på å reise ifra deg\nAldri i livet, min venn, før jeg slår følge med vinden\n\nAldri i livet har jeg tenkt på å reise ifra deg\nAldri i livet, min venn, før jeg ѕlår følge med vinden\n\n(Aldri i livet, aldri i livet)\n(Aldri i livet, аldri i livet)"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Never in my life",
+      "content": "(Never in my life, never in my life)\n\nThe dawn is humming a soft, carefree song\nLike when I saw you for the first time\nIn your timeless eyes there are answers\nThat no one else that I know has\n\nEvery time I go away, do you think of me then?\nEvery time I go away, do not forget the promise I made:\n\nNever in my life have I thought of leaving you\nNever in my life, my friend, before I join the wind\n\nNever in my life have I thought of leaving you\nNever in my life, my friend, before I join the wind\n\nYou have given life a new harmony\nThe time in loneliness is gone\nI have been blinded, but now I can see\nDarling, because you have taught me how\n\nEvery time I go away, do you think of me then?\nEvery time I go away, do not forget the promiѕe I made:\n\nNever in my life have I thought of leaving you\nNever in my life, my friend, before I join the wind\n\nNever in my life have I thought of leаving you\nNever in my life, my friend, before I join the wind\n\n(Never in my life, never in my life)\n(Never in my life, never in my life)"
+    }
+  ],
+  "bpm": 135,
+  "tone": "F major",
+  "artistPeople": [
+    "Finn Kalvik"
+  ],
+  "backings": [
+    "Anita Skorgan",
+    "George Keller",
+    "Iselin Alme",
+    "Kari Gjærum",
+    "Nissa Nyberget"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Sigurd Jansen",
+  "lyricists": null,
+  "writers": [
+    "Finn Kalvik"
+  ],
+  "broadcaster": "NRK",
+  "commentators": [
+    "Knut Aunbu"
+  ],
+  "jury": null,
+  "spokesperson": "Sverre Christophersen"
+}

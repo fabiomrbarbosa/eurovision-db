@@ -1,0 +1,60 @@
+{
+  "id": 26,
+  "country": "IS",
+  "artist": "Eiríkur Hauksson",
+  "song": "Valentine Lost",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/e2he47-SC1k",
+    "https://www.youtube-nocookie.com/embed/9qoTPxvHWZY",
+    "https://www.youtube-nocookie.com/embed/iURNIcOdgwY",
+    "https://www.youtube-nocookie.com/embed/qFCqRTzntZU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Valentine lost",
+      "content": "I'll let the music play while love lies softly bleeding\nIn heavy hands on shadowlands\nAs thunderclouds roll in, sunset is receding\nNo summer wine, no Valentine\n\nA tiger trapped inside a cage\nAn actor on an empty stage\nCome see the show\nRock 'n' roll can heal your soul\nWhen broken hearts lose all control\n\nSome rivers still run dry and jungles burn to embers\nGold autumn days must fade to grey\nThere is a reason why a haunted man remembers\nOne frozen night, his darkest day\n\nA tiger trapped inside a cage\nAn actor on an empty stage\nCome see the show\nRock 'n' roll will heal your soul\nWhen broken hearts lose all control\n\nA passion killed by acid rain\nA rollercoaster in my brain\nBut how would you know?\nIn your satin, silk and lace\nAnother time, another place\n\nA tiger trapped inside a cage\nAn actor on an empty stage\nCome see the show\nRock 'n' roll will heal your soul\nWhen broken hearts lose all control\n\nA love let loose and painted black\nA train stuck on a broken track\nWell, I'll let it go\nRock 'n' roll has healed my soul\nThe stаge is set, on with the ѕhow"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "icelandic"
+      ],
+      "displayedLanguages": null,
+      "title": "Ég les í lófa þínum",
+      "content": "Ég les í lófa þínum leyndarmálið góða\nÉg veit það nú, ég veit og skil\nÞað er svo ótalmargt sem ætla ég að bjóða\nJá, betra líf með ást og yl\n\nÍ lófa þínum les ég það\nAð lífið geti kennt mér að\nÉg fæ aldrei nóg\nÉg vil fara frjáls með þér\nOg fljúga yfir land og sjó\n\nÞað er svo augljóst nú að allir draumar rætast\nVið höldum frjáls um höf og lönd\nUm lífið leikum við og lófar okkar mætast\nÞá leiðumst við, já, hönd í hönd\n\nÍ lófa þínum les ég það\nAð lífið geti kennt mér að\nÉg fæ aldrei nóg\nÉg vil fara frjáls með þér\nOg fljúga yfir land og sjó\n\nÉg ætla að fara alla leið\nMeð ást á móti sorg og neyð\nÉg fæ aldrei nóg\nÉg vil fara frjáls með þér\nOg fljúga yfir land og sjó\n\nÓ… í lófa þínum les ég það\nAð lífið geti kennt mér að\nÉg fæ aldrei nóg\nÉg vil fara frjáls með þér\nOg fljúga yfir land og sjó\n\nÉg ætla að fara alla leið\nMeð ást á móti sorg og neyð\nÉg fæ aldrei nóg\nÉg vil fara frjáls með þér\nOg fljúga yfir lаnd og ѕjó"
+    }
+  ],
+  "bpm": 86,
+  "tone": "G minor",
+  "artistPeople": [
+    "Eiríkur Hauksson"
+  ],
+  "backings": [
+    "Benedikt Brynleifsson",
+    "Gunzo",
+    "Massi",
+    "Rocco",
+    "Sibbi"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Sveinn Rúnar Sigurðsson"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Peter Fenner"
+  ],
+  "writers": null,
+  "broadcaster": "RÚV",
+  "commentators": [
+    "Sigmar Guðmundsson"
+  ],
+  "jury": null,
+  "spokesperson": "Ragnhildur Steinunn Jónsdóttir"
+}

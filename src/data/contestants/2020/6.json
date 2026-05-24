@@ -1,0 +1,59 @@
+{
+  "id": 6,
+  "country": "BE",
+  "artist": "Hooverphonic",
+  "song": "Release Me",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/lAqjksxc4iA"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Release Me",
+      "content": "Release me\nDon't talk, go away\nRelease me\nIt's not right to make me stay\nAll the lies and all the pain\nOnly you can make them go away\nYeah, release me from this sad and losing game\n\nRelease me\nDon't say what I already know\nRelease me\nOnly trouble steals the show\nAll those words won't comfort me\nIt's clear we're not meant to be\nYeah, release me from this sad and losing game\n\nYou're all I want\nA dangerous need\nIt's wrong to keep you close to me\nAnd if you dare, if you care\nThen cut the ropes and float away\nYeah, release me\nIf you love me, let me go!\n\nRelease me\nDon't talk, go away\nRelease me\nIt's not right to make me stay\nAll the lies and all the pain\nOnly you can make them go away\nYeah, release me from this sad and losing game\n\nYou're all I want\nA dangerous need\nIt's wrong to keep you close to me\nIf you dare, if you care\nThen cut the ropes and float away\nYeah, release me\nIf you love me, let me go!\n\nAll the lies and all the pain\nOnly you can make them go away\nAll those words won't comfort me\nIt's clear we are not meant to be\nYeah, release me from this sad and losing game\n\nOh, release me, yeah, release me\nFrom this sad and losing game\nOh, release me, yeah, release me\nFrom this sad and loѕing gаme"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Vapauta Minut",
+      "content": "Vapauta minut\nÄlä puhu, poistu\nVapauta minut\nEi ole oikein pakottaa minua jäämään\nKaikki valheet ja kaikki tuska\nVain sinä voit karkottaa ne\nNiin, vapuata minut tästä surullisesta ja häviävästä pelistä\n\nVapauta minut\nÄlä kerro minulle mitään minkä jo tiedän\nVapauta minut\nVain ongelmat pääsevät parrasvaloihin\nKaikki nämä sanat eivät lohduta minua\nOn ilmiselvää, että emme vain sovi yhteen\nNiin, vapuata minut tästä surullisesta ja häviävästä pelistä\n\nOlet ainoa, kenet tahdon\nVaarallinen kaipaus kutsuu\nOn väärin pitää sut luonani\nJa jos uskallat, jos välität\nKatkaise köydet ja kellu pois\nJaa, vapuata minut\nJos rakastat mua, päästä mut menemään\n\nVapauta minut\nÄlä puhu, poistu\nVapauta minut\nEi ole oikein pakottaa minua jäämään\nKaikki valheet ja kaikki tuska\nVain sinä voit karkottaa ne\nNiin, vapuata minut tästä surullisesta ja häviävästä pelistä\n\nOlet ainoa, kenet tahdon\nVaarallinen kaipaus kutsuu\nOn väärin pitää sut luonani\nJa jos uskallat, jos välität\nKatkaise köydet ja kellu pois\nJaa, vapuata minut\nJos rakastat mua, päästä mut menemään\n\nKaikki valheet ja kaikki tuska\nVain sinä voit karkottaa ne\nKaikki nämä sanat eivät lohduta minua\nOn ilmiselvää, että emme vain sovi yhteen\nNiin, vapuata minut tästä surullisesta ja häviävästä pelistä\n\nOh, vapauta minut, jaa, vapauta minut\nTästä surullisesta ja häviävästä pelistä\nOh, vapauta minut, jaa, vapauta minut\nTästä surullisesta jа häviävästä peliѕtä"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Suéltame",
+      "content": "Suéltame\nNo hables, lárgate\nSuéltame\nNo está bien hacer que me quede\nTodas las mentiras y todo el dolor\nSolo tú puedes hacer que se vayan\nSí, suéltame de este juego triste y perdedor\n\nSuéltame\nNo me digas lo que ya sé\nSuéltame\nSolo los problemas roban el espectáculo\nTodas esas palabras no me consolarán\nEstá claro que no estamos destinados a serlo\nSí, suéltame de este juego triste y perdedor\n\nEres todo lo que quiero\nUna necesidad peligrosa\nEstá mal mantenerte cerca de mí\nY si te atreves, si te importa\nEntonces corta las cuerdas y flota lejos\nSí, suéltame\nSi me quieres, ¡déjame ir!\n\nSuéltame\nNo hables, lárgate\nSuéltame\nNo está bien hacer que me quede\nTodas las mentiras y todo el dolor\nSolo tú puedes hacer que se vayan\nSí, suéltame de este juego triste y perdedor\n\nEres todo lo que quiero\nUna necesidad peligrosa\nEstá mal mantenerte cerca de mí\nY si te atreves, si te importa\nEntonces corta las cuerdas y flota lejos\nSí, suéltame\nSi me quieres, ¡déjame ir!\n\nTodas las mentiras y todo el dolor\nSolo tú puedes hacer que se vayan\nTodas esas palabras no me consolarán\nEstá claro que no estamos destinados a serlo\nSí, suéltame de este juego triste y perdedor\n\nOh, suéltame, sí, suéltame\nDe este juego triste y perdedor\nOh, suéltame, sí, suéltаme\nDe este juego triѕte y perdedor"
+    }
+  ],
+  "bpm": 134,
+  "tone": "E minor",
+  "artistPeople": [
+    "Luka Cruysberghs"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Alex Callier",
+    "Luka Cruysberghs"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Alex Callier"
+  ],
+  "writers": null,
+  "broadcaster": "VRT",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

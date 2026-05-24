@@ -1,0 +1,58 @@
+{
+  "id": 7,
+  "country": "DE",
+  "artist": "Max",
+  "song": "Can't Wait Until Tonight",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/0DjihJp4HU4",
+    "https://www.youtube-nocookie.com/embed/ecBQg1ZJEns",
+    "https://www.youtube-nocookie.com/embed/xZL0DzRn_e8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english",
+        "turkish"
+      ],
+      "displayedLanguages": null,
+      "title": "Can't Wait Until Tonight",
+      "content": "Don't wanna talk about the way I am\nI only try to make you understand\nThat my affection is so really true\nMy heart has started thumpin' since I met you\n\nJust can't wait until tonight, baby\nTill I have you by my side, baby\nJust can't wait until tonight, baby\nFor being with you\n\nDo do do do do…\nJust been waiting\nDo do do do do…\nJust been waiting\nDo do do do do…\nFor being with you\n\nFirst time I saw you, it just knocked me down\nThe way you smiled has turned my life around\nI never thought that it would catch me so\nI'll get my head together and I want you to know\n\nBekleyemem akşama kadar, canım\nSeni kollarımda tutmak için, canım\nBekleyemem akşama kadar, canım\nSeninle olmak için\nOh…\n\nTrue love won't be afraid of no one\nTrue love can lead us through the day\nOh, I'll get my head together\nAnd I want you to say\n\nI just can't wait until tonight, baby\nTill I have you by my side, baby\nI just can't wait until tonight, my baby\nFor being with you\n\nDo do do do do…\nJust been waiting\nDo do do do do…\nJust been waiting\nDo do do do do…\nJuѕt been wаiting\nFor being with you"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Can't Wait Until Tonight",
+      "content": "Don't wanna talk about the way I am\nI only try to make you understand\nThat my affection is so really true\nMy heart has started thumpin' since I met you\n\nJust can't wait until tonight, baby\nTill I have you by my side, baby\nJust can't wait until tonight, baby\nFor being with you\n\nDo do do do do…\nJust been waiting\nDo do do do do…\nJust been waiting\nDo do do do do…\nFor being with you\n\nFirst time I saw you, it just knocked me down\nThe way you smiled has turned my life around\nI never thought that it would catch me so\nI'll get my head together and I want you to know\n\nI just can't wait until tonight, baby\nTill I have you in my arms, baby\nI just can't wait until tonight, my baby\nFor being with you\nOh…\n\nTrue love won't be afraid of no one\nTrue love can lead us through the day\nOh, I'll get my head together\nAnd I want you to say\n\nI just can't wait until tonight, baby\nTill I have you by my side, baby\nI just can't wait until tonight, my baby\nFor being with you\n\nDo do do do do…\nJust been waiting\nDo do do do do…\nJust been waiting\nDo do do do do…\nJuѕt been wаiting\nFor being with you"
+    }
+  ],
+  "bpm": 98,
+  "tone": "A major",
+  "artistPeople": [
+    "Maximilian Nepomuk Mutzke"
+  ],
+  "backings": [
+    "Dominik Krämer",
+    "Herb Jösch",
+    "Philipp Niessen",
+    "Stefan Raab",
+    "Wolfgang Norman Dalheimer"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Stefan Raab"
+  ],
+  "broadcaster": "ARD",
+  "commentators": [
+    "Peter Urban"
+  ],
+  "jury": null,
+  "spokesperson": "Thomas Anders"
+}

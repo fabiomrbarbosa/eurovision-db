@@ -1,0 +1,55 @@
+{
+  "id": 18,
+  "country": "FR",
+  "artist": "Sébastien Tellier",
+  "song": "Divine",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/CZQjBCvFd9E",
+    "https://www.youtube-nocookie.com/embed/Vz58Hw9hldw",
+    "https://www.youtube-nocookie.com/embed/2aXBoj-aPQ4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english",
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Divine",
+      "content": "No no no no no no no\nI'm looking for a band today\nI see the Chivers anyway\nThrough my eyes\n\nOh oh oh\nI… I'm alone in life to say\nI love the Chivers anyway\n'Cause Chivers look divine\n\nLook away\nThey try to find the Milky Way\nThey love to drink it every day\n\nNo no no no no no no\nYou… you and I, it's like you said\nI'm not a Chivers anyway\nYou look fine\n\nOh oh oh\nI… I'm alone in life to say\nI love the Chivers anyway\n'Cause Chivers look divine\n\nLook away\nThey try to find the Milky Way\n\nI… Toi et moi c'est comme tu sais\nPour moi l'amour chante en français\nShe looks fine\n\nOh oh oh\nI'm looking for a band today\nI see the Chivers anyway\nI'll be a Chivers guy ѕome dаy\nIn my mind"
+    }
+  ],
+  "bpm": 142,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Sébastien Tellier"
+  ],
+  "backings": [
+    "Abigael Debit",
+    "Falone Tayoung",
+    "Marie Djemali",
+    "Sheliyah Masry",
+    "Stanislas Debit"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Sébastien Tellier"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Amandine de La Richardière",
+    "Sébastien Tellier"
+  ],
+  "writers": null,
+  "broadcaster": "France 3",
+  "commentators": [
+    "Jean-Paul Gaultier",
+    "Julien Lepers",
+    "Peggy Olmi",
+    "Yann Renoard"
+  ],
+  "jury": null,
+  "spokesperson": "Cyril Hanouna"
+}

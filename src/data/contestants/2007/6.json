@@ -1,0 +1,51 @@
+{
+  "id": 6,
+  "country": "GR",
+  "artist": "Sarbel",
+  "song": "Yassou Maria",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/LebXvZtRMrE",
+    "https://www.youtube-nocookie.com/embed/WYklbvSi390",
+    "https://www.youtube-nocookie.com/embed/icHD5EojxaQ",
+    "https://www.youtube-nocookie.com/embed/MiF-LpxTzVI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Yassou Maria",
+      "content": "First off, she's a lady, this is a lady's world\nMan, she drives 'em crazy, dancin' like a cheeky girl\nAll eyes on Maria, no lie, she's the bomb\nOh my, they all wanna see her\nAll wanna be the lucky one\n\nShake it up, shake it up, there you go\nOh oh… yassou Maria\nTurn around, bring it down, go slow\nHeads up, Lord have mercy\n\nShake it up, shake it up, there you go\nOh oh… yassou Maria\nAi ai ai… there she goes\nMaria\n\nYassou Maria\n\nMoves like Aphrodite, so high above the rest\nSmooth like Cleopatra, an angel in a devil's dress\nHer hips, lust in motion, her lips, red like wine\nShe is the heart of attention\nProbably should mention – she's mine\n\nShake it up, shake it up, there you go\nOh oh… yassou Maria\nTurn around, bring it down, go slow\nHeads up, Lord have mercy\n\nShake it up, shake it up, there you go\nOh oh… yassou Maria\nAi ai ai… there she goes\nMaria\n\nShake it up, shake it up, there you go\nOh oh… yassou Maria\nTurn around, bring it down, go slow\nHeads up, Lord have mercy\n\nShake it up, shake it up, there you go\nOh oh… yassou Maria\nAi ai ai… there she goes\nMaria\n\nMaria, Maria, yasѕou Maria\nMaria, Mariа"
+    }
+  ],
+  "bpm": 172,
+  "tone": "E minor",
+  "artistPeople": [
+    "Sarbel Michael"
+  ],
+  "backings": [
+    "Emy Armine Zaryan",
+    "Helena",
+    "Larisa"
+  ],
+  "dancers": null,
+  "stageDirector": "Maria Liraraki",
+  "composers": [
+    "Alex Papaconstantinou",
+    "Marcus Englöf"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Mack"
+  ],
+  "writers": null,
+  "broadcaster": "ERT",
+  "commentators": [
+    "Fotis Sergoulopoulos",
+    "Maria Bakodimou"
+  ],
+  "jury": null,
+  "spokesperson": "Alexis Kostalas"
+}

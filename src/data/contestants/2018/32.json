@@ -1,0 +1,60 @@
+{
+  "id": 32,
+  "country": "PL",
+  "artist": "Gromee feat. Lukas Meijer",
+  "song": "Light Me Up",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/oyoiCyP4Bkg",
+    "https://www.youtube-nocookie.com/embed/hQLmYaSCDYw",
+    "https://www.youtube-nocookie.com/embed/9e9aW3GhwtM",
+    "https://www.youtube-nocookie.com/embed/TnZptlk_0CQ",
+    "https://www.youtube-nocookie.com/embed/0TuWtBFBcaE",
+    "https://www.youtube-nocookie.com/embed/B0-8xyocOew",
+    "https://www.youtube-nocookie.com/embed/uv2huujdst0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Light Me Up",
+      "content": "A part of me is feeling weak\nI took a chance\nBut now it feels so hard to breathe\n\nA lip of faith\nHaunting me\nWhat happen to the word\nThat's only you and me\n\nI wanna feel alive\nWhen I'm running through my life\nSo help me to ignite\nThis spark I feel inside\nSo help me now\n\nLight Me Up\nLight Me Up\nMy baby\nLight Me Up\nTell me where to go\nLight Me Up\nLight Me Up\nMy baby\nLight Me Up\nAnd tell me where to go\nTell me where to go\nAnd tell me where to go\n\nTell me where to go\nTell me where to go\n\nI am thinking now\nOf real life\nThey say I have to leave\nSo bring me back\nBack to the place\nWhere my heart\nCan finally reveal his face up\n\nI wanna feel alive\nWhen I'm running through my life\nSo help me to ignite\nThis spark I feel inѕide\nSo help me now\n\nLight Me Up\nLight Me Up\nMy baby\nLight Me Up\nTell me where to go\nLight Me Up\nLight Me Up\nMy bаby\nLight Me Up\nAnd tell me where to go\nTell me where to go\nAnd tell me where to go\n\nTell me where to go\nTell me where to go"
+    }
+  ],
+  "bpm": 122,
+  "tone": "G major",
+  "artistPeople": [
+    "Lukas Meijer"
+  ],
+  "backings": [
+    "Christian Rabb",
+    "Kasia Dereń",
+    "Mahan Moin",
+    "Sara Chmiel-Gromala"
+  ],
+  "dancers": null,
+  "stageDirector": "Konrad Smuga",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Christian Rabb",
+    "Andrzej Gromala",
+    "Lukas Meijer",
+    "Mahan Moin"
+  ],
+  "broadcaster": "TVP",
+  "commentators": [
+    "Artur Orzech"
+  ],
+  "jury": [
+    "Dorota Szpetkowska",
+    "Michał Grott",
+    "Michał Szpak",
+    "Natalia Szroeder",
+    "Sławomir Uniatowski"
+  ],
+  "spokesperson": "Mateusz Szymkowiak"
+}

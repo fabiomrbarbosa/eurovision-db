@@ -1,0 +1,48 @@
+{
+  "id": 17,
+  "country": "AT",
+  "artist": "Manuel Ortega",
+  "song": "Say A Word",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/raLn9d5MNHw",
+    "https://www.youtube-nocookie.com/embed/iKe5csrrNSc",
+    "https://www.youtube-nocookie.com/embed/HySiuC0bczE",
+    "https://www.youtube-nocookie.com/embed/UvVsLSRTd-U"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Say a word",
+      "content": "I can be the sunshine today, I'll be there to help you go on on your way\nI can be the sweet moonlight, I'll be there to guide you through the night\nI can keep you warm in the rain, I'll be there to make you so happy again\nThere's no broken heart I can't mend, it is really easy and you will understand\n\nSay a word and I'll be there, say a word and I'll be there\nSay a word and I'll be there, say a word and I will care\nSay a word and I'll be there, say a word and I'll be there\nSay a word and I'll be there, say a word and I will care\n\nIf you're feeling lost and alone, I'll be there to help you carry on\nIf you're feeling blue and you need a friend, I'll be there to give you a helping hand\nIf you feel like losin' your pride, I'll be there to give you a place where to hide\nIf you feel your life just goes wrong, I'll be there if you need someone to lean on\n\nSay a word and I'll be there, say a word and I'll be there\nSay a word and I'll be there, say a word and I will care\nSay a word and I'll be there, say a word and I'll be there\nSay a word and I'll be there, say a word and I will care\n\n(Life will be better,) so open up your eyes now\n(Life will be better,) we can stand together as one\n(Life will be better,) together we will change the whole world\n(Life will be better) Oh yeah yeah yeah…\n\n(Say a word and I'll be there, say a word and I will care)\nI will take care of you, of course I will be there\n(Say a word and I'll be there, say a word and I will care)\nOh… listen what I say, I'll be there for you\n\n(Say a word and I'll be there, say a word and I will care)\nI'll be there, I will care, you'd better listen now\n(Say a word and I'll be there, say a word and I will care)\nIf you need someone, yeah\n\nListen now 'cаuѕe I'll be there"
+    }
+  ],
+  "bpm": 130,
+  "tone": "D major",
+  "artistPeople": [
+    "Manuel Ortega"
+  ],
+  "backings": [
+    "Monika Ballwein",
+    "Stephan Gleixner"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Alexander Kahr"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Robert Pfluger"
+  ],
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": [
+    "Andi Knoll"
+  ],
+  "jury": null,
+  "spokesperson": "Dodo Roščić"
+}

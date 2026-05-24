@@ -1,0 +1,54 @@
+{
+  "id": 32,
+  "country": "LT",
+  "artist": "Jeronimas Milius",
+  "song": "Nomads In The Night",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Lxi0MqXbDiQ",
+    "https://www.youtube-nocookie.com/embed/Cq2eZwSzWHs",
+    "https://www.youtube-nocookie.com/embed/EhRgGYeBA0I",
+    "https://www.youtube-nocookie.com/embed/4pvHMx7p_AU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Nomads In The Night",
+      "content": "Through passing days, I close my eyes and feel silk burning me\nYour skin, those gorgeous lips I've kissed so long ago\nTonight I'll try to rip out this aching heart, it's filled with you\nIt's filled with lonely pain – obey\n\nMoon, I follow you in darkness\nIt seems we're nomads in the night\nYour cold turns me into the heartless\nUntil the sunrise burning light brings down her sky blue shining eyes\n\nThis hollow day, like days before I walk through thousand smiles\nAnd try to find the look that heals all wounds inside\nBut still I'm here at the world's edge falling like stone to you\nShining so high, alone – like me\n\nMoon, I follow you in darkness\nIt seems we're nomads in the night\nYour cold turns me into the heartless\nUntil the sunrise burning light\n\nSeems we're nomads in the night\nYour cold turns me into the heаrtless\nUntil the sunrise burning light brings down her sky blue shining eyeѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "lithuanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Klajokliai Naktyje",
+      "content": "Praeinančiomis dienomis, aš užmerkiu akis ir jaučiu šilką\nDeginantį mane\nTavo oda, tos puošnios lūpos aš bučiavau taip senai\nŠiąnakt bandysiu išrauti šia skaudančią širdį, ji pilna tavęs\nJi pilna vienišo skausmo - paklusti\n\nMėnuli, aš tave seku tamsoje\nRodosi, mes klajokliai naktyje\nTavo šaltis verčia mane į beširdį\nIki tol kol saulėtekio deginančios šviesos nuleis jos dangaus mėlynas spindinčias akis\n\nŠią tuščia dieną, kaip dienas prieš ją aš pereinu\nTūkstančiai šypsenų\nIr bandau surasti žvilgsnį kuris išgydytų visas žaizdas viduje\nBet dar aš čia pasaulio krašte krentu lyg akmuo iki tavęs\nŠviečiant taip aukštai, vienam - kaip aš\n\nMėnuli, aš tave seku tamsoje\nRodosi mes klajokliai naktyje\nTavo šaltis paverčia mane į beširdį\nIki saulėtekio deginančios šviesos\n\nRodosi, mes klajokliai naktyje\nTavo šaltis verčia mane į beširdį\nIki tol kol saulėtekio deginančios šviesos nuleis jos dangaus mėlynas spindinčias аkiѕ"
+    }
+  ],
+  "bpm": 145,
+  "tone": "C minor",
+  "artistPeople": [
+    "Jeronimas Milius"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Dalius Abaris, Vytautas Dambrauskas",
+  "composers": [
+    "Vytautas Diškevičius"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Jeronimas Milius"
+  ],
+  "writers": null,
+  "broadcaster": "LRT",
+  "commentators": [
+    "Darius Užkuraitis"
+  ],
+  "jury": null,
+  "spokesperson": "Rolandas Vilkončius"
+}

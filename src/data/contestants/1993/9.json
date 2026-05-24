@@ -1,0 +1,61 @@
+{
+  "id": 9,
+  "country": "PT",
+  "artist": "Anabela",
+  "song": "A cidade até ser dia",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Zh2Jz5UCju8",
+    "https://www.youtube-nocookie.com/embed/F4gD-MPLwB4",
+    "https://www.youtube-nocookie.com/embed/u1bu7M68OUU",
+    "https://www.youtube-nocookie.com/embed/Uyy4oDalw7U",
+    "https://www.youtube-nocookie.com/embed/vi8l7jjJwPE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "A cidade (até ser dia)",
+      "content": "De madrugada saio para rua\nA cidade está à minha frente\nE de repente a cidade é minha e tua\nA cidade é de toda a gente\n\nEntre um gin e um beijo\nVamos nós de bar em bar\nSinto tudo o que vejo\nHá um brilho no ar\n\nQuando cai a noite na cidade\nHá sempre um sonho e há magia\nÀ noite na cidade\nHá sempre um sonho até ser dia\n\nAs cores da noite\nDão um brilho à cidade\nTrazem luz até se fazer dia\n\nEntre a lua e o sol\nVamos nós de rua em rua\nAmanhã de manhã\nJá será outro dia\n\nQuando cai a noite na cidade\nHá sempre um sonho e há magia\nÀ noite na cidade\nHá sempre um sonho até ser dia\n\n(Quando cai a noite na cidade)\n(Há sempre um sonho e há magia)\nÀ noite na cidade\nHá sempre um sonho\n\nQuando cai a noite na cidade\nHá sempre um sonho e há magia\nÀ noite na cidade\nHá sempre um sonho\nAté ѕer diа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The city (until dawn)",
+      "content": "In the morning I go out, into the street\nThe city is in front of me\nAnd suddenly the city is yours and mine\nThe city is everyone's\n\nBetween a gin and a kiss\nWe're going from pub to pub\nI feel everything I see\nThere's a glow in the air\n\nWhen the night falls in the city\nThere's always a dream and there's magic\nAt night in the city\nThere's always a dream until it's daytime\n\nThe colours of the night\nGive a glow to the city\nThey make light until it's dawn\n\nBetween the moon and the sun\nWe're going from street to street\nTomorrow morning\nIt'll be another day\n\nWhen the night falls in the city\nThere's always a dream and there's magic\nAt night in the city\nThere's always a dream until it's daytime\n\n(When the night falls in the city)\n(There's always a dream and there's magic)\nAt night in the city\nThere's always a dream\n\nWhen the night falls in the city\nThere's always a dream and there's magic\nAt night in the city\nThere's always a dream\nUntil it'ѕ dаytime"
+    }
+  ],
+  "bpm": 124,
+  "tone": "D major",
+  "artistPeople": [
+    "Anabela Braz Pires"
+  ],
+  "backings": [
+    "Fernanda Lopes",
+    "Fernando Abrantes",
+    "Jay Rio",
+    "Pedro Abrantes",
+    "Telmo Lopes"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Armindo Neves",
+  "lyricists": null,
+  "writers": [
+    "Marco Quelhas",
+    "Paulo da Costa",
+    "Pedro Abrantes"
+  ],
+  "broadcaster": "RTP",
+  "commentators": [
+    "Isabel Bahia"
+  ],
+  "jury": null,
+  "spokesperson": "Margarida Mercês de Mello"
+}

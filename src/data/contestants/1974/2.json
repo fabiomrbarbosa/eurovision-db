@@ -1,0 +1,62 @@
+{
+  "id": 2,
+  "country": "NL",
+  "artist": "Mouth & MacNeal",
+  "song": "I See a Star",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Hqj_UNeWA9w",
+    "https://www.youtube-nocookie.com/embed/EgeaIXFcMas",
+    "https://www.youtube-nocookie.com/embed/oczuu0oQEjE",
+    "https://www.youtube-nocookie.com/embed/TAhXefZAtT0",
+    "https://www.youtube-nocookie.com/embed/zN_dHDEvX28",
+    "https://www.youtube-nocookie.com/embed/vCpkKYZKpl4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I See a Star",
+      "content": "The days and nights went by, but no one told me\nThey can be fun too, if you only see\nThere's such a lot of beauty you can live for\nYou only need someone to open up your eyes\nAnd you will see things never seen before\n\nI see a star, a brand new star\nIt's right there, twinklin' in your eyes\nI see a face, a happy face\nIt's like the mirror of my mind\n\nI see a star, a brand new star\nIt's right there, twinklin' in your eyes\nI see a face, a happy face\nIt's like the mirror of my mind\n\nYou opened up my eyes for all the beauty\nThe beauty we're inhaling every day\nIt's been there all my life, so it's my duty\nI won't lose sight of it, the fire that you lit\nWill keep on burning till the end of time\n\nI see a star, a brand new star\nIt's right there, twinklin' in your eyes\nI see a face, a happy face\nIt's like the mirror of my mind\n\nI see a star, a brand new star\nIt's right there, twinklin' in your eyes\n\nHappiness now is being shared by two\nI just started my life anew\n\nI see a star, a brand new star\nIt's right there, twinklin' in your eyes\nI see a face, a happy fаce\nIt'ѕ like the mirror of my mind"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "Ik zie een ster",
+      "content": "De pot verwijt de ketel dat-ie zwart ziet\nEn meer van dat soort kreten slaakte jij\nMaar kiften, lieve schat, dat is het ook niet\nZing jij nou maar een lied, een heel romantisch lied\nDan speel ik er een stukkie orgel bij\n\nIk zie een ster, hij staat nog ver\nMaar strakjes komt-ie dichterbij\nIk zie een lach, een lieve lach\nDie is alleen bestemd voor mij\n\nIk zie een ster, hij staat nog ver\nMaar strakjes komt-ie dichterbij\nIk zie een lach, een lieve lach\nDie is alleen bestemd voor mij\n\nDit lied is voor een ander niet te vatten\nGeen mens weet wat jij met die ster bedoelt\nJij moet die mensen niet zo onderschatten\n't Is gewoon heel lief bedoeld, dat heb je best gevoeld\nToe, zing het dan nog één keertje voor mij\n\nIk zie een ster, hij staat nog ver\nMaar strakjes komt-ie dichterbij\nIk zie een lach, een lieve lach\nDie is alleen bestemd voor mij\n\nIk zie een ster, hij staat nog ver\nMaar strakjes komt-ie dichterbij\n\nKoppig zijn is niks want alleen maar alleen\nWees de minste want wie is er van steen?\n\nIk zie een ster, hij staat nog ver\nMaar strakjes komt-ie dichterbij\nIk zie een lach, een lieve lach\nDie is аlleen beѕtemd voor mij"
+    }
+  ],
+  "bpm": 89,
+  "tone": "E major",
+  "artistPeople": [
+    "Willem Duyn",
+    "Sjoukje Smit-van 't Spijker"
+  ],
+  "backings": [
+    "Jan Vermeulen",
+    "Johann Huisdens",
+    "Piet Souer",
+    "Ron Westerbeek"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Hans van Hemert"
+  ],
+  "conductor": "Harry van Hoof",
+  "lyricists": [
+    "Gerrit den Braber"
+  ],
+  "writers": null,
+  "broadcaster": "NOS",
+  "commentators": [
+    "Willem Duys"
+  ],
+  "jury": null,
+  "spokesperson": "Dick van Bommel"
+}

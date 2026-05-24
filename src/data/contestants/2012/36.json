@@ -1,0 +1,75 @@
+{
+  "id": 36,
+  "country": "SI",
+  "artist": "Eva Boto",
+  "song": "Verjamem",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/jEHNRKnrWiU",
+    "https://www.youtube-nocookie.com/embed/9nMZx70PXIA",
+    "https://www.youtube-nocookie.com/embed/SUrkusKotaA"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "slovene"
+      ],
+      "displayedLanguages": null,
+      "title": "Verjamem",
+      "content": "Ah… ah… ah…\nHrepenim iz globin, čez nebo rišem sonce\nPreko sanj le zanj mečem luč v njegove sence\nKi slovo jemljejo, brez spomina z luknjami\nKot med dlanmi da odteče pesek časa\n\nVerjamem, da znova ujela se bova\nIn včeraj za zmeraj se vrne z reko luči\nŠe pesem našla si pot bo do rim če grem za njim\n\nAh… ah… ah… ah…\n\nČutim da grem do dna, nemi glas poje v molu\nVendar pa zavel mi ne bo veter belih zastav\n\nVerjamem, da znova ujela se bova\nIn včeraj za zmeraj se vrne z reko luči\nNov dan lačen je sonca in nezlagan\n\nUh… (Ker jaz ne predam se pred koncem)\n(Ker jaz ne predam se pred koncem)\nKer jaz se ne predam pred koncem\nJaz preživim le na svoj način\nDa hrepenim, ha… (Ker jaz ne predаm ѕe pred koncem)"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I believe",
+      "content": "Ah… ah… ah…\nI yearn from the depths, I draw the sun across the sky\nThrough my dreams, just for him, I cast light onto his shadows\nWhich say farewell, without a holey memory\nAs if draining the sands of time through my hands\n\nI believe that we will catch each other again\nAnd that yesterday will return for good with a river of light\nEven the song will find its way to the rhymes if I go after him\n\nAh… ah… ah… ah…\n\nI feel I'm going down to the bottom, a silent voice is singing in a minor key\nBut my white flags will not be blowing in the wind\n\nI believe that we will catch each other again\nAnd that yesterday will return for good with a river of light\nA new day is hungry for the sun and sincere\n\nOoh… (Because I don't give up until the end)\n(Because I don't give up until the end)\nBecause I don't give up until the end\nI survive only in my own way\nBy yearning, oh… (Becаuѕe I don't give up until the end)"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "croatian"
+      ],
+      "displayedLanguages": null,
+      "title": "U kamen i vodu",
+      "content": "Noćima kao da čujem glas iz daljina\nBudi me iz sna, nepozvan iz dubina\nDa li to pjeva mi srce što za njim žudi?\nA kad jutro osvane nikog nema da me probudi\n\nU kamen i vodu svi snovi nek' odu\nJer tamo, još samo on diše\nAl' živim ja u snu, i sve na svom mjestu je samo kad je tu\n\nVjerujem, čeka me, novi dan s druge strane\nAl' tu rijeku preći ću kad mi novo jutro osvane\n\nU kamen i vodu svi snovi nek' odu\nJer tamo, još samo on diše\nAl' živim ja u snu\nI sve na svom mjestu je samo kad je tu\n\n(Još dišem do kraja za tebe\nJoš dišem do kraja za tebe\nJoš dišem do kraja za tebe)\n\nJoš dišem ja, za tebe\nI sve na svom mjestu je samo kad si tu\nSamo u ѕnu…\nEh, eh…\n(Još dišem do kraja zа tebe)"
+    }
+  ],
+  "bpm": 132,
+  "tone": "F major",
+  "artistPeople": [
+    "Eva Boto"
+  ],
+  "backings": [
+    "Ana Bezjak",
+    "Katja Koren",
+    "Martina Majerle",
+    "Mateja Majerle",
+    "Sandra Feketija"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Hari Mata Hari",
+    "Vladimir Graić"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Igor Pirković"
+  ],
+  "writers": null,
+  "broadcaster": "RTVSLO",
+  "commentators": [
+    "Andrej Hofer"
+  ],
+  "jury": [
+    "Lea Sirk",
+    "Omar Naber",
+    "Raay",
+    "Slavko Ivančić",
+    "Urša Vlašič"
+  ],
+  "spokesperson": "Lorella Flego"
+}

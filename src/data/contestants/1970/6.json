@@ -1,0 +1,54 @@
+{
+  "id": 6,
+  "country": "NL",
+  "artist": "Patricia & Hearts of Soul",
+  "song": "Waterman",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/CXiyNAMk7ok",
+    "https://www.youtube-nocookie.com/embed/govZ94LMsK0",
+    "https://www.youtube-nocookie.com/embed/bQAwWbUkS3g",
+    "https://www.youtube-nocookie.com/embed/rj5wWP_X9JE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "Waterman",
+      "content": "Waterman, ben jij een Waterman?\nDan past jouw sterrenbeeld bij mij\nIntuïtief, heb ik je nu al lief\n't Is net of jij eenvoudig hoort bij mij\n\nWaterman, mijn teken en talisman\nVan nu af aan hoor jij bij mij\nWaterman, zachtmoedige Waterman\nMijn liefste man, dat ben jij\n\nSterrenbeeld, dat niet met harten speelt\nMaar mensen helpen wil, altijd\nJij kent gewoon geen ruwe heerserstoon\nJij zoekt altijd naar warme mens'lijkheid\n\nWaterman, mijn teken en talisman\nVan nu af aan hoor jij bij mij\nWaterman, zachtmoedige Waterman\nMijn liefste man, dat ben jij\n\nWaterman, mijn teken en talisman\nVan nu af aan hoor jij bij mij\nWaterman, zachtmoedige waterman\nMijn liefste man, dat ben jij\n\nDie altijd fair bent\nAltijd trouw en solidair bent\nMaar ook vaak zo goedgelovig\nEn voor slechtheid ietwat dovig\nSoms zo ernstig, haaѕt verlegen\nMaar oneindig toegenegen\nWatermаn"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Aquarius",
+      "content": "Aquarius, are you an Aquarius?\nThen your sign of the zodiac matches mine\nIntuitively, I already love you\nIt's just like you simply belong to me\n\nAquarius, my sign and talisman\nFrom now on you belong to me\nAquarius, gentle Waterman\nMy dearest man, that's what you are\n\nSign of the zodiac, that doesn't play with hearts\nBut that wants to help people, always\nYou just don't know a rough dominant tone\nYou always look for warm humanity\n\nAquarius, my sign and talisman\nFrom now on you belong to me\nAquarius, gentle Waterman\nMy dearest man, that's what you are\n\nAquarius, my sign and talisman\nFrom now on you belong to me\nAquarius, gentle Waterman\nMy dearest man, that's what you are\n\nYou are always fair\nAlways faithful and solidary\nBut also often so credulous\nAnd somewhat deaf to evil\nSometimes so serious, almost shy\nBut endlessly affectionate\nAquаriuѕ"
+    }
+  ],
+  "bpm": 155,
+  "tone": "D major",
+  "artistPeople": [
+    "Bianca Maessen",
+    "Patricia Maessen",
+    "Stella"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Dolf van der Linden",
+  "lyricists": null,
+  "writers": [
+    "Pieter Goemans"
+  ],
+  "broadcaster": "NOS",
+  "commentators": [
+    "Pim Jacobs"
+  ],
+  "jury": null,
+  "spokesperson": "Flip van der Schalie"
+}

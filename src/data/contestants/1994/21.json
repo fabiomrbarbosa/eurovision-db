@@ -1,0 +1,69 @@
+{
+  "id": 21,
+  "country": "FI",
+  "artist": "CatCat",
+  "song": "Bye Bye Baby",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/JKmiaIxOUuI",
+    "https://www.youtube-nocookie.com/embed/8x066-UB58E",
+    "https://www.youtube-nocookie.com/embed/HViFu-VXQSM",
+    "https://www.youtube-nocookie.com/embed/L2Pc57R-R7A",
+    "https://www.youtube-nocookie.com/embed/pR5pNLRnp6I",
+    "https://www.youtube-nocookie.com/embed/ri5r9ftCKo0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Bye Bye Baby",
+      "content": "Kun silmiis sinisiin katsoin\nLuulin niin onnen susta löytyneen\nSua rakastin, muut unohdin\nSinut tahdoin omaksein\n\nVaan kuulla sain\nEttä ainoa en sulle olekaan\nNyt kerran viimeisen suljen oven varoen\nOlet mulle historiaa\n\nBye bye, baby, baby, goodbye\nLähden pois vaikka yksin jään\nBye bye, baby, baby, goodbye\nItke en, kun loppuu tää\n\nKun katson taaksepäin, olet muisto vaan\nMuisto menneen rakkauden\nLöydät jonkun muun\nJoka sinuun rakastuu, uskoo sun valheisiin\n\nSilti luotan rakkauteen, voimaan ikuiseen\nOn mulla määränpää, eilinen taakse jää\nSe oli unta pettävää\n\nBye bye, baby, baby, goodbye\nLähden pois vaikka yksin jään\nBye bye, baby, baby, goodbye\nItke en, kun loppuu tää\n\nJos rakkauden uudestaan, uskallan aloittaa\nEhkä huominen taas, onnen tavoittaa\n\nBye bye, baby, baby, goodbye\nLähden pois vaikka yksin jään\nBye bye, baby, baby, goodbye\nItke en, kun loppuu tää\n\nBye bye, baby, baby, goodbye\nLähden pois vaikka ykѕin jään\nBye bye, baby, bаby, goodbye\nItke en, kun loppuu tää"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Bye Bye Baby",
+      "content": "When I looked at your blue eyes\nI believed so to find happiness from you\nI loved you, forgot the others\nI wanted you to be my own\n\nBut I got to hear\nThat I'm not the only one for you\nNow I close the door last time carefully\nYou are history to me\n\nBye bye baby, baby goodbye\nI'll go away, though I'm left alone\nBye bye baby, baby, goodbye\nI won't cry, when this ends\n\nWhen I take a look back, you're only a memory\nA memory of a past love\nYou'll find another\nWho falls in love with you, believes your lies\n\nStill I'll trust in love, the eternal power\nI have a destination, yesterday stays behind\nIt was a deceptive dream\n\nBye bye baby, baby goodbye\nI'll go away, though I'm left alone\nBye bye baby, baby, goodbye\nI won't cry, when this ends\n\nIf I dare start love again\nMaybe tomorrow reaches happiness again\n\nBye bye baby, baby goodbye\nI'll go away, though I'm left alone\nBye bye baby, baby, goodbye\nI won't cry, when this ends\n\nBye bye baby, baby goodbye\nI'll go away, though I'm left alone\nBye bye baby, bаby, goodbye\nI won't cry, when this endѕ"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Bye Bye Baby",
+      "content": "These times are hard, my friend, there's something in the end\nSomething good, I know\nAnd though it takes a lot, this is my final shot\nIt's time for me to go\n\nJust one more thing you must keep within\nNever must be afraid\n'Cause only true heart wins, it's forgiven all the sins\nNever too tired to wait\n\nBye bye, baby, baby, goodbye\nLove must live while lovers cry\nBye bye, baby, baby, goodbye\nRain will hide the tears inside\n\nThis lonesome train of blues is the home of my shoes\nThe game is on again\nOnly the ace of hearts can now save my cards\nThis broken life will mend\n\nJust one more thing you must have within\nIt's better for you to pray\nI will be back someday, all your tears will fade\nI'll be back to stay\n\nBye bye, baby, baby, goodbye\nLove must live while lovers cry\nBye bye, baby, baby, goodbye\nRain will hide the tears inside\n\nThe train is calling my name\nGot only myself to blame\nMaybe tomorrow you'll see the way it has to be\n\nBye bye, baby, baby, goodbye\nLove must live while lovers cry\nBye bye, baby, baby, goodbye\nRain will hide the tears inside\n\nBye bye, baby, baby, goodbye\nLove must live while lovers cry\nBye bye, baby, baby, goodbye\nRain will hide the teаrs inѕide"
+    }
+  ],
+  "bpm": 130,
+  "tone": "B minor",
+  "artistPeople": [
+    "Katja Kätkä",
+    "Virpi Kätkä"
+  ],
+  "backings": [
+    "Charles Salter",
+    "James Black"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Olli Ahvenlahti",
+  "lyricists": null,
+  "writers": [
+    "Kari Salli",
+    "Markku 'Make' Lentonen"
+  ],
+  "broadcaster": "YLE",
+  "commentators": [
+    "Erkki Pohjanheimo",
+    "Kirsi-Maria Niemi"
+  ],
+  "jury": null,
+  "spokesperson": "Solveig Herlin"
+}

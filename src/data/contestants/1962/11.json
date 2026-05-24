@@ -1,0 +1,53 @@
+{
+  "id": 11,
+  "country": "CH",
+  "artist": "Jean Philippe",
+  "song": "Le Retour",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/UMCltpzNK64",
+    "https://www.youtube-nocookie.com/embed/hMfQQZkX3bY"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Le Retour",
+      "content": "Après le temps des cœurs battants\nDes chemins buissonniers, des pas légers\nAprès le long séjour des lointains beaux jours\nÀ chacun son tour, c'est le retour\n\nOn a vieilli au temps joli\nDe nos quatre cents coups, un peu beaucoup\nEt voilà qu'au détour d'un chemin trop court\nÀ chacun son tour, c'est le retour\n\nOn lui a dit: \"Tu dois savoir que jeunesse se passe\"\nIl a compris quand son miroir lui a fait la grimace\nIl a jeté la fleur de l'âge\nEn même temps que ses bagages\n\nÀ trop chercher, on a gâché\nCe qu'on avait de mieux au fond des yeux\nEt voilà qu'au détour d'un chemin trop court\nÀ chacun son tour, c'est le retour\n\nMais l'autre temps qui nous attend\nNous vaudra d'autres joies à vous, à moi\nC'est le temps sans détour, le temps de l'amour\nÀ chacun son tour, c'est le retour\n\nOui, le retour des nouveаux jourѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The return",
+      "content": "After the time of beating hearts\nRough roads, light steps\nAfter the long stay of the distant beautiful days\nEveryone gets his turn, it's the return\n\nWe're grown old in good times\nFor our four hundred times, a bit much\nAnd there you see where the short walk brought us\nEveryone gets his turn, it's the return\n\nWe told him: \"You have to know that youth passes by\"\nHe understood when his mirror pulled him a long face\nHe threw the prime of his life away\nAt the same time as his knowledge\n\nBy searching too much, we wasted\nWhat we had better kept in our eyes\nAnd there you see where the short walk brought us\nEveryone gets his turn, it's the return\n\nBut the other time that wait for us\nWill be worth other joys with you, with me\nIt's the time without detour, the time of love\nEveryone gets his turn, it's the return\n\nYes, the return of new dаyѕ"
+    }
+  ],
+  "bpm": 78,
+  "tone": "D minor",
+  "artistPeople": [
+    "Jean Philippe"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Géo Voumard"
+  ],
+  "conductor": "Cédric Dumont",
+  "lyricists": [
+    "Émile Gardaz"
+  ],
+  "writers": null,
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Georges Hardy",
+    "Theodor Haller"
+  ],
+  "jury": null,
+  "spokesperson": "Alexandre Burger"
+}

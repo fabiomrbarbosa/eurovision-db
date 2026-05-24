@@ -1,0 +1,54 @@
+{
+  "id": 15,
+  "country": "IS",
+  "artist": "Beathoven",
+  "song": "Sókrates",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/IgpAVZ-0EV4",
+    "https://www.youtube-nocookie.com/embed/vMLdwS54Mm0",
+    "https://www.youtube-nocookie.com/embed/-rqojUpyJ84"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "icelandic"
+      ],
+      "displayedLanguages": null,
+      "title": "Sókrates",
+      "content": "Ég dái Debussy, ég dýrka Tjækovský\nOg Einar Ben og Beethoven og Gunnar Thoroddsen\n\nÉg tilbið Harold Lloyd, ég tilbið Sigmund Freud\nOg John Wayne og Mark Twain og þig og Michael Caine\n\nSyngjum öllum Sókrates, sálarinnar Herkúles\nUm alla þá sem allir þrá\nOg allir dýrka og dá\n\nÉg syng um Kólumbus og Sólon Islandus\nOg Mendelssohn og Paul og John\nOg Jón Pál Sigmarsson\n\nSyngjum öllum Sókrates, sálarinnar Herkúles\nUm alla þá sem allir þrá\nOg allir dýrka og dá\n\nHej… syngjum öllum Sókrates, sálarinnar Herkúles\nUm þá sem ѕpá en einkum þá\nSem fallnir eru frá\n\nLalalala lalala… lalalala lalala…\nLalalala… lalalala…\nLalala lalala…\n\nDýrkа og dá"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Socrates",
+      "content": "I admire Debussy, I worship Tschaikovsky\nAnd Einar Ben and Beethoven and Gunnar Thoroddsen\n\nI worship Harold Lloyd, I worship Sigmund Freud\nAnd John Wayne and Mark Twain and you and Michael Caine\n\nLet's all sing about Socrates, the Hercules of the soul\nAnd about all of those who are desired by all\nAnd who everyone worships and admires\n\nI sing about Columbus and Solon Islandus\nAnd Mendelssohn and Paul and John\nAnd Jón Páll Sigmarsson\n\nLet's all sing about Socrates, the Hercules of the soul\nAnd about all of those who are desired by all\nAnd who everyone worships and admires\n\nHey… let's all sing about Socrates, the Hercules of the soul\nAnd the prophets but particularly those\nWho are no longer here among us\n\nLalalala lalala… lalalala lalala…\nLalalala… lalalala…\nLalala lalala…\n\nWorships and аdmireѕ"
+    }
+  ],
+  "bpm": 172,
+  "tone": "C major",
+  "artistPeople": [
+    "Stefán Hilmarsson",
+    "Sverrir Stormsker"
+  ],
+  "backings": [
+    "Edda Borg Ólafsdóttir"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Sverrir Stormsker"
+  ],
+  "broadcaster": "RÚV",
+  "commentators": [
+    "Hermann Gunnarsson"
+  ],
+  "jury": null,
+  "spokesperson": "Guðrún Skúladóttir"
+}

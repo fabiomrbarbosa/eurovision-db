@@ -1,0 +1,65 @@
+{
+  "id": 20,
+  "country": "LT",
+  "artist": "4Fun",
+  "song": "Love Or Leave",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Rebt7qd-HcI",
+    "https://www.youtube-nocookie.com/embed/1JCEnsI91gs",
+    "https://www.youtube-nocookie.com/embed/twK0yZOe2NI",
+    "https://www.youtube-nocookie.com/embed/YiL0inng7Gg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Love Or Leave",
+      "content": "Stars in the sky\nWhen the shadows fall, when the sunlight dies\nEmpty streets are filled with the pale lamplight\nWe are just two lonely shades walking in the night\n\nWords lose their sense\nWhen I feel you near, when I touch your hands\nI'm trying not to think that at break of dawn\nYou'll be gone and I'll be lost, numb and all alone\n\nWhen the morning comes, I'm all alone\nLeft to live another day, in joy or sadness, on my own\nWhen the morning comes, I'm all alone\nEvery time at break of dawn\n\nWeak and unwise\nI betray all fears that I should disguise\nMelting in your arms, I fail to realise\nWhy the mornings always change the colour of your eyes\n\nWhen the morning comes, I'm all alone\nEvery time at break of dawn\n\nLove or leave, I'm with and without you\nHow come I am up to this senseless game?\nHow could I stop thinking about you?\nLove or leave, don't play with my heart again\n\nLove or leave, I'm with and without you\nHow come I am up to this senseless game?\nHow could I ѕtop thinking about you?\nHey… love or leave, don't play with my heart agаin"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "lithuanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Mylėk arba Išeik",
+      "content": "Žvaigždės danguje\nKai šešėliai nukrenta, kai saulės šviesta dingsta\nTuščios gatvės pilnos blyškių lempos šviesų\nMes tik du vieniši atspalviai naktyje\n\nŽodžiai praranda savo prasmę\nKai jaučiu tave arti, kai paliečiu tavo rankas\nAš bandau apie tai negalvoti prieš aušrą\nTu būsi dingęs ir aš būsiu pasiklydusi, sugrubusi ir visiškai viena\n\nKai rytas ateina, aš visiškai viena\nPalikta gyventi kitą dieną, džiaugsme, liūdesyje, pati -\nKai rytas ateina, aš visiškai viena\nKiekvieną aušrą\n\nSilpna ir neišmintinga\nAš išduodu visas baimes kurias turėčiau slėpti\nTirpstu tavo rankose, man nepavyksta suprasti\nKodėl rytai visada pakeičia tavo akių spalvą\n\nKai rytas ateina, aš visiškai viena\nKiekvieną aušrą\n\nMylėk ar išeik, aš su ir be tavęs\nKodėl aš žaidžiu šį beprotišką žaidimą\nKaip aš galiu nebegalvoti apie tave\nMylėk ar išeik, nebežaisk su mano širdimi\n\nMylėk ar išeik, aš su ir be tavęs\nKodėl aš žaidžiu šį beprotišką žaidimą\nKaip aš galiu nebegalvoti apie tave\nEi.. mylėk ar išeik, nebežaisk ѕu mаno širdimi"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "lithuanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Mėlyna Žvaigždė",
+      "content": "Ten, tamsoje\nKai mėnulis vėl šviečia danguje\nJei liūdėsiu aš, nežinia kodėl\nNusileis iš debesų mėlyna žvaigždė\n\nVėl, vakarais\nŠypsena tyli man užmigt neleis\nMėlyna liepsna danguje žibės\nPakalbės su manimi mėlyna žvaigždė\n\nMėlyna žvaigždė, taip toli\nAr gali išgirst mane?\nAr suprast mane gali?\nMėlyna žvaigždė, taip toli\nMano mėlyna žvaigždė\n\nTu, taip aukštai\nPasakyk man, ką iš dangaus matai\nKur keliausi tu, kai naktis išnyks?\nŽvaigžde, pasakyki man, kas rytoj nutiks\n\nMėlyna žvaigždė, taip toli\nMano mėlyna žvaigždė\n\nPasakyk, kur mano svajonės\nNežinia, kas laukia manęs rytoj\nPasakyk, kas laukia kelionėj\nNeišeik, lydėki mane tamsoj\n\nPasakyk, kur mano svajonės\nNežinia, kas laukia manęs rytoj\nPasakyk, kas laukia kelionėj\nYeah, neišeik, lydėki mane tаmѕoj"
+    }
+  ],
+  "bpm": 166,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Andžej Zujevič",
+    "Julija Ritčik",
+    "Justas Jasenka",
+    "Laimonas Staniulionis",
+    "Rimantas Jasenka"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Julija Ritčik"
+  ],
+  "broadcaster": "LRT",
+  "commentators": [
+    "Darius Užkuraitis"
+  ],
+  "jury": null,
+  "spokesperson": "Lavija Šurnaitė"
+}

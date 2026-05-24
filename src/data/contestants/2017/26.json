@@ -1,0 +1,59 @@
+{
+  "id": 26,
+  "country": "GE",
+  "artist": "Tamara Gachechiladze",
+  "song": "Keep The Faith",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/agSS_a3ccgA",
+    "https://www.youtube-nocookie.com/embed/fMjoNAZ1DpU",
+    "https://www.youtube-nocookie.com/embed/yw5uyq60sTk",
+    "https://www.youtube-nocookie.com/embed/A7ZhxR6UDrQ",
+    "https://www.youtube-nocookie.com/embed/hYTrUOqsvEY",
+    "https://www.youtube-nocookie.com/embed/fv4iN7BvHVw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Keep The Faith",
+      "content": "Who told you to hide behind the veil?\nWho told you to get out of the way?\nDon't you let them steal your dreams\nFeel the courage, spread your wings and breathe\n\nKeep the faith, keep the faith\nRemember you are not alone\nHold my hand and come along\nYou, keep the faith, keep the faith\nDon't let nobody turn you down\nEven if the world is rough\n\nWho told you that i reached the point with no regrets?\nWho told you that my life is a book of fairytales?\nI have lost many times,\nBut I've never lost my hope\n\nKeep the faith, keep the faith\nRemember you are not alone\nHold my hand and come along\nYou, keep the faith, keep the faith\nDon't let nobody turn you down\nEven if the world is rough\n\nOhh, ohh, ohh\nYou got to stand on your own\nCrowd hear me out\nThe world needs more love\n\n(Keep the faith, keep the faith)\nRemember you are not alone\nHold my hand and come along\nYou, keep the faith, keep the faith\nDon't let nobody turn you down\nEven if the world iѕ rough\n\nOhh, ohh, ohh\nKeep the fаith!"
+    }
+  ],
+  "bpm": 132,
+  "tone": "G minor",
+  "artistPeople": [
+    "Tako Gachechiladze"
+  ],
+  "backings": [
+    "Giorgi Tskhvariashvili",
+    "Guri Pasikashvili",
+    "Mariam Akobia",
+    "Mariam Jomardidze",
+    "Natia Oqruashvili"
+  ],
+  "dancers": null,
+  "stageDirector": "Sacha Jean-Baptiste",
+  "composers": [
+    "Anri Jokhadze"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Tamara Gachechiladze"
+  ],
+  "writers": null,
+  "broadcaster": "GPB",
+  "commentators": [
+    "Demetre Ergemlidze"
+  ],
+  "jury": [
+    "Gvantsa Kilasonia",
+    "Maia Baratashvili",
+    "Mamuka Begashvili",
+    "Medea Kavtaradze",
+    "Mirian Kukulashvili"
+  ],
+  "spokesperson": "Nika Kocharov"
+}

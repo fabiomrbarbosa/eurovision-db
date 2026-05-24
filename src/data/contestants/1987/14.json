@@ -1,0 +1,61 @@
+{
+  "id": 14,
+  "country": "FI",
+  "artist": "Vicky Rosti",
+  "song": "Sata salamaa",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/6nzinzAMxtI",
+    "https://www.youtube-nocookie.com/embed/6O5-2dKakYw",
+    "https://www.youtube-nocookie.com/embed/oQHtS27iXBU",
+    "https://www.youtube-nocookie.com/embed/_jLYX2qaJuU",
+    "https://www.youtube-nocookie.com/embed/rowLwO-_bp8",
+    "https://www.youtube-nocookie.com/embed/TzceAyC__PI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Sata salamaa",
+      "content": "Pimenee valkeat maat, laulupuut vaikenevat\nKatujen lapset piiloutuu, kun rajuilma nousee\nPelätään pelkomme pois, mikään ei viedä mua vois\nKun rakkaus kiinni painautuu ja sydän lämpenee\n\nVaik sata salamaa iskee tulta ja koko elämä räjähtää\nEi rakkautta voi riistää multa, toivo jäljelle jää\nKun sata aurinkoo meille paistaa\nJa laiva valmis on nousemaan\nMinä turvaan vien tämän rakkauden\nJa me löydämme uuden maan\n\nLähelläs lämpösi saan unelma uupuvan maan\nViimeinen haave viimalta yön meille suojan antaa\nTotuuden toivossas nään liekin luot kuiskaten tään\nVain rakkaus meidät perille vie se meidät pelastaa\n\nVaik sata salamaa iskee tulta ja koko elämä räjähtää\nEi rakkautta voi riistää multa, toivo jäljelle jää\nKun sata aurinkoo meille paistaa\nJa laiva valmis on nousemaan\nMinä turvaan vien tämän rakkauden\nJa me löydämme uuden maan\n\nOn tuolla tuhannet maailmat ja yksi niistä meidän on\n\nVaik sata salamaa iѕkee tulta ja koko elämä räjähtää\nMinä turvaan vien tämän rakkauden\nJa me löydämme uuden maan\nMinä turvaan vien tämän rakkauden\nVaihdan maan maahan valkeaаn"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "One hundred lightnings",
+      "content": "The white lands are getting darker, singing trees go silent\nChildren of the streets go into hiding when a storm is rising\nLet's fear our fears away, nothing could take me away\nWhen love sticks tightly to you and the heart gets warmer\n\nThough a hundred lightnings strike fire, and all of life explodes\nNobody can take love away from me, there's always hope\nWhen a hundred suns shine on us\nAnd a ship is ready to depart\nI will take our love to a safe place\nAnd we'll find a new land\n\nI feel tenderness beside you, a dream of an exhausted land\nThe last dream gives us shelter from the wind of the night\nI see the truth in your hope, you create a flame by whispering\nOnly love will take us there, it saves us\n\nThough a hundred lightnings strike fire, and all of life explodes\nNobody can take love away from me, there's always hope\nWhen a hundred suns shine on us\nAnd a ship is ready to depart\nI will take our love to a safe place\nAnd we'll find a new land\n\nThere's a thousand worlds out there, and one of them is ours\n\nThough a hundred lightnings strike fire, and all of life explodes\nI will take our love to a safe place\nAnd we'll find a new land\nI will take our love to a safe place\nI will change thiѕ land to another white lаnd"
+    }
+  ],
+  "bpm": 134,
+  "tone": "G major",
+  "artistPeople": [
+    "Erkki Korhonen",
+    "Jari Nieminen",
+    "Jari Puhakka",
+    "Juha Lanu",
+    "Kyösti Laihi",
+    "Virve Rosti"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Petri Laaksonen"
+  ],
+  "conductor": "Ossi Runne",
+  "lyricists": [
+    "Veli-Pekka Lehto"
+  ],
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Erkki Toivanen"
+  ],
+  "jury": null,
+  "spokesperson": "Solveig Herlin"
+}

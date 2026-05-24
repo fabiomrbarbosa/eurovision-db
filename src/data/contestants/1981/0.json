@@ -1,0 +1,51 @@
+{
+  "id": 0,
+  "country": "GB",
+  "artist": "Bucks Fizz",
+  "song": "Making Your Mind Up",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/DszqGGSY4oo",
+    "https://www.youtube-nocookie.com/embed/pACePi441ds",
+    "https://www.youtube-nocookie.com/embed/3qAs340W8Lw",
+    "https://www.youtube-nocookie.com/embed/l16ri1ZcD9g",
+    "https://www.youtube-nocookie.com/embed/kvQCT4vtOlc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Making Your Mind Up",
+      "content": "You gotta speed it up\nAnd then you gotta slow it down\n'Cause if you believe that our love can hit the top\nYou gotta play around\nBut soon you will find that there comes a time\nFor making your mind up\n\nYou gotta turn it on\nAnd then you gotta put it out\nYou gotta be sure that it's something\nEverybody's gonna talk about\nBefore you decide that the time's arrived\nFor making your mind up\n\nDon't let your indecision\nTake you from behind\nTrust your inner vision\nDon't let others change your mind\n\nAnd now you really gotta burn it up\nAnd make another fly by night\nGet a run for your money\nAnd take a chance and it'll turn out right\nBut when you can see how it's gotta be\nYou're making your mind up\n\nAnd try to look as if you don't care less\nBut if you wanna see some more\nBending the rules of the game\nWill let you find the one you're looking for\nAnd then you can show that you think you know\nYou're making your mind up\n\nDon't let your indecision\nTake you from behind\nTrust your inner vision\nDon't let others change your mind\n\nAnd now you really gotta speed it up\nAnd then you gotta slow it down\n'Cause if you believe that our love can hit the top\nYou gotta play around\nBut soon you will find that there comes a time\nFor making your mind up\n\nAnd now you really gotta speed it up\nAnd then you gotta slow it down\n'Cause if you believe that our love can hit the top\nYou gotta play around\nBut soon you will find that there comeѕ a time\nFor making your mind up\nFor making your mind up\nFor making your mind up\nFor mаking your mind up"
+    }
+  ],
+  "bpm": 178,
+  "tone": "A major",
+  "artistPeople": [
+    "Robert Alan Gubby",
+    "Rita Crudgington",
+    "Jay Aston",
+    "Mike Nolan"
+  ],
+  "backings": [
+    "Alan Carvell"
+  ],
+  "dancers": null,
+  "stageDirector": "Chrissy Wickham",
+  "composers": [
+    "John Danter"
+  ],
+  "conductor": "John Coleman",
+  "lyricists": [
+    "Andy Hill"
+  ],
+  "writers": null,
+  "broadcaster": "BBC",
+  "commentators": [
+    "Terry Wogan"
+  ],
+  "jury": null,
+  "spokesperson": "Colin Berry"
+}

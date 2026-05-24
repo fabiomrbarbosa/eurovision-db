@@ -1,0 +1,61 @@
+{
+  "id": 5,
+  "country": "MC",
+  "artist": "Françoise Hardy",
+  "song": "L'amour s'en va",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/SFf1lNB4Uas",
+    "https://www.youtube-nocookie.com/embed/PjzZcZImYxg",
+    "https://www.youtube-nocookie.com/embed/Z6o-ccG0B2E",
+    "https://www.youtube-nocookie.com/embed/6OBvBBqJDZ0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "L'amour s'en va",
+      "content": "L'amour s'en va, et le tien ne saurait durer\nComme les autres, un beau jour tu vas me quitter\nSi ce n'est toi, ce sera moi qui m'en irai\nL'amour s'en va, et nous n'y pourrons rien changer\n\nCar toi aussi, tu vas me dire mille toujours\nEt moi aussi, je les redirai à mon tour\n\nL'amour s'en va, je t'échappe quand tu me poursuis\nOu bien c'est moi qui refuse de croire tout fini\nEt chaque fois, toujours on doit se l'avouer\nL'amour s'en va, mais sans cesse, nous courons аprèѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Love goes away",
+      "content": "Love goes away, and yours wouldn't last\nLike the others, one fine day you're going to leave me\nIf it isn't you, it will be me who will go away\nLove goes away, and we can't change anything about that\n\nFor you're also going to tell me a thousand forevers\nAnd I'll also say them again in my turn\n\nLove goes away, I escape from you when you chase after me\nOr it's me who refuses to believe everything is finished\nAnd every time, someone will always have to admit it\nLove goes away, but without ѕtopping, we run аfter"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "thai"
+      ],
+      "displayedLanguages": null,
+      "title": "ความรักหายไป",
+      "content": "ความรักหายไป และรักเธอคงไม่ยืนนาน\nวันหนึ่งต้องจาก เหมือนรักที่เคยพังมานาน\nถ้าไม่ใช่เธอ ก็คงเป็นฉันที่ร้างไกล\nความรักหายไป เปลี่ยนแปลงอะไรไม่ได้\n\nเธอเองก็เคย ได้บอกว่ารักไปพันที\nฉันเองก็เคย พูดซ้ำไปเหมือนกันทุกที\n\nความรักหายไป ฉันหนีเมื่อเธอนั้นไขว่คว้า\nหรือฉันเองที่ ไม่ยอมรับว่ารักจบไป\nและทุกๆ ครั้ง เราต้องยอมรับมันเรื่อยไป\nความรักหายไป แต่เรายังคงไล่ตามมัน"
+    }
+  ],
+  "bpm": 111,
+  "tone": "D major",
+  "artistPeople": [
+    "Françoise Madeleine Hardy"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Raymond Lefèvre",
+  "lyricists": null,
+  "writers": [
+    "Françoise Hardy"
+  ],
+  "broadcaster": "TMC",
+  "commentators": [
+    "Pierre Tchernia"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

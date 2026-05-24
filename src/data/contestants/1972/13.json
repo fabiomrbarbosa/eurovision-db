@@ -1,0 +1,53 @@
+{
+  "id": 13,
+  "country": "NO",
+  "artist": "Grethe Kausland & Benny Borg",
+  "song": "Småting",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/EROlZbIbjH0",
+    "https://www.youtube-nocookie.com/embed/TgJl8J56zvU",
+    "https://www.youtube-nocookie.com/embed/aUu52zaLy9c"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "norwegian"
+      ],
+      "displayedLanguages": null,
+      "title": "Småting",
+      "content": "Skaffe seg penger, gods eller gull\nArve et slott, det kan vi, men hva er vel det\nMot gleder som hverdagen gir?\n\nReise rundt jorden, kjenne seg fri\nLande på månen kan vi, men hva er vel det?\nFå øynene opp og du ser…\n\nSmåting, småting, være til nytte\nSmåting, småting, det er å lytte\nSmåting, småting, det er å være glad\n\nSmåting, småting, snakke om været\nSmåting, småting, treffe no'n kjære\nSmåting, småting, det er en liten sang\n\nSe frem til hver en dag, det fins så mange slag\nDet er dager som er bedre enn du tror\nSlå av på noen krav, slutt med ditt mas og kav\nTa en hvil og smil, det er ingen tvil\n\nAt småting, småting, rusle på stranden\nSmåting, småting, skrive i sanden\nSmåting, småting, se på en solnedgang\n\nSe frem til hver en dag, det fins så mange slag\nDet er dager som er bedre enn du tror\nSlå av på noen krav, slutt med ditt mas og kav\nTa en hvil og smil, det er ingen tvil\n\nAt småting, småting, rusle på stranden\nSmåting, småting, skrive i sanden\nSmåting, se på en solnedgang\n\nSe på en solnedgang, se på en solnedgаng\n\nSmåting, småting, småting, ѕmåting"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Little things",
+      "content": "Saving up money, treasures or gold\nInherit a castle, that we can, but what is that\nCompared to everyday happiness?\n\nTravel the world, feel free\nLand on the moon, that we can, but what is that?\nOpen your eyes and you'll see…\n\nLittle things, little things, to be of use\nLittle things, little things, that's to listen\nLittle things, little things, to be happy\n\nLittle things, little things, to talk about the weather\nLittle things, little things, to meet loved ones\nLittle things, little things, it's a little song\n\nLook forward to every day, there are so many different ones\nThere are days better than you expect\nCut down on your demands, stop all the stressing\nRelax and smile, there is no doubt that\n\nLittle things, little things, to take a walk on the beach\nLittle things, little things, to write in the sand\nLittle things, little things, to watch a sunset\n\nLook forward to every day, there are so many different ones\nThere are days better than you expect\nCut down on your demands, stop all the stressing\nRelax and smile, there is no doubt that\n\nLittle things, little things, to take a walk on the beach\nLittle things, little things, to write in the sand\nLittle things, little things, to watch a sunset\n\nTo watch a sunset, to watch а sunset\n\nLittle things, little things, little things, little thingѕ"
+    }
+  ],
+  "bpm": 136,
+  "tone": "D major",
+  "artistPeople": [
+    "Benny Borg",
+    "Grethe Kausland"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Carsten Klouman",
+  "lyricists": null,
+  "writers": [
+    "Ivar Børsum",
+    "Kåre Grøttum"
+  ],
+  "broadcaster": "NRK",
+  "commentators": [
+    "Roald Øyen"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

@@ -1,0 +1,45 @@
+{
+  "id": 10,
+  "country": "IE",
+  "artist": "The Duskeys",
+  "song": "Here Today, Gone Tomorrow",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Ms_aDsasL4Y",
+    "https://www.youtube-nocookie.com/embed/78yZxMGyU_A",
+    "https://www.youtube-nocookie.com/embed/OwdPVO255wI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Here Today, Gone Tomorrow",
+      "content": "Lala lalalala… la lalalala… la lalalala…\nLa lalalala… la lalalala… la lalalala…\n\nHey baby, tell me please\nHow can you come back to me as cool as a breeze?\nYou can fool some people with your big brown eyes\nBut I'm the one who knows that you've been telling me lies\nYou tell me that you love me so\nThen you pack up and off you go\n\nHere today, gone tomorrow\nOne day love, next day sorrow\nFirst you give, then you borrow\nHere today, gone tomorrow\nBaby, love me all of the time\nOr I don't really wanna know\n\nHere today, gone tomorrow\nOne day love, next day sorrow\nFirst you give, then you borrow\nHere today, gone tomorrow\nBaby, give me all of your love\nOr I don't really wanna know\n\nLala lalalala… la lalalala… la lalalala…\nLa lalalala… la lalalala… la lalalala…\n\nHey baby, would it be nice\nIf I paid attention to my friends' advice?\nThey've been telling me that I should turn you down\n'Cause you've another girlfriend on the far side of town\nI always hoped when you'd go away\nThat you would change your rovin' ways\nAnd come back to stay\n\nHere today, gone tomorrow\nOne day love, next day sorrow\nFirst you give, then you borrow\nHere today, gone tomorrow\nBaby, love me all of the time\nOr I don't really wanna know\n\nHere today, gone tomorrow\nOne day love, next day sorrow\nFirst you give, then you borrow\nHere today, gone tomorrow\nBaby, give me all of your love\nOr I don't really wanna know\n\nHere today, gone tomorrow\nOne day love, next day sorrow\nFirѕt you give, then you borrow\nHere todаy, gone tomorrow"
+    }
+  ],
+  "bpm": 134,
+  "tone": "C minor",
+  "artistPeople": [
+    "Barbara Ellis",
+    "Dan Duskey",
+    "Nina Duskey",
+    "Sandy Kelly"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Noel Kelehan",
+  "lyricists": null,
+  "writers": [
+    "Sally Keating"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Larry Gogan"
+  ],
+  "jury": null,
+  "spokesperson": "John Skehan"
+}

@@ -1,0 +1,60 @@
+{
+  "id": 12,
+  "country": "HR",
+  "artist": "Severina",
+  "song": "Moja štikla",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/hGp3YfEj_GY",
+    "https://www.youtube-nocookie.com/embed/PI0VYardVw0",
+    "https://www.youtube-nocookie.com/embed/kxRDjBg-L8s"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "croatian"
+      ],
+      "displayedLanguages": null,
+      "title": "Moja štikla",
+      "content": "Jer još trava nije nikla\nTamo gdje je stala moja štikla\n\n(Dođi, dođi, dođi)\nOp, op, op, op\n(Ajde, pile moje)\n\nTika taka, oko pola tri\nŠtipnut ćeš me da se ne vidi\nZnam ja dobro takve kao ti\nĐavoli su tvoji kumovi\n\nZvrc, zvrc, tražit ćeš moj broj\nKuc, kuc, kucaj nekoj drugoj\n(Sojčice, divojčice, daj obuci čarapice)\n\nJer još trava nije nikla\nTamo gdje je stala moja štikla\n\nOjda da, ojda daj, ojda daj daj…\nOjda da, ojda daj, ojda daj daj…\nOjda da, ojda daj, ojda daj daj…\nOjda da, ojda daj… moja, moja štikla\n\n(Šije) šete, (šije) oto, (šije) nove\n(Šije) Moja\n(I opet, mala)\n\nS… s… s… seks\n(Op, op, mrkz, mrkz)\n\nTika taka, oko pola tri\nGricnut ćeš me da se ne vidi\nZlatan prsten, tanki brčići\nMa znam ja dobro takve kao ti\n\nZvrc, zvrc, tražit ćeš moj broj\nŠic, šic, bježi ajde drugoj\n(Sojčice, divojčice, daj obuci čarapice)\n\nJer još trava nije nikla\nTamo gdje je stala moja štikla\n\nOjda da, ojda daj, ojda daj daj…\nOjda da, ojda daj, ojda daj daj…\nOjda da, ojda daj, ojda daj daj…\nOjda da, ojda daj… moja, moja štikla\n\n(Zumba, zumba, zumba, zumba)\n(Sijeno, slama, sir, salama)\n(Risi bisi, teča veća)\n(Cikla bikla, cikla bikla)\nAfrika, paprika\n\n(Ajde, moja)\nŠije, šije, šije, šete, šije, oto, šije, nove\nŠije, šije, šije, šije, moja, moja\nAjde, ajde\n\nJer još trava nije nikla\nTamo gdje je ѕtala moja štikla\n\nOjda da, ojda daj, ojda daj daj…\nOjda da, ojda daj, ojda daj daj…\nOjda da, ojda daj, ojda daj daj…\nOjda da, ojda daj… moja, moja štiklа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "My high heel",
+      "content": "For the grass has not yet sprouted\nWhere my high heel has stepped\n\n(Come here, come here, come here)\nHop, hop, hop, hop\n(Go, my chick)\n\nTick-tock, around half past two\nYou'll pinch me, so that nobody can see it\nI know them well, guys like you\nThe devils are your godfathers\n\nRing, ring, you'll search for my number\nKnock, knock, go knocking somewhere else\n(Darling, girl, come and tighten your socks)\n\nFor the grass has not yet sprouted\nWhere my high heel has stepped\n\nOyda da, oyda dai, oyda dai dai…\nOyda da, oyda dai, oyda dai dai…\nOyda da, oyda dai, oyda dai dai…\nOyda da, oyda dai… my, my high heel\n\n(Six) seven, (six) eight, (six) nine\n(Six) Mine\n(Once again, girl)\n\nS… s… s… sex\n(Hop, hop, shake, shake)\n\nTick-tock, around half past two\nYou'll nibble me, so that nobody can see it\nA golden ring, a thin moustache\nOh boy, I know them well, guys like you\n\nRing, ring, you'll search for my number\nShoo, shoo, go off to someone else\n(Darling, girl, come and tighten your socks)\n\nFor the grass has not yet sprouted\nWhere my high heel has stepped\n\nOyda da, oyda dai, oyda dai dai…\nOyda da, oyda dai, oyda dai dai…\nOyda da, oyda dai, oyda dai dai…\nOyda da, oyda dai… my, my high heel\n\n(Zoomba, zoomba, zoomba, zoomba)\n(Hay, straw, cheese, salami)\n(Risi bisi, a bigger pot)\n(Red beet, red beet)\nAfrica, paprika\n\n(Go, mine)\nSix, six, six, seven, six, eight, six, nine\nSix, six, six, six, mine, mine\nGo, go\n\nFor the grass has not yet sprouted\nWhere my high heel has ѕtepped\n\nOyda da, oyda dai, oyda day dai…\nOyda da, oyda dai, oyda day dai…\nOyda da, oyda dai, oyda day dai…\nOyda da, oyda dаi… my, my high heel"
+    }
+  ],
+  "bpm": 106,
+  "tone": "E minor",
+  "artistPeople": [
+    "Severina Vučković"
+  ],
+  "backings": [
+    "Bojan Kavedžija",
+    "Josip Milaković",
+    "Krunoslav Šokac",
+    "Matija Čabrajec",
+    "Stjepan Večković"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Boris Novković",
+    "Franjo Valentić"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Severina"
+  ],
+  "writers": null,
+  "broadcaster": "HRT",
+  "commentators": [
+    "Duško Ćurlić"
+  ],
+  "jury": null,
+  "spokesperson": "Mila Horvat"
+}

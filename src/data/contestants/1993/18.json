@@ -1,0 +1,69 @@
+{
+  "id": 18,
+  "country": "CY",
+  "artist": "Kyriakos Zymboulakis & Demos Van Beke",
+  "song": "Mi stamatas",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/UfzBpo0exAQ",
+    "https://www.youtube-nocookie.com/embed/zU9WsT0FdW0",
+    "https://www.youtube-nocookie.com/embed/7WyrboG2AC0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ellinika"
+      ],
+      "title": "Mi stamatas",
+      "content": "Sti zoi mas oli erhomaste yimni\nIdhio telos mas orizi ke arhi\nMa ine kapii apo mas, i zitiani tis haras\n\nMi stamatas, stus anthropus na dhinis voithia\nMi prospernas, mi fovase na dhis ta sindrimia\nKi an ti zoi ti pligoni sihna i alithia\nMi stamatas, mi stamatas\n\nOsa ehis tosa eho, adhelfe\nMa ine ki ali pu dhen yelasan pote\nIn' to vlema tus tholo, ke sikonune stavro\n\nMi stamatas, stus anthropus na dhinis voithia\nMi prospernas, mi fovase na dhis ta sindrimia\nKi an ti zoi ti pligoni sihna i alithia\nMi stamatas, mi stamatas\n\nKi an ti zoi ti pligoni sihna i alithia\nMi stamatas, mi stamatas\nKi an ti zoi ti pligoni sihna i alithia\nMi stamatas, mi stamatas\n\nMi stamatas, mi stamatas, mi stamatаѕ"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ελληνικά"
+      ],
+      "title": "Μη σταματάς",
+      "content": "Στη ζωή μας όλοι ερχόμαστε γυμνοί\nΊδιο τέλος μας ορίζει και αρχή\nΜα είναι κάποιοι από μας, οι ζητιάνοι της χαράς\n\nΜη σταματάς, στους ανθρώπους να δίνεις βοήθεια\nΜην προσπερνάς, μη φοβάσαι να δεις τα συντρίμμια\nΚι αν τη ζωή την πληγώνει συχνά η αλήθεια\nΜη σταματάς, μη σταματάς\n\nΌσα έχεις τόσα έχω, αδερφέ\nΜα είναι κι άλλοι που δεν γέλασαν ποτέ\nΕιν' το βλέμμα τους θολό, και σηκώνουνε σταυρό\n\nΜη σταματάς, στους ανθρώπους να δίνεις βοήθεια\nΜην προσπερνάς, μη φοβάσαι να δεις τα συντρίμμια\nΚι αν τη ζωή την πληγώνει συχνά η αλήθεια\nΜη σταματάς, μη σταματάς\n\nΚι αν τη ζωή την πληγώνει συχνά η αλήθεια\nΜη σταματάς, μη σταματάς\nΚι αν τη ζωή την πληγώνει συχνά η αλήθεια\nΜη σταματάς, μη σταματάς\n\nΜη σταματάς, μη σταματάς, μη σταματάς"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Don't stop",
+      "content": "Into our lives we enter naked\nThe same end and beginning define us\nBut there are some of us, the beggars of happiness\n\nDon't stop helping people\nDon't overtake, don't fear seeing the wrecks\nAnd if life is occasionally hurt by the truth\nDon't stop, don't stop\n\nWhatever you own I own as well, brother\nBut there are others who never laughed\nTheir sight is unclear, and they carry a cross\n\nDon't stop helping people\nDon't overtake, don't fear seeing the wrecks\nAnd if life is occasionally hurt by the truth\nDon't stop, don't stop\n\nAnd if life is occasionally hurt by the truth\nDon't stop, don't stop\nAnd if life is occasionаlly hurt by the truth\nDon't stop, don't stop\n\nDon't stop, don't stop, don't ѕtop"
+    }
+  ],
+  "bpm": 77,
+  "tone": "G minor",
+  "artistPeople": [
+    "Demos van Beke",
+    "Kyriakos Zymboulakis"
+  ],
+  "backings": [
+    "Joanna Barrington"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Aristos Moskovakis"
+  ],
+  "conductor": "Giorgos Theophanous",
+  "lyricists": [
+    "Rodoula Papalambrianou"
+  ],
+  "writers": null,
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Evi Papamichail"
+  ],
+  "jury": null,
+  "spokesperson": "Anna Partelidou"
+}

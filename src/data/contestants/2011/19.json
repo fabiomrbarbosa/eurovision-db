@@ -1,0 +1,58 @@
+{
+  "id": 19,
+  "country": "IS",
+  "artist": "Sjonni's Friends",
+  "song": "Coming Home",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/apc_qJf3nws",
+    "https://www.youtube-nocookie.com/embed/YtFB2PIE84g",
+    "https://www.youtube-nocookie.com/embed/SAjEtQzEzGY"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Coming Home",
+      "content": "Some say I'm a bit of a fool\nSitting on a hill and counting raindrops\nKeep thinking I just wanna go\nTo the peaceful place I know that I call home\n\nBut oh oh oh it's time to go\nI'll see you, I'll see you soon\n\n'Cause I can't wait for tomorrow\nTo say the things I wanna say\nYour smile will always lead my way\nI can't wait, I'm coming soon\nI just wanna see your face again\n\nSome say I'm a bit of a fool\nDriving down the road I stop to listen\nI hear your laughter in the trees\nYour whisper in the breeze: \"My love is you\"\n\nBut oh oh oh it's time to go\nI'll see you, I'll see you soon\n\n'Cause I can't wait for tomorrow\nTo say the things I wanna say\nYour smile will always lead my way\nI can't wait, I'm coming soon\nI just wanna see your face again\n\n'Cause no one knows his where or when\nWhen my time on earth comes to an end\nThen I'll find you\nAnd I know that you will be my love again\n\nI can't wait for tomorrow\nTo say the things I wanna say\nYour smile will always lead my way\nI can't wait, I'm coming soon\nI just wanna see your face again\n\n'Cause I can't wait for tomorrow\nTo say the things I wanna say\nYour smile will always lead my way\nI can't wait, I'm coming home to you\nI just wanna ѕee your face agаin\nI'm coming home"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "icelandic"
+      ],
+      "displayedLanguages": null,
+      "title": "Aftur Heim",
+      "content": "Sagt er að ég sé algjört flón\nÉg hugsa með mér hvað það var sem gerðist\nEn ekkert grænna grasið er\nAnnarsstaðar en hjá þér Það veit ég vel\n\nEn ó, ó, ó, þá finn ég ró\nNú kem ég, nú kem ég heim\n\nÞví að lífið mín bíður\nKomdu með í ferðalag\nSaman sjá munum bjartan dag\nÞví tíminn hann líður hratt\nÉg vil bara komast aftur heim\n\nSagt er að ég sé dáldið flón\nFlýti mér til þín og þrái að heyra\nHlátrarsköllin þín á ný\nEr ég aftur til þín sný Þú ert mér allt\n\nEn ó, ó, ó, þá finn ég ró\nNú kem ég, nú kem ég heim\n\nÞví að lífið mín bíður\nKomdu með í ferðalag\nSaman sjá munum bjartan dag\nÞví tíminn hann líður hratt\nÉg vil bara komast aftur heim\n\nJá enginn veit hvað koma skal\nEn tíminn stendur ekki í stað\nOg við getum enduruppgötvað\nÞá gömlu þrá\n\nLífið mín bíður\nKomdu með í ferðalag\nSaman sjá munum bjartan dag\nÞví tíminn hann líður hratt\nÉg vil bara komast aftur heim\n\nÞví að lífið mín bíður\nKomdu með í ferðalag\nSaman sjá munum bjartan dag\nÞví tíminn, já tíminn líður hratt\nÉg vil bara komaѕt aftur heim\nJá аftur heim"
+    }
+  ],
+  "bpm": 92,
+  "tone": "D major",
+  "artistPeople": [
+    "Benediktus",
+    "Gunnar Ólafsson",
+    "Hreimur Örn Heimisson",
+    "Matthías Matthíasson",
+    "Pálmi Sigurhjartarson",
+    "Vignir Snær Vigfússon"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Sigurjón Brink"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Þórunn Erna Clausen"
+  ],
+  "writers": null,
+  "broadcaster": "RÚV",
+  "commentators": [
+    "Hrafnhildur Halldórsdóttir"
+  ],
+  "jury": null,
+  "spokesperson": "Ragnhildur Steinunn Jónsdóttir"
+}

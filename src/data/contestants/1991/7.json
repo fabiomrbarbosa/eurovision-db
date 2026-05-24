@@ -1,0 +1,61 @@
+{
+  "id": 7,
+  "country": "PT",
+  "artist": "Dulce",
+  "song": "Lusitana Paixão",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/GKxMDD0B8jY",
+    "https://www.youtube-nocookie.com/embed/LBekeaBZrzE",
+    "https://www.youtube-nocookie.com/embed/xwz5csdIy-E",
+    "https://www.youtube-nocookie.com/embed/XPqffXlK3kI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Lusitana paixão",
+      "content": "Fado, chorar a tristeza bem\nFado, adormecer com a dor\nMmm… fado, só quando a saudade vem\nArrancar do meu passado um grande amor\n\nMas não condeno essa paixão\nEssa mágoa nas palavras\nQue a guitarra vai gemendo também\nEu não, eu não pedirei perdão\nQuando gozar o pecado\nE voltar a dar de mim\n\nPorque eu quero ser feliz\nE a desdita não se diz\nNão quero o que o fado quer dizer\n\nFado, soluçar recordações\nFado, reviver uma tal dor\nFado, só quando a saudade vem\nArrancar do meu passado um grande amor\n\nMas não condeno essa paixão\nEssa mágoa nas palavras\nQue a guitarra vai gemendo também\nEu não, eu não pedirei perdão\nQuando gozar o pecado\nE voltar a dar de mim\n\nEu sei desse lado que há em nós\nCheio de alma Lusitana\nComo a lenda da Severa\n\nPorque eu quero ser feliz\nE a desdita não ѕe diz\nO fado não me faz аrrepender"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Lusitanian passion",
+      "content": "Fado, crying the sadness a lot\nFado, falling asleep with the pain\nMmm… fado, just when the longing comes\nPulling a great love back from my past\n\nBut I don't condemn that passion\nThat sorrow in the words\nThe guitar is also crying\nI won't, I won't ask for forgiveness\nWhen I enjoy sinning\nAnd become myself once again\n\nBecause I want to be happy\nAnd the misfortune is silent\nI don't want what fado is all about\n\nFado, sobbing memories\nFado, reviving the pain\nFado, only when the longing comes\nPulling a great love back from my past\n\nBut I don't condemn that passion\nThat sorrow in the words\nThe guitar is also crying\nI won't, I won't ask for forgiveness\nWhen I enjoy sinning\nAnd become myself once again\n\nI know that side we have\nFilled with Lusitanian soul\nAs in the legend of Severa\n\nBecause I want to be happy\nAnd misfortune is silent\nFado doeѕn't mаke me regret"
+    }
+  ],
+  "bpm": 134,
+  "tone": "F# minor",
+  "artistPeople": [
+    "Dulce José Silva Pontes"
+  ],
+  "backings": [
+    "Guilherme Inês"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jorge Quintela",
+    "José da Ponte"
+  ],
+  "conductor": "Fernando Correia Martins",
+  "lyricists": [
+    "Fred Micaelo",
+    "José da Ponte"
+  ],
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Ana do Carmo"
+  ],
+  "jury": [
+    "Carlos Alberto Moniz",
+    "Thilo Krasmann"
+  ],
+  "spokesperson": "Maria Margarida Gaspar"
+}

@@ -1,0 +1,58 @@
+{
+  "id": 7,
+  "country": "DK",
+  "artist": "Lonnie Devantier",
+  "song": "Hallo, hallo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Lsp0S79f1ko",
+    "https://www.youtube-nocookie.com/embed/bprtMC2ndZs",
+    "https://www.youtube-nocookie.com/embed/xOTOGgd1-S0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "danish"
+      ],
+      "displayedLanguages": null,
+      "title": "Hallo, hallo",
+      "content": "Kigger på mit ur, nu' du ganske sikkert hjemme\nSå jeg drøner ned ad trappen for at ringe til dig\nMen ned' i boksen står der én med mønter fremme\nHan ta'r flere op af lommen, mens han skuler til mig\n\nSå er der fri, jeg ringer op og den er klar\nMen det er kun din automat, der gi'r mig svar\n\nJeg si'r: Hallo, hallo\nJeg ved godt, du er hjemme\nKa' du ikke ta' og ta' din telefon?\nHallo, hallo\nJeg lytter til din stemme\nMen når båndet slutter, er der aldrig no'en\n\nRådhusuret slår, og her står jeg nu og fryser\nJeg er træt af smarte fyre, der skal imponere\nJeg' godt forkølet, pudser næse, går og nyser\nOg ka' næsten ikke styre temperamentet mere\n\nJeg griber røret, men bli'r stadig holdt for nar\nFor det' din dumme automat, der gi'r mig svar\n\nJeg si'r: Hallo, hallo\nJeg ved godt, du er hjemme\nKa' du ikke ta' og ta' din telefon?\nHallo, hallo\nJeg lytter til din stemme\nMen når båndet slutter, er der aldrig no'en\n\nJeg fodrer boksen med den sidste mønt jeg har\nDet er og bli'r din automat, der gi'r mig svar\n\nJeg si'r: Hallo, hallo\nJeg ved godt, du er hjemme\nKa' du ikke ta' og ta' din telefon?\nHallo, hallo\nJeg lytter til din stemme\nMen når båndet slutter, er der aldrig no'en\n\nJeg si'r: Hallo, hallo\nJeg vidste du var hjemme\nDet var rart, at du ku' ta' din telefon\nHallo, hallo\nJeg lytter til din stemme\nSelv om båndet slutter, er der ѕtadig no'en\nDet var rart, at du ku' tа' din telefon"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Hello, hello",
+      "content": "I look at my watch, I'm sure you're home by now\nSo I run down the stairs to call you\nBut in the phone box a guy is standing with coins in his hand\nHe takes more out of his pocket, as he scowls at me\n\nThen it's free, I dial the number and get the connection\nBut it's only your answering machine that answers\n\nI say: Hello, hello\nI know you're home\nCouldn't you answer your phone?\nHello, hello\nI listen to your voice\nBut when the tape runs out, nobody's ever there\n\nThe bells of the town hall are ringing and here I stand freezing\nI'm tired of smart guys, who just want to impress\nI've got a cold, I blow my nose, walk around sneezing\nAnd can hardly control my temper anymore\n\nI take the receiver, but I'm still being made a fool of\nFor it's your stupid machine that answers\n\nI say: Hello, hello\nI know you're home\nCouldn't you answer your phone?\nHello, hello\nI listen to your voice\nBut when the tape runs out, nobody's ever there\n\nI feed the phone with the last coin I've got\nYour machine remains the only to answer\n\nI say: Hello, hello\nI know you're home\nCouldn't you answer your phone?\nHello, hello\nI listen to your voice\nBut when the tape runs out, nobody's ever there\n\nI say: Hello, hello\nI knew you were home\nIt was nice that you could answer your phone\nHello, hello\nI listen to your voice\nEven if the tape runs out, there's still someone there\nIt was nice that you could аnѕwer your phone"
+    }
+  ],
+  "bpm": 100,
+  "tone": "D major",
+  "artistPeople": [
+    "Lonnie Høgh Devantier Askou Kjer"
+  ],
+  "backings": [
+    "Jacob Launbjerg",
+    "Niclas Bendixen",
+    "Peter Busborg"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "John Hatting",
+    "Torben Lendager"
+  ],
+  "conductor": "Henrik Krogsgaard",
+  "lyricists": [
+    "Keld Heick"
+  ],
+  "writers": null,
+  "broadcaster": "DR",
+  "commentators": [
+    "Jørgen de Mylius"
+  ],
+  "jury": null,
+  "spokesperson": "Bent Henius"
+}

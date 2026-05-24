@@ -1,0 +1,75 @@
+{
+  "id": 14,
+  "country": "FR",
+  "artist": "Amaury Vassili",
+  "song": "Sognu",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/OTiBNPT-x_Y",
+    "https://www.youtube-nocookie.com/embed/uEb7hRo-Qyk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "corsican"
+      ],
+      "displayedLanguages": null,
+      "title": "Sogno",
+      "content": "Sognu di ste labbre\nDi sta voce chjara è pura\nMai spentu il ricordo di tè\nQuella notte quì con me\n\nSognu, mi lamentu\nU mio core, n'hà primura\nDi a vita, aspettu dumane\nInvinuchjatu ver di u mare\n\nSpart'u mondu cun tè\nMa tu, ti ne voli andà\nCantu per a vittoria\nLuntanu da tè, pensu sempre chè\nSei vicino a mè, sognu di tè\n\nCanteraghju, canteraghju à tè\nA canzona, l'ohimè\n\nPiengu è stò male\nPreg'u celu fin'à more\nQuì da i monti, quì di front'à tè\nEscerаghju d'issu ѕo…\n\nSe tu mori, eu dinò"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Rêve",
+      "content": "Rêve de ces lèvres\nD'une voix douce et pure\nSouvenir à jamais étreint \nDe cette nuit, tout près de toi!\n\nJe rêve, mais je me plains\nLe cœur indifférent\nA cette vie qui m'attend demain\nJe suis agenouillé devant l'océan\n\nJ'étais prêt à partager le monde avec toi\nMais tu n'es plus là\nJe rêve de gagner\nMême éloignée, ton âme est près de moi \nAu creux de mes songes\n\nJe chanterai, Oui je te chanterai\nLe chant de l'o i mè\n\nJe suis si mal que j'en pleure\nJe prierais le ciel jusqu'à en mourir \nPeut etre qu'en haut d'un sommet, je serai face à toi\nEt qu'enfin ce mauvais rêve finirа\n\nAmour, si tu meuѕ emmène moi"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I Dream",
+      "content": "I dream of these lips\nOf this clear and pure voice\nThe memory of you will never fade\nThat night here with me\n\nI dream, I wail\nMy heart is concerned\nAbout the life that awaits me tomorrow\nI'm kneeled before the sea\n\nI share the world with you\nBut you, you want to go away\nI sing for victory\nFar from you, I always think that\nYou are close to me, I dream of you\n\nI will sing, Yes I will sing to you\nThe song, the sorrow\n\nI cry and I feel bad\nI pray to heaven until I die\nHere on the mountains, here in front of you\nI will escape from this dream\n\nIf you die, I аlѕo die"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Sogno",
+      "content": "Sogno queste labbra\nDi questa voce chiara e pura\nNon dimenticare mai il ricordo di te\nQuella notte qui con me\n\nSogno, mi lamento\nIl mio cuore, è importante\nDella vita, attendo con ansia il domani\nScartato in riva al mare\n\nCondivido il mondo con te\nMa tu, tu vuoi andare\nCanto per la vittoria\nLontano da te, lo penso sempre\nMi sei vicino, ti sogno\n\nCanterò, canterò per te\nLa canzone, ahimè\n\nPiango e sto male\nPrego il cielo fino alla morte\nQui dalle montagne, qui davanti a te\nNe uscirò da questa ѕituazione…\n\nSe muori tu, muoio аnch'io"
+    }
+  ],
+  "bpm": 129,
+  "tone": "E major",
+  "artistPeople": [
+    "Amaury Vassili"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Daniel Moyne",
+    "Quentin Bachelet"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Jean-Pierre Marcellesi",
+    "Julie Miller"
+  ],
+  "writers": null,
+  "broadcaster": "France 3",
+  "commentators": [
+    "Audrey Chauveau",
+    "Bruno Berberes",
+    "Catherine Lara",
+    "Laurent Boyer"
+  ],
+  "jury": null,
+  "spokesperson": "Cyril Féraud"
+}

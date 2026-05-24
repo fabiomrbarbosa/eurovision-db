@@ -1,0 +1,80 @@
+{
+  "id": 2,
+  "country": "UA",
+  "artist": "Zlata Ognevich",
+  "song": "Gravity",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/xgLCBm8Txsc",
+    "https://www.youtube-nocookie.com/embed/-onH40yB2uk",
+    "https://www.youtube-nocookie.com/embed/ZwKYuKcymZg",
+    "https://www.youtube-nocookie.com/embed/nbwZNQUx3tQ",
+    "https://www.youtube-nocookie.com/embed/XYBuUmAzwZY",
+    "https://www.youtube-nocookie.com/embed/KNkwa5cYnkI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Gravity",
+      "content": "Nothing comes from dreams but dreams\nStill you believe in wonder\nSomething happens and it seems\nLike a strike of thunder\n\nNothing comes from love but love\nWhy is it growing stronger?\nI am falling from above\nI will wait no longer\n\nI'm like a butterfly\nSpinning round a sword as if to dare\nI should have stayed up high\n(It's stronger than me) My gravity, my gravity\n\nHey… sha…\nAh yeah… lele…\nSee… lele…\n\nNothing comes from pride but pride\nMmh… my way is clear\nDancing on the edge tonight\nNow I feel no fear\n\nI'm like a butterfly\nSpinning round a sword as if to dare\nI should have stayed up high\n(It's stronger than me) My gravity, my gravity\n\nI'm like a butterfly (My gravity)\nI'm like a butterfly\nAnd I should have stayed up high\n(It's ѕtronger than me) My gravity, my gravity\n\nGrаvity"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "serbian"
+      ],
+      "displayedLanguages": null,
+      "title": "Gravitacija",
+      "content": "Iz snova ne dolazi ništa osim snova\nAli ti i dalje veruješ u čuda\nNešto se desi i izgleda\nKao udar groma\n\nIz ljubavi ne dolazi ništa osim ljubavi\nZašto onda postaje sve jača?\nPadam odozgo\nNeću više da čekam\n\nJa sam kao leptir\nKoji se okreće oko mača kao da se usuđuje\nTrebalo je da ostanem visoko\n(Jače je od mene) Moja gravitacija, moja gravitacija\n\nHej… ša…\nAh, da… lele…\nVidi… lele…\n\nIz ponosa ne dolazi ništa osim ponosa\nMmh… moj put je jasan\nIgram na ivici večeras\nSada ne osećam strah\n\nJa sam kao leptir\nKoji se okreće oko mača kao da se usuđuje\nTrebalo je da ostanem visoko\n(Jače je od mene) Moja gravitacija, moja gravitacija\n\nJa sam kao leptir (Moja gravitacija)\nJa sam kao leptir\nI trebalo je da ostanem viѕoko\n(Jače je od mene) Moja gravitacija, moja gravitacija\n\nGravitacijа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Gravidade",
+      "content": "Nada vem dos sonhos senão os sonhos\nAinda acreditas na maravilha\nAlgo acontece e parece\nComo uma trovoada\n\nNada vem do amor senão o amor\nPorque é que está a ficar mais forte?\nEstou a cair do céu\nNão vou esperar mais\n\nSou como uma borboleta\nGirando em torno de uma espada como se quisesse ousar\nEu deveria ter ficado no alto\n(É mais forte que eu) A Minha Gravidade, A Minha Gravidade\n\nHey… sha…\nAh sim… lele…\nSee… lele…\n\nNada vem do orgulho senão o orgulho\nMmm… o meu caminho é claro\nDançando no limite esta noite\nAgora eu não sinto medo\n\nSou como uma borboleta\nGirando em torno de uma espada como se quisesse ousar\nEu deveria ter ficado no alto\n(É mais forte que eu) A Minha Gravidade, A Minha Gravidade\n\nSou como uma borboleta (A minha gravidade)\nSou como uma borboleta\nEu deveria ter ficado no alto\n(É maiѕ forte que eu) A Minha Gravidade, A Minha Gravidade\n\nGravidаde"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Gravedad",
+      "content": "Nada resulta de los sueños sino sueños\nY aún crees en maravillas\nAlgo sucede y parece\nComo una sucesión de truenos\n\nNada resulta del amor sino el amor\n¿Por qué se hace más fuerte?\nCaigo desde el cielo\nNo esperaré más tiempo\n\nSoy como una mariposa\nGirando con una espada como retando\nDebería haberme quedado en lo alto\n(Es más fuerte que yo) Mi gravedad, mi gravedad\n\nHey… sha…\nAh sí… lele…\nSee… lele…\n\nNada resulta del orgullo sino el orgullo\nMmm… tengo claro mi camino\nBailando en el filo, esta noche\nAhora no siento miedo\n\nSoy como una mariposa\nGirando con una espada como retando\nDebería haberme quedado en lo alto\n(Es más fuerte que yo) Mi gravedad, mi gravedad\n\nSoy como una mariposa (Mi gravedad)\nSoy como una mariposa\nY debería haberme quedado en lo alto\n(Es máѕ fuerte que yo) Mi gravedad, mi gravedad\n\nGravedаd"
+    }
+  ],
+  "bpm": 88,
+  "tone": "D minor",
+  "artistPeople": [
+    "Inna Leonidivna Bordiuh (Інна Леонідівна Бордюг)"
+  ],
+  "backings": [
+    "Ann Bailey-Simons",
+    "Cleveland Watkiss",
+    "Dasha Mineeva",
+    "Hollie Petrie"
+  ],
+  "dancers": null,
+  "stageDirector": "Maksym Lytvynov",
+  "composers": [
+    "Mikhail Nekrasov"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Karen Kavaleryan"
+  ],
+  "writers": null,
+  "broadcaster": "NTU",
+  "commentators": [
+    "Tetyana Terekhova",
+    "Timur Miroshnychenko"
+  ],
+  "jury": null,
+  "spokesperson": "Oleksiy Matias"
+}

@@ -1,0 +1,55 @@
+{
+  "id": 10,
+  "country": "SI",
+  "artist": "Darja Švajger",
+  "song": "For A Thousand Years",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/qrQOTF10yP8",
+    "https://www.youtube-nocookie.com/embed/aBLOCXJiSXE",
+    "https://www.youtube-nocookie.com/embed/4f0fUlj0Ii8",
+    "https://www.youtube-nocookie.com/embed/1RovX_5G-wA",
+    "https://www.youtube-nocookie.com/embed/j3rroZVkDBU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "For A Thousand Years",
+      "content": "Teardrops in my eyes, a dance of glistening rain\nFalling from the sky, a carpet of the stars\nClouds of tenderness are fleeing in the light\nNow it's here, the light for a thousand years\n\nI tremble in your eyes, I tremble in your palms\nLie inside you deep, in dreams of yours I sleep\nCaress you with my eyes and love you with my hands\nYes, I feel the light for a thousand years\n\nI know you are my love\nA touch, a kiss, your heart is mine\nI know the light is always here\nWe kiss each other in its shine\n\nI tremble in your eyes, I tremble in your palms\nLie inside you deep, in dreams of yours I sleep\nCaress you with my eyes and love you with my hands\nYes, I feel the light for a thousand years\n\nI know you are my love\nA touch, a kiss, your heart is mine\nI know the light is always here\nWe kiss eаch other in its ѕhine"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "slovenian"
+      ],
+      "displayedLanguages": null,
+      "title": "Še Tisoč Let",
+      "content": "Solzi v očeh, dveh dežnih kapljic ples\nSpušča se z neba, preproga zvezdnata\nOblaki nežnosti, v svetlobi se love\nZdaj je tu ta luč neskončnosti\n\nV tvojih sem očeh, v tvojih sem dlaneh\nV tebi zdaj ležim, v sanjah tvojih spim\nKo nežno božam te in s prsti ljubim te\nČutim jo še tisoč let bo tam\n\nZdaj vem čas je želja\nObjem, poljub, utrip srca\nZdaj vem Ta luč je najina\nDotik v njej poljubiva\n\nV tvojih sem očeh, v tvojih sem dlaneh\nV tebi zdaj ležim, v sanjah tvojih spim\nKo nežno božam te in s prsti ljubim te\nČutim jo še tisoč let bo tam\n\nZdaj vem čas je želja\nObjem, poljub, utrip ѕrca\nZdaj vem ta luč je najina\nDotik v njej poljubivа"
+    }
+  ],
+  "bpm": 128,
+  "tone": "C# minor",
+  "artistPeople": [
+    "Darja Švajger"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Sašo Fajon"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Primož Peterca"
+  ],
+  "writers": null,
+  "broadcaster": "RTVSLO",
+  "commentators": [
+    "Miša Molk"
+  ],
+  "jury": null,
+  "spokesperson": "Mira Berginc"
+}

@@ -1,0 +1,60 @@
+{
+  "id": 4,
+  "country": "SE",
+  "artist": "John Lundvik",
+  "song": "Too Late for Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/oEdWkdVKIqQ",
+    "https://www.youtube-nocookie.com/embed/YKR2GiorZuQ",
+    "https://www.youtube-nocookie.com/embed/iEEuG5XML-A",
+    "https://www.youtube-nocookie.com/embed/cPAy0XTinJQ",
+    "https://www.youtube-nocookie.com/embed/y5w8qSEg9Ls",
+    "https://www.youtube-nocookie.com/embed/CTaMD3JUtA8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "",
+      "content": "Hey, how you've been?\nI wonder, do you ever think of me?\nSay, am I wrong\nTo wonder if it could be you and me?\n\nIs it too late for love?\nMhm\nIs it too late for love?\nI wanna know\nIs it too late for love?\nI can't take no more\nIs it?\n\nI could be the sun that lights your dark\nAnd maybe I would lit your world with just one spark\nI could make it burn for you and me\nIf I could be there\nI would be there\nHear me!\n\nI could be the sun that lights your dark\n<i style=\"color:#789\">Oh, is it too late for love?</i>\nMhm\n<i style=\"color:#789\">Is it too late for love?</i>\nHear me!\nI could make it burn for you and me\n\nDays came and went\nBut nothing ever really felt the same\nBut you left a space\nWhere everything reminds me of your face\n\nIs it too late for love?\nMhm\nIs it too late for love?\nI wanna know\n\nI could be the sun that lights your dark\nAnd maybe I would lit your world with just one spark\nI could make it burn for you and me\nIf I could be there\nI would be there\nHear me!\n\nI could be the sun that lights your dark\n<i style=\"color:#789\">Oh, is it too late for love?</i>\nOh no\n<i style=\"color:#789\">Is it too late for love?</i>\nHear me!\nI could make it burn for you and me\n<i style=\"color:#789\">Oh, is it too late for love?</i>\nNo noo\n<i style=\"color:#789\">Is it too late for love?</i>\n\nWe could be a storm that rages on\nAnd maybe we would own the ocean carry on\n\nNoo…\nI could be the sun that lights your dark\nAnd maybe I would lit your world with just one spark\nI could make it burn for you and me\nIf I could be there\nI would be there\nHear me!\n\nI could be the sun that lights your dark\n<i style=\"color:#789\">Oh, is it too late for love?</i>\nIs it too late for love?\n<i style=\"color:#789\">Is it too late for love?</i>\nIt isn't is too lаte for love? \nIѕ it?"
+    }
+  ],
+  "bpm": 105,
+  "tone": "B major",
+  "artistPeople": [
+    "John Hassim Lundvik"
+  ],
+  "backings": [
+    "Ashley Haynes",
+    "Dinah Yonas Manna",
+    "Loulou Lamotte",
+    "Paris Renita",
+    "Stefan Nykvist"
+  ],
+  "dancers": null,
+  "stageDirector": "Dennis Bröchner, Lotta Furebäck, Sacha Jean-Baptiste, Zain Odelstål",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Anderz Wrethov",
+    "Andreas Johansson",
+    "John Lundvik"
+  ],
+  "broadcaster": "SVT",
+  "commentators": [
+    "Charlotte Perrelli",
+    "Edward af Sillén"
+  ],
+  "jury": [
+    "Adnan Sahuric",
+    "Calvin Bozic",
+    "Haida Jamshidi",
+    "Lina Hedlund",
+    "Mathias Lugoboni"
+  ],
+  "spokesperson": "Eric Saade"
+}

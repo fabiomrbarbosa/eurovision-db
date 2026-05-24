@@ -1,0 +1,54 @@
+{
+  "id": 4,
+  "country": "FR",
+  "artist": "Guy Bonnet",
+  "song": "Marie-Blanche",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/r3c9eeVsqCk",
+    "https://www.youtube-nocookie.com/embed/wRArUUXJhzk",
+    "https://www.youtube-nocookie.com/embed/8NxgDgeVEmQ",
+    "https://www.youtube-nocookie.com/embed/FG4Kq6mdrqU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Marie-Blanche",
+      "content": "C'est l'heure où des perles de givre se posent\nOù chaque feuille se prend pour une rose\nQuelque part un oiseau chante quelque chose\nEt Marie-Blanche est à moi\n\nNous sommes là dans une douce quiétude\nNous avons mis fin à notre solitude\nNos corps apprennent de tendres habitudes\nEt Marie-Blanche est à moi\n\nEt Marie-Blanche est à moi, et moi, je l'aime\nEt Marie-Blanche s'endort près de moi\n\nLa neige tombe et le vent lui fait escorte\nTous les étangs sont gelés, oui, mais qu'importe\nÀ l'hiver nous avons fermé notre porte\nEt Marie-Blanche est à moi\n\nEt Marie-Blanche est à moi, et moi, je l'aime\nEt Marie-Blanche s'endort près de moi\n\nOh, que le temps lui-même tourne ses pages\nNous resterons là un siècle ou davantage\nLa ville dort sous l'aile des blancs nuages\nEt Marie-Blanche est à moi\n\nJe ne veux rien savoir du reste du monde\nLa terre ne m'a jamais semblé aussi ronde\nContre mon cœur, il y a sa tête blonde\nEt Marie-Blаnche eѕt à moi"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Marie-Blanche",
+      "content": "It's the time that the frosty pearls settle\nThat every leaf thinks to be a rose\nSomewhere a bird sings something\nAnd Marie-Blanche is mine\n\nWe're there in a soft stillness\nWe've put an end to our loneliness\nOur bodies learn tender habits\nAnd Marie-Blanche is mine\n\nAnd Marie-Blanche is mine, and I love her\nAnd Marie-Blanche falls asleep near me\n\nThe snow falls and the wind escorts her\nEvery pond is frozen, yes, but what does it matter\nIn the winter we closed our door\nAnd Marie-Blanche is mine\n\nAnd Marie-Blanche is mine, and I love her\nAnd Marie-Blanche falls asleep near me\n\nOh, may the time turn its pages\nWe'll stay there for a century or longer\nThe city sleeps under the wing of white clouds\nAnd Marie-Blanche is mine\n\nI don't want to know a thing about the rest of the world\nThe earth never seemed so round to me\nAgainst my heart, there's her blonde hair\nAnd Marie-Blаnche iѕ mine"
+    }
+  ],
+  "bpm": 107,
+  "tone": "C# major",
+  "artistPeople": [
+    "Guy Bonnet"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Guy Bonnet"
+  ],
+  "conductor": "Franck Pourcel",
+  "lyricists": [
+    "André-Pierre Dousset"
+  ],
+  "writers": null,
+  "broadcaster": "ORTF",
+  "commentators": [
+    "Pierre Tchernia"
+  ],
+  "jury": null,
+  "spokesperson": "Jean-Claude Massoulier"
+}

@@ -1,0 +1,69 @@
+{
+  "id": 38,
+  "country": "ME",
+  "artist": "Vanja Radovanović",
+  "song": "Inje",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/XEi080yOuB8",
+    "https://www.youtube-nocookie.com/embed/qxJoxbo9lCQ",
+    "https://www.youtube-nocookie.com/embed/Lh9TXUf1CLo",
+    "https://www.youtube-nocookie.com/embed/A35uAK8K2xQ",
+    "https://www.youtube-nocookie.com/embed/LBCZa_y6-5o",
+    "https://www.youtube-nocookie.com/embed/0HY5VldrFUU",
+    "https://www.youtube-nocookie.com/embed/7AjohOiBMmc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "montenegrin"
+      ],
+      "displayedLanguages": null,
+      "title": "Inje",
+      "content": "Palo inje po nama\nLedi krv u žilama\nPa ti srce steglo baš\nTe brzo zaboravljaš\n\nDrhti ljubav kao prut\nU sred ljeta zamrznut,\nDrhtim i ja, drhtim vas\nOd kada mi nema nas\n\nDžaba jorgan tijelo grije\nPromaja kroz dušu bije\n\nBogu dane otimam\nGubim i kad dobijam,\nAl' kad niko ne vidi\nPustim srcu da mu svratiš ti\n\nŽivim tek po navici\nKao rob u samici,\nAl' kad niko ne čuje\nPustim srce da se raduje\n\nJa i život, pas i mačka\nSrce najskuplja mu igračka\n\nBogu dane otimam\nGubim i kad dobijam,\nAl' kad niko ne vidi\nPustim srcu da mu svratiš ti\n\nŽivim tek po navici\nKao rob u samici,\nAl' kad niko ne čuje\nPustim srce da ѕe raduje\n\nPаlo inje"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Frost",
+      "content": "Frost has formed between us\nBlood in our veins freezes thus\nYour heart is a dying ember\nSo you no longer remember\n\nLove quivers like a tender leaf\nFrozen in summer,defying belief,\nI tremble too, all the way through\nSince we were parted, me and you\n\nIn vain the quilt warms my bodywhole\nA colddraught blows right through my soul\n\nThe days drag by as in a dream\nEven when I win, I lose, it seems\nBut when no one is there to see\nMy heart will bid you visit me\n\nI live my life by wornroutine\nLike a slavealone, unseen\nBut when no oneis there to hear\nMy heart rejoices with a cheer\n\nMe and life - like dog and cat\nThe heart the most treasured pet\n\nThe days drag by as in a dream\nEven when I win, I lose, it seems\nBut when no one is there to see\nMy heart will bid you visit me\n\nI live my life by worn routine\nLike a slave alone, unseen\nBut when no one is there to hear\nMy heart rejoices with a cheer\n\nFrost hаѕ formed"
+    }
+  ],
+  "bpm": 79,
+  "tone": "F# minor",
+  "artistPeople": [
+    "Vladimir Radovanović"
+  ],
+  "backings": [
+    "Ana Mašulović",
+    "Bole Martinović",
+    "Ivana Vladović",
+    "Jelena Đurić-Mitić",
+    "Lena Kuzmanović"
+  ],
+  "dancers": null,
+  "stageDirector": "Gojko Berkuljan",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Vanja Radovanović"
+  ],
+  "broadcaster": "RTCG",
+  "commentators": [
+    "Ajda Šufta",
+    "Dražen Bauković",
+    "Tijana Mišković"
+  ],
+  "jury": [
+    "Kaća Šćekić",
+    "Nina Žižić",
+    "Predrag Nedeljković",
+    "Senad Drešević",
+    "Zoja Đurović"
+  ],
+  "spokesperson": "Nataša Šotra"
+}

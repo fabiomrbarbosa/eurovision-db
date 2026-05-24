@@ -1,0 +1,53 @@
+{
+  "id": 15,
+  "country": "IS",
+  "artist": "Icy",
+  "song": "Gleðibankinn",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/yliSZDpIx0g",
+    "https://www.youtube-nocookie.com/embed/ohB73YxWWXQ",
+    "https://www.youtube-nocookie.com/embed/Y7lTT4X4QkY"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "icelandic"
+      ],
+      "displayedLanguages": null,
+      "title": "Gleðibankinn",
+      "content": "Tíminn líður hratt á gervihnatta öld\nHraðar sérhvern dag, hraðar sérhvert kvöld\nErtu stundum hugsandi yfir öllum gulu miðunum\nÞú tekur kannski of mikið út úr Gleðibankanum\n\nHertu upp huga þinn, hnýttu allt í hnút\nLeggur ekkert inn, tekur bara út\nSyndir þínar sem þú aldrei drýgðir sitja í þankanum\nÓútleystur tékki í Gleðibankanum\n\nÞú skalt syngja lítið lag\nUm lífsgleðina sjálfa í brjósti þér\nOg láttu heyra að þú eigir lítið gleðihús\nKósi lítið lag, sem gæti gripið mig og hvern sem er\nÞú leggur ekki inn í Gleðibankann tóman blús\n\nÞú skalt syngja lítið lag\nUm lífsgleðina sjálfa í brjósti þér\nOg láttu heyra að þú eigir lítið gleðihús\nKósi lítið lag, sem gæti gripið mig og hvern sem er\nÞú leggur ekki inn í Gleðibankann tóman blús\n\nHertu upp huga þinn, hnýttu allt í hnút\nLeggur ekkert inn, tekur bara út\nSyndir þínar sem þú aldrei drýgðir sitja í þankanum\nÓútleystur tékki í Gleðibankanum\n\nÞú skalt syngja lítið lag\nUm lífsgleðina sjálfa í brjósti þér\nOg láttu heyra að þú eigir lítið gleðihús\nKósi lítið lag, sem gæti gripið mig og hvern sem er\nÞú leggur ekki inn í Gleðibankann tómаn blúѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The Bank of Joy",
+      "content": "Time flies by in the age of satellites\nFaster every day, faster every night\nAre you sometimes pondering over the bounced cheques\nPerhaps you're withdrawing too much from the Bank of Joy\n\nCheer up and tie up all loose ends\nNever deposit, only withdraw\nThe sins that you never committed lie dormant\nAn uncashed cheque from the Bank of Joy\n\nYou should sing a little song\nAbout the joy in life that's in your heart\nAnd let the world know that you have a house of joy\nA cosy little song that can grab you at any time\nYou don't deposit your empty blues in the Bank of Joy\n\nYou should sing a little song\nAbout the joy in life that's in your heart\nAnd let the world know that you have a house of joy\nA cosy little song that can grab you at any time\nYou don't deposit your empty blues in the Bank of Joy\n\nCheer up and tie up all loose ends\nNever deposit, only withdraw\nThe sins that you never committed lie dormant\nAn uncashed cheque from the Bank of Joy\n\nYou should sing a little song\nAbout the joy in life that's in your heart\nAnd let the world know that you have a house of joy\nA cosy little song that can grab you at any time\nYou don't deposit your empty blueѕ in the Bаnk of Joy"
+    }
+  ],
+  "bpm": 137,
+  "tone": "E major",
+  "artistPeople": [
+    "Eiríkur Hauksson",
+    "Helga Möller",
+    "Pálmi Gunnarsson"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Gunnar Þórðarsson",
+  "lyricists": null,
+  "writers": [
+    "Magnús Eiríksson"
+  ],
+  "broadcaster": "RÚV",
+  "commentators": [
+    "Þorgeir Ástvaldsson"
+  ],
+  "jury": null,
+  "spokesperson": "Guðrún Skúladóttir"
+}

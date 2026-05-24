@@ -1,0 +1,63 @@
+{
+  "id": 27,
+  "country": "CH",
+  "artist": "Paolo Meneguzzi",
+  "song": "Era stupendo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/GgNU5_htNXk",
+    "https://www.youtube-nocookie.com/embed/9sfOCCrR7vQ",
+    "https://www.youtube-nocookie.com/embed/uIx0EPO7uYE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Era stupendo",
+      "content": "C'è una parte di me\nChe tacere non sa\nQuando guardo l'odio che c'è\nIl dolore, la povertà\nMi rivedo bambino io\nChe correvo nel blu\n\nEra stupendo volare via\nSfidare il vento, la fantasia\nLa tua mano e la mia\nNella stessa poesia\nEra stupendo\n\nMa una notte vedrai\nDal destino uscirò, giuro\nSe la vita ci aspetterà\nTorneremo laggiù\n\nSarà stupendo volare via\nSfidare ancora la fantasia\nE poi la tua mano e la mia\nNella stessa poesia\nEra stupendo\nEra stupendo\n\nPerchè non c'è pace, finché\nTutti pensano a sé\n\nEra stupendo\nErа ѕtupendo"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "It was wonderful",
+      "content": "There's a part of me\nThat can't be silenced\nWhen I look at the hatred there is\nThe pain, the poverty\nI see myself again as a child\nRunning in the blue\n\nIt was wonderful to fly away\nTo challenge the wind, the imagination\nYour hand and mine\nIn the same poetry\nIt was wonderful\n\nBut one night you'll see\nI'll escape from fate, I swear\nIf life will wait for us\nWe'll go back down there\n\nIt'll be wonderful to fly away\nTo still challenge the imagination\nAnd then your hand and mine\nIn the same poetry\nIt was wonderful\nIt was wonderful\n\nBecause there's no peace, as long\nAs everyone thinks of himself\n\nIt was wonderful\nIt wаѕ wonderful"
+    }
+  ],
+  "bpm": 144,
+  "tone": "C# major",
+  "artistPeople": [
+    "Pablo Meneguzzo"
+  ],
+  "backings": [
+    "Cristina Pegoraro",
+    "Federica Vino",
+    "Giancarlo Capito",
+    "Giuseppe D'Agostino",
+    "Thomas Grazioso"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Paolo Meneguzzi"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Paolo Meneguzzi",
+    "Vincenzo Incenzo"
+  ],
+  "writers": null,
+  "broadcaster": "SRG SSR idée suisse",
+  "commentators": [
+    "Jean-Marc Richard",
+    "Nicolas Tanner",
+    "Sandy Altermatt",
+    "Sven Epiney"
+  ],
+  "jury": null,
+  "spokesperson": "Cécile Bähler"
+}

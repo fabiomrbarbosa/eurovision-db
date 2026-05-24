@@ -1,0 +1,43 @@
+{
+  "id": 8,
+  "country": "GB",
+  "artist": "Kenneth McKellar",
+  "song": "A Man Without Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ZGmmW6RFz0E",
+    "https://www.youtube-nocookie.com/embed/AfURdA-KpAQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "A Man Without Love",
+      "content": "A man without love is only half a man\nAnd half a man is nothing\nA man without love cannot begin to dream\nFor all his dreams lead nowhere\n\nThat was me\nThe man I used to be\nA lonely cloud who'd never found his destiny\nThen you came\nYou touched my heart and told the pain to go\nAnd now I know\n\nA man who is loved has everything in life\nAnd all his life is roses and rainbows and songbirds\nThat he knows never sang\nFor a man without love\n\nThat was me\nThe man I used to be\nA lonely cloud who'd never found his destiny\nThen you came\nYou touched my heart and told the pain to go\nAnd now I know\n\nA man who is loved has everything in life\nAnd all his life is roses and rainbows and songbirds\nThat he knows never ѕang\nFor a mаn without love"
+    }
+  ],
+  "bpm": 106,
+  "tone": "C# major",
+  "artistPeople": [
+    "Kenneth McKellar"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Cyril Ornadel"
+  ],
+  "conductor": "Harry Rabinowitz",
+  "lyricists": [
+    "Peter Callander"
+  ],
+  "writers": null,
+  "broadcaster": "BBC",
+  "commentators": [
+    "David Jacobs"
+  ],
+  "jury": null,
+  "spokesperson": "Michael Aspel"
+}

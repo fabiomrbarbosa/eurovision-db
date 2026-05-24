@@ -1,0 +1,57 @@
+{
+  "id": 18,
+  "country": "TR",
+  "artist": "Nazar",
+  "song": "Sevince",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/rpYYS8MV6jI",
+    "https://www.youtube-nocookie.com/embed/CNinGh5WwaI",
+    "https://www.youtube-nocookie.com/embed/_QNUN5oZ21c"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "turkish"
+      ],
+      "displayedLanguages": null,
+      "title": "Sevince",
+      "content": "Dünya duruyor aniden seni sevince\nDünya dönüyor aniden seni sevince\nSev beni hayat boyunca, beni sevince\nBiz hep sevince döner dünya – dünya sevince\n\nGüneş batıyor aniden seni sevince\nGüneş doğuyor aniden seni sevince\nDurma sev günler boyunca – ah… sevince\nBiz hep sevince güzel günler – günler sevince\n\nOh… sevmek ne büyük bir ülke\nOh… sev beni, koş o ülkeye\n\nDurma sev günler boyunca – ah… sevince\nBiz hep sevince güzel günler, günler sevince\n\nHayat değişiyor birden, seni sevince\nDünya değişiyor birden, seni sevince\nDurma sev yıllar boyunca, beni sevince\nBiz hep sevince döner dünya – dünyа sevince\n\nOh… sevmek ne büyük bir ülke\nOh… sev beni, koş o ülkeye\n\nOh… sevmek ne büyük bir ülke\nOh… ѕev beni, koş o ülkeye"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "When I'm in love",
+      "content": "All of a sudden the world stops turning, when I love you\nAll of a sudden the world starts turning, when I love you\nLove me all your life, if you love me\nWhen we all love the turning world, it will love us\n\nThe sun stops shining when I love you\nThe sun shines again when I love you\nDon't ever stop loving, oh, loving\nWe all love the nice days, the days love us\n\nOh… love is such a big country\nOh… love me and run to that country\n\nDon't ever stop loving – oh… loving\nWe all love the nice days, the days love us\n\nAll of a sudden, life is different, when I love you\nAll of a sudden, the world is different, when I love you\nFor all the coming years, keep on loving if you love me\nWhen we all love the turning world, it will love us\n\nOh… love is such a big country\nOh… love me and run to that country\n\nOh… love is ѕuch a big country\nOh… love me and run to thаt country"
+    }
+  ],
+  "bpm": 147,
+  "tone": "C major",
+  "artistPeople": [
+    "Dağhan Baydur",
+    "Nilüfer Yumlu",
+    "Olcayto Ahmet Tuğsuz",
+    "Zeynep Tuğsuz"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Dağhan Baydur",
+    "Onno Tunç"
+  ],
+  "conductor": "Onno Tunç",
+  "lyricists": [
+    "Hulki Aktunç"
+  ],
+  "writers": null,
+  "broadcaster": "TRT",
+  "commentators": [
+    "Bülend Özveren"
+  ],
+  "jury": null,
+  "spokesperson": "Meral Savcı"
+}

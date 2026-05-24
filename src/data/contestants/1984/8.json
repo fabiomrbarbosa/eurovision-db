@@ -1,0 +1,57 @@
+{
+  "id": 8,
+  "country": "FI",
+  "artist": "Kirka",
+  "song": "Hengaillaan",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5G_vnjEL9R4",
+    "https://www.youtube-nocookie.com/embed/krEgwiA2ww8",
+    "https://www.youtube-nocookie.com/embed/dKlxzQ1-sqc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Hengaillaan",
+      "content": "Kakskytkaks ja nelkytviis on juna mennyt viimeinen\nMut siitä viis, raide kaks\nJo puolikuus, on aamulla taas lähdössä uus\n\nTää yö nyt ollaan vaan ja hengaillaan\nEi mennä nukkumaan\nAsemalla soitellaan ja svengaillaan\nKun junaa odotetaan\n\nSe viimene juna mun laukun vei\nJunilla on kiire mulla ei\nElämän junaan aina mennä mukaan saa\n\nNolla kaks jo kello käy\nMe asemalla kahden vain, ei muita näy\nTunnin kaks on soinut blues\nJa aamuun aikaa on ikuisuus\n\nTää yö nyt ollaan vaan ja hengaillaan\nEi mennä nukkumaan\nAsemalla soitellaan ja svengaillaan\nKun junaa odotetaan\n\nSe viimene juna mun laukun vei\nJunilla on kiire mulla ei\nMaailman kuvaa muutenkin voi laajentaa\n\nRaide kaks ja aamu uus\nNyt myöhästyttiin uudestaan on kello kuus\nTuonnemmaks kun matka jää, niin jatkuu meidän tunnelma tää\n\nTää päivä ollaan vaan ja hengaillaan\nKoko päivä soitellaan ja svengaillaan\n\nTää päivä ollaan vaan ja hengaillaan\nEi mennä nukkumaan\nKoko päivä soitellaan ja ѕvengaillaan\nKun junaa odotetaan\nKun junaa odotetaаn"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Let's hang around",
+      "content": "The last train left at 22.45, but who cares\nAt 5.30 in the morning from track 2\nAnother train's going to leave\n\nLet's just hang around tonight\nAnd not sleep at all\nAt the station we'll play and swing around\nWhile we wait for the train\n\nThe last train took my bag away\nThe trains are busy, not me, no way!\nYou can catch the train of life anytime!\n\nIt's 2 a.m.\nAnd we're all alone at the station\nWe've been playing blues an hour or two\nAnd it's still an eternity till morning\n\nLet's just hang around tonight\nAnd not sleep at all\nAt the station we'll play and swing around\nWhile we wait for the train\n\nThe last train took my bag away\nThe trains are busy, not me, no way!\nYou can expand the concept of the world in other ways too\n\nTrack 2 it's morning\nWe're late again it's six o'clock\nAs our trip moves further, our mood just goes on\n\nLet's just hang around all day\nWe'll just play and swing around all day\n\nLet's just hang around all day\nAnd not sleep at all\nLet's just play and ѕwing around all day\nWhile we wait for the train\nWhile we wait for the trаin"
+    }
+  ],
+  "bpm": 129,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Kirill Babitzin"
+  ],
+  "backings": [
+    "Anita Pajunen",
+    "Jokke Seppälä",
+    "Kaija Koo"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jukka Siikavire"
+  ],
+  "conductor": "Ossi Runne",
+  "lyricists": [
+    "Jussi Tuominen"
+  ],
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Heikki Seppälä"
+  ],
+  "jury": null,
+  "spokesperson": "Solveig Herlin"
+}

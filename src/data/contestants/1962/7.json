@@ -1,0 +1,52 @@
+{
+  "id": 7,
+  "country": "SE",
+  "artist": "Inger Berggren",
+  "song": "Sol och vår",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/wSPeU0pqNLA",
+    "https://www.youtube-nocookie.com/embed/bqalB72bR68",
+    "https://www.youtube-nocookie.com/embed/gG518AD6TLE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Sol och vår",
+      "content": "En juvelerare och hans affär\nÄr upphov till att allt så dystert är\nEn dag framför hans fönster dröjde jag\nDå någon plötsligt sa 'goddag'\n\nDet var en glad ung man med solvargsgrin\nSom bad mig följa med som smakråd in\nHan sökte något att sin fästmö ge\nOch bad så snällt att jag gick med\n\nNär det är sol och vår och man är nitton år\nÄr det så lite man förstår\nOch alla flickor små bör låsas inne då\nNär vintern går mot sol och vår\n\nVäl i butiken fann han inget se'n\nOch snart så stod vi utanför igen\nJag sa 'adjö' och hade börjat gå\nNär han skrek: \"Vänta, hör nu på\"\n\nSom ett bevis för tacksamheten hans\nVille han bjuda mig på lunch nå'nstans\nDet var ju vårens första solskensdag\nSå jag var dum nog svara' ja\n\nNär det är sol och vår och man är nitton år\nÄr det så lite man förstår\nOch alla flickor små bör låsas inne då\nNär vintern går mot sol och vår\n\nHan konverserade med elegans\nOch bjöd det bästa som på stället fanns\nMen se'n han gått att ringa till en vän\nSå kom han inte mer igen\n\nOch rockvaktmästar'n sa:\n\"Jo, damens man tog damens päls\nOch gick till skräddaren, han\"\nSå jag fick ringa till min egen Knut\nSom mig från notan löste ut\n\nNär det är sol och vår och man är nitton år\nÄr det så lite man förstår\nOch alla flickor små bör låsаs inne då\nNär vintern går mot ѕol och vår"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Sun and spring",
+      "content": "A jeweller and his shop\nIs the reason why everything is so gloomy\nOne day I was standing in front of his window\nWhen someone suddenly said 'good day'\n\nIt was a happy young man with a charming smile\nWho asked me to come in to give my advice\nHe was looking for something to give to his fiancée\nAnd I was nice enough and joined him\n\nWhen it's sun and spring and you're nineteen years old\nYou understand so little\nAnd all the little girls should be locked up then\nWhen winter turns to sun and spring\n\nOnce in the shop he couldn't find anything\nAnd soon we were outside again\nI said 'goodbye' and had begun walking\nWhen he yelled: \"Wait, listen\"\n\nAs a proof of his gratitude\nHe wanted to buy me lunch somewhere\nIt was the first sunny day of spring\nSo I was stupid enough to say yes\n\nWhen it's sun and spring and you're nineteen years old\nYou understand so little\nAnd all the little girls should be locked up then\nWhen winter turns to sun and spring\n\nHe conversed with elegance\nAnd bought me the best meal the place had to offer\nBut then he went to call a friend\nAnd didn't come back\n\nAnd the man working in the cloakroom said:\n\"Yes, your husband took your fur coat\nAnd went to the tailor\"\nSo I had to call my own Knut\nwho came and bailed me out\n\nWhen it's sun and spring and you're nineteen years old\nYou understand so little\nAnd all the little girls should be locked up then\nWhen winter turns to sun аnd ѕpring"
+    }
+  ],
+  "bpm": 117,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Inger Berggren"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Egon Kjerrmann",
+  "lyricists": null,
+  "writers": [
+    "Åke Gerhard",
+    "Ulf Kjellqvist"
+  ],
+  "broadcaster": "SR",
+  "commentators": [
+    "Jan Gabrielsson"
+  ],
+  "jury": null,
+  "spokesperson": "Tage Danielsson"
+}

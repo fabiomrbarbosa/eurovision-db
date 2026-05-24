@@ -1,0 +1,56 @@
+{
+  "id": 9,
+  "country": "SE",
+  "artist": "Tomas Ledin",
+  "song": "Just nu!",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ELz4zAnvJf0",
+    "https://www.youtube-nocookie.com/embed/tie3yuAxjVc",
+    "https://www.youtube-nocookie.com/embed/CHhv9g9ejFY"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Just nu!",
+      "content": "Han är trött på stan, det händer ingenting\nDet mesta är sig likt här runt omkring\nVeckan kryper fram, helgen springer förbi\nSamma snack varje dag om att göra sig fri\n\nJust nu vill jag leva, just nu!\nJust nu vill jag känna, just nu!\n\nKänna luften i mina lungor, känna blodet som pulserar\nKänna ljuset i mina ögon, känna tiden som passerar\n\nHan vill dra iväg, kanske ner till Paris\nOch hitta äventyret på något vis\nInte sitta här på stans konditori\nOch låta tankarna, bara fladdra förbi\n\nJust nu vill jag leva, just nu!\nJust nu vill jag känna, just nu!\n\nKänna luften i mina lungor, känna blodet som pulserar\nKänna ljuset i mina ögon, känna tiden som passerar\n\nKänna luften i mina lungor (just nu!)\nKänna blodet som pulserar (just nu!)\nKänna ljuset i mina ögon (just nu!)\nKänna tiden som passerar (just nu!)\n\nJust nu vill jag leva, just nu!\nJust nu vill jag känna, just nu!\n\nKänna luften i mina lungor (just nu!)\nKänna blodet som pulserar (just nu!)\nKänna ljuset i mina ögon (just nu!)\nKänna tiden som passerar (just nu!)\n\nJust nu vill jag leva, just nu!\nJust nu vill jag känna, just nu!\n\nKänna luften i mina lungor (just nu!)\nKänna blodet som pulserar (just nu!)\nKänna ljuset i mina ögon (just nu!)\nKänna tiden som passerаr (juѕt nu!)"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Right now!",
+      "content": "He's tired of the city, nothing happens\nEverything is as usual around here\nThe weekdays creep by, the weekend flies by\nThe same talk every day about breaking free\n\nRight now I want to live, right now!\nRight now I want to feel, right now!\n\nFeel the air in my lungs, feel the blood pumping\nFeel the light in my eyes, feel time passing\n\nHe wants to go away, perhaps down to Paris\nAnd find adventure somehow\nAnd not just sitting here at the local café\nJust letting the thoughts flutter by\n\nRight now I want to live, right now!\nRight now I want to feel, right now!\n\nFeel the air in my lungs, feel the blood pumping\nFeel the light in my eyes, feel time passing\n\nFeel the air in my lungs (right now!)\nFeel the blood pumping (right now!)\nFeel the light in my eyes (right now!)\nFeel time passing (right now!)\n\nRight now I want to live, right now!\nRight now I want to feel, right now!\n\nFeel the air in my lungs (right now!)\nFeel the blood pumping (right now!)\nFeel the light in my eyes (right now!)\nFeel time passing (right now!)\n\nRight now I want to live, right now!\nRight now I want to feel, right now!\n\nFeel the air in my lungs (right now!)\nFeel the blood pumping (right now!)\nFeel the light in my eyes (right now!)\nFeel time pаsѕing (right now!)"
+    }
+  ],
+  "bpm": 140,
+  "tone": "F major",
+  "artistPeople": [
+    "Tomas Ledin"
+  ],
+  "backings": [
+    "Anders Glenmark",
+    "Caj Högberg",
+    "Lennart Sjöholm",
+    "Rutger Gunnarsson"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Anders Berglund",
+  "lyricists": null,
+  "writers": [
+    "Tomas Ledin"
+  ],
+  "broadcaster": "SVT",
+  "commentators": [
+    "Ulf Elfving"
+  ],
+  "jury": null,
+  "spokesperson": "Arne Weise"
+}

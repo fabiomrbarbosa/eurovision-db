@@ -1,0 +1,64 @@
+{
+  "id": 31,
+  "country": "HR",
+  "artist": "Klapa s mora",
+  "song": "Mižerja",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/FYm4sGd-qP0",
+    "https://www.youtube-nocookie.com/embed/R3XawJf5JLk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "croatian"
+      ],
+      "displayedLanguages": null,
+      "title": "Mižerja",
+      "content": "Zlata niman da te njime okitim\nSamo ove ruke dvi da ti dušu zagrlim\n\nEj mižerja, ka tvrda si stina\nEj mižerja, ka dvi kapi vina\nNemam ništa, samo viru\nI bokun čiste jubavi\n\nEj mižerja, ka tvrda si stina\nEj mižerja, ka dvi kapi vina\nNemam ništa, samo viru\nI bokun čiste jubavi\n\nRužo moja lipa za te živit ću\nI zadnju koru suvog kruva s tobom dilit ću\n\nEj mižerja, ka tvrda si stina\nEj mižerja, ka dvi kapi vina\nNemam ništa, samo viru\nI bokun čiste jubavi\n\nEj mižerja, ka tvrda si stina\nEj mižerja, mižerja, mižerja\n\nEj mižerja, ka tvrda si stina\nEj mižerja, ka dvi kapi vina\nNemam ništa, samo viru\nI bokun čiste jubavi\n\nJa nemam ništa, samo viru\nI bokun čiѕte jubavi\n(Mižerjа)"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Misery",
+      "content": "I don't have gold to adorn you with\nOnly these two arms to embrace your soul\n\nOh misery, you're as hard as rock\nOh misery, you're like two drops of wine\nI have nothing, only faith\nAnd a little bit of pure love\n\nOh misery, you're as hard as rock\nOh misery, you're like two drops of wine\nI have nothing, only faith\nAnd a little bit of pure love\n\nOh beautiful rose of mine, for you I will live\nAnd the last piece of dried old bread I'll share with you\n\nOh misery, you're as hard as rock\nOh misery, you're like two drops of wine\nI have nothing, only faith\nAnd a little bit of pure love\n\nOh misery, you're as hard as rock\nOh misery, misery, misery\n\nOh misery, you're as hard as rock\nOh misery, you're like two drops of wine\nI have nothing, only faith\nAnd a little bit of pure love\n\nI have nothing, only faith\nAnd а little bit of pure love\n(Miѕery)"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Miseria",
+      "content": "No tengo oro con el que adornarte\nSólo estos dos brazos para rodear tu alma\n\nOh, miseria, eres tan dura como una roca\nOh, miseria, eres como dos gotas de vino\nY yo no tengo nada, sólo fe\nY un poco de amor puro\n\nOh, miseria, eres tan dura como una roca\nOh, miseria, eres como dos gotas de vino\nY yo no tengo nada, sólo fe\nY un poco de amor puro\n\nOh, hermosa rosa mía, viviré por ti\nY compartiré contigo mi último trozo de pan viejo\n\nOh, miseria, eres tan dura como una roca\nOh, miseria, eres como dos gotas de vino\nY yo no tengo nada, sólo fe\nY un poco de amor puro\n\nOh, miseria, eres tan dura como una roca\nOh, miseria, miseria, miseria\n\nOh, miseria, eres tan dura como una roca\nOh, miseria, eres como dos gotas de vino\nY yo no tengo nada, sólo fe\nY un poco de amor puro\n\nNo tengo nada, sólo fe\nY un poco de amor puro\n(Miѕeriа)"
+    }
+  ],
+  "bpm": 102,
+  "tone": "F# major",
+  "artistPeople": [
+    "Ante Galić",
+    "Bojan Kavedžija",
+    "Ivica Vlaić",
+    "Leon Bataljaku",
+    "Marko Škugor",
+    "Nikša Antica"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Goran Topolovac"
+  ],
+  "broadcaster": "HRT",
+  "commentators": [
+    "Duško Ćurlić"
+  ],
+  "jury": null,
+  "spokesperson": "Uršula Tolj"
+}

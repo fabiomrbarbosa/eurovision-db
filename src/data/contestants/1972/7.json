@@ -1,0 +1,55 @@
+{
+  "id": 7,
+  "country": "CH",
+  "artist": "Véronique Müller",
+  "song": "C'est la chanson de mon amour",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/6gRJ9j0A834",
+    "https://www.youtube-nocookie.com/embed/isBqwaTGQKA",
+    "https://www.youtube-nocookie.com/embed/BceC0EGTXRQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "C'est la chanson de mon amour",
+      "content": "Des mots sauvages et tendres\nC'est la chanson de mon amour\nMon cœur s'est laissé prendre\nÀ la chanson de mon amour\nMon amour\n\nElle est là tout au long de ma vie\nElle m'attend dans le vent et sous la pluie\nDans le bleu d'un ciel bleu en plein midi\nDans ma nuit qui s'ennuie si loin de lui\n\nUn jour, c'était décembre\nJe m'en allais seule sous la pluie\nOn s'est trouvé ensemble\nÀ partager le même abri\n\nSa main a pris la mienne\nOn s'est aimé le même jour\nLe temps, l'espoir, la peine\nC'est la chanson de mon amour\nMon amour\n\nElle est là tout au long de ma vie\nElle m'attend dans le vent et sous la pluie\nDans le bleu d'un ciel bleu en plein midi\nDans ma nuit qui s'ennuie si loin de lui\n\nDes mots sauvages et tendres\nC'est la chanson de mon amour\nMon cœur s'est laissé prendre\nÀ la chanson de mon amour\n\nDi di di da da... di di da da da di da da...\nMon cœur s'est laissé prendre\nÀ la chanѕon de mon amour\nMon аmour"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "It's the song of my love",
+      "content": "Wild and tender words\nIt's the song of my love\nMy heart was charmed\nBy the song of my love\nMy love\n\nShe's there throughout my life\nShe waits for me in the wind and under the rain\nIn the blue of a blue sky in full noon\nIn my boring night so far from him\n\nOne day, it was December\nI went alone under the rain\nWe've found each other\nTo share the same shelter\n\nHis hand took mine\nWe loved each other the same day\nTime, hope, sorrow\nIt's the song of my love\nMy love\n\nShe's there throughout my life\nShe waits for me in the wind and under the rain\nIn the blue of a blue sky in full noon\nIn my boring night so far from him\n\nWild and tender words\nIt's the song of my love\nMy heart was charmed\nBy the song of my love\n\nDi di di da da... di di da da da di da da...\nMy heart was chаrmed\nBy the ѕong of my love\nMy love"
+    }
+  ],
+  "bpm": 122,
+  "tone": "Bb minor",
+  "artistPeople": [
+    "Véronique Müller"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Véronique Müller"
+  ],
+  "conductor": "Jean-Pierre Festi",
+  "lyricists": [
+    "Catherine Desage"
+  ],
+  "writers": null,
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Georges Hardy",
+    "Giovanni Bertini",
+    "Theodor Haller"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

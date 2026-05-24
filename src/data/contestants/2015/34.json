@@ -1,0 +1,64 @@
+{
+  "id": 34,
+  "country": "MK",
+  "artist": "Daniel Kajmakoski",
+  "song": "Autumn Leaves",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/TtSum7ouImU",
+    "https://www.youtube-nocookie.com/embed/t8QCt6CJCHc",
+    "https://www.youtube-nocookie.com/embed/fjsGiboD-20",
+    "https://www.youtube-nocookie.com/embed/gttlEeIOuJA",
+    "https://www.youtube-nocookie.com/embed/p6uXPD0lm9M",
+    "https://www.youtube-nocookie.com/embed/0Dld7KL9ULI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Autumn Leaves",
+      "content": "Met in the dark of night you were my lucky strike crazy kids with out a clue\nHanging from our knees up in the willow trees easy like the month of June\nA fairytale gone right with no ending in sight had me tangled up in blue\nYou said we'd never change but maybe we do\n\nBaby this is all we ever used to know \nBut I can see your colours change to red and gold\n\nEvery moment will hurt\nFrom the last to the ﬁrst\nAnd I'm trying ﬁnd a way to breathe\nClose the book and the chapter forever and after \nI'm falling like the autumn leaves\nMy heart is beating like a million drums\nCuz you're the ground under my feet\nI'm trying to hold on but baby I'm falling free\nLike the autumn leaves \n\nBaby this is all we ever used to know \nBut I can see your colours change to red and gold\n\nEvery moment will hurt\nFrom the last to the ﬁrst\nAnd I'm trying ﬁnd a way to breathe \nClose the book and the chapter forever and after \nI'm falling like the autumn leaves \nMy heart is beating like a million drums\nCuz you're the ground under my feet \nI'm trying to hold on but baby I'm falling free \nLike the autumn leаveѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Hojas de Otoño",
+      "content": "Nos conocimos en la oscuridad de la noche, fuiste mi golpe de suerte, niños sin idea alguna\nColgados de las rodillas en los sauces, tan sencillo como el mes de junio\nUn cuento de hadas sin fin a la vista me tenía enredado en azul\nDijiste que nunca cambiaríamos, pero quizás si lo hacemos\n\nBebe, esto es todo lo que solíamos conocer\nPero puedo ver como tus colores cambian a rojo y dorado\n\nTodos los momentos dolerán\nDel último al primero\nY estoy buscando una forma de respirar\nCierra el libro y el capítulo, felices por siempre\nCaigo como las hojas de otoño\nMi corazón late como un millón de tambores\nPorque eres el suelo bajo mis pies\nTrato de sujetarme, pero, bebe, estoy cayendo\nComo las hojas de otoño\n\nBebe, esto es todo lo que solíamos conocer\nPero puedo ver como tus colores cambian a rojo y dorado\n\nTodos los momentos dolerán\nDel último al primero\nY estoy buscando una forma de respirar\nCierra el libro y el capítulo, felices por siempre\nCaigo como las hojas de otoño\nMi corazón late como un millón de tambores\nPorque eres el suelo bajo mis pies\nTrato de sujetarme, pero, bebe, estoy cayendo\nComo las hojаѕ de otoño"
+    }
+  ],
+  "bpm": 120,
+  "tone": "C major",
+  "artistPeople": [
+    "Daniel Kajmakoski"
+  ],
+  "backings": [
+    "Eric Williams",
+    "Jeremy Hanna",
+    "Mark Middleton"
+  ],
+  "dancers": null,
+  "stageDirector": "Mojca Horvat",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Joacim Persson"
+  ],
+  "broadcaster": "MKRTV",
+  "commentators": [
+    "Karolina Petkovska"
+  ],
+  "jury": [
+    "Aleksandar Belov",
+    "Ana Kostadinovska",
+    "Andrijana Jovanovska",
+    "Antonio Dimitrievski",
+    "Sara Projkovska"
+  ],
+  "spokesperson": "Marko Mark"
+}

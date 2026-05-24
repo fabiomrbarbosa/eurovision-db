@@ -1,0 +1,127 @@
+{
+  "id": 0,
+  "country": "RS",
+  "artist": "Marija Šerifović",
+  "song": "Molitva",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vWj58UP_ENY",
+    "https://www.youtube-nocookie.com/embed/8x1zp29ToOI",
+    "https://www.youtube-nocookie.com/embed/5fAULruWW6o",
+    "https://www.youtube-nocookie.com/embed/aUD-aq56Opk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "serbian"
+      ],
+      "displayedLanguages": [
+        "srpski"
+      ],
+      "title": "Molitva",
+      "content": "Ni oka da sklopim\nPostelja prazna tera san\nA život se topi\nI nestaje brzo, k'o dlanom o dlan\n\nK'o razum da gubim\nJer stvarnost i ne primećujem\nJoš uvek te ljubim\nJoš uvek ti slepo verujem\n\nK'o luda, ne znam kuda\nLjubavi se nove bojim\nA dane, žive rane\nViše ne brojim\n\nMolitva, kao žar na mojim usnama je\nMolitva, mesto reči samo ime tvoje\nNebo zna, kao ja\nKoliko puta sam ponovila\nTo nebo zna, baš kao ja\nDa je ime tvoje moja jedina molitva\n\nAl Bogu ne mogu lagati\nSve dok se molim\nA lažem ako kažem\nDa te ne volim\n\nMolitva, kao žar na mojim usnama je\nMolitva, mesto reči samo ime tvoje\nNebo zna, baš kao ja\nKoliko puta sam ponovila\nTo nebo zna, baš kao ja\nDa je ime tvoje moja molitva\n(Molitva, molitva)\n\nI nebo zna, baš kao ja\nKoliko puta ѕam ponovila\nTo nebo zna, baš kao ja\nDa je ime tvoje moja jedina molitva\n\nDa je ime tvoje moja molitvа"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "serbian"
+      ],
+      "displayedLanguages": [
+        "српски"
+      ],
+      "title": "Молитва",
+      "content": "Ни ока да склопим\nПостеља празна тера сан\nА живот се топи\nИ нестаје брзо, к'о дланом о длан\n\nК'о разум да губим\nЈер стварност и не примећујем\nЈош увек те љубим\nЈош увек ти слепо верујем\n\nК'о луда, не знам куда\nЉубави се нове бојим\nА дане живе ране\nВише не бројим\n\nМолитва, као жар на мојим уснама је\nМолитва, место речи само име твоје\nНебо зна, као ја\nКолико пута сам поновила\nТо небо зна, баш као ја\nДа је име твоје моја једина молитва\n\nАл Богу не могу\nЛагати све док се молим\nА лажем ако кажем\nДа те не волим\n\nМолитва, као жар на мојим уснама је\nМолитва, место речи само име твоје\nНебо зна, као ја\nКолико пута сам поновила\nТо небо зна, баш као ја\nДа је име твоје моја једина молитва…\n(Молитва, молитва)\n\nИ небо зна, баш као ја\nКолико пута сам поновила\nТо небо зна, баш као ја\nДа је име твоје моја једина молитва\n\nДа је име твоје моја молитва"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": null,
+      "title": "תפילה",
+      "content": "איני יכולה לעצום עין\nמיטתי הריקה מרחיקה את השינה\nחיי נמסים לי\nנעלמים מהר, כהרף עין\n\nכאילו אני משתגעת\nולא שמה לב למציאות\nאני עדיין אוהבת אותָךְ\nאני עדיין מאמינה לָךְ לחלוטין\n\nכמו משוגעת, אני לא יודעת לאן ללכת\nומפחדת מאהבה חדשה\nהימים הם כמו פצעים מדממים\nשהפסקתי כבר לספור\n\nתפילה, ששורפת את שפתיי\nתפילה, במקום מילים – רק שְׁמֵךְ\nבשמיים יודעים, כמוני\nכמה פעמים חזרתי על עצמי\nבשמיים יודעים, בדיוק כמוני\nשֶׁשְּמֵךְ הוא תפילתי היחידה\n\nלאלוהים אני לא יכולה\nלשקר בזמן שאני מתפללת\nוזה שקר כשאני אומרת\nשאיני אוהבת אותָךְ יותר\n\nתפילה, ששורפת את שפתיי\nתפילה, במקום מילים – רק שְׁמֵךְ\nבשמיים יודעים, כמוני\nכמה פעמים חזרתי על עצמי\nבשמיים יודעים, בדיוק כמוני\nשֶׁשְּמֵךְ הוא בשבילי…\n(תפילה, תפילה)\n\nובשמיים יודעים, בדיוק כמוני\nכמה פעמים חזרתי על עצמי\nבשמיים יודעים, בדיוק כמוני\nשֶׁשְּמֵךְ הוא תפילתי היחידה\n\nשֶׁשְּמֵךְ הוא תפילתי"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": null,
+      "title": "Προσευχή",
+      "content": "Δεν μπορώ να κλείσω τα μάτια μου\nΤο άδειο κρεβάτι διώχνει τον ύπνο\nΚαι η ζωή μου λιώνει\nΚαι εξαφανίζεται γρήγορα, σε κλάσματα δευτερολέπτου\n\nΦαίνεται ότι χάνω το μυαλό μου\nΚαθώς δεν αντιλαμβάνομαι καν την πραγματικότητα\nΣε αγαπώ ακόμα\nΕξακολουθώ να σε εμπιστεύομαι τυφλά\n\nΣαν τρελός, δεν ξέρω πού να πάω\nΦοβάμαι μια νέα αγάπη\nΚαι οι μέρες είναι σαν ανοιχτές πληγές\nΔεν τα μετράω πια\n\nΠροσευχή, σαν λαχτάρα στα χείλη μου\nΠροσευχή, μόνο το όνομά σου, αντί για λέξεις\nΟ Παράδεισος ξέρει, όπως και εγώ\nΠόσες φορές το έχω επαναλάβει\nΟ Παράδεισος ξέρει, όπως και εγώ\nΌτι το όνομά σου είναι η μόνη μου προσευχή\n\nΑλλά δεν μπορώ να πω ψέματα στον Θεό\nΑρκεί να προσεύχομαι\nΚαι θα έλεγα ψέματα αν έλεγα\nΌτι δεν σε αγαπώ\n\nΠροσευχή, σαν λαχτάρα στα χείλη μου\nΠροσευχή, μόνο το όνομά σου, αντί για λέξεις\nΟ Παράδεισος ξέρει, όπως και εγώ\nΠόσες φορές το έχω ξαναπεί αυτό\nΟ Παράδεισος ξέρει, όπως και εγώ\nΌτι το όνομά σου είναι η προσευχή μου\n(Προσευχή, προσευχή)\n\nΚαι ο παράδεισος ξέρει, όπως και εγώ\nΠόσες φορές το έχω ξαναπεί αυτό\nΟ Παράδεισος ξέρει, όπως και εγώ\nΌτι το όνομά σου είναι η μόνη μου προσευχή\n\nΌτι το όνομά σου είναι η προσευχή μου"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Prayer",
+      "content": "I can't close my eyes\nThe empty bed chases sleep away\nAnd my life is melting away\nAnd it's disappearing quickly, in a split second\n\nIt seems I'm losing my mind\nAs I don't even notice reality\nI still love you\nI still trust you blindly\n\nLike crazy, I don't know where to go\nI'm afraid of a new love\nAnd the days are like open wounds\nI don't count them anymore\n\nPrayer, like ardour on my lips\nPrayer, just your name, instead of words\nHeaven knows, just as I do\nHow many times I've repeated this\nHeaven knows, just as I do\nThat your name is my only prayer\n\nBut I can't lie to God\nAs long as I pray\nAnd I'd be lying if I said\nThat I don't love you\n\nPrayer, like ardour on my lips\nPrayer, just your name, instead of words\nHeaven knows, just as I do\nHow many times I've repeated this\nHeaven knows, just as I do\nThat your name is my prayer\n(Prayer, prayer)\n\nAnd heaven knows, just as I do\nHow many times I've repeated this\nHeaven knows, just as I do\nThat your name is my only prayer\n\nThat your name iѕ my prаyer"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Bön",
+      "content": "Jag kan inte blunda\nDen tomma sängen jagar bort sömnen\nOch mitt liv smälter bort\nOch det försvinner snabbt, i en halvsekund\n\nJag verkar bli galen\nSom om jag inte ens märker verkligheten\nJag älskar dig än\nJag litar fortfarande blint på dig\n\nSom galen vet jag inte vart jag ska\nJag skräms av ny kärlek\nOch nya dagar är som öppna sår\nJag kan inte räkna dem längre\n\nEn bön, som glöd på dina läppar\nEn bön, bara ditt namn istället för ord\nHimlen vet, liksom jag\nHur många gånger jag upprepat detta\nHimlen vet, liksom jag\nAtt ditt namn är min enda bön\n\nMen jag kan inte ljuga inför gud\nSå länge som jag ber\nOch jag skulle ljuga om jag sa\nAtt jag inte älskar dig\n\nEn bön, som glöd på dina läppar\nEn bön, bara ditt namn istället för ord\nHimlen vet, liksom jag\nHur många gånger jag upprepat detta\nHimlen vet, liksom jag\nAtt ditt namn är min bön\n(En bön, en bön)\n\nHimlen vet, liksom jag\nHur många gånger jag upprepat detta\nHimlen vet, likѕom jag\nAtt ditt namn är min enda bön\n\nAtt ditt nаmn är min bön"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Oración",
+      "content": "No puedo cerrar mis ojos\nLa cama vacía persigue al sueño\nY mi vida se está derritiendo\nY desaparece rápidamente, en una fracción de segundo\n\nParece que estoy perdiendo la cabeza\nComo si ni siquiera percibiese la realidad\nTe sigo amando\nSigo confiando en ti ciegamente\n\nComo loca, no sé donde ir\nTengo miedo de un nuevo amor\nY los días son como heridas abiertas\nYa no me pongo a contarlos\n\nOración, como un ardor en mis labios\nOración, solo tu nombre en vez de palabras\nEl cielo sabe, igual que yo\nCuantas veces habré repetido esto\nEl cielo sabe, igual que yo\nQue tu nombre es mi única oración\n\nPero no le puedo mentir a Dios\nSiempre y cuando rece\nY mentiría si dijera\nQue no te amo\n\nOración, como un ardor en mis labios\nOración, solo tu nombre en vez de palabras\nEl cielo sabe, igual que yo\nCuantas veces habré repetido esto\nEl cielo sabe, igual que yo\nQue tu nombre es mi única oración\n(Oración, oración)\n\nEl cielo sabe, igual que yo\nCuantas veces habré repetido esto\nEl cielo sabe, igual que yo\nQue tu nombre es mi única oración\n\nQue tu nombre eѕ mi única orаción"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "polish"
+      ],
+      "displayedLanguages": null,
+      "title": "Modlitwa",
+      "content": "Nie mogę zmrużyć oka\nPuste łózko zabiera sen\nA życie się topi\nI błyskawicznie znika, w mgnieniu oka\n\nJakbym straciła rozum\nNie patrzę na rzeczywistość\nNadal cię kocham\nNadal ci ślepo wierzę\n\nJak szalona, nie wiem dokąd iść\nBoję się nowej miłości\nA dni, niezagojone rany\nJuż ich nie liczę\n\nModlitwa, jak żar na moich ustach\nModlitwa, zamiast słów tylko twoje imię\nNiebo wie tak jak ja\nIle razy to powtórzyłam\nTylko niebo wie tak jak ja\nŻe twoje imię to moja jedyna modlitwa\n\nAle Bogu nie mogę\nKłamać kiedy się modlę\nA kłamię kiedy mówię\nŻe Cię nie kocham\n\nModlitwa, jak żar na moich ustach\nModlitwa, zamiast ѕłów tylko twoje imię\nNiebo wie tak jak ja\nIle razy to powtórzyłam\nTylko niebo wie tak jak ja\nŻe twoje imię to moja jedyna modlitwa\n(Modlitwa, modlitwa)\n\nTylko niebo wie tak jak ja\nIle razy to powtórzyłam\nTylko niebo wie tak jak ja\nŻe twoje imię to moja jedyna modlitwa\n\nTwoje imię, to moja jedyna modlitwа…"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Destiny",
+      "content": "It's been a long way, I try hard not to fall apart\nEvery night I pray and your voice is singing in my heart\nI have been waiting a long time for you to take my hand\nLoving and hating a desire that I don't understand\n\nI can't breath, I can't sleep\nWhy can't I get through to you?\nI can't think, I can't speak\nWhat am I to do?\n\nDestiny, I've been looking for something to guide me\nDestiny, even though I tried, I can't deny you\nIf I let you go, I'd betray my soul\nI know that this is something more\nEven though nothing's spoken for\nA way that you will feel the same 'bout me, destiny\n\nRead the stars, see my scars\nI feel so low when you're away\nSo reach out, it's not far\nListen to me, pray\n\nDestiny, I've been looking for something to guide me\nDestiny, even though I tried, I can't deny you\nIf I let you go, I'd betray my soul\nI know that this is something more\nEven though nothing's spoken for\nA way that you will feel the same 'bout me\nDestiny, destiny, oh, ooh\n\nIf I let you go, I'd betray my soul\nI know that this is something more\nEven though nothing's spoken for\nA way that you will feel the same 'bout me, destiny\n\nFаith is within me, deѕtiny"
+    }
+  ],
+  "bpm": 152,
+  "tone": "D major",
+  "artistPeople": [
+    "Marija Šerifović"
+  ],
+  "backings": [
+    "Ana Milenković",
+    "Ivana Selakov",
+    "Ksenija Milošević",
+    "Sanja Bogosavljević",
+    "Suzana Dinić"
+  ],
+  "dancers": null,
+  "stageDirector": "Gorčin Stojanović",
+  "composers": [
+    "Vladimir Graić"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Saša Milošević Mare"
+  ],
+  "writers": null,
+  "broadcaster": "RTS",
+  "commentators": [
+    "Duška Vučinić-Lučić"
+  ],
+  "jury": null,
+  "spokesperson": "Maja Nikolić"
+}

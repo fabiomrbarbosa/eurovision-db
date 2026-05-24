@@ -1,0 +1,60 @@
+{
+  "id": 23,
+  "country": "GB",
+  "artist": "Joe & Jake",
+  "song": "You're Not Alone",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/XgGahKsBtts",
+    "https://www.youtube-nocookie.com/embed/C5VvsLEd1TI",
+    "https://www.youtube-nocookie.com/embed/JX7e8DMT-hQ",
+    "https://www.youtube-nocookie.com/embed/YzyVb717_Ow",
+    "https://www.youtube-nocookie.com/embed/BEvcyyRpa-s"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "You're Not Alone",
+      "content": "Heartbeat, when you're not around is beating slow\nAnd it's something that I've never known, o-oh\nI'll be, I'll be the answer you've been waiting for\nI'll be the truth you've been looking for, o-oh\n\nYou're not alone, we're in this together\nAll that you want, is right here forever\nAnd they don't need to know (o-oh),\nAnd they don't need to know.\n\nYou're not alone, we're in this together\nAll that you want, I'm right here forever\nAnd they don't need to know (o-oh),\nAnd they don't need to know.\n\nYou're free, free to let go 'cos I'll be here for you\nAnd when you fall I'll be your parachute, o-oh\nI, I, I, feel like I'm dancing in the sky-y-y\nI come alive when I'm with you, I come alive when I'm with you\n\nYou're not alone, we're in this together\nAll that you want, is right here forever\nAnd they don't need to know (o-oh),\nAnd they don't need to know.\n\nI, I, I, feel like I'm dancing in the sky-y-y\nI come alive when I'm with you, I come alive when I'm with you\n\nDon't speak, your smile tells me all I need to know\nYour eyes show me where I want to go, o-oh\n\nYou're not alone, we're in this together\nAll that you want, is right here forever\nAnd they don't need to know (o-oh),\nAnd they don't need to know.\n\nI, I, I, feel like I'm dancing in the ѕky-y-y\nI come alive when I'm with you, I come аlive when I'm with you."
+    }
+  ],
+  "bpm": 128,
+  "tone": "E major",
+  "artistPeople": [
+    "Jake Shakeshaft",
+    "Joe Woolford"
+  ],
+  "backings": [
+    "Chris Moncrieff",
+    "Lai Shin-Aba",
+    "Mikey Burke",
+    "Ross Harris"
+  ],
+  "dancers": null,
+  "stageDirector": "Dan Shipton",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Justin J. Benson",
+    "Matt Schwartz",
+    "S. Kanes"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Graham Norton",
+    "Mel Giedroyc",
+    "Scott Mills"
+  ],
+  "jury": [
+    "Bea Munro",
+    "CeCe Sammy",
+    "Kiran Thakrar",
+    "Seamus Haji",
+    "Sean McGhee"
+  ],
+  "spokesperson": "Richard Osman"
+}

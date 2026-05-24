@@ -1,0 +1,47 @@
+{
+  "id": 10,
+  "country": "GB",
+  "artist": "Co-Co",
+  "song": "The Bad Old Days",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/a_couVU0Vr4",
+    "https://www.youtube-nocookie.com/embed/cWw7xRN0AZA"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The Bad Old Days",
+      "content": "Remember me?\nI was tossed and turnin' like a ship without a sea\nI was lost for learnin' like a song without a key\nRemember when\nI was all alone without a soul to call my friend?\nWho'd have thought those days would ever end?\n\nThose were the bad old days\nBefore I had your love to guide me\nSad old days\nYou set me free from all those bad old days\nYou put all the good inside of me\n\nThose were the bad old days\n(Those were the sad old days)\nBefore I had you there besides me\nSad old days\nAnd can't you see? - you took the bad old days\nAnd you put all the good inside of me\n\nRemember who\nWalked into my life and put their foot inside my shoe\nNow what was just a place for one is home for two\nRemember why\nI'm gonna stay with you until the day I die\nWe can watch the good old days go by\n\nThose were the bad old days\nBefore I had your love to guide me\nSad old days\nYou set me free from all those bad old days\nYou put all the good inside of me\n\nOh dooby-doo…\nDooby-dooby-dooby-doo…\nAah…\n\nThose were the bad old days\n(Those were the sad old days)\nBefore I had you there beside me\nSad old days\n(Those were the sad old days)\nAnd can't you see you took the bad old days\nAnd you put all the good inside of me?\n\n(Those were the bad old days)\n(Those were the bad old days)\nYou put all the good inside of me\n(Those were the bad old days)\nAh…\n(Those were the bad old days)\nYou put аll the good inѕide of me"
+    }
+  ],
+  "bpm": 93,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Charles Brennan",
+    "Rita Crudgington",
+    "Josephine Andrews",
+    "Keith Haslar",
+    "Paul Rogers",
+    "Terence Bradford"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Alyn Ainsworth",
+  "lyricists": null,
+  "writers": [
+    "Stephanie de Sykes",
+    "Stuart Slater"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Terry Wogan"
+  ],
+  "jury": null,
+  "spokesperson": "Colin Berry"
+}

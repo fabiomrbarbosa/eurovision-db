@@ -1,0 +1,66 @@
+{
+  "id": 30,
+  "country": "EE",
+  "artist": "Malcolm Lincoln",
+  "song": "Siren",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/yFbVAQjESzE",
+    "https://www.youtube-nocookie.com/embed/KEcNfmuF4YA",
+    "https://www.youtube-nocookie.com/embed/Pllz_SZ1yL0",
+    "https://www.youtube-nocookie.com/embed/Pbg1sUk4bs0",
+    "https://www.youtube-nocookie.com/embed/1TrtGnbJoG0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Siren",
+      "content": "Siren in my head, is making an awful sound\nIt's time to make it clear\nWhat is lost and what is found?\n\nMy life has been oh lame\nHas been oh lame so far\nI wasted years, I wasted time\nTrying to reach the stars\nMy life has been oh lame\nHas been oh lame so far\n\nSo, give me time and give me strength\nGive me strength to carry on\nGive me bit of hope now, help me through the night\nSo, give me time and give me strength\nGive me strength to carry on\nGive me bit of hope now, help me through the night\n\nSiren in my head, yes, I can hear it again\nIs it just the beginning, or is it the end?\n\nMy life has been oh lame\nHas been oh lame so far\nI wasted years, I wasted time\nTrying to reach the stars\nMy life has been oh lame\nHas been oh lame so far\n\nSo, give me time and give me strength\nGive me strength to carry on\nGive me bit of hope now, help me through the night\nSo, give me time and give me strength\nGive me strength to carry on\nGive me bit of hope now, help me through the night\n\nSo, give me time and give me strength\nGive me strength to carry on\nGive me bit of hope now, help me through the night\nSo, give me time and give me strength\nGive me ѕtrength to cаrry on\nGive me bit of hope now, help me through the night"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Сирена",
+      "content": "Сирена в моей голове издаёт ужасный звук\nПришла пора прояснить\nЧто потеряно, а что найдено?\n\nМоя жизнь просто отстой\nНа данный момент отстой\nЯ потратил годы, потратил время\nПытаясь дотянуться до звёзд\nМоя жизнь просто отстой\nНа данный момент отстой\n\nДай мне время и дай мне сил\nДай мне сил двигаться дальше\nДай немного надежды, помоги пережить ночь\nДай мне время и дай мне сил\nДай мне сил двигаться дальше\nДай немного надежды, помоги пережить ночь\n\nСирена в моей голове, да, я снова её слышу\nЭто лишь начало или уже конец?\n\nМоя жизнь просто отстой\nНа данный момент отстой\nЯ потратил годы, потратил время\nПытаясь дотянуться до звёзд\nМоя жизнь просто отстой\nНа данный момент отстой\n\nДай мне время и дай мне сил\nДай мне сил двигаться дальше\nДай немного надежды, помоги пережить ночь\nДай мне время и дай мне сил\nДай мне сил двигаться дальше\nДай немного надежды, помоги пережить ночь\n\nДай мне время и дай мне сил\nДай мне сил двигаться дальше\nДай немного надежды, помоги пережить ночь\nДай мне время и дай мне сил\nДай мне сил двигаться дальше\nДай немного надежды, помоги пережить ночь"
+    }
+  ],
+  "bpm": 103,
+  "tone": "A minor",
+  "artistPeople": [
+    "Madis Kubu",
+    "Robin Juhkental"
+  ],
+  "backings": [
+    "Andrei Ozdoba",
+    "Jaanus Saago",
+    "Kristjan Knight",
+    "Mick Pedaja"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Robin Juhkental"
+  ],
+  "broadcaster": "ERR",
+  "commentators": [
+    "Marko Reikop",
+    "Sven Lõhmus"
+  ],
+  "jury": [
+    "Ewert Sundja",
+    "Gerli Padar",
+    "Imre Sooäär",
+    "Olav Osolin",
+    "Priit Pajusaar"
+  ],
+  "spokesperson": "Rolf Roosalu"
+}

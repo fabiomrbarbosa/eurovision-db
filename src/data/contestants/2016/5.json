@@ -1,0 +1,72 @@
+{
+  "id": 5,
+  "country": "FR",
+  "artist": "Amir",
+  "song": "J'ai cherché",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-aLPsiyavcU",
+    "https://www.youtube-nocookie.com/embed/boYQovCybYQ",
+    "https://www.youtube-nocookie.com/embed/t5-xYdQTCcA",
+    "https://www.youtube-nocookie.com/embed/9mzi7Qms9IE",
+    "https://www.youtube-nocookie.com/embed/hR5aWilaurE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french",
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "J'ai cherché",
+      "content": "J'ai cherché un sens à mon existence\nJ'y ai laissé mon innocence\nJ'ai fini le cœur sans défense\nJ'ai cherché\nL'amour et la reconnaissance\nJ'ai payé le prix du silence\nJe me blesse et recommence\n\nTu m'as Comme donné l'envie d'être moi\nDonné un sens à mes pourquoi\nTu as tué la peur\nQui dormait là, qui dormait là\nDans mes bras\n\nYou\nYou're the one that's making me strong\nI'll be looking, looking for\nYou\nLike the melody of my song\n\nYou\nYou're the one that's making me strong\nI'll be looking, looking for\nYou\nLike the melody of my song\n\nJ'ai cherché un sens\nUn point de repère\nPartagé en deux hémisphères\nComme une erreur de l'Univers\nJ'ai jeté tellement de bouteilles à la mer\nJ'ai bu tant de liqueurs amères\nQue j'en ai les lèvres de pierre\n\nYou\nYou're the one that's making me strong\nI'll be looking, looking for\nYou\nLike the melody of my song\n\nYou\nYou're the one that's making me strong\nI'll be looking, looking for\nYou\nLike the melody of my song\n\nAu gré de nos blessures\nEt de nos désinvoltures\nC'est quand on n'y croit plus du tout\nQu'on trouve un Paradis perdu\n\nEn nous\nOh, you, you, you, you\n\nYou\nYou're the one that's making me strong\nI'll be looking, looking, looking for\nYou\nLike the melody of my song\nLike the melody of my song\n\nYou\nYou're the one that's making me strong\nI'll be looking, looking for\nYou\nLike the melody of my song\nLike the melody of my song\n\nYou\nYou're the one that's mаking me strong\nI'll be looking, looking, looking for\nYou\nGive me your love with my song\nGive me your love with my ѕong"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I searched",
+      "content": "I have looked for a sense to my existence\nIt made me leave my innocence behind\nI've finished with an unprotected heart\nI have looked for…\nLove and recognition\nI have paid the price of silence\nI am getting hurt but starting all over again\n\nYou gave me the will to be myself\nGave a meaning to my questions\nYou have killed the fear that was sleeping here\nThat was sleeping here\nIn my arms\n\nYou\nYou're the one that's making me strong\nI'll be looking, looking for\nYou\nLike the melody of my song\n\nYou\nYou're the one that's making me strong\nI'll be looking, looking for\nYou\nLike the melody of my song\n\nI have looked for, a direction, a landmark\nSplit into two hemispheres\nLike a mistake of the universe\nI have thrown…\nToo many bottles to the sea\nDrank so much bitter liquor\nIt made my lips as cold as stone\n\nYou\nYou're the one that's making me strong\nI'll be looking, looking for\nYou\nLike the melody of my song\n\nYou\nYou're the one that's making me strong\nI'll be looking, looking for\nYou\nLike the melody of my song\n\nAlong our injuries\nAnd our flippancies\nIt's when we completely lose our faith\nThat we find a lost paradise inside ourselves\n\nWithin us\nOh, you, you, you, you\n\nYou\nYou're the one that's making me strong\nI'll be looking, looking, looking for\nYou\nLike the melody of my song\nLike the melody of my song\n\nYou\nYou're the one that's making me strong\nI'll be looking, looking for\nYou\nLike the melody of my song\nLike the melody of my song\n\nYou\nYou're the one that's mаking me strong\nI'll be looking, looking, looking for\nYou\nGive me your love with my song\nGive me your love with my ѕong"
+    }
+  ],
+  "bpm": 122,
+  "tone": "C# major",
+  "artistPeople": [
+    "Laurent Amir Khlifa Khedider Haddad"
+  ],
+  "backings": [
+    "Delphine Elbé",
+    "Fred D'Angelo",
+    "Ivan Pavlak",
+    "Lars Hägglund"
+  ],
+  "dancers": null,
+  "stageDirector": "Hortense Boyer",
+  "composers": [
+    "Amir Haddad",
+    "Johan Errami",
+    "Nazim Khaled"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Amir Haddad",
+    "Nazim Khaled"
+  ],
+  "writers": null,
+  "broadcaster": "France 2",
+  "commentators": [
+    "Jarry",
+    "Marianne James",
+    "Stéphane Bern"
+  ],
+  "jury": [
+    "Dumè",
+    "Léa Ivanne",
+    "Roberto Ciurleo",
+    "Sarah Caillibot",
+    "Thomas Pat Angeli"
+  ],
+  "spokesperson": "Élodie Gossuin"
+}

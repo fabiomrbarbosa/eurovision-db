@@ -1,0 +1,52 @@
+{
+  "id": 13,
+  "country": "FR",
+  "artist": "Christine Minier",
+  "song": "Les mots d'amour n'ont pas de dimanche",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/wrVTbskBNBA",
+    "https://www.youtube-nocookie.com/embed/E08kJqA8d6g"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Les mots d'amour n'ont pas de dimanche",
+      "content": "Petite fille tranquille, petite fille fragile\nElle demande qu'on l'aime à force de \"je t'aime\"\nLa passion au fond des yeux, couleur ciel bleu\nElle parle tout bas, écoute-la\n\nLes mots d'amour n'ont pas de dimanche\nPourquoi les retenir? Ils viennent du cœur\nLes mots d'amour n'ont pas de dimanche\nMagique musique du cœur pour le bonheur\n\nComme je lui ressemble et comme elle, je tremble\nJ'veux encore rêver, j'veux encore espérer\nLa passion au fond des yeux, couleur ciel bleu\nUn peu de chaleur, plus avoir peur\n\nLes mots d'amour n'ont pas de dimanche\nPourquoi les retenir? Ils viennent du cœur\nLes mots d'amour n'ont pas de dimanche\nMagique musique du cœur pour le bonheur\n\nIl faut dire ce que tu ressens\nÇa n'est pas facile autrement de te comprendre\nFais comme l'enfant qui ne triche pas\nQuand il aime, il te tend les bras\nAlors n'oublie pas\n\nLes mots d'amour n'ont pas de dimanche\nPourquoi les retenir? Ils viennent du cœur\nLes mots d'amour n'ont pas de dimanche\nMagique musique du cœur pour le bonheur\n\nLes mots d'amour n'ont pas de dimanche\nMаgique muѕique du cœur pour le bonheur"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The words of love don't have a Sunday",
+      "content": "Little quiet girl, little fragile girl\nShe asks to be loved with a persistent \"I love you\"\nThe passion deep down her sky-blue eyes\nShe speaks very quietly, listen to her\n\nThe words of love don't have a Sunday\nWhy restrain them? They come from the heart\nThe words of love don't have a Sunday\nMagical music from the heart for happiness\n\nI look like her and I shiver like her\nI still want to dream, I still want to hope\nThe passion deep down her sky-blue eyes\nA bit of warmth, no more fear\n\nThe words of love don't have a Sunday\nWhy restrain them? They come from the heart\nThe words of love don't have a Sunday\nMagical music from the heart for happiness\n\nYou must say what you feel\nOtherwise it's not easy to understand you\nDo as the child who is not cheating\nWhen he loves, he holds out his arms to you\nSo don't forget\n\nThe words of love don't have a Sunday\nWhy restrain them? They come from the heart\nThe words of love don't have a Sunday\nMagical music from the heart for happiness\n\nThe words of love don't have a Sunday\nMagical music from the heart for hаppinesѕ"
+    }
+  ],
+  "bpm": 144,
+  "tone": "D major",
+  "artistPeople": [
+    "Christine Minier"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Gerard Curci"
+  ],
+  "conductor": "Jean-Claude Petit",
+  "lyricists": [
+    "Marc Minier"
+  ],
+  "writers": null,
+  "broadcaster": "A2F",
+  "commentators": [
+    "Patrick Simpson-Jones"
+  ],
+  "jury": null,
+  "spokesperson": "Lionel Cassan"
+}

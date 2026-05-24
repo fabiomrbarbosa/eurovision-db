@@ -1,0 +1,61 @@
+{
+  "id": 1,
+  "country": "FR",
+  "artist": "Paule Desjardins",
+  "song": "La Belle Amour",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/g2-XDnBHEbc",
+    "https://www.youtube-nocookie.com/embed/wFLxQIt6MSs"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "La Belle Amour",
+      "content": "Si vous aimez la nature, les lilas, les p'tits oiseaux\nLe Muscadet, la friture et la belle aventure\nSuivez le bord de l'eau\n\nVous verrez une guinguette où vous pourrez vous griser\nAux flonflons d'un bal musette, des yeux clairs de Lisette\nAvant de décider dans un baiser de tout oser\n\nComme l'eau coule à la fontaine, cette chanson\nC'est la chanson que filles et garçons chantent chacun à sa façon\nElle sera, la chose est certaine, dans tous les cœurs\nEt pour toujours – la chanson de la belle amour\n\nReprenons-la sous les lilas et lon lon la par-ci par-là\nC'est la belle amour\nLa belle amour\n\nCependant voici l'automne, la guinguette aux volets clos\nN'a plus d'amoureux, personne ne vient quand l'heure sonne\nRêver au bord de l'eau\n\nC'est le bal des feuilles mortes qui dansent sur le gravier\nEt qui vont de porte en porte au vent qui les emporte\nTournoyer par milliers en attendant quoi? – Le printemps\n\nC'est la chanson d'amour\nLa belle chanson d'amour\n\nReprenons-la sous les lilas et lon lon la par-ci par-là\nC'est la belle amour\nC'eѕt la belle amour\nLa belle аmour"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The beautiful love",
+      "content": "If you like nature, lilacs and birdies\nMuscadet, fried foods and the beautiful adventure\nFollow the water side\n\nYou'll see a ballroom where you could get drunk\nIn Lisette's clear eyes, on the pom-poms of a musette ball\nBefore deciding in a kiss to dare everything\n\nLike the water flows in the fountain, this song\nIs the song that girls and boys each sing their own way\nIt will be in everybody's hearts, that's for sure\nIt will be there forever – the song of the beautiful love\n\nLet's sing it again under the lilacs and lalala here and there\nIt's the beautiful love\nThe beautiful love\n\nHowever the autumn has come, the ballroom with closed shutters\nDoesn't have lovers anymore, nobody comes when it's time\nTo dream along the water side\n\nIt's the ball of the dead leaves, which dance on the gravel\nAnd go from door to door, taken along by the wind\nWhirling by thousands, waiting for what? – For spring\n\nIt's the love song\nThe beautiful love song\n\nLet's sing it again under the lilacs and lalala here and there\nIt's the beautiful love\nIt'ѕ the beautiful love\nThe beаutiful love"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Прекрасная любовь",
+      "content": "Если вы любите природу, сирень и маленьких птичек\nМускаде, жареную рыбу и приключения\nИдите вдоль кромки воды\n\nВы увидите кафе, где можно напиться\nПод звуки мюзетты, под ясные глаза Лизетты\nПрежде чем в поцелуе решиться на все\n\nКак вода из фонтана, эта песня\nЭту песню поют и девушки, и парни, каждый по-своему\nОна обязательно будет в сердце каждого\nИ навсегда - песня прекрасной любви\n\nДавайте споем ее снова под сиренью, споем ее здесь и там\nЭто прекрасная песня о любви\nПрекрасная любовь\n\nНо сейчас осень, кафе с закрытыми ставнями\nНет больше влюбленных, никто не приходит, когда звенит час\nЧтобы помечтать у воды\n\nМертвые листья танцуют на гравии\nИ ветер разносит их от двери к двери\nКружатся тысячами, ожидая чего? - Весенней поры\n\nЭто песня любви\nПрекрасная песня любви\n\nДавайте споем ее снова под сиренью, споем ее здесь и там\nЭто прекрасная песня о любви\nЭто прекрасная песня о любви\nПрекрасная любовь"
+    }
+  ],
+  "bpm": 100,
+  "tone": "Bb minor",
+  "artistPeople": [
+    "Paule Desjardins"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Guy Lafarge"
+  ],
+  "conductor": "Paul Durand",
+  "lyricists": [
+    "Francis Carco"
+  ],
+  "writers": null,
+  "broadcaster": "RTF",
+  "commentators": [
+    "Robert Beauvais"
+  ],
+  "jury": null,
+  "spokesperson": "Claude Darget"
+}

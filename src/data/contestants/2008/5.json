@@ -1,0 +1,84 @@
+{
+  "id": 5,
+  "country": "RS",
+  "artist": "Jelena Tomašević feat. Bora Dugic",
+  "song": "Oro",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/d3NMkyDSEb0",
+    "https://www.youtube-nocookie.com/embed/20LjbbPH0Dk",
+    "https://www.youtube-nocookie.com/embed/TR8f6LnEmkw",
+    "https://www.youtube-nocookie.com/embed/2dBKFWlHJIg",
+    "https://www.youtube-nocookie.com/embed/u4qvPAN0pXg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "serbian"
+      ],
+      "displayedLanguages": [
+        "srpski"
+      ],
+      "title": "Oro",
+      "content": "Ko li miluje milo moje?\nKo li usne te snene budi?\nNe zaboravi ime moje\nKada krene da, da te ljubi\nKlasje moje ne spavaj\nNjega ljubi, mene uspavaj\n\nNe lomi mi led, vodu nema\nNe soli mi ranu, suza nema\nKo li zaigra oro moje\nNeka ne igra za nas dvoje\nKlasje, mene uѕpavaj\n\nNuna nej, nuna nuna nuna nuna nuna nej\nNuna nej, nuna nuna nuna nuna nuna nej\nNa Vidovdan, probudi me, da ga opet pogledam\n\nNuna nej, nuna nuna nuna nuna nuna nej\nNuna nej, nuna nuna nuna nuna nuna nej\nNa Vidovdan, probudi me, da ga opet pogledam\nNa Vidovdan, probudi me, još jednom da ga pogledаm"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "serbian"
+      ],
+      "displayedLanguages": [
+        "српски"
+      ],
+      "title": "Оро",
+      "content": "Ко ли милује мило моје?\nКо ли усне те снене буди?\nНе заборави име моје\nКада крене да, да те љуби\nКласје моје не спавај\nЊега љуби, мене успавај\n\nНе ломи ми лед, воду нема\nНе соли ми рану, суза нема\nКо ли заигра оро моје\nНека не игра за нас двоје\nКласје, мене успавај\n\nНуна неј, нуна нуна нуна нуна нуна неј\nНуна неј, нуна нуна нуна нуна нуна неј\nНа Видовдан, пробуди ме, да га опет погледам\n\nНуна неј, нуна нуна нуна нуна нуна неј\nНуна неј, нуна нуна нуна нуна нуна неј\nНа Видовдан, пробуди ме, да га опет погледам\nНа Видовдан, пробуди ме, још једном да га погледам"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Oro",
+      "content": "Who caresses my loved one?\nWho kisses those sleepy lips?\nDon't forget my name\nWhen she begins to kiss you\nMy dear cornstalks, don't sleep\nKiss him, and put me asleep\n\nDon't break my ice, there's no water within\nDon't put salt on my wound, I have no more tears\nWhoever dances my Oro\nHe shouldn't dance it for the two of us\nCornstalks, put me to sleep\n\nNuna ney, nuna nuna nuna nuna nuna ney\nNuna ney, nuna nuna nuna nuna nuna ney\nWake me on Saint Vitus' day, to look at him again\n\nNuna ney, nuna nuna nuna nuna nuna ney\nNuna ney, nuna nuna nuna nuna nuna ney\nWake me on Saint Vitus' day, to look at him again\nWake me on Saint Vituѕ' day, to look аt him once more"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "polish"
+      ],
+      "displayedLanguages": null,
+      "title": "Oro",
+      "content": "Kto Cię miłuje, kochanie moje?\nKto usta te senne budzi?\nNie zapomnij imienia mojego\nKiedy zaczną Cię całować\nKłosie mój, nie śpij\nPocałuj jego, usypiaj mnie\n\nNie łam mi lodu, wody nie mam\nNie sól mi rany, łez nie mam\nKto zatańczy oro moje?\nNiech nie tańczy za nas dwoje\nKłosie, usypiaj mnie\n\nNuna nej nuna, nuna, nuna, nuna, nuna nej\nNuna nej nuna, nuna, nuna, nuna, nuna nej\nNa Dzień Świętego Wita obudź mnie, żebym znowu na niego spojrzała\n\nNuna nej nuna, nuna, nuna, nuna, nuna nej\nNuna nej nuna, nuna, nuna, nuna, nuna nej\nNa Dzień Świętego Wita obudź mnie\nŻebym znowu na niego ѕpojrzałа"
+    }
+  ],
+  "bpm": 124,
+  "tone": "A minor",
+  "artistPeople": [
+    "Jelena Tomašević"
+  ],
+  "backings": [
+    "Aleksandar Sedlar Bogoev",
+    "Bora Dugić",
+    "Jelena Mitić",
+    "Marko Vulinović",
+    "Mirjana Nešković"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Željko Joksimović"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Dejan Ivanović"
+  ],
+  "writers": null,
+  "broadcaster": "RTS",
+  "commentators": [
+    "Dragan Ilić",
+    "Mladen Popović"
+  ],
+  "jury": null,
+  "spokesperson": "Dušica Spasić"
+}

@@ -1,0 +1,63 @@
+{
+  "id": 14,
+  "country": "ES",
+  "artist": "Daniel Diges",
+  "song": "Algo pequeñito",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/6gltZu8lsFc",
+    "https://www.youtube-nocookie.com/embed/IGlKLUujURk",
+    "https://www.youtube-nocookie.com/embed/TS9C3wGgINc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Algo pequeñito",
+      "content": "Algo pequeñito, algo chiquitito\nUna rosa blanca, una caricia, un beso dulce y un perdón\nAlgo pequeñito, algo chiquitito\nUn gesto tierno, una mirada, un abrazo o una flor\n\nAlgo pequeñito, algo chiquitito\nUn simple te quiero, con dulzura, con cariño y con pasión\nEs lo que te pido amor, mi vida se derrumba, me partes el corazón\nTrata pronto de cambiar, el tiempo se termina ahora de verdad\n\nAlgo pequeñito, whoa... algo chiquitito, whoa...\nCosas simples que ahora no me das\nQue te pido con locura si no quieres terminar\n\nAlgo pequeñito, whoa... algo chiquitito, whoa...\nEn tus manos tienes la ocasión\nHoy decides si quererme o romperme el corazón\n\nAlgo pequeñito, algo muy bonito\nTu pelo al viento que se enreda entre mis manos al calor\nHas sabido comprender que las pequeñas cosas son las que hacen esto arder\nAhora trata de cambiar que el resto de las cosas ya se arreglarán\n\nAlgo pequeñito, whoa... algo chiquitito, whoa...\nCosas simples que ahora si me das\nQue te quiero con locura y siempre yo te voy a amar\n\nAlgo pequeñito, whoa... algo chiquitito, whoa...\nEn tus manos tienes la ocasión\nDecidiste tú quererme y no romperme el corazón\nY no romperme el corazón\n\nAlgo pequeñito, whoa... algo chiquitito, whoa...\nCosas simples que ahora no me das\nQue te pido con locura si no quieres terminar\n\nAlgo pequeñito, whoa... algo chiquitito, whoa...\nEn tus manos tienes la ocasión\nHoy decides ѕi quererme o romperme el corаzón"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Something tiny",
+      "content": "Something tiny, something very small\nA white rose, a caress, a sweet kiss and an apology\nSomething tiny, something very small\nA tender gesture, a glance, a hug or a flower\n\nSomething tiny, something very small\nA simple \"I love you\", with sweetness, with care and with passion\nIs what I ask of you, my love, my life is falling down, you're breaking my heart\nTry to change soon, time is now really running out\n\nSomething tiny, whoa... something very small, whoa...\nSimple things you don't give me any more\nWhich I ask of you like crazy if you don't want this to be over\n\nSomething tiny, whoa... something very small, whoa...\nYou've got the chance in your hands\nToday you decide whether to love me or break my heart\n\nSomething tiny, something very beautiful\nYour hair in the wind that gets tangled between my hands getting warm\nYou've got to realise that it's small things that make this burn\nNow try to change, 'cause everything else will eventually be sorted out\n\nSomething tiny, whoa... something very small, whoa...\nSimple things you do give me now\n'Cause I love you madly and I will always love you\n\nSomething tiny, whoa... something very small, whoa...\nYou've got the change in your hands\nYou decided to love me and not to break my heart\nAnd not to break my heart\n\nSomething tiny, whoa... something very small, whoa...\nSimple things you don't give me any more\nWhich I ask of you like crazy if you don't want this to be over\n\nSomething tiny, whoa... something very small, whoa...\nYou've got the chance in your handѕ\nToday you decide whether to love me or break my heаrt"
+    }
+  ],
+  "bpm": 178,
+  "tone": "D minor",
+  "artistPeople": [
+    "Daniel Diges García"
+  ],
+  "backings": [
+    "África Martínez",
+    "Arnaldo Iasorli",
+    "David Velardo",
+    "Margalida Riera",
+    "Yuri Olmechenko"
+  ],
+  "dancers": null,
+  "stageDirector": "Maite Marcos",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Jesús Cañadilla"
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "José Luis Uribarri"
+  ],
+  "jury": [
+    "José María Íñigo",
+    "Mariola Orellana",
+    "Mauro Canut",
+    "Pilar Tabares",
+    "Toni Garrido"
+  ],
+  "spokesperson": "Ainhoa Arbizu"
+}

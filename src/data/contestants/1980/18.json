@@ -1,0 +1,58 @@
+{
+  "id": 18,
+  "country": "FI",
+  "artist": "Vesa-Matti Loiri",
+  "song": "Huilumies",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/LhVSm6LdgqQ",
+    "https://www.youtube-nocookie.com/embed/_2iJUxwz4ss",
+    "https://www.youtube-nocookie.com/embed/7ud3uTGbDjE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Huilumies",
+      "content": "On tässä huilu ja huilumies\nEn täytä mittaa normien\nSormien soutelun huoleni huilutan\nJos en lausein tunteita tulkita voi\nNiille varmasti huilu soi\nJa niistä sielun soinnut pienoisen lauluni loi\n\nOn siinä aamun kastehelmien tuoksu\nOn kevät lämmin vuoripuron juoksu\nKaiken sen minkä aistin huiluni soi\nOn siinä hiiltyvä ilta, auringon rusko\nParempien päivien sammumaton usko\nOn syksyn kuolevaa ruskaa, on elämä tuskaa\nSen huiluni soi\n\nOn tässä huilu ja huilumies\nMä näen luonnon tauluna lauluna teille sen kaiken mä soinnutan\nJa näin riemut, surut ja arkikin soi\nJos en tuntea oikein voi\nOn joka pettymys, nauru sykkivät sointuni loi\n\nOn siinä päiväperhon leikkivä liito\nSammuvan tähden öinen viime kiito\nKaiken sen minkä aistin huiluni soi\nOn siinä tuiskuvan talven hyytävä halla\nIhmisen pienuus kaikkeuden alla\nOn syksyn kuolevaa ruskaa, on elämä tuskaa\nSen huiluni soi\n\nOn siinä päiväperhon leikkivä liito\nSammuvan tähden öinen viime kiito\nKaiken sen minkä aistin huiluni soi\nOn siinä tuiskuvan talven hyytävä halla\nIhmisen pienuus kaikkeuden alla\nOn syksyn kuolevaa ruskaa, on elämä tuskaа\nSen huiluni ѕoi"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "A flute man",
+      "content": "Here's a flute and a flute man\nI'm not playing to the standards\nI flute away my troubles\nIf I can't interpret my feelings with words\nMy flute surely plays for them\nAnd from them the sounds of my soul created my little song\n\nThere is the smell of the morning dew\nThe warmth of spring, the running water of the mountain stream\nMy flute plays everything I feel\nThere is the darkening night, the colours of the sun\nThe never ending belief in a better future\nThere is autumn's sadness, there is the pain of life\nMy flute plays all that\n\nHere's a flute and a flute man\nI see nature as a painting, I will play it all to you in a song\nAnd this is how joy, sorrow and everyday life sounds\nIf I can't feel them right\nEvery disappointment, laughter is a reason for a song\n\nThere is the beautiful flight of a butterfly\nThe last flight of a fading star\nMy flute plays everything I feel\nThere is the chilly frost of the snowy winter\nThe smallness of man under the universe\nThere is autumn's sadness, there is the pain of life\nMy flute plays all that\n\nThere is the beautiful flight of a butterfly\nThe last flight of a fading star\nMy flute plays everything I feel\nThere is the chilly frost of the snowy winter\nThe smallness of man under the universe\nThere is autumn's sadness, there is the pain of life\nMy flute playѕ all thаt"
+    }
+  ],
+  "bpm": 161,
+  "tone": "C# major",
+  "artistPeople": [
+    "Vesa-Matti Loiri"
+  ],
+  "backings": [
+    "Irina Milan",
+    "Maarit Hurmerinta",
+    "Martti Metsäketo"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Aarno Raninen"
+  ],
+  "conductor": "Ossi Runne",
+  "lyricists": [
+    "Veikko 'Vexi' Salmi"
+  ],
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Aarre Elo",
+    "Heikki Harma"
+  ],
+  "jury": null,
+  "spokesperson": "Kaarina Pönniö"
+}

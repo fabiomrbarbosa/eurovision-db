@@ -1,0 +1,58 @@
+{
+  "id": 15,
+  "country": "CH",
+  "artist": "Rainy Day",
+  "song": "Welche Farbe hat der Sonnenschein?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/MgeHg45UQFg",
+    "https://www.youtube-nocookie.com/embed/ZjWaktlztN8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Welche Farbe hat der Sonnenschein?",
+      "content": "Schon als kleines Kind hab' ich nachgedacht\nWie man sowas malt, so ein Bild von der Welt\nUnd wer weiß, wie ein Maler das wohl macht?\n\nFarbenfroh und schön, voller Sonnenschein\nSah ich jeden Tag, aber dann in der Nacht\nDa fiel mir stets die gleiche Frage ein\n\nWelche Farbe hat der Sonnenschein?\nWelche Farbe hat die Welt?\nIst sie blau wie das weite Meer?\nWie das hohe Himmelszelt?\n\nWelche Farbe hat der Sonnenschein?\nEr wirft Schatten oder Licht\nSchau die Welt mit offnen Augen an\nSonst siehst du die Wunder nicht\n\nWie malt man das Glück? Einfach Zart in Rot?\nWie malt man den Schmerz? Welche Farbe hat Krieg?\nUnd wie malt man den Hunger und die Not?\n\nWelche Farbe hat der Sonnenschein?\nWelche Farbe hat die Welt?\nIst sie blau wie das weite Meer\nWie das hohe Himmelszelt?\n\nWelche Farbe hat der Sonnenschein?\nDa sind Bilder bunt und viel\nWie du alles auf der Erde siehst\nDas beѕtimmt ganz аllein dein Gefühl"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "What colour is the sunshine?",
+      "content": "Even when I was a little child, I thought about\nHow to paint a picture of the world\nAnd who knows how a painter can do it?\n\nColourful and beautiful, full of sunshine\nThat's how I saw every day, but only at night\nThe same question always crossed my mind\n\nWhat colour is the sunshine?\nWhat colour is the world?\nIs it blue like the open sea?\nLike the sky above?\n\nWhat colour is the sunshine?\nIt casts shadow or light\nLook at the world with open eyes\nOr you won't see the wonders\n\nHow to paint luck? Simply in fine red?\nHow to paint pain? What colour is war?\nHow to paint hunger and misery?\n\nWhat colour is the sunshine?\nWhat colour is the world?\nIs it blue like the open sea?\nLike the sky above?\n\nWhat colour is the sunshine?\nThere are many coloured pictures\nThe way you see things on eаrth\nIt depends only on your feelingѕ"
+    }
+  ],
+  "bpm": 92,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Frank Müller",
+    "Gerry Braukmann",
+    "Rose Rengel"
+  ],
+  "backings": [
+    "Manuela Felice",
+    "Thomas Wild",
+    "Walter Zweifel"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Mario Robbiani",
+  "lyricists": null,
+  "writers": [
+    "Günter Loose"
+  ],
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Bernard Thurnheer",
+    "Ezio Guidi",
+    "Serge Moisson"
+  ],
+  "jury": null,
+  "spokesperson": "Michel Stocker"
+}

@@ -1,0 +1,64 @@
+{
+  "id": 4,
+  "country": "FR",
+  "artist": "Rachel",
+  "song": "Le Chant de Mallory",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/wu7BImCXj9g",
+    "https://www.youtube-nocookie.com/embed/o9ioxOi1ZM8",
+    "https://www.youtube-nocookie.com/embed/zokezazj8U0",
+    "https://www.youtube-nocookie.com/embed/6q6xZWfJ3lQ",
+    "https://www.youtube-nocookie.com/embed/HsqqXNCIgVs"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Le Chant de Mallory",
+      "content": "Redis-moi, Mallory, la chanson que tu me chantais\nTa chanson de l'été dans le bleu du ciel irlandais\nTu n'avais que seize ans, moi, j'étais encore une enfant\nEt la nuit qui venait nous avait pris pour des amants\n\nToi, Mallory, tu chantais pour moi, le vent mélait nos cheveux\nEt je ne sais plus très bien pourquoi nous avons fermé les yeux\nSouviens-toi, Mallory, nous avons attendu le jour\nEn rêvant, tous les deux, je crois bien que c'était l'amour\n\nOù est-elle, Mallory, la chanson que tu me chantais?\nTa chanson de l'été dans le bleu du ciel irlandais\nLe soleil se couchait en jetant de l'or dans tes yeux\nOn jouait à s'aimer, mais pour toi ce n'était qu'un jeu\n\nOh Mallory, où est-il ce chant, ce chant d'amour de l'été?\nVers quel pays est parti le vent, le vent qui l'a remporté?\nTa chanson, Mallory, je la garderai pour toujours\nCar c'était la chanson, la chanson d'un premier amour\n\nLalala lalala… lalalalala lalala…\nCar c'était la chanson, la chanѕon d'un premier аmour"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Mallory's song",
+      "content": "Tell me again, Mallory, the song you sang to me\nYour summer song in the blue of the Irish sky\nYou were only sixteen years old, I still was a child\nAnd the night that came took us for lovers\n\nYou, Mallory, you sang for me, the wind ruffled our hair\nAnd I don't know anymore very well why we closed our eyes\nRemember, Mallory, we've waited for the day\nBy dreaming, both of us, I really believe that it was love\n\nWhere is it, Mallory, the song you sang to me?\nYour summer song in the blue of the Irish sky\nThe sun set, throwing gold in your eyes\nWe acted that we loved each other, but for you it was just a game\n\nOh Mallory, where is that song, that summer love song?\nTo which country did the wind go, the wind that carried it off?\nI'll keep your song forever, Mallory\nBecause it was the song, the song of a first love\n\nLalala lalala… lalalalala lalala…\nBecause it was the song, the song of а firѕt love"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Песнь Мэллори",
+      "content": "Напой мне вновь, Мэллори, песню, что ты мне пел\nПесню лет в голубом ирландском небе\nТебе было лишь шестнадцать лет, ая была еще ребенком\nИ наступающая ночь принимала нас за влюбленных\n\nТы, Мэллори, ты пел для меня, ветер спутывал наши волосы\nИ я уже не знаю почему мы закрывали глаза\nВспомни, Мэллори, мы ждали день\nОба предавшись мечтам, я думаю, что это точно была любовь\n\nГде она, Мэллори, песня, что ты пел мне\nПесня лета в голубом ирландском небе?\nСолнце пряталось, бросая золотые лучики в твои глаза\nМы играли в любовь друг с другом, но для тебя это не было игрой\n\nО, Мэллори, где эта песнь, эта песнь летней любви?\nВ какую страну улетел ветер, ветер, что ее унес?\nЯ буду хранить ее вечно\nВедь это песня, песня первой любви\n\nЛа ла ла ла…\nВедь это песня, песня первой любви"
+    }
+  ],
+  "bpm": 110,
+  "tone": "E major",
+  "artistPeople": [
+    "Rachel Ros"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "André Popp"
+  ],
+  "conductor": "Franck Pourcel",
+  "lyricists": [
+    "Pierre Cour"
+  ],
+  "writers": null,
+  "broadcaster": "RTF",
+  "commentators": [
+    "Robert Beauvais"
+  ],
+  "jury": null,
+  "spokesperson": "Claude Darget"
+}

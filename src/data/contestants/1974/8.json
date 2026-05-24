@@ -1,0 +1,57 @@
+{
+  "id": 8,
+  "country": "ES",
+  "artist": "Peret",
+  "song": "Canta y sé feliz",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/omMet0dAklI",
+    "https://www.youtube-nocookie.com/embed/cV5N5gjGugk",
+    "https://www.youtube-nocookie.com/embed/uKJfGejzatg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Canta y sé feliz",
+      "content": "Alegría, si quéreis tener, cantar, alegría de vivir\nPara disfrutar, cantar, canta y sé feliz\n\nSi la canción que yo canto no te llena de alegría\nPor más cosas que te diga (No sirve de ná')\nSi no tienes quien te quiera\nNi a quien decirle \"te quiero\"\nBuscar amor con dinero (No sirve de ná')\n\nSi eres tan inteligente que nadie puede entenderte\nEnfadarte con la gente (No sirve de ná')\nSi al sol no puedes tumbarte y en paz tomar una copa\nDecir que estás en Europa (No sirve de ná')\nNo sirve de ná', no sirve de ná', no sirve de ná'\n\nCantar a la vida si quéreis tener, cantar\nAlegría de vivir\nPara disfrutar, cantar, canta y sé feliz\nCantar conmigo para tener, cantar\nAlegría de vivir\nPara disfrutar, cantar, canta y sé feliz\n\nSi para olvidar las penas necesitas tomar vino\nNo lo hagas buen amigo (No sirve de ná')\nSi le paras a una rubia cuando vas por la autopista\nY luego es un estopista (No sirve de ná')\nNo sirve de ná', no sirve de ná', no sirve de ná'\n\nCantar a la vida si quéreis tener, cantar\nAlegría de vivir\nPara disfrutar, cantar, canta y sé feliz\nCantar conmigo para tener, cantar\nAlegría de vivir\nPara disfrutar, cantar, canta y sé feliz\n\n(Cantar) Ay, si queréis tener\n(Cantar) Alegría, sí\n(Cantar) Que para disfrutar\n(Cantar) Canta y sé feliz\n\nCantar conmigo para tener, cantar\nAlegría de vivir\nPara disfrutar, cantar, canta y sé feliz\n\n(Cantar) Si queréis tener\n(Cantar) Alegría de vivir\nPara disfrutar, cantar, canta y sé feliz\n\nCanta y sé feliz, canta y ѕé feliz, cantar y cantаr"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Sing and be happy",
+      "content": "Joy, if you want to have, sing the joy of living\nTo enjoy, sing, sing and be happy\n\nIf the song I sing doesn't fill you with joy\nThe more I tell you something (It's useless)\nIf you don't have someone who loves you\nOr someone to say \"I love you\"\nTo search for love with money (It's useless)\n\nIf you're so intelligent that no one understands you\nTo get mad at people (It's useless)\nIf you can't lie in the sun and take a drink in peace\nTo say you're in Europe (It's useless)\nIt's useless, it's useless, it's useless\n\nSing to life if you want to have, sing\nThe joy of living\nTo enjoy, sing, sing and be happy\nSing with me to have, sing\nThe joy of living\nTo enjoy, sing, sing and be happy\n\nIf you have to drink wine to forget your sorrows\nDon't do it my good friend (It's useless)\nIf you stop for a blond girl when you're on the motorway\nBut it appears to be a hitch-hiker (It's useless)\nIt's useless, it's useless, it's useless\n\nSing to life if you want to have, sing\nThe joy of living\nTo enjoy, sing, sing and be happy\nSing with me to have, sing\nThe joy of living\nTo enjoy, sing, sing and be happy\n\n(Sing) Ay, if you want to have\n(Sing) Joy, yes\n(Sing) To enjoy\n(Sing) Sing and be happy\n\nSing with me to have, sing\nThe joy of living\nTo enjoy, sing, sing and be happy\n\n(Sing) If you want to have\n(Sing) The joy of living\nTo enjoy, sing, sing and be happy\n\nSing and be happy, sing and be happy, sing аnd ѕing"
+    }
+  ],
+  "bpm": 103,
+  "tone": "Ab minor",
+  "artistPeople": [
+    "Pedro Pubill Calafat Moya"
+  ],
+  "backings": [
+    "Antonio Valenti",
+    "Consuelo Pubill",
+    "Juan Calabuch",
+    "Pedro Reyes",
+    "Teresa Pubill"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Rafael de Ibarbia Serra",
+  "lyricists": null,
+  "writers": [
+    "Peret"
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "José Luis Uribarri"
+  ],
+  "jury": null,
+  "spokesperson": "Antolín García"
+}

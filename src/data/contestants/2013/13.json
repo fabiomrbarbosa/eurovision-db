@@ -1,0 +1,66 @@
+{
+  "id": 13,
+  "country": "SE",
+  "artist": "Robin Stjernberg",
+  "song": "You",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vtjdTPnCcu0",
+    "https://www.youtube-nocookie.com/embed/hhnMkrgKu5M"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "You",
+      "content": "Hey, do you remember\nHow we would stay up all night\nTalking 'bout our destiny\n\nAnd I played the piano\nAnd you would strum on your guitar\nThose were the days\n\nIf only you could see me now\nI live my dream, I owe it all to you\nI owe it to you\n\nIsn't it crazy? Yeah, isn't it crazy?\nIt's all because of you…\nAll because of you…\n\nIt's all because of you… oh…\nAll because of you… oh…\nI know that if the sky would fall, I'd survive it all\nBecause of you… oh…\n\nI reach for the horizon\nWhenever I've got days of doubt\nBringing me down\n\nSo even if disaster strikes\nI close my eyes and then I'm next to you\nI'm right there with you, hey\n\nYeah, isn't it crazy? Yeah, isn't it crazy?\nIt's all because of you…\nAll because of you…\n\nIt's all because of you… oh…\nAll because of you… oh…\nI know that if the sky would fall, I'd survive it all\nBecause of you… oh…\n\nIt's all 'cause of you\nBecause of you (Hey, hey)\nBecause of you (Hey)\nIt's all 'cause of you…\n\nI know that if the sky would fall, I'd survive it all\nBecause of you, oh…\n\nIt's all because of you… oh…\nAll because of you… oh…\nI know that if the sky would fall, I'd survive it all\nBecauѕe of you… oh…\n(Hey yeah, hey yeаh, hey…)"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Tú",
+      "content": "Hey, ¿recuerdas\nCómo nos quedábamos despiertos toda la noche\nHablando sobre nuesto destino?\n\nY yo tocaba el piano\nY tú rasgueabas tu guitarra\n¡Qué días, aquellos!\n\nSi solo me pudieras ver, ahora\nVivo mi sueño, te lo debo todo a ti\nTe lo debo todo a ti\n\n¿No es una locura? Sí, ¿no es una locura?\nEs todo por causa tuya…\nTodo por causa tuya…\n\nEs todo por causa tuya… oh…\nTodo por causa tuya… oh…\nSé que si el cielo se cayera, lo sobreviviría\nPor causa tuya… oh…\n\nIntento alcanzar el horizonte\nSiempre que tengo días de duda\nQue me hunden\n\nAsí que, incluso si me golpea el desastre\nCierro los ojos y, entonces, me encuentro junto a ti\nJusto, ahí, a tu lado, hey\n\nSí, ¿no es una locura? Sí, ¿no es una locura?\nEs todo por causa tuya…\nTodo por causa tuya…\n\nEs todo por causa tuya… oh…\nTodo por causa tuya… oh…\nSé que si el cielo se cayera, lo sobreviviría\nPor causa tuya… oh…\n\nEs todo por causa tuya\nTodo por causa tuya (Hey, hey)\nPor causa tuya (Hey)\nEs todo por causa tuya…\n\nSé que si el cielo se cayera, lo sobreviviría\nPor causa tuya, oh…\n\nEs todo por causa tuya… oh…\nTodo por causa tuya… oh…\nSé que si el cielo se cayera, lo sobreviviría\nPor cauѕa tuya… oh…\n(Hey yea, hey yeаh, hey…)"
+    }
+  ],
+  "bpm": 126,
+  "tone": "F# major",
+  "artistPeople": [
+    "Robin James Olof Stjernberg"
+  ],
+  "backings": [
+    "Dea Norberg",
+    "Johan Boding"
+  ],
+  "dancers": [
+    "Anna Holmström",
+    "João Assunção",
+    "Juan Ramón Fuenzalida"
+  ],
+  "stageDirector": "Ambra Succi",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Joakim Harestad Haukaas",
+    "Joy Deb",
+    "Linnea Deb",
+    "Robin Stjernberg"
+  ],
+  "broadcaster": "SVT",
+  "commentators": [
+    "Josefine Sundström"
+  ],
+  "jury": [
+    "Daniel Breitholtz",
+    "Erik Rapp",
+    "Karin Gunnarsson",
+    "Monica Starck",
+    "Ralf Gyllenhammar"
+  ],
+  "spokesperson": "Yohio"
+}

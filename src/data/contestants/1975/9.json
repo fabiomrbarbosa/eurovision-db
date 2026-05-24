@@ -1,0 +1,68 @@
+{
+  "id": 9,
+  "country": "ES",
+  "artist": "Sergio & Estíbaliz",
+  "song": "Tú volverás",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/sZ2IljyBKYY",
+    "https://www.youtube-nocookie.com/embed/VD5bu22IKZM",
+    "https://www.youtube-nocookie.com/embed/adwyr8hZw6w",
+    "https://www.youtube-nocookie.com/embed/rVwtfJcbmsI",
+    "https://www.youtube-nocookie.com/embed/X03nvJ1CHcM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Tú volverás",
+      "content": "Volverás a ser la chica sencilla\nQue tomó el tren de la vida antes de ser mujer\n\nVolverás, bájate en marcha si puedes\nY aunque los años no vuelven\nTú volverás, volverás\nToma tu vida y tu mochila\n\nVolverás, aunque vestida de olvido\nIncluso para el amigo que te enseñó a besar\n\nVolverás, siempre es más corto el camino\nY aunque vuelvas de vacío\nVolverás, volverás\nToma tu vida y tu mochila\nVuelve ya\n\nSé que abandonaste tus olivos\nTu familia y amigos por triunfar\nPero no te importe si alguien piensa\nQue has jugado y perdido, vuelve ya\n\nVolverás ahora que el tren se detiene\nQue ya ha nevado en tus sienes\nVolverás… volverás\nToma tu vida y tu mochila\nVuelve ya\n\nVolverás, volverás\nToma tu vida y tu mochilа\nVolveráѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "You'll return",
+      "content": "You'll return to be again the natural girl\nWho took the life train before becoming woman\n\nYou'll return, get off if you can\nAnd even though years can't come back\nYou'll return, you'll return\nTake your life and your backpack\n\nYou'll return, though dressed in forgetfulness\nEven for the friend that taught you to kiss\n\nYou'll return, the path is always shorter\nAnd even if you return empty-handed\nYou'll return, you'll return\nTake your life and your backpack\nReturn now\n\nI know you left your olive trees behind\nYour family and friends to triumph\nBut don't be worried if someone thinks\nThat you played and lost, return now\n\nYou'll return, now the train has stopped\nNow it has snowed in your templeѕ\nYou'll return, you'll return\nTake your life and your backpack\nReturn now\n\nYou'll return, you'll return\nTake your life and your backpаck\nReturn now"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Tu voltarás",
+      "content": "Voltarás a ser a rapariga simples\nQue apanhou o comboio da vida antes de ser mulher\n\nVoltarás, sai em andamento se puderes\nE ainda que os anos não voltem\nTu voltarás, voltarás\nLeva a tua vida e a tua mochila\n\nVoltarás, ainda que vestida de esquecimento\nAté mesmo para o amigo que te ensinou a beijar\n\nVoltarás, o caminho é sempre mais curto\nE ainda que voltes de mãos vazias\nVoltarás, voltarás\nLeva a tua vida e a tua mochila\nVolta já\n\nSei que abandonaste os teus olivais\nA tua família e os teus amigos para triunfar\nMas não te importes se alguém pensar\nQue jogaste e perdeste, volta já\n\nVoltarás agora que o comboio para\nQue já nevou no teu cabelo\nVoltarás… voltarás\nLeva a tua vida e a tua mochila\nVolta já\n\nVoltarás, voltarás\nLeva a tua vida e a tua mochila\nVoltаráѕ"
+    }
+  ],
+  "bpm": 91,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Estíbaliz Uranga Amézaga",
+    "Sergio Blanco Rivas"
+  ],
+  "backings": [
+    "Carlos",
+    "Francisco",
+    "María Jesús Aguirre",
+    "Mercedes Valimaña"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Juan Carlos Calderón López De Arroyabe",
+  "lyricists": null,
+  "writers": [
+    "Juan Carlos Calderón"
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "José Luis Uribarri"
+  ],
+  "jury": null,
+  "spokesperson": "José María Íñigo"
+}

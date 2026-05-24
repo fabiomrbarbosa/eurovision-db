@@ -1,0 +1,54 @@
+{
+  "id": 12,
+  "country": "SE",
+  "artist": "Family Four",
+  "song": "Härliga sommardag",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/7xpOEArqJQc",
+    "https://www.youtube-nocookie.com/embed/bxFcQDFchlg",
+    "https://www.youtube-nocookie.com/embed/Hi84A4GYZBU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Härliga sommardag",
+      "content": "Morgonsol glittrar i viken\nDagen gryr, sista gång blinkar Hanö fyr\nSer du vår segelbåt, hör du musiken?\nNär vi styr mot ett nytt äventyr\n\nNynna en sång, tralla en trall\nGnola en låt som minner om sommar\nKänn hur det doftar ifrån salta hav\nNär vi nynnar en sång, trallar en trall\nGnolar en låt som minner om sommar\nSjung om en härlig sommardag\n\nVind från öst, rykande vågor och vita gäss\nSvällande segel som slår när vi går mot vår ö\n\nI en vik kastar vi ankar\nTar ett dopp, har det skönt på en solvarm häll\nInnan i sakta mak hemåt vi vankar\nÖver ön i en skön sommarkväll\n\nNynna en sång, tralla en trall\nGnola en låt som minner om sommar\nKänn hur det doftar ifrån salta hav\nNär vi nynnar en sång, trallar en trall\nGnolar en låt som minner om sommar\nSjung om en härlig sommar… sommar…\n\nLa la la la la la la la… la la la la la la la la la la…\nLa la la la la la la la la la…\nLa la la la la la la la la la… la la la la la la la la la la…\n\nSjung om en härlig sommar…\nHärliga dag, härliga ѕommardаg"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Lovely summer's day",
+      "content": "The morning sun glitters in the bay\nThe day dawns, and for the last time the Hanö lighthouse flashes\nCan you see our sailing boat, can you hear the music\nAs we steer towards a new adventure\n\nHum a song, sing a melody\nHum a tune that reminds you of summer\nFeel the scent of the salty seas\nAs we're humming a song, singing a melody\nHumming a tune that reminds you of summer\nSing about a lovely summer's day\n\nWind from the east, steaming waves and whitecaps\nFilling sails that flap as we go towards our island\n\nIn a bay we cast anchor\nHave a dip, have a good time on a flat rock, warmed by the sun\nBefore we walk home at an easy pace\nOn the island on a nice summer's night\n\nHum a song, sing a melody\nHum a tune that reminds you of summer\nFeel the scent of the salty seas\nAs we're humming a song, singing a melody\nHumming a tune that reminds you of summer\nSing about a lovely summer, summer\n\nLa la la la la la la la… la la la la la la la la la la…\nLa la la la la la la la la la…\nLa la la la la la la la la la… la la la la la la la la la la…\n\nSing about a lovely summer\nLovely day, lovely summer'ѕ dаy"
+    }
+  ],
+  "bpm": 178,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Agneta Munther",
+    "Berndt Öst",
+    "Marie Bergman",
+    "Pierre Isacsson"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Mats Olsson",
+  "lyricists": null,
+  "writers": [
+    "Håkan Elmquist"
+  ],
+  "broadcaster": "SR",
+  "commentators": [
+    "Bo Billtén"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

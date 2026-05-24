@@ -1,0 +1,60 @@
+{
+  "id": 11,
+  "country": "IS",
+  "artist": "Sigga",
+  "song": "Nætur",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/pO5yJbkOr8A",
+    "https://www.youtube-nocookie.com/embed/9m6e2RFKS6I",
+    "https://www.youtube-nocookie.com/embed/luICrd2FxQQ",
+    "https://www.youtube-nocookie.com/embed/2t3ZVBfwJtM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "icelandic"
+      ],
+      "displayedLanguages": null,
+      "title": "Nætur",
+      "content": "Nætur, draumalönd\nDimmblár himinn við sjónarrönd\nNætur, þar ert þú\nÞangað svíf ég í draumi nú\n\nAllt sem ég óska mér er ofið í skýin hvít\nHáleitar hugsanir, í húminu þín ég nýt\nÉg hverf er kvölda tekur, hvert sem hugur ber\nSvefninn laðar, lokkar mig af stað\nLeiðin er greið\n\nNætur, draumalönd\nDimmblár himinn við sjónarrönd\nNætur, þar ert þú\nÞangað svíf ég í draumi nú\n\nAllt það sem enginn sér, ég eygi um miðja nótt\nÍ svefni oft ég sendi skilaboð til þín, já\nÞögnin flytur þvílík leyndarmál, þangað yfir\n\n(Nætur) ó draumalönd\nDimmblár himinn við sjónarrönd\nNætur, þar ert þú\nÞangað svíf ég (í draumi nú)\n\nOg í nótt, ofurhljótt, er ég þar\nEnn á hugarflugi\nLæðist inn, í þetta sinn, fanga ég þig\n\n(Nætur) ó draumalönd\nDimmblár himinn við sjónarrönd\nNætur, því þar ert þú\nÞangað svíf ég\nSkilaboð til þín\n\n(Nætur) þar ert þú\nÞangað ѕvif ég í draumi nú\n(Og í nótt, ofurhljótt)\nÍ draumi nú\n(Og í nótt, ofurhljótt)\nÍ drаumi nú"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Nights",
+      "content": "Nights, land of dreams\nDark blue sky above the horizon\nNights, there you are\nThere I drift in my dream\n\nAll that I wish for is woven in the white clouds\nGrand thoughts, in the twilight it's you that I enjoy\nAs night falls I disappear, where my mind takes me\nSleep beckons, lures me away\nThe path is clear\n\nNights, land of dreams\nDark blue sky above the horizon\nNights, there you are\nThere I drift in my dream\n\nEverything that no one can see, I spot in the middle of the night\nAs I sleep I send you my message, yes\nThe silence carries such secrets, over there\n\n(Nights) oh land of dreams\nDark blue sky above the horizon\nNights, there you are\nThere I drift (in my dream)\n\nAnd tonight, silently, I am there\nStill, soaring in my mind\nCreep in, this time, I capture you\n\n(Nights) oh land of dreams\nDark blue sky above the horizon\nNights, there you are\nThere I drift in my dream\nMessage to you\n\n(Nights) there you are\nThere I drift in my dream\n(And tonight, silently)\nNow in a dream\n(And tonight, ѕilently)\nNow in a dreаm"
+    }
+  ],
+  "bpm": 106,
+  "tone": "A minor",
+  "artistPeople": [
+    "Sigga"
+  ],
+  "backings": [
+    "Edda Borg Ólafsdóttir",
+    "Erna Þórarinsdóttir",
+    "Eva Ásrún Albertsdóttir",
+    "Eyjólfur Kristjánsson",
+    "Ingi Gunnar Jóhannsson"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Friðrik Karlsson"
+  ],
+  "conductor": "Frank McNamara",
+  "lyricists": [
+    "Stefán Hilmarsson"
+  ],
+  "writers": null,
+  "broadcaster": "RÚV",
+  "commentators": [
+    "Jakob Frímann Magnússon"
+  ],
+  "jury": null,
+  "spokesperson": "Sigríður Arnardóttir"
+}

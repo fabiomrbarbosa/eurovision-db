@@ -1,0 +1,71 @@
+{
+  "id": 4,
+  "country": "GR",
+  "artist": "Pascalis, Marianna, Robert & Bessy",
+  "song": "Mathima solfez",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ov6n4OkF7EE",
+    "https://www.youtube-nocookie.com/embed/DNjsqBb60K8",
+    "https://www.youtube-nocookie.com/embed/I6zkm0m3ABI",
+    "https://www.youtube-nocookie.com/embed/DZegzzuGlDE",
+    "https://www.youtube-nocookie.com/embed/_oIAqXEtMCE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ellinika"
+      ],
+      "title": "Mathima solfez",
+      "content": "Imastan pethia, san mia sindrofia, tote\nKe i musiki mas arese poli, tote\nMathima solfez, giro ap' to palio piano\nNotes thinates, notes apales, piano\n\nAvanti: \"Do fa fa fa\"\n\"Sol fa sol fa mi do si mi mi mi, do si do si sol si do\"\n\"Do fa fa fa (do si) sol fa sol fa mi do mi\"\nKe \"do fa fa fa\"\n\"Sol fa sol fa mi do si mi mi mi, do si do si sol si do\"\n\"Do fa fa fa (do si) sol fa sol fa mi do mi\"\n\nPerase o keros, irthane kaimi ali\nMa i musiki panda mia glikia zali\nMesa mu mila m' ena mayiko tropo\nXeri tis karthias ton pio mistiko thromo\n\nAvanti: \"Do fa fa fa\"\n\"Sol fa sol fa mi do si mi mi mi, do si do si sol si do\"\n\"Do fa fa fa (do si) sol fa sol fa mi do mi\"\nKe \"do fa fa fa\"\n\"Sol fa sol fa mi do si mi mi mi, do si do si sol si do\"\n\"Do fa fa fa (do si) sol fa sol fa mi do mi\"\n\nSan mia musiki oli ti zoi zise\nThio melothikes notes sti karthia klise\nKane ti hara traguthi ke pandu pesto\nKe to \"s' agapo\" pes to se rithmo presto\n\nAvanti: \"Do fa fa fa\"\n\"Sol fa sol fa mi do si mi mi mi, do si do si sol si do\"\n\"Do fa fa fa (do si) sol fa sol fa mi do mi\"\nKe \"do fa fa fa\"\n\"Sol fa sol fa mi do si mi mi mi, do si do si sol si do\"\n\"Do fa fa fa (do si) sol fa sol fа mi do mi\"\n\"Mi sol ѕi re mi\""
+    },
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ελληνικά"
+      ],
+      "title": "Μάθημα σολφέζ",
+      "content": "Ήμασταν παιδιά, σαν μια συντροφιά, τότε\nΚαι η μουσική μας άρεζε πολύ, τότε\nΜάθημα σολφέζ, γύρω απ' το παλιό πιάνο\nΝότες δυνατές, νότες απαλές, πιάνο\n\nΑβάντι: \"Ντο φα φα φα\"\n\"Σολ φα σολ φα μι ντο σι μι μι μι, ντο σι ντο σι σολ σι ντο\"\n\"Ντο φα φα φα (ντο σι) σολ φα σολ φα μι ντο μι\"\nΚαι \"ντο φα φα φα\"\n\"Σολ φα σολ φα μι ντο σι μι μι μι, ντο σι ντο σι σολ σι ντο\"\n\"Ντο φα φα φα (ντο σι) σολ φα σολ φα μι ντο μι\"\n\nΠέρασε ο καιρός, ήρθανε καημοί άλλοι\nΜα η μουσική πάντα μια γλυκιά ζάλη\nΜέσα μου μιλά μ' ένα μαγικό τρόπο\nΞέρει της καρδιάς τον πιο μυστικό δρόμο\n\nΑβάντι: \"Ντο φα φα φα\"\n\"Σολ φα σολ φα μι ντο σι μι μι μι, ντο σι ντο σι σολ σι ντο\"\n\"Ντο φα φα φα (ντο σι) σολ φα σολ φα μι ντο μι\"\nΚαι \"ντο φα φα φα\"\n\"Σολ φα σολ φα μι ντο σι μι μι μι, ντο σι ντο σι σολ σι ντο\"\n\"Ντο φα φα φα (ντο σι) σολ φα σολ φα μι ντο μι\"\n\nΣαν μια μουσική όλη τη ζωή ζήσε\nΔυο μελωδικές νότες στην καρδιά κλείσε\nΚάνε τη χαρά τραγούδι και παντού πέστο\nΚαι το \"σ' αγαπώ\" πέσ το σε ρυθμό πρέστο\n\nΑβάντι: \"Ντο φα φα φα\"\n\"Σολ φα σολ φα μι ντο σι μι μι μι, ντο σι ντο σι σολ σι ντο\"\n\"Ντο φα φα φα (ντο σι) σολ φα σολ φα μι ντο μι\"\nΚαι \"ντο φα φα φα\"\n\"Σολ φα σολ φα μι ντο σι μι μι μι, ντο σι ντο σι σολ σι ντο\"\n\"Ντο φα φα φα (ντο σι) σολ φα σολ φα μι ντο μι\"\n\"Μι σολ σι ρε μι\""
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Solfege lesson",
+      "content": "We were childen and good friends, back then\nAnd we liked music very much, back then\nSolfege lesson around the old piano\nHard notes, soft notes, piano\n\nLet's go: \"Do fa fa fa\"\n\"Sol fa sol fa mi do ti mi mi mi, do ti do ti sol ti do\"\n\"Do fa fa fa (do ti) sol fa sol fa mi do mi\"\nAnd \"do fa fa fa\"\n\"Sol fa sol fa mi do ti mi mi mi, do ti do ti sol ti do\"\n\"Do fa fa fa (do ti) sol fa sol fa mi do mi\"\n\nTime passed, we got other desires\nBut music is always a sweet lust\nIt speaks inside of me in a magical way\nIt knows the biggest secrets of the heart\n\nLet's go: \"Do fa fa fa\"\n\"Sol fa sol fa mi do ti mi mi mi, do ti do ti sol ti do\"\n\"Do fa fa fa (do ti) sol fa sol fa mi do mi\"\nAnd \"do fa fa fa\"\n\"Sol fa sol fa mi do ti mi mi mi, do ti do ti sol ti do\"\n\"Do fa fa fa (do ti) sol fa sol fa mi do mi\"\n\nLive your whole life as a musical\nClose two melodic notes in your heart\nEnjoy singing and saying it everywhere\nAnd say \"I love you\" in presto\n\nLet's go: \"Do fa fa fa\"\n\"Sol fa sol fa mi do ti mi mi mi, do ti do ti sol ti do\"\n\"Do fa fa fa (do ti) sol fa sol fa mi do mi\"\nAnd \"do fa fa fa\"\n\"Sol fa sol fa mi do ti mi mi mi, do ti do ti sol ti do\"\n\"Do fa fa fa (do ti) sol fa sol fа mi do mi\"\n\"Mi ѕol ti re mi\""
+    }
+  ],
+  "bpm": 147,
+  "tone": "C minor",
+  "artistPeople": [
+    "Bessy Argyraki",
+    "Marianna Toli",
+    "Pascalis Arvanitidis",
+    "Robert Williams"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Giorgos Hatzinasios"
+  ],
+  "conductor": "Giorgos Hatzinasios",
+  "lyricists": [
+    "Sevy Tillaku"
+  ],
+  "writers": null,
+  "broadcaster": "ERT",
+  "commentators": [
+    "Mako Georgiadou"
+  ],
+  "jury": null,
+  "spokesperson": "Naki Agathou"
+}

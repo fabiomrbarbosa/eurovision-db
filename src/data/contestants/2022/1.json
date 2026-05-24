@@ -1,0 +1,69 @@
+{
+  "id": 1,
+  "country": "GB",
+  "artist": "Sam Ryder",
+  "song": "Space Man",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/RZ0hqX_92zI",
+    "https://www.youtube-nocookie.com/embed/udsMTb2NIak",
+    "https://www.youtube-nocookie.com/embed/rbtPxZby4js",
+    "https://www.youtube-nocookie.com/embed/9H5386XBr80",
+    "https://www.youtube-nocookie.com/embed/_fkB-Ic9s6I",
+    "https://www.youtube-nocookie.com/embed/uvYicg0822E",
+    "https://www.youtube-nocookie.com/embed/PXDzvttdEG0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Space Man",
+      "content": "If I was an astronaut, I'd be floating in mid-air\nAnd a broken heart would just belong to someone else down there\nI would be the centre of my lonely universe\nBut I'm only human, and I'm crashing down to earth\n\nI'm up in space, man\nUp in space, man\nI've searched around the universe\nBeen down some black holes\nThere's nothing but space, man\nAnd I want to go home\n\nIf I was an astronaut, I'd speak to satellites\nMy navigation systems would search for other life\nBut I'd be up here thinking 'bout what I'd left behind\n'Cause I'm only human with the real world on my mind\n\nI'm up in space, man\nUp in space, man\nI've searched around the universe\nBeen down some black holes\nThere's nothing but space, man\nAnd I want to go home\n\nGravity keeps pulling me down\nAs long as you're on the ground, I'll stick around\nStick around\nI'll stick around\n\nI'm up in space, man\nUp in space, man\nI've searched around the universe\nBeen down some black holes\nThere's nothing but space, man, no\nOh, I'm in the wrong place, man\nNothing but, nothing but, nothing but space, man\nNothing but, nothing but, nothing but space, man\n\nI've searched around the universe\nBeen down some black holes\nNothing but ѕpace, man\nAnd I wаnt to go home"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Avaruus mies",
+      "content": "Jos olisin astronautti, leijuisin ilmassa\nJa särkynyt sydän kuuluisi vain jollekin muulle siellä\nOlisin yksinäisen universumini keskus\nMutta olen vain ihminen ja syöksyn maahan\n\nOlen ylhäällä avaruudessa, mies\nYlhäällä avaruudessa, mies\nOlen tutkinut ympäri maailmankaikkeutta\nKävin mustissa aukoissa\nSiellä ei ole muuta kuin avaruutta, mies\nJa haluan mennä kotiin\n\nJos olisin astronautti, puhuisin sateliiteille\nNavigointijärjestelmäni etsisivät toista elämää\nMutta ajattelin täällä, mitä olin jättänyt jälkeeni\nKoska olen vain ihminen todellinen maailma mielessäni\n\nOlen ylhäällä avaruudessa, mies\nYlhäällä avaruudessa, mies\nOlen tutkinut ympäri maailmankaikkeutta\nKävin mustissa aukoissa\nSiellä ei ole muuta kuin avaruutta, mies\nJa haluan mennä kotiin\n\nPainovoima jatkaa vetämään minua alas\nNiin kauan kuin olet maassa, pysyn siellä\nPysyn siellä\nMinä pysyn siellä\n\nOlen ylhäällä avaruudessa, mies\nYlhäällä avaruudessa, mies\nOlen tutkinut ympäri maailmankaikkeutta\nKävin mustissa aukoissa\nSiellä ei ole muuta kuin avaruutta, mies\nOh, olen väärässä paikassa, mies\nEi mitään paitsi, ei mitään paitsi, ei mitään paitsi avaruutta, mies\nEi mitään paitsi, ei mitään paitsi, ei mitään paitsi avaruutta, mies\n\nOlen tutkinut ympäri maailmankaikkeutta\nKävin mustissa aukoissa\nEi muuta kuin avaruutta, mieѕ\nJa haluаn mennä kotiin"
+    }
+  ],
+  "bpm": 162,
+  "tone": "B major",
+  "artistPeople": [
+    "Sam Ryder Robinson"
+  ],
+  "backings": [
+    "Adam Smiley Wade",
+    "Jay Verma",
+    "Lewie Allen"
+  ],
+  "dancers": null,
+  "stageDirector": "Dan Shipton, Marvin Dietmann",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Amy Wadge",
+    "Max Wolfgang",
+    "Sam Ryder"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Graham Norton",
+    "Rylan Clark",
+    "Scott Mills"
+  ],
+  "jury": [
+    "Adam Hunter",
+    "Denise Pearson",
+    "Eliot Kennedy",
+    "Excalibah",
+    "Helen George"
+  ],
+  "spokesperson": "AJ Odudu"
+}

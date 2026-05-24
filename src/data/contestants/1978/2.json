@@ -1,0 +1,60 @@
+{
+  "id": 2,
+  "country": "FR",
+  "artist": "Joël Prévost",
+  "song": "Il y aura toujours des violons",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/QKoU6MzFPVQ",
+    "https://www.youtube-nocookie.com/embed/f_yUlHH_D9Y",
+    "https://www.youtube-nocookie.com/embed/deWavQYDXSE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Il y aura toujours des violons",
+      "content": "Tu peux bien changer de pays\nSi tu n'aimes pas la pluie\nAller vivre au soleil d'Italie, si tu veux\n\nTu peux bien changer de garçon\nSi tu n'aimes pas ma chanson\nEt si tu en as envie, fais même la révolution\n\nMais il y aura toujours des violons\nPour jouer les chansons d'amour\nMais il y aura toujours des chansons\nQui disent que c'est pour toujours\n\nMais il y aura toujours des amants\nPour se retrouver à Cherbourg\nMais il y aura toujours des enfants\nPour se jurer un grand amour\n\nTu peux bien t'habiller en jean\nEn pantalon ou en smoking\nVivre comme un homme, être libre, si tu veux\n\nTu peux bien dire que le mariage\nCe n'est vraiment pas de ton âge\nJe connais ce sentiment\nPour toi, la vie n'est qu'un voyage\n\nMais il y aura toujours des violons\nPour jouer les chansons d'amour\nMais il y aura toujours des chansons\nQui disent que c'est pour toujours\n\nMais il y aura toujours des amants\nPour se retrouver à Cherbourg\nMais il y aura toujours des enfants\nPour se jurer un grand amour\n\nMais il y aura toujours des violons\nPour jouer les chansons d'amour\nMais il y aura toujours des chansons\nQui disent que c'est pour toujours\n\nMais il y aura toujours des amants\nPour se retrouver à Cherbourg\nMais il y aura toujours des enfants\nPour ѕe jurer un grand аmour"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "There will always be violins",
+      "content": "You really can change country\nIf you don't like the rain\nGo and live in the sun of Italy, if you want\n\nYou really can change your guy\nIf you don't like my song\nAnd if you want, you can even make the revolution\n\nBut there will always be violins\nTo play love songs\nBut there will always be songs\nWhich say that it's for ever\n\nBut there will always be lovers\nTo end up in Cherbourg\nBut there will always be children\nTo swear a great love\n\nYou really can wear jeans\nTrousers or a dinner jacket\nLive like a man, be free, if you want\n\nYou really can say that marriage\nIsn't really for your age\nI know this feeling\nFor you, life is only a journey\n\nBut there will always be violins\nTo play love songs\nBut there will always be songs\nWhich say that it's for ever\n\nBut there will always be lovers\nTo end up in Cherbourg\nBut there will always be children\nTo swear a great love\n\nBut there will always be violins\nTo play love songs\nBut there will always be songs\nWhich say that it's for ever\n\nBut there will always be lovers\nTo end up in Cherbourg\nBut there will always be children\nTo ѕwear a greаt love"
+    }
+  ],
+  "bpm": 133,
+  "tone": "C major",
+  "artistPeople": [
+    "Jean-Luc Poteau"
+  ],
+  "backings": [
+    "Dominique Poulain",
+    "Francine Chantereau",
+    "Georges Costa",
+    "Martine Latorre",
+    "Michel Costa"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Gérard Stern"
+  ],
+  "conductor": "Alain Goraguer",
+  "lyricists": [
+    "Didier Barbelivien"
+  ],
+  "writers": null,
+  "broadcaster": "TF1",
+  "commentators": [
+    "Denise Fabre",
+    "Léon Zitrone"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

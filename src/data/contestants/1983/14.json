@@ -1,0 +1,55 @@
+{
+  "id": 14,
+  "country": "CH",
+  "artist": "Mariella Farré",
+  "song": "Io così non ci sto",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/kKfo9bnqZyQ",
+    "https://www.youtube-nocookie.com/embed/rgQ4pGORUdw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Io così non ci sto",
+      "content": "Così non mi va, io non ci sto\nSi fa per amore oppure no\nLascia il segno un'avventura\nUna donna ci rimette sempre un po'\nInnamorarsi non ha senso\nTu stai da sempre con lei\n\nSe magari è per gioco, per passare una sera\nPer combattere la noia\nIo così non ci sto\nSe è soltanto per fare l'amore\nUna volta e poi basta, per un colpo di testa\nSenza alcuna emozione\nNé sentimento, niente qua dentro\nIo così non ci sto\n\nE poi chi sarà, chi di noi due\nA stare col dubbio dentro il cuore\nSarò io, sarò io, non sarai tu\nInvece tu, come fosse niente\nStasera torni da lei\n\nSe magari è per gioco, per passare una sera\nPer combattere la noia\nIo così non ci sto\nSe è soltanto per fare l'amore\nUna volta e poi basta, per un colpo di testa\nIo così non ci sto\n\nSe è soltanto per fare l'amore\nUna volta e poi basta, per un colpo di testa\nSenza alcuna emozione\nNé sentimento, niente quа dentro\nIo così non ci ѕto"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I don't like it this way",
+      "content": "In that way I don't like, I don't like it\nDoing for love or not\nAn affair leaves a sign\nA woman always loses something\nFalling in love doesn't make sense\nYou always stay with her\n\nEven for fun, to spend an evening\nTo fight boredom\nI don't like it this way\nIf it's only to make love\nOne time and never again, for a rushed act\nWithout any emotion\nNo feeling, nothing in here\nI don't like it this way\n\nAnd then who will be, which of the two of us\nWill be doubtful in their heart\nIt will be me, it will be me not you\nInstead as if nothing had happened\nYou'll return to her this evening\n\nEven for fun, to spend an evening\nTo fight boredom\nI don't like it this way\nIf it's only to make love\nOne time and never again, for a rushed act\nI don't like it this way\n\nIf it's only to make love\nOne time and never again, for a rushed act\nWithout any emotion\nNo feeling, nothing in here\nI don't like it thiѕ wаy"
+    }
+  ],
+  "bpm": 96,
+  "tone": "B major",
+  "artistPeople": [
+    "Gabriella Ricamato-Filomeno"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Remo Kessler",
+    "Thomas Gonzenbach"
+  ],
+  "conductor": "Robert Weber",
+  "lyricists": [
+    "Nella Martinetti"
+  ],
+  "writers": null,
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Georges Hardy",
+    "Giovanni Bertini",
+    "Theodor Haller"
+  ],
+  "jury": null,
+  "spokesperson": "Michel Stocker"
+}

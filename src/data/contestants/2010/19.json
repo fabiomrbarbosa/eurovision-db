@@ -1,0 +1,63 @@
+{
+  "id": 19,
+  "country": "NO",
+  "artist": "Didrik Solli-Tangen",
+  "song": "My Heart Is Yours",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/9w527tADNpc",
+    "https://www.youtube-nocookie.com/embed/mTSvd12_lwM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "My Heart Is Yours",
+      "content": "You are like a sunset behind a mountain somewhere\nAnd when I cannot see you, I know you're still there\n\nBecause my heart is yours, I'll never leave you\nThough we are far apart, I'm by your side\nMy love is never gone, I feel it rise again\nThrough it all, now my heart is yours\n\nYou say I am the moonlight, I watch you at night\nAnd when you cannot see me, I'm still there in the sky\n\nBecause my heart is yours, I'll never leave you\nThough we are far apart, I'm by your side\nMy love is never gone, I feel it rise again\nThrough it all, now my heart is yours\n\nBecause my heart is yours, I'll never leave you\nThough we are far apart, I'm by your side\nMy love is never gone, I feel it rise again\nThrough it all, now my heаrt is yourѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Моё сердце – твоё",
+      "content": "Ты словно луч солнца, уснувший за горой до утра\nИ когда тебя нет рядом, я чувствую, что ты со мной\n\nВедь моё сердце — твоё навеки\nПусть ты далеко от меня, я рядом с тобой\nМоя любовь к тебе с каждым днём всё сильней\nСквозь года, моё сердце — твоё\n\nДля тебя я — лунный свет, что хранит твой покой в ночи\nИ когда меня нет рядом, ты чувствуешь, что я с тобой\n\nВедь моё сердце — твоё навеки\nПусть ты далеко от меня, я рядом с тобой\nМоя любовь к тебе с каждым днём всё сильней\nСквозь года, моё сердце — твоё\n\nВедь моё сердце — твоё навеки\nПусть ты далеко от меня, я рядом с тобой\nМоя любовь к тебе с каждым днём всё сильней\nСквозь года, моё сердце — твоё"
+    }
+  ],
+  "bpm": 132,
+  "tone": "E major",
+  "artistPeople": [
+    "Didrik Solli-Tangen"
+  ],
+  "backings": [
+    "Håkon Sigernes",
+    "Jorunn Hauge",
+    "Karianne Kjærnes",
+    "May Kristin Kaspersen",
+    "Øyvind Boye Løvold"
+  ],
+  "dancers": null,
+  "stageDirector": "Mattias Carlsson",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Fredrik Kempe",
+    "Hanne Margrethe Fredriksen Sørvaag"
+  ],
+  "broadcaster": "NRK",
+  "commentators": [
+    "Olav Viksmo-Slettan"
+  ],
+  "jury": [
+    "Anne Karine Strøm",
+    "Arne Martin Vistnes",
+    "Elisabet Davidsen",
+    "Svein Helge Høgberg",
+    "Vivi Stenberg"
+  ],
+  "spokesperson": "Anne Rimmen"
+}

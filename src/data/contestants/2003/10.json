@@ -1,0 +1,47 @@
+{
+  "id": 10,
+  "country": "IE",
+  "artist": "Mickey Harte",
+  "song": "We've Got The World",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/NZ9jfwOcmro",
+    "https://www.youtube-nocookie.com/embed/imtqFxSQu6o"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "We've Got The World",
+      "content": "She stands under moonlight\nShe touches her hair\nHer smile lights emotions\nAnd her love fills the air\n\nAnd I know you're my every tomorrow\nAnd I know that you'll always be there\n\nWe've got the world tonight (Tonight)\nLet's hold on together\nAnd we've got a love that's right (That's right)\nSo open your heart\n'Cause we've got tonight\n\nWe move even closer\nWith hope in our eyes\n'Cause love is the answer\nTo the hurt and the lies\n\nAnd I know you're my every tomorrow\nAnd I know that you'll always be there\n\nWe've got the world tonight (Tonight)\nLet's hold on together\nAnd we've got a love that's right (That's right)\nSo open your heart\n\nWe've got the world tonight (Tonight)\nLet's hold on together\nAnd we've got a love that's right (That's right)\nSo open your heart\n\nAsk me why (Ask me why)\nThe sun and the moon go round\nAsk me why (Ask me why)\nMy feet never touch the ground\n(Tell the truth) Tell the truth\nYou take my breath away\n\nWe've got the world tonight\n\nWe've got the world tonight (Tonight)\nLet's hold on together\nAnd we've got a love that's right (That's right)\nSo open your heart\nSo open your heart\n\nWe've got the world tonight (Tonight)\nLet's hold on together\nLet's hold on together\nAnd we've got a love that's right (That's right)\nSo open your heart\nSo open your heart\n\nWe've got the world tonight (Tonight)\nLet's hold on together\nLet's hold on together\n'Cаuѕe we've got tonight"
+    }
+  ],
+  "bpm": 104,
+  "tone": "D major",
+  "artistPeople": [
+    "Mickey Joe Harte"
+  ],
+  "backings": [
+    "Catriona McGuinty",
+    "Sara Brophy",
+    "Susan McGowan"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Keith Molloy",
+    "Martin Brannigan"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Marty Whelan",
+    "Phil Coulter"
+  ],
+  "jury": null,
+  "spokesperson": "Pamela Flood"
+}

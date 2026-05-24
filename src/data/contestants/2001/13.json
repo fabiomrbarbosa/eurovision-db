@@ -1,0 +1,51 @@
+{
+  "id": 13,
+  "country": "BA",
+  "artist": "Nino",
+  "song": "Hano",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/HOUDfrjSbUQ",
+    "https://www.youtube-nocookie.com/embed/ICW7Eda6QsI",
+    "https://www.youtube-nocookie.com/embed/KrIQfnqqo2U"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "bosnian"
+      ],
+      "displayedLanguages": null,
+      "title": "Hano",
+      "content": "Come on\n\nI da sunce zađe tačno u pola tri\nI da me iz vedra neba grom pogodi\nTi ne bi brinula, ne bi okom trepnula\nA kamoli kad te zovem, glavu okrenula\n\nI da snijeg sad padne po beharu i voću\nI da ti u lice kažem ono šta hoću\nTi ne bi brinula, ne bi okom trepnula\nA kamoli za moj hatar, barem nasmiješila\n\nHano, hajde, de, zar ti oči ne vide?\nZar ti duša ne sluša kad kažem da volim te?\nHano, hajde, de, zar ti oči ne vide?\nZar ti duša ne sluša kad kažem da volim te?\n\nAha… aha… aha… aha…\n\nA thousand times I've tried to walk away\nI'm losin' my mind about you – what can I say?\nYou keep telling me to let you go, that makes me wanna cry\n'Cause God knows I love you so – so much, I'm gonna die\n\nHano, come, come on, tell me what is going on\nTell me, would it be all right for me to be your light?\nHano, come, come on, tell me what is going on\nTell me, would it be all right for me to be your…?\n\nHano, hajde, de, zar ti oči ne vide?\nZar ti duša ne sluša kad kažem da…?\nHano, hajde, de, zar ti oči ne vide?\nZar ti duša ne ѕluša kad kažem dа volim te?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Hana",
+      "content": "Come on \n\nEven if the sun came out promptly at half past two\nEven if from a clear sky thunderbolt struck me\nYou wouldn't care, you wouldn't wink\nMuch less when I call you, turn you head\n\nEven if the snow fell now on the tree blooms and fruits\nEven if I told you to your face what I want\nYou wouldn't care, you wouldn't wink\nMuch less for my pleasure, at least smile\n\nHana, come on, don't your eyes see?\nDoesn't your soul hear when I say I love you?\nHana, come on, don't your eyes see?\nDoesn't your soul hear when I say I love you?\n\nAha… aha… aha… aha…\n\nA thousand times I've tried to walk away \nI'm losin' my mind about you – what can I say? \nYou keep telling me to let you go, that makes me wanna cry \n'Cause God knows I love you so – so much, I'm gonna die \n\nHano, come, come on, tell me what is going on \nTell me, would it be all right for me to be your light? \nHano, come, come on, tell me what is going on \nTell me, would it be all right for me to be your…? \n\nHana, come on, don't your eyes see?\nDoesn't your soul hear when I say…?\nHana, come on, don't your eyes see?\nDoesn't your soul hear when I ѕаy I love you?"
+    }
+  ],
+  "bpm": 87,
+  "tone": "D major",
+  "artistPeople": [
+    "Vahidin Pršeš"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Nino Pršeš"
+  ],
+  "broadcaster": "PBSBIH",
+  "commentators": [
+    "Ismeta Dervoz-Krvavac"
+  ],
+  "jury": null,
+  "spokesperson": "Segmedina Srna"
+}

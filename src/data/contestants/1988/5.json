@@ -1,0 +1,61 @@
+{
+  "id": 5,
+  "country": "YU",
+  "artist": "Srebrna Krila",
+  "song": "Mangup",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/mPnRNwH_uSs",
+    "https://www.youtube-nocookie.com/embed/R87zUXkMaFE",
+    "https://www.youtube-nocookie.com/embed/-m6EGo9hNHA",
+    "https://www.youtube-nocookie.com/embed/wM-usdFp0Wo",
+    "https://www.youtube-nocookie.com/embed/A5uuX4A9Zbg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "croatian"
+      ],
+      "displayedLanguages": null,
+      "title": "Mangup",
+      "content": "Danima te sljedim, znadem sve o tebi\nProđeš pored mene, pogled'o me nebi\nA ja bih dala sve, sve moje godine\nDa me dirneš jednom, zagrliš na tren\n\nA ti si mangup, veliki mangup\nI nećeš d'jete kao ja\nJer ti si mangup, veliki mangup\nI nećeš d'jete kao ja\n\nE baš si mangup, veliki mangup\nNe želiš d'jete kao ja\nJer ti si mangup, veliki mangup\nI nećeš d'jete kao ja\nWhoa…\n\nDanima te pratim, ispred tebe stojim\nProlaziš kroz mene k'o da ne postojim\nA ja bih dala sve, sve moje godine\nDa me dirneš jednom, zagrliš na tren\n\nA ti si mangup, veliki mangup\nI nećeš d'jete kao ja\nJer ti si mangup, veliki mangup\nI nećeš d'jete kao ja\n\nE baš si mangup, veliki mangup\nNe želiš d'jete kao ja\nJer ti si mangup, veliki mangup\nI nećeš d'jete kao ja\n\nJer ti ѕi mangup, veliki mangup\nNe želiš d'jete kao ja\nWhoа…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Rascal",
+      "content": "I'm following you for days, know all about you\nYou walk beside me and don't even look at me\nAnd I'd give it all, all my years\nTo have you touch me, hug me for a moment\n\nAnd you are a rascal, a big rascal\nYou don't want a child like me\nBecause you are a rascal, a big rascal\nYou don't want a child like me\n\nBecause you are a rascal, a big rascal\nYou don't want a child like me\nBecause you are a rascal, a big rascal\nYou don't want a child like me\nWhoa…\n\nI'm following you for days, you're right in front of me\nYou walk straight through me as if I don't exist\nAnd I'd give it all, all my years\nTo have you touch me, hug me for a moment\n\nAnd you are a rascal, a big rascal\nYou don't want a child like me\nBecause you are a rascal, a big rascal\nYou don't want a child like me\n\nYou are really a rascal, a big rascal\nYou don't want a child like me\nBecause you are a rascal, a big rascal\nYou don't want a child like me\n\nBecause you are a rascal, a big raѕcal\nYou don't want a child like me\nWhoа…"
+    }
+  ],
+  "bpm": 118,
+  "tone": "G major",
+  "artistPeople": [
+    "Lidija Asanović",
+    "Mustafa Ismailovski",
+    "Oleg Colnago",
+    "Slavko Pintarić Pišta"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Rajko Dujmić"
+  ],
+  "conductor": "Nikica Kalogjera",
+  "lyricists": [
+    "Rajko Dujmić",
+    "Stevo Cvikić"
+  ],
+  "writers": null,
+  "broadcaster": "JRT",
+  "commentators": [
+    "Mladen Popović",
+    "Oliver Mlakar",
+    "Slobodan Kaloper"
+  ],
+  "jury": null,
+  "spokesperson": "Miša Molk"
+}

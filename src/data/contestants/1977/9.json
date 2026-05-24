@@ -1,0 +1,62 @@
+{
+  "id": 9,
+  "country": "FI",
+  "artist": "Monica Aspelund",
+  "song": "Lapponia",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/v9kKfTKenC8",
+    "https://www.youtube-nocookie.com/embed/Od5B3p9156Y",
+    "https://www.youtube-nocookie.com/embed/LbDlSkWUVRQ",
+    "https://www.youtube-nocookie.com/embed/NFnUm5dJ7UY",
+    "https://www.youtube-nocookie.com/embed/YQJbBaG6mVE",
+    "https://www.youtube-nocookie.com/embed/cTwOGVlYRAI",
+    "https://www.youtube-nocookie.com/embed/rk3c_OeLbAM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Lapponia",
+      "content": "Manana…\nMana nana mana na…\nMana nana mana…\nMananana nina nana…\n\nLapponia, tämä on Lapponia\nJosta Pohjan kauniin neitosen kutsu kaikuu\n\nTuo neito noita on\nHän luo voimalla kohtalon\nHän vailla on seuraa ja lohduttamaton\nJa siksi loihtii hän noituen\nHän luo voimalla loitsujen\nHän tavalla Seidan näin miehen kutsua saa\n\nHei… manana…\nMana nana mana na…\nMana nana mana…\nMananana nina nana…\n\nLapponia, tämä on Lapponia\nJosta Pohjan kauniin neitosen kutsu kaikuu\n\nMies lähti Pohjolaan\nTie käy kuunnellen vaistoaan\nMies rakastuu noitaan\nHän on ihminen maan\nJa siksi on neidon mentävä\nHän on noidista lentävä\nKäy tulella taivaan ja loitsut kaikuen soi\n\nHei… manana…\nMana nana mana na…\nMana nana mana…\nMananana nina nana…\n\nLapponia, tämä on Lapponia\nJosta Pohjan kauniin neitosen kutsu kaikuu\nNoin noidan joiku kutsuen soi:\nMananana…\n\nMa… (Ma nanana nana nanana…)\n(Ma nananana nana nanana…)\nOoh… (Ma nanana nana nanana…)\n(Ma nananana nana nanana…)\n\n(Lapponia, Lapponia, Lapponia, Lapponia)\n\n(Manana…)\n(Mana nana manana…)\n(Mana nana mana…)\n(Ma nana nanana…)\n\nLapponia, tämä on Lapponia\nJosta Pohjan kauniin neitosen kutsu kaikuu\nLapponia, tämä on Lapponia\nJosta Pohjan kauniin neitosen kutѕu kaikuu\n\n(Manana…)\n(Mana nana manana…)\n(Mana nana mа…)"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Lapponia",
+      "content": "Manana…\nMana nana mana na…\nMana nana mana…\nMananana nina nana…\n\nLapponia, this is Lapponia\nFrom where the call of the beautiful northern girl echoes\n\nThat girl is a witch\nShe creates with the power of destiny\nShe's without company and consolation\nAnd that's why she conjures witching\nShe creates with the power of spells\nIn the way of Seita she can beckon a man\n\nHey… manana…\nMana nana mana na…\nMana nana mana…\nMananana nina nana…\n\nLapponia, this is Lapponia\nFrom where the call of the beautiful northern girl echoes\n\nA man left to the north\nThe road goes by listening to his instincts\nThe man falls in love with the witch\nHe is a human being of Earth\nAnd that's why the witch must go away\nShe's the witch who flies\nShe goes with the fire of the sky and the spells echo\n\nHey… manana…\nMana nana mana na…\nMana nana mana…\nMananana nina nana…\n\nLapponia, this is Lapponia\nFrom where the call of the beautiful northern girl echoes\nSo sounds the calling song of the shaman:\nMananana…\n\nMa… (Ma nanana nana nanana…)\n(Ma nananana nana nanana…)\nOoh… (Ma nanana nana nanana…)\n(Ma nananana nana nanana…)\n\n(Lapponia, Lapponia, Lapponia, Lapponia)\n\n(Manana…)\n(Mana nana manana…)\n(Mana nana mana…)\n(Ma nana nanana…)\n\nLapponia, this is Lapponia\nFrom where the call of the beautiful northern girl echoes\nLapponia, this is Lapponia\nFrom where the call of the beautiful northern girl echoeѕ\n\n(Manana…)\n(Mana nana manana…)\n(Mana nana mа…)"
+    }
+  ],
+  "bpm": 103,
+  "tone": "C major",
+  "artistPeople": [
+    "Monica Helena Aspelund-Holm"
+  ],
+  "backings": [
+    "Aarno Raninen",
+    "Kari Fall",
+    "Kari Kuusamo",
+    "Reijo Karvonen"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Aarno Raninen"
+  ],
+  "conductor": "Ossi Runne",
+  "lyricists": [
+    "Monica Aspelund"
+  ],
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Erkki Toivanen"
+  ],
+  "jury": null,
+  "spokesperson": "Kaarina Pönniö"
+}

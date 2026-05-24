@@ -1,0 +1,68 @@
+{
+  "id": 31,
+  "country": "ME",
+  "artist": "Highway",
+  "song": "The Real Thing",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/FgKehisElQI",
+    "https://www.youtube-nocookie.com/embed/SNTPaTnoTuY",
+    "https://www.youtube-nocookie.com/embed/CaRc9Lqn2tw",
+    "https://www.youtube-nocookie.com/embed/BLxvwbzrbfo",
+    "https://www.youtube-nocookie.com/embed/Fdi6fq5Ajzs"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The Real Thing",
+      "content": "Inside you\nTake me a little closer inside you\n'Cause you got speedy shadows on the walls, I see you\nInside them\n\nFeel it\nI'm the real thing, yeah\nFeel it\nI'm the real thing, yeah\n\nI'm gonna fight for your love\nGonna run, gonna feel good\nI'm gonna feel what my body knows\n\nGonna fight for your love\nGonna run, gonna feel good\nI'm gonna feel\n\nI'm the real thing\nI'm the real thing\nI'm the real thing\nReal thing, real thing, yeah\n\nInside you\nTake me a little closer inside you\n'Cause you got speedy shadows on the walls, I see you\nInside them\n\nFeel it\nI'm the real thing, yeah\nFeel it\nI'm the real thing, yeah\n\nI'm gonna fight for your love\nGonna run, gonna feel good\nI'm gonna feel what my body knowѕ\n\nGonna fight for your love\nGonna run, gonna feel good\nI'm gonna feel\n\nFeel it\nI'm the real thing, yeah\nFeel it\nI'm the real thing, yeаh"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "La Vraie Chose",
+      "content": "À l'intérieur de toi\nPrends-moi un peu plus près de toi\nParce que tu as des ombres rapides sur les murs, je te vois\nÀ l'intérieur d'eux\n\nSens le\nJe suis la vraie chose, ouais\nSens le\nJe suis la vraie chose, ouais\n\nJe vais me battre pour ton amour\nJe vais courir, je vais me sentir bien\nJe vais sentir ce que mon corps sait\n\nJe vais me battre pour ton amour\nJe vais courir, je vais me sentir bien\nJe vais ressentir\n\nJe suis la vraie chose\nJe suis la vraie chose\nJe suis la vraie chose\nVraie chose, vraie chose, ouais\n\nÀ l'intérieur de toi\nPrends-moi un peu plus près de toi\nParce que tu as des ombres rapides sur les murs, je te vois\nÀ l'intérieur d'eux\n\nSens le\nJe suis la vraie chose, ouais\nSens le\nJe suis la vraie chose, ouais\n\nJe vais me battre pour ton amour\nJe vais courir, je vais me sentir bien\nJe vais ressentir ce que mon corps sait\n\nJe vais me battre pour ton amour\nJe vais courir, je vais me sentir bien\nJe vais ressentir\n\nSens le\nJe suis la vraie chose, ouais\nSens le\nJe suis la vraie chose, ouаiѕ"
+    }
+  ],
+  "bpm": 117,
+  "tone": "B major",
+  "artistPeople": [
+    "Bojan Jovović"
+  ],
+  "backings": [
+    "Marija Lazić",
+    "Nikola Marjanović"
+  ],
+  "dancers": null,
+  "stageDirector": "Igor Basorović",
+  "composers": [
+    "Luka Vojvodić",
+    "Maro Market",
+    "Srđan Sekulović Skansi"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Srđan Sekulović Skansi"
+  ],
+  "writers": null,
+  "broadcaster": "RTCG",
+  "commentators": [
+    "Ajda Šufta",
+    "Dražen Bauković",
+    "Tijana Mišković"
+  ],
+  "jury": [
+    "Andrea Demirović",
+    "Dejan Božović",
+    "Ivana Čanović",
+    "Momčilo Zeković Zeko",
+    "Srđan Bulatović"
+  ],
+  "spokesperson": "Danijel Alibabić"
+}

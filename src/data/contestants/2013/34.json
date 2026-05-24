@@ -1,0 +1,62 @@
+{
+  "id": 34,
+  "country": "AT",
+  "artist": "Natália Kelly",
+  "song": "Shine",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/gOJHi6JiKpY",
+    "https://www.youtube-nocookie.com/embed/1RPLzJ5hqYc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Shine",
+      "content": "When hurt is all you're feeling, your heart is slowly bleeding\nThey're only memories to hold on to\nWhen you almost stop believing, cold, alone and freezing\nYou think you're lost and don't know where to go\nLook up to the starlit sky, reignite the fire\n\nYou will shine, shine and fight the shadows in the sky\nYou will shine, I see the light in your eyes\nYou will shine, shine and fight the shadows in the sky\nOh, you will fly up high, the light is in your eyes\nTrust me, you will shine\n\nTime is always healing and answers are revealing\nSometimes they're simply right before your eyes\nBut when you're down here kneeling, there is no chance to see it\nYou can when all these dark clouds disappear\nLook up to the starlit sky, reignite the fire\n\nYou will shine, shine and fight the shadows in the sky (Shine)\nYou will shine, I see the light in your eyes (Shine)\nYou will shine, shine and fight the shadows in the sky (Shine)\nOh, you will fly up high, the light is in your eyes\nTrust me, you will shine\n\n(Still alive and breathing) Hey…\n(Still alive and breathing) Hoh…\n(Still alive and breathing) Hey.\n(Still alive and breathing)\nStill alive and breathing, hoh…\n\nYou will shine, shine and fight the shadows in the sky (Shine)\nYou will shine, I see the light in your eyes (Shine)\nYou will shine, shine and fight the shаdows in the sky (Shine)\nOh, you will fly up high, the light is in your eyes\n\nOh, you will fly up high, the light is in your eyes\nTrust me, you will ѕhine"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Brillarás",
+      "content": "Cuando sólo sientes dolor, y tu corazón sangra lentamente\nSólo existen recuerdos a los que aferrarse\nCuando casi dejas de creer, frío, solo y muerto de frío\nPiensas que estás perdido y que no sabes a dónde ir\nMira hacia el cielo estrellado y reaviva el fuego\n\nBrillarás, brillarás y lucharás contra las sombras del cielo\nBrillarás, ya veo la luz en tus ojos\nBrillarás, brillarás y lucharás contra las sombras del cielo\nOh, volarás alto, con la luz en tus ojos\nConfía en mí, brillarás\n\nEl cielo siempre cura y las respuestas se revelan\nA veces, simplemente, las tienes ante tus ojos\nPero cuando caes de rodillas, no hay forma de verlo\nPodrás cuando desaparezcan estas nubes oscuras\nMira hacia el cielo estrellado y reaviva el fuego\n\nBrillarás, brillarás y lucharás contra las sombras del cielo (brillarás)\nBrillarás, ya veo la luz en tus ojos (brillarás)\nBrillarás, brillarás y lucharás contra las sombras del cielo (brillarás)\nOh, volarás alto, con la luz en tus ojos\nConfía en mí, brillarás\n\n(Aún vivo y respirando) Hey…\n(Aún vivo y respirando) Hoh…\n(Aún vivo y respirando) Hey…\n(Aún vivo y respirando)\nAún vivo y respirando, hoh…\n\nBrillarás, brillarás y lucharás contra las sombras del cielo (brillarás)\nBrillarás, ya veo la luz en tus ojos (brillarás)\nBrillarás, brillarás y lucharás contra las sombras del cielo (brillarás)\nOh, volarás alto, con la luz en tus ojos\n\nOh, volarás alto, con la luz en tus ojos\nConfía en mí, brillаráѕ"
+    }
+  ],
+  "bpm": 164,
+  "tone": "D major",
+  "artistPeople": [
+    "Natália Kelly"
+  ],
+  "backings": [
+    "Birgit Kubica",
+    "Harri Baumgartner",
+    "Ina Regen",
+    "Karin Bauer",
+    "Monika Ballwein"
+  ],
+  "dancers": null,
+  "stageDirector": "Marvin Dietmann",
+  "composers": [
+    "Alexander Kahr",
+    "Andreas Grass",
+    "Nikola Paryla"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Andreas Grass",
+    "Natália Kelly",
+    "Nikola Paryla"
+  ],
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": [
+    "Andi Knoll"
+  ],
+  "jury": null,
+  "spokesperson": "Katharina Bellowitsch"
+}

@@ -1,0 +1,53 @@
+{
+  "id": 11,
+  "country": "SE",
+  "artist": "Tommy Körberg",
+  "song": "Stad i ljus",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/mH-_fbD4iOo",
+    "https://www.youtube-nocookie.com/embed/GO9VUhn1TXk",
+    "https://www.youtube-nocookie.com/embed/giMSj9t9boY"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Stad i ljus",
+      "content": "Min resa var mot solen\nLångt bortom alla slutna rum\nDär allting är oändligt\nOch alla gränser har för evigt suddats ut\n\nJag ville se miraklet\nOch höra ord som föder liv\nBli buren av en styrka\nSom bara växer när jag anat mitt motiv\n\nStad i ljus i ett land utan namn\nGe mig liv där allting föds på nytt\n\nOch så när allt förändrats\nNär tiden inte längre finns\nSå ser jag oss tillsammans\nOch då är resans slut det enda som vi minns\n\nStad i ljus i ett land utan namn\nGe mig liv där allting föds på nytt\n\nStad i ljus i ett land utan namn\nGe… ge mig liv där аllting födѕ på nytt"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "City of light",
+      "content": "My journey was towards the sun\nFar away from all the closed rooms\nWhere nothing ever ends\nAnd where there are no borders anymore\n\nI wanted to see the miracle\nAnd hear the words that give birth to life\nI want to be carried by a force\nWhich will grow stronger when I know what I want\n\nThe city of light, in a country without a name\nGive me life, where everything is born again\n\nAnd when everything has changed\nWhen time does no longer exist\nI can see the two of us together\nAnd then the end of the journey is all we remember\n\nThe city of light, in a country without a name\nGive me life, where everything is born again\n\nThe city of light, in a country without a name\nGive… give me life, where everything iѕ born agаin"
+    }
+  ],
+  "bpm": 147,
+  "tone": "G major",
+  "artistPeople": [
+    "Tommy Körberg"
+  ],
+  "backings": [
+    "Urban Agnas"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Anders Berglund",
+  "lyricists": null,
+  "writers": [
+    "Py Bäckman"
+  ],
+  "broadcaster": "SVT",
+  "commentators": [
+    "Bengt Grafström"
+  ],
+  "jury": null,
+  "spokesperson": "Maud Uppling"
+}

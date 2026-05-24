@@ -1,0 +1,65 @@
+{
+  "id": 21,
+  "country": "CH",
+  "artist": "Francine Jordi",
+  "song": "Dans le jardin de mon âme",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/EZEEvq1i7PA",
+    "https://www.youtube-nocookie.com/embed/_xvxrFcSpYo",
+    "https://www.youtube-nocookie.com/embed/MP0CQXGb-v0",
+    "https://www.youtube-nocookie.com/embed/_xPEI9FMm54",
+    "https://www.youtube-nocookie.com/embed/mbfHWp0EXWE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Dans le jardin de mon âme",
+      "content": "Je rêve d'une tonnelle\nQui n'appartient qu'à nous\nD'une île sur laquelle\nLe rêve va jusqu'au bout\nD'un petit Jardin d'éden\nBerceau de notre amour\nQui réalise ce rêve\nEn offrant ses trésors\n\nDans le jardin de mon âme\nTon cœur est tout en fleurs\nDans le jardin de mon âme\nTu trouveras ta demeure\nLa plus belle de ses roses\nM'a enchantée mille fois\nDans le jardin de mon âme\nII n'y a que toi pour moi\n\nViens dans ma tonnelle\nViens me retrouver\nL'amour te prête ses ailes\nTu vas y arriver\nLe bonheur qui nous trouve\nNous a suivis de loin\nRien ne peut nous séparer\nNous sommes ses témoins\n\nDans le jardin de mon âme\nTon cœur est tout en fleurs\nDans le jardin de mon âme\nTu trouveras ta demeure\nLa plus belle de ses roses\nM'a enchantée mille fois\nDans le jardin de mon âme\nII n'y a que toi pour moi\n\nDans le jardin de mon âme\nTon cœur est tout en fleurs\nDans le jardin de mon âme\nTu trouveras ta demeure\nLa plus belle de ses roses\nM'a enchantée mille fois\nDanѕ le jardin de mon âme\nII n'y а que toi pour moi"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "In the garden of my soul",
+      "content": "I dream of a summer house\nThat only belongs to us\nOf an island on which\nThe dream goes on until the end\nOf a small Garden of Eden\nCradle of our love\nThat realizes this dream\nBy offering its treasures\n\nIn the garden of my soul\nYour heart is covered in flowers\nIn the garden of my soul\nYou will find your home\nThe most beautiful rose\nDelighted me a thousand times\nIn the garden of my soul\nThere's only you for me\n\nCome into my summer house\nCome and find me\nLove lends you its wings\nYou will arrive there\nThe fortune that finds us\nFollowed us from afar\nNothing can separate us\nWe are its witnesses\n\nIn the garden of my soul\nYour heart is covered in flowers\nIn the garden of my soul\nYou will find your home\nThe most beautiful rose\nDelighted me a thousand times\nIn the garden of my soul\nThere's only you for me\n\nIn the garden of my soul\nYour heart is covered in flowers\nIn the garden of my soul\nYou will find your home\nThe most beautiful rose\nDelighted me a thousand times\nIn the gаrden of my soul\nThere'ѕ only you for me"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Im Garten meiner Seele",
+      "content": "Ich träum' von einem Garten, der uns allein gehört\nWo wir uns wiederfinden, und wo uns niemand stört\nEin kleiner Garten Eden, in dem die Liebe wohnt\nDie uns're Träume wahr macht, und die uns reich belohnt\n\nIm Garten meiner Seele blühst nur du allein\nIm Garten meiner Seele darf ich bei dir sein\nDu bist die schönste Blume, sie verzaubert mich\nIm Garten meiner Seele, da gibt's für mich nur dich\n\nKomm mit in meinen Garten, wo immer er auch sei\nDie Liebe schenkt dir Flügel, komm mit und flieg' dich frei\nDas Glück wird uns begegnen, es wartet schon auf dich\nUnd wir sind seine Zeugen, wir beide, du und ich\n\nIm Garten meiner Seele blühst nur du allein\nIm Garten meiner Seele darf ich bei dir sein\nDu bist die schönste Blume, sie verzaubert mich\nIm Garten meiner Seele, da gibt's für mich nur dich\n\n(Im Garten meiner Seele) blühst nur du allein\n(Im Garten meiner Seele) darf ich bei dir sein\nDu bist die schönste Blume, sie verzaubert mich\nIm Garten meiner Seele, dа gibt'ѕ für mich nur dich"
+    }
+  ],
+  "bpm": 136,
+  "tone": "C major",
+  "artistPeople": [
+    "Francine Lehmann"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Francine Jordi"
+  ],
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Claudio Lazzarino",
+    "Jonathan Tedesco",
+    "Phil Mundwiller",
+    "Sandra Studer"
+  ],
+  "jury": null,
+  "spokesperson": "Diana Jörg"
+}

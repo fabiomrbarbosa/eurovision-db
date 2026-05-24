@@ -1,0 +1,49 @@
+{
+  "id": 7,
+  "country": "NO",
+  "artist": "Carl Espen",
+  "song": "Silent Storm",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/BTMli8U17MM",
+    "https://www.youtube-nocookie.com/embed/2LBOjxBty8U",
+    "https://www.youtube-nocookie.com/embed/BvrFw5ppbCg",
+    "https://www.youtube-nocookie.com/embed/4iHG9-AJSEA"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Silent Storm",
+      "content": "Head to toes\nFlesh and bones\nShould feel whole\nBut the void\nA silent storm\n\nI'm here to use my heart and my hands\nSomehow the bruises changed my plans\n\nAnd there's a silent storm inside me\nLooking for a home\nI hope that someone's gonna find me\nAnd say that I belong\nI'll wait forever and a lifetime\nTo find I'm not alone\nThere's a silent storm inside me\nSomeday I'll be calm\n\nAsk myself\nWhat comes next\nWill I fly?\nWill I fall?\nMy silent storm\n\nI'm here to use my heart and my hands\nSomehow the bruises changed my plans\n\nAnd there's a silent storm inside me\nLooking for a home\nI hope that someone's gonna find me\nAnd say that I belong\nI'll wait forever and a lifetime\nTo find I'm not alone\nThere's a silent storm inѕide me\nSomeday I'll be cаlm"
+    }
+  ],
+  "bpm": 146,
+  "tone": "C# major",
+  "artistPeople": [
+    "Carl Espen Thorbjørnsen"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Mattias Carlsson",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Josefin Winther"
+  ],
+  "broadcaster": "NRK",
+  "commentators": [
+    "Olav Viksmo-Slettan"
+  ],
+  "jury": [
+    "Ahmed Ashraf",
+    "Jan Holmlund",
+    "Jonas Brenna",
+    "Monica Johansen",
+    "Rannveig Sundelin"
+  ],
+  "spokesperson": "Margrethe Røed"
+}

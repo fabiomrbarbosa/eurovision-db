@@ -1,0 +1,55 @@
+{
+  "id": 35,
+  "country": "NL",
+  "artist": "The Toppers",
+  "song": "Shine",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/A3ThD1wPrhA",
+    "https://www.youtube-nocookie.com/embed/te1w81E8L5A",
+    "https://www.youtube-nocookie.com/embed/rfhKm9T04-M"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Shine",
+      "content": "(Shine, shine, shine)\n\nThere are so many wars right now in this world\nThere are so many things not right\nThere are too many people hurt in this world\nThere are too many men that fight\n\nTime is now to make the change\nTime is on our side\nLove will make us glow in the dark\nSo open up your heart\nAre you ready for a brand new start?\n\n(Shine)\nPeople, let your light shine\nLet the darkness fade away\nStep into a brighter day\nDon't forget about our world today\n\nLet your light shine\nMaybe the answer is just this simple song\nLet everybody shine along\nTo keep the world from going wrong\nLet your light shine\n\nSo many people with good heart in this world\nSo many, they can make a change\nSo the only thing that we have to do\nIs love the one we hate\n\nIt will change all darkness into bright\nIt will touch everybody's light\nThe whole world will be lighted\nAll people will be reunited\n\n(Shine)\nPeople, let your light shine\nLet the darkness fade away\nStep into a brighter day\nDon't forget about the role you must play\n\nLet your light shine\nMaybe the answer is just this simple song\nLet everybody shine along\nTo keep the world from going wrong\nLet your light shine\n\nAs long as we believe in good in each man\nAs long as we believe in love\nThe light will guide and take us to\nThe world we all dream of\nLet your light shine\n\n(Shine)\nPeople, let your light shine\nMaybe the answer is just this simple song\nLet everybody shine аlong\nTo keep the world from going wrong\nLet your light shine\n\nShine, shine, shine, ѕhine"
+    }
+  ],
+  "bpm": 132,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Cornelis Willem Gordon Heuckeroth",
+    "Jeroen van der Boom",
+    "René Froger"
+  ],
+  "backings": [
+    "Dedre Twiss",
+    "Ingrid Simons",
+    "Sarina Voorn"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Bas van den Heuvel",
+    "Gordon"
+  ],
+  "broadcaster": "NOS",
+  "commentators": [
+    "Cornald Maas"
+  ],
+  "jury": [
+    "Aron van der Ploeg",
+    "Henk Schepers",
+    "Martin Gijzemijter",
+    "Noordje Kandt",
+    "Setske Mostaert"
+  ],
+  "spokesperson": "Yolanthe Sneijder-Cabau"
+}

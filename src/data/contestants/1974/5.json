@@ -1,0 +1,57 @@
+{
+  "id": 5,
+  "country": "MC",
+  "artist": "Romuald",
+  "song": "Celui qui reste et celui qui s'en va",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/LLaL74ZTkU8",
+    "https://www.youtube-nocookie.com/embed/exCCF_DBy98"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Celui qui reste et celui qui s'en va",
+      "content": "À la fin d'un amour, celui qui reste est le perdant\nCelui qui part sait déjà que quelqu'un l'attend\nÀ la fin d'un amour, à l'instant du dernier regard\nIl y a toujours, toujours sur terre quelque part\n\nCelui qui reste et celui qui s'en va\nCelui qui parle et celui qui n'ose pas\nCelui qui pleure, celui qui baisse les yeux\nIl y a toujours, toujours à l'instant d'un adieu\n\nCelui qui reste et celui qui s'en va\nCelui qui triche et celui qui ne sait pas\nCelui qui va très bientôt trouver l'oubli\nEt l'autre qui restera seul toute sa vie\nToute sa vie\n\nBien sûr je te comprends, il fallait en arriver là\nTu as la force de partir, je ne l'ai pas\nBien sûr que je comprends, bien sûr que je ne t'en veux pas\nMais déjà 'nous' voilà devenus 'toi et moi'\n\nCelui qui reste et celui qui s'en va\nCelui qui parle et celui qui n'ose pas\nCelui qui pleure, celui qui baisse les yeux\nIl y a toujours, toujours à l'instant d'un adieu\n\nCelui qui reste et celui qui s'en va\nCelui qui triche et celui qui ne sait pas\nCelui qui va très bientôt trouver l'oubli\nEt l'autre qui restera seul toute sa vie\n\nCelui qui reste et celui qui ѕ'en vа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The one who stays and the one who leaves",
+      "content": "At the end of a love affair, the one who stays is the loser\nThe one who leaves already knows somebody is waiting\nAt the end of a love affair, at the moment of the last glance\nThere's always, always on earth somewhere\n\nThe one who stays and the one who leaves\nThe one who talks and the one who doesn't dare\nThe one who cries, the one who lowers his eyes\nThere's always, always a moment of farewell\n\nThe one who stays and the one who leaves\nThe one who cheats and the one who doesn't know it\nThe one who very soon is to be forgotten\nAnd the other who will stay alone all his life\nAll his life\n\nOf course I understand you, things had to happen this way\nYou have the power to leave, I don't have it\nOf course I understand, of course I'm not mad at you\nBut lo and behold, 'we' already became 'you and me'\n\nThe one who stays and the one who leaves\nThe one who talks and the one who doesn't dare\nThe one who cries, the one who lowers his eyes\nThere's always, always a moment of farewell\n\nThe one who stays and the one who leaves\nThe one who cheats and the one who doesn't know it\nThe one who very soon is to be forgotten\nAnd the other who will stay alone all his life\n\nThe one who stays and the one who leаveѕ"
+    }
+  ],
+  "bpm": 154,
+  "tone": "C major",
+  "artistPeople": [
+    "Romuald Figuier"
+  ],
+  "backings": [
+    "Catherine Bonnevay",
+    "Dominique Poulain",
+    "Francine Chantereau",
+    "Martine Latorre"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jean-Pierre Bourtayre"
+  ],
+  "conductor": "Raymond Donnez",
+  "lyricists": [
+    "Michel Jourdan"
+  ],
+  "writers": null,
+  "broadcaster": "TMC",
+  "commentators": [
+    "Pierre Tchernia"
+  ],
+  "jury": null,
+  "spokesperson": "Sophie Hecquet"
+}

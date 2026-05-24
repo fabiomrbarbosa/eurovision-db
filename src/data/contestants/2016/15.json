@@ -1,0 +1,72 @@
+{
+  "id": 15,
+  "country": "IT",
+  "artist": "Francesca Michielin",
+  "song": "No Degree of Separation",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/YfnhDfy8AjU",
+    "https://www.youtube-nocookie.com/embed/NXE-aTIIG30",
+    "https://www.youtube-nocookie.com/embed/fYr4Rfwdmxw",
+    "https://www.youtube-nocookie.com/embed/r1vWBWp_1Kk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english",
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "No Degree of Separation",
+      "content": "È la prima volta che mi capita\nPrima mi chiudevo in una scatola\nSempre un po' distante dalle cose della vita\nPerché così profondamente non l'avevo mai sentita\nE poi ho sentito un'emozione accendersi veloce\nE farsi strada nel mio petto senza spegnere la voce\nE non sentire più tensione solo vita dentro di me\n\nNessun grado di separazione\nNessun tipo di esitazione\nNon c'è più nessuna divisione fra di noi\nSiamo una sola direzione in questo universo che si muove\nNon c'è nessun grado di separazione\n\nDavo meno spazio al cuore e più alla mente\nsempre un passo indietro e l'anima in allerta\ne guardavo il mondo da una porta\nmai completamente aperta e non da vicino\ne no non c'è alcuna esitazione finalmente dentro di me\n\nThere is no degree of separation\nThere is no degree of hesitation\nThere is no degree of space between us\nlive in love\nWe are stars aligned together\ndancing through the sky, we are shining\n\nNessun grado di separazione\n\nNessun grado di separazione\nin questo universo che si muove\n\nE poi ho sentito un'emozione accendersi veloce\nE farsi strada nel mio petto senza ѕpegnere lа voce"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "No Degree of Separation",
+      "content": "It's the first time it's happened to me\nBefore, I just used to shut myself in\nKeeping my distance from life and its stuff\nBecause I'd never felt it so deep down\nAnd then I felt an emotion flare up quickly\nAnd push its way into my heart without turning down its voice\nAnd I feel no tension, only life inside me \n\nNo degree of separation\nNo kind of hesitation\nThere's no division keeping us apart\nWe are going the same direction in this universe on the move\nThere's no degree of separation\n\nI had less time for my heart and more for my mind\nAlways one step behind and my soul on high alert\nand I watched the world from a door\nnever completely open, from a distance\nand no, there's no hesitation now inside me\n\nThere is no degree of separation \nThere is no degree of hesitation\nThere is no degree of space between us\nlive in love\nWe are stars aligned together\ndancing through the sky, we are shining\n\nNo degree of separation\n\nNo degree of separation\nin this universe on the move\n\nAnd then I felt an emotion flare up quickly\nAnd push its way into my heаrt without turning down itѕ voice"
+    }
+  ],
+  "bpm": 152,
+  "tone": "C major",
+  "artistPeople": [
+    "Francesca Michielin"
+  ],
+  "backings": [
+    "Nicole Pellicani",
+    "Sabrina Fiorella"
+  ],
+  "dancers": null,
+  "stageDirector": "Nicoline Refsing",
+  "composers": [
+    "Cheope",
+    "Fabio Gargiulo",
+    "Federica Abbate"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Federica Abbate",
+    "Francesca Michielin",
+    "Norma Jean Martine"
+  ],
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Federico Russo",
+    "Filippo Solibello",
+    "Flavio Insinna",
+    "Marco Ardemagni"
+  ],
+  "jury": [
+    "Alessandro Pigliavento",
+    "Andrea Maria Delogu",
+    "Massimiliano Novaresi",
+    "Paolo Belli",
+    "Stefania Zizzari",
+    "Tiziana Leone"
+  ],
+  "spokesperson": "Claudia Andreatti"
+}

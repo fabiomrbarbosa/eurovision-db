@@ -42,6 +42,8 @@ const YEAR_FILTER = args.includes("--year")
   ? parseInt(args[args.indexOf("--year") + 1], 10)
   : null;
 
+const FETCH_CONTESTANTS = args.includes("--contestants");
+
 // ---------------------------------------------------------------------------
 // Helpers
 // ---------------------------------------------------------------------------
@@ -76,14 +78,8 @@ async function main() {
   const countries = await eurovisionApi.countries();
   writeJson(join(DATA_DIR, "countries.json"), countries);
 
-  // 2. Years
-  log("Fetching years...");
-  const years = await eurovisionApi.years("senior");
-  const filteredYears = YEAR_FILTER ? years.filter((y) => y === YEAR_FILTER) : years;
-  writeJson(join(DATA_DIR, "years.json"), filteredYears);
-
-  // 3. Individual contest details (with rounds + scores)
-  log(`Fetching contest details (${filteredYears.length} years)...`);
+  // 2. Individual contest details (with rounds + scores)
+  log("Fetching contest details...");
   const contestsDir = join(DATA_DIR, "contests");
   ensureDir(contestsDir);
 
@@ -109,44 +105,24 @@ async function main() {
 
   console.log(`\n  ✓ ${filteredDetails.length} contest files written`);
 
-  // 4. Summary: write a merged index for fast search/listing
-  log("Writing contest index...");
-  const index = filteredDetails.map((detail) => ({
-    year: detail.year,
-    city: detail.city,
-    country: detail.country,
-    intendedCountry: detail.intendedCountry,
-    slogan: detail.slogan,
-    logoUrl: detail.logoUrl,
-    broadcasters: detail.broadcasters,
-    presenters: detail.presenters,
-    // Flatten contestants for search: [{ country, artist, song }]
-    contestants: detail.contestants.map((c) => ({
-      id: c.id,
-      country: c.country,
-      artist: c.artist,
-      song: c.song,
-    })),
-    // Winner = contestant with place:1 in the final
-    winner: (() => {
-      const final = detail.rounds.find((r) => r.name === "final");
-      const winnerPerf = final?.performances?.find((p) => p.place === 1);
-      if (!winnerPerf) return null;
-      const winner = detail.contestants.find(
-        (c) => c.id === winnerPerf.contestantId,
-      );
-      return winner
-        ? {
-            country: winner.country,
-            artist: winner.artist,
-            song: winner.song,
-            points: winnerPerf.scores.find((s) => s.name === "total")?.points ?? null,
-          }
-        : null;
-    })(),
-  }));
-
-  writeJson(join(DATA_DIR, "index.json"), index);
+  // 4. Contestant details (optional — only when --contestants flag is set)
+  if (FETCH_CONTESTANTS) {
+    const totalContestants = filteredDetails.reduce((n, d) => n + d.contestants.length, 0);
+    log(`Fetching contestant details (${totalContestants} total)...`);
+    let fetched = 0;
+    for (const detail of filteredDetails) {
+      const contestants = await eurovisionApi.allContestants(detail.year, "senior", 4);
+      for (const c of contestants) {
+        writeJson(
+          join(DATA_DIR, "contestants", String(detail.year), `${c.id}.json`),
+          c,
+        );
+        fetched++;
+        process.stdout.write(`\r  ${fetched}/${totalContestants} contestants fetched   `);
+      }
+    }
+    console.log(`\n  ✓ ${fetched} contestant files written`);
+  }
 
   console.log(`\n✅ Done! Data written to src/data/`);
   console.log(

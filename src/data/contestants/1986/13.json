@@ -1,0 +1,53 @@
+{
+  "id": 13,
+  "country": "PT",
+  "artist": "Dora",
+  "song": "Não sejas mau para mim",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/DOzMkQWvHOQ",
+    "https://www.youtube-nocookie.com/embed/-4Ws59TkuMI",
+    "https://www.youtube-nocookie.com/embed/jxmDE0MSBrk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Não sejas mau para mim",
+      "content": "O lado bom da vida\nO sonho de saber viver\nÉ tempo de seguir\nO novo amanhecer\n\nNão sejas mau p'ra mim, oh oh...\nSó te quero a ti, oh oh...\n\nUma história de amor com 'A'\nNão vou contar nem sequer esquecer\nO lado bom de passar contigo\nFica guardado no meu sentido\nAs fitas loucas, os beijos húmidos\nAs crises curtas, tudo bem\nEu quero sonhar\nCurtir, abraçar\nO fogo que arde em ti\n\nNão sejas mau p'ra mim, oh oh...\nSó te quero a ti, oh oh...\nNão sejas mau p'ra mim, oh oh...\nSó te quero a ti, oh oh...\n\nJá não sei se o problema é\nImaginar que tudo é possível\nNão faço idea se me virar\nQual a cor do meu infinito\nO som do amor, os beijos mágicos\nO in e o out, tudo bom\nFicas ou vais?\nAguento até ver, espero ou não por ti?\n\nNão sejas mau p'ra mim, oh oh...\nSó te quero a ti, oh oh...\nNão sejas mau p'ra mim, oh oh...\nSó te quero a ti (Oh oh...)\nNão sejaѕ mau p'rа mim"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Don't be so angry with me",
+      "content": "The good side of life\nThe dream of knowing how to live\nIt's time to follow\nThe new dawn\n\nDon't be so angry with me, oh oh...\nI only want you, oh oh...\n\nA love story with 'L'\nI'm not counting on it, but I won't forget it\nThe good side of being with you\nIs kept in my senses\nThe crazy tapes, the wet kisses\nThe short sentences, it's all right\nI want to dance\nTo enjoy, to embrace\nThe fire that's burning inside of you\n\nDon't be so angry with me, oh oh...\nI only want you, oh oh...\nDon't be so angry with me, oh oh...\nI only want you, oh oh...\n\nI don't know if it's a problem\nTo imagine that everything is possible\nI have no idea how to change\nThe colour of infinity\nThe sound of love, the magical kisses\nThe in and the out, it's all right\nAre you staying or are you going?\nI'm not waiting to see you, should I wait for you or not?\n\nI only want you, oh oh...\nDon't be so angry with me, oh oh...\nI only want you (Oh oh...)\nDon't be ѕo angry with me\nI only wаnt you"
+    }
+  ],
+  "bpm": 127,
+  "tone": "C# minor",
+  "artistPeople": [
+    "Maria Reis Dias de Jesus"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Colin Frechter",
+  "lyricists": null,
+  "writers": [
+    "Guilherme Inês",
+    "Zé da Ponte",
+    "Luís Oliveira"
+  ],
+  "broadcaster": "RTP",
+  "commentators": [
+    "Fialho Gouveia"
+  ],
+  "jury": null,
+  "spokesperson": "Margarida Andrade"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 6,
+  "country": "IE",
+  "artist": "Muriel Day and the Lindsays",
+  "song": "The Wages of Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Rcn0M_pqP2c",
+    "https://www.youtube-nocookie.com/embed/OA_9tTcY17Y"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The Wages of Love",
+      "content": "Look before you leap right into love, my friend\nIt cannot be bought so very cheap, my friend\nLove that makes you laugh\nLove that makes you cry\nBefore you really understand it\nIt can make you live, it can make you die\n\nThere will be bridges to be crossed\nAnd there'll be teardrops to be lost\nOr you will have to pay the cost\nJust wait and see, oh yeah\nThere are many rainbows on the way\nDays are maybe bright or maybe grey\nSo when you fall in love, you pay\nThe wages of love\nThe wages of love\nThe wages of love\n\nJust take my advice, don't be a fool, my friend\nWhen you fall in love, you go to school, my friend\nLessons must get learned\nFingers must get burned\nBefore you really understand it\nLove is very nice if you pay the price\n\nThere will be bridges to be crossed\nAnd there'll be teardrops to be lost\nOr you will have to pay the cost\nJust wait and see, oh yeah\nThere are many rainbows on the way (On the way)\nDays are maybe bright or maybe grey (Maybe grey)\nSo when you fall in love, you pay\nThe wages of love\nThe wages of love\nThe wages of love\n\nThere will be bridges to be crossed (To be crossed)\nAnd there'll be teardrops to be lost (To be lost)\nOr you will have to pay the cost\nJust wait and see\nThere are many rainbows on the way (On the way)\nDays are maybe bright or maybe grey (Maybe grey)\nSo when you fall in love, you pay\nThe wages of love\nThe wages of love\nThe wаgeѕ of love"
+    }
+  ],
+  "bpm": 148,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Muriel Day"
+  ],
+  "backings": [
+    "Mary Doyle",
+    "Patricia Doyle",
+    "Sheila Flynn"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Noel Kelehan",
+  "lyricists": null,
+  "writers": [
+    "Michael Reade"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Gay Byrne"
+  ],
+  "jury": null,
+  "spokesperson": "John Skehan"
+}

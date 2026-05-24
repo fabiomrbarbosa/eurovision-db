@@ -1,0 +1,42 @@
+{
+  "id": 1,
+  "country": "GB",
+  "artist": "Matt Monro",
+  "song": "I Love the Little Things",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/3aopcEG5Yfc",
+    "https://www.youtube-nocookie.com/embed/0DRJvQFfIAg",
+    "https://www.youtube-nocookie.com/embed/hYj_haXQNaY"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I Love the Little Things",
+      "content": "Oh… I love the little things you say\nAnd I love the little things you do\nLet's stay forever together this way\nMy love, I'm so in love with you\n\nWhen you whisper 'I love you'\nAnd tell me that you're true\nI know I'm so lucky\nThat I've found a girl like you\n\nOh… I love the little things you say\nAnd I love the little things you do\nLet's stay forever together this way\nMy love, I'm so in love with you\n\nWhen we're walking together\nYou slip your hand in mine\nI know I'm so lucky\nThat I've found a girl so fine\n\nI love the little things you say\nAnd I love the little things you do\nLet's stay forever together this way\nMy love, I'm so in love with you\n\nWhen you touch me and hold me\nAnd kiss me tenderly\nI know I'm so lucky\nThat you came along for me\n\nI love the little things you say\nAnd I love the little things you do\nLet's stay forever together this wаy\nMy love, I'm so in love with you\nMy love, I'm ѕo in love with you"
+    }
+  ],
+  "bpm": 87,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Terence Parsons"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Harry Rabinowitz",
+  "lyricists": null,
+  "writers": [
+    "Tony Hatch"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "David Jacobs"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

@@ -1,0 +1,56 @@
+{
+  "id": 11,
+  "country": "IT",
+  "artist": "Ricchi e Poveri",
+  "song": "Questo amore",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/96JYOhhVW2A",
+    "https://www.youtube-nocookie.com/embed/pWLH49vwXMM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Questo amore",
+      "content": "Questo amore, tu mi piaci da morire\nQuesto amore, dai, smettiamo di ballare\nQuesto amore, qui fa caldo, usciamo un po'\n\nQuesto amore, io domani non lavoro\nIo nemmeno, la tua bocca sulla mia\nChe fatica andare via, cominciava così\nCosì con niente\n\nLa giostra che va e la testa mi gira\nRaccontala giusta e non avere paura, no\nScommetti che mi vuoi bene\nAndiamo insieme, ancora un po', ancora più su\n\nQuesto amore, tu mi piaci da morire\nNon parlare, non riesco a respirare\nQuesto amore, acqua viva su di me\nÈ vero, ti voglio bene\n\nQuesto amore, le tue unghie, le mie braccia\nLa tua faccia, la tua bocca sulla mia\nChe fatica andare via, ma perchè andare via\n\nQuesto amore, quanti giochi improvvisati\nDue bambini non sarebbero mai stаti\nPiù vicini, più imposѕibili di noi"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "This love",
+      "content": "This love, I like you till death\nThis love, come on, let's stop dancing\nThis love, it's warm here, let's go outside a while\n\nThis love, I'm not working tomorrow\nNeither do I, your mouth on mine\nIt's so hard to go away, it started like this\nLike this with nothing\n\nThe merry-go-round is turning, and my head is dizzy\nTell the whole truth, and don't be scared, no\nI bet you really want me\nLet's go together, a little more, a little higher\n\nThis love, I like you till death\nDon't speak, I can't breathe\nThis love, water splashes on me\nIt's true, I really want you\n\nThis love, your nails, my arms\nYour face, your mouth on mine\nIt's so hard to go away, there's no reason to go away\n\nThis love, so many improvised games\nTwo children would never have been\nMore close, more impossible thаn uѕ"
+    }
+  ],
+  "bpm": 165,
+  "tone": "G minor",
+  "artistPeople": [
+    "Angela Brambati",
+    "Angelo Sotgiu",
+    "Franco Gatti",
+    "Marina Occhiena"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Dario Farina",
+    "Mauro Lusini"
+  ],
+  "conductor": "Nicola Samale",
+  "lyricists": [
+    "Sergio Bardotti"
+  ],
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Rosanna Vaudetti"
+  ],
+  "jury": null,
+  "spokesperson": "Mariolina Cannuli"
+}

@@ -1,0 +1,48 @@
+{
+  "id": 10,
+  "country": "NO",
+  "artist": "Charmed",
+  "song": "My Heart Goes Boom",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/b1vK77bk2HM",
+    "https://www.youtube-nocookie.com/embed/yWM2NBZ29lM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "My heart goes boom",
+      "content": "Wooh!\n\nSummer, Saturday and sunshine, suddenly, I saw you there\nA stunning sight from God knows where\nYou were standing in the shadows, looking quite impossible\nI lost my mind and popsicle\n\nA radio was singing\nSomething blue in perfect tune\nHalf a look over your shoulder\nI couldn't keep from staring back at you\n\nMy heart goes boom when I see you, baby\nDon't you tell me maybe, it can never be too soon\nMy heart goes boom, put your arms around me\nSay you're glad you found me, take me spinning round the moon\nMy heart goes boom\n\nSummer, Saturday, and sunset, you said hello and I said hi\nAnd something lit the evening sky\nYou came out of the shadows with a teasing twinkle in your eye\nAnd took my senses for a ride\n\nA radio was playing\nSomething slow in perfect tune\nHalf a smile as you sat down\nI couldn't seem to keep my eyes off you\n\nMy heart goes boom when I see you, baby\nDon't you tell me maybe, it can never be too soon\nMy heart goes boom, put your arms around me\nSay you're glad you found me, take me spinning round the moon\n(My heart goes boom)\n\nA radio was singing\nSomething blue in perfect tune\nHalf a look over your shoulder\nI couldn't seem to keep my eyes off you\n\nMy heart goes…\nMy heart goes boom when I see you, baby\nDon't you tell me maybe, it can never be too soon\nMy heart goes boom, put your arms around me\nSay you're glad you found me, take me spinning round the moon\nMy heart goes boom\n\nOh baby, my heаrt goeѕ boom"
+    }
+  ],
+  "bpm": 105,
+  "tone": "B major",
+  "artistPeople": [
+    "Hanne Kristine Haugsand",
+    "Lise Monica Nygård",
+    "Oddrun Valestrand"
+  ],
+  "backings": [
+    "Åse Karin Hjelen",
+    "Åshild Kristin Stensrud",
+    "Håvard Gryting"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Morten Henriksen",
+    "Tore Madsen"
+  ],
+  "broadcaster": "NRK",
+  "commentators": [
+    "Jostein Pedersen"
+  ],
+  "jury": null,
+  "spokesperson": "Marit Åslein"
+}

@@ -1,0 +1,58 @@
+{
+  "id": 21,
+  "country": "IS",
+  "artist": "Daníel Augúst Haraldsson",
+  "song": "Það sem enginn sér",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/0UQfCtIxn_s",
+    "https://www.youtube-nocookie.com/embed/E7FGDx__fqo",
+    "https://www.youtube-nocookie.com/embed/58lAqRKIxa0",
+    "https://www.youtube-nocookie.com/embed/Wuj-YVDJyhU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "icelandic"
+      ],
+      "displayedLanguages": null,
+      "title": "Það sem enginn sér",
+      "content": "Lýstu mina leið, lostafulli gamli máni\nÞótt gatan virðist greið er samt ýmislegt sem enginn sér\nVeröldin er full af fólki í leit að hamingjunni\nSem glóir eins og gull í glætunni, ó tungl, frá þér\n\nHorfðu aftur í augun á mér\nHorfðu aftur, ég bíð eftir þér\nHorfðu aftur í augun á mér\nOg þú færð að sjá það sem enginn sér\n\nAllir eiga þrá um eitthvað sem þeir engum segja\nÉg ætla ef ég má að eiga leyndarmál með þér\nLýstu mina leið, ó, þú lostafulli gamli máni\nÞótt gatan virðist greið er samt ýmislegt sem enginn sér\n\nHorfðu aftur í augun á mér\nHorfðu aftur, ég bíð eftir þér\nHorfðu aftur í augun á mér\nOg þú færð að sjá það sem enginn sér\n\nHorfðu aftur í augun á mér\nHorfðu aftur, ég bíð eftir þér\nHorfðu aftur í augun á mér\nOg þú færð að sjá þаð sem enginn ѕér"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "What no one sees",
+      "content": "Light up my path, lustful old moon\nThough the road seems clear there are things the eye can't see\nThe world is full of people seeking happiness\nThat glows like gold in the light from the moon\n\nLook back into my eyes\nLook back, I wait for you\nLook back into my eyes\nAnd you can see what no one sees\n\nEveryone desires something they keep to themselves\nI intend if I may, to have a secret with you\nLight up my path, oh, you lustful old moon\nThough the road seems clear there are things the eye can't see\n\nLook back into my eyes\nLook back, I wait for you\nLook back into my eyes\nAnd you will see what no one sees\n\nLook back into my eyes\nLook back, I wait for you\nLook back into my eyes\nAnd you will see whаt no one seeѕ"
+    }
+  ],
+  "bpm": 96,
+  "tone": "C major",
+  "artistPeople": [
+    "Daníel Ágúst Haraldsson"
+  ],
+  "backings": [
+    "Eva Ásrún Albertsdóttir",
+    "Eva Leila Banine",
+    "Karl Örvarsson",
+    "Kristjan Vidar Haraldsson",
+    "Valgeir Guðjónsson"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Valgeir Guðjónsson"
+  ],
+  "broadcaster": "RÚV",
+  "commentators": [
+    "Arthúr Björgvin Bollason"
+  ],
+  "jury": null,
+  "spokesperson": "Erla Björk Skúladóttir"
+}

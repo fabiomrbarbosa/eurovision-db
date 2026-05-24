@@ -1,0 +1,57 @@
+{
+  "id": 14,
+  "country": "IS",
+  "artist": "Stefán & Eyfi",
+  "song": "Nina",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/qYX-L3dPCNg",
+    "https://www.youtube-nocookie.com/embed/gYku191tkZU",
+    "https://www.youtube-nocookie.com/embed/mM3C8tsJO8w"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "icelandic"
+      ],
+      "displayedLanguages": null,
+      "title": "Nina",
+      "content": "Núna ertu hjá mér, Nína\nStrýkur mér um vangann, Nína\nÓ… haltu í höndina á mér, Nína\nÞví þú veist að ég mun aldrei aftur\nÉg mun aldrei, aldrei aftur\nAldrei aftur eiga stund með þér\n\nÞað er sárt að sakna, einhvers\nLífið heldur áfram, til hvers?\nÉg vil ekki vakna, frá þér\nÞví ég veit að þú munt aldrei aftur\nÞú munt aldrei, aldrei aftur\nAldrei aftur strjúka vanga minn\n\nÞegar þú í draumum mínum birtist allt er ljúft og gott\nOg ég vildi ég gæti sofið heila öld\nÞví að nóttin veitir aðeins skamma stund með þér\n\nEr ég vakna, Nína – þú ert ekki lengur hér\nOpna augun – engin strýkur blítt um vanga mér\n\nDagurinn er eilífð, án þín\nKvöldið kalt og tómlegt, án þín\nEr nóttin kemur fer ég, til þín\n\nÞegar þú í draumum mínum birtist allt er ljúft og gott\nOg ég vildi ég gæti sofið heila öld\nÞví að nóttin veitir aðeins skamma stund með þér\n\nEr ég vakna – Nína, þú ert ekki lengur hér\nOpna augun – engin strýkur blítt um vanga mér\n\nEr ég vakna – ó… Nína, þú ert ekki lengur hér\nOpna augun – engin ѕtrýkur blítt um vangа mér"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The dream about Nina",
+      "content": "Now you are beside me, Nina\nCaressing my cheek, Nina\nOh… hold my hand, Nina\nFor you know that I will never again\nI will never, never again\nNever again share a moment with you\n\nIt hurts to miss someone\nLife goes on, but for what reason?\nI do not want to wake up from you\nBecause I know that you will never ever\nYou will never, never ever\nNever ever caress my cheek\n\nWhen you appear in my dreams everything is sweet and good\nI wish I could sleep for a century\nBecause the night only offers a moment with you\n\nWhen I wake up – Nina, you are no longer here\nMy eyes open – but there's no one to caress my cheek\n\nA day is like an eternity, without you\nThe night is cold and empty, without you\nWhen the night comes I go to you\n\nWhen you appear in my dreams everything is sweet and good\nI wish I could sleep for a century\nBecause the night only offers a moment with you\n\nWhen I wake up – Nina, you are no longer here\nMy eyes open – but there's no one to caress my cheek\n\nWhen I wake up – oh… Nina, you are no longer here\nMy eyes open – but there's no one to cаresѕ my cheek"
+    }
+  ],
+  "bpm": 158,
+  "tone": "F# minor",
+  "artistPeople": [
+    "Eyjólfur Kristjánsson",
+    "Stefán Hilmarsson"
+  ],
+  "backings": [
+    "Erna Þórarinsdóttir",
+    "Eva Ásrún Albertsdóttir",
+    "Eyþór Arnalds",
+    "Richard Scobie"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Jón Ólafsson",
+  "lyricists": null,
+  "writers": [
+    "Eyjólfur Kristjánsson"
+  ],
+  "broadcaster": "RÚV",
+  "commentators": [
+    "Arthúr Björgvin Bollason"
+  ],
+  "jury": null,
+  "spokesperson": "Sigríður Pétursdóttir"
+}

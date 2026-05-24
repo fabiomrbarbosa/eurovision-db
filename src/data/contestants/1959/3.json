@@ -1,0 +1,50 @@
+{
+  "id": 3,
+  "country": "CH",
+  "artist": "Christa Williams",
+  "song": "Irgendwoher",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/xHb8J0Mw_oE",
+    "https://www.youtube-nocookie.com/embed/UYIKF7oaN0A"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Irgendwoher",
+      "content": "Fremder Himmel, fremde Sterne, endlos wie die Ewigkeit\nSuch' ich rastlos in der Ferne traurig die Vergangenheit\n\nIrgendwoher, kommt übers Meer eine Liebesmelodie\nSehnsucht und Schmerz erfüllt mein Herz\nUnsre Zeit vergess' ich nie\n\nDu, Märchen vom Glück, bitte komm' doch zurück\nLass' mich nicht einsam sein\nIch wusste ja nicht, dass das Herz mir einst bricht\nWarum bin ich so allein?\n\nIrgendwoher, kommt übers Meer diese Liebesmelodie\nWenn du auch längst nie mehr dran denkst\nDiese Zeit vergess' ich nie\n\nDu, Märchen vom Glück, bitte komm' doch zurück\nLass' mich nicht einsam sein\nIch wusste ja nicht, dass mein Herz mir einst bricht\nWarum bin ich so allein?\n\nIrgendwoher, kommt übers Meer diese Liebesmelodie\nWenn du auch längst, nie mehr drаn denkst\nDiese Zeit vergess' ich nie\nDiese Zeit vergesѕ' ich nie"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "From somewhere",
+      "content": "Unknown sky, unknown stars, endless like eternity\nSearching restless in the distance sadly the past\n\nFrom somewhere comes over the sea a melody of love\nLonging and pain fill my heart\nI never forget our time together\n\nOh, fairytale of luck, please come back\nDon't let me be lonely\nI didn't know that my heart will break\nWhy am I so alone?\n\nFrom somewhere comes over the sea this melody of love\nEven if you don't think about it\nThis time, I'll never forget\n\nOh, fairytale of luck, please come back\nDon't let me be lonely\nI didn't know that my heart will break\nWhy am I so alone?\n\nFrom somewhere comes over the sea this melody of love\nEven if you don't think аbout it\nThis time, I'll never forget\nThiѕ time, I'll never forget"
+    }
+  ],
+  "bpm": 164,
+  "tone": "C# major",
+  "artistPeople": [
+    "Rita Maria Braun"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Franck Pourcel",
+  "lyricists": null,
+  "writers": [
+    "Lothar Löffler"
+  ],
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Theodor Haller"
+  ],
+  "jury": null,
+  "spokesperson": "Boris Acquadro"
+}

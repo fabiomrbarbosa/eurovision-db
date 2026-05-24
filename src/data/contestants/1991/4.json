@@ -1,0 +1,67 @@
+{
+  "id": 4,
+  "country": "CH",
+  "artist": "Sandra Simó",
+  "song": "Canzone per te",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vC881n7Rk2c",
+    "https://www.youtube-nocookie.com/embed/33g-fNcdw3A",
+    "https://www.youtube-nocookie.com/embed/0Ger1XeZAeI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Canzone per te",
+      "content": "Io questa sera vorrei sognare un po'\nCon quattro note fermare la realtà\nPoi nella mente ritorna l'allegria\nSe c'è una canzone mia\n\nLei mi riporta a scoprire dentro me\nNei miei sorrisi la tua complicità\nPoi dare un calcio alla mia tristezza che\nC'è quando te ne vai\n\nPortami via con te, non mi lasciare mai\nNon voglio perderti, stringimi forte perché\nC'è una canzone che ti parlerà di me\nA lei affiderò tutto il mio amore per te\n\nPoi ritrovarmi seduta dentro un bar\nCon le mie note e un sogno dentro me\nNo, no, non serve fermare la realtà\nDai chiudi gli occhi e vai\n\nPortami via con te, non mi lasciare mai\nNon voglio perderti, ѕtringimi forte perché\nC'è una canzone che ti parlerà di me\nA lei affiderò tutto il mio amore per te\n\nUna canzone che cаnterò e vivrò con te"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": null,
+      "title": "Τραγούδι για σένα",
+      "content": "Ήθελα να ονειρευτώ λίγο απόψε\nΜε τέσσερις νότες να σταματήσω την πραγματικότητα\nΤότε, επιστρέφει η χαρά στο μυαλό μου\nΑν υπάρχει τραγούδι μου\n\nΜιας και πάλι δείχνει τι είναι μέσα μου\nΜέσα στα χαμόγελά μου και στη συνενοχή σου\nΤότε δίνεις μια κλοτσιά στη λύπη μου\nΤώρα φεύγεις\n\nΠάρε με μαζί σου, μη μ' αφήσεις ποτέ\nΔε θέλω να σε χάσω, κράτα με σφικτά γιατί\nΥπάρχει τραγούδι που θα σου μιλήσει για μένα\nΘα του εμπιστευτώ όλη την αγάπη που έχω για σένα\n\nΤότε βρίσκομαι να κάθομαι σε ένα μπαρ\nΜε τις νότες μου και ένα όνειρο μέσα μου\nΌχι, όχι, δε βοηθά στο να σταματήσει την πραγματικότητα\nΚλείσε τα μάτια σου και φύγε\n\nΠάρε με μαζί σου, μη μ' αφήσεις ποτέ\nΔε θέλω να σε χάσω, κράτα με σφικτά γιατί\nΥπάρχει τραγούδι που θα σου μιλήσει για μένα\nΘα του εμπιστευτώ όλη την αγάπη που έχω για σένα\n\nΈνα τραγούδι που θα τραγουδώ και θα ζω μαζί σου"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "A song for you",
+      "content": "I want to dream a little tonight\nTo stop reality with four notes\nThen, joy comes back into my mind\nIf there's a song of mine\n\nIt once again shows what is inside of me\nIn my smiles and your complicity\nThen give a kick to my sadness\nIt's now that you leave\n\nTake me away with you, don't ever leave me\nI don't want to lose you, hold me tightly because\nThere's a song that will speak to you about me\nI'll entrust it all my love for you\n\nThen making out, sitting in a bar\nWith my notes and a dream inside of me\nNo, it doesn't help to stop reality\nClose your eyes and go\n\nTake me away with you, don't ever leave me\nI don't want to lose you, hold me tightly because\nThere's a song that will speak to you about me\nI'll entrust it all my love for you\n\nA song that I will ѕing аnd live with you"
+    }
+  ],
+  "bpm": 127,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Sandra Studer"
+  ],
+  "backings": [
+    "Antonella Melone",
+    "Paola Repele",
+    "Renzo Meneghinello",
+    "Ricky Belloni"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Flaviano Cuffari",
+  "lyricists": null,
+  "writers": [
+    "Renato Mascetti"
+  ],
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Bernard Thurnheer",
+    "Emanuela Gaggini",
+    "Lolita Morena"
+  ],
+  "jury": null,
+  "spokesperson": "Michel Stocker"
+}

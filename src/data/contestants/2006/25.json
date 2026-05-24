@@ -1,0 +1,62 @@
+{
+  "id": 25,
+  "country": "BE",
+  "artist": "Kate Ryan",
+  "song": "Je t'adore",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/JFhewse8jsA",
+    "https://www.youtube-nocookie.com/embed/uTnoWV-7doQ",
+    "https://www.youtube-nocookie.com/embed/K4DWgr6mi2Q",
+    "https://www.youtube-nocookie.com/embed/4esfI4fPW6M"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Je t'adore",
+      "content": "The sum of all my fantasies\nThat's everything you are to me\n\nYou came around and made my senses fly\nShook me up when you took me to the sky\nNever thought that I could ever get this high\n\nJe t'adore and I can't conceal it\nJe t'adore, anyone can see it\nYou give me just a little more\nOf everything I've waited for\n\nJe t'adore, here's my heart, so take it\nJe t'adore, only you can break it\nYou got me fallen to the floor\nAny way you want, I'm yours\n(Je t'adore)\n\nBye bye to all the lies I've heard\nYou made a different kind of girl\n\nYou spun me out and you made my senses fly\nShook me up when you took me to the sky\nNever thought that I could ever get this high\n\nJe t'adore and I can't conceal it\nJe t'adore, anyone can see it\nYou give me just a little more\nOf everything I've waited for\n\nJe t'adore, here's my heart, so take it\nJe t'adore, only you can break it\nYou got me fallen to the floor\nAny way you want, I'm yours\nJe t'adore\n\nYou're the rush that I missed\nMade a wish that I'd feel a kiss\nJust like this\n\nJe t'adore, yeah, you made me feel it\nJe t'adore, and I really mean it\nYou give me just a little more\nOf everything I've waited for\n(Everything I've ever waited for)\n\nJe t'adore, here's my heart, so take it\nJe t'adore, baby, don't you break it\nYou got me fallen to the floor\nAny way you want, I'm yourѕ\n\nJe t'аdore"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Je t'adore",
+      "content": "Tu es a moi, tu es ma vie\nLa somme de toutes mes envies\n\nTu es venu pour libérer mes sens\nJ'étais perdue tu as gagné ma confiance\nSens dessous dessus devant toi, sans défense\n\nJe t'adore, pour ne rien te cacher\nJe t'adore, aux yeux du monde entier\nTu me donnes plus, j'en veux encore\nNotre amour est sans effort\n\nJe t'adore, sens mon coeur qui bat vite\nJe t'adore, sensation inédite\nEt tous les jours un peu plis fort\nPour toi je suis toujours d'accord\n(Je t'adore)\n\nBye Bye les larmes, les tromperies\nPour toi j'entame une autre vie\n\nTu es venu pour réveiller mes sens\nJ'étais perdue tu as gagné ma confiance\nJe suis aux anges quand tu m'embrasses\n\nJe t'adore, pour ne rien te cacher\nJe t'adore, aux yeux du monde entier\nTu me donnes plus, j'en veux encore\nNotre amour est sans effort\n\nJe t'adore, sens mon coeur qui bat vite\nJe t'adore, sensation inédite\nEt tous les jours un peu plis fort\nPour toi je suis toujours d'accord\nJe t'adore\n\nJe n'sais pas c'qui ce passe\nJe suis aux anges quand tu m'embrasses\nTu m'embrasses\n\nJe t'adore, puisque je te le dit\nJe t'adore, a la mort a la vie\nTu me donnes plus, j'en veux encore\nNotre amour est sans effort\nJe t'adore\n\nSens mon coeur qui bat vite\nJe t'adore, sensation inédite\nEt toutes les nuits quand je m'endors\nC'eѕt de toi que je reve encore\n\nJe t'аdore"
+    }
+  ],
+  "bpm": 135,
+  "tone": "Ab minor",
+  "artistPeople": [
+    "Katrien Verbeeck"
+  ],
+  "backings": [
+    "Britta Bergström",
+    "Jamie Karitzis",
+    "Jeanette Olsson",
+    "Phillip Kempster",
+    "Simon Hardwick"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Kate Ryan",
+    "Lisa Greene",
+    "Niclas Kings",
+    "Niklas Bergwall"
+  ],
+  "broadcaster": "VRT",
+  "commentators": [
+    "André Vermeulen",
+    "Jean-Pierre Hautier"
+  ],
+  "jury": null,
+  "spokesperson": "Yasmine"
+}

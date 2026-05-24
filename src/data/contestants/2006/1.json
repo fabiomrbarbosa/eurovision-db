@@ -1,0 +1,63 @@
+{
+  "id": 1,
+  "country": "RU",
+  "artist": "Dima Bilan",
+  "song": "Never Let You Go",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/waYpnAexrUA",
+    "https://www.youtube-nocookie.com/embed/kUSgXUhXSgA",
+    "https://www.youtube-nocookie.com/embed/AvJCqBqQVSM",
+    "https://www.youtube-nocookie.com/embed/-iqjp0SBPO8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Never Let You Go",
+      "content": "Heavy clouds, no rain, and every move causes pain\nReady kiss, but no love, I feel I'm torn in half\nBurning look, but no heat, it's not you really need\nBaby, now it's happened with us\nWe are dancing on broken glass\nCan't stand no more\n\nNever, never let you go\nYou are the one I'm searching for\nFlesh of my flesh, bone of my bone\nLove's carving it in the stone\n\nNever, never let you go\nReturn the days we had before\nSoul of my soul, blood of my blood\nLove's carving it in my heart\n\nGentle words, no aim, it seems we're playing a game\nEasy smile, but no fun, sweet music for no one\nClose embrace, but no more, cold champagne we forgot to pour\nBaby, now it's happened with us\nWe are dancing on broken glass\nCan't stand no more\n\nNever, never let you go\nYou are the one I'm searching for\nFlesh of my flesh, bone of my bone\nLove's carving it in the stone\n\nNever, never let you go\nReturn the days we had before\nSoul of my soul, blood of my blood\nLove's carving it in my heart\n\nLove's carving it in my heart\nOoh… baby, now it's happened with us\nWe are dancing on broken glass\n(Can't stand no more)\n\nNever, never let you go\nYou are the one I'm searching for\nFlesh of my flesh, bone of my bone\nLove's carving it in the stone\n\nNever, never let you go\nReturn the days we had before\nSoul of my soul, blood of my blood\nLove's carving it in my heart\n\nNever, never let you go\nYou are the one I'm searching for\nFlesh of my flesh, bone of my bone\nLove's carving it in the stone\n\nNever, never let you go\nReturn the days we had before\nSoul of my soul, blood of my blood\nLove's carving it in my heart\n\nLove'ѕ carving it in my heаrt"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Так устроен этот мир",
+      "content": "На разбитых мечтах\nНе развести вновь огонь\nГде рождается страх\nНе обрести покой\nИ не дрогнет рука\nИ боль пульсом у виска\nЗа любовь любовью платить\nКак же дальше сможем мы жить?\nОтветь, скажи\n\nТак устроен этот мир\nЧто имеем-не храним\nПравда одна-нет или да\nНо иногда, знаешь, любовь не права\n\nЧто имеем-не храним\nНо так устроен этот мир\nДа или нет, тысячи лет\nМы не находим ответ\n\nПо разбитым сердцам\nВозможно, можно идти\nНо куда, если там\nСпасенья не найти\nМожно всё поменять\nРазорвать, с нуля начать\nЗа любовь любовью платить\nКак же дальше сможем мы жить?\nОтветь, скажи\n\nТак устроен этот мир\nЧто имеем-не храним\nПравда одна-нет или да\nНо иногда, знаешь, любовь не права\n\nЧто имеем-не храним\nНо так устроен этот мир\nДа или нет, тысячи лет\nМы не находим ответ\nНе находим ответ\n\nЗа любовь любовью платить\nКак же дальше сможем мы жить?\nОтветь, скажи\n\nТак устроен этот мир\nЧто имеем-не храним\nПравда одна-нет или да\nНо иногда, знаешь, любовь не права\n\nЧто имеем-не храним\nНо так устроен этот мир\nДа или нет, тысячи лет\nМы не находим ответ\n\nТак устроен этот мир\nЧто имеем-не храним\nПравда одна-нет или да\nНо иногда, знаешь, любовь не права\n\nЧто имеем-не храним\nНо так устроен этот мир\nДа или нет, тысячи лет\nМы не находим ответ\n\nНе находим ответ"
+    }
+  ],
+  "bpm": 172,
+  "tone": "G minor",
+  "artistPeople": [
+    "Viktor Belan"
+  ],
+  "backings": [
+    "Marina Ahverdova",
+    "Olga Starikova"
+  ],
+  "dancers": [
+    "A. Sankina",
+    "Alina",
+    "Maria Korogodskaya"
+  ],
+  "stageDirector": "Fokas Evangelinos",
+  "composers": [
+    "Alexander Lunyev"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Irina Antonyan",
+    "Karen Kavaleryan"
+  ],
+  "writers": null,
+  "broadcaster": "C1R",
+  "commentators": [
+    "Tatjana Godunova",
+    "Yuriy Aksuta"
+  ],
+  "jury": null,
+  "spokesperson": "Yana Churikova"
+}

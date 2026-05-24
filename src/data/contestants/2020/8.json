@@ -1,0 +1,49 @@
+{
+  "id": 8,
+  "country": "HR",
+  "artist": "Damir Kedžo",
+  "song": "Divlji vjetre",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/2rOwScdxjJU",
+    "https://www.youtube-nocookie.com/embed/ig1-QRMBDwY",
+    "https://www.youtube-nocookie.com/embed/D7zs7CDOs6E"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "croatian"
+      ],
+      "displayedLanguages": null,
+      "title": "Divlji vjetre",
+      "content": "Jednom kad zaboraviš mi ime\nI krevet hladan postane\nKao snijegom okovane zime\nKad ništa ne preostane\nJa ću te voljeti tad,\nDivlji vjetre\n\nU tišini ostavi me gdje sam\nSvaka riječ sad prosta je\nOdlazi i pusti me da ne znam\nKako čovjek postaje ono što nisi više\n\nDivlji vjetre,\nTu na moj prag uvelo lišće donesi mi\nI kišu neka ostavi trag\nTuge u bojama jeseni\nA činilo se zauvijek smo dušom i tijelom zaneseni\nOstaje mi tuga u bojama jeseni\n\n(Ono što nisi više)\nHladna kao kiša ledena\nKada voljet prestaneš\nI kidaj grane neukrotivo,\nAl' prije nego nestaneš\n\nDivlji vjetre,\nTu na moj prag uvelo lišće donesi mi\nI kišu neka ostavi trag\nTuge u bojama jeseni\nA činilo se zauvijek smo dušom i tijelom zaneseni\nOstaje mi tuga u bojamа jeѕeni"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Wild Wind",
+      "content": "Once you forget my name\nAnd the bed becomes cold\nLike winters chained by the snow\nWhen nothing is left\nI will love you then,\nWild wind\n\nLeave me in the silence where I am\nEvery word sounds degrading now\nGo away and don't let me know\nHow a man becomes what you no longer are\n\nWild wind,\nBring dead leaves to me here on my threshold\nAnd the rain so it would leave the trail of\nSadness inside the autumn colors\nAnd it seemed like we are taken away forever, body and soul\nI'm left with the sadness in the autumn colors\n\n(What you no longer are)\nCold as ice rain\nWhen you stop loving\nAnd crack the branches untamably\nBut before you disappear\n\nWild wind,\nBring dead leaves to me here on my threshold\nAnd the rain so it would leave the trail of\nSadness inside the autumn colors\nAnd it seemed like we are taken away forever, body and soul\nI'm left with the sadness in the аutumn colorѕ"
+    }
+  ],
+  "bpm": 125,
+  "tone": "C major",
+  "artistPeople": [
+    "Damir Kedžo"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Ante Pecotić"
+  ],
+  "broadcaster": "HRT",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

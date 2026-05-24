@@ -1,0 +1,58 @@
+{
+  "id": 16,
+  "country": "PL",
+  "artist": "Sixteen",
+  "song": "To takie proste",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/gC75KUIS8bU",
+    "https://www.youtube-nocookie.com/embed/Jt3skfkHm3E"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "polish"
+      ],
+      "displayedLanguages": null,
+      "title": "To takie proste",
+      "content": "Za oknem znowu wstaje dzień\nTwój oddech budzi mnie\nCzekam na dźwięk upragnionych słów\nA słyszę tylko deszcz\n\nBiegnę znów w swoją stronę\nLecz coś mi podpowiada, że\n\nJa wiem i ty to wiesz\nMamy to, co najlepsze jest\nGdy chcesz zabić gniew\nTo takie proste jest\n\nW milczeniu szukam ciepłych warg\nPołykam głuche żale\nNajczulsze chwile porwał wiatr\nI niesie coraz dalej\n\nBiegnę znów, taka samotna\nLecz coś mi podpowiada, że\n\nO... ja wiem i ty to wiesz\nMamy to, co najlepsze jest\nGdy chcesz zabić gniew\nTo takie proste, obejmij mnie\nYoohoo...\n\nTo takie proste jest\nWhoa... yeah...\n\nJa wiem i ty to wiesz\nMamy to, co najlepsze jest\nGdy chcesz zabić gniew\nTo takie proste, obejmij mnie\n\n(Mamy to, mamy to, yeah)\nTy to wiesz\n(Mamy to, mamy to, yeah)\nCo najlepsze jest\n(Mamy to, mamy to, yeah)\nTo tаkie proѕte, obejmij mnie"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "It's easy",
+      "content": "Outside a new day is dawning\nYour breath awakens me\nI'm waiting impatiently for the sound of your voice\nBut all I hear is rain\n\nI run away, as far as I'm concerned\nBut I have the intuition, that\n\nI know and you know too\nWe've got the best that we can get\nWhen you want to suppress anger\nIt's so easy\n\nSilently I search for your warm lips\nSecretly I hold my tears\nThe wind swept up those most tender moments\nCarrying them further and further away\n\nI run away, I'll lose you\nBut I have the intuition, that\n\nOh... I know and you know too\nWe've got the best that we can get\nWhen you want to suppress anger\nIt's easy, embrace me\nYoohoo...\n\nIt's so easy\nWhoa... yeah...\n\nOh... I know and you know too\nWe've got the best that we can get\nWhen you want to suppress anger\nIt's easy, embrace me\n\n(Got the best, got the best, yeah)\nAnd you know it too\n(Got the best, got the best, yeah)\nThat we can get\n(Got the best, got the best, yeah)\nIt's eaѕy, embrаce me"
+    }
+  ],
+  "bpm": 100,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Janusz Witaszek",
+    "Jarosław Pruszkowski",
+    "Mirosław Hoduń",
+    "Renata Dąbkowska",
+    "Tomasz Stryczniewicz"
+  ],
+  "backings": [
+    "Olga Pruszkowska"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jarosław Pruszkowski"
+  ],
+  "conductor": "Wieslaw Pieregorólka",
+  "lyricists": [
+    "Olga Pruszkowska"
+  ],
+  "writers": null,
+  "broadcaster": "TVP",
+  "commentators": [
+    "Artur Orzech"
+  ],
+  "jury": null,
+  "spokesperson": "Jan Chojnacki"
+}

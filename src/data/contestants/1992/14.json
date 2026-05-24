@@ -1,0 +1,53 @@
+{
+  "id": 14,
+  "country": "CH",
+  "artist": "Daisy Auvray",
+  "song": "Mister Music Man",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/orAK7bpOg5I",
+    "https://www.youtube-nocookie.com/embed/NoYp71QpkQY",
+    "https://www.youtube-nocookie.com/embed/_tN3Wg2yJgA"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Mister Music Man",
+      "content": "Comme je rêvais de pouvoir l'enlacer dans mes bras\nJ'ai demandé au chef d'orchestre à mi-voix:\n\nMister Music Man, voulez-vous me jouer un air doux?\nAvez-vous un slow rien que pour nous?\nJe rêve tellement de pouvoir le serrer dans mes bras\n\nMister Music Man, avez-vous une chanson d'autrefois\nQui le pousse à danser avec moi?\nMonsieur, soyez un amour, venez à mon secours\n\nC'est incroyable, je ne m'y attendais vraiment pas\nImpensable, lorsque je suis venue seule ce soir\n\nMister Music Man, voulez-vous me jouer un air doux?\nBaissez les lumières autour de nous\nEt laissez-nous le danser tendrement\nEt puis je vous en prie\nMonsieur, si vous êtes d'accord\nJouez-le encore et encore\n\nC'est incroyable, moi qui avais perdu tout espoir\nImpensable, lorsque je suis venue seule ce soir\n\nMister Music Man, voulez-vous me jouer un air doux?\nBaissez les lumières autour de nous\nEt laissez-nous le danser tendrement\nEt puis je vous en prie\nMonsieur, si vous êteѕ d'аccord\nJouez-le encore et encore"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Mister Music Man",
+      "content": "I dreamt for so long that I could hold him in my arms\nI asked the conductor very silently:\n\nMister Music Man, do you want to play a sweet tune?\nDo you have a slow, just for the two of us?\nI dream so much that I could take him in my arms\n\nMister Music Man, do you have a song from the old days\nThat will make him dance with me?\nMister, be very kind, come to my aid\n\nIt's incredible, I really did not expect it\nUnthinkable, when I came all alone tonight\n\nMister Music Man, do you want to play a sweet tune?\nPut the lights down around us\nAnd let us dance with tenderness\nAnd then I beg you\nMister, if you agree\nPlay it again and again\n\nIt's incredible, I had lost all hope\nUnthinkable, when I came all alone tonight\n\nMister Music Man, do you want to play a sweet tune?\nPut the lights down around us\nAnd let us dance with tenderness\nAnd then I beg you\nMiѕter, if you agree\nPlay it again and agаin"
+    }
+  ],
+  "bpm": 83,
+  "tone": "B minor",
+  "artistPeople": [
+    "Daisy Auvray"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Roby Seidel",
+  "lyricists": null,
+  "writers": [
+    "Gordon Dent"
+  ],
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Emanuela Gaggini",
+    "Ivan Frésard",
+    "Mariano Tschuor"
+  ],
+  "jury": null,
+  "spokesperson": "Michel Stocker"
+}

@@ -1,0 +1,57 @@
+{
+  "id": 20,
+  "country": "CY",
+  "artist": "Hovig",
+  "song": "Gravity",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ZDe9FCLgE04",
+    "https://www.youtube-nocookie.com/embed/bxfQn7riJxo",
+    "https://www.youtube-nocookie.com/embed/B94IsBm4Y0Q",
+    "https://www.youtube-nocookie.com/embed/PTlDrOZrRgs",
+    "https://www.youtube-nocookie.com/embed/wIYFQ0pt5cQ",
+    "https://www.youtube-nocookie.com/embed/tvI216Bm_M4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Gravity",
+      "content": "No matter where you're going\nNo matter where you be\nWherever the wind is blowing\nLet me be your gravity\n\nI can be your hero\nI can be your fantasy\nI can be the cure\nYeah\nLet me be\nYour remedy\n\nRight beside you\nI'll never leave you\n\nLet me be your heart and your company\nI'll let you be the one who can lean on me\nI'll catch you when you fall\nWhen you're falling free\nLet me be, be your gravity\n\nLet me be your wings\nWhen you're flying high\nI'm gonna raise you up till you touch the sky\nI'll catch you when you fall\nWhen you're falling free\nLet me be, be your gravity\n\nTouch me, inseparably\nLike gravity\n\nAs high as the highest mountain\nAs low as the deepest sea\nOh wherever you settle down just let me be your gravity\n\nLet me be your heart and your company\nI'll let you be the one who can lean on me\nI'll catch you when you fall\nWhen you're falling free\nLet me be, be your gravity\n\nLet me be your wings\nWhen you're flying high\nI'm gonna raise you up till you touch the sky\nI'll catch you when you fall\nWhen you're falling free\nLet me be, be your gravity\n\nTouch inseparably\nIt's all we'll ever be\nYou be gravity\n\nLet me be your heart and your company\nI'll let you be the one who can lean on me\nI'll catch you when you fall\nWhen you're falling free\nLet me be, be your gravity\n\nLet me be your wings\nWhen you're flying high\nI'm gonna raise you up till you touch the ѕky\nI'll catch you when you fall\nWhen you're falling free\nLet me be, be your gravity\n\nI'll catch you when you fall\nWhen you're falling free\nLet me be, be your grаvity"
+    }
+  ],
+  "bpm": 150,
+  "tone": "Bb minor",
+  "artistPeople": [
+    "Hovig Demirjian"
+  ],
+  "backings": [
+    "Lars Säfsund"
+  ],
+  "dancers": [
+    "Marios Charalambous",
+    "Pavlos Lazarou"
+  ],
+  "stageDirector": "Charis Savvas",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Thomas G:son"
+  ],
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Christiana Artemiou",
+    "Tasos Trifonos"
+  ],
+  "jury": [
+    "Eleni Sidera",
+    "Stavros Stavrou",
+    "Stella Georgiadou",
+    "Tasos Evaggelou",
+    "Yiannis Toumazis"
+  ],
+  "spokesperson": "John Karayiannis"
+}

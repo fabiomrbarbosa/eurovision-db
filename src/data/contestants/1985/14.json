@@ -1,0 +1,57 @@
+{
+  "id": 14,
+  "country": "TR",
+  "artist": "MFÖ",
+  "song": "Didai didai dai",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/6tlDYMZWSzU",
+    "https://www.youtube-nocookie.com/embed/j7883O1au7c",
+    "https://www.youtube-nocookie.com/embed/BcKdDBpC2vM",
+    "https://www.youtube-nocookie.com/embed/of3x7qb6BSo",
+    "https://www.youtube-nocookie.com/embed/lez2vGIgNOU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "turkish"
+      ],
+      "displayedLanguages": null,
+      "title": "Didai didai dai",
+      "content": "Aşka sabır yeterli olmuyor\nBu sevda başımdan gitmiyor\nEşimden, dostumdan kaçar oldum\nSevdalandım ben sana, aşık oldum\n\nOo… didai didai dai… oo… didai didai dai…\n\nÇalış, çabala, bitmiyor\nGünler sensiz olunca, geçmiyor\nEşimden, dostumdan kaçar oldum\nSevdalandım ben sana, aşık oldum\n\nOo… didai didai dai… oo… didai didai dai…\nOo… didai didai dai… oo… didai didai dai…\n\nHep yanımda ol ki sen\nSevgimiz kolay olsun\nOlay olsun aşkımız\nIlk inanan sen ol bana, a…\n\nOo… didai didai dai… oo… didai didai dai…\n\nDidai didai dai… didai didai dai…\nOlay olsun aşkımız\nIlk inanan sen ol bana, a…\n\nOo… didai didai dai… oo… didai didai dai…\n\nAşka sabır yeterli olmuyor\nBu sevda başımdan gitmiyor\nEşimden, doѕtumdan kaçar oldum\nOo… dai didai dаi…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Diday diday day",
+      "content": "In love, patience is not enough\nI can't get away from this feeling\nI am avoiding all my friends\nLove caught me, I fell in love with you\n\nOh oh oh… diday diday day… oh oh oh… diday diday day…\n\nAlways working, it never stops\nThe days without you are endless\nI am avoiding all my friends\nLove caught me, I fell in love with you\n\nOh oh oh… diday diday day… oh oh oh… diday diday day…\nOh oh oh… diday diday day… oh oh oh… diday diday day…\n\nStay with me\nOur love will be easy\nLet everyone know that we love each other\nYou should be de first to believe me, ah…\n\nOh oh oh… diday diday day… oh oh oh… diday diday day…\n\nDiday diday day… diday diday day…\nLet everyone know that we love each other\nYou should be de first to believe me, ah…\n\nOh oh oh… diday diday day… oh oh oh… diday diday day…\n\nIn love, patience is not enough\nI can't get away from this feeling\nI am avoiding all my friendѕ\nOh oh oh… day diday dаy…"
+    }
+  ],
+  "bpm": 105,
+  "tone": "D major",
+  "artistPeople": [
+    "Fuat Güner",
+    "Mazhar Alanson",
+    "Özkan Uğur"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Garo Mafyan",
+  "lyricists": null,
+  "writers": [
+    "Fuat Güner",
+    "Mazhar Alanson",
+    "Özkan Uğur"
+  ],
+  "broadcaster": "TRT",
+  "commentators": [
+    "Başak Doğru"
+  ],
+  "jury": null,
+  "spokesperson": "Fatih Orbay"
+}

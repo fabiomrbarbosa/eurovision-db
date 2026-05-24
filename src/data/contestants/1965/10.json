@@ -1,0 +1,56 @@
+{
+  "id": 10,
+  "country": "NL",
+  "artist": "Conny Van den bos",
+  "song": "Het is genoeg",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/A3e6RPue-WI",
+    "https://www.youtube-nocookie.com/embed/RSEbJEeEYnU",
+    "https://www.youtube-nocookie.com/embed/gAcb8ivIWjk",
+    "https://www.youtube-nocookie.com/embed/NaP6eKiZagU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "Het is genoeg",
+      "content": "'t Is genoeg\n'k Heb genoeg van alle spelletjes met vuur\n'k Heb genoeg van alle mooie complimentjes\nEn presentjes, 't is genoeg\nIk wil gelukkig zijn\n't Is genoeg\n\nWat je mij hebt beloofd leek zo romantisch\nMaar al gauw bleek dat sprookje een valse schijn\nEn toen jij op die avond in mei onze liefde verspeelde\nWas dat genoeg\n\nMisschien hield jij van mij\nIk was met jou zo blij\nDat ik m'n leven graag met jou had willen delen\nMaar dat je altijd liegt\nEn mij bewust bedriegt\nIs onaanvaardbaar voor een vrouw\nDie, in alles trouw\nTegen jou dan zeggen zou:\n\n't Is genoeg\n'k Heb genoeg van alle spelletjes met vuur\n'k Heb genoeg van alle mooie complimentjes\nEn presentjes, 't is genoeg\nIk wil gelukkig zijn\n't Is genoeg\n\n'k Heb veel mannen gekend\nEn ook illusies\n\nIn romances geloof ik al lang niet meer\nOp den duur vindt toch elk avontuur\nIn verdriet z'n ontknoping\nDat is genoeg\n\nToch droom ik nog steeds van\nEen doodgewone man\nEen die oprecht en ongeremd van mij kan houden\nIk ben het flirten moe\nAan ware liefde toe\nWant ik ben nog een jonge vrouw\nDie, in alles trouw\nTegen hem dan zeggen zou:\n\n't Is genoeg\n'k Heb genoeg van alle spelletjes met vuur\nOok al maak je mij geen leuke complimenten\nDe momenten vаn geluk\nDie geef je mij genoeg\n't Is genoeg\n't Is genoeg\n't Iѕ genoeg"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "It's enough",
+      "content": "It's enough\nI have enough of all the games with fire\nI have enough of all the beautiful compliments\nAnd presents, it's enough\nI want to be happy\nIt's enough\n\nWhat you promised me seemed so romantic\nBut soon that fairy tale appeared to be a deceptive appearance\nAnd when you threw our love away that evening in May\nThat was enough\n\nMaybe you loved me\nI was so happy with you\nThat I gladly wanted to share my life with you\nBut that you're always lying\nAnd cheating me consciously\nIs unacceptable to a woman\nWho, always faithful\nWould tell you then:\n\nIt's enough\nI have enough of all the games with fire\nI have enough of all the beautiful compliments\nAnd presents, it's enough\nI want to be happy\nIt's enough\n\nI've known many men\nAnd also illusions\n\nI don't believe in romances anymore, for a long time now\nIn the long term every adventure finds\nIts ending in grief anyhow\nThat's enough\n\nYet I'm still dreaming of\nA quite common man\nOne who can love me sincerely and unrestrained\nI'm tired of flirting\nReady for true love\nBecause I'm still a young woman\nWho, always faithfully\nWould tell him then:\n\nIt's enough\nI have enough of all the games with fire\nEven though you don't give me аny nice compliments\nThe moments of luck\nYou give them enough\nIt's enough\nIt's enough\nIt'ѕ enough"
+    }
+  ],
+  "bpm": 155,
+  "tone": "C minor",
+  "artistPeople": [
+    "Jacoba Adriana Hollestelle"
+  ],
+  "backings": [
+    "Wim van der Beek"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Johnny Woodhouse"
+  ],
+  "conductor": "Dolf van der Linden",
+  "lyricists": [
+    "Joke van Soest"
+  ],
+  "writers": null,
+  "broadcaster": "NTS",
+  "commentators": [
+    "Teddy Scholten"
+  ],
+  "jury": null,
+  "spokesperson": "Pim Jacobs"
+}

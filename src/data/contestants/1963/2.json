@@ -1,0 +1,56 @@
+{
+  "id": 2,
+  "country": "IT",
+  "artist": "Emilio Pericoli",
+  "song": "Uno per tutte",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ESs_RDiQYQ0",
+    "https://www.youtube-nocookie.com/embed/YRVX4uvVSGw",
+    "https://www.youtube-nocookie.com/embed/7pAMdnMmsAg",
+    "https://www.youtube-nocookie.com/embed/Oqp-R4S0rQE",
+    "https://www.youtube-nocookie.com/embed/uIfkHeDn8iQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Uno per tutte",
+      "content": "Sei quasi fatta per me, dipinta per me, Claudia\nPerò confesso che tu mi piaci di più, Nadia\nDi tutte tutto mi va, huhu lalala… sempre\nNon so decidermi mai, mi trovo perciò nei guai\n\nVi penso e vedo cieli senza nuvole\nE mille mandolini mi accarezzano\nPoi apro gli occhi e allora mi accorgo che\nNon c'è, non c'è nessuna accanto a me\n\nInnamorato di te, desidero te, Laura\nNon sono bello però che colpa ne ho, Giulia?\nHo sulla bocca per voi, hu hu la la la… baci\nEd io li dedico a chi per prima dirà di sì\n\nHo sulla bocca per voi, hu hu la la la… baci\nEd io li dedico a chi per prima dirà di sì\n\nEd io li dedico a chi per primа dirà di ѕì"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "One for all",
+      "content": "You're almost made for me, painted for me, Claudia\nBut I confess that I like you most, Nadia\nI like everything of everyone, huhu lalala… always\nI can never decide, and so I'm in trouble\n\nI'm thinking of you and I see skies without clouds\nAnd a thousand mandolins are caressing me\nThen I open my eyes and that moment I realise that\nThere is no one, there is no one next to me\n\nIn love with you, wanting you, Laura\nI'm not beautiful, but is it my fault, Julia?\nOn my mouth I have huhu lalala… kisses for you\nAnd I'm dedicating them to the first one who will say yes\n\nOn my mouth I have huhu lalala… kisses for you\nAnd I'm dedicating them to the first one who will say yes\n\nAnd I'm dedicating them to the first one who will sаy yeѕ"
+    }
+  ],
+  "bpm": 112,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Emilio Pericoli"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Tony Renis"
+  ],
+  "conductor": "Gigi Cicchellero",
+  "lyricists": [
+    "Alberto Testa",
+    "Mogol"
+  ],
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Renato Tagliani"
+  ],
+  "jury": null,
+  "spokesperson": "Enzo Tortora"
+}

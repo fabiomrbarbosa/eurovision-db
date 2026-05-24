@@ -1,0 +1,53 @@
+{
+  "id": 18,
+  "country": "PT",
+  "artist": "Dora",
+  "song": "Voltarei",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/kZXzQtytpIU",
+    "https://www.youtube-nocookie.com/embed/5QKon0KvlZc",
+    "https://www.youtube-nocookie.com/embed/WH5Wh6EW5Ls",
+    "https://www.youtube-nocookie.com/embed/2Pcw4wKhbpI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Voltarei",
+      "content": "(Voltarei p'ra ti)\n(Esperarei por ti)\n(Por te amar assim)\nVoltarás p'ra mim\n\nEsperarei por ti\nSofrerei por ti\nVoltarei por ti\nVamos jogar até ao fim\n\nVamos começar assim, é agora a minha vez\nEstou aqui e não me vês porque andas cego\nFingi que tenho outro amor para pôr no teu lugar\nAgora fico a ganhar por…\n\nDois a um sem ti\nMas fiquei sem ti\nPor te amar assim\nQuem ri melhor chora no fim\n\nO jogo já terminou, a noite também passou\nQuem perdeu ou quem ganhou, eu já esqueci\nAi, jogo de sorte e de azar, o amor é como o mar\nTem marés de ir e voltar e…\n\nEu voltarei p'ra ti\nVoltarei p'ra ti\nEsperarei por ti\nVoltarás p'ra mim\n\n(Eѕperarei por ti)\nSofrerei por ti\nVoltarei p'ra ti\nQuem ri melhor chora no fim\n\nVoltarei p'rа ti"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I'll come back",
+      "content": "(I'll come back to you)\n(I'll wait for you)\n(I'll love you like this)\nWill you come back to me\n\nI'll wait for you\nI'll suffer for you\nI'll come back for you\nLet's play the game until the end\n\nLet's begin like this, now it's my turn\nI'm standing here and you can't see because you've gone blind\nI pretended I had another love to replace you\nNow I'm winning by…\n\nTwo to one without you\nBut I lost you\nBecause I loved you like this\nThe one who laughs the most, cries in the end\n\nThe game is over, the night has gone by\nWho lost or who won, I've already forgotten\nAh, cat and mouse game, love is like the sea\nWith tides that come and go and…\n\nI'll come back to you\nI'll come back to you\nI'll wait for you\nWill you come back to me\n\n(I'll wait for you)\nI'll suffer for you\nI'll come back to you\nThe one who laughs the most, crieѕ in the end\n\nI'll come bаck to you"
+    }
+  ],
+  "bpm": 185,
+  "tone": "G major",
+  "artistPeople": [
+    "Maria Reis Dias de Jesus"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "José Calvário",
+  "lyricists": null,
+  "writers": [
+    "José Calvário",
+    "José Niza"
+  ],
+  "broadcaster": "RTP",
+  "commentators": [
+    "Margarida Mercês de Mello"
+  ],
+  "jury": null,
+  "spokesperson": "Maria Margarida Gaspar"
+}

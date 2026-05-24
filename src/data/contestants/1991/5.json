@@ -1,0 +1,54 @@
+{
+  "id": 5,
+  "country": "MT",
+  "artist": "Paul Giordimaina & Georgina",
+  "song": "Could It Be",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/jDyURFQs4ik",
+    "https://www.youtube-nocookie.com/embed/SIAm1qaLR10",
+    "https://www.youtube-nocookie.com/embed/piyODRtylD0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Could It Be",
+      "content": "Shadows fall, it's so lonely waiting here\nThere's a garden bare out there, where songbirds sing no more\nNo golden stardust shining and no lining on the cloud\nCould it be you and me have found our rainbow's end?\n\nAutumn leaves falling softly all around\nThere ain't but a single sound of voices I once knew\nNo silver star to follow and no moon to light the way\nCould it be you and me are playing 'let's pretend'?\n\nWon't you just call me?\nIf I'm to blame at all, I'll say I'm sorry\nIt's useless standing tall, I'm longing for your touch\nI'm waiting for a love I knew so well\nSo well\n\nWinter cold, and the wind blows through my hair\nDeep inside you know I care, no matter what's in store\nOur lines of love ain't rhyming and the rhythm is all gone\nCould it be you and me can't say we're on the mend?\nLet's pretend\n\nWon't you just call me?\nIf I'm to blame at all, I'll say I'm sorry\nIt's useless standing tall, I'm longing for your touch\nI'm waiting for a love I knew so well\nOo yeah…\n\nWhoa whoa… won't you just call me?\nThat's all I need to hear to ease the worry\nI'll kiss each lonely tear, to me you mean so much\nGod knows I ѕpeak the truth аnd time will tell\n\nOo…"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "maltese"
+      ],
+      "displayedLanguages": null,
+      "title": "Sejjaħ U Ssibni",
+      "content": "Fejn hu llum? Fejn hi il-warda fuq ħaddejk?\nFejn hi l-leħħa f'ġmiel għajnejk, il-ħmura fuq xufftejk?\nIl-kewkba ntfiet u nsietna fuq il-għatba tal-ġejjien\nGħala jien, għala int, ninsabu mifrudin?\n\nFejn hu llum? Fejn hi l-bewsa fil-widien?\nFejn hi l-għanja tal-ħolqien, tax-xemx jiem bla waqfien?\nHemm sħaba f'della ħbietna u ħallietna imbegħdin\nGħala jien, għala int, ninsabu imnikktin?\n\nSejjaħ u ssibni\nGħalxejn iqum ir-riħ, jitqawwa l-baħar\nJien xorta nasal ħdejk ma jżommni xejn u ħadd\nGħalija int il-bidu w tmiem l-għajxien\n\nFejn hu llum? Fejn hi l-ħeffa ta' passejk?\nFejn hu il-ħlew li nħares lejk, u l-wens taċ-ċkejkna jdejk?\nInżul ix-xemx ħallietna ngħixu biss it-tifkiriet\nGħala jien, għala int, ninsabu mifnijin, mifrudin?\n\nSejjaħ u ssibni\nGħalxejn iqum ir-riħ, jitqawwa l-baħar\nJien xorta nasal ħdejk ma jżommni xejn u ħadd\nGħalija int il-bidu w tmiem l-għajxien\n\nSejjaħ u ssibni\nGħalxejn f'qalbi l-uġiegħ, nistenna b'sabar\nJien xorta nerѕaq lejk ma jżommni xejn u ħadd\nGħalija int il-qofol f'ħаjti ż-żmien"
+    }
+  ],
+  "bpm": 154,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Georgina Abela",
+    "Paul Giordimaina"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Paul Abela"
+  ],
+  "conductor": "Paul Abela",
+  "lyricists": [
+    "Raymond Mahoney"
+  ],
+  "writers": null,
+  "broadcaster": "XM",
+  "commentators": [
+    "Toni Sant"
+  ],
+  "jury": null,
+  "spokesperson": "Dominic Micallef"
+}

@@ -1,0 +1,57 @@
+{
+  "id": 11,
+  "country": "PT",
+  "artist": "Carlos do Carmo",
+  "song": "Uma flor de verde pinho",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/b2J-3jYcmGU",
+    "https://www.youtube-nocookie.com/embed/bwHmCTZEuG0",
+    "https://www.youtube-nocookie.com/embed/-Wg1SQYxQqo"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Uma flor de verde pinho",
+      "content": "Eu podia chamar-te pátria minha\nDar-te o mais belo lindo nome português\nPoderia dar-te um nome de rainha\nQue este amor é de Pedro por Inês\n\nMas não há forma, não há verso\nNão há leito para este fogo, amor, para este rio\nComo dizer um coração fora do peito?\nMeu amor transbordou e eu sem navio\n\nGostar de ti é um poema que não digo\nQue não há taça, amor, para este vinho\nNão há guitarras nem cantar de amigo\nNão há flor, não há flor de verde pinho\n\nNão há barco nem trigo, não há trevo\nNão há palavras para escrever esta canção\nGostar de ti é um poema que não escrevo\nQue há um rio sem leito e eu sem coração\n\nMas não há forma, não há verso\nNão há leito para este fogo, amor, para este rio\nComo dizer um coração fora do peito?\nMeu amor transbordou e eu sem navio\n\nGostar de ti é um poema que não digo\nQue não há taça, amor, para este vinho\nNão há guitarraѕ nem cantar de аmigo\nNão há flor, não há flor de verde pinho"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "A green-pine flower",
+      "content": "I could call you my homeland\nGive you the most beautiful pretty Portuguese name\nI could give you the name of a queen\nBecause this love is like that of Pedro and Inês\n\nBut there is no form, there is no verse\nThere is no bed for this fire, my love, for this river\nHow can I say my heart jumped out of my chest?\nMy love overflowed and I'm without ship\n\nLoving you is like a poem that I don't dare to say\nThere is no cup, my love, for this wine\nThere is no guitar or love song\nThere is no flower, there is no green-pine flower\n\nThere is no boat or wheat, there is no clover\nNo words to write this song\nLoving you is a poem that I don't dare to write\nThere is a river without a riverbed and I'm without heart\n\nThere is no form, there is no verse\nThere is no bed for this fire, my love, for this river\nHow can I say my heart jumped out of my chest?\nMy love overflowed and I'm without ship\n\nLoving you is like a poem that I don't dare to say\nThere is no cup, my love, for this wine\nThere is no guitаr or love song\nThere is no flower, there iѕ no green-pine flower"
+    }
+  ],
+  "bpm": 136,
+  "tone": "G major",
+  "artistPeople": [
+    "Carlos Alberto do Carmo Almeida"
+  ],
+  "backings": [
+    "António Chainho",
+    "José Maria Nóbrega",
+    "Siegfried Sugg"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "José Niza"
+  ],
+  "conductor": "Thilo Krasmann",
+  "lyricists": [
+    "Manuel Alegre"
+  ],
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Eládio Clímaco"
+  ],
+  "jury": null,
+  "spokesperson": "Ana Zanatti"
+}

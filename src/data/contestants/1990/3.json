@@ -1,0 +1,58 @@
+{
+  "id": 3,
+  "country": "IS",
+  "artist": "Stjórnin",
+  "song": "Eitt lag enn",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ybH_XhW6Rkk",
+    "https://www.youtube-nocookie.com/embed/GYMIvqIMb_E",
+    "https://www.youtube-nocookie.com/embed/yShlLpzRWmE",
+    "https://www.youtube-nocookie.com/embed/66YN-LqKD7E",
+    "https://www.youtube-nocookie.com/embed/oZnzD-482Zc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "icelandic"
+      ],
+      "displayedLanguages": null,
+      "title": "Eitt lag enn",
+      "content": "Með þér – verð ég eins og vera ber\nAlveg trylltur, kemst í takt við þig, þú tælir mig\nÉg fer – eftir því sem augað sér\nÞegar hugur girnist heimta ég, verð hættuleg\n\nEitt lag enn, ekta sveiflu og hér\nÞreytist enginn, þú skalt dansa, það sem eftir er\nEinn takt til! Tónar að leika sér að\nÞví sem heillar mig og hæfir, beint í hjartastað\n\nHjá mér – engin spurning um það er\nÞegar mætumst við á miðri leið, ég magna seið\nÞað er – ofsa fjör sem fylgir þér\nSvo ég einhvern veginn umturnast, fæ æðiskast\n\nEitt lag enn, ekta sveiflu og hér\nÞreytist enginn, þú skalt dansa, það sem eftir er\nEinn takt til! Tónar að leika sér að\nÞví sem heillar mig og hæfir, beint í hjartastað\n\nÉg er frjáls í faðmi þér, við förum hvert sem er\nLátum töfra lífsins tak' af okkur völd\n\nEitt lag enn, ekta sveiflu og hér\nÞreytist enginn, þú skalt dansa, það sem eftir er\nEinn takt til! Taflið snýѕt um það eitt\nAð við höldum áfram hraðar, hikum aldrei neitt\n\nAð við höldum áfram, hraðar nú\nHikum аldrei, ég og þú, – við neitt"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "One more song",
+      "content": "With you – I become as I should be\nCompletely wild, I match your rhythm, you seduce me\nI go – by what the eye sees\nWhen I want something I demand, I become dangerous\n\nOne more song, a real swing and here\nNobody tires, you must dance until the end\nOne more beat! Tones to play with\nThat which charms me and strikes my heart\n\nWith me – there's no question\nWhen we meet each other, I conjure a brew\nA lot of fun comes with you\nSo I somehow turn wild, I turn crazy\n\nOne more song, a real swing and here\nNobody tires, you must dance until the end\nOne more beat! Tones to play with\nThat which charms me and strikes my heart\n\nIn your arms, I am free, we'll go anywhere\nLet's let the magic of life take all control\n\nOne more song, a real swing and here\nNobody tires, you must dance until the end\nOne more beat! The game is only about\nUs continuing faster, and never hesitating\n\nThat we continue, faster now\nNever heѕitate, me and you, – with аnything"
+    }
+  ],
+  "bpm": 149,
+  "tone": "F major",
+  "artistPeople": [
+    "Grétar Örvarsson",
+    "Sigga"
+  ],
+  "backings": [
+    "Einar Bragi Bragason"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Hörður G. Ólafsson"
+  ],
+  "conductor": "Jon Kjell Seljeseth",
+  "lyricists": [
+    "Aðalsteinn Ásberg Sigurðsson"
+  ],
+  "writers": null,
+  "broadcaster": "RÚV",
+  "commentators": [
+    "Arthúr Björgvin Bollason"
+  ],
+  "jury": null,
+  "spokesperson": "Árni Snævarr"
+}

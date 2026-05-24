@@ -1,0 +1,57 @@
+{
+  "id": 4,
+  "country": "FR",
+  "artist": "Sandrine François",
+  "song": "Il Faut Du Temps",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/m_Abg3Tv8so",
+    "https://www.youtube-nocookie.com/embed/MCaUGqKZaVc",
+    "https://www.youtube-nocookie.com/embed/p8KcQUkYXRE",
+    "https://www.youtube-nocookie.com/embed/rXjqJW1Uihk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Il faut du temps (Je me battrai pour ça)",
+      "content": "Il faut du temps pour apprendre à sourire\nPour apprendre à grandir au milieu d'un combat\nIl faut du temps pour pendre haut et court\nLes idéaux trop courts, mais on n'en est pas là\n\nJe me suis battue pour ça, j'ai serré dans ma voix\nTous ces mots qui font peur quand on n'les entend pas\nJe me suis battue pour ça, j'ai serré dans mes bras\nToutes ces femmes qui pleurent et que l'on ne voit pas\n\nIl faut du temps, on nous dit ça, on dit\nOn parle et on écrit, et la guerre se vend\nIl faut du temps, non, il faut vouloir fort\nMonsieur Gandhi est mort, est-il mort pour longtemps?\n\nJe me battrais pour ça, ici et maintenant\nMoi, je n'ai plus le temps, j'ai qu'une vie devant moi\nJe me battrai pour ça, je me battrai comment\nLa paix n'est qu'une enfant qui ne marche pas droit\n\nJe n'suis qu'un p'tit soldat sans arme que ma voix\nMais je crierai pour toi, ma colombe pour toi\nJe n'suis qu'un p'tit soldat, maintenant et là-bas\nMais des milliers de voix le crieront avec moi\n\nJe me battrai pour ça, ici et maintenant\nJ'entends monter le vent, mais qui se lèvera?\nJe me battrai pour ça, je me battrai comment\nOn dit qu'il faut du temps, mais des millierѕ de voix\nLe crieront аvec moi"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "It takes time (I will fight for that)",
+      "content": "It takes time to learn how to smile\nTo learn how to grow in the middle of a fight\nIt takes time to hang without much ado\nThe ideals that are too short , but we're not there yet\n\nI've fought for that, I've clasped in my voice\nAll those words that are frightening when we can't hear them\nI've fought for that, I've clasped in my arms\nAll those crying women that we can't see\n\nIt takes time, that's what they say to us, they say\nThey talk and they write, and the war sells\nIt takes time, no, it takes a strong will\nMr Ghandi has died, will he be dead for a long time?\n\nI would fight for that, here and now\nI don't have the time, I only have one life in front of me\nI will fight for that, how will I fight\nPeace is only a child that doesn't walk straight\n\nI'm only a little soldier with no weapon but my voice\nBut I'll cry for you, my dove for you\nI'm only a little soldier, now and over there\nBut a thousand voices will shout it with me\n\nI will fight for that here and now\nI hear the wind rising, but who will get up?\nI will fight for that, how will I fight\nThey say that it takes time, but a thousаnd voices\nWill ѕhout it with me"
+    }
+  ],
+  "bpm": 140,
+  "tone": "G major",
+  "artistPeople": [
+    "Sandrine François"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Marie-Florence Gros",
+    "Patrick Bruel"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Patrick Bruel",
+    "Rick Allison"
+  ],
+  "writers": null,
+  "broadcaster": "France 3",
+  "commentators": [
+    "Marc-Olivier Fogiel",
+    "Dave"
+  ],
+  "jury": null,
+  "spokesperson": "Marie Myriam"
+}

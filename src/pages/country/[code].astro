@@ -135,7 +135,7 @@ const [yearsLine1, yearsLine2] = splitForDisplay(ranges);
 									</td>
 									<td>{h.artist}</td>
 									<td class="song-cell">
-										<em>{h.song}</em>
+										<a href={`/contest/${h.year}/contestant/${h.contestantId}`}><em>{h.song}</em></a>
 									</td>
 									<td class="right mono">
 										{h.finalPlace === 1 ? (
@@ -269,6 +269,8 @@ const [yearsLine1, yearsLine2] = splitForDisplay(ranges);
 		color: var(--c-link);
 		font-weight: 500;
 	}
+	.song-cell a { color: inherit; text-decoration: none; }
+	.song-cell a:hover em { color: var(--c-link); }
 	.song-cell em {
 		color: var(--c-muted);
 	}

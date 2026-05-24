@@ -1,0 +1,72 @@
+{
+  "id": 12,
+  "country": "FI",
+  "artist": "Carita",
+  "song": "Älä mene pois (Keep Me Warm)",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/UIoOiymvwdw",
+    "https://www.youtube-nocookie.com/embed/5fHMGO274_Y",
+    "https://www.youtube-nocookie.com/embed/FPGDAI_v26w",
+    "https://www.youtube-nocookie.com/embed/5VPzHvMsfjc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Älä mene pois (Keep Me Warm)",
+      "content": "Oh my friend, stay a little while\nSomething's happening to our lives\nBy the time it's summer\nFrightened minds are winter\n\nI will free from their icy spell\nBring you fragrance from nature's well\nI'll soothe away your worries\nShow you how my love is\nSay you'll stay and keep me warm\n\nI need you - it's simple to say\nI need you, I must be certain\nIf you go away, you know there's nothing for me\n\nOh my friend, stay and sit with me\nThe nights ahead could be warm and free\nThe morning winds I give you\nI won't disappoint you\nSay you'll stay and keep me warm\n\nI need you - it's simple to say\nI need you, I must be certain\nIf you go away, you know there's nothing for me\n\nOh my friend, when the summer comes\nWe'll be younger, we'll have our fun\nI'll soothe away your worries\nShow you how my love is\nSay you'll stay and keep me warm\n\nSay you'll ѕtay and keep me warm\nStay and keep me warm\nStay and keep me wаrm"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "croatian"
+      ],
+      "displayedLanguages": null,
+      "title": "Nemoj otići",
+      "content": "Prijatelju, nemoj otići\nIz ovoga bi nešto moglo proizaći\nKad stignemo do ljeta\nOslobodit ćemo se leda\n\nSvi umovi tako uplašeni\nU naručju mirisa zemlje me primi\nOtklanjam zablude zime\nDajem vrtove vjetra\nZar još ne odlaziš?\n\nTrebam te, zar ne vidiš?\nTrebam te da doneseš toplinu\nAko više ne ostaneš\nNeću moći – uskoro ću to shvatiti\n\nPrijatelju, nemoj otići\nIz noći bi mogla doći toplina\nZvukove jutarnjeg povjetarca\nČujem pored tebe\nZar još ne odlaziš?\n\nTrebam te, zar ne vidiš?\nTrebam te da doneseš toplinu\nAko više ne ostaneš\nNeću moći – uskoro ću to shvatiti\n\nSve se mijenja kad se tlo otopi\nU naručju miriѕa zemlje me primi\nOtklanjam zablude zime\nDajem vrtove vjetra\nZar još ne odlaziš?\n\nZar još ne odlaziš?\nZar još ne odlaziš?\nZar još ne odlаziš?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "chinese"
+      ],
+      "displayedLanguages": null,
+      "title": "不要离开",
+      "content": "我的朋友，不要离开\n这一切也许能变成什么\n当我们迎来夏天\n我们将从冰封中解放\n\n所有心灵都如此害怕\n你给予我泥土芬芳的怀抱\n我驱散冬日的幻想\n我赠你风之花园\n你还不会离开吧？\n\n我需要你，你看不到吗？\n我需要你带来温暖\n如果你再也不留下\n我撑不下去——很快我会明白\n\n我的朋友，不要离开\n夜里也许会带来温暖\n清晨微风的声音\n我在你身边听到\n你还不会离开吧？\n\n我需要你，你看不到吗？\n我需要你带来温暖\n如果你再也不留下\n我撑不下去——很快我会明白\n\n一切都会改变，当大地融化\n你给予我泥土芬芳的怀抱\n我驱散冬日的幻想\n我赠你风之花园\n你还不会离开吧？\n\n你还不会离开吧？\n你还不会离开吧？\n你还不会离开吧？"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Älä mene pois",
+      "content": "Ystäväin älä mene pois\nTästä jotakin tulla vois\nKun me kesään päästään\nVapautuvat jäästään\n\nKaikki mielet niin pelokkaat\nMulta tuoksuvan sylin saat\nPoistan talven harhat\nAnnan tuulitarhat\nEthän lähde vielä pois\n\nTarvitsen, etkö sä nää\nSua tarvitsen lämmön tuomaan\nJos enää et jää\nEn jaksa – pian sen huomaan\n\nYstäväin älä mene pois\nYöstä lämpöinen tulla vois\nÄänet aamutuulen\nVierelläsi kuulen\nEthän lähde vielä pois\n\nTarvitsen, etkö sä nää\nSua tarvitsen lämmön tuomaan\nJos enää et jää\nEn jaksa – pian sen huomaan\n\nMuuttuu kaikki kun sulaa maat\nMulta tuoksuvan sylin saat\nPoistan talven harhat\nAnnan tuulitarhаt\nEthän lähde vielä pois\n\nEthän vielä lähde pois\nEthän vielä lähde pois\nEthän vielä lähde poiѕ"
+    }
+  ],
+  "bpm": 122,
+  "tone": "C major",
+  "artistPeople": [
+    "Carita Holmström"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Eero Koivistoinen"
+  ],
+  "conductor": "Ossi Runne",
+  "lyricists": [
+    "Frank Robson"
+  ],
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Matti Paalosmaa"
+  ],
+  "jury": null,
+  "spokesperson": "Aarre Elo"
+}

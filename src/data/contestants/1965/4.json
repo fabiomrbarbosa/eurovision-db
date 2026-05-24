@@ -1,0 +1,56 @@
+{
+  "id": 4,
+  "country": "IT",
+  "artist": "Bobby Solo",
+  "song": "Se piangi, se ridi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/9Kcam4mqkpA",
+    "https://www.youtube-nocookie.com/embed/vsq2BAJtsBU",
+    "https://www.youtube-nocookie.com/embed/fKUONj4yGmg",
+    "https://www.youtube-nocookie.com/embed/WdpbkIPAzKg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Se piangi, se ridi",
+      "content": "Se piangi, amore, io piango con te\nPerché sono parte di te\nSorridi sempre, se tu non vuoi…\nNon vuoi vedermi soffrire mai\n\nSe ridi, amore, io rido con te\nPerché tu sei parte di me\nRicorda sempre: quel che tu fai\nSopra il mio volto lo rivedrai\n\nNon sei mai sola, anche se tu…\nTu sei lontana da me\nOgni momento, dovunque andrai\nAccanto a te mi troverai\n\nSe piangi, se ridi, io sono con te\nPerché sono parte di te\nRicorda sempre: quel che tu fai\nSopra il mio volto lo rivedrai\n\nRicorda ѕempre: quel che tu fai\nSopra il mio volto lo rivedrаi"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "If you cry, if you laugh",
+      "content": "If you cry, my love, I cry with you\nBecause I'm part of you\nAlways smile, if you don't want…\nDon't ever want to see me suffering\n\nIf you laugh, my love, I laugh with you\nBecause you're part of me\nAlways remember: what you do\nYou'll see it again in my face\n\nYou're never alone, even if you…\nYou are far away from me\nEvery moment, wherever you'll go\nYou'll find me next to you\n\nIf you cry, if you laugh, I'm with you\nBecause I'm part of you\nAlways remember: what you do\nYou'll see it again in my face\n\nAlways remember: what you do\nYou'll ѕee it again in my fаce"
+    }
+  ],
+  "bpm": 97,
+  "tone": "A major",
+  "artistPeople": [
+    "Roberto Satti"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Bobby Solo",
+    "Gianni Marchetti"
+  ],
+  "conductor": "Gianni Ferrio",
+  "lyricists": [
+    "Bobby Solo",
+    "Mogol"
+  ],
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Renato Tagliani"
+  ],
+  "jury": null,
+  "spokesperson": "Daniele Piombi"
+}

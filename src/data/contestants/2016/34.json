@@ -1,0 +1,76 @@
+{
+  "id": 34,
+  "country": "FI",
+  "artist": "Sandhja",
+  "song": "Sing It Away",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/oAQIPxgQkM8",
+    "https://www.youtube-nocookie.com/embed/Ge5iMzHc3cY",
+    "https://www.youtube-nocookie.com/embed/xWWB5aF_AB4",
+    "https://www.youtube-nocookie.com/embed/8nftN4nM0Uk",
+    "https://www.youtube-nocookie.com/embed/MKn0II8smQg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Sing It Away",
+      "content": "Please believe me when I say\nThere's nothing harder than the strife\nWhen heavy waters try to break you\nYou will be singing for life\n\nWhen you feel like your world is falling down\nAnd darkness has taken your sight\nThere's no need to be carrying a frown\nI'll help you sing it out tonight\n\nSing it away, all my troubles away\nSing it away, never make me fade away\nSing it away, all my troubles away\nSing it away\n\nOh… I'm gonna sing it\nOh… yeah\nOh… I'm gonna sing it\nOh… I'm gonna sing it away\n\nSo if you're focused you can make it\nYou'll feel like nothing can steer you off your course\nWhen fear will try to make you cave in\nRemember that love is the source\n\nWhen you feel like your dreams are beaten down\nAnd your fire is losing its light\nThere's no need to be carrying a frown\nI'll help you sing it out tonight\n\nSing it away, all my troubles away\nSing it away, never make me fade away\nSing it away, all my troubles away\nSing it away\n\nOh… I'm gonna sing it\nOh… yeah\nOh… I'm gonna sing it\nOh… I'm gonna sing it away\n\nWhen all of the walls come crashing down\nWhen you try to scream but can't make a sound\nDon't you worry about it, don't you worry about it\nYou just gotta sing it away\n\nSing it away, all my troubles away\nSing it away, never make me fade away\nSing it away, all my troubles away\nSing it away\n\nOh… I'm gonna sing it\nOh… yeah\nOh… I'm gonna sing it\nOh… I'm gonna ѕing it awаy"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Laula Se Kadoksiin",
+      "content": "Usko kun sanon\nEi ole mitään vaikeampaa kuin taistelu\nKun raskaat vedet koettavat rikkoa\nLaulat elääksesi\n\nKun tunnet maailmasi murenevan\nJa pimeys on vienyt näkösi\nEi ole syytä murjottaa\nAutan laulamaan sen ilmoille\n\nLaula se kadoksiin, kaikki huoleni kadoksiin\nLaula se kadoksiin, älä anna mun haalistua\nLaula se kadoksiin, kaikki huoleni kadoksiin\nLaula se kadoksiin\n\nOh… Laulan sen\nOh… Yeah\nOh… Laulan sen\nOh… Laulan sen kadoksiin\n\nJos keskityt, onnistut\nTuntuu, ettei mikään voi johtaa pois oikealta kurssilta\nKun pelko yrittää lannistaa\nMuista, että rakkaus on kaiken alku\n\nKun tuntuu, että unelmasi on murskattu\nJa liekkisi menettää valoaan\nEi ole syytä murjottaa\nAutan laulamaan sen ilmoille\n\nLaula se kadoksiin, kaikki huoleni kadoksiin\nLaula se kadoksiin, älä anna mun haalistua\nLaula se kadoksiin, kaikki huoleni kadoksiin\nLaula se kadoksiin\n\nOh… Laulan sen\nOh… Yeah\nOh… Laulan sen\nOh… Laulan sen kadoksiin\n\nKun seinät hajoavat maahan\nKun koetat huutaa saamatta ääntäkään ulos\nÄlä huoli, älä huoli\nTäytyy vain laulaa se kadoksiin\n\nLaula se kadoksiin, kaikki huoleni kadoksiin\nLaula se kadoksiin, älä anna mun haalistua\nLaula se kadoksiin, kaikki huoleni kadoksiin\nLaula se kadoksiin\n\nOh… Laulan sen\nOh… Yeah\nOh… Laulan sen\nOh… Laulan sen kаdokѕiin"
+    }
+  ],
+  "bpm": 126,
+  "tone": "F major",
+  "artistPeople": [
+    "Sandhja Kuivalainen"
+  ],
+  "backings": [
+    "Heini Ikonen",
+    "Jepa Lambert",
+    "Linda Ilves",
+    "Reetta Korhonen",
+    "Tuuli Ikonen"
+  ],
+  "dancers": null,
+  "stageDirector": "Reija Wäre",
+  "composers": [
+    "Markus Savijoki",
+    "Milos Rosas",
+    "Petri Matara",
+    "Sandhja Kuivalainen"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Heikki Korhonen",
+    "Markus Savijoki",
+    "Milos Rosas",
+    "Petri Matara",
+    "Sandhja Kuivalainen"
+  ],
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Eva Frantz",
+    "Johan Lindroos",
+    "Mikko Silvennoinen"
+  ],
+  "jury": [
+    "Hanna Kinnunen",
+    "Heimo Hatakka",
+    "Jannika B",
+    "Jori Sjöroos",
+    "Jurek Reunamäki"
+  ],
+  "spokesperson": "Jussi-Pekka Rantanen"
+}

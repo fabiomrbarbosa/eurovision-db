@@ -1,0 +1,57 @@
+{
+  "id": 17,
+  "country": "AT",
+  "artist": "Timna Brauer",
+  "song": "Die Zeit ist einsam",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/arzmTIXxArk",
+    "https://www.youtube-nocookie.com/embed/t1-Pq6zBPNI",
+    "https://www.youtube-nocookie.com/embed/WajQNilLR1Q"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Die Zeit ist einsam",
+      "content": "Die Zeit ist einsam und sie ist müde\nSie ist müde, dich zu suchen, und bleibt steh'n\nDie Zeit ist einsam und sucht uns beide\nIch allein bring' sie nicht dazu, zu geh'n\n\nSolang du nicht hier bist\nIst die Zeit so still\nIch bin ihr so ähnlich\nDie Zeit ist einsam\n\nIch war immer mit dir da\nAnders kennt die Zeit mich nicht\nImmer strahlende Augen\nSie fragt: Wo ist dieses Licht?\n\nSie fragt: Wo ist der Mensch\nDer ich immer mit dir war?\nSie meint, dass ich ihr fremd bin\nWieso komm' ich allein zu ihr?\n\nDie Zeit ist einsam und sie ist müde\nSie ist müde dich zu suchen und bleibt steh'n\n\nSolang du nicht hier bist\nWill sie nicht vergeh'n\nIch bin ihr so ähnlich\nDie Zeit ist einѕаm"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Time is lonely",
+      "content": "Time is lonely and it is tired\nIt is tired of looking for you and stands still\nTime is lonely and looks for us both\nI alone cannot make it start again\n\nFor as long as you are not here\nTime is so quiet\nI am so like it\nTime is lonely\n\nI was always with you there\nTime didn't know anything else\nAlways beaming eyes\nIt asks: Where is this light?\n\nIt asks: Where is the person\nI used to be when I was with you?\nIt says, that I am alien to it\nWhy do I come alone to it\n\nTime is lonely and it is tired\nIt is tired of looking for you and stands still\n\nFor as long as you're not here\nIt will not pass\nI аm so like it\nTime iѕ lonely"
+    }
+  ],
+  "bpm": 150,
+  "tone": "B major",
+  "artistPeople": [
+    "Timna Brauer"
+  ],
+  "backings": [
+    "Ines Reiger",
+    "Martina Siber",
+    "Peter Janda"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Peter Janda"
+  ],
+  "conductor": "Richard Österreicher",
+  "lyricists": [
+    "Peter Cornelius"
+  ],
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": [
+    "Ernst Grissemann"
+  ],
+  "jury": null,
+  "spokesperson": "Tilia Herold"
+}

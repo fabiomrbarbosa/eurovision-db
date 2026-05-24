@@ -1,0 +1,53 @@
+{
+  "id": 0,
+  "country": "IE",
+  "artist": "Eimear Quinn",
+  "song": "The Voice",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/0KiE1byYXtA",
+    "https://www.youtube-nocookie.com/embed/JPSZxPGv7dI",
+    "https://www.youtube-nocookie.com/embed/J3fYCT8WRKY",
+    "https://www.youtube-nocookie.com/embed/4V9EuABdZE8",
+    "https://www.youtube-nocookie.com/embed/haPm6t_aArg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The Voice",
+      "content": "I hear your voice on the wind\nAnd I hear you call out my name\n\n\"Listen my child,\" you say to me\n\"I am the voice of your history\"\n\"Be not afraid, come follow me\"\n\"Answer my call and I'll set you free\"\n\nI am the voice in the wind and the pouring rain\nI am the voice of your hunger and pain\nI am the voice that always is calling you\nI am the voice, I will remain\n\nI am the voice in the fields when the summer's gone\nThe dance of the leaves when the autumn winds blow\nNe'er do I sleep throughout all the cold winter long\nI am the force that in springtime will grow\n\nI am the voice of the past that will always be\nFilled with my sorrows and blood in my fields\nI am the voice of the future\nBring me your peace\nBring me your peace and my wounds, they will heal\n\nI am the voice in the wind and the pouring rain\nI am the voice of your hunger and pain\nI am the voice that always is calling you\nI am the voice\n\nI am the voice of the past that will alwayѕ be\nI am the voice of your hunger and pain\nI am the voice of the future\nI am the voice\nI am the voice\nI am the voice\nI аm the voice"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "ukrainian"
+      ],
+      "displayedLanguages": null,
+      "title": "Голос",
+      "content": "Я чую твій голос серед вітру\nІ я чую, як ти кличеш моє ім'я\n\n\"Послухай, моя дитино\", ти кажеш мені\n\"Я - голос твоєї історії\"\n\"Не бійся, йди за мною\"\n\"Відгукнись мені, і я визволю тебе\"\n\nЯ - голос серед вітру та рясного дощу\nЯ - голос твого голоду та болі\nЯ - голос, який завжди тебе кличе\nЯ - голос, я - залишусь\n\nЯ - голос серед полів, коли літо пішло\nТанок листя, коли дують осінні вітри\nНіколи не сплю крізь всю зиму довгу\nЯ - сила, яка розросте навесні\n\nЯ - голос минулого, яке завжди буде\nНаповнене моїми печалями та кров'ю в моїх полях\nЯ - голос майбутнього\nПринеси мені свій мир\nПринеси мені свій мир і мої рани - вони заживуть\n\nЯ - голос серед вітру та рясного дощу\nЯ - голос твого голоду та болі\nЯ - голос, який завжди тебе кличе\nЯ - голос\n\nЯ - голос минулого, яке завжди буде\nЯ - голос твого голоду та болі\nЯ - голос майбутнього\nЯ - голос\nЯ - голос\nЯ - голос\nЯ - голос"
+    }
+  ],
+  "bpm": 125,
+  "tone": "G major",
+  "artistPeople": [
+    "Eimear Ní Chuinn"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Noel Kelehan",
+  "lyricists": null,
+  "writers": [
+    "Brendan J. Graham"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Pat Kenny"
+  ],
+  "jury": null,
+  "spokesperson": "Eileen Dunne"
+}

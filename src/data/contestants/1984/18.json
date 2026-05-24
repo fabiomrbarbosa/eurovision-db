@@ -1,0 +1,56 @@
+{
+  "id": 18,
+  "country": "AT",
+  "artist": "Anita",
+  "song": "Einfach weg",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/RylzE-ULCpY",
+    "https://www.youtube-nocookie.com/embed/36jAsqFKXkQ",
+    "https://www.youtube-nocookie.com/embed/HHZcy5hgGsY",
+    "https://www.youtube-nocookie.com/embed/GAV_v7E2Tmo"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Einfach weg",
+      "content": "Es war einfach Zeit, einmal abzuhauen\nEndlich raus, aus dem Trott, aus der Stadt, im Morgengrauen\nEs lag nicht an dir, es war einfach da\nUnd es tut mir nicht leid, und ich hab' nicht bereut, was geschah\n\nEinfach weg mit zwei Koffern in irgendein anderes Land\nEinfach weg von zu Haus, sonst verlier' ich noch den Verstand\nEinfach weg, ganz egal, was die anderen dazu sagen\nEinfach weg, ohne dich oder irgendwen andern zu fragen\n\nRette sich wer kann, ich muß einfach raus\nIch fang' von vorne an, ich halt' das nicht mehr aus\n\nIch hab' schon geglaubt, es wäre längst zu spät\nDas Gefühl, wenn dir alles nur mehr auf die Nerven geht\nEin bißchen allein, aber dafür frei\nUnd du steigst in den Zug, und dir ist im Moment alles einerlei\n\nEinfach weg mit zwei Koffern in irgendein anderes Land\nEinfach weg von zu Haus, sonst verlier' ich noch den Verstand\n\nRette sich wer kann, ich muß einfach raus\nIch fang' von vorne an, ich halt' das nicht mehr auѕ\n\nEinfach weg mit zwei Koffern und dann, irgendwohin\nEinfach weg, auch wenn ich vielleicht bald wieder bei dir bin\nEinfach weg mit zwei Koffern und dann, irgendwohin\nEinfach weg, auch wenn ich vielleicht bаld wieder bei dir bin"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Just get away",
+      "content": "It simply was time to get away\nAt last out from the daily grind, from the city, by morning dawn\nIt was not your blame, it just was there\nAnd I'm not worried about it, and I didn't regret, what happened\n\nSimply gone with two suitcases into a different land\nSimply gone from home, or I will lose my mind\nJust get away, don't care what the others will say\nJust get away, without asking you or anybody else\n\nDevil take the hindmost, I simply have to go\nI'm back to square one, I can't stand it anymore\n\nI have already thought, it would be too late\nThe feeling, when everything gets on your nerves\nA bit alone, but free\nAnd you get on the train, and everything is the same for you\n\nSimply gone with two suitcases into a different land\nSimply gone from home, or I will lose my mind\n\nDevil take the hindmost, I simply have to go\nI'm back to square one, I can't stand it anymore\n\nSimply gone with two suitcases, and then gone anywhere\nJust get away, though I will soon come back to you\nSimply gone with two suitcases, and then gone anywhere\nJust get away, though I will ѕoon come bаck to you"
+    }
+  ],
+  "bpm": 121,
+  "tone": "A major",
+  "artistPeople": [
+    "Anita Spanner"
+  ],
+  "backings": [
+    "Gerhard Lux"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Brigitte Seuberth"
+  ],
+  "conductor": "Richard Österreicher",
+  "lyricists": [
+    "Walter Müller"
+  ],
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": [
+    "Ernst Grissemann"
+  ],
+  "jury": null,
+  "spokesperson": "Tilia Herold"
+}

@@ -1,0 +1,64 @@
+{
+  "id": 36,
+  "country": "IE",
+  "artist": "Lesley Roy",
+  "song": "Maps",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/FY2rxbZNvZ0",
+    "https://www.youtube-nocookie.com/embed/z6ZUBzqPxds",
+    "https://www.youtube-nocookie.com/embed/JpH4S1QeJww",
+    "https://www.youtube-nocookie.com/embed/D0gVlG3QTJc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Maps",
+      "content": "I'm gonna let, down all the armour,\nLet out the power, that I've been hiding,\nNot afraid, of the monsters,\nOf the nightmares, that I've been fighting.\n\nEasy to run, harder to stay,\nFinding colours in the grey,\nThought I was done, but I got it wrong,\nI fell twice, I'm twice as strong\n\nI've been searching all the wrong places,\nI've been trying too many faces,\nOnly one way to go,\nThis is the way back home.\nI've been searching all the wrong places,\nI've been trying too many faces,\nOnly one way to go,\nThis is the way back home.\n\nI had to take, all of the long ways,\nAll the wrong ways, cause I couldn't see,\nAll the signs, all of the mistakes,\nPointing one way, to get back to me.\n\nIt's easy to run, harder to stay,\nFinding colours in the grey,\nThought I was done, but I got it wrong,\nI fell twice, I'm twice as strong.\n\nI've been searching all the wrong places,\nI've been trying too many faces,\nOnly one way to go,\nThis is the way back home.\nI've been searching all the wrong places,\nI've been trying too many faces,\nOnly one way to go,\nThis is the way back home.\n\nMy soul is a map,\nMy heart is a compass,\nI am the road.\nThere's only one way to go,\nThis is the way back home.\nMy soul is a map,\nMy heart is a compass,\nI am the road.\nThere's only one way to go,\nThis is the way back home.\n\nI've been searching all the wrong places,\nI've been trying too many faces,\nOnly one way to go,\nThis is the way back home.\nI've been searching all the wrong places,\nI've been trying too many faces,\nOnly one way to go,\nThis iѕ the way bаck home"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "romanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Hărți",
+      "content": "O să las, jos toată armura\nO să dau drumul puterii, pe care am ascuns-o\nNu-mi e frică, de monștri\nDe coșmarurile, cu care m-am luptat\n\nUșor de fugit, mai greu de rămas\nGăsind culori în gri\nAm crezut că am terminat, dar m-am înșelat\nAm căzut de două ori, sunt de două ori mai puternic\n\nAm căutat în toate locurile greșite\nAm încercat prea multe fețe\nDoar un singur drum de urmat\nAceasta este calea înapoi acasă\nAm căutat în toate locurile greșite\nAm încercat prea multe fețe\nDoar un singur drum de urmat\nAceasta este calea înapoi acasă\n\nA trebuit să iau, toate drumurile lungi\nToate drumurile greșite, pentru că nu puteam vedea\nToate semnele, toate greșelile\nPunctând într-o direcție, ca să mă întorc la mine\n\nE ușor să fugi, mai greu să rămâi\nGăsind culori în gri\nAm crezut că am terminat, dar m-am înșelat\nAm căzut de două ori, sunt de două ori mai puternic\n\nAm căutat în toate locurile greșite\nAm încercat prea multe fețe\nDoar un singur drum de urmat\nAceasta este calea înapoi acasă\nAm căutat în toate locurile greșite\nAm încercat prea multe fețe\nDoar un singur drum de urmat\nAceasta este calea înapoi acasă\n\nSufletul meu este o hartă\nInima mea este o busolă\nEu sunt drumul\nExistă doar un singur drum de urmat\nAceasta este calea înapoi acasă\nSufletul meu este o hartă\nInima mea este o busolă\nEu sunt drumul\nExistă doar un singur drum de urmat\nAceasta este calea înapoi acasă\n\nAm căutat în toate locurile greșite\nAm încercat prea multe fețe\nDoar un singur drum de urmat\nAceasta este calea înapoi acasă\nAm căutat în toate locurile greșite\nAm încercat prea multe fețe\nDoar un singur drum de urmat\nAceasta este calea înapoi acаѕă"
+    }
+  ],
+  "bpm": 143,
+  "tone": "C major",
+  "artistPeople": [
+    "Lesley Roy"
+  ],
+  "backings": [
+    "Emelie Eriksson",
+    "Philip Strand"
+  ],
+  "dancers": null,
+  "stageDirector": "Fredrik Rydman",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Emelie Eriksson",
+    "Lesley Roy",
+    "Lukas Hällgren",
+    "Philip Strand"
+  ],
+  "broadcaster": "RÉ",
+  "commentators": [
+    "Marty Whelan"
+  ],
+  "jury": [
+    "Ben Pyne",
+    "Fidelma Kelly",
+    "Karl Broderick",
+    "Louise Bruton",
+    "Luan Parle"
+  ],
+  "spokesperson": "Ryan O'Shaughnessy"
+}

@@ -1,0 +1,54 @@
+{
+  "id": 3,
+  "country": "AT",
+  "artist": "Udo Jürgens",
+  "song": "Sag ihr, ich lass sie grüßen",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/tR3LEkbiYqk",
+    "https://www.youtube-nocookie.com/embed/zhqTk2xCOTo",
+    "https://www.youtube-nocookie.com/embed/vBzyZrzjFmQ",
+    "https://www.youtube-nocookie.com/embed/KyiifcxX1pw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Sag ihr, ich lass sie grüßen",
+      "content": "Sag ihr, ich lass sie grüßen\nSag ihr, es geht mir gut\nSprich nicht von den Tränen\nUnd wie weh mein Herz noch tut\n\nSag ihr, ich lass sie grüßen\nSag ihr, ich bin vergnügt\nSprich nicht von der Hoffnung\nDie so oft mein Herz belügt\n\nGrüß sie, wenn du sie siehst\nUnd wenn sie dann von mir spricht\nErzähl' ihr das, was du willst\nNur die Wahrheit, die sag' bitte, bitte nicht, oh...\n\nSag ihr, ich lass sie grüßen\nSag ihr, es geht mir gut\nSie ging fort, fort von mir\nUnd sie weiß, dass nichts mir blieb\nTrotzdem sag ihr, ich hab' sie lieb\n\nSie ging fort, fort von mir\nUnd sie weiß, dass nichts mir blieb\nTrotzdem sag ihr, ich hab' sie lieb\n\nOh... ich hаb' ѕie lieb"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Tell her, that I send her my love",
+      "content": "Tell her, that I send her my love\nTell her, that I'm feeling fine\nDon't tell her about my tears\nAnd how my heart still hurts\n\nTell her, that I send her my love\nTell her, that I'm happy\nDon't tell her about my hope\nThat often lies to my heart\n\nSay hello to her, when you see her\nAnd when she begins to speak about me\nThen tell her what you want\nOnly the truth you can't tell her, please don't, oh...\n\nTell her, that I send her my love\nTell her, that I'm feeling fine\nShe went away, away from me\nAnd she knows, that nothing remains with me\nIn spite of that, tell her that I love her\n\nShe went away, away from me\nAnd she knows that nothing remains with me\nIn ѕpite of that, tell her thаt I love her\n\nOh... I love her"
+    }
+  ],
+  "bpm": 129,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Jürgen Udo Bockelmann"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Udo Jürgens"
+  ],
+  "conductor": "Gianni Ferrio",
+  "lyricists": [
+    "Frank Bohlen"
+  ],
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": [
+    "Willy Kralik"
+  ],
+  "jury": null,
+  "spokesperson": "Walter Richard Langer"
+}

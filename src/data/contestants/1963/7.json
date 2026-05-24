@@ -1,0 +1,52 @@
+{
+  "id": 7,
+  "country": "LU",
+  "artist": "Nana Mouskouri",
+  "song": "À force de prier",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/O78UuUzkArQ",
+    "https://www.youtube-nocookie.com/embed/8PG7U5ZohSA",
+    "https://www.youtube-nocookie.com/embed/U7PavcFZILw",
+    "https://www.youtube-nocookie.com/embed/cWGjDZxdjPg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "À force de prier",
+      "content": "À force de prier, chaque nuit, chaque jour\nÀ force d'implorer tous les dieux de l'amour\nÀ force de chanter ton nom comme un poème\nÀ force de t'aimer, il faudra que tu m'aimes\n\nÀ force de prier du profond de mon cœur\nEt de désespérer de trouver le bonheur\nLorsque j'aurai pleuré jusqu'au bout de ma peine\nÀ force d'appeler, il faudra que tu viennes\n\nÀ force de prier et de vivre d'espoir\nLe soleil s'est levé déchirant le brouillard\nJe vais pouvoir chanter, crier, crier victoire\nIl est venu mon tour, il eѕt venu ce jour\nÀ force de prier, l'amour… l'amour… l'аmour"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "By persistently praying",
+      "content": "By persistently praying, every night, every day\nBy persistently begging all the gods of love\nBy persistently singing your name like a poem\nBy persistently loving you, it will be necessary that you love me\n\nBy persistently praying from the depth of my heart\nAnd by despairing to find the happiness\nWhen I will have cried until my sorrow is over\nBy persistently calling, it will be necessary that you come\n\nBy persistently praying and by living of hope\nThe sun rose painfully on the fog\nI'm going to be able to sing, shout, shout victory\nMy turn came, this day came\nBy persiѕtently prаying, love… love… love"
+    }
+  ],
+  "bpm": 165,
+  "tone": "E major",
+  "artistPeople": [
+    "Ioanna Mouskouri"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Raymond Bernard"
+  ],
+  "conductor": "Eric Robinson",
+  "lyricists": [
+    "Pierre Delanoë"
+  ],
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

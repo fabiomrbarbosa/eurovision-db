@@ -1,0 +1,76 @@
+{
+  "id": 7,
+  "country": "NO",
+  "artist": "Mørland & Debrah Scarlett",
+  "song": "A Monster Like Me",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/oVKJK9yb5xY",
+    "https://www.youtube-nocookie.com/embed/T0VSKeptWHc",
+    "https://www.youtube-nocookie.com/embed/3fwg5c2gCEg",
+    "https://www.youtube-nocookie.com/embed/LYMzvVyo0I4",
+    "https://www.youtube-nocookie.com/embed/8VbwwgxlVQo",
+    "https://www.youtube-nocookie.com/embed/I9NhOeJ-bzA",
+    "https://www.youtube-nocookie.com/embed/D509S6akMrU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "A Monster Like Me",
+      "content": "Honey, I'm telling the truth\nI did something terrible in my early youth\nMy mind went blank, I lost control\nI was just a little boy, I did not know\n\nI better let you go\nTo find the prince you thought you found in me\nI better set you free and give you up\nJust wave and say goodbye and let you live\nWithout a monster like me\n\nHoney, what am I to do?\nI have pulled the trigger on this awful truth\nOh, hold me now 'cause I'm burning up\nSing this song so beautiful, just make it stop\n\nI better let you go\nTo find the prince you thought you found in me\nI better set you free and give you up\nJust wave and say goodbye and let you live\nWithout a monster like me\n\nOh… oh…\nOh… oh…\n\nJust go\nTo find the prince you thought you found in me\nI better set you free and give you up\nJust wave and say goodbye and let you live\nWithout a monster like me, oh\n\nWithout а monѕter like me"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Монстр, как я",
+      "content": "Милая, я говорю правду\nЯ совершил что-то ужасное, будучи юнцом\nМой разум помутнен, а контроль потерян\nЯ был мальчишкой, я ничего не понимал\n\nМне лучше отпустить тебя\nТы найдешь своего принца, которого ты когда-то видела во мне\nЯ освобожу тебя, но откажусь\nПомашу рукой, крикну \"Прощай\", чтобы ты продолжила жить\nБез такого монстра, как я\n\nМилый, что я должна сделать?\nТы нажал на курок ружья правды\nОбними меня, ведь я выгораю\nСпою эту чудесную песню, попробуй остановить все это\n\nМне лучше отпустить тебя\nТы найдешь своего принца, которого ты когда-то видела во мне\nЯ освобожу тебя, но откажусь\nПомашу рукой, крикну \"Прощай\", чтобы ты продолжила жить\nБез такого монстра, как я\n\nО-о… о-о…\nО-о… о-о…\n\nПросто уходи\nНайди своего принца, которого видела во мне\nОсвободись и откажись\nПомаши рукой, крикни \"Прощай\", чтобы продолжить жить\nБез такого монстра, как я, о-о\n\nБез такого монстра, как я"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Un Monstruo Como Yo",
+      "content": "Cariño, te cuento la verdad\nCometí un acto terrible en mi juventud\nMi mente se quedó en blanco, perdí el control\nEra solo un chico, no sabía que hacía\n\nHe de dejarte ir\nPara que encuentres el príncipe que creíste ver en mi\nLibre serás, te entregaré\nSaludaré y diré adiós para que puedas vivir\nSin un monstruo como yo\n\nCariño, ¿Qué debo hacer?\nHe apretado el gatillo de esta cruel verdad\nAbrazame, porque ardo\nCanta esta bella canción, haz que pare\n\nHe de dejarte ir\nPara que encuentres el príncipe que creíste ver en mi\nLibre serás, te entregaré\nSaludaré y diré adiós para que puedas vivir\nSin un monstruo como yo\n\nOh… oh…\nOh… oh…\n\nTan solo ve\nY encuentra el príncipe que creíste ver en mi\nLibre serás, te entregaré\nSaludaré y diré adiós para que puedаs vivir\nSin un monstruo como yo, oh\n\nSin un monѕtruo como yo"
+    }
+  ],
+  "bpm": 147,
+  "tone": "E major",
+  "artistPeople": [
+    "Joanna Deborah Bussinger",
+    "Kjetil Mørland"
+  ],
+  "backings": [
+    "Bjørnar Reime Erlandsen",
+    "Håvard Gryting",
+    "Julie Lillehaug Kaasa",
+    "May Kristin Kaspersen"
+  ],
+  "dancers": null,
+  "stageDirector": "Mattias Carlsson",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Kjetil Mørland"
+  ],
+  "broadcaster": "NRK",
+  "commentators": [
+    "Olav Viksmo-Slettan"
+  ],
+  "jury": [
+    "Alexander Stenerud",
+    "Anita Halmøy Wisløff",
+    "Margaret Berger",
+    "Marianne Jemtegård",
+    "Sverre Vedal"
+  ],
+  "spokesperson": "Margrethe Røed"
+}

@@ -1,0 +1,55 @@
+{
+  "id": 17,
+  "country": "IT",
+  "artist": "Domenico Modugno",
+  "song": "Dio, come ti amo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/AFBB52CRaQE",
+    "https://www.youtube-nocookie.com/embed/M1zBfEHoWMY",
+    "https://www.youtube-nocookie.com/embed/QJ1XltJ4p2M",
+    "https://www.youtube-nocookie.com/embed/DtcQc8nYyks",
+    "https://www.youtube-nocookie.com/embed/Mbj4o4K1FRw",
+    "https://www.youtube-nocookie.com/embed/u4cWXpxAXCA",
+    "https://www.youtube-nocookie.com/embed/YJnCez71tmE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Dio, come ti amo",
+      "content": "Nel cielo passano le nuvole\nChe vanno verso il mare\nSembrano fazzoletti bianchi\nChe salutano il nostro amore\n\nDio, come ti amo\nNon è possibile\nAvere tra le braccia tanta felicità\nBaciare le tue labbra che odorano di vento\nNoi due innamorati, come nessuno al mondo\n\nDio, come ti amo\nMi vien da piangere\nIn tutta la mia vita, non ho provato mai\n\nUn bene così caro, un bene così vero\nChi può fermare il fiume che corre verso il mare?\nLe rondini nel cielo, che vanno verso il sole?\nChi può cambiare l'amore, l'amore mio per te?\n\nDio, come ti amo\n\nUn bene così caro, un bene così vero\nChi può fermare il fiume che corre verso il mare?\nLe rondini nel cielo, che vanno verso il ѕole?\nChi può cambiare l'amore, l'amore mio per te?\n\nDio, come ti amo\nDio, come ti аmo"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "My God, I love you so much",
+      "content": "In the sky the clouds pass by\nThey're going towards the sea\nLooking like white handkerchiefs\nThat greet our love\n\nMy God, I love you so much\nIt's not possible\nTo have so much happiness between your arms\nKissing your lips that smell like the wind\nWe're two lovers, like nobody in the world\n\nMy God, I love you so much\nI feel like crying\nIn my whole life, I've never felt\n\nSuch a valuable happiness, such a true happiness\nWho can stop the river that flows towards the sea?\nThe swallows in the sky that go towards the sun?\nWho can change my love, my love for you?\n\nMy God, I love you so much\n\nSuch a valuable happiness, such a true happiness\nWho can stop the river that flows towards the sea?\nThe swallows in the sky that go towards the sun?\nWho can chаnge my love, my love for you?\n\nMy God, I love you so much\nMy God, I love you ѕo much"
+    }
+  ],
+  "bpm": 101,
+  "tone": "A minor",
+  "artistPeople": [
+    "Domenico Modugno"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Angelo Giacomazzi",
+  "lyricists": null,
+  "writers": [
+    "Domenico Modugno"
+  ],
+  "broadcaster": "RAI",
+  "commentators": [
+    "Renato Tagliani"
+  ],
+  "jury": null,
+  "spokesperson": "Enzo Tortora"
+}

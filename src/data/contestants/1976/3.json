@@ -1,0 +1,56 @@
+{
+  "id": 3,
+  "country": "CH",
+  "artist": "Peter, Sue & Marc",
+  "song": "Djambo, Djambo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/NeFu25qDIkA",
+    "https://www.youtube-nocookie.com/embed/HvVLxRCnDJc",
+    "https://www.youtube-nocookie.com/embed/IVgizbqmMpk",
+    "https://www.youtube-nocookie.com/embed/agmzxQ4efGc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Djambo, Djambo",
+      "content": "The birds have known the old man for many years\nHis eyes have seen so much and look so mild\nHe's up at four and early every morning\nHe feeds them and feels happy like a child\n\nOnce he was a clown in the arena\nPeople said the best that ever was\nNow they call him good old Djambo Djambo\nBut in his dreams, he still hears the applause\n\nHey hey hey… hey hey hey… Djambo Djambo\nDon't be sad, for you know that the show must go on\nHey hey hey… hey hey hey… Djambo Djambo\nIt was you who had us laughing, you're the one\n\nAnd sometimes you can see him on the sidewalk\nWith little boys and girls around his feets\nWhen Djambo Djambo plays his barrel organ\nChildren call it circus in the streets\n\nSuddenly his eyes reflect emotion\nIn Djambo's mind, the limelight shines again\nHe's back on stage and all the kids are laughing\nJust as if the show would never end\n\nHey hey hey… hey hey hey… Djambo Djambo\nDon't be sad, for you know that the show must go on\nHey hey hey… hey hey hey… Djambo Djambo\nIt was you who had us laughing, you're the one\n\nHey hey hey… hey hey hey… Djambo Djambo\nDon't be sad, for you know that the show must go on\nHey hey hey… hey hey hey… Djambo Djambo\nIt was you who had us laughing, you're the one\n\nIt was you who had uѕ lаughing, you're the one"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Djambo, Djambo",
+      "content": "Die Vögel kennen ihn seit vielen Jahren\nDen alten Mann der täglich Futter bringt\nDie Hände wie ein Bär und doch so zärtlich\nAls wären sie von einem kleinen Kind\n\nAls Clown war er der Liebling der Manege\nDer Zirkus seine Welt und sein Zuhaus'\nMan nannte ihn den grossen Djambo Djambo\nUnd oft hört er im Traum noch den Applaus\n\nHey hey hey… hey hey hey… Djambo Djambo\nSei nicht traurig, denn die Show, die große Show muss weitergeh'n\nHey hey hey… hey hey hey… Djambo Djambo\nAuch wenn andre jetzt für dich im Zirkus steh'n\n\nDie Kinder schaun ihn an mit grossen Augen\nSie steh'n um ihn herum und alles schweigt\nWenn Djambo Djambo ihnen auf der Strasse\nNoch einmal ein kleines Kunststück zeigt\n\nDann lacht er wie in seinen besten Tagen\nAls gingen wieder alle Lichter an\nAls spielte die Musik genau wie damals\nWenn Nacht für Nacht die grosse Show begann\n\nHey hey hey… hey hey hey… Djambo Djambo\nSei nicht traurig, denn die Show, die große Show muss weitergeh'n\nHey hey hey… hey hey hey… Djambo Djambo\nAuch wenn andre jetzt für dich im Zirkus steh'n\n\nHey hey hey… hey hey hey… Djambo Djambo\nSei nicht traurig, denn die Show, die große Show muss weitergeh'n\nHey hey hey… hey hey hey… Djambo Djambo\nAuch wenn andre jetzt für dich im Zirkus steh'n\n\nAuch wenn аndre jetzt für dich im Zirkus ѕteh'n"
+    }
+  ],
+  "bpm": 97,
+  "tone": "D major",
+  "artistPeople": [
+    "Marcel Dietrich",
+    "Peter Reber",
+    "Sue Schell"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Mario Robbiani",
+  "lyricists": null,
+  "writers": [
+    "Peter Reber"
+  ],
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Georges Hardy",
+    "Giovanni Bertini",
+    "Theodor Haller"
+  ],
+  "jury": null,
+  "spokesperson": "Michel Stocker"
+}

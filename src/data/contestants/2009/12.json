@@ -1,0 +1,58 @@
+{
+  "id": 12,
+  "country": "DK",
+  "artist": "Brinck",
+  "song": "Believe Again",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/j7ZatW7tsxQ",
+    "https://www.youtube-nocookie.com/embed/rqw8rHBzTgc",
+    "https://www.youtube-nocookie.com/embed/7ejbZxeSYMo",
+    "https://www.youtube-nocookie.com/embed/KauLC0cKd1c",
+    "https://www.youtube-nocookie.com/embed/Og711V7CBrw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Believe Again",
+      "content": "You made it so easy to fall\nI could not stand at all\nI saw you beside me\nYou never saw me there at all\n\nI promised you all this\nI made plans thinking this was it\nI never imagined I'd find you\nLose myself instead\n\nI never had a picture of an end\n\nAnd I… I wanna believe in love\nI wanna believe in something bigger\nThan the two of us, yeah…\nI… I wanna breathe again\nI wanna go back to the days\nThe days I had my innocence\nI wanna believe again\n\nI picked up the pieces\nAnd put them back where they belong\nBut something is missing\nThough I look the same, I'm not that strong\nBut I'm gonna learn to trust again\n\nAnd I… I wanna believe in love\nI wanna believe in something bigger\nThan the two of us (The two of us)\nAnd I… I wanna breathe again\nI wanna go back to the days\nThe days I had my innocence\nI wanna believe again\n\nFor without love, what do we become?\nI never had a picture of an end\n\nAnd I… I wanna believe in love\nI wanna believe in something bigger\nThan the two of us (The two of uѕ)\nI… I wanna breathe again\nI wanna believe\nI wanna believe\nI wanna believe agаin"
+    }
+  ],
+  "bpm": 120,
+  "tone": "G major",
+  "artistPeople": [
+    "Niels Brinck Kristensen"
+  ],
+  "backings": [
+    "Anders Øhrstrøm",
+    "Claus Petersen",
+    "Oliver McEwan",
+    "Søren Andersen",
+    "Tim McEwan"
+  ],
+  "dancers": null,
+  "stageDirector": "Vicky Leander",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Lars Halvor Jensen",
+    "Martin Michael Larsson",
+    "Ronan Keating"
+  ],
+  "broadcaster": "DR",
+  "commentators": [
+    "Nicolai Molbech"
+  ],
+  "jury": [
+    "Ataf Khawaja",
+    "Frede Fup",
+    "Kaya Brüel",
+    "Medina",
+    "Peter Biker"
+  ],
+  "spokesperson": "Felix Smith"
+}

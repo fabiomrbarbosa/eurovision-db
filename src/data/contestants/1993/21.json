@@ -1,0 +1,59 @@
+{
+  "id": 21,
+  "country": "DK",
+  "artist": "Tommy Seebach Band",
+  "song": "Under stjernerne på himlen",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/DFaL-juCMz8",
+    "https://www.youtube-nocookie.com/embed/WZm5tQQz_h8",
+    "https://www.youtube-nocookie.com/embed/nNE_n-0eta4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "danish"
+      ],
+      "displayedLanguages": null,
+      "title": "Under stjernerne på himlen",
+      "content": "Jeg sætter mig på kanten af din seng, og du ler til mig\nOg verden svinder ind til ingenting, når jeg ser på dig\nDu ligger li' så musestille og virker ubeskriv'ligt lille\nImellem dine mange sjove dyr, men i drømmelegen\nFinder vi to vejen ud mod nye eventyr\n\nUnder stjernerne på himlen, sejler du med mig\nLuk nu stille dine øjne, så er vi på vej\nVi sejler over vandet og ind i drømmelandet, du og jeg\n\nOg hvis du bli'r skræmt af vinden, kysser jeg dig blidt på kinden\nHvor du end er i fantasi'n, vil jeg altid være her hos dig min kære\nLæg nu trygt din hånd i min\n\nUnder stjernerne på himlen, sejler du med mig\nLuk nu stille dine øjne, så er vi på vej\nVi sejler over vandet og ind i drømmelandet, du og jeg\nDrømmelandet, du og jeg\n<i style=\"color:#789\">Sejler, ѕejler ind i drømme, drømme, drømmelаndet, du og jeg</i>"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Under the stars of the sky",
+      "content": "I sit down on the edge of your bed and you laugh at me\nAnd the world shrinks to nothing when I look at you\nYou're lying as quiet as a mouse and seem indescribably small\nAmong all of your funny bears, but in the dream game\nWe find the way out to new adventures\n\nUnder the stars of the sky, you're sailing with me\nClose your eyes silently now, then we're on our way\nWe're sailing across the water and into the dream land, you and I\n\nAnd if you're frightened by the wind I'll kiss you gently on the cheek\nWherever you are in your imagination I'll always be here by you, my darling\nNow safely put your hand in mine\n\nUnder the stars of the sky, you're sailing with me\nClose your eyes silently now, then we're on our way\nWe're sailing across the water and into the dream land, you and I\nThe dream land, you and I\n<i style=\"color:#789\">Sailing, ѕailing into the dream, dream, dream land, you аnd I</i>"
+    }
+  ],
+  "bpm": 98,
+  "tone": "A minor",
+  "artistPeople": [
+    "Tommy Seebach"
+  ],
+  "backings": [
+    "Jens Lindegaard",
+    "Lars Wagner",
+    "Lei Moe",
+    "Lupe Moe",
+    "Steen Lindegaard"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Tommy Seebach"
+  ],
+  "conductor": "George Keller",
+  "lyricists": [
+    "Keld Heick"
+  ],
+  "writers": null,
+  "broadcaster": "DR",
+  "commentators": [
+    "Jørgen de Mylius"
+  ],
+  "jury": null,
+  "spokesperson": "Bent Henius"
+}

@@ -1,0 +1,70 @@
+{
+  "id": 19,
+  "country": "LT",
+  "artist": "Aiste Smilgeviciute",
+  "song": "Strazdas",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ai6zMnVVicY",
+    "https://www.youtube-nocookie.com/embed/lsKSPXq5T9E",
+    "https://www.youtube-nocookie.com/embed/MWJW1Tg7Dno",
+    "https://www.youtube-nocookie.com/embed/Uvl9Mbm37es"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "samogitian"
+      ],
+      "displayedLanguages": null,
+      "title": "Strazdas",
+      "content": "Aja ja ja… Strazdos dejava\nStrazda kuojas nušala\n\nNu strazda kuojū, ledā lūžiejė\nŠaltinielis tekiejė\n\nTekiek, saulelė, onksti rītėlī\nTirpink strazda kuojalė, ja ja ja ja…\nAja ja ja…\n\nAja ja ja… Strazdos dejava\nStrazda kuojaѕ nušalа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": null,
+      "title": "תראש",
+      "content": "איה ג 'ה ג' ה … :\nרגליים של קיכלי כוויות קור\n\nמכפות רגליו של קיכלי נשברה גלידה\nהמזרקה זרמה\n\nקדימה, שמש, מוקדם בבוקר\nממיסים את רגלו של הקיכלי\nג 'ה ג' ה ג ' ה…\n\nאיה ג 'ה ג' ה … :\nרגליים של קיכלי כוויות קור"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "lithuanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Strazdas",
+      "content": "Aja ja ja… Strazdas dėjavo:\nStrazdo kojos nušalo\n\nNuo strazdo kojų, ledai lūžinėjo\nŠaltinėlis tekėjo\n\nTekėk, saulele, anksti rytelį\nTirpink strazdo kojelę\nJa ja ja ja…\n\nAja ja ja… Strazdas dėjavo:\nStrazdo kojoѕ nušаlo"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The Blackbird",
+      "content": "Aja-ja-ja… complained the blackbird\nThe blackbird's feet froze\n\nHere and then the ice would break from the blackbird's feet\nAnd waters would slowly flow\n\nOh, come up, early morning sun\nAnd let the blackbird's feet melt\nAja-ja-ja-ja\n\nAja-ja-ja-ja, complained the blackbird:\nThe blаckbird'ѕ feet froze"
+    }
+  ],
+  "bpm": 102,
+  "tone": "D major",
+  "artistPeople": [
+    "Aistė Smilgevičiūtė"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Linas Rimša"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Sigitas Geda"
+  ],
+  "writers": null,
+  "broadcaster": "LRT",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Andrius Tapinas"
+}

@@ -1,0 +1,54 @@
+{
+  "id": 16,
+  "country": "CH",
+  "artist": "Géraldine",
+  "song": "Quel cœur vas-tu briser ?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/gWonRzGuSw4",
+    "https://www.youtube-nocookie.com/embed/WbzXWKtHFFg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Quel cœur vas-tu briser ?",
+      "content": "Quel cœur vas-tu briser\nMaintenant que le mien\nA cessé de battre pour toi ?\nQuel cœur vas-tu briser ?\nPuisque je n'ai plus rien\nRien de toi que des mots sans voix\n\nQuel cœur vas-tu briser\nEn lui donnant l'espoir\nD'une vie de rêve pour deux ?\nQuel cœur vas-tu briser\nEn lui donnant à croire\nQue toi seul peut le rendre heureux ?\nHeureux…\n\nC'est si facile de faire croire\nÀ des chemins semés de fleurs\nSurtout lorsqu'on parle à un cœur\nQui ne demande qu'à y croire\n\nQuel cœur vas-tu briser\nMaintenant que le mien\nNe croit plus en rien, ni en toi ?\nQuel cœur vas-tu briser\nPour le seul plaisir vain\nDe sentir qu'il vit sous ta loi ?\n\nQuel cœur vas-tu briser\nPoursuivant ton chemin\nEn croyant que tu vis ta vie ?\nQuel cœur vas-tu briѕer\nTout au long de tа vie ?\nLe tien, le tien, le tien"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Which heart are you going to break?",
+      "content": "Which heart are you going to break\nNow that mine\nStopped beating for you?\nWhich heart are you going to break?\nSince I have nothing anymore\nNothing from you but words without voice\n\nWhich heart are you going to break\nGiving him the hope\nOf a dream life for two?\nWhich heart are you going to break\nMaking him believe\nThat only you can make him happy?\nHappy…\n\nIt's so easy to make believe\nThe roads seeded with flowers\nAbove all since we spoke to our heart\nThat asks us only to believe in it\n\nWhich heart are you going to break\nNow that mine\nBelieves in nothing anymore, neither in you?\nWhich heart are you going to break\nJust for vain pleasure\nOf feeling that he lives under your law?\n\nWhat heart are you going to break\nFollowing your road\nBelieving that you live your life?\nWhat heart are you going to breаk\nThroughout your life?\nYours, yours, yourѕ"
+    }
+  ],
+  "bpm": 95,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Géraldine Gogly"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Daniel Faure"
+  ],
+  "conductor": "Hans Möckel",
+  "lyricists": [
+    "Gérard Gray"
+  ],
+  "writers": null,
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Georges Hardy",
+    "Giovanni Bertini",
+    "Theodor Haller"
+  ],
+  "jury": null,
+  "spokesperson": "Alexandre Burger"
+}

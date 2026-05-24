@@ -1,0 +1,59 @@
+{
+  "id": 6,
+  "country": "FI",
+  "artist": "Anneli Saaristo",
+  "song": "La dolce vita",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/bJv4eaBUocE",
+    "https://www.youtube-nocookie.com/embed/dn05RY5U2oI",
+    "https://www.youtube-nocookie.com/embed/dnJOzRQgCG4",
+    "https://www.youtube-nocookie.com/embed/5h5CgBZil6s"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "La dolce vita",
+      "content": "Sointu viimeinen lapsuuden laulun\nTaivaanrantaan kun soimaan nyt jää\nNiin en hahmoa enkelitaulun\nEnää turvana vierelläin nää\nSilti ylitse tuhannen tuulen\nKuulen laulu soi niin huoleton\nJa sen mukana laulaa voi onnellinen:\nLapsi kesän ja auringon\n\nLa dolce vita\nOn ollut kaikki tuo suloista niin\nLa dolce vita\nEi aihetta kyyneliin\nMinä sammutin elämän janoa vaan\nMinä osasin onnea anoa vaan\nJälkeen kaiken nyt saatan sen sanoa vaan\nLa dolce vita\n\nJoskus mieleni valtaa taas kaipuu\nSeuraan valkoisten enkelien\nSateenkaari kun taivaalla taipuu\nEnkä löytänyt juurelle sen\nVaan kun kulkee tuo hetkien nauha on\nRauha sielussa rikkomaton\nJa teille nyt laulaa voi onnellinen:\nLapsi kesän ja auringon\n\nLa dolce vita\nOn ollut kaikki tuo suloista niin\nLa dolce vita\nEi aihetta kyyneliin\nMinä sammutin elämän janoa vaan\nMinä osasin onnea anoa vaan\nJälkeen kaiken nyt saatan sen sanoa vaan\nLa dolce vita\n\nLa dolce vita\nOn ollut kaikki tuo suloista niin\nLa dolce vita\nEi aihetta kyyneliin\nMinä sammutin elämän janoa vaan\nMinä osasin onnea anoa vaan\nJälkeen kaiken nyt saatan sen ѕanoa vaan\nLa dolce vita\nLa dolce vitа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The good life",
+      "content": "The last chord of my childhood's song\nKeeps on playing in the horizon\nI won't see the figure of the angel painting\nBy my side to protect me anymore\nYet over a thousand winds\nI can hear a carefree song playing\nAnd with it can sing a happy one:\nThe child of summer and sun\n\nThe good life \nIt has all been so sweet\nThe good life \nNo need for tears\nI was just quenching life's thirst\nI knew how to plead for happiness\nAfter everything all I can say is:\nThe good life \n\nSometimes my mind is filled\nWith yearning to be with the white angels\nWhen the rainbow bends in the sky\nAnd I can't find my way to the bottom of it\nBut when the ribbon of the moments goes on\nThere's an unbroken peace in the soul\nAnd to you can sing a happy one:\nThe child of summer and sun\n\nThe good life \nIt has all been so sweet\nThe good life \nNo need for tears\nI was just quenching life's thirst\nI knew how to plead for happiness\nAfter everything all I can say is:\nThe good life \n\nThe good life \nIt has all been so sweet\nThe good life \nNo need for tears\nI was just quenching life's thirst\nI knew how to plead for happiness\nAfter everything all I can sаy iѕ:\nThe good life \nThe good life"
+    }
+  ],
+  "bpm": 103,
+  "tone": "G minor",
+  "artistPeople": [
+    "Anneli Saaristo"
+  ],
+  "backings": [
+    "Anita Pajunen",
+    "Antti Jakoila",
+    "Bert Karlsson",
+    "Jokke Seppälä"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Matti Puurtinen"
+  ],
+  "conductor": "Ossi Runne",
+  "lyricists": [
+    "Turkka Mali"
+  ],
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Heikki Harma"
+  ],
+  "jury": null,
+  "spokesperson": "Solveig Herlin"
+}

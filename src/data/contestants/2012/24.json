@@ -1,0 +1,54 @@
+{
+  "id": 24,
+  "country": "GB",
+  "artist": "Engelbert Humperdinck",
+  "song": "Love Will Set You Free",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/rXw4Q5jbNqQ",
+    "https://www.youtube-nocookie.com/embed/pFNv9pjqZkk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Love will set you free",
+      "content": "So graceful and pure\nA smile bathed in light\nNo matter the distance\nA miracle of sight\n\nThough I should have known\nI could not turn away\nWhen faced with your beauty\nNo reason can stay\n\nAs you kiss him in the moonlight\nWith heavy words I say\n\nIf you love someone, follow your heart\n'Cause love comes once if you're lucky enough\nThough I'll miss you forever, the hurt will run deep\nOnly love can set you free\n\nTrust in your dreams\nRun with no fear\nAnd if you should stumble\nRemember I'm near\n\nAs a ghost I will walk\nI'll look deep in my soul\nI might find another\nYou gave me that hope\n\nSo as you kiss him in the moonlight\nWith heavy words I say\n\nIf you love someone, follow your heart\nBecause love comes once, if you're lucky enough\nThough I'll miss you forever and the hurt will run deep\nOnly love can set you free\n\nAnd if you love someone, follow your heart\n'Cause love comes once, if you're lucky enough\nThough I'll miss you forever, the hurt will run deep\nLove will ѕet you free, yeаh...."
+    }
+  ],
+  "bpm": 120,
+  "tone": "C# minor",
+  "artistPeople": [
+    "Arnold George Dorsey"
+  ],
+  "backings": [
+    "Bethany-Rose Harrison",
+    "James Bryan",
+    "Shem Jacobs"
+  ],
+  "dancers": null,
+  "stageDirector": "Arlene Phillips",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Martin Terefe",
+    "Sacha Skarbek"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Graham Norton",
+    "Sara Cox",
+    "Scott Mills"
+  ],
+  "jury": [
+    "Daffyd Rhys Evans",
+    "Doug Flett",
+    "Kevin Hughes",
+    "Kirsten Joy",
+    "Lynsey de Paul"
+  ],
+  "spokesperson": "Scott Mills"
+}

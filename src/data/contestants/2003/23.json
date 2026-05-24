@@ -1,0 +1,45 @@
+{
+  "id": 23,
+  "country": "LV",
+  "artist": "F.L.Y.",
+  "song": "Hello From Mars",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/iUoiA60x_HY",
+    "https://www.youtube-nocookie.com/embed/X85aHXZ_Lac",
+    "https://www.youtube-nocookie.com/embed/9IanO8JF9k8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Hello From Mars",
+      "content": "Time would pass me by if I\nHad never asked you why\nYour eyes were open wide\nThat day you saw me cry\n\nI'm not that kind of girl\nWho only dreams of pearls\nJust give me wings of love\nAnd make it real\n\n'Cause I'm not afraid of a blade\nThat we need to cross today\nBut I'm scared to be shared\nBy someone else\n\n'Cause this is gonna be\nThe day that we will meet\nWhen heaven comes so down to earth\nTo say hello from Mars\n\nMy emotions take me high\nThey seem to reach the sky\nI still believe we try\nTo hit the ground or fly\n\nI'm not afraid of a blade\nThat we need to cross today\nBut I'm scared to be shared\nBy someone else\n\n'Cause this is gonna be\nThe day that we will meet\nWhen heaven comes so down to earth\nTo say hello from Mars\n\n'Cause this is gonna be\nThe day that we will meet\nWhen heaven comes so down to earth\nTo say hello from Mars\n\nLife is a mystery\nLike a perfect harmony\nNo one knows the day when love\nWill come and set you free\n\n'Cause this is gonna be\nThe day that we will meet\nWhen heaven comes so down to earth\nTo say hello from Mars\n\n'Cause this is gonna be\nThe day that we will meet\nWhen heaven comes so down to earth\nTo say hello from Mаrѕ"
+    }
+  ],
+  "bpm": 132,
+  "tone": "C major",
+  "artistPeople": [
+    "Lauris Reiniks",
+    "Mārtiņš Freimanis",
+    "Yana Kay"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Lauris Reiniks",
+    "Mārtiņš Freimanis"
+  ],
+  "broadcaster": "LTV",
+  "commentators": [
+    "Kārlis Streips"
+  ],
+  "jury": null,
+  "spokesperson": "Ģirts Līcis"
+}

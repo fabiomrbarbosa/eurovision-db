@@ -1,0 +1,61 @@
+{
+  "id": 33,
+  "country": "CZ",
+  "artist": "Marta Jandová & Václav Noid Bárta",
+  "song": "Hope Never Dies",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/SLz6VeSPXjA",
+    "https://www.youtube-nocookie.com/embed/P_o44RdxYTY",
+    "https://www.youtube-nocookie.com/embed/JTQKXYc7wHw",
+    "https://www.youtube-nocookie.com/embed/96sUZruqI54"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Hope Never Dies",
+      "content": "Wait for me, don't cross the sea of pain\nWait for me, I'm lost, I've gone astray\nRavens calling my name, their wings so dark\nSoon they'll take me away, I have their mark\nThey never miss their prey\n\nThere is no light to pray for\nCold and dim are the skies\nWounded, lying, running out of life\nOut of life\n\nIn your eyes I could see\nOur hopes and our future\nNow we must let go\n\nFind me where the night turns into day\nTurns into day, your love as a torch shows us the way\nThe way how to be whole again\n\nThere is no light to pray for\nCold and dim are the skies\nWounded, lying, running out of life\nOut of life\n\nIn your eyes I could see\nOur hopes and our future\nNow we must let go\n\nMust let go\nMust let fade away\nOr we can rise and fight\n\nFor a light to live for\nFire in our hearts\nThrough our pain\nThrough all the, all the lies\n\nWe will walk, wаlk reborn\nHope never dieѕ\nNever let me go\n\nNever let me go"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Надежда никогда не умирает",
+      "content": "Дождись меня, не пересекай океан страданий\nДождись меня, я потерян, я сбился с пути\nВороны кличут меня, их крылья черны\nСкоро они заберут меня, оставив свою метку\nОни не упустят свою жертву\n\nНет света, чтобы молиться о нем\nДаже из холодного, тусклого неба\nРаненые и бессильные, мы уходим из жизни\nИз жизни\n\nВ твоих глазах я хочу увидеть\nНашу надежду и наше будущее\nСейчас мы должны уйти\n\nНайди меня в месте, где ночь превращается в день\nПревращается в день, твоя любовь, как факел, покажет на путь\nПуть стать целыми\n\nНет света, чтобы молиться о нем\nДаже из холодного, тусклого неба\nРаненые и бессильные, мы уходим из жизни\nИз жизни\n\nВ твоих глазах я хочу увидеть\nНашу надежду и наше будущее\nСейчас мы должны уйти\n\nДолжны уйти\nДолжны раствориться\nИли мы можем встать и бороться\n\nЗа свет жизни\nЗа огонь в наших сердцах\nЧерез нашу боль\nЧерез все, что мы прошли\n\nМы пройдем, пройдем и возродимся\nНадежда никогда не умирает\nНикогда не отпускай меня\n\nНикогда не отпускай меня"
+    }
+  ],
+  "bpm": 183,
+  "tone": "D minor",
+  "artistPeople": [
+    "Marta Jandová",
+    "Václav Bárta"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Václav Noid Bárta"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Tereza Šoralová"
+  ],
+  "writers": null,
+  "broadcaster": "ČT",
+  "commentators": [
+    "Aleš Háma"
+  ],
+  "jury": [
+    "Honza Dědek",
+    "Jan Maxián",
+    "Jaroslav Špulák",
+    "Jitka Benešová",
+    "Vladimír Bár"
+  ],
+  "spokesperson": "Daniela Písařovicová"
+}

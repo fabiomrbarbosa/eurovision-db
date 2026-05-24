@@ -1,0 +1,46 @@
+{
+  "id": 9,
+  "country": "HR",
+  "artist": "Vanna",
+  "song": "Strings Of My Heart",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/24ihE_vYBRs",
+    "https://www.youtube-nocookie.com/embed/Ycn3fF627Oc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Strings Of My Heart",
+      "content": "Aha… aha…\nStay now and softly play the strings of my heart\n\nDon't break my heart tonight, don't leave me when I cry\nStay now and softly play the strings of my heart\nI want you by my side, you make me feel all right\nAnd let the fiddler play on the strings of my heart\nAnd let the fiddler play on the strings of my heart\n\nDon't break my heart tonight, don't leave me when I cry\nStay now and softly play the strings of my heart\nI want you by my side, you make me feel all right\nAnd let the fiddler play on the strings of my heart\n\nDon't break my heart, oh no\n(Don't break my heart, don't break my heart, don't break my heart)\nI want you by my side, you make me feel all right\n(Right by my side, right by my side, I feel all right)\nAnd let the fiddler play on the strings of my heart\n(Strings of my heart)\nAnd let the fiddler play on the stringѕ of my heаrt"
+    }
+  ],
+  "bpm": 120,
+  "tone": "F minor",
+  "artistPeople": [
+    "Ivana Ranilović-Vrdoljak"
+  ],
+  "backings": [
+    "Alenka Milano",
+    "Fedor Boić"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Tonči Huljić"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Vjekoslava Huljić"
+  ],
+  "writers": null,
+  "broadcaster": "HRT",
+  "commentators": [
+    "Ante Batinović"
+  ],
+  "jury": null,
+  "spokesperson": "Danijela Trbović"
+}

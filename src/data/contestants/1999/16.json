@@ -1,0 +1,52 @@
+{
+  "id": 16,
+  "country": "IE",
+  "artist": "The Mullan's",
+  "song": "When You Need Me",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/2RWGVuvCCIs",
+    "https://www.youtube-nocookie.com/embed/FowbtCx8Fu4",
+    "https://www.youtube-nocookie.com/embed/-LOJ2vQiTgw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "When you need me",
+      "content": "And you would always be there\nIn everything I'd do\nBut the fool that I am\nNever tried to understand\n\nWhen you needed someone\nTo help you through the rain\nBut this child inside of me\nNever let me feel your pain\n\nAnd how I've let it all just slip away\nAnd now I'm wishing for yesterday\n\nDon't you go on your own\nDon't leave me here alone\n'Cause I'll be there\nYes, I swear\nWhen you need me I'll be there\nDon't you go\nI'm on my own\nDon't you go\n\nYou've been my inspiration\nAll along the way\nBut I can see it in your eyes\nWell, there's no more yesterday\n\nBut I will find my way back\nNo matter what it takes\nFor the first time I can see\nThe love you lost on me\n\nDon't you go on your own\nDon't leave me here alone\n'Cause I'll be there\nYes, I swear\nWhen you need me I'll be there\nDon't you go, no, no\n\nAnd now I've let it all just slip away\nBut the fool, the fool's inside of me\n\nDon't you go on your own\nDon't leave me here alone\n'Cause I'll be there\nYes, I ѕweаr\nWhen you need me I'll be there\nDon't you go\nI'm on my own\nDon't you go"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": null,
+      "title": "כשתצטרך אותי",
+      "content": "ואתה תמיד היית\nבכל דבר שאעשה\nאך אני, הטיפשה\nמעולם לא ניסיתי להבין\n\nשנזקקת למישהו\nכדי לעזור לך בסערה\nאך הילדה הזאת שבי\nלא הניחה לי לחוש את כאבך\n\nאיך גרמתי להכל לברוח ממני\nואני רק מקווה לחזור לאתמול\n\nאל תלך לבדך\nאל תשאיר אותי כאן לבדי\nכי אהיה שם\nכן, אני נשבעת\nאהיה שם כשתצטרך אותי\nאל תלך\nאני לבדי\nאל תלך\n\nהיית מקור ההשראה שלי\nלכל אורך הדרך\nאבל אני יכולה לראות בעינייך\nשהאתמול כבר לא קיים\n\nאך אמצא את דרכי בחזרה\nלא משנה מה זה ידרוש\nלראשונה אני יכולה לראות\nאת אהבתך שאיבדתי\n\nאל תלך לבדך\nאל תשאיר אותי כאן לבדי\nכי אהיה שם\nכן, אני נשבעת\nאהיה שם כשתצטרך אותי\nאל תלך, לא, לא\n\nועכשיו גרמתי להכל לברוח ממני\nוהטיפשה, הטיפשה שבתוכי\n\nאל תלך לבדך\nאל תשאיר אותי כאן לבדי\nכי אהיה שם\nכן, אני נשבעת\nאהיה שם כשתצטרך אותי\nאל תלך\nאני לבדי\nאל תלך"
+    }
+  ],
+  "bpm": 82,
+  "tone": "C major",
+  "artistPeople": [
+    "Bronagh Mullan",
+    "Karen Mullan"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Bronagh Mullan"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Pat Kenny"
+  ],
+  "jury": null,
+  "spokesperson": "Clare McNamara"
+}

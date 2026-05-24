@@ -1,0 +1,54 @@
+{
+  "id": 21,
+  "country": "RO",
+  "artist": "Mălina Olinescu",
+  "song": "Eu cred",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/gZ76foLYsOA",
+    "https://www.youtube-nocookie.com/embed/Ln5mdsRO194",
+    "https://www.youtube-nocookie.com/embed/8pTkh0FRnzE",
+    "https://www.youtube-nocookie.com/embed/B4GEIMO0vTA"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "romanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Eu cred",
+      "content": "Eu, eu te mai aştept\nCred că nu e drept\nSă-mi rămână numai amintirea că ai fost\nEu simt că tu mereu\nEşti în jurul meu\nGând şi spirit ce mă ocroteşti\nÎmi dai curaj\n\nEu cred că m-asculţi\nEu cred că nu uiţi\nDin cer să îmi dai\nUn semn că mai stai\nDac-aş putea s-ating lumea ta\nTe-aş cere-napoi\nEu cred în noi\n\nEu poate că greşesc\nNu ştiu să privesc\nCătre stele, şi-acolo să te regăsesc\nTu vii numai în vis\nAşa cum mi-ai promis\nNoi rămânem tot prieteni buni\nPrieteni buni\n\nEu cred că m-asculţi\nEu cred că nu uiţi\nDin cer să îmi dai\nUn semn că mai stai\nDac-aş putea s-ating lumea ta\nTe-aş cere-napoi\nEu cred în noi\n\nUneori te simt cum mă priveşti\nVreau să ştii\nNumai liniştea mi-o dăruieşti\n\nEu cred că m-asculţi\nEu cred că nu uiţi\nDin cer să îmi dai\nUn semn că mai stai\nEu, dac-aş putea ѕ-ating lumea ta\nTe-aş cere-napoi\nTe-aş cere-nаpoi\nEu cred în noi\nOoh..."
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I believe",
+      "content": "Me, I am still waiting for you\nI think it's not fair\nThat only your memory is left\nI feel you are, all the time\nAround me\nThought and spirit with which you capture me\nYou give me courage\n\nI believe you are listening to me\nI believe you are don't forget\nGive me from the sky\nA sign that you will stay\nIf I could only touch your world\nI would ask for you back\nI believe in us\n\nI may be making a mistake\nI don't know how to look at\nThe stars, and there to find you again\nYou come only in a dream\nAs you have promised\nWe stay good friends\nGood friends\n\nI believe you are listening to me\nI believe you are don't forget\nGive me from the sky\nA sign that you will stay\nIf I could only touch your world\nI would ask for you back\nI believe in us\n\nSometimes I feel as if you are looking at me\nI want you to know\nYou only give me silence\n\nI believe you are listening to me\nI believe you are don't forget\nGive me from the sky\nA sign that you will stay\nMe, if I could only touch your world\nI would ask for you back\nI would ask for you bаck\nI believe in uѕ\nOoh..."
+    }
+  ],
+  "bpm": 76,
+  "tone": "C major",
+  "artistPeople": [
+    "Mălina Olinescu"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Adrian Romcescu"
+  ],
+  "conductor": "Adrian Romcescu",
+  "lyricists": [
+    "Liliana Ştefan"
+  ],
+  "writers": null,
+  "broadcaster": "TVR",
+  "commentators": [
+    "Leonard Miron"
+  ],
+  "jury": null,
+  "spokesperson": "Anca Țurcașiu"
+}

@@ -1,0 +1,67 @@
+{
+  "id": 25,
+  "country": "SE",
+  "artist": "Anna Bergendahl",
+  "song": "This Is My Life",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/hNk6CZ77ags",
+    "https://www.youtube-nocookie.com/embed/psEtXw8Ce5M",
+    "https://www.youtube-nocookie.com/embed/5P1neQKN-1k",
+    "https://www.youtube-nocookie.com/embed/yoJL6LPTSxk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "This Is My Life",
+      "content": "I go down the beaten track\n'Long the river with an empty bag\nAt the end she said to me:\n\"Why are you here with the autumn leaves?\"\n\n'Cause this is my life, my friend\nAnd this is my time to stand\nNow this is my life, my friend\nAnd I can't be no one else\n\nI'm done, tipping on my toes\nStriking iron and attack my soul\nMisty moon, you're gonna see\nI've got your blues to get on my feet\n\n'Cause this is my life, my friend\nAnd this is my time to stand\n'Cause this is my life, my friend\nAnd I can't be no one else\n\nI don't wanna run, I don't wanna fight\nI don't wanna hide, I just wanna stay free\nTo be me\nI don't wanna win, I don't wanna lose\nI don't wanna play, I just wanna remember\nOh, my name\n\n'Cause this is my life, my friend\nAnd this is my time to stand\nOh, ooh…\n\n('Cause this is my life, my friend\n(And this is my time to stand)\nNow this is my life, my friend\nAnd I can't be no one else\n'Cause this is my life, my friend\nAnd I can't be no one else\n\n'Cаuse this iѕ my life, my friend"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Это моя жизнь",
+      "content": "Я иду по разбитой дороге\nВдоль длинной реки с пустым рюкзаком\nВ конце, меня спросили\n\"Почему ты здесь среди осенних листьев\"\n\nПотому что это моя жизнь, друг мой\nИ настал мой час встать на ноги\nТеперь это моя жизнь, мой друг\nИ она не будет чей-то еще\n\nХватит с меня, я стою на носочках\nС поврежденной броней и израненной душой\nМы можем увидеть луну в облаках\nУ меня есть твоя грусть и я встану на ноги\n\nПотому что это моя жизнь, друг мой\nИ настал мой час встать на ноги\nТеперь это моя жизнь, мой друг\nИ она не будет чей-то еще\n\nЯ не убегу, не буду сражаться\nНе буду прятаться, я просто хочу остаться свободной\nИ быть собой\nЯ не хочу побеждать или терпеть поражение\nЯ не хочу играть, я хочу помнить\nСвое имя\n\nПотому что это моя жизнь, друг мой\nИ настал мой час встать на ноги\nО, о-о-о\n\n(Потому что это моя жизнь, друг мой\n(И настал мой час встать на ноги)\nТеперь это моя жизнь, мой друг\nИ она не будет чей-то еще\nПотому что это моя жизнь, мой друг\nИ она не будет чей-то еще\n\nПотому что это моя жизнь, мой друг"
+    }
+  ],
+  "bpm": 165,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Anna Bergendahl"
+  ],
+  "backings": [
+    "Anna Lundström",
+    "Emmalisa Norrhamn",
+    "Jessica Marberger",
+    "Kristian Tåje",
+    "Martin Kagemark"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Bobby Ljunggren"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Kristian Lagerström"
+  ],
+  "writers": null,
+  "broadcaster": "SVT",
+  "commentators": [
+    "Christine Meltzer Lind",
+    "Edward af Sillén"
+  ],
+  "jury": [
+    "Andreas Lundstedt",
+    "Anna Charlotta Gunnarson",
+    "Eric Saade",
+    "Hélène Benno",
+    "Michael Cederberg"
+  ],
+  "spokesperson": "Eric Saade"
+}

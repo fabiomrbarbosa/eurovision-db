@@ -1,0 +1,55 @@
+{
+  "id": 20,
+  "country": "FI",
+  "artist": "Paradise Oskar",
+  "song": "Da da dam",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/1Fj9of4IzFU",
+    "https://www.youtube-nocookie.com/embed/F884t52FE60",
+    "https://www.youtube-nocookie.com/embed/as0W8ZiqTQ0",
+    "https://www.youtube-nocookie.com/embed/Vg010X90gTY"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Da da dam",
+      "content": "Peter is smart, he knows each European country by heart\nHe likes to sit under an apple tree on his yard\nAnd wait for an apple to fall\nWhen Peter is nine, his teacher tells him that this planet is dying\nThat someone needs to put an end to it all\nAnd so when Peter comes home, he tells his mom:\n\nI'm going out in the world to save our planet\nAnd I ain't coming back until she's saved\nI'll walk my way to see the king and parliament\nIf they don't help, I'll do it by myself\nI don't wanna be…\nDadadam dadadam dadadada dadada dadam…\n\nPeter is young, he tries to talk, but no one listens to him\nEverybody's busy living and dying, not thinking about what they're doing\nBut look at the boy who went out in the world to save our planet\nAnd he ain't coming back until she's saved\nHe walked his way to see the king and parliament\nBut they all turned their heads and walked away, singing:\n\nDadadam dadadam dadadada dadada dadam…\nDadadam dadadam dadadada dadada dadam…\n\nAnd now I'm going out in the world to save our planet\nAnd I ain't coming back until she's saved\nI'm walking in the footsteps that young Peter made\nAnd everybody is welcome to join, and ѕing with me:\n\nDadadam dadadam dadadada dadada dadam…\nDadadam dadadam dadadada dadada dadam…\nDadadam dadadam dadadada dadada dadаm…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "norwegian"
+      ],
+      "displayedLanguages": null,
+      "title": "Da da dam",
+      "content": "Peter er klok, han kan de europeiske landet fra minne\nHan liker å sitte under et eple tre i hans hage\nOg venter for et eple å falle ned\nNår Peter er ni, forteller læreren hans at Planeten dør\nOg at noen må sette et stop til det\nOg så kommer Peter hjem, og forteller hans mor\n\nJeg går ut i verden for å redde planeten vår\nOg jeg kommer ikke tilbake før hun er god igjen\nJeg skal gå min vei for å se Kongen og Stortinget\nVist de ikke hjelper, gjør jeg det selv\nJeg vill ikke være…\nDa da dam, da da dam, da da da da da da, da dam\n\nPeter er ung, han prøver å snakke, men ingen lytter på ham\nAlle er opptatt med å leve og dø, men ikke hva de gjør\nMen se på gutten som redder Planeten vår\nOg han kommer ikke tilbake før hun er god igjen\nHan gikk sin vei for å se Kongen og Stortinget\nMen de alle snudde hode og gikk vekk\nMens de sang:\nDa da dam, da da dam, da da da da da da, da dam\nDa da dam, da da dam, da da da da da da, da dam\n\nOg nå går jeg ut i verden for å redde planeten vår\nOg jeg kommer ikke tilbake før hun er god igjen\nJeg går i stegene ѕom ung Peter tok\nOg alle er invitert til å bli med. Syng med meg:\n\nDa da dam, da da dam, da da da da da da, da dam\nDa da dam, da da dam, da da da da da da, da dam\nDa da dam, da da dam, da da da da da da, da dаm"
+    }
+  ],
+  "bpm": 146,
+  "tone": "D major",
+  "artistPeople": [
+    "Axel Ehnström"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Axel Ehnström"
+  ],
+  "broadcaster": "YLE",
+  "commentators": [
+    "Asko Murtomäki",
+    "Eva Frantz",
+    "Johan Lindroos",
+    "Tarja Närhi"
+  ],
+  "jury": null,
+  "spokesperson": "Susan Aho"
+}

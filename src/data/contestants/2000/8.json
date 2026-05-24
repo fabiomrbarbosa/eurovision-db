@@ -1,0 +1,61 @@
+{
+  "id": 8,
+  "country": "HR",
+  "artist": "Goran Karan",
+  "song": "Kad zaspu anđeli",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/248g0rsi9i4",
+    "https://www.youtube-nocookie.com/embed/sFvj6fiT1Sw",
+    "https://www.youtube-nocookie.com/embed/MnQiYmY3HWM",
+    "https://www.youtube-nocookie.com/embed/WO_e58WRbWQ",
+    "https://www.youtube-nocookie.com/embed/Hz7JTjK6X_4",
+    "https://www.youtube-nocookie.com/embed/obl4Nzh8mRU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "croatian"
+      ],
+      "displayedLanguages": null,
+      "title": "Kad zaspu anđeli",
+      "content": "Poljubi me i budi tu\nDa sklopim oči na tvom toplom ramenu\nPoljubi me i budi tu\nNek srce lupa kao da je prvi put\nPoljubi me, pomoli se\nSve svijeće svijeta nek se za nas upale\n\nOstani ovu noć, kad svi mi prijete\nOstani, zagrli me kao dijete\nOstani, kad sva si ljubav moja samo ti\nOstani, da me čuvaš kada zaspu anđeli\n\nPoljubi me i budi tu\nNek srce lupa kao da je prvi put\nPoljubi me, pomoli se\nSve svijeće svijeta nek se za nas upale\n\nOstani ovu noć, kad svi mi prijete\nOstani, zagrli me kao dijete\nOstani, kad sva si ljubav moja samo ti\n\nOstani ovu noć, kad svi mi prijete\nOstani, zagrli me kao dijete\nOstani, kad sva si ljubav moja samo ti\nOstani, da me čuvaš kada zaѕpu аnđeli"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "When the angels fall asleep",
+      "content": "Kiss me and be here\nLet me shut my eyes on your warm shoulder\nKiss me and be here\nLet the heart beat like the first time\nKiss me, pray\nMay all the world's candles burn for us\n\nStay tonight, when everyone threatens me\nStay, embrace me like a child\nStay, when all my love is you\nStay, to hold me when the angels fall asleep\n\nKiss me and be here\nLet the heart beat like the first time\nKiss me, pray\nMay all the world's candles burn for us\n\nStay tonight, when everyone threatens me\nStay, embrace me like a child\nStay, when all my love is you\n\nStay tonight, when everyone threatens me\nStay, embrace me like a child\nStay, when all my love is you\nStay, to hold me when angels fall аѕleep"
+    }
+  ],
+  "bpm": 152,
+  "tone": "E minor",
+  "artistPeople": [
+    "Goran Karan"
+  ],
+  "backings": [
+    "Anamarija Maksimović",
+    "Jelena Radan",
+    "Nikša Bratoš",
+    "Zorica Bučić"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Neno Ninčević",
+    "Nikša Bratoš",
+    "Zdenko Runjić"
+  ],
+  "broadcaster": "HRT",
+  "commentators": [
+    "Aco Kostadinov"
+  ],
+  "jury": null,
+  "spokesperson": "Marko Rašica"
+}

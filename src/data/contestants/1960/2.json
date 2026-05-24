@@ -1,0 +1,52 @@
+{
+  "id": 2,
+  "country": "MC",
+  "artist": "François Deguelt",
+  "song": "Ce soir-là",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/AMi5qpBbSVw",
+    "https://www.youtube-nocookie.com/embed/HQNOiDzf2ys"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Ce soir-là",
+      "content": "Ce soir-là tu n'avais que tes vingt ans\nÀ m'offrir comme un bouquet de printemps\nÀ l'amour qui m'avait souvent déçu\nJe ne croyais plus, mais quand je t'ai vue...\n\nCe soir-là j'aurais voulu inventer\nDes mots qui n'avaient jamais existé\nDes mots d'amour en habit de gala\nPour ce soir-là\n\nDans tes bras, j'ai compris dès ce soir-là\nQue jamais la vie n'aurait d'attrait pour moi\nLoin de toi\n\nMon amour, je t'ai donné le meilleur\nLe meilleur du plus profond de mon cœur\nDe mon cœur qui garde encore la douceur\nDe ce soir-là\n\nCe soir-là, mais à quoi bon revenir?\nTout cela n'est pour moi qu'un souvenir\nMais je n'ai jamais pu me délivrer du rêve insensé\nQue j'avais bercé\n\nJe t'avais donné bien plus que ma vie\nMais peut-être n'avais-tu pas compris\nQue tu déchirais mon rêve d'enfant\nEn me quittant\n\nEt pourtant si tu me reviens un jour\nDans mon cœur, je garde comme au premier jour\nTant d'amour\n\nTant d'amour toujours pour toi que j'attends\nQue j'attends comme on attend le printemps\nLe printemps, les bras chargés de lilas\nPour ce soir-là\n\nMon amour, je t'attendrai chaque jour\nTant que je vivrai, je serаi là\nCe ѕoir-là"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "That night",
+      "content": "That night you only had your youth\nTo offer me like a bouquet of spring\nIn the love that often disappointed me\nI didn't believe anymore, but when I saw you...\n\nThat night I wanted to invent\nWords that had never existed\nWords of love in full dress\nFor that night\n\nIn your arms, I understood that from that night\nLife would never have attraction for me\nFar from you\n\nMy love, I have given you the best\nThe best of the deepest of my heart\nOf my heart that is still saving the tenderness\nOf that night\n\nThat night, but what good is returning?\nAll that is for me only a memory\nBut I've never been able to free myself from a crazy dream\nThat I cherised\n\nI had given you much more than my life\nBut maybe you didn't understand\nThat you tore my childhood dream\nBy leaving me\n\nAnd still if you come back to me one day\nIn my heart, I save like the first day\nSo much love\n\nSo much love always for you who I'm waiting for\nWho I'm waiting for like someone waiting for spring\nSpring, my arms full of lilacs\nFor that night\n\nMy love, I'll wait for you every day\nAs long aѕ I live, I'll be there\nThаt night"
+    }
+  ],
+  "bpm": 97,
+  "tone": "E minor",
+  "artistPeople": [
+    "Louis Deghelt"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Hubert Giraud"
+  ],
+  "conductor": "Raymond Lefèvre",
+  "lyricists": [
+    "Pierre Dorsey"
+  ],
+  "writers": null,
+  "broadcaster": "TMC",
+  "commentators": [
+    "Pierre Tchernia"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

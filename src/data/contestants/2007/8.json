@@ -1,0 +1,58 @@
+{
+  "id": 8,
+  "country": "HU",
+  "artist": "Magdi Rúzsa",
+  "song": "Unsubstantial Blues",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/2WsuY94n06w",
+    "https://www.youtube-nocookie.com/embed/GZHjdHCCzE8",
+    "https://www.youtube-nocookie.com/embed/sqG_s3z1qck"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Unsubstantial blues",
+      "content": "How many times have you fooled me and denied that\nIt's her who you love, and it sure isn't me?\nSo now that it's over, I'll try and take it sober\nLeave questions unasked, remember us laughing at the broken past\nGod, if I could make it on without you\n\nYou're such a casual man, oh, wavin' an empty hand\nI'm helpless and I'm lonely without you\nYes, you're a casual man, lendin' an empty hand\nLeft me breathless with nothing more to lose\n\nI used to dream we'd take it nice and easy\nGet jobs, settle down in Jameson Town\nIf now you could see me, you'd think twice about leaving\nYou said forever is the time you gonna spend around\n\nSo why did you leave me?\nAnd why should I believe it?\nYou say goodbye\nOh, why, oh… why you leave me?\nSaid, why?\n\nYou're such a casual man, oh, wavin' an empty hand\nI'm helpless and I'm lonely without you\nYou're such a casual man, lendin' an empty hand\nLeft me breathless with nothing more to lose\n\nCasual man, lendin' an empty hand\nLeft me breathless with nothing more to lose\nExcept an evanescent unsubstantiаl blueѕ"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "hungarian"
+      ],
+      "displayedLanguages": null,
+      "title": "Aprócska Blues",
+      "content": "Hányszor kértelek, hogy táncolj nekem\nTe csak mentél tovább hűtlenül\nMég látom az arcod, és hallom a hangod\nMikor a kezed nyomát\nOtthagytad az autóbusz ablakán\nÉs szemedből a könny majd kicsordult\n\nÓ, te csak játszol velem\nÉs nem fogod két kezem\nÉn mennék, de valami visszahúz\nÓ, te csak játszol velem\nÉs nem fogod két kezem\nÉn mennék, de valami visszahúz\n\nHányszor éreztem, hogy fázom, de lehet\nMár a kezem sem nyúlt feléd\nMég egyszer hozzám értél\nMegszorítottál, azt mondtad\nNem engedsz el, mégis itthagytál\n\nÚgy fáj a szívem\nÚgy fáj, el kell hogy higgyem\nNem vagy már\nÚgy fáj a szívem\nÚgy fáj\n\nÓ, te csak játszol velem\nÉs nem fogod két kezem\nÉn mennék, de valami visszahúz\nÓ, te csak játszol velem\nÉs nem fogod két kezem\nÉn mennék, de valami visszahúz\n\nJátszol velem\nÉs nem fogod két kezem\nÉn mennék, de valami visszahúz\nTalán egy aprócskа régi-régi blueѕ"
+    }
+  ],
+  "bpm": 68,
+  "tone": "F# major",
+  "artistPeople": [
+    "Magdolna Rúzsa"
+  ],
+  "backings": [
+    "Hoffer Péter",
+    "Kovács Barnabás",
+    "Madarász Gábor",
+    "Závodi Gábor"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Magdi Rúzsa"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Imre Mózsik"
+  ],
+  "writers": null,
+  "broadcaster": "MTV",
+  "commentators": [
+    "Gábor Gundel Takács"
+  ],
+  "jury": null,
+  "spokesperson": "Éva Novodomszky"
+}

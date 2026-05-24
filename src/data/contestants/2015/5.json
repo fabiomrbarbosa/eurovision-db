@@ -1,0 +1,57 @@
+{
+  "id": 5,
+  "country": "LV",
+  "artist": "Aminata",
+  "song": "Love Injected",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-usdXbeGHi8",
+    "https://www.youtube-nocookie.com/embed/PgmZaf1Sb_4",
+    "https://www.youtube-nocookie.com/embed/wrdCvrobtQE",
+    "https://www.youtube-nocookie.com/embed/CLtK3mxZAjc",
+    "https://www.youtube-nocookie.com/embed/5BYp1gvBXcE",
+    "https://www.youtube-nocookie.com/embed/4FMf4XK-j_E",
+    "https://www.youtube-nocookie.com/embed/a1oQCVRS4NI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Love Injected",
+      "content": "You bring the light to my darkest side, babe\nThe day, the night split together side, ooh\nYou care, you animate\nYou got me bare, bring up the heartbreak\n\nYour love revives my soul\nAnd I know you choose it all over all\n\nYour eyes are the mirror\nLook under the cover\nLove is above all\nI'm safe into your hands\nLet's move away, the urges expand\n\nYour love revives my soul\nAnd I know you choose it all over all\n\nShow me the source of the light\nI'm becoming affected\nSeeing the glow of the way\nIs what I have detected\nSeeing it then in my life\nIt's a shiny reflected\nLove injected, love injected\n\nYour love revives my soul\nAnd I know you chooѕe it all over аll"
+    }
+  ],
+  "bpm": 108,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Aminata Savadogo"
+  ],
+  "backings": [
+    "Anna Zankovska",
+    "Katrīna Anna Vīgante",
+    "Līva Zariņa"
+  ],
+  "dancers": null,
+  "stageDirector": "Nicoline Refsing",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Aminata Savadogo"
+  ],
+  "broadcaster": "LTV",
+  "commentators": [
+    "Toms Grēviņš",
+    "Valters Frīdenbergs"
+  ],
+  "jury": [
+    "Beate Zviedre",
+    "Ilona Jahimovica",
+    "Kristaps Krievkalns",
+    "Ralfs Eilands",
+    "Toms Grēviņš"
+  ],
+  "spokesperson": "Markus Riva"
+}

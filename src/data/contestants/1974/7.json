@@ -1,0 +1,46 @@
+{
+  "id": 7,
+  "country": "IE",
+  "artist": "Tina",
+  "song": "Cross Your Heart",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/NgQFrqPaFwc",
+    "https://www.youtube-nocookie.com/embed/PAl06cvp3r0",
+    "https://www.youtube-nocookie.com/embed/k562pC90Gmo"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Cross Your Heart",
+      "content": "La lala lala… la lala lala… la lala lala la…\n\nCross your heart, say: \"I love you\"\nCross your heart and hope to die\nFor a very simple reason\nAnd here's the reason why:\nFor so many hearts are broken by one little lie\nCross your heart and hope to die\n\nSticks and stones wouldn't break my bones\nThough it happened again and again\nBut I came smilling through, don't ask me how\nPlaying at games and calling me names\nNever worried me then\nBut it's a different game we're playing now\n\nCross your heart, say: \"I love you\"\nCross your heart and hope to die\nFor a very simple reason\nAnd here's the reason why:\nFor so many hearts are broken by one little lie\nCross your heart and hope to die\n\nIt wasn't easy to get up, believe me\nTo get up again and again\nEach time they knocked me down, it hurt a lot\nLove's got to show now\nThere's nowhere to go now\nThis is the end of the line\nBecause I'm giving this all I've got\n\nCross your heart, say: \"I love you\"\nCross your heart and hope to die\nFor a very simple reason\nAnd here's the reason why:\nFor so many hearts are broken by one little lie\nCross your heart and hope to die\n\nLalala la lalala… lalala la lala…\nLalala la lalala…\nAnd here's the reason why:\nFor so many hearts are broken by one little lie\nCrosѕ your heart and hope to die\n\nLa lala lala… la lala lala… la lala lala lala…\nLalala la lala lala… la lala lala… la lala lala lala…\nLalala la lala lala… la lala lala… la lala lala lа…"
+    }
+  ],
+  "bpm": 93,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Philomena Reynolds"
+  ],
+  "backings": [
+    "Anne Bushnell",
+    "John Curran",
+    "Pat Reilly"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Colman Pearce",
+  "lyricists": null,
+  "writers": [
+    "Paul Lyttle"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Mike Murphy"
+  ],
+  "jury": null,
+  "spokesperson": "Brendan Balfe"
+}

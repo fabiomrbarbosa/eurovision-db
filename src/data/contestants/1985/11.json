@@ -1,0 +1,56 @@
+{
+  "id": 11,
+  "country": "CH",
+  "artist": "Mariella Farré & Pino Gasparini",
+  "song": "Piano, piano",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/bpCFuTA900s",
+    "https://www.youtube-nocookie.com/embed/E235u88vdZ0",
+    "https://www.youtube-nocookie.com/embed/SUmBLX3RQ74"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Piano, piano",
+      "content": "Du, das war ein schöner Tag\nUnd du, ich möcht' dir sagen\nDaß ich dich sehr mag\nUnd irgendwann möcht' ich dich wieder seh'n\nDoch jetzt ist es wohl besser, wenn ich geh'\n\nUnd Liebe, nein, Liebe\nEin wunderschöner Tag, ich mag dich\nDoch Liebe, die muß nicht sein\n\nPiano, Piano, nur so weit, immer\nPiano, Piano, nur so viel, immer\nPiano, Piano, nur ein Spass, keine Tränen\nPiano, Piano, nur so weit, immer\nPiano, Piano, nur so viel, immer\nPiano, Piano, keine Fragen und Szenen\n\nDu, ich bin sehr gern bei dir\nUnd du, ich fühl' mich ausgesprochen wohl mit dir\nUnd ziemlich bald möcht' ich dich wieder seh'n\nDoch jetzt ist es wohl besser, wenn ich geh'\n\nUnd Liebe, nein, Liebe\nEin wunderschöner Tag, ich mag dich\nDoch Liebe, die muß nicht sein\n\nPiano, Piano, nur so weit, immer\n(Du, das war ein schöner Tag)\nPiano, Piano, nur so viel, immer\nPiano, Piano, nur ein Spass, keine Tränen\n(Du, ich möcht' dir sagen)\n(Daß ich dich sehr mag)\nPiano, Piano, nur so weit, immer\n(Und irgendwann möcht' ich dich wiedersehn)\nPiano, Piano, nur so viel, immer\nPiano, Piano, keine Fragen und Szenen\n(Doch jetzt ist es wohl besser, wenn ich geh')\n\nUnd Liebe, nein, Liebe\nNein, Liebe muß nicht sein und dennoch\nIch ahn's ѕchon, ich liebe dich\n\nPiano, Piano\nPiano, Piano, keine Fragen und Szenen\nPiano, Piаno"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Slowly, slowly",
+      "content": "You, it was a beautiful day\nAnd you, I would like to tell you\nThat I like you very much\nAnd I want to see you again sometime\nBut now it's better that I go\n\nAnd love, no, love\nA beautiful day, I like you\nBut it must not be love\n\nSlowly, slowly, just so far, always\nSlowly, slowly, just so much, always\nSlowly, slowly, just fun, no tears\nSlowly, slowly, just so far, always\nSlowly, slowly, just so much, always\nSlowly, slowly, no questions or scenes\n\nYou, I like to be close to you\nAnd you, I feel extremely good with you\nAnd I want to see you again quite soon\nBut now it's better that I go\n\nAnd love, no, love\nA beautiful day, I like you\nBut it must not be love\n\nSlowly, slowly, just so far, always\n(You, it was a beautiful day)\nSlowly, slowly, just so much, always\nSlowly, slowly, just fun, no tears\n(You, I would like to tell you)\n(That I like you very much)\nSlowly, slowly, just so far, always\n(And I want to see you again sometime)\nSlowly, slowly, just so much, always\nSlowly, slowly, no questions or scenes\n(But now it's better that I go)\n\nAnd love, no, love\nNo, it mustn't be love but although\nI feel inside thаt I love you\n\nSlowly, slowly\nSlowly, slowly, no questions or scenes\nSlowly, ѕlowly"
+    }
+  ],
+  "bpm": 136,
+  "tone": "D major",
+  "artistPeople": [
+    "Gabriella Ricamato-Filomeno",
+    "Filippo Gasparini"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Anita Kerr"
+  ],
+  "conductor": "Anita Kerr",
+  "lyricists": [
+    "Trudi Müller-Bosshard"
+  ],
+  "writers": null,
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Bernard Thurnheer",
+    "Ezio Guidi",
+    "Serge Moisson"
+  ],
+  "jury": null,
+  "spokesperson": "Michel Stocker"
+}

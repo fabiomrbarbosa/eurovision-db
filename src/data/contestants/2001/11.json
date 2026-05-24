@@ -1,0 +1,55 @@
+{
+  "id": 11,
+  "country": "RU",
+  "artist": "Mumiy troll",
+  "song": "Lady Alpine Blue",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/XHVhFHvEwIg",
+    "https://www.youtube-nocookie.com/embed/6bT-OPxsWsk",
+    "https://www.youtube-nocookie.com/embed/st3aoDpOnz8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Lady Alpine Blue",
+      "content": "To love newcomers' fashion\nOh so special\nYou may want to believe me\nBut hey – your Alpine eyes of blue\nHere's my Siberian hymn for you\nWe better stay or rather die\nLa la la…\nRather die\nLa la la…\n\nNo promises, no kiss goodbye to you\nJust keep on smilin', my Lady Alpine Blue\nBlue\n\nThe slipping serpentine night\nWould cuddle, keep us tender\nAnd smother warning signs\nMy old mistakes should send her\nEternity for us to try\nThe dawn will tell us if we fly\nLa la la…\nIf we fly\nLa la la…\n\nNo promises, no kiss goodbye to you\nJust keep on smilin', my Lady Alpine Blue\n\nNo promises, no promises\nNo promises, no promises\n\nNo promises, no kiss goodbye to you\nJust keep on ѕmilin', my Lаdy Alpine Blue"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Обещания",
+      "content": "Влюбляться в моде снова сразу, скоро\nИ мне бы не поверить\nНо, хэй, балтийские глаза\nВот вам приморская сирена\nМы остаемся навсегда\nЛа ла ла…\nНавсегда\nЛа ла ла…\n\nБез обещаний, но мы не прощаемся\nПросто целуемся и улыбаемся\n\nНочь полусерпантином…\nМеня обнять – растаю такими, как я знаю\nОшибки – ерунда\nВсегда крутимся дополна\nА нам всего лишь до утра\nЛа ла ла…\nДо утра…\nЛа ла ла…\n\nБез обещаний, но мы не прощаемся\nПросто целуемся и улыбаемся\n\nБез обещаний, без обещаний\nБез обещаний, без обещаний\n\nБез обещаний, но мы не прощаемся\nПросто целуемся и улыбаемся"
+    }
+  ],
+  "bpm": 122,
+  "tone": "A minor",
+  "artistPeople": [
+    "Eugene 'Sdwig' Zvidionny",
+    "Ilia Lagutenko",
+    "Oleg Punguin",
+    "Yuri Tzaler"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Ilia Lagutenko"
+  ],
+  "broadcaster": "C1R",
+  "commentators": [
+    "Alexander Anatolievich",
+    "Konstantin Mikhailov"
+  ],
+  "jury": null,
+  "spokesperson": "Larisa Verbickaya"
+}

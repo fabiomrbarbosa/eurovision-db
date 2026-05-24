@@ -1,0 +1,53 @@
+{
+  "id": 22,
+  "country": "HU",
+  "artist": "Charlie",
+  "song": "A holnap már nem lesz szomorú",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/1fgdjQmPwrY",
+    "https://www.youtube-nocookie.com/embed/YQHgyw_o4Pc",
+    "https://www.youtube-nocookie.com/embed/yZstoA0x80g"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "hungarian"
+      ],
+      "displayedLanguages": null,
+      "title": "A holnap már nem lesz szomorú",
+      "content": "Nézd, előkerült egy másik kép\nAmiről azt hittem, elveszett rég\nEgy teraszon ülsz\nMegy le a nap, és készül az eső\nA háttérben a tenger és a zsúfolt kikötő\n\nAs utcákon éjjel mindig zene szólt\nMajd nézzük meg egyszer, így van-e még?\nHogy mit mond a doktor, ne hallgasd, butaság!\nMeggyógyulsz, tudom\nVigyázok rád\n\nÉs táncolsz, ahogy régen\nÉs nézik, ki ez a lány?\nOlyan szép, hogy biztosan álmodunk már!\nS ha a vándor az égben\nMégse túl szigorú\nA holnap már nem lesz szomorú\n\nNincs semmi baj, éveken át\nAnnyi minden féle volt már a világ\nOkosabb vagy, úgy hiszem, minthogy többé ne remélj\nMeggyógyulsz, tudom\nSoha ne félj\n\nÉs táncolsz, ahogy régen\nÉs nézik, ki ez a lány?\nOlyan szép, hogy biztosan álmodunk már!\nS ha a vándor az égben\nMégse túl szigorú\nA holnap már nem lesz szomorú\nA holnap már nem lesz szomorú\nA holnаp már nem lesz ѕzomorú"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Sadness will be over tomorrow",
+      "content": "Look, another picture has been found\nI had thought it had been lost for long\nYou're sitting on a terrace\nThe sun is going down, and it's about to rain\nIn the background there are the sea and the bustling harbour\n\nThere was always music in the streets at night\nLet's go some day and see if it's still the same\nIgnore what the doctor says, it's rubbish\nI know you'll get better again\nI'm taking care of you\n\nAnd you'll dance like in the past\nAnd people will stare and ask who this girl may be\nShe's so beautiful, we must have fallen asleep and be dreaming\nAnd if the heavenly pilgrim\nIs not so hard after all\nSadness will be over tomorrow\n\nIt's all right, dear, throughout the years\nThe world has shown us so many of its different faces\nYou've always been so brave, braver than giving up hope\nI know you'll get better again\nDon't be afraid\n\nAnd you'll dance like in the past\nAnd people will stare and ask who this girl may be\nShe's so beautiful, we must have fallen asleep and be dreaming\nAnd if the heavenly pilgrim\nIs not so hard after all\nSadness will be over tomorrow\nSadness will be over tomorrow\nSаdnesѕ will be over tomorrow"
+    }
+  ],
+  "bpm": 70,
+  "tone": "F major",
+  "artistPeople": [
+    "Károly Horváth"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "István Lerch"
+  ],
+  "conductor": "Miklós Malek",
+  "lyricists": [
+    "Attila Horváth"
+  ],
+  "writers": null,
+  "broadcaster": "MTV",
+  "commentators": [
+    "Gábor Gundel Takács"
+  ],
+  "jury": null,
+  "spokesperson": "Barna Héder"
+}

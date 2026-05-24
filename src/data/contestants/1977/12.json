@@ -1,0 +1,58 @@
+{
+  "id": 12,
+  "country": "IT",
+  "artist": "Mia Martini",
+  "song": "Libera",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/AHaN8XA6qu4",
+    "https://www.youtube-nocookie.com/embed/ooau_4M2mU8",
+    "https://www.youtube-nocookie.com/embed/K-MhphkTYlM",
+    "https://www.youtube-nocookie.com/embed/fbZwmSdf9OU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Libera",
+      "content": "Libera di parlare, libera di cercare\nDi fare e di disfare, di esser soltanto me\n\nLibera di capire, libera di sentire\nRealizzare un fine e di sbagliare da me\n\nSo bene quel che voglio, quello che non voglio\nHo il mio orgoglio, cosa c'entri tu\n\nScoprirmi innamorata, ma non a te legata\nDonna abituata a camminar da sé\n\n(Libera di pensare, libera di mostrare)\nDi pensare… libera di mostrare\n(Di dare e di non dare)\nQuello che piace a te\n\nLibera di provare, libera di esser madre\nPeccare o non peccare e di pagare da me\n\nLibera come il sole, libera come il mare\nNoi, come due persone, libera, io e te\n\n(Libera come il sole, libera come il mare)\nCome il sole…\n(Noi, come due persone, libera, io e te)\nNa na na na na na na na na na na na na na na na na na…\n\n(Libera come il sole, libera come il mare)\nCome il mare…\n(Noi, come due persone)\nLibera, io e te\n\n(Libera come il sole, libera come il mare)\nCome il mare…\n(Noi, come due persone)\nLibera, io e te\n\n(Libera come il sole, libera come il mare)\nNa na na na na na na… na na na… come il mare…\n(Noi, come due perѕone, libera, io e te)\nNa na na na na na na na na na na na na na na…\n\nLiberа, io e te"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Free",
+      "content": "Free to talk, free to seak\nTo do and to undo, just to be myself\n\nFree to understand, free to feel\nTo reach a goal, and to make a mistake myself\n\nI know well what I want, what I don't want\nI have my pride, you don't even come into it\n\nFind myself in love, but not bound to you\nA woman who is used to walk on her own\n\n(Free to think, free to show)\nTo think… free to show\n(To give and not to give)\nWhat you like\n\nFree to try, free to be mother\nTo sin or not to sin and to pay for it myself\n\nFree as the sun, free as the sea\nUs, as two individuals, free, you and me\n\n(Free as the sun, free as the sea)\nAs the sun…\n(Us, as two individuals, free, you and me)\nNa na na na na na na na na na na na na na na na na …\n\n(Free as the sun, free as the sea)\nAs the sea…\n(Us, as two individuals)\nFree, you and me\n\n(Free as the sun, free as the sea)\nLike the sea\n(Us, as two individuals)\nFree, you and me\n\n(Free as the sun, free as the sea)\nNa na na na na na na… na na na… as the sea…\n(Us, as two individualѕ, free, you and me)\nNa na na na na na na na na na na na na na na…\n\nFree, you аnd me"
+    }
+  ],
+  "bpm": 124,
+  "tone": "A minor",
+  "artistPeople": [
+    "Domenica Bertè"
+  ],
+  "backings": [
+    "Andrea Surdi",
+    "Cristina Paltrinieri",
+    "Salvatore Fabrizio"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Salvatore Fabrizio"
+  ],
+  "conductor": "Maurizio Fabrizio",
+  "lyricists": [
+    "Luigi Albertelli"
+  ],
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Silvio Noto"
+  ],
+  "jury": null,
+  "spokesperson": "Mariolina Cannuli"
+}

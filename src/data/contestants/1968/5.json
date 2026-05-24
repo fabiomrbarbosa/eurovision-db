@@ -1,0 +1,59 @@
+{
+  "id": 5,
+  "country": "DE",
+  "artist": "Wencke Myhre",
+  "song": "Ein Hoch der Liebe",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/E2v4PNffkqQ",
+    "https://www.youtube-nocookie.com/embed/TPz_OC51VVY",
+    "https://www.youtube-nocookie.com/embed/h8O_Ry20GFU",
+    "https://www.youtube-nocookie.com/embed/vfxdVbEc-qI",
+    "https://www.youtube-nocookie.com/embed/WGtdKFo5CQ4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Ein Hoch der Liebe",
+      "content": "Ein Hoch der Liebe, vive l'amour\nThree cheers for love, viva l'amor\nDie unsre Welt so jung erhält\n\nEs war beim ersten Mal\nVielleicht hab ich mich da noch geirrt\nEs war beim zweiten Mal\nDa hast du mich schon sehr verwirrt\nDoch beim dritten Mal\nDa ahnte ich gleich, wohin das führt\nUnd dann, beim vierten Mal\nHab ich genau gespürt\n\nEin Hoch der Liebe, vive l'amour\nThree cheers for love, viva l'amor\nDie unsre Welt so jung erhält\n\nEin Hoch der Liebe, vive l'amour\nThree cheers for love, viva l'amor\nDie unsre Welt so jung erhält\n\nDas ist das erste Mal für mich\nUnd nur du bist schuld daran\nDas ist das erste Mal für mich\nDas ich sagen kann:\n\nEin Hoch der Liebe, vive l'amour\nThree cheers for love, viva l'amor\nDie unsre Welt so jung erhält\n\nSo ist es jedes Mal mit dir\nUnd nur du bist schuld daran\nDass ich das nächste Mal mit dir\nKaum noch erwarten kann\nDenn beim ersten Mal\nDa wusste ich schon wohin das führt\nDass es ein letztes Mal für uns nie geben wird\n\nLalalala lalalala…\nLalalala lalalala…\nLalalala lalalala…\n\nLiebe, Liebe, die unsre Welt so jung erhält\n\nSeit sich die Erde dreht\nWie auch dein Glücksstern steht\nWohin der Wind dich weht\n\nEin Hoch der Liebe, vive l'amour\nThree cheers for love, viva l'amor\nDie immer blüht, wohin mаn sieht\nDie unsre Welt ѕo jung erhält"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "A toast to love",
+      "content": "A toast to love, long live love\nThree cheers for love, long live love\nWhich keeps our world so young\n\nIt was the first time\nMaybe I got it wrong then\nIt was the second time\nThat you really confused me\nBut the third time\nI knew right away where it was headed\nAnd then, the fourth time\nI felt it for sure\n\nA toast to love, long live love\nThree cheers for love, long live love\nWhich keeps our world so young\n\nA toast to love, long live love\nThree cheers for love, long live love\nWhich keeps our world so young\n\nThat's the first time for me\nAnd it's only because of you\nThat's the first time for me\nThat I've been able to say:\n\nA toast to love, long live love\nThree cheers for love, long live love\nWhich keeps our world so young\n\nThat's how it is every time with you\nAnd it's only because of you\nThat for the next time with you\nI can hardly wait\nBecause the first time\nI already knew where it was headed\nThat there'd never be a last time for us\n\nLalalala lalalala…\nLalalala lalalala…\nLalalala lalalala…\n\nLove, love, which keeps our world so young\n\nSince the world is turning\nWherever your lucky star may be\nWherever the wind may drift you\n\nA toast to love, long live love\nThree cheers for love, long live love\nWhich alwаys blooms, wherever you look\nWhich keeps our world ѕo young"
+    }
+  ],
+  "bpm": 95,
+  "tone": "C# major",
+  "artistPeople": [
+    "Wenche Synnøve Myhre"
+  ],
+  "backings": [
+    "Gisela Schäuble",
+    "Rosemarie Gongolski",
+    "Rosemarie Siegel"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Horst Jankowski"
+  ],
+  "conductor": "Horst Jankowski",
+  "lyricists": [
+    "Carl J. Schäuble"
+  ],
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Hans-Joachim Rauschenbach"
+  ],
+  "jury": null,
+  "spokesperson": "Hans-Otto Grünefeldt"
+}

@@ -1,0 +1,61 @@
+{
+  "id": 35,
+  "country": "GE",
+  "artist": "The Shin and Mariko",
+  "song": "Three Minutes To Earth",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/0v69AvCQJQY",
+    "https://www.youtube-nocookie.com/embed/o9ixkdkbieU",
+    "https://www.youtube-nocookie.com/embed/ps5z1uWrb0A"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Three Minutes To Earth",
+      "content": "Shin… Shin…\n\nHome, home, through the star trail of a lonely star\nHome to the Earth where we belong, belong to…\nDazzling light of mankind's emotion:\nShow us the stairway to come back to Earth – sky diver's space jump\nLead those three minutes longin' for love\nPeace and light everywhere…\nPick up all the rainbow buds from the sky\nAll the tries, all the whys\nThree minutes to Earth for you and for me\n\nShow us the stairway to come back to Earth – sky diver's space jump\nLead those three minutes longin' for love\nPeace and light everywhere…\nShow us the stairway to come back to Earth – sky diver's space jump\nDress up the stairway to Earth with no sigh – rock the boat of ragged despair\nPick up all the rainbow buds from the sky\nHear the chime – now's the time:\nThree minutes time to Earth for you and me\nTake our breath away aѕ we fly…\n\nAnytime, anywhere, we аre going SHIN"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Tres minutos hasta la Tierra",
+      "content": "Shin… Shin…\n\nHogar, hogar, a través del rastro de una estrella solitaria\nHogar de la Tierra a la que pertenecemos\nLuz cegadora de la emoción humana:\nMuéstranos la escalera para regresar a la tierra - salto espacial de paracaidista\nGuía esos tres minutos de deseo de amor\nPaz y luz en todas partes\nRecoge todos los capullos de arcoíris caídos del cielo\nTodos los intentos, todos los porqués\nTres minutos hasta la Tierra para ti y para mí\n\nMuéstranos la escalera para regresar a la tierra - salto espacial de paracaidista\nGuía esos tres minutos de deseo de amor\nPaz y luz en todas partes…\nMuéstranos la escalera para regresar a la tierra - salto espacial de paracaidista\nViste a la escalera hacia la Tierra sin suspiro - balancea el barco de la desesperación harapienta\nRecoge todos los capullos de arcoíris caídos del cielo\nEscucha las campanadas - ahora es el momento:\nTres minutos hasta la Tierra para ti y para mí\nQue nos quitan el aliento mientras volamos\n\nEn cualquier momento, en cualquier lugаr, nos volvemoѕ SHIN"
+    }
+  ],
+  "bpm": 152,
+  "tone": "A major",
+  "artistPeople": [
+    "Alexander Chumburidze",
+    "Mariko Ebralidze"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Zaza Miminoshvili"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Eugen Eliu"
+  ],
+  "writers": null,
+  "broadcaster": "GPB",
+  "commentators": [
+    "Lado Tatishvili",
+    "Tamuna Museridze"
+  ],
+  "jury": [
+    "George Kukhianidze",
+    "Mikheil Chelidze",
+    "Nana Daushvili",
+    "Natia Khoshtaria",
+    "Nino Chachava"
+  ],
+  "spokesperson": "Nodiko Tatishvili, Sopho Gelovani"
+}

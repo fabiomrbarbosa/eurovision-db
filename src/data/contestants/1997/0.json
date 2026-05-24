@@ -1,0 +1,55 @@
+{
+  "id": 0,
+  "country": "GB",
+  "artist": "Katrina and The Waves",
+  "song": "Love Shine A Light",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/KwLBCKA5-ls",
+    "https://www.youtube-nocookie.com/embed/jv3fIXSTUzI",
+    "https://www.youtube-nocookie.com/embed/JVd6XHGQ03Y",
+    "https://www.youtube-nocookie.com/embed/beOSJT9aE7U"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Love Shine A Light",
+      "content": "Love, shine a light in every corner of my heart\nLet the love light carry, let the love light carry\nLight up the magic in every little part\nLet our love shine a light in every corner of our hearts\n\nLove, shine a light in every corner of my dream\nLet the love light carry, let the love light carry\nLike the mighty river flowin' from the stream\nLet our love shine a light in every corner of my dream\n\nAnd we're all gonna shine a light together\nAll shine a light to light the way\nBrothers and sisters in every little part\nLet our love shine a light in every corner of our hearts\n\nLove, shine a light in every corner of the world\nLet the love light carry, let the love light carry\nLight up the magic for every boy and girl\nLet our love shine a light in every corner of the world\n\nAnd we're all gonna shine a light together\nAll shine a light to light the way\nBrothers and sisters in every little part\nLet our love shine a light in every corner of our hearts\n\nAnd we're all gonna shine a light together\nAll shine a light to light the way\nBrothers and sisters in every little part\nLet our love shine a light in every corner of our hearts\n\nShine a light in every corner of our heаrtѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": null,
+      "title": "Αγάπη λάμψε ένα φως",
+      "content": "Αγάπη, λάμψε ένα φως σε κάθε γωνιά της καρδιάς μου\nΑφήστε το φως της αγάπης να μεταφέρει, αφήστε το φως της αγάπης να μεταφέρει\nΑνάψτε τη μαγεία σε κάθε μικρό κομμάτι\nΑφήστε την αγάπη μας να λάμψει φως σε κάθε γωνιά της καρδιάς μας\n\nΑγάπη, λάμψε ένα φως σε κάθε γωνιά του ονείρου μου\nΑφήστε το φως της αγάπης να μεταφέρει, αφήστε το φως της αγάπης να μεταφέρει\nΣαν το δυνατό ποτάμι που κυλάει από το ρέμα\nΑφήστε την αγάπη μας να λάμψει φως σε κάθε γωνιά του ονείρου μου\n\nΚαι θα ρίξουμε φως όλοι μαζί\nΌλα λάμπουν ένα φως για να φωτίσουν το δρόμο\nΑδέρφια και αδερφές σε κάθε μικρό κομμάτι\nΑφήστε την αγάπη μας να λάμψει φως σε κάθε γωνιά της καρδιάς μας\n\nΑγάπη, λάμψε ένα φως σε κάθε γωνιά του κόσμου\nΑφήστε το φως της αγάπης να μεταφέρει, αφήστε το φως της αγάπης να μεταφέρει\nΑνάψτε τη μαγεία για κάθε αγόρι και κορίτσι\nΑφήστε την αγάπη μας να λάμψει φως σε κάθε γωνιά του κόσμου\n\nΚαι θα ρίξουμε φως όλοι μαζί\nΌλα λάμπουν ένα φως για να φωτίσουν το δρόμο\nΑδέρφια και αδερφές σε κάθε μικρό κομμάτι\nΑφήστε την αγάπη μας να λάμψει φως σε κάθε γωνιά της καρδιάς μας\n\nΚαι θα ρίξουμε φως όλοι μαζί\nΌλα λάμπουν ένα φως για να φωτίσουν το δρόμο\nΑδέρφια και αδερφές σε κάθε μικρό κομμάτι\nΑφήστε την αγάπη μας να λάμψει φως σε κάθε γωνιά της καρδιάς μας\n\nΛάψε ένα φως σε κάθε γωνιά της καρδιάς μας"
+    }
+  ],
+  "bpm": 166,
+  "tone": "C major",
+  "artistPeople": [
+    "Katrina Leskanich"
+  ],
+  "backings": [
+    "Beverley Skeete",
+    "Miriam Stockley"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Don Airey",
+  "lyricists": null,
+  "writers": [
+    "Kimberley Rew"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Terry Wogan"
+  ],
+  "jury": null,
+  "spokesperson": "Colin Berry"
+}

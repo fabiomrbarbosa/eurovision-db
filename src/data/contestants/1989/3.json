@@ -1,0 +1,73 @@
+{
+  "id": 3,
+  "country": "SE",
+  "artist": "Tommy Nilsson",
+  "song": "En dag",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/3d3KM73977U",
+    "https://www.youtube-nocookie.com/embed/IRXa-5z1h_Y",
+    "https://www.youtube-nocookie.com/embed/Hx0coihmubo",
+    "https://www.youtube-nocookie.com/embed/AWW7rFCbW00",
+    "https://www.youtube-nocookie.com/embed/pLMpJSILHsc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "En dag",
+      "content": "En dag när vindarna bär\nEn dag står du och jag här\nEn dag när drömmen når fram\nNär vägarna möts förstår vi varann\n\nEn dag vi alla förstår\nEn dag, när stillheten rår\nEn dag jag finner din hand\nNär vägarna möts förstår vi varann\n\nVi bär på en längtan och vandrar omkring\nVandrar men utan att se\nVad som än händer, jag kommer till dig\nStannar fast timmen är sen\nStannar fast timmen är sen\n\nÅh… en dag när vindarna bär\nEn dag står du och jag här\nEn dag när drömmen når fram\nNär vägarna möts förstår vi varann\n\nÅh… allt det vi söker, det finns här intill\nAllt som vi hoppas ska ske\nÅh… vad som än händer, jag kommer till dig\nStannar fast timmen är sen\nÅh… stannar fast timmen är sen\n\nÅh… en dag när vindarna bär\nEn dag står du och jag här\n\nÅh… en dag\nNär vägarna möts förstår vi varann\n\nEn dag vi alla förstår\nÅh… en dag, när stillheten rår\nEn dag jag finner din hand\nNär vägarna möts förstår vi varann\n\n(En dag när vindarna bär)\nEn dag står du och jag här\nEn dag när drömmen når fram\nNär vägarna möts förѕtår vi varаnn"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "One Day",
+      "content": "One day, when the winds carry\nOne day, you and I are standing there\nOne day, when the dream reaches out\nWhen our roads meet, we will understand each other\n\nOne day, we all understand\nOne day, when silence rules\nOne day, I find your hand\nWhen our roads meet, we will understand each other\n\nWe carry a yearning, and wander around\nWander without seeing\nWhatever happens, I will come to you\nStay even though it's late\nStay even though it's late\n\nOh… one day, when the winds carry\nOne day, you and I are standing there\nOne day, when the dream reaches out\nWhen our roads meet, we will understand each other\n\nOh… everything we're looking for, is right here\nEverything we hope for will happen\nOh… whatever happens, I will come to you\nStay even though it's late\nOh… stay even though it's late\n\nOh… one day, when the winds carry\nOne day, you and I are standing there\n\nOh… one day\nWhen our roads meet, we will understand each other\n\nOne day, we all understand\nOh… one day, when silence rules\nOne day, I find your hand\nWhen our roads meet, we will understand each other\n\n(One day, when the winds carry)\nOne day, you and I are standing there\nOne day, when the dream reaches out\nWhen our roads meet, we will underѕtand eаch other"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Some Day",
+      "content": "Someday, we walk through the night\nSomeday, I'm holdin' you tight\nSomeday, no more on your own\nI'll be by your side, we'll find our way home\n\nSomeday, I know we'll be there\nSomeday we'll reach everywhere\nSomeday I won't be alone\nYou're there by my side, we'll find our way home\n\nWe're walkin' in circles and try to hold on\nTry to hold on to the past\nWe keep on searchin', but where do we go?\nLooking for love that will last\nLooking for love that will last\n\nOh… someday, we walk through the night\nSomeday, I'm holdin' you tight\nSomeday, no more on your own\nI'll be by your side, we'll find our way home\n\nMaybe I'm dreamin', could this be true?\nEverything happened so fast\nI kept on searchin', searchin' for you\nLooking for love that will last\nOh… looking for love that will last\n\nOh… someday, we walk through the night\nSomeday, I'm holdin' you tight\n\nWhoa… someday\nI'll be by your side, we'll find our way home\n\nSomeday, I know we'll be there\nOh… someday we'll reach everywhere\nSomeday I won't be alone\nYou're there by my side, we'll find our way home\n\n(Someday, we walk through the night,)\nSomeday, I'm holdin' you tight\nSomeday, no more on your own\nI'll be by your ѕide, we'll find our wаy home"
+    }
+  ],
+  "bpm": 94,
+  "tone": "C# major",
+  "artistPeople": [
+    "Tommy Nilsson"
+  ],
+  "backings": [
+    "Ankie Bagger",
+    "Jean Paul Wall",
+    "Jerry Williams",
+    "Tommy Ekman",
+    "Vicki Benckert"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Alexander Bard",
+    "Ola Håkansson",
+    "Tim Norell"
+  ],
+  "conductor": "Anders Berglund",
+  "lyricists": [
+    "Ola Håkansson",
+    "Tim Norell"
+  ],
+  "writers": null,
+  "broadcaster": "SVT",
+  "commentators": [
+    "Jacob Dahlin"
+  ],
+  "jury": null,
+  "spokesperson": "Agneta Bolme-Börjefors"
+}

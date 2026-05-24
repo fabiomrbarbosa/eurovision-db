@@ -1,0 +1,51 @@
+{
+  "id": 11,
+  "country": "IS",
+  "artist": "August & Telma",
+  "song": "Tell Me!",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/cNHsRP9_VxQ",
+    "https://www.youtube-nocookie.com/embed/qNstolVdCvM",
+    "https://www.youtube-nocookie.com/embed/84ulRZUA4zU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Tell Me!",
+      "content": "With you in my life, it's destined to be right\nAnd I know that it's true, girl, I was only made for you\nSo why don't we make the pieces fit and pack our bags tonight?\nAnd go wherever love will take us, we'll make it all right\n\nTell me, tell me, tell me once, tell me twice\nTell me there is no compromise\nWe'll be together all the time\nSo say you will be mine\n\nOo… with you by my side, I'm on a rollercoaster-ride\nAnd I know that it's true - boy, I was only made for you\nListen to me now, you've got to give me a sign\n'Cause I can't wait here any longer, make up your mind\n\nTell me, tell me, tell me once, tell me twice\nTell me there is no compromise\nWe'll be together all the time\n\nTell me, tell me, tell me once, tell me twice\nTell me there is no compromise\nWe'll be together all the time\nSo say you will be mine\n\nIf you only knew all that we could do\nWe'd be together all alone, you and me\nLike we were always meant to be\n\nOh… I don't know if it's fact or fiction\nBut I'm sure we'll make the right decision\nLook into my eyes now, baby, give it all you've got\n\nTell me, tell me, tell me once, tell me twice\nTell me there is no compromise\nWe'll be together all the time\n\nTell me, tell it to me once, tell me twice\nTell me there is no compromiѕe\nWe'll be together аll the time"
+    }
+  ],
+  "bpm": 145,
+  "tone": "D major",
+  "artistPeople": [
+    "Einar Ágúst Víðisson",
+    "Telma Ágústsdóttir"
+  ],
+  "backings": [
+    "Eyjólfur Kristjánsson",
+    "Guðbjörg Magnúsdóttir",
+    "Hulda Gestsdóttir",
+    "Pétur Örn Guðmundsson"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Örlygur Smári"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Örlygur Smári",
+    "Sigurður Örn Jónsson"
+  ],
+  "writers": null,
+  "broadcaster": "RÚV",
+  "commentators": [
+    "Gísli Marteinn Baldursson"
+  ],
+  "jury": null,
+  "spokesperson": "Ragnheiður Elín Clausen"
+}

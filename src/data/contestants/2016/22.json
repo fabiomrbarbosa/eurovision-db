@@ -1,0 +1,66 @@
+{
+  "id": 22,
+  "country": "HR",
+  "artist": "Nina Kraljić",
+  "song": "Lighthouse",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/8QUM-_EbE2o",
+    "https://www.youtube-nocookie.com/embed/ZPDKaOgkAGY",
+    "https://www.youtube-nocookie.com/embed/U6bmKB3SHPY",
+    "https://www.youtube-nocookie.com/embed/yBrADG8lWFY",
+    "https://www.youtube-nocookie.com/embed/iw9VBlBCpmo",
+    "https://www.youtube-nocookie.com/embed/Earnf5kAqP0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Lighthouse",
+      "content": "Lightning strikes on the sea\nBreaking waves around me\nStormy tides and I feel my ship capsizing\n\nOut of sight, saving shore\nEver gone, ever more\nRocks and tide, rain that pours, the water's rising\n\nIn devastating times,\nI keep this hope of mine\nEven in the darkest night\n\n'cause there is a light, guiding my way\nKeeping me safe when oceans rage\nThere in the sky, hiding away\nNever to die and fade\n\nI know that I'll find your lighthouse,\nyour lighthouse\nI know that I'll find your…\n\nHarbour's near, no more fear\nWall of clouds disappears\nSo I steer to the pier, in tears arriving\n\nIn devastating times,\nI keep this hope of mine\nEven in the darkest night\n\n'cause there is a light, guiding my way\nKeeping me safe when oceans rage\nThere in the sky, hiding away\nNever to die and fade\n\nI know that I'll find your…\nI know that I'll find your…\n\nThere is a light,\nKeeping me safe when oceans rage\nThere in the sky, hiding away\nNever to die and fade\n\nI know thаt I'll find your, your lighthouse,\nyour lighthouse, your lighthouse,\nyour lighthouse, your lighthouѕe"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "croatian"
+      ],
+      "displayedLanguages": null,
+      "title": "Svjetionik",
+      "content": "Munja udari nad morem\nLomeći valove oko mene\nOlujne plime i osjećam kako se moj brod prevrće\n\nIzvan pogleda - obala spasa\nPotpuno nestala - zauvijek\nUžad razvezana - kiša što lije vode rastu\n\nU razornim vremenima\nČuvam ovu svoju nadu\nČak i najmračnijoj noći\n\nJer postoji svjetlo što mi pokazuje put\nČuvajući me kad oceani bjesne\nTamo na nebu krijući se\nDa nikad ne umru i ne izblijede\n\nZnam da ću pronaći tvoj svjetionik\nTvoj svjetionik\nZnam da ću pronaći tvoj…\n\nLuke blizu Nema više straha\nZid od oblaka nestaje\nPa kormilarim do pristaništa U suzama - stižem\n\nNema razornih vremena\nOčuvala sam ovu svoju nadu\nČak i u najmračnijoj noći\n\nJer postoji svjetlo Što mi pokazuje put\nČuvajući me kad oceani bjesne\nTamo na nebu Krijući se\nDa nikad ne umru i ne izblijede\n\nZnam da ću pronaći tvoj\nTvoj svjetionik…\n\nJer postoji svjetlo Što mi pokazuje put\nČuvajući me kad oceani bjesne\nTamo na nebu Krijući se\nDa nikad ne umru i ne izblijede\n\nZnam da ću pronаći tvoj svjetionik\nTvoj svjetionik, Tvoj svjetionik\nTvoj svjetionik, Tvoj ѕvjetionik"
+    }
+  ],
+  "bpm": 116,
+  "tone": "Bb minor",
+  "artistPeople": [
+    "Nina Kraljić"
+  ],
+  "backings": [
+    "Andrej Babić",
+    "Danijela Večerinović",
+    "Lino Lacmanović Ćućić",
+    "Martina Majerle"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Andreas Grass",
+    "Nikola Paryla"
+  ],
+  "broadcaster": "HRT",
+  "commentators": [
+    "Duško Ćurlić"
+  ],
+  "jury": [
+    "Boris Đurđević",
+    "Damir Kedžo",
+    "Duško Mandić",
+    "Kim Verson",
+    "Pamela Ramljak"
+  ],
+  "spokesperson": "Nevena Rendeli"
+}

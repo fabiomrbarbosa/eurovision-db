@@ -1,0 +1,55 @@
+{
+  "id": 13,
+  "country": "SE",
+  "artist": "Blond",
+  "song": "Bara hon älskar mig",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/hyZQpHvOAzo",
+    "https://www.youtube-nocookie.com/embed/ymrYxcC0X8I",
+    "https://www.youtube-nocookie.com/embed/fXtiSPXh-4E"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Bara hon älskar mig",
+      "content": "Jag ser en flicka dansa genom natten\nLer så alla hjärtan stannar\nFast jag har vandrat genom eld och vatten\nRör hon mig som ingen annan\nOch om hon faller för mig förändras allt\nOm hon ser att den man hon väntar på\nDet är jag, det kan bli hon och jag\n\nBara hon älskar mig\nFår jag den ängel hela himlen saknar\nOch den enda kvinna jag vill ha igen\nBara hon älskar mig\nBlir jag den man hon ser i sina drömmar\nAlla andra har förlorat\nHon kan aldrig älska utan mig\n\nJag vågar inte möta hennes blickar\nVisa att mitt hjärta brinner\nHur ska jag nånsin fånga denna flicka\nFråga innan hon försvinner\nFast andra män kunde dö for hennes skull\nSå förstår jag att ingen ser\nVad hon vill ha, det gör bara jag\n\nBara hon älskar mig\nFår jag den ängel hela himlen saknar\nOch den enda kvinna jag vill ha igen\nBara hon älskar mig\nBlir jag den man hon ser i sina drömmar\nAlla andra har förlorat\nHon kan aldrig älska utan mig\n\nJag har inget kvar att leva för\nIngenting är värt nåt om inte vi finner varandra\nVi blir ett\n\nBara hon älskar mig\nFår jag den ängel hela himlen saknar\nOch den enda kvinna jag vill ha igen\nBara hon älskar mig\nBlir jag den man hon ser i sina drömmar\nAlla andra har förlorat\nHon kan aldrig älska utan…\n\nBara hon älskar mig\nBlir jag den man hon ser i sina drömmar\nHon kan aldrig älѕka utаn mig"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "If only she loves me",
+      "content": "I see a girl dance through the night\nSmiling so all the hearts stop\nEven though I walked through fire and water\nShe touches me like nobody else\nAnd if she falls for me everything will change\nFor she'll see that the man she waited for\nIt is me, it could be she and I\n\nIf only she loves me\nI'll have the angel the whole of heaven looks for\nAnd the only woman I want to have again\nIf only she loves me\nI become that man she sees in her dreams\nAll the others have lost\nShe can never love without me\n\nI don't dare to meet her looks\nShow that my heart is on fire\nHow will I ever catch this girl\nAsk before she disappears\nEven though other men could die for the her sake\nI understand what nobody sees\nWhat she wants, it is only me\n\nIf only she loves me\nI'll have the angel the whole of heaven looks for\nAnd the only woman I want to have again\nIf only she loves me\nI become that man she sees in her dreams\nAll the others have lost\nShe can never love without me\n\nI've nothing left to live for\nNothing is worth anything unless we find each other\nWe become one\n\nIf only she loves me\nI'll have the angel the whole of heaven looks for\nAnd the only woman I want to have again\nIf only she loves me\nI become that man she sees in her dreams\nAll the others have lost\nShe can never love without…\n\nIf only she loves me\nI become that man she sees in her dreamѕ\nShe cаn never love without me"
+    }
+  ],
+  "bpm": 146,
+  "tone": "D minor",
+  "artistPeople": [
+    "Gabriel Forss",
+    "Jonas Karlhager",
+    "Patrick Lundström"
+  ],
+  "backings": [
+    "Peter Hallström"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Curt-Eric Holmquist",
+  "lyricists": null,
+  "writers": [
+    "Stephan Berg"
+  ],
+  "broadcaster": "SVT",
+  "commentators": [
+    "Jan Jingryd"
+  ],
+  "jury": null,
+  "spokesperson": "Gösta Hanson"
+}

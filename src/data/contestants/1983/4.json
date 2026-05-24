@@ -1,0 +1,55 @@
+{
+  "id": 4,
+  "country": "DE",
+  "artist": "Hoffmann und Hoffmann",
+  "song": "Rücksicht",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/8WsX-eBrjeU",
+    "https://www.youtube-nocookie.com/embed/Gpk7UnTHpQ0",
+    "https://www.youtube-nocookie.com/embed/A_LRimn3s0U",
+    "https://www.youtube-nocookie.com/embed/wYI3c-VyDzQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Rücksicht",
+      "content": "Ich kann nicht alleine sein\nMit all den ungeklärten Fragen\nWas haben wir denn beide falsch gemacht?\nUnd dennoch mag ich keinen Menschen sehen\nDas Glück von anderen tut mir noch weh\nWarum sind wir nicht früher aufgewacht?\n\nWir waren wie verwöhnte Kinder\nJeder dachte immer nur an sich\n\nRücksicht – keiner hat das Wort gekannt\nUnd Nachsicht – die keiner bei dem andern fand\nUnd Vorsicht – dass nie zerbricht, was uns verband\n\nEinsicht – dass jeder seine Fehler hat\nUnd Weitsicht – das Leben findet nicht nur heute statt\nUnd Vorsicht – dass man den andern nicht zerbricht\n\nWarn wir wirklich nur vor Liebe blind\nOder einfach zu bequem?\nHabn wir denn nicht gemerkt, was uns noch fehlt?\nVielleicht ging alles für uns viel zu schnell\nVerband uns wirklich nur die Nacht?\nWussten wir nicht, dass der Tag genauso zählt?\n\nFehlte uns die Kraft, uns zu vertrauen?\nWar es Angst vor ehrlichem Gefühl?\n\nRücksicht – keiner hat das Wort gekannt\nUnd Nachsicht – die keiner bei dem andern fand\nUnd Vorsicht – dass nie zerbricht, was uns verband\n\nEinsicht – dass jeder seine Fehler hat\nUnd Weitsicht – das Leben findet nicht nur heute statt\nUnd Vorsicht – dasѕ man den аndern nicht zerbricht"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Consideration",
+      "content": "I can't be alone\nWith all these unanswered questions\nWhat did we both do wrong?\nI still don't want to see any people\nThe luck of the others still hurts me\nWhy didn't we wake up earlier?\n\nWe were like spoiled children\nEveryone only thought of himself\n\nConsideration – nobody knew this word\nAnd leniency – which nobody found at the other\nAnd care – that never breaks what connected us\n\nInsight – that everyone has his mistakes\nAnd far-sight – life doesn't only take place today\nAnd caution – that you don't break the other\n\nWere we really just blind of love\nOr just too easygoing?\nDidn't we notice what we were missing?\nPerhaps everything was going much too fast for us\nDid only the night connect us?\nDidn't we know that the day counts as well?\n\nDid we lack the power to trust ourselves?\nWas it fear for honest feelings?\n\nConsideration – nobody knew this word\nAnd leniency – which nobody found at the other\nAnd care – that never breaks what connected us\n\nInsight – that everyone has his mistakes\nAnd far-sight – life doeѕn't only take place today\nAnd caution – that you don't breаk the other"
+    }
+  ],
+  "bpm": 154,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Günther Hoffmann",
+    "Michael Hoffmann"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Michael Reinecke"
+  ],
+  "conductor": "Dieter Reith",
+  "lyricists": [
+    "Volker Lechtenbrinck"
+  ],
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Ado Schlier"
+  ],
+  "jury": null,
+  "spokesperson": "Carolin Reiber"
+}

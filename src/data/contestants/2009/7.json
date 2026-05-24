@@ -1,0 +1,71 @@
+{
+  "id": 7,
+  "country": "FR",
+  "artist": "Patricia Kaas",
+  "song": "Et s'il fallait le faire",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/6gee9Qh6iVg",
+    "https://www.youtube-nocookie.com/embed/VkzCKWs2d40",
+    "https://www.youtube-nocookie.com/embed/UQtxVITZk44"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Et s'il fallait le faire",
+      "content": "S'il fallait le faire, j'arrêterais la terre\nJ'éteindrais la lumière, que tu restes endormi\nS'il fallait pour te plaire t'écouter chaque nuit\nQuand tu parles d'amour, j'en parlerais aussi\n\nQue tu regardes encore dans le fond de mes yeux\nQue tu y vois encore le plus grand des grands feux\nEt que ta main se colle sur ma peau, où elle veut\nUn jour si tu t'envoles, je suivrais, si je peux\n\nEt s'il fallait le faire, je repousserais l'hiver\nA grands coups de printemps et de longs matins clairs\nS'il fallait pour te plaire, j'arrêterais le temps\nQue tous tes mots d'hier restent à moi maintenant\n\nQue je regarde encore dans le bleu de tes yeux\nQue tes deux mains encore se perdent dans mes cheveux\nJe ferai tout plus grand et si c'est trop ou peu\nJ'aurais tort tout le temps, si c'est ça que tu veux\n\nJe veux bien tout donner, si seul'ment tu y crois\nMon cœur veut bien saigner, si seul'ment tu le vois\nJusqu'à n'être plus rien que l'ombre de tes nuits\nJusqu'à n'être plus rien qu'une ombre qui te suit\n\nEt ѕ'il fallait le fаire"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "And if it had to be done",
+      "content": "If it had to be done, I would stop the earth\nI would turn off the light so you stay asleep\nIf it had to be done to please you, listening to you every night\nWhen you speak of love, I would speak of it too\n\nSo you still look into the depth of my eyes\nSo you still see in there the greatest of great fires\nAnd so your hand clings to my skin where it wants to\nIf you run off one day, I would follow if I could\n\nAnd if it had to be done, I would push away the winter\nWith big help of springtime and long clear mornings\nIf it had to be done to please you, I would stop the time\nSo all your words of yesterday stay with me now\n\nSo I still look into the blue of your eyes\nSo your two hands still get lost in my hair\nI will do everything bigger and if it's too much or too little\nI would be wrong all the time, if that's what you want\n\nI do want to give everything, if only you believe in it\nMy heart does want to bleed, if only you see it\nUntil being nothing more but the shadow of your nights\nUntil being nothing more but a shadow that followѕ you\n\nAnd if it hаd to be done"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Si tuviera que hacerlo",
+      "content": "Si tuviera que hacerlo, pararía a la tierra\nApagaré la luz, que quedas dormido\nSi fuera necesario para complacerte, te escucharé cada noche\nCuando hablas de amor, hablaré de también\n\nQue todavía miras en el fondo de mis ojos\nQue todavía ves el más grande de los grandes fuegos\nY que tu mano se pega sobre mi piel, donde quiera\nUn día si te volas, te seguiré si puedo\n\nSi tuviera que hacerlo, repujaré el invierno\nCon grandes golpes de primavera, y de largos mañanas claros\nSi fuera necesario para complacerte pararía el tiempo\nQue todos tus palabras quedan mis ahora\n\nQue todavía miro en el azul de tus ojos\nQue todavía tus dos manos se pierden en mi pelo\nHaría todo todo más grande y si es mucho o poco\nMe entré eral todo el tiempo, si es lo que quieres\n\nQuiero dar todo, si solo crees\nMi corazón quiere sanrar, si solo lo ves\nHasta ser nada mas que la sombra de tus noches\nHasta ser nada mas que una sombra que te seguí\n\nY ѕi tuviera que hаcerlo"
+    }
+  ],
+  "bpm": 123,
+  "tone": "G minor",
+  "artistPeople": [
+    "Patricia Kaas"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Fred Blondin"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Anse Lazio"
+  ],
+  "writers": null,
+  "broadcaster": "France 3",
+  "commentators": [
+    "Cyril Hanouna",
+    "Julien Courbet",
+    "Peggy Olmi",
+    "Yann Renoard"
+  ],
+  "jury": [
+    "Corinne Hermès",
+    "Jean-Paul Cara",
+    "Lionel Rivera",
+    "Marianne Jaulin",
+    "Marie Jo Zarb"
+  ],
+  "spokesperson": "Yann Renoard"
+}

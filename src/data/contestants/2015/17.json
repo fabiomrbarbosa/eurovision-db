@@ -1,0 +1,58 @@
+{
+  "id": 17,
+  "country": "LT",
+  "artist": "Monika & Vaidas",
+  "song": "This Time",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/xtB_slM63JA",
+    "https://www.youtube-nocookie.com/embed/oD0XTvKcUk4",
+    "https://www.youtube-nocookie.com/embed/r13a2VUTajU",
+    "https://www.youtube-nocookie.com/embed/hoz1K_Ja8HU",
+    "https://www.youtube-nocookie.com/embed/NXZyD4XrdR0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "This Time",
+      "content": "This time I think I'm falling in love\nThis time you're sent from heaven above\nWhoo oo\n\nMy God, stop for a minute and think\nHow about we just go out for a drink\nWhoo oo\n\n'Cause every time I close my eyes I feel you\nI'm feeling love\nLove, love\nRound and round and round and round we go\nI'm feeling love\nLove, love\nRound and round and round and right in my heart\n\nThis time I hope you don't mind\nI help you put your troubles behind\nWhoo oo\n\nI know there's a reason for this\nOne kiss …\nAnd you will see what you miss\nWhoo oo\n\nI'm feeling love\nLove, love\nRound and round and round and round we go\nI'm feeling love\nLove, love\nRound and round and round and right in my heart\n\nIs this how it goeѕ?\nI don't know\nWhoo oo\n\nI'm feeling love\nI'm feeling love\nI'm feeling love\nWhoo oo\nLove\nRound and round and round and right in my heаrt"
+    }
+  ],
+  "bpm": 130,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Monika Linkytė",
+    "Vaidas Jacob Baumila"
+  ],
+  "backings": [
+    "Dainotas Varnas",
+    "Jurijus Veklenko",
+    "Justė Kraujelytė",
+    "Rūta Loop"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Vytautas Bikus"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Monika Liu"
+  ],
+  "writers": null,
+  "broadcaster": "LRT",
+  "commentators": [
+    "Darius Užkuraitis"
+  ],
+  "jury": [
+    "Jolita Vaitkevičienė",
+    "Jurga Čekatauskaitė",
+    "Jurgis Brūzga",
+    "Lauras Lučiūnas",
+    "Rosita Čivilytė"
+  ],
+  "spokesperson": "Ugnė Galadauskaitė"
+}

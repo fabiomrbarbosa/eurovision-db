@@ -1,0 +1,50 @@
+{
+  "id": 4,
+  "country": "NO",
+  "artist": "Maria",
+  "song": "Hold On Be Strong",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/arSnpxfOD2k",
+    "https://www.youtube-nocookie.com/embed/VCORVtTCh5A",
+    "https://www.youtube-nocookie.com/embed/iKdHKxm1RTQ",
+    "https://www.youtube-nocookie.com/embed/JaSgbcirhTU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Hold On Be Strong",
+      "content": "Love can be hard sometimes\nYes, it can catch you off guard like bad crimes\nYes, it can make you depressed and angry\nMake you say: Why me, why won't anybody try me?\n\nYou might be saying: Ooh, I don't wanna be lonely\nOoh, I don't wanna be by myself\nOoh, don't wanna be lonely\nWhy ain't anybody lovin' me?\n\nBut there's always someone out there who'll be there for you\nThere is always someone out there who'll care for you\nThere's always someone out there who'll be true, true, true\nHold on, hold on, be strong\n\nLove can go away forever if you push it\nAnd you have to remember: don't rush it\nIf it ain't right, it is wrong\nAnd you'll be crying: Why me, why won't anybody try me?\n\nYou might be saying: Ooh, I don't wanna be lonely\nOoh, I don't wanna be by myself\nOoh, don't wanna be lonely, oh no no\nWhy ain't anybody lovin' me?\n\nNow, but there's always someone out there who'll be there for you\nAnd there's always someone out there who'll care for you\nThere's always someone out there who'll be true, true, true\nHold on, hold on, be strong\n\nAnd yes, there's always someone out there who'll be there for you\nAnd there's always someone out there who'll care for you\nThere's alwаys someone out there who'll be true, true, true\nHold on, hold on, be strong\n\nHold on, hold on, be strong\nMy child, hold on, hold on, be ѕtrong"
+    }
+  ],
+  "bpm": 92,
+  "tone": "C# minor",
+  "artistPeople": [
+    "Maria Haukaas Storeng"
+  ],
+  "backings": [
+    "Håvard Gryting",
+    "Jorunn Hauge",
+    "Karianne Kjærnes",
+    "May Kristin Kaspersen",
+    "Øystein Nesbakken"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Mira Craig"
+  ],
+  "broadcaster": "NRK",
+  "commentators": [
+    "Hanne Hoftun",
+    "Per Sundnes"
+  ],
+  "jury": null,
+  "spokesperson": "Stian Barsnes-Simonsen"
+}

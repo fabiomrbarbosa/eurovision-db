@@ -1,0 +1,61 @@
+{
+  "id": 15,
+  "country": "LV",
+  "artist": "Bonaparti.lv",
+  "song": "Questa notte",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/zghnafACJyE",
+    "https://www.youtube-nocookie.com/embed/cuYV7btTWXg",
+    "https://www.youtube-nocookie.com/embed/qWjpQAU6oeU",
+    "https://www.youtube-nocookie.com/embed/nuOYNhOWXFw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Questa notte",
+      "content": "È il sorriso dolce da bambina che m'incanta\nE mi fa' vibrare il cuor\nÈ il mare nei tuoi occhi verdi che mi chiama\nE mi fa' sentire l'amor\n\nQuando sembra buio, tu mi fai veder il sole\nVoglio stare qui con te\nVivere per te, solo per te\n\nQuesta notte sarà l'immensità\nL'amore fra noi mai più finirà\nOra e poi, e sempre di più\nQuesta notte per sempre sarà\n\nIl profumo della pelle tua mi invita\nA scoprire quel che non sò\nFra le tante stelle, tu mi fai veder la luna\nE mi fai cantare l'amor\n\nQuando perdo la speranza, tu mi dai la mano\nVoglio stare qui con te\nVivere per te, solo per te\n\nQuesta notte sarà l'immensità\nL'amore fra noi mai più finirà\nOra e poi, e sempre di più\nPer la ragione che sai solo tu\nSai solo tu\n\nQuesta notte sarà l'immensità\nL'amore fra noi mai più finirà\nOra e poi, e sempre di più\nQuesta notte per sempre sarà\nQuesta notte per sempre ѕаrà"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "This night",
+      "content": "It's the sweet smile of the girl who enchants me\nAnd makes my heart tremble\nIt's the sea in your green eyes that calls me\nAnd makes me feel love\n\nWhen it seems dark, you make me see the sun\nI want to stay here with you\nLive for you, only for you\n\nThis night will be the immensity\nThe love between us will never end again\nNow and then, and forever more\nThis night will be forever\n\nThe perfume of your skin invites me\nTo discover what I don't know\nBetween all the stars, you make me look at the moon\nAnd make me sing love\n\nWhen I lose hope, you give me your hand\nI want to stay here with you\nLive for you, only for you\n\nThis night will be the immensity\nThe love between us will never end again\nNow and then, and forever more\nFor the reason that only you know\nOnly you know\n\nThis night will be the immensity\nThe love between us will never end again\nNow and then, аnd forever more\nThis night will be forever\nThiѕ night will be forever"
+    }
+  ],
+  "bpm": 118,
+  "tone": "G minor",
+  "artistPeople": [
+    "Andris Ābelīte",
+    "Andris Ērglis",
+    "Kaspars Tīmanis",
+    "Normunds Jakušonoks",
+    "Roberto Meloni",
+    "Zigfrīds Muktupāvels"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Kjell Jennstig"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Francesca Russo",
+    "Kjell Jennstig",
+    "Torbjörn Wassenius"
+  ],
+  "writers": null,
+  "broadcaster": "LTV",
+  "commentators": [
+    "Kārlis Streips"
+  ],
+  "jury": null,
+  "spokesperson": "Jānis Šipkēvičs"
+}

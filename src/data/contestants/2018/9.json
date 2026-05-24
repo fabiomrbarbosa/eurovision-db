@@ -1,0 +1,78 @@
+{
+  "id": 9,
+  "country": "MD",
+  "artist": "DoReDos",
+  "song": "My Lucky Day",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5evrVL1rJPA",
+    "https://www.youtube-nocookie.com/embed/pKLKeVC-9Y4",
+    "https://www.youtube-nocookie.com/embed/m1kjPaVAeeE",
+    "https://www.youtube-nocookie.com/embed/5ts-jxdW6AQ",
+    "https://www.youtube-nocookie.com/embed/Kg3ecHrFM_4",
+    "https://www.youtube-nocookie.com/embed/jP2H75ISzl8",
+    "https://www.youtube-nocookie.com/embed/OPwUncsFlYU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "My Lucky Day",
+      "content": "You got secrets to unfold\nYou got stories never told\nYou're holding information\nStanding right in front of me\nA hidden rhapsody\nI walk into temptation\n\nSomething tells me we can make some music\nThe rhythm is driving me wild\nAnd something tells me we ain't gonna loose it\nKeep pushing way into the night\n\nNumber one, keep rolling\nSay you're real, I'm hoping\nDo you feel the way I do?\nBring it on, it's magic\nAre you real? Fantastic\nSay you feel the way I do\n\nNumber two, keep turning\nFeel the heat, we're burning\nI'll do anything for you\nWe can be forever\nNumber one, together\nWe can make a dream come true\n\nWell, I guess it's up to you\nDo you feel the way I do?\nWhen body talk is magic\nSo, is this my lucky day?\nWill you stay or walk away?\nRight now, you're stopping traffic\n\nSomething tells me we can make some music\nThe rhythm is driving me wild\nAnd something tells me we ain't gonna loose it\nKeep pushing way into the night\n\nNumber one, keep rolling\nSay you're real, I'm hoping\nDo you feel the way I do?\nBring it on, it's magic\nAre you real? Fantaѕtic\nSay you feel the way I do\n\nNumber two, keep turning\nFeel the heat, we're burning\nI'll do anything for you\nWe can be forever\nNumber one, together\nWe can make a dreаm come true"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Счастливый День",
+      "content": "Ты полна больших идей\nИнтересных новостей\nТы яркая такая\nСводишь ты меня с ума\nО, как ты хороша\nТы грешная святая\n\nКто-то скажет мы с тобой не пара\nЯ не поверю словам\nУ любви сладкий вкус нектара\nИ я за неё всё отдам\n\nМы в любви как птицы\nНам бы раствориться\nВ этом пламене страстей\nТо что было с нами\nВсё сжигает пламя\nНо любовь ещё сильней\n\nМы любви частицы\nНам бы насладиться\nЭтой магией огня\nТо что было с нами\nВсё сжигает пламя\nОбжигая и маня\n\nО тебе всю жизнь мечтал\nМой счастливый день настал\nХочу тебе признаться\nЯ так долго ждал тебя\nЗнаешь, милая моя\nМечтам пора сбываться\n\nКто-то скажет мы с тобой не пара\nНо я не поверю словам\nУ любви сладкий вкус нектара\nИ я за неё всё отдам\n\nМы в любви как птицы\nНам бы раствориться\nВ этом пламене страстей\nТо что было с нами\nВсё сжигает пламя\nНо любовь ещё сильней\n\nМы любви частицы\nНам бы насладиться\nЭтой магией огня\nТо что было с нами\nВсё сжигает пламя\nОбжигая и маня"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Meu Dia de Sorte",
+      "content": "Você tem segredos a revelar\nVocê tem histórias nunca contadas\nVocê está guardando informações\nDe pé bem na minha frente\nUma rapsódia oculta\nEu caminho para a tentação\n\nAlgo me diz que podemos fazer música\nO ritmo está me eloquencendo\nE algo me diz que não vamos perdê-lo\nContinuamos empurrando até a noite chegar\n\nNúmero um, continue rolando\nDiga que você é real, estou esperando\nVocê sente como o que eu sinto?\nTraga, é magia\nVocê é real, fantástico\nDiga que você se sente o que eu sinto\n\nNúmero dois, continue girando\nSinta o calor, estamos queimando\nEu faria qualquer coisa por você\nPodemos ser para sempre\nNúmero um, juntos\nPodemos fazer um sonho se tornar realidade\n\nBem, eu acho que depende de você\nVocê sente como o que eu sinto?\nQuando a linguagem corporal é mágica\nEntão este é meu dia de sorte\nVocê vai ficar ou vai embora?\nAgora você está parando o tráfego\n\nAlgo me diz que podemos fazer música\nO ritmo está me eloquencendo\nE algo me diz que não vamos perdê-lo\nContinuamos empurrando até a noite chegar\n\nNúmero um, continue rolando\nDiga que você é real, estou esperando\nVocê sente como o que eu sinto?\nTraga, é magia\nVocê é real, fantástico\nDiga que você se sente o que eu sinto\n\nNúmero dois, continue girando\nSinta o calor, estamos queimando\nEu faria qualquer coisa por você\nPodemos ser para sempre\nNúmero um, juntos\nPodemos fazer um sonho ѕe tornar realidаde"
+    }
+  ],
+  "bpm": 122,
+  "tone": "D minor",
+  "artistPeople": [
+    "Evgeny Andrianov",
+    "Marina Djundiet",
+    "Sergiu Mîța"
+  ],
+  "backings": [
+    "Erik Høiby",
+    "Kostya Vechersky",
+    "Sara Linnea Larsson"
+  ],
+  "dancers": null,
+  "stageDirector": "Fokas Evangelinos",
+  "composers": [
+    "Philipp Kirkorov"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "John Ballard"
+  ],
+  "writers": null,
+  "broadcaster": "TRM",
+  "commentators": [
+    "Djulieta Ardovan"
+  ],
+  "jury": [
+    "Anatol Chiriac",
+    "Cristina Scarlat",
+    "Rodica Aculova",
+    "Vera Țurcanu",
+    "Vitalie Catană"
+  ],
+  "spokesperson": "Djulieta Ardovan"
+}

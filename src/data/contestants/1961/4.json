@@ -1,0 +1,53 @@
+{
+  "id": 4,
+  "country": "DK",
+  "artist": "Dario Campeotto",
+  "song": "Angelique",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/OdhVPUcimAM",
+    "https://www.youtube-nocookie.com/embed/EUMfDN5Bc1M",
+    "https://www.youtube-nocookie.com/embed/bGZvmSs3zjE",
+    "https://www.youtube-nocookie.com/embed/-DH8hLpIiOs",
+    "https://www.youtube-nocookie.com/embed/3hDAw01pCvY"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "danish"
+      ],
+      "displayedLanguages": null,
+      "title": "Angelique",
+      "content": "Hvor er du dejlig, Angelique\nHvad er stjernerne imod dit klare blik?\nDin stemme klinger som den sødeste musik\nOg dit væsen er skabt af drøm og romantik\n\nGik jeg med Shakespeares digterhat\nSkrev jeg digte til dig både dag og nat\nOg var jeg hyllet i Carusos kappe, jeg\nJa, så sang jeg og sang for dig\n\nOg jeg malte dig yndig og blu\nKu' jeg male som Rembrandt han ku'\nOg jeg tilbad dig på violin\nKu' jeg spille som Menuhin\n\nMen alle muser gav mig nej\nJeg behersker ikke sang og strengeleg\nGiv mig nu bare lov at drømme lidt om dig, Angelique\nSå jeg føler mig som blot en enkelt lille brik\nI dit livs mosaik\n\nRundt om i verden, der findes der dejlige piger\nNogen har det blide, og nogen har det ildfulde blik\nMen om jeg søgte i alle de dejligste riger\nFandt jeg dog ingen så yndig som du, Angelique\n\nGik jeg med Shakespeares digterhat\nSkrev jeg digte til dig både dag og nat\nOg var jeg hyldet i Carusos kappe\nJa, så sang jeg og sang for dig\n\nOg jeg malte dig yndig og blu\nKu' jeg male som Rembrandt han ku'\nOg jeg tilbad dig på violin\nKu' jeg spille som Menuhin\n\nMen alle muser gav mig nej\nJeg behersker ikke sang og strengeleg\nGiv mig nu bare lov at drømme lidt om dig\nAngelique, så jeg føler mig\nSom blot en enkelt lille brik i dit livs moѕаik\n\nAngelique, du, min dejlige Angelique\nMin Angelique"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Angelique",
+      "content": "You are so wonderful, Angelique\nWhat are the stars compared to your pretty eyes?\nYour voice sounds like the sweetest music\nAnd your soul is made of dream and romance\n\nIf I wore Shakespeare's poetry hat\nI'd be writing poems to you day and night\nAnd if I wore Caruso's cape\nThen I'd sing and sing for you\n\nAnd I'd paint you lovely and bashful\nIf I could paint as Rembrandt could\nAnd I'd worship you on a violin\nIf I could play like Menuhin\n\nBut all the Muses said no\nI don't master singing and string playing\nJust let me dream a little of you, Angelique\nSo I feel as just a single little pawn\nIn the mosaic of you life\n\nAround the world there are wonderful girls\nSome have the soft, and some have the fiery look\nBut if I searched in all of the most wonderful countries\nI'd never find anyone so beautiful as you, Angelique\n\nIf I wore Shakespeare's poetry hat\nI'd be writing poems to you day and night\nAnd if I wore Caruso's cape\nThen I'd sing and sing for you\n\nAnd I'd paint you lovely and bashful\nIf I could paint as Rembrandt could\nAnd I'd worship you on a violin\nIf I could play like Menuhin\n\nBut all the Muses said no\nI don't master singing and string playing\nJust let me dream a little of you, Angelique\nSo I feel as just a single little pawn\nIn the moѕаic of you life\n\nAngelique, you, my wonderful Angelique\nMy Angelique"
+    }
+  ],
+  "bpm": 118,
+  "tone": "A major",
+  "artistPeople": [
+    "Dario Campeotto"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Kai Mortensen",
+  "lyricists": null,
+  "writers": [
+    "Aksel V. Rasmussen"
+  ],
+  "broadcaster": "DR",
+  "commentators": [
+    "Sejr Volmer-Sørensen"
+  ],
+  "jury": null,
+  "spokesperson": "Ole Mortensen"
+}

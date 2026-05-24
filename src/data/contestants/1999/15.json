@@ -1,0 +1,60 @@
+{
+  "id": 15,
+  "country": "TR",
+  "artist": "Tuba Önal & Mystik",
+  "song": "Dön artık",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/11niYpARszM",
+    "https://www.youtube-nocookie.com/embed/rUhI09ATdBY",
+    "https://www.youtube-nocookie.com/embed/L5pPu991uTY",
+    "https://www.youtube-nocookie.com/embed/JDK-qxlNBb0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "turkish"
+      ],
+      "displayedLanguages": null,
+      "title": "Dön artık",
+      "content": "Ah… esti o ilk kış rüzgarı içimde, ben divane\nAh… savrulduk sersefil, nerdesin sen? Ben biçare\nAh… sensizlik içimde hala bir kor, bilsen ne zor\nAh… kalbimde kanayan yaralar var, hatıralar\n\nAl beni, sar beni, vursan da yerden yere\nBitmez mi, dinmez mi, sevdamı versem yele?\nYanmışım aşkından olmuşum, bak bir deli\nHadi gel, gör halimi\n\nSen gülerken gülmedim mi?\nSen severken sevmedim mi?\nBiz yeminler etmedik mi?\nGel artık, dön artık\n\nSen gülerken gülmedim mi?\nSen severken sevmedim mi?\nAşkına can vermedim mi?\nGel artık, dön artık, gel\n\nAh… sensizlik içimde hala bir kor, bilsen ne zor\nAh… kalbimde kanayan yaralar var, hatıralar\n\nAl beni, sar beni, vursan da yerden yere\nBitmez mi, dinmez mi, sevdamı versem yele?\nYanmışım aşkından olmuşum, bak bir deli\nHadi gel, gör halimi\n\nSen gülerken gülmedim mi?\nSen severken sevmedim mi?\nBiz yeminler etmedik mi?\nGel artık, dön artık\n\nSen gülerken gülmedim mi?\nSen severken sevmedim mi?\nAşkına can vermedim mi?\nGel artık, dön artık\n\nSen gülerken gülmedim mi?\nSen severken sevmedim mi?\nBiz yeminler etmedik mi?\nGel artık, dön artık\n\nSen gülerken gülmedim mi?\nSen severken ѕevmedim mi?\nAşkına can vermedim mi?\nGel artık, dön аrtık, dön"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Come back",
+      "content": "Ah… the first wintry wind has blown on me, I was beside myself\nAh… I've got things with me, but where are you? I'm lost\nAh… my loneliness is burning me down, like it's hard\nAh… my heart hurts from the past, don't you ever cry\n\nTake me, embrace me, do what you wanna do with me\nThere's no end, there's no tomorrow, in the whirlwind of love\nI kill myself, I lose myself\nLook how I despair\n\nDidn't we laugh together?\nDidn't we love together?\nDidn't we promise together?\nRun back, come back\n\nDidn't we laugh together?\nDidn't we love together ?\nDidn't we do enough for our love?\nRun back, come back, run\n\nAh… my loneliness is burning me down, like it's hard\nAh… my heart hurts from the past, don't you ever cry\n\nTake me, embrace me, do what you wanna do with me\nThere's no end, there's no tomorrow, in the whirlwind of love\nI kill myself, I lose myself\nLook how I despair\n\nDidn't we laugh together?\nDidn't we love together?\nDidn't we promise together?\nRun back, come back\n\nDidn't we laugh together?\nDidn't we love together?\nDidn't we do enough for our love?\nRun back, come back\n\nDidn't we laugh together?\nDidn't we love together?\nDidn't we promiѕe together?\nRun back, come back\n\nDidn't we laugh together?\nDidn't we love together?\nDidn't we do enough for our love?\nRun back, come bаck, come"
+    }
+  ],
+  "bpm": 120,
+  "tone": "C minor",
+  "artistPeople": [
+    "Tuğba Önal"
+  ],
+  "backings": [
+    "Aysun Sökmen",
+    "Bike Baran",
+    "Gülden Özgediz",
+    "Tuncay Arığ",
+    "Uğur Erdoğan"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Erdinç Tunç"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Canan Tunç"
+  ],
+  "writers": null,
+  "broadcaster": "TRT",
+  "commentators": [
+    "Gülşah Banda"
+  ],
+  "jury": null,
+  "spokesperson": "Osman Erkan"
+}

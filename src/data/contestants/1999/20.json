@@ -1,0 +1,59 @@
+{
+  "id": 20,
+  "country": "PT",
+  "artist": "Rui Bandeira",
+  "song": "Como tudo começou",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/NyMiRXGrA-I",
+    "https://www.youtube-nocookie.com/embed/pOOZrvFm8QQ",
+    "https://www.youtube-nocookie.com/embed/GCMcmaQcGhM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Como tudo começou",
+      "content": "Quem me vai dizer como é que tudo começou?\nA minha vida já não faz sentido agora\nEu sei, não vai haver nenhuma forma de te ver\nSem eu saber porque razão te foste embora\n\nE sem querer fazer-te mal nunca soube ser igual\nAo que tu imaginavas para ti\n\nDá-me a tua mão, não mintas mais\nOlha que os teus olhos são cristais\nPor favor, não digas que não sais\nPorque eu sei sempre onde tu vais\n\nJá não há razão para viver sem a paixão\nQue me atormenta e persegue a toda a hora\n\nPois sem querer fiz tanto mal, nunca soube ser igual\nAo que tu imaginavas para ti\n\nDá-me a tua mão, não mintas mais\nOlha que os teus olhos são cristais\nPor favor, não digas que não sais\nPorque eu sei sempre onde tu vais\n\nDá-me a tua mão, não mintas mais\nOlha que os teus olhos são cristaiѕ\nDá-me a tuа mão"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "How everything began",
+      "content": "Who is going to tell me how it all began?\nMy life makes no sense now\nI know there won't be any way of seeing you\nI don't know for what reason you left\n\nI don't want to harm you, I never knew how to see\nWhat you imagined for yourself\n\nGive me your hand, don't lie\nRemember your eyes are crystals\nPlease, don't tell me you won't leave\nBecause I always know where you go\n\nThere's no reason anymore, to live without the passion\nThat torments me and chases me every hour\n\nSo without wanting it, I caused harm, I never knew how to see\nWhat you imagined for yourself\n\nGive me your hand, don't lie\nRemember your eyes are crystals\nPlease don't tell me you won't leave\nBecause I always know where you go\n\nGive me your hand, don't lie\nRemember your eyes are crystalѕ\nGive me your hаnd"
+    }
+  ],
+  "bpm": 128,
+  "tone": "D major",
+  "artistPeople": [
+    "Rui Pedro Neto de Melo Bandeira"
+  ],
+  "backings": [
+    "Carlos Gonçalves",
+    "Fernanda Lopes",
+    "Filipa Lourenço",
+    "Jorge do Carmo",
+    "Tó Andrade"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jorge do Carmo"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Tó Andrade"
+  ],
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Rui Unas"
+  ],
+  "jury": null,
+  "spokesperson": "Manuel Luís Goucha"
+}

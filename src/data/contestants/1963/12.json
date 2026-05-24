@@ -1,0 +1,51 @@
+{
+  "id": 12,
+  "country": "NL",
+  "artist": "Annie Palmen",
+  "song": "Een speeldoos",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/MuWcaKXgGSU",
+    "https://www.youtube-nocookie.com/embed/bFTRN-g8bVc",
+    "https://www.youtube-nocookie.com/embed/JOeUX4-WRnI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "Een speeldoos",
+      "content": "Een speeldoos\nEen speeldoos\nUit lang vervlogen tijd\n\nEr was een heel klein herderinnetje\nVan breekbaar wit porselein\nEn als de speeldoos tinkelde\nDan danste zij sierlijk op het refrein\n\nEr stond een herder tegenover haar\nMaar onbereikbaar was hij\nWant zelfs als zij de speeldoos\nOm een dansje vroeg\nKwam hij niet dichterbij\n\nOok hij kon niet gelukkig zijn\nZo ver van haar vandaan\nMaar een fee kwam zacht\nOp een lentenacht\nEn raakte hen heel voorzichtig aan\n\nDe herder en zijn herderinnetje\nZijn nu voor altijd een paar\nEn als u dit verhaaltje niet geloven wilt\nVraag die fee er dan zelf een keertje naar\nWant dit sprookje is waar\n\nOok hij kon niet gelukkig zijn\nZo ver van haar vandaan\nMaar een fee kwam zacht\nOp een lentenacht\nEn raakte hen heel voorzichtig aan\n\nDe herder en zijn herderinnetje\nZijn nu voor altijd een paar\nEn als u dit verhaaltje niet geloven wilt\nVraag die fee er dan zelf een keertje naar\nWant die twee zijn nu werk'lijk bij elkaar\nHeus, dit sprookje iѕ waаr"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "A musical box",
+      "content": "A musical box\nA musical box\nFrom times long gone\n\nThere was a very little shepherdess\nMade of fragile white china\nAnd when the musical box tinkled\nThen she danced elegantly to the refrain\n\nThere was a shepherd facing her\nBut he was unapproachable\nBecause even when she asked\nThe musical box for a dance\nHe didn't come closer\n\nHe couldn't be happy either\nSo far away from her\nBut a fairy came softly\nOn a spring night\nAnd touched them very carefully\n\nThe shepherd and his sherpherdess\nAre now a couple for ever\nAnd when you don't want to believe this story\nJust ask that fairy yourself one day\nBecause this fairy tale is true\n\nHe couldn't be happy either\nSo far away from her\nBut a fairy came softly\nOn a spring night\nAnd touched them very carefully\n\nThe shepherd and his sherpherdess\nAre now a couple for ever\nAnd when you don't want to believe this story\nJust ask that fairy yourself one day\nBecause those two are really together now\nReally, this fairy tаle iѕ true"
+    }
+  ],
+  "bpm": 109,
+  "tone": "B major",
+  "artistPeople": [
+    "Anna Maria Palmen"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Eric Robinson",
+  "lyricists": null,
+  "writers": [
+    "Pieter Goemans"
+  ],
+  "broadcaster": "NTS",
+  "commentators": [
+    "Willem Duys"
+  ],
+  "jury": null,
+  "spokesperson": "Pim Jacobs"
+}

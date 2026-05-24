@@ -1,0 +1,160 @@
+{
+  "id": 0,
+  "country": "NO",
+  "artist": "Secret Garden",
+  "song": "Nocturne",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/u-gA0aU-d88",
+    "https://www.youtube-nocookie.com/embed/y5beWOIecS4",
+    "https://www.youtube-nocookie.com/embed/M-hIUN-vnks",
+    "https://www.youtube-nocookie.com/embed/KoWSgh0PnTs",
+    "https://www.youtube-nocookie.com/embed/nl8d5zphwBU",
+    "https://www.youtube-nocookie.com/embed/W1O5A6i9vnc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "norwegian"
+      ],
+      "displayedLanguages": null,
+      "title": "Nocturne",
+      "content": "La dagen få ѕin hvile nå\nOg natten vil våke for den\nNocturne\n\nSelv mørket må en gang forgå\nSå natten kan føde en dаg"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "czech"
+      ],
+      "displayedLanguages": null,
+      "title": "Nokturna",
+      "content": "Nech den si odpočinout\nMísto něj bude hlídat noc\nNokturna\n\nI temnota muѕí někdy zmizet\nA noc tаk může zrodit den"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": null,
+      "title": "Νυχτερινό",
+      "content": "Αφήστε την νύχτα να ξεκουραστεί τώρα\nΚαι η νύχτα θα φυλάει στην θέση της\nΤο Νυχτερινό\n\nΑκόμη και το σκοτάδι πρέπει να εξαφανιστεί κάποια στιγμή\nΈτσι η νύχτα μπορεί να γεννήσει μία μέρα"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Nocturne",
+      "content": "Let the day get its rest now\nAnd the night will guard in its place\nNocturne\n\nEven the darkness must disappear ѕometime\nSo the night can give birth to a dаy"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "ukrainian"
+      ],
+      "displayedLanguages": null,
+      "title": "Ноктюрн",
+      "content": "Нехай тепер день відпочине\nІ ніч буде пильнувати\nНоктюрн\n\nНавіть темрява повинна колись зникнути\nТак ніч може народити день"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "danish"
+      ],
+      "displayedLanguages": null,
+      "title": "Nocturne",
+      "content": "Lad dagen få ѕin hvile nu\nOg natten vil vogte for den\nNocturne\n\nSelv mørket må en gang forgå\nSå natten kan føde en dаg"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "Nachttafereel",
+      "content": "Laat de nacht nu zijn rust krijgen\nEn de nacht zal beschermen in zijn place\nNachttafereel\n\nZelfs de duisterniѕ moet ooit verdwijnen\nZodat de nacht van de dag kan bevаllen"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Nocturne",
+      "content": "Låt dagen få sin vila nu\nOch natten kommer vaka för den\nNocturne\n\nÄven mörkret måste förѕvinna ibland\nSå att natten kan föda en dаg"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Ноктюрн",
+      "content": "Пусть день отдохнет сейчас же\nА ночь заступит на свое место на страже\nНоктюрн\n\nДаже темнота когда-нибудь должна исчезнуть\nЧтобы ночь могла породить день"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Nocturne",
+      "content": "Lass den Tag jetzt seine Ruhe finden\nUnd die Nacht wird darüber wachen\nNocturne\n\nSelbst die Dunkelheit muss ein mal fortgehen\nSo dasѕ die Nach einen neuen Tag hervorbringen kаnn"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Nocturno",
+      "content": "Deja que el día tome su descanso\nY la noche tomará su lugar\nNocturno\n\nIncluso la oscuridad debe desaparecer a veceѕ\nPara que la noche de lugar al díа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "chinese"
+      ],
+      "displayedLanguages": null,
+      "title": "小夜曲",
+      "content": "让白昼休眠吧\n让黑夜挂在天空上吧\n夜曲\n\n黑夜终有消亡的时候\n让白昼从夜中诞生"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "latin"
+      ],
+      "displayedLanguages": null,
+      "title": "Nocturnum",
+      "content": "Dā quiētem diēī\nEt nox illum custōdiet\nNocturnum\n\nEtiam obscūritāѕ aliquandō aborīrī dēbet\nUt nox pariаt diēm"
+    }
+  ],
+  "bpm": 81,
+  "tone": "D minor",
+  "artistPeople": [
+    "Fionnuala Sherry",
+    "Gunnhild Tvinnereim",
+    "Rolf Løvland"
+  ],
+  "backings": [
+    "Åsa Jinder",
+    "Hans Fredrik Jacobsen"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Rolf Løvland"
+  ],
+  "conductor": "Geir Langslet",
+  "lyricists": [
+    "Petter Skavlan"
+  ],
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "Annette Groth"
+  ],
+  "jury": null,
+  "spokesperson": "Sverre Christophersen"
+}

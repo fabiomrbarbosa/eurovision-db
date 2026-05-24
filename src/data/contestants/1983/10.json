@@ -1,0 +1,54 @@
+{
+  "id": 10,
+  "country": "IT",
+  "artist": "Riccardo Fogli",
+  "song": "Per Lucia",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/TlRVHT59Tt8",
+    "https://www.youtube-nocookie.com/embed/Wxwafm-pt5s",
+    "https://www.youtube-nocookie.com/embed/hIh2BKwbLgM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Per Lucia",
+      "content": "Buonasera, quando arriverai\nTi toglierai l'inverno e lo appenderai\nAvrai due braccia grandi come una foresta\nE la quiete dopo la tempesta\n\nPer Lucia ritrovare il foglio più bianco\nE poi cominciare\nIo vorrei per esempio legarle i capelli\nCon un filo di vento\n\nPer Lucia ci sarà la luna più piena\nMa non basterà\nIo vorrei continuando un mare di grano\nPer cullarla ogni tanto\n\nBuonanotte, quando spegnerai\nIndosserai le stelle e le sognerai\nAvrai un mare calmo dove navigare\nE un silenzio quando vuoi parlare\n\nPer Lucia delicata sarò la sua ombra\nDisegnata per strada\nIo vorrei per esempio aprirle le porte\nChe chiudono il mondo\n\nCon Lucia basta poco\nTi riempie da sola il giorno più vuoto\nIo vorrei così tanto ridarle\nIl sorriso sul viso un po' stanco\n\nOltre il muro che cosa c'è\nTrattieni il fiato e poi salta verso me\nI colpi di fucile sono ormai lontani\nApriremo il cielo con le mani\n\nPer Lucia lunga vita e acqua di fiume\nPer ogni ferita\nIo vorrei luci accese la festa più grande\nPer tutto il paese\n\nPer Lucia spaventata che questa mia penna\nDiventi una spada\nCon Lucia al mio fianco\nChe la ѕtoria continui nella pagina accаnto"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "For Lucia",
+      "content": "Good evening, when you arrive\nYou'll take away the winter and get rid of it\nYou'll have two arms, large like a forest\nAnd like the silence after the storm\n\nFor Lucia I look for the whitest sheet\nAnd then begin\nFor example, I want to bind her hair\nWith a wire of the wind\n\nFor Lucia it'll be the fullest moon\nBut it won't be enough\nTo continue, I want a sea of wheat\nTo cherish every few\n\nGood night, when you die\nYou'll wear the stars and dream\nYou'll have a smooth sea for sailing\nAnd silence when you want to speak\n\nFor sensitive Lucia, I'll be her shadow\nDrawn on the road\nFor example, I want to open for her the doors\nThat close the world\n\nWith Lucia I have enough\nShe fills you up on the emptier days\nI want to give her so much again\nThe smile on the face which is a little tired\n\nBeyond the wall that is there\nHold your breath and jump towards me\nRifle shots are far away\nWe'll open the sky with our hands\n\nFor Lucia long life and the water of a river\nFor every wound\nI want burning lights, the biggest feast\nFor the whole country\n\nFor frightened Lucia, my pen\nBecomes a sword\nWith Lucia at my side\nThe story goeѕ on to the next pаge"
+    }
+  ],
+  "bpm": 110,
+  "tone": "A minor",
+  "artistPeople": [
+    "Riccardo Fogli"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Maurizio Fabrizio"
+  ],
+  "conductor": "Maurizio Fabrizio",
+  "lyricists": [
+    "Riccardo Fogli",
+    "Vincenzo Spampinato"
+  ],
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Paolo Frajese"
+  ],
+  "jury": null,
+  "spokesperson": "Paola Perissi"
+}

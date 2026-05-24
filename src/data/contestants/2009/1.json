@@ -1,0 +1,59 @@
+{
+  "id": 1,
+  "country": "IS",
+  "artist": "Yohanna",
+  "song": "Is It True?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/qqE69feyEOU",
+    "https://www.youtube-nocookie.com/embed/R9FZhr93V3A",
+    "https://www.youtube-nocookie.com/embed/UFW4z4pfg94",
+    "https://www.youtube-nocookie.com/embed/7xLkZOqAq2E",
+    "https://www.youtube-nocookie.com/embed/F7umhrZo8ig"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Is It True?",
+      "content": "You say you really know me\nYou're not afraid to show me\nWhat is in your eyes\nSo tell me 'bout the rumours\nAre they only rumours?\nAre they only lies?\n\nFalling out of a perfect dream\nComing out of the blue\n\nIs it true? (Is it true?)\nIs it over?\nDid I throw it away?\nWas it you? (Was it you?)\nDid you tell me\nYou would never leave me this way?\n\nIf you really knew me\nYou couldn't do this to me\nYou would be my friend\nIf one of us is lying\nThere's no use in trying\nNo need to pretend\n\nFalling out of a perfect dream\nComing out of the blue\n\nIs it true? (Is it true?)\nIs it over?\nDid I throw it away?\nWas it you? (Was it you?)\nDid you tell me\nYou would never leave me this way?\n\nIs it true? (Is it true?)\nIs it over?\nDid I throw it away?\nWas it you? (Was it you?)\nDid you tell me\nYou would never leave me this way?\n\n(Is it real?)\n(Did I dream it?)\nWill I wake from this pain?\nIs it true? (Is it true?)\nIs it over?\nBaby, did I throw it awаy?\nOoh… iѕ it true?"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Si te vas",
+      "content": "Me dices que me amas\nA veces sí hay llamas\nQue se ven caer\nHablan de mentiras\n¿Sólo son mentiras?\nTengo que saber\n\nSe termina el sueño ya\nAl bajar del azúl\n\nSi te vas (Si te vas)\nSe acaba\n¿Puedo vivir sin tí?\n¿Fuiste tu? (¿Fuiste tu?)\nMe dijiste que no te irías así\n\nNo sabes entenderme\n¿No basta ya quererte?\nEl amor se va\nCon estas decepciones\nTormentas y pasiones\n¿Se terminará?\n\nSe termina el sueño ya\nAl bajar del azúl\n\nSi te vas (Si te vas)\nSe acaba\n¿Puedo vivir sin tí\n¿Fuiste tu? (¿Fuiste tu?)\nMe dijiste que no te irías así\n\nSi te vas (Si te vas)\nSe acaba\n¿Puedo vivir sin tí?\n¿Fuiste tu? (¿Fuiste tu?)\nMe dijiste que no te irías así\n\n(Si te vas)\n(Se acaba)\n¿Se irá mi dolor?\nSi te vas (Si te vas)\nSe acaba\nYo abandonada así\nSi te vаѕ"
+    }
+  ],
+  "bpm": 166,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Jóhanna Guðrún Jónsdóttir"
+  ],
+  "backings": [
+    "Erna Hrönn Ólafsdóttir",
+    "Friðrik Ómar Hjörleifsson",
+    "Hera Björk"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Chris Neil",
+    "Óskar Páll Sveinsson",
+    "Tinatin"
+  ],
+  "broadcaster": "RÚV",
+  "commentators": [
+    "Sigmar Guðmundsson"
+  ],
+  "jury": null,
+  "spokesperson": "Þóra Tómasdóttir"
+}

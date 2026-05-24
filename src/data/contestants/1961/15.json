@@ -1,0 +1,54 @@
+{
+  "id": 15,
+  "country": "BE",
+  "artist": "Bob Benny",
+  "song": "September, gouden roos",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/lwEBgI8-KLs",
+    "https://www.youtube-nocookie.com/embed/cC54wHamy0I",
+    "https://www.youtube-nocookie.com/embed/6ZNeiCE9u_o"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "September, gouden roos",
+      "content": "Een gouden roos, september\nEen laatste zonnezoen\nEen merel fluit vol heimwee\n't Refrein van een seizoen\n\nNog zal de zomer zingen\nEen diep ontroerend lied\nDat zachtjes zal versterven\nOns blijft alleen verdriet\n\nDe dagen vertragen en schuiven toe\nDe zomer wordt moe, oh, zo moe\n\nNu moeten wij gaan scheiden\nOns hart wordt stil en broos\nWanneer wij weer zien bloeien\nSeptember, gouden roos\n\nZodra in 't bos de eerste blaren vallen\nEn rode wingerd kluistert aan een raam\nAls avondnevels in de dalen hangen\nDan weet ik dat de zomer is gedaan\n\nMaar voor hij gaat, zal hij nog even dralen\nAlsof hij 't afscheid wil betalen met...\n\nEen gouden roos, september\nEen laatste zonnezoen\nEen merel fluit vol heimwee\n't Refrein van een seizoen\n\nNog zal de zomer zingen\nEen diep ontroerend lied\nDat zachtjes zal versterven\nOns blijft alleen verdriet\n\nDe dagen vertragen en schuiven toe\nDe zomer wordt moe, oh, zo moe\n\nNu moeten wij gaan scheiden\nOns hart wordt stil en broos\nWаnneer wij weer zien bloeien\nSeptember, gouden roos\n\nSeptember, gouden rooѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "September, golden rose",
+      "content": "A golden rose, September\nA last kiss of the sun\nA blackbird whistles full of nostalgia\nThe refrain of a season\n\nStill the summer will sing\nA deeply moving song\nThat will softly fade away\nOnly sadness will remain for us\n\nThe days are slowing down and sliding over\nThe summer is getting tired, oh, so tired\n\nNow we have to part\nOur heart is getting quiet and fragile\nWhen we see it blooming again\nSeptember, golden rose\n\nAs soon as the first leaves are falling in the woods\nA red ivy shackles to a window\nWhen evening mists hang in the valleys\nThen I know that summer is over\n\nBut before it leaves, it will linger for a moment\nAs if it wants to pay the farewell with...\n\nA golden rose, September\nA last kiss of the sun\nA blackbird whistles full of nostalgia\nThe refrain of a season\n\nStill the summer will sing\nA deeply moving song\nThat will softly fade away\nOnly sadness will remain for us\n\nThe days are slowing down and sliding over\nThe summer is getting tired, oh, so tired\n\nNow we have to part\nOur heart is getting quiet and fragile\nWhen we see blooming agаin\nSeptember, golden rose\n\nSeptember, golden roѕe"
+    }
+  ],
+  "bpm": 101,
+  "tone": "F major",
+  "artistPeople": [
+    "Emiel Wagemans"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Hans Flower"
+  ],
+  "conductor": "Francis Bay",
+  "lyricists": [
+    "Wim Brabants"
+  ],
+  "writers": null,
+  "broadcaster": "BRT",
+  "commentators": [
+    "Nic Bal",
+    "Robert Beauvais"
+  ],
+  "jury": null,
+  "spokesperson": "Ward Bogaert"
+}

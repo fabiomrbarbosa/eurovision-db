@@ -1,0 +1,72 @@
+{
+  "id": 31,
+  "country": "MK",
+  "artist": "Gjoko Taneski",
+  "song": "Jas Ja Imam Silata",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/3sYNmPkivyU",
+    "https://www.youtube-nocookie.com/embed/nLU4SI6WFc4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "macedonian"
+      ],
+      "displayedLanguages": [
+        "македонски"
+      ],
+      "title": "Јас ја имам силата",
+      "content": "Се буди денот нов\nА дождот пак ќе дојде кај нас\nСтуден камен ти до мене си\n\nНе допира ги, моиве усни, тоа не си ти\nДај да сонувам а сонот со тебе е само сон\n\nЈас ја имам силата да те преболам\nДа те немам и да не те гледам\nИ ги ширам крилата да те прелетам\nПреку сите, преку сите неба\n\nИ еве одам јас топол ветер в лице пак да осетам\nДобро е да бидеш слободен и сам\nОслободен и сам\n\nЈас ја имам силата да те преболам\nДа те немам и да не те гледам\nИ ги ширам крилата да те прелетам\nПреку сите, преку сите неба\n\nСе буди ден, се буди нов ден, нов проблем\nТука си крај мене, а пак сум осамен\nБегам од се, бегам и од тебе\nМлада дамо сам на себе сум си потребен\nИ сакам сон, сакав јас сон\nА сонот со тебе е само сон\nИ имам сила за да сватам дека моја не си била, ха\n\nЈас ја имам силата да те преболам\nДа те немам и да не те гледам\nИ ги ширам крилата да те прелетам\nПреку сите, преку сите неба\n\nЈас ја имам силата да те преболам\nДа те немам и да не те гледам\nИ ги ширам крилата да те прелетам\nПреку сите, преку сите неба"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "macedonian"
+      ],
+      "displayedLanguages": [
+        "makedonski"
+      ],
+      "title": "Jas Ja Imam Silata",
+      "content": "Se budi denot nov\nA doždot pak ke dojde kaj nas\nStuden kamen ti do mene si\n\nNe dopira gi, moive usni, toa ne si ti\nDaj da sonuvam a sonot so tebe e samo son\n\nJas ja imam silata da te prebolam\nDa te nemam i da ne te gledam\nI gi širam krilata da te preletam\nPreku site, preku site neba\n\nI eve odam jas topol veter v lice pak da osetam\nDobro e da bideš sloboden i sam\nOsloboden i sam\n\nJas ja imam silata da te prebolam\nDa te nemam i da ne te gledam\nI gi širam krilata da te preletam\nPreku site, preku site neba\n\nSe budi den, se budi nov den, nov problem\nTuka si kraj mene, a pak sum osamen\nBegam od se, begam i od tebe\nMlada damo sam na sebe sum si potreben\nI sakam son, sakav jas son\nA sonot so tebe e samo son\nI imam sila za da svatam deka moja ne si bila, ha\n\nJas ja imam silata da te prebolam\nDa te nemam i da ne te gledam\nI gi širam krilata da te preletam\nPreku site, preku site neba\n\nJas ja imam silata da te prebolam\nDa te nemam i da ne te gledam\nI gi širam krilata da te preletam\nPreku site, preku ѕite nebа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I have the strength",
+      "content": "A new day is waking\nBut the rain will come to us again\nThis gravestone by me is you\n\nDon't touch these lips of mine, that isn't you\nLeave me to dream, though a dream with you is just a dream\n\nI have the strength to get over you\nTo not have you, and to not see you\nAnd I spread my wings to fly over you\nThrough all, through all the heavens\n\nLook, I'm going, to feel the warm wind on my face again\nIt's good to be free and alone\nFree and alone\n\nI have the strength to get over you\nTo not have you, and to not see you\nAnd I spread my wings to fly over you\nThrough all, through all the heavens\n\nA day is waking, a new day, a new problem\nYou're here with me, but again I'm lonely\nI'm running from everything, even running from you\nLittle woman I just need to be by myself\nI want to dream, I wanted to dream\nBut a dream with you is only a dream\nAnd I have the strength to realise that you were never mine, ha\n\nI have the strength to get over you\nTo not have you, and to not see you\nAnd I spread my wings to fly over you\nThrough all, through all the heavens\n\nI have the strength to get over you\nTo not have you, and to not see you\nAnd I spread my wings to fly over you\nThrough all, through all the heаvenѕ"
+    }
+  ],
+  "bpm": 188,
+  "tone": "F minor",
+  "artistPeople": [
+    "Gjoko Taneski"
+  ],
+  "backings": [
+    "Billy Zver",
+    "Damjan Pejcinoski"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Kristian Gabroski"
+  ],
+  "broadcaster": "MKRTV",
+  "commentators": [
+    "Karolina Petkovska"
+  ],
+  "jury": [
+    "Aleksandra Jovanovska",
+    "Lile Avtovska",
+    "Oliver Dimitrov",
+    "Rade Spasovski",
+    "Suzana Stefanovska"
+  ],
+  "spokesperson": "Milica Roštikjl"
+}

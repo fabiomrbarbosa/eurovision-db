@@ -1,0 +1,44 @@
+{
+  "id": 9,
+  "country": "IE",
+  "artist": "Kim Jackson",
+  "song": "Could It Be That I'm In Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ZiDf8RQqzt4",
+    "https://www.youtube-nocookie.com/embed/PT09O39GEu8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Could It Be That I'm In Love",
+      "content": "I don't know why I want you\nThe way that I want you\nAnd I don't know why I miss you\nThe way that I miss you\n\nBut when I'm in your arms\nIt makes me feel so good\nAnd I don't know the reason why\nI don't know the reason why\n\nAnd I don't understand\nWhy I feel the way I do\nAnd I don't understand\nWhat I feel when I'm with you\nAnd anyway now, it's no use worrying\nUntil I find out what it is\n\nCould it be that when I'm with you\nMy fears all go away?\nCould it be that when I'm with you\nIt's like the start of a brand new day?\nOr is it just that when I hold you\nI can't hold you enough?\nOr could it be that I'm in love?\n\nSomebody once told me:\n\"You've gotta trust your heart\"\n(Gotta trust your heart)\nAnd this I have tried to do\nRight from the very start\nAnd when I'm close to you\nIt makes me feel so good\nAnd I don't know the reason why\n\nCould it be that when I'm with you\nMy fears all go away?\nCould it be that when I'm with you\nIt's like the start of a brand new day?\nOr is it juѕt that when I hold you\nI can't hold you enough?\nOr could it be that I'm in love?\n\nCould it be that I'm in love?\nCould it be thаt I'm in love?"
+    }
+  ],
+  "bpm": 152,
+  "tone": "E major",
+  "artistPeople": [
+    "Kim Jackson"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Noel Kelehan",
+  "lyricists": null,
+  "writers": [
+    "Liam O'Reilly"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Pat Kenny"
+  ],
+  "jury": [
+    "Anne Bushnell",
+    "Danny Guinan"
+  ],
+  "spokesperson": "Eileen Dunne"
+}

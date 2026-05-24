@@ -1,0 +1,58 @@
+{
+  "id": 18,
+  "country": "BA",
+  "artist": "Alma Čardžić",
+  "song": "Goodbye",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/tHS530-kzG4",
+    "https://www.youtube-nocookie.com/embed/IawYjShkLmA",
+    "https://www.youtube-nocookie.com/embed/riRqmCkmZXg",
+    "https://www.youtube-nocookie.com/embed/vgm5ZFjoCFo"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "bosnian"
+      ],
+      "displayedLanguages": null,
+      "title": "Goodbye",
+      "content": "Utješi me slikom iz dobrih filmova\nOhrabri me stihom iz dobrih pjesama\nAli znaj da ne vidim, oku fali sjaj\nČujem samo r'ječi dv'je, koje znače kraj\n\nGoodbye, o o o o o… zbogom ljubavi\nGoodbye, o o o o o… zbogom ljubavi\nGoodbye\n\nPotraži me u uglu svoga sjećanja\nPronađi me u zori novog svitanja\nAli nemoj molim te, lažni uzdisaj\nI one tužne r'ječi dv'je, koje znače kraj\n\nGoodbye, o o o o o… zbogom ljubavi\nGoodbye, o o o o o… zbogom ljubavi\nGoodbye\n\nAli znaj da ne vidim, oku fali sjaj\nO… čujem ѕamo r'ječi dv'je, koje znače kraj\n\nGoodbye, o o o o o… zbogom ljubavi\nGoodbye, o o o o o… zbogom ljubavi\nGoodbye, o o o o o… zbogom ljubavi\nGoodbye, o o o o o… zbogom ljubаvi\nGoodbye"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Goodbye",
+      "content": "Calm me down with pictures from good movies\nBrave me with a line from good songs\nI can't see, my eye's devoid of shine\nI only hear the two words, which mean it's over\n\nGoodbye,  oh oh oh oh oh… goodbye love\nGoodbye,  oh oh oh oh oh… goodbye love\nGoodbye \n\nLook for me in your memories\nFind me in the dawn of a new day\nBut please don't sigh falsely\nDon't say the two words which mean it's over\n\nGoodbye,  oh oh oh oh oh… goodbye love\nGoodbye,  oh oh oh oh oh… goodbye love\nGoodbye \n\nI can't see, my eye's devoid of shine\nOh… I only hear the two words which meаn it'ѕ over\n\nGoodbye,  oh oh oh oh oh… goodbye love\nGoodbye,  oh oh oh oh oh… goodbye love\nGoodbye,  oh oh oh oh oh… goodbye love\nGoodbye,  oh oh oh oh oh… goodbye love\nGoodbye"
+    }
+  ],
+  "bpm": 129,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Alma Čardžić"
+  ],
+  "backings": [
+    "Milić Vukašinović",
+    "Zeljka Katavic-Pilj"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Milić Vukašinović",
+    "Sinan Alimanović"
+  ],
+  "conductor": "Sinan Alimanović",
+  "lyricists": [
+    "Milić Vukašinović"
+  ],
+  "writers": null,
+  "broadcaster": "RTVBIH",
+  "commentators": [
+    "Diana Grković-Foretić"
+  ],
+  "jury": null,
+  "spokesperson": "Segmedina Srna"
+}

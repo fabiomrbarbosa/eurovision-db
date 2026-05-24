@@ -1,0 +1,62 @@
+{
+  "id": 8,
+  "country": "SE",
+  "artist": "Tommy Körberg",
+  "song": "Judy, min vän",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/l9Q9h5qNodM",
+    "https://www.youtube-nocookie.com/embed/5ys_nHNUsPM",
+    "https://www.youtube-nocookie.com/embed/w_cDMXA7XnQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Judy, min vän",
+      "content": "Judy, min vän, vad du är tankfull varför, Judy, min vän?\nJudy, min vän, du är tyst och sorgsen varför, Judy, min vän?\nBörjar du inse nu att vi båda, jag och du\nKanske aldrig kan bli lyckliga tillsammans, Judy, min vän?\n\nJudy, min vän, du älskar saker villa, tv och bil\nDin väg är kantad av lyx och prylar, det är inte min stil\nVåra mönster går isär, låt mig säga det så här:\nJag kan aldrig bli den man som du behöver, Judy, min vän\n\nHurdan är jag? Låt mig förklara\nLever för stunden, en drömmare bara\nDetta är min filosofi\nJag vill jämt känna: jag är fri\n\nJudy, min vän, din dröm om pengar tycks mig liten och trång\nMin dröm är drömmen om gröna ängar, vindens lek och en sång\n\nKanske jag ändrar mig, då hörs jag av\nDå ska jag presentera mig som din Mister Medel-Svensson\n\nJudy, min vän, här går vår korsväg, kanske ses vi igen\nDå får vi se vad livet har gjort med oss, Judy, min vän\n\nHurdan är jag? Låt mig förklara\nLever för stunden, en drömmare bara\nDetta är min filosofi\nJag vill jämt känna: jag är fri\n\nJudy, min vän, här går vår korsväg, kanske ses vi igen\nDå får vi se vad livet hаr gjort med osѕ, Judy, min vän\nJudy, min vän, Judy, min vän"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Judy, my friend",
+      "content": "Judy, my friend, you seem so thoughtful, why, Judy, my friend?\nJudy, my friend, you are silent and sad, why, Judy, my friend?\nAre you beginning to realize that you and I\nMay never be happy together, Judy, my friend?\n\nJudy, my friend, you love things, house, TV and car\nYour path is surrounded by luxury and gadgets, that's not my style\nOur lifestyles are different, let me put it this way:\nI can never be the man that you need, Judy, my friend\n\nWhat am I like? Let me explain\nI live for the moment, I'm just a dreamer\nThat's my philosophy\nI want to feel: I'm free\n\nJudy, my friend, your dream of money seems small and narrow\nMy dream is the dream of green meadows, the playful wind and a song\n\nMaybe I'll change, then I'll get in touch\nThen I'll introduce myself as your Mister Average\n\nJudy, my friend, here we go our own ways, maybe we'll meet again\nThen we'll see what life has done to us, Judy, my friend\n\nWhat am I like? Let me explain\nI live for the moment, I'm just a dreamer\nThat's my philosophy\nI want to feel: I'm free\n\nJudy, my friend, here we go our own ways, maybe we'll meet again\nThen we'll see what life hаs done to uѕ, Judy, my friend\nJudy, my friend, Judy, my friend"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Dear Mr. Jones",
+      "content": "Watching the kids on a Monday morning, Dad's at work on a play\nLoads to be done, but he keeps on yawning, cursing the break of day\nAsk the bankman for a loan, tell him all about your home\nGet a friend for life just like your wife ought to be, dear Mr. Jones\n\nThink that his neighbors can't survive, not without luxury\nCan't afford kids, staying next on the list, first – get a new TV\nNever hard to give a loan to a man with such a home\nGet a friend for life just like your wife ought to be, dear Mr. Jones\n\nDear Mr. Jones went on a caper\nDreams seem to force him to work on a paper\nSo lots of things we couldn't see\nHe's being what he wants to be\n\nEver so lonely, all on his own, break for time for some tea\nPostman knocks on the door of his soul, how many letters? – Three\nDear Mr. Jones, you're simply dear Mr. Jones\nHumble, obedient servant, dear Mr. Jones, oh dear me\n\nWatching the kids on his own in the world, mixing a laugh with a moan\nIt takes all sorts to make up the world, little sorts like dear Mr. Jones\n\nDear Mr. Jones went on a caper\nDreams seem to force him to work on a paper\nSo lots of things we couldn't see\nHe's being what he wants to be\n\nWatching the kids on his own in the world, mixing a laugh with a moan\nIt takes all sorts to make up the world, little sorts like dear Mr. Jones\nDear Mr. Jones, deаr Mr. Joneѕ"
+    }
+  ],
+  "bpm": 172,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Tommy Körberg"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Roger Wallis"
+  ],
+  "conductor": "Lars Samuelson",
+  "lyricists": [
+    "Britt Lindeborg"
+  ],
+  "writers": null,
+  "broadcaster": "SR",
+  "commentators": [
+    "Christina Hansegård"
+  ],
+  "jury": null,
+  "spokesperson": "Edvard Matz"
+}

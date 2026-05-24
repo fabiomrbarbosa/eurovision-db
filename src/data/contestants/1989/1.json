@@ -1,0 +1,49 @@
+{
+  "id": 1,
+  "country": "GB",
+  "artist": "Live Report",
+  "song": "Why Do I Always Get it Wrong?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/_hnmh92X82A",
+    "https://www.youtube-nocookie.com/embed/LUsohVIcFQc",
+    "https://www.youtube-nocookie.com/embed/yxl6ercp69s"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Why Do I Always Get it Wrong?",
+      "content": "No more sad songs for me to sing\nNo more heartaches for you to bring me\nNo more being the hurting kind\nI am running where you won't find me\n\nWhenever I was lonely, I'd call you up and then\nI would soon regret my momentary weakness\nBut it feels so strong\nWhy do I always get it wrong?\n\nNo more sad songs on lonely nights\nNo more seeking the wrongs or rights of it\nNo more playing the fool for you\nYou can do what you wanna do now\n\nWhenever I was lonely, I'd call you up and then\nI would soon regret my momentary weakness\nBut it feels so strong\nWhy do I always get it wrong?\n\n(No more sad songs, no more heartache)\n(I am running where you can't find me)\nNo more sad songs for me to sing\n(No more sad songs, no more heartache)\nNo more heartaches, no more heartaches\nSo now you can't hurt me\n(I am running where you can't find me)\n\nSometimes I wish that we had never met\n(No more sad songs, no more heartache)\n'Cause you're my weakness, you're my weakness\nYou're my one and only regret\n(I am running where you can't find me)\n\nI am runnin', runnin', runnin' where you won't find me\n(No more sad songs, no more heartache)\nDon't wanna play the fool for you\n(I am running where you can't find me)\nSo go on your way, do what you gotta do\n\n(No more sad songs, no more heartache)\n(I am running where you can't find me)\n(No more sad songѕ, no more heartache)\n(I am running where you cаn't find me)"
+    }
+  ],
+  "bpm": 141,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Brian Hodgson",
+    "John Beeby",
+    "Margaret Jay",
+    "Michael Bell",
+    "Raymond Caruana",
+    "Richard Marcangelo"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "John Beeby"
+  ],
+  "conductor": "Ronnie Hazlehurst",
+  "lyricists": [
+    "Brian Hodgson"
+  ],
+  "writers": null,
+  "broadcaster": "BBC",
+  "commentators": [
+    "Terry Wogan"
+  ],
+  "jury": null,
+  "spokesperson": "Colin Berry"
+}

@@ -1,0 +1,63 @@
+{
+  "id": 15,
+  "country": "IS",
+  "artist": "Halla Margarét",
+  "song": "Hægt og hljótt",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/eZa5nySgcLM",
+    "https://www.youtube-nocookie.com/embed/9ZWzDUuwXww",
+    "https://www.youtube-nocookie.com/embed/xo39426SzyM",
+    "https://www.youtube-nocookie.com/embed/zDB-Pgy24-c"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "icelandic"
+      ],
+      "displayedLanguages": null,
+      "title": "Hægt og hljótt",
+      "content": "Kvöldið hefur flogið alltof fljótt\nFyrir utan gluggann komin nótt\nKertin er' að brenna upp\nGlösin orðin miklu meir'en tóm\n\nAugnalokin eru eins og blý\nEn enginn þykist skilja neitt í því\nAð timinn pípuhatt sinn tók\nEr píanistinn sló sin lokahljóm\n\nVið hverfum hægt og hljótt, út í hlýja nóttina\nHægt og hljótt, göngum við heim götuna\nEinu sinni, einu sinni enn\n\nEftir standa stólar, bekkir, borð\nBrotin glös, sögð og ósögð orð\nÞögnin fær nú loks sinn frið\nFuglar yrka nýjum degi ljóð\n\nVið hverfum hægt og hljótt, út í hlýja nóttina\nHægt og hljótt, göngum við heim götuna\n\nHægt og hljótt, göngum við heim götuna\nHægt og hljótt, í gegnum hlýja nóttinа\nEinu sinni, einu ѕinni enn"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Slowly and quietly",
+      "content": "The evening has fled all too fast\nOutside the window night has come\nThe candles are burning low\nThe glasses have become much more than empty\n\nThe eyelids are heavy as lead\nBut no one pretends to understand\nThat time took it's top-hat\nAs the pianist struck the last note\n\nWe disappear slowly and quietly, into the warm night\nSlowly and quietly, we walk the street home\nOnce, once again\n\nLeft are chairs, benches, tables\nBroken glasses, spoken and unspoken words\nSilence at last has its peace\nBirds poeticise to the new day\n\nWe disappear slowly and quietly, into the warm night\nSlowly and quietly, we walk the street home\n\nSlowly and quietly, we walk the ѕtreet home\nSlowly and quietly, through the warm night\nOnce, once agаin"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "One more song",
+      "content": "Waiting for the night to pass me by\nI'm feeling all alone, I've said goodbye\nTo my one and only friend\nWhy do good things always have to end?\n\nI search my glass for some kind of a sign\nNo, I find no comfort in the wine\nAnd the gleaming candlelight\nCan't keep away the shadows of the night\n\nI ask for one more song\nPiano man, please play me just one more song\nA simple, sad and lonely one\nAll I'm asking for is one more song\n\nDid we have to use these heartless\nWords\nOr were they something I just\nOverheard?\nThere's no reason to pretend\nBut why do good things always have to end?\n\nI ask for one more song\nPiano man, please play me just one more song\nA simple, sad and lonely one\nOne more song Piano man, please me just one more song\n\nA sad song that goes on and on\nAll I'm аsking for is one more ѕong"
+    }
+  ],
+  "bpm": 132,
+  "tone": "C major",
+  "artistPeople": [
+    "Halla Margrét Árnadóttir"
+  ],
+  "backings": [
+    "Valgeir Guðjónsson"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Hjálmar Ragnarsson",
+  "lyricists": null,
+  "writers": [
+    "Valgeir Guðjónsson"
+  ],
+  "broadcaster": "RÚV",
+  "commentators": [
+    "Kolbrún Halldórsdóttir"
+  ],
+  "jury": null,
+  "spokesperson": "Guðrún Skúladóttir"
+}

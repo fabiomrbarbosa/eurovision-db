@@ -1,0 +1,68 @@
+{
+  "id": 1,
+  "country": "TR",
+  "artist": "maNga",
+  "song": "We Could Be The Same",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/HB_GnnhNz-8",
+    "https://www.youtube-nocookie.com/embed/iYF8aNuPsCM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "We could be the same",
+      "content": "You could be the one in my dreams\nYou could be much more than you seem\nAnything I've wanted in life\nDo you understand what I mean?\nI can see that this could be fate\nI can love you more than they hate\nDoesn't matter who they will blame\nWe can beat them at their own game\n\nI can see it in your eyes\nIt doesn't come as a surprise\nI've seen you dancing like a star\nNo matter how different we are\n\nFor all this time I've been loving you\nDon't even know your name\nFor just one night, we could be the same\nNo matter what they say\n\nAnd I feel I'm turning the page\nAnd I feel the world is a stage\nI don't think that drama will stop\nI don't think they'll give up the rage\nBut I know the world could be great\nI can love you more than they hate\nDoesn't matter who they will blame\nWe can beat them at their own game\n\nI can see it in your eyes\nIt doesn't count as a surprise\nI see you dancing like a star\nNo matter how different we are\n\nFor all this time I've been loving you\nDon't even know your name\nFor just one night, we could be the same\nNo matter what they say\n\nFor all this time I've been loving you\nDon't even know your name\nFor just one night, we could be the same\nNo matter what they say\n\nNo matter what they say\nNo matter what they say\nWe could be the same\nNo matter what they ѕаy"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "turkish"
+      ],
+      "displayedLanguages": null,
+      "title": "Aynı Olabiliriz",
+      "content": "Sen benim hayallerimdeki olabilirsin\nSen göründüğünden fazlası olabilirsin\nHayatta istediğim her şey olabilirsin\nNe demek istediğimi anlıyor musun?\nBunu kader olabileceğini görüyorum\nSeni onların nefret ettiğinden daha fazla sevebilirim\nKimi suçlayacakları önemli değil\nOnları kendi oyunlarında yenebiliriz\n\nBunu gözlerinde görebiliyorum\nBu şaşırtıcı değil\nSeni bir yıldız gibi dans ederken görmüştüm\nNe kadar farklı olduğumuz önemli değil\n\nBütün bu zaman boyunca seni seviyordum\nİsmini bile bilmeden\nSadece bir geceliğine, aynı olabiliriz\nOnların dedikleri önemli değil\n\nVe yeni bir sayfa açtığımı hissediyorum\nVe dünyanın bir sahne olduğunu hissediyorum\nDramanın duracağını düşünmüyorum\nÖfkeden vazgeçeceklerini düşünmüyorum\nAma dünyanın iyi olabileceğini biliyorum\nSeni onların nefret ettiğinden daha fazla sevebilirim\nKimi suçlayacakları önemli değil\nOnları kendi oyunlarında yenebiliriz\n\nBunu gözlerinde görebiliyorum\nBu şaşırtıcı değil\nSeni bir yıldız gibi dans ederken görmüştüm\nNe kadar farklı olduğumuz önemli değil\n\nBütün bu zaman boyunca seni seviyordum\nİsmini bile bilmeden\nSadece bir geceliğine, aynı olabiliriz\nOnların dedikleri önemli değil\n\nBütün bu zaman boyunca seni seviyordum\nİѕmini bile bilmeden\nSadece bir geceliğine, aynı olabiliriz\nOnların dedikleri önemli değil\n\nOnların dedikleri önemli değil\nOnların dedikleri önemli değil\nAynı olabiliriz\nOnlаrın dedikleri önemli değil"
+    }
+  ],
+  "bpm": 133,
+  "tone": "D minor",
+  "artistPeople": [
+    "Cem Bahtiyar",
+    "Efe Yılmaz",
+    "Ferman Akgül",
+    "Özgür Can Öney",
+    "Yağmur Sarıgül"
+  ],
+  "backings": null,
+  "dancers": [
+    "Nathalie Marrable"
+  ],
+  "stageDirector": "Genevieve Cleary",
+  "composers": [
+    "Cem Bahtiyar",
+    "Efe Yılmaz",
+    "Ferman Akgül",
+    "Özgür Can Öney",
+    "Yağmur Sarıgül"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Cem Bahtiyar",
+    "Efe Yılmaz",
+    "Evren Özdemir",
+    "Ferman Akgül",
+    "Fiona Movery Akıncı",
+    "Özgür Can Öney",
+    "Yağmur Sarıgül"
+  ],
+  "writers": null,
+  "broadcaster": "TRT",
+  "commentators": [
+    "Bülend Özveren"
+  ],
+  "jury": null,
+  "spokesperson": "Meltem Ersan Yazgan"
+}

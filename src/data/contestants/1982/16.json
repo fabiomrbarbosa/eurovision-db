@@ -1,0 +1,58 @@
+{
+  "id": 16,
+  "country": "DK",
+  "artist": "Brixx",
+  "song": "Video video",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5SWSEKDBCGI",
+    "https://www.youtube-nocookie.com/embed/8u1eyw9p1hg",
+    "https://www.youtube-nocookie.com/embed/H72Zf5_3DXw",
+    "https://www.youtube-nocookie.com/embed/iKFpILbS1so",
+    "https://www.youtube-nocookie.com/embed/Dq5I0rXtV0A",
+    "https://www.youtube-nocookie.com/embed/7xHOICO9-Iw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "danish"
+      ],
+      "displayedLanguages": null,
+      "title": "Video video",
+      "content": "Når regnen bare siler ned\nSå har jeg tændt for colorTV'et\nHumphrey Bogart og Björn fra Wimbledon\nJeg har det hele på videobånd\n\nSusanne rejste hjem i går\nHjem til sin mor i Klampenborg\nAlt det TV har gjort hend' splittergal\nHun si'r jeg ikke er helt normal\n\nVideo, video, (video), den kører nat og dag\nVideo, video, (video), når jeg ska' slappe af\nBar' et tryk på knappen, ja, så' der gang i kassen\n(Åh…) jeg er videoman\n\nMin' venner syn's det går for vidt\nBar' sid' og glo på alt det skidt\nMen jeg' da ligeglad, for mig er det bar' sagen\nAt se på video hele dagen\nJa, det er\n\nVideo, video, (video), den kører nat og dag\nVideo, video, (video), når jeg ska' slappe af\nBar' tryk på knappen, så' der gang i kassen\n(Åh…) jeg er videoman\n\nVideo… åh video…\n\nVideo, video, (video), den kører nat og dag\nVideo, video, (video), når jeg ska' slappe af\nBar' tryk på knappen, så' der gang i kasѕen\n(Åh…) jeg er video… (åh…) jeg er video…\n(Åh…) jeg er videomаn"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Video video",
+      "content": "When the rain's just pouring down\nThen I've turned on the colour TV\nHumphrey Bogart and Björn from Wimbledon\nI've got it all on video tape\n\nSusanne went home yesterday\nHome to her mother in Klampenborg\nAll that TV has made her raving mad\nShe says I'm not all normal\n\nVideo, video, (video), it's rolling night and day\nVideo, video, (video), when I need to relax\nJust press the button, then the box is running\n(Oh…) I'm a video addict\n\nMy friends think it's gone too far\nJust sitting, staring at all that junk\nBut I don't care, for me it's just the thing\nTo watch video all day long\nYes, it is\n\nVideo, video, (video), it's rolling night and day\nVideo, video, (video), when I need to relax\nJust press the button, then the box is running\n(Oh…) I'm a video addict\n\nVideo… oh video…\n\nVideo, video, (video), it's rolling night and day\nVideo, video, (video), when I need to relax\nJust press the button, then the box iѕ running\n(Oh…) I'm a video… (oh…) I'm a video…\n(Oh…) I'm a video аddict"
+    }
+  ],
+  "bpm": 88,
+  "tone": "C major",
+  "artistPeople": [
+    "Bjørn Holmgaard Sørensen",
+    "Jens Brixtofte",
+    "John Hatting",
+    "Steen Ejler Olsen",
+    "Torben Jacobsen"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Allan Botschinsky",
+  "lyricists": null,
+  "writers": [
+    "Jens Brixtofte"
+  ],
+  "broadcaster": "DR",
+  "commentators": [
+    "Jørgen de Mylius"
+  ],
+  "jury": null,
+  "spokesperson": "Hans Otto Bisgaard"
+}

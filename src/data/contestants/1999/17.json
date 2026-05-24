@@ -1,0 +1,61 @@
+{
+  "id": 17,
+  "country": "PL",
+  "artist": "Mietek Szczesniak",
+  "song": "Przytul mnie mocno",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/SrqMUhruz3I",
+    "https://www.youtube-nocookie.com/embed/mASPe1mNtNs"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "polish"
+      ],
+      "displayedLanguages": null,
+      "title": "Przytul mnie mocno",
+      "content": "Who… who yeah…\n\nNie wiem, kto dopisał tekst do naszych ról\nNie wiem, skąd w tych rolach błąd i żal i ból\n\nProwadź mnie do prostych słów przez każdy dzień\nProwadź mnie gdy światło drży i gdy pada cień\n\nPrzytul mnie i połam lód w opłatki kry\nMmm… przytul mnie, nadejdzie znów wiosenny świt\n\nDopóki żal naprawia błąd - nadzieję mam\nDopóki łza jest jeszcze łzą - nie jestem sam\nNie, nie jestem sam\nJeśli łza jest jeszcze łzą - nie jestem sam\nO nie, nie jestem ѕаm"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": null,
+      "title": "תחזיק אותי חזק",
+      "content": "​\n\nאני לא יודע מי הוסיף את הטקסט לתפקידים שלנו\nאני לא יודע מאיפה מגיעים הטעות, החרטה והכאב בתפקידים האלה\n\nהוביל אותי למילים פשוטות כל יום\nמדריך אותי כאשר האור רועד וכאשר הצל נופל\n\nלחבק אותי ולשבור את הקרח לגושי קרח\nמממ… תחזיק אותי, שחר האביב יבוא שוב\n\nבעוד צער מתקן את הטעות, אני מקווה שיש לי\nבעוד דמעה היא עדיין דמעה, אני לא לבד\nלא, אני לא לבד\nאם דמעה היא עדיין דמעה, אני לא לבד\nהו לא, אני לא לבד"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Hug me tight",
+      "content": "Who… who yeah…\n\nI don't know who wrote the text of our roles\nI don't know why there's error, remorse and pain in those roles\n\nShow me the way to simple words through every day\nShow me the way when lights fade and shadows fall\n\nHug me tight and turn the ice into snowflakes\nMmm.. hug me tight, and the dawn of spring will come again\n\nAs long as remorse can mend errors, I cherish hope\nAs long as a tear is still a tear - I'm not alone\nNo, I'm not alone\nIf a tear is ѕtill a tear - I'm not alone\nNo, I'm not аlone"
+    }
+  ],
+  "bpm": 113,
+  "tone": "Eb minor",
+  "artistPeople": [
+    "Mieczysław Szcześniak"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Seweryn Krajewski"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Wojciech Ziembicki"
+  ],
+  "writers": null,
+  "broadcaster": "TVP",
+  "commentators": [
+    "Artur Orzech"
+  ],
+  "jury": null,
+  "spokesperson": "Jan Chojnacki"
+}

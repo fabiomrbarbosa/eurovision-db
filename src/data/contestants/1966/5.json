@@ -1,0 +1,54 @@
+{
+  "id": 5,
+  "country": "CH",
+  "artist": "Madeleine Pascal",
+  "song": "Ne vois-tu pas ?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/hs4xAH_yAiI",
+    "https://www.youtube-nocookie.com/embed/tvWomEL1lyM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Ne vois-tu pas ?",
+      "content": "Ne vois-tu pas qu'à présent je ne suis plus une enfant ?\nNe vois-tu pas que les années ont passé ?\nDepuis le temps, mon cœur aussi a grandi\nEt je t'aime autrement qu'en amie\n\nNe vois-tu pas – chaque fois que tu me prends par le bras\nNe vois-tu pas que je m'appuie contre toi ?\nQuand tu m'embrasses, on dirait bien, j'en ai peur\nQue l'on est, toi et moi, frère et sœur\n\nOn dit que l'amour est aveugle\nMais moi, je crois qu'il est sourd comme toi\nIl est vrai je suis toute seule quand je te dis ça\n\nNe vois-tu pas qu'à présent je ne suis plus une enfant ?\nNe vois-tu pas que les années ont passé ?\nAu fond de moi, l'amour aussi a grandi\nEt je t'aime autrement qu'en amie\n\nNe vois-tu pas – cette fois que je t'ai pris par le bras\nNe vois-tu pas que tu t'appuies contre moi ?\nLe premier pas, j'ai dû le faire avant toi\nEt tu m'aimes depuis ce jour-là\nEt l'on s'аime depuiѕ ce jour-là"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Don't you see?",
+      "content": "Don't you see that nowadays I'm not a child anymore?\nDon't you see that the years have passed?\nSince then, my heart has also grown\nAnd I love you more than a friend\n\nDon't you see – each time you take my arm\nDon't you see that I lean on you?\nWhen you embrace me, I'm afraid one would say\nThat we are, you and me, brother and sister\n\nPeople say that love is blind\nBut I think it's deaf like you\nIt's true that I'm all alone when I tell you that\n\nDon't you see that I'm not a child anymore nowadays?\nDon't you see that the years have passed?\nDeep in me, love has grown too\nAnd I love you much more than a friend\n\nDon't you see – now that I have taken your arm\nDon't you see that you lean on me?\nThe first step, I had to take it before you\nAnd you love me since that day\nAnd we love each other ѕince that dаy"
+    }
+  ],
+  "bpm": 110,
+  "tone": "F major",
+  "artistPeople": [
+    "Madeleine Pascal"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Pierre Brenner"
+  ],
+  "conductor": "Jean Roderes",
+  "lyricists": [
+    "Roland Schweizer"
+  ],
+  "writers": null,
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Georges Hardy",
+    "Giovanni Bertini",
+    "Theodor Haller"
+  ],
+  "jury": null,
+  "spokesperson": "Alexandre Burger"
+}

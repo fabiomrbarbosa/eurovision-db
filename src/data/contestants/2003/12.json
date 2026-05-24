@@ -1,0 +1,47 @@
+{
+  "id": 12,
+  "country": "NL",
+  "artist": "Esther Hart",
+  "song": "One More Night",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/EIkoKOPN_7k",
+    "https://www.youtube-nocookie.com/embed/qqCpbo6W07w"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "One more night",
+      "content": "One more night\n\nThere's a fire that burns within us\nA flame that never dies\nLike a river that runs right through me\nA river, old and wise\n\nA power that can't be stopped, oh no\nIf you're with the one you love\nYou'll never rise above\nBeing with the one you love\n\nGive me one more night, give me one more day\nAnd now and forever, baby come what may\nGive me one more night, give me one more day\nWell, let me hold you now and please stay, one more night\n\nThere's a bright light that shines upon us\nA light as old as time\nAnd there's a flower that keeps on growing\nAs long as we two rhyme\n\nA power that can't be stopped, oh no\nIf you're with the one you love\n(If you're with the one you love)\nYou'll never rise above\nBeing with the one you love\n\nGive me one more night, give me one more day\nAnd now and forever, baby come what may\nGive me one more night, give me one more day\nWell, let me hold you now and please stay, one more night\n\nTake my hand and I will lead the way\nWe're all in need of a brighter day, yeah\nTake a stand and it'll be okay\nYou're all I need, so don't delay\nCome here and say, you're gonna stay\n\nOne more night, give me one more day\nAnd now and forever, baby come what may\n\nGive me one more night, give me one more day\nNow and forever, baby come what may\nGive me one more night, give me one more day\nWell, let me hold you now and please stay, yeah…\n\n(One more night, give me one more day)\n(Now and forever, baby come what may)\n\nGive me one more night, give me one more day\nWell, let me hold you now\n(Let me hold you now)\nPlease ѕtаy, one more night"
+    }
+  ],
+  "bpm": 116,
+  "tone": "C# major",
+  "artistPeople": [
+    "Esther Katinka Hartkamp"
+  ],
+  "backings": [
+    "Dedre Twiss",
+    "Linda Bloemhard",
+    "Roger Happel",
+    "Vera van der Poel"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Alan Michael",
+    "Tjeerd van Zanen"
+  ],
+  "broadcaster": "NOS",
+  "commentators": [
+    "Willem van Beusekom"
+  ],
+  "jury": null,
+  "spokesperson": "Marlayne"
+}

@@ -1,0 +1,54 @@
+{
+  "id": 10,
+  "country": "BE",
+  "artist": "Robert Cogoi",
+  "song": "Près de ma rivière",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/H7pUbwzHOcs",
+    "https://www.youtube-nocookie.com/embed/gA1LK1dwKFU",
+    "https://www.youtube-nocookie.com/embed/hY7NjLCQB8I",
+    "https://www.youtube-nocookie.com/embed/dmJgR8EZ8NI",
+    "https://www.youtube-nocookie.com/embed/6jLSedxx0Fg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Près de ma rivière",
+      "content": "Près de ma rivière aux reflets d'argent\nEntre ciel et terre, nous, on s'aimait tant\nDans l'herbe légère volaient nos serments\nPrès de ma rivière aux poissons d'argent\n\nLà, le monde était si loin\nLà, il n'y avait plus rien\nRien que mes yeux dans tes yeux\nRien, rien que nous deux\n\nPrès de ma rivière aux reflets d'argent\nEntre ciel et terre, nous, on s'aimait tant\n\nCoule la rivière et coule le temps\nTriste et solitaire, je viens maintenant\n\nPrès de ma rivière, où l'on s'aimait tant\nPrès de ma rivière, où l'on ѕ'aimait tаnt"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Nearby my river",
+      "content": "Nearby my river, with silver reflections\nBetween heaven and earth, we loved each other much\nIn the light grass we forgot our oath\nNearby my river, with silver fishes\n\nThere, the world was so far away\nThere, there was nothing left\nNothing but my eyes in your eyes\nNothing, nothing but the both of us\n\nNearby my river, with silver reflections\nBetween heaven and earth, we loved each other much\n\nThe river is flowing and the time is flowing away\nSad and ѕolitary, I'm coming now\n\nNearby my river, where we loved each other much\nNearby my river, where we loved eаch other much"
+    }
+  ],
+  "bpm": 96,
+  "tone": "E major",
+  "artistPeople": [
+    "Mirko Kogoj"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Henri Segers",
+  "lyricists": null,
+  "writers": [
+    "Robert Cogoi"
+  ],
+  "broadcaster": "RTB",
+  "commentators": [
+    "Herman Verelst",
+    "Paule Herreman"
+  ],
+  "jury": null,
+  "spokesperson": "André Hagon"
+}

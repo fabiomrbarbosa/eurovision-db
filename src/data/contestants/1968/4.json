@@ -1,0 +1,51 @@
+{
+  "id": 4,
+  "country": "SE",
+  "artist": "Claes-Göran Hederström",
+  "song": "Det börjar verka kärlek, banne mej",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/c1IzEh6aTXU",
+    "https://www.youtube-nocookie.com/embed/IKSEfCVVlZU",
+    "https://www.youtube-nocookie.com/embed/M4QlgEYkkQo"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Det börjar verka kärlek, banne mej",
+      "content": "I förrgår sa jag plötsligt nej till killarna\nNär de skulle ha ett party\nSe'n satt jag en hel kväll och konverserade\nMed din mamma och va' arti'\n\nDet börjar verka kärlek, banne mej\nSån't som man ser på bio, tänka sej\nJag är väl misstänksam, men tanken sticker fram\nMen för all del, jag kan ha fel\n\nI går kväll gick jag med dej på en snyftare\nFast jag ville gå på pang-pang\nOch se'n satt jag och hörde på en stråkkvartett\nJag som bara gillar dang-dang\n\nDet börjar verka kärlek, banne mej\nSån't där som står i böcker, tänka sej\nJag fattar ingenting, jag är väl lite ding\nSå för all del, jag kan ha fel\n\nI morse sjöng jag när jag borsta' tänderna\nOch se'n fick jag arbetsdille\nSe'n ringde jag till dej om inte nå'nting alls\nBara för jag plötsligt ville\n\nDet börjar verka kärlek, banne mej\nSån't där som händer andra, tänka sej\nDet mesta pekar på att jag är kär och så\nMen för all del, jag kan ha fel\n\nDet börjar verka kärlek, banne mej\nSån't där som händer andra, tänka sej\nDet mesta pekar på att jag är kär och ѕå\nMen för all del, jag kan ha fel\nJag kan hа fel"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "It's beginning to look like love, darn it",
+      "content": "The day before yesterday I suddenly turned down the guys\nWhen they invited me to a party\nAnd then I spent a whole evening conversing\nWith your mother, being polite\n\nIt's beginning to look like love, darn it\nThe kind of thing you see in the movies, imagine that\nI guess I'm suspicious, but the thought crops up\nBut by all means, I could be wrong\n\nLast night I went with you and watched a tearjerker\nAlthough I wanted to watch 'bang-bang'\nAnd then I sat listening to a string quartet\nMe, I only used to like 'twang-twang'\n\nIt's beginning to look like love, darn it\nThe kind of thing you read about in books, imagine that\nI don't understand it, I guess I'm a little stupid\nBut by all means, I could be wrong\n\nThis morning I sang as I brushed my teeth\nAnd then I began working like crazy\nAnd then I called you about nothing at all\nJust because I suddenly felt like it\n\nIt's beginning to look like love, darn it\nThe kind of thing that happens to others, imagine that\nIt all indicates, that I'm in love and all that\nBut by all means, I could be wrong\n\nIt's beginning to look like love, darn it\nThe kind of thing that happens to others, imagine that\nIt all indicates, that I'm in love and all that\nBut by all meаnѕ, I could be wrong\nI could be wrong"
+    }
+  ],
+  "bpm": 92,
+  "tone": "C# major",
+  "artistPeople": [
+    "Claes-Göran Hederström"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Mats Olsson",
+  "lyricists": null,
+  "writers": [
+    "Peter Himmelstrand"
+  ],
+  "broadcaster": "SR",
+  "commentators": [
+    "Christina Hansegård"
+  ],
+  "jury": null,
+  "spokesperson": "Edvard Matz"
+}

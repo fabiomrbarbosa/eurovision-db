@@ -1,0 +1,59 @@
+{
+  "id": 20,
+  "country": "CY",
+  "artist": "Jon Lilygreen & The Islanders",
+  "song": "Life Looks Better In Spring",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/KVsue-XPY0s",
+    "https://www.youtube-nocookie.com/embed/IpJ3wmecvsw",
+    "https://www.youtube-nocookie.com/embed/hT7sXM5qdRw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Life Looks Better In Spring",
+      "content": "Time changes everything, even you and I have changed\nThe rain the winters bring has made us fade away\nI still remember everything, that old December, the fears, the cold\nI really wonder how you feel on these nights, all alone\n\nI hope someday you'll see me\nI hope someday you'll spot me in the crowd\nTake my hand and kiss me\nI hope someday you'll say my name out loud\n\n(Tell me) Tell me about your feelings, tell me about your stories\nLook into my eyes and come on closer, make me immortal with a kiss\n(Tell me) Tell me about your feelings, tell me about your stories\nWe know it's over, so tell me it's over and life will be better in spring\n\nTime changes everything, but this feeling, it still remains\nThe sweetness of the lips I kissed will always be the same\n\nI hope someday you'll see me\nI hope someday you'll spot me in the crowd\nSmile and say you miss me\nI hope someday you'll say my name out loud\n\n(Tell me) Tell me about your feelings, tell me about your stories\nLook into my eyes and come on closer, make me immortal with a kiss\n(Tell me) Tell me about your feelings, tell me about your stories\nWe know it's over, so tell me it's over and life will be better in spring\n\n(Tell me) Tell me about your feelings, tell me about your stories\nLook into my eyes and come on closer, make me immortal with a kiss\n(Tell me) Tell me about your feelings, tell me about your stories\nWe know it's over, so tell me it's over аnd life will be better in ѕpring"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Жизнь кажется лучше весной",
+      "content": "Время меняет всё, даже нас с тобой\nЗимний дождь заставил наши чувства угаснуть\nКак прежде я помню всё, тот Декабрь, страхи и холод\nМне правда интересно, что ты чувствуешь этими одинокими ночами\n\nНадеюсь, однажды ты увидишь меня\nНадеюсь, однажды ты заметишь меня в толпе\nВозьмёшь за руку и поцелуешь\nНадеюсь, однажды ты откликнешь\n\nРасскажи о своих чувствах, расскажи свои истории\nЗагляни мне в глаза и подойди ближе, Поцелуем вдохнови меня в жизнь\nРасскажи о своих чувствах, расскажи свои истории\nМы знаем, у нас всё в прошлом, так скажи, что всё кончено и жизнь будет лучше весной\n\nВремя всё меняет, но это чувство никуда не девается\nСладость губ, что я целовал, навсегда останется в памяти\n\nНадеюсь, однажды ты увидишь меня\nНадеюсь, однажды ты заметишь меня в толпе\nВозьмёшь за руку и поцелуешь\nНадеюсь, однажды ты откликнешь\n\nРасскажи о своих чувствах, расскажи свои истории\nЗагляни мне в глаза и подойди ближе, Поцелуем вдохнови меня в жизнь\nРасскажи о своих чувствах, расскажи свои истории\nМы знаем, у нас всё в прошлом, так скажи, что всё кончено и жизнь будет лучше весной\n\nРасскажи о своих чувствах, расскажи свои истории\nЗагляни мне в глаза и подойди ближе, Поцелуем вдохнови меня в жизнь\nРасскажи о своих чувствах, расскажи свои истории\nМы знаем, у нас всё в прошлом, так скажи, что всё кончено и жизнь будет лучше весной"
+    }
+  ],
+  "bpm": 152,
+  "tone": "C major",
+  "artistPeople": [
+    "Charalambos Kallona",
+    "Jon Gregory",
+    "Jon Lilygreen",
+    "Katherine Squire",
+    "Sean Watts",
+    "Sylvia Stand"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Melis Konstantinou",
+    "Nasos Lambrianides"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Nasos Lambrianides"
+  ],
+  "writers": null,
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Melina Karageorgiou"
+  ],
+  "jury": null,
+  "spokesperson": "Christina Metaxa"
+}

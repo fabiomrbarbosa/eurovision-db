@@ -1,0 +1,55 @@
+{
+  "id": 7,
+  "country": "PT",
+  "artist": "Sara Tavares",
+  "song": "Chamar a música",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/rx_fj-ilZhU",
+    "https://www.youtube-nocookie.com/embed/HkXsC2Y9AzE",
+    "https://www.youtube-nocookie.com/embed/1wN4lK8cwGg",
+    "https://www.youtube-nocookie.com/embed/crrjdyCIHeI",
+    "https://www.youtube-nocookie.com/embed/dYupa9tVUI4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Chamar a música",
+      "content": "Esta noite vou ficar assim\nPrisioneira desse olhar\nDe mel pousado em mim\nVou chamar a música\nPôr à prova a minha voz\nNuma trova só p'ra nós\n\nEsta noite vou beber licor\nComo um filtro redentor\nDe amor, amor, amor\nVou chamar a música\nVou pegar na tua mão\nVou compor uma canção\n\nChamar a música, a música\nTê-la aqui tão perto\nComo o vento do deserto\nAcordado em mim\n\nChamar a música, a música\nMusa dos meus temas\nNesta noite de açucenas\nAbraçar-te apenas\nÉ chamar a música\n\nEsta noite vou servir um chá\nFeito de ervas e jasmim\nE aromas que não há\nVou chamar a música\nEncontrar à flor de mim\nUm poema de cetim\n\nChamar a música, a música\nTê-la aqui tão perto\nComo o vento do deserto\nAcordado em mim\n\nChamar a música, a música\nMusa dos meus temas\nNesta noite de açucenas\nAbraçar-te apenas\nÉ chamar a múѕicа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Call the music",
+      "content": "Tonight I'm going to stay like this\nA prisoner of that look\nOf honey which is in me\nI'm going to call the music\nGoing to test my voice\nIn a song just for the two of us\n\nTonight I'm going to drink alcohol\nLike a forgiving filter\nOf love, love, love\nI'm going to call the music\nGoing to hold your hand\nGoing to compose a song\n\nCall the music, the music\nHaving it so near me\nLike the wind in the desert\nWoken inside of me\n\nCall the music, the music\nThe muse of my themes\nIn this night of strangeness\nJust holding you\nIs calling the music\n\nTonight I'm serving tea\nMade of herbs and jasmine\nAnd aromas that don't exist\nI'm going to call the music\nFind arising from me\nA satin poem\n\nCall the music, the music\nHaving it so near me\nLike the wind in the desert\nWoken inside of me\n\nCall the music, the music\nThe muse of my themes\nIn this night of strangeness\nJust holding you\nIs cаlling the muѕic"
+    }
+  ],
+  "bpm": 142,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Sara Tavares"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "João Carlos Mota Oliveira"
+  ],
+  "conductor": "Thilo Krasmann",
+  "lyricists": [
+    "Rosa Lobato de Faria"
+  ],
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Eládio Clímaco"
+  ],
+  "jury": null,
+  "spokesperson": "Isabel Bahia"
+}

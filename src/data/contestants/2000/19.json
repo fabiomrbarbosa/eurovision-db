@@ -1,0 +1,59 @@
+{
+  "id": 19,
+  "country": "CH",
+  "artist": "Jane Bogaert",
+  "song": "La vita cos'è?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/1_zIxfrknKU",
+    "https://www.youtube-nocookie.com/embed/lhX6RYXsHzk",
+    "https://www.youtube-nocookie.com/embed/zgBe5Yhbskw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "La vita cos'è?",
+      "content": "Mi sveglio al mattino\nIl caffè ancora caldo di ieri\nLa pioggia sulla finestra\nChe legge nei miei pensieri\n\nMi chiedo dove sei amore lontano\nIl telefono non ha suonato\nQuel tuo sorriso mi fa impazzire\nNon posso più aspettare\n\nSo che non era facile, il cuore mio così fragile\nSi accende in un momento e vola via con il vento\nMi sento una piccola onda nel mare, azzurro dell'amore\nAdesso nei miei giorni ci sei tu\n\nLa vita cos'è? La vita dov'è?\nUna spina nel cuore che mi crea dolore\nSe tu non ci sei\n\nLa vita dov'è? La vita cos'è?\nUn palco d'amore ma l'applauso non c'é\nSe tu non ci sei\n\nDividi con me il mondo, fammi vivere ogni giorno\nPer restare accesa come la luce di una stella\nVivere un amore nel cielo, non c'è una cosa più bella\nStringimi più forte, baciami\n\nLa vita cos'è? La vita dov'è?\nUna spina nel cuore che mi crea dolore\nSe tu non ci sei\n\nLa vita dov'è? La vita cos'è?\nUn palco d'amore ma l'applаuso non c'é\nSe tu non ci sei\n\nSe tu non ci ѕei"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "What is life?",
+      "content": "I wake up in the morning\nThe coffee I made yesterday is still hot\nThe rain over the window\nIs reading my thoughts\n\nI wonder where my absent love is\nThe telephone has not rung\nYour smile makes me crazy\nI can't wait anymore\n\nI know it was not easy, my fragile heart\nIs burning in a moment and flies straight with the wind\nI feel like a little seawave, the blueness of love\nNow you are in my days\n\nWhere is life? What is life?\nA thorn which hurts my heart\nIf you are not here\n\nWhere is life? What is life?\nA balcony of love with no applause\nIf you are not here\n\nDivide the world with me, make me live every day\nTo shine like the light of a star\nTo live love in the sky, is such a beautiful thing\nHold me strongly, kiss me\n\nWhere is life? What is life?\nA thorn which hurts my heart\nIf you are not here\n\nWhere is life? What is life?\nA balcony of love with no applauѕe\nIf you are not here\n\nIf you аre not here"
+    }
+  ],
+  "bpm": 147,
+  "tone": "F# major",
+  "artistPeople": [
+    "Jane Bogaert"
+  ],
+  "backings": [
+    "Al Bano",
+    "Lesley Bogaert"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Bernie Staub",
+    "Brigitte Schöb"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Thomas Marin"
+  ],
+  "writers": null,
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Jean-Marc Richard",
+    "Jonathan Tedesco",
+    "Sandra Studer"
+  ],
+  "jury": null,
+  "spokesperson": "Astrid Von Stockar"
+}

@@ -1,0 +1,46 @@
+{
+  "id": 3,
+  "country": "GB",
+  "artist": "Ronnie Carroll",
+  "song": "Say Wonderful Things",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/rwOOqARFxB4",
+    "https://www.youtube-nocookie.com/embed/WXDsEtrLMXs",
+    "https://www.youtube-nocookie.com/embed/030iHKwHqB4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Say Wonderful Things",
+      "content": "Say wonderful things to me\nI think you're wonderful too\nSay wonderful things to me\nEspecially 'I love you' (I love you)\n\nThey say I was living before we met\nAll of my yesterdays I forget\nNow you are the one that I'm living for\nAnd each day I love you more\n\nSo you must say wonderful things to me\nI think you're wonderful too\nSay wonderful things to me\nEspecially 'I love you' (I love you)\n\nThe more that I see you, the more it seems\nPeople should always believe in dreams\nNow all of my dreams I'm dreaming of you\nAnd someday they'll all come true\n\nSo you must say wonderful things to me\nI think you're wonderful too\nSay wonderful things to me\nEspecially 'I love you' (I love you)\n\nI'll never hurt you or make you cry\nLove will grow stronger as years go by\nForever you'll be the one girl for me\nI'll love you until I die\n\nSo you must say wonderful things to me\nI think you're wonderful too\nSay wonderful things to me\nEspecially 'I love you'\n(Sаy wonderful thingѕ)"
+    }
+  ],
+  "bpm": 127,
+  "tone": "C major",
+  "artistPeople": [
+    "Ronald Cleghorn"
+  ],
+  "backings": [
+    "George Mitchell Choir"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Philip Green"
+  ],
+  "conductor": "Eric Robinson",
+  "lyricists": [
+    "Norman Newell"
+  ],
+  "writers": null,
+  "broadcaster": "BBC",
+  "commentators": [
+    "David Jacobs"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

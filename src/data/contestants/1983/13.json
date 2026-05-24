@@ -1,0 +1,65 @@
+{
+  "id": 13,
+  "country": "GR",
+  "artist": "Christie Stassinopoulou",
+  "song": "Mou les",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/CDL38uyoayI",
+    "https://www.youtube-nocookie.com/embed/cxnpZCfYaiA"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ellinika"
+      ],
+      "title": "Mou les",
+      "content": "Mu les yia thalases ke plia, ke i karthia mu san puli\nMesa sto gorfo su sopeni, ki opu ki an pas s' akoluthi\nMesa sto gorfo su sopeni, ki opu ki an pas s' akoluthi\nTha kliso ola ta limania, ke tus stathmus mi mu hathis\nTo nu su tha ton filakiso, na papsis pia na nostalyis\nTo nu su tha ton filakiso, na papsis pia na nostalyis\n\nMu les yia trena pu olo fevgun, ke yia tsinganus pu kinun\nKi ego ta matia su thiavazo, na tho pu trehun, pu yirnun\nKi ego ta matia su thiavazo, na tho pu trehun, pu yirnun\n\nTha kliso ola ta limania, ke tus stathmus mi mu hathis\nTo nu su tha ton filakiso, na papsis pia na nostalyis\nTo nu su tha ton filakiso, na papsis pia na nostalyis\n\nTha kliso ola ta limania, ke tus stathmus mi mu hathis\nTo nu su tha ton filakiso, na papsis pia na nostalyis\nTo nu su tha ton filakiso, na papsis pia na nostаlyiѕ"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ελληνικά"
+      ],
+      "title": "Μου λες",
+      "content": "Μου λες για θάλασσες και πλοία, και η καρδιά μου σαν πουλί\nΜέσα στον κόρφο σου σωπαίνει, κι όπου κι αν πας σ' ακολουθεί\nΜέσα στον κόρφο σου σωπαίνει, κι όπου κι αν πας σ' ακολουθεί\nΘα κλείσω όλα τα λιμάνια, και τους σταθμούς μη μου χαθείς\nΤο νου σου θα τον φυλακίσω, να πάψεις πια να νοσταλγείς\nΤο νου σου θα τον φυλακίσω, να πάψεις πια να νοσταλγείς\n\nΜου λες για τρένα που όλο φεύγουν, και για τσιγγάνους που κινούν\nΚι εγώ τα μάτια σου διαβάζω, να δω που τρέχουν που γυρνούν\nΚι εγώ τα μάτια σου διαβάζω, να δω που τρέχουν που γυρνούν\n\nΘα κλείσω όλα τα λιμάνια, και τους σταθμούς μη μου χαθείς\nΤο νου σου θα τον φυλακίσω, να πάψεις πια να νοσταλγείς\nΤο νου σου θα τον φυλακίσω, να πάψεις πια να νοσταλγείς\n\nΘα κλείσω όλα τα λιμάνια, και τους σταθμούς μη μου χαθείς\nΤο νου σου θα τον φυλακίσω, να πάψεις πια να νοσταλγείς\nΤο νου σου θα τον φυλακίσω, να πάψεις πια να νοσταλγείς"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "You tell me",
+      "content": "You tell me about seas and ships, and my heart like a bird\nIn your bosom hushes, and wherever you go, it follows you\nIn your bosom hushes, and wherever you go, it follows you\nI'll close all the ports, and the stations so that you won't be lost from me\nYour mind I'll imprison, so that you cease feeling nostalgia any longer\nYour mind I'll imprison, so that you cease feeling nostalgia any longer\n\nYou tell me about trains that keep leaving, and gypsies that move\nAnd I read your eyes, to see where they run, where they wander\nAnd I read your eyes, to see where they run, where they wander\n\nI'll close all the ports, and the stations so that you won't be lost from me\nYour mind I'll imprison, so that you cease feeling nostalgia any longer\nYour mind I'll imprison, so that you cease feeling nostalgia any longer\n\nI'll close all the ports, and the stations so that you won't be lost from me\nYour mind I'll imprison, so that you cease feeling nostalgia any longer\nYour mind I'll imprison, so that you cease feeling noѕtalgia аny longer"
+    }
+  ],
+  "bpm": 129,
+  "tone": "C# minor",
+  "artistPeople": [
+    "Christina Stassinopoulou"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Antonis Plessas"
+  ],
+  "conductor": "Mimis Plessas",
+  "lyricists": [
+    "Sofia Fildisi"
+  ],
+  "writers": null,
+  "broadcaster": "ERT",
+  "commentators": [
+    "Mako Georgiadou"
+  ],
+  "jury": null,
+  "spokesperson": "Irini Gavala"
+}

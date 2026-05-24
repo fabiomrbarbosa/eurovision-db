@@ -1,0 +1,49 @@
+{
+  "id": 10,
+  "country": "HR",
+  "artist": "Vesna Pisarović",
+  "song": "Everything I Want",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Ck7ql_nJ02g",
+    "https://www.youtube-nocookie.com/embed/DIfrXlMNWIY",
+    "https://www.youtube-nocookie.com/embed/16KZfArbdPo",
+    "https://www.youtube-nocookie.com/embed/inhKavEv4Nw",
+    "https://www.youtube-nocookie.com/embed/HQebBHbbdd4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Everything I Want",
+      "content": "Since you came into my life, I've been touched by happiness\nI feel love is all around 'cause there is no more loneliness\nAnd there's one thing that is true\nYou should know how much I love you\n\nLove is everything I want, love is everything I need\nThinking of the day we met as sign of destiny\nLove is everything I want, I believe in you and me\nLet me show you what I feel because my love is real\n\nThe girl I was, I left behind, incomplete and insecure\nNow I got you on my mind and I feel like I've been cured\nAnd there's one thing that is true\nYou should know how much I love you\n\nLove is everything I want, love is everything I need\nThinking of the day we met as sign of destiny\nLove is everything I want, I believe in you and me\nLet me show you what I feel because my love is real\n\n(Ah… ah… ah…) Whoa…\n\n(Love is everything I want, love is everything I need)\n(Thinking of the day we met as sign of destiny)\nLove is everything I want, I believe in you and me\nLet me show you what I feel because my love is real\n\n(Love is everything I want, love is everything I need)\n(Thinking of the day we met as sign of destiny) Thinking of the day\n(Love is everything I want, I believe in you and me)\n(Let me show you what I feel) because my love is real\nBecause my love iѕ reаl"
+    }
+  ],
+  "bpm": 100,
+  "tone": "D minor",
+  "artistPeople": [
+    "Vesna Pisarović"
+  ],
+  "backings": [
+    "Daria Hodnik",
+    "Dragan Brnas-Fudo",
+    "Ivana Čabraja",
+    "Vladimir Pavelić-Bubi"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Milana Vlaović"
+  ],
+  "broadcaster": "HRT",
+  "commentators": [
+    "Ante Batinović"
+  ],
+  "jury": null,
+  "spokesperson": "Duško Ćurlić"
+}

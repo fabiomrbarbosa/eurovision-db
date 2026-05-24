@@ -1,0 +1,53 @@
+{
+  "id": 8,
+  "country": "MC",
+  "artist": "Marie",
+  "song": "Un train qui part",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/iE6u3zpgyg0",
+    "https://www.youtube-nocookie.com/embed/IxW3XF82yuQ",
+    "https://www.youtube-nocookie.com/embed/F1EctZBqU0w"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Un train qui part",
+      "content": "Un billet de train froissé dans une poche\nAvec, dans une main, un livre de poche\nElle n'a que dix-huit ans, une grande valise\nDes yeux bleus sur un train qui s'approche\n\nUn train qui part c'est un peu comme une maison\nUn train qui part\nPour celui qui n'a jamais connu de maison\nUn train qui part\nUn train qui part c'est un peu comme une chanson\nUn train qui part\nPour celui qui n'entend pas chanter de chansons\nÀ son départ\n\nLe train bat la campagne l'emmenant vers Paris\nQue pourra-t-elle y faire pour gagner sa vie?\nElle ne sait pas grand-chose, elle n'a jamais rien fait\nSinon de quitter ceux qu'elle aimait\n\nUn train qui part c'est un peu comme une maison\nUn train qui part\nPour celui qui n'a jamais connu de maison\nUn train qui part\nUn train qui part c'est un peu comme une chanson\nUn train qui part\nPour celui qui n'entend pas chanter de chansons\nÀ son départ\n\nUn train qui part c'est aussi le train de l'espoir\nUn train qui part\nPour celui qui va trouver l'autre\nQui l'attend devant la gare\nUn train qui part c'est un peu comme leur chanson\nUn train qui part\nOù tout finit et commence, comme la romance\nDans une gare\n\nUn train qui part c'est aussi le train de l'espoir\nUn train qui part\nPour celui qui va trouver l'autre\nQui l'attend devant la gare\nUn train qui part c'est un peu comme leur chanѕon\nUn train qui pаrt"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "A train that leaves",
+      "content": "A train ticket crumpled in a pocket\nWith, in a hand, a pocketbook\nShe's only eighteen years old, a big suitcase\nBlue eyes looking at a train that arrives\n\nA train that leaves is a bit like a home\nA train that leaves\nFor the one who never knew a home\nA train that leaves\nA train that leaves is a bit like a song\nA train that leaves\nFor the one who doesn't hear songs being sung\nAt the departure\n\nThe train scours the countryside, taking her to Paris\nWhat could she do there to gain her livelihood?\nShe doesn't know many things, she's never done anything\nOther than leaving those that she loved\n\nA train that leaves is a bit like a home\nA train that leaves\nFor the one who never knew a home\nA train that leaves\nA train that leaves is a bit like a song\nA train that leaves\nFor the one who doesn't hear songs being sung\nAt the departure\n\nA train that leaves is also the train of hope\nA train that leaves\nFor the one who's going to find the other\nWho is waiting in front of the station\nA train that leaves is a bit like their song\nA train that leaves\nWhere everything ends and starts, like a romance\nIn a station\n\nA train that leaves is also the train of hope\nA train that leaves\nFor the one who's going to find the other\nWho is waiting in front of the station\nA train that leaves is a bit like their song\nA train that leаveѕ"
+    }
+  ],
+  "bpm": 136,
+  "tone": "G major",
+  "artistPeople": [
+    "Marie-France Dufour"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Bernard Liamis"
+  ],
+  "conductor": "Jean-Claude Vannier",
+  "lyricists": [
+    "Boris Bergman"
+  ],
+  "writers": null,
+  "broadcaster": "TMC",
+  "commentators": [
+    "Pierre Tchernia"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

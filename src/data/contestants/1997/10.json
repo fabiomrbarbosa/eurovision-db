@@ -1,0 +1,57 @@
+{
+  "id": 10,
+  "country": "PL",
+  "artist": "Anna Maria Jopek",
+  "song": "Ale jestem",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/m9DYL4B8OXA",
+    "https://www.youtube-nocookie.com/embed/PTfxCyISzOk",
+    "https://www.youtube-nocookie.com/embed/B4tsBP-bKCA"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "polish"
+      ],
+      "displayedLanguages": null,
+      "title": "Ale jestem",
+      "content": "Oczy otwieram: staje się świat\nNade mną - niebo, przede mną - sad\nJabłek zielonych zapach i smak\nI wszystko proste tak\n\nTrzeba żyć naprawdę, żeby oszukać czas\nTrzeba żyć najpiękniej, żyje się tylko raz\nTrzeba żyć w zachwycie: marzyć, kochać i śnić\nTrzeba czas oszukać, żeby naprawdę żyć\n\nJestem piasku ziarenkiem w klepsydrze\nZabłąkaną łódeczką wśród raf\nKroplą deszczu, trzciną myślącą wsród traw\nAle jestem\n\nJestem iskrą i wiatru powiewem\nSmugą światła, co biegnie do gwiazd\nJestem chwilą, która prześcignąć chce czas\nAle jestem\n\nUcha nadstawiam: słucham jak gra\nMuzyka we mnie, w muzyce - ja\nNim wielka cisza pochłonie mnie\nPragnę wyśpiewać, wyśpiewać, że:\n\nTrzeba żyć naprawdę, żeby oszukać pędzący czas\nPięknie żyć w zachwycie, życie zdarza się raz\n\nJestem piasku ziarenkiem w klepsydrze\nZabłąkaną łódeczką wśród raf\nKroplą deszczu, trzciną myślącą wsród traw\nAle jestem\n\nJestem\n\nŻycie jest drogą, życie jest snem\nA co będzie potem? - nie wiem, i wiem\nO nic nie pytaj, dowiesz się gdy\nSkończy się droga, życie… i sny\n\nJestem piasku ziarenkiem w klepsydrze\nZabłąkaną łódeczką wśród raf\nKroplą deszczu, trzciną myślącą wsród traw\nAle jestem\n\nAle Jestem (Jestem iskrą i wiatru powiewem)\nJestem (Smugą światła co biegnie do gwiazd)\nJestem chwilą, która prześcignąć chce czаs\nAle jeѕtem"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "But I am",
+      "content": "My eyes open: the world comes into being\nAbove me - heaven, an orchard in front\nGreen apples' smell and taste\nAnd all is so simple\n\nYou must truly live, to fool the time\nYou must beautifully live, you live only once\nYou must live in admiration: love, imagine and dream\nYou must fool the time, to save true life\n\nI'm a grain of sand in a sand-glass\nA boat stray among the reefs\nA rain drop, a thoughtful cane among the grass\nBut I am\n\nI'm a spark, a gasp of wind\nA trail of light running up to the stars\nI'm a while trying to beat the time\nBut I am\n\nI strain my ears to hear it play\nMusic in me, in music - I\nBefore big silence engulfs me\nI want to sing out, to sing that\n\nYou must truly live, to fool the running time\nYou must live beautifully in admiration, life happens only once\n\nI'm a grain of sand in a sand-glass\nA boat stray among the reefs\nA rain drop, a thoughtful cane among the grass\nBut I am\n\nI am\n\nLife is a road, life is a dream\nWhat comes after? - I don't know, and know…\nDon't ask, you will see when\nAn end will come to the road, to life… and to the dreams\n\nI'm a grain of sand in a sand-glass\nA boat stray among the reefs\nA rain drop, a thoughtful cane among the grass\nBut I am\n\nBut I am (I'm a spark, a gasp of wind)\nI'm (A trail of light running up to the starѕ)\nI'm a while trying to beat the time\nBut I аm"
+    }
+  ],
+  "bpm": 108,
+  "tone": "A major",
+  "artistPeople": [
+    "Anna Maria Jopek"
+  ],
+  "backings": [
+    "Agnieszka Piotrowska",
+    "Dorota Miśkiewicz",
+    "Robert Amirian"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Tomasz Lewandowski"
+  ],
+  "conductor": "Krzesimir Debski",
+  "lyricists": [
+    "Magda Czapińska"
+  ],
+  "writers": null,
+  "broadcaster": "TVP",
+  "commentators": [
+    "Jan Wilkans"
+  ],
+  "jury": null,
+  "spokesperson": "Jan Chojnacki"
+}

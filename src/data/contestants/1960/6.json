@@ -1,0 +1,50 @@
+{
+  "id": 6,
+  "country": "AT",
+  "artist": "Harry Winter",
+  "song": "Du hast mich so fasziniert",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/wSdNep2GPUE",
+    "https://www.youtube-nocookie.com/embed/BGGq5xw80ZY"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Du hast mich so fasziniert",
+      "content": "War es am Place du Dôme?\nWar es in Madrid, in Rom?\nWas nützt's, dass viele fragen\nNach längst vergangenen Tagen?\nIch hör' mich nur noch sagen:\n\nDu hast mich so fasziniert\nDass mich nichts interessiert außer nachts von dir zu träumen\nDu hast mich so fasziniert\nDass mir nichts auf der Welt außer dir gefällt, Liebling\n\nDu hast mich so fasziniert\nJa, so hypnotisiert\nDass ich nicht mehr weiß was ich jetzt tu'\nUnd was dann geschieht\nDenn du hast mich so fasziniert\n\nIst es so lang' schon her?\nWeißt du es selbst nicht mehr?\nAch... das ist gar nicht möglich\nDenn das war so unsäglich\nSag' ich dir doch noch täglich:\n\nDu hast mich so fasziniert\nDass mich nichts interessiert außer nachts von dir zu träumen\nDu hast mich so fasziniert\nDass mir nichts auf der Welt außer dir gefällt, Liebling\n\nDu hast mich so fasziniert\nJa, so hypnotisiert\nDass ich nicht mehr weiß was ich jetzt tu'\nUnd was dann geschieht\nDenn du hast mich so fasziniert\n\nEins kommt leider dаzu:\nJeder merkt'ѕ, nur nicht du"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "You fascinated me so much",
+      "content": "Was it at the Place du Dôme?\nWas it in Madrid or in Rome?\nWhat's the use for asking\nFor long passed days?\nI still hear me saying:\n\nYou fascinated me so much\nThat nothing interested me but to dream about you at night\nYou fascinated me so much\nThat I love nothing in the world but you, honey\n\nYou fascinated me so much\nYes, you hypnotized me\nSo that I don't know what I'm doing\nAnd what happened then\nBecause you fascinated me so much\n\nIs it really such a long time ago?\nYou even don't remember it?\nOh... that is unpossible\nBecause it was so indescribable\nI told you every day:\n\nYou fascinated me so much\nThat nothing interested me but to dream about you at night\nYou fascinated me so much\nThat I like nothing in the world but you, honey\n\nYou fascinated me so much\nYes, you hypnotized me\nSo that I don't know what I'm doing\nAnd what happens then\nBecause you fascinated me so much\n\nUnfortunately I hаve to include one thing:\nEverybody knowѕ it, but you"
+    }
+  ],
+  "bpm": 152,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Horst Winter"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Robert Stolz"
+  ],
+  "conductor": "Robert Stolz",
+  "lyricists": [
+    "Robert Gilbert"
+  ],
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Emil Kollpacher"
+}

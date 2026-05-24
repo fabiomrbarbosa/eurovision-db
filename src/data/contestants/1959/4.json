@@ -1,0 +1,52 @@
+{
+  "id": 4,
+  "country": "DK",
+  "artist": "Birthe Wilke",
+  "song": "Uh, jeg ville ønske jeg var dig",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/KZCLte3YzgM",
+    "https://www.youtube-nocookie.com/embed/de5unw9xdeM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "danish"
+      ],
+      "displayedLanguages": null,
+      "title": "Uh, jeg ville ønske jeg var dig",
+      "content": "Elsker man fuldt, elsker man helt\nEr ingen delt natur\nOg man er tro, tro mod amour\nSå vil jeg elskes igen\nLyt derfor til mig, min ven\n\nFor uh... jeg ville ønske, jeg var dig\nUh... hvor skulle jeg dog elske mig\nKlappe min kind og stryge mit hår\nOg skænke mig sol og vår\nTusinde kys og tusinde kæl\nDet undte jeg tit mig selv\nSå uh... jeg ville ønske, jeg var dig\nUh... hvor skulle jeg knuselske mig\nSikke et sus og sikke et liv\nOg sikke et perspektiv\nJa, uh... jeg ville ønske, jeg var dig\n\nDerfor spør' jeg dig: Gik du samme vej\nOg mødte du dig i kyssenes leg\nHvis omvendt du var mig\nNår vi bli'r halvfems, si'r vi: Hvem er hvem's?\nFortryllende du, jeg synger som nu:\nDa du da da dej da du\n\nSå uh... jeg ville ønske, jeg var dig\nUh... men hvis en dag du fri'r til mig\nSå si'r jeg: Du, det gik som det sku'\nSå gifter du dig med mig\nSå uh... det var da godt at du var dig\n\nDerfor spør' jeg dig: Gik du samme vej\nOg mødte du dig i kyssenes leg\nHvis omvendt du var mig\nNår vi bli'r halvfems si'r vi: Hvem er hvem's?\nFortryllende du, jeg synger som nu:\nDa du da da dig da du\n\nSå uh... jeg ville ønske, jeg var dig\nUh... men hvis en dag du fri'r til mig\nSå si'r jeg: Du det gik som det ѕku'\nSå gifter du dig med mig\nSå uh... det var da godt, at du vаr dig"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Ooh, I'd wish I were you",
+      "content": "If you love fully, you love entirely\nYou're no divided nature\nAnd you're faithful, faithful to amour\nThen I want to be loved back\nTherefore listen to me, my friend\n\nFor ooh, I'd wish I were you\nOoh, how I'd love me\nPat my cheek and stroke my hair\nAnd give me sun and spring\nA thousand kisses and a thousand caresses\nI'd often grant myself\nSo ooh, I'd wish I were you\nOoh, how I'd hug me\nWhat a whirl and what a life\nAnd what a perspective\nYes, ooh, I'd wish I were you\n\nThat's why I ask you: If you walked the same path\nAnd if you met you in the play of the kisses\nIf, on the other hand, you were me\nWhen we are ninety, we'll say: Who's who's?\nEnchanting you, I sing like now:\nDa doo da da dey da doo\n\nSo ooh, I'd wish I were you\nOoh, but if one day, you ask me to marry you\nThen I'll say: You know, it went as it should\nThen you'll marry me\nSo ooh, it was good that you were you\n\nThat's why I ask you: If you walked the same path\nAnd if you met you in the play of the kisses\nIf, on the other hand, you were me\nWhen we are ninety, we'll say: Who's who's?\nEnchanting you, I sing like now:\nDa doo da da dey da doo\n\nSo ooh, I'd wish I were you\nOoh, but if one day, you ask me to marry you\nThen I'll say: You know, it went as it should\nThen you'll marry me\nSo ooh, it waѕ good thаt you were you"
+    }
+  ],
+  "bpm": 122,
+  "tone": "C major",
+  "artistPeople": [
+    "Birthe Wilke"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Otto Lington"
+  ],
+  "conductor": "Kai Mortensen",
+  "lyricists": [
+    "Carl Andersen"
+  ],
+  "writers": null,
+  "broadcaster": "DSR",
+  "commentators": [
+    "Sejr Volmer-Sørensen"
+  ],
+  "jury": null,
+  "spokesperson": "Svend Pedersen"
+}

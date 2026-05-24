@@ -1,0 +1,58 @@
+{
+  "id": 9,
+  "country": "CH",
+  "artist": "Peter, Sue & Marc and Pfuri, Gorps & Kniri",
+  "song": "Trödler & Co",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-dbzbx6EEoc",
+    "https://www.youtube-nocookie.com/embed/zt4R7GRcZ68",
+    "https://www.youtube-nocookie.com/embed/F3itHMn5cfs"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Trödler & Co",
+      "content": "Wir sind die Trödler und Company\nUnd dies ist unsere Melodie\nWir sind die Trödler und Company\nUnd machen Trödlermusik\n\nWir sind die Trödler und Company\nSo was wie uns sah die Welt noch nie\nUnser Zuhause ist nirgendwo\nWir sind die Trödler und Co\n\nIn alten Sachen die überall steh'n\nDa schlafen manchmal die schönsten Ideen, whoa...\nWir machen sie zum Musikinstrument\nUnd so entstand unsre Band\n\nZuerst hat jemand die Töpfe gebracht\nDaraus war bald schon ein Schlagzeug gemacht, whoa...\nUnd was in so einer Gießkanne steckt\nKlingt als Trompete perfekt\n\nWir sind die Trödler und Company\nUnd dies ist unsere Melodie\nWir sind die Trödler und Company\nUnd machen Trödlermusik\n\nEs war im Garten von Omamama\nWo eines Morgens das Wunder geschah, whoa...\nSeit jenem Tage da spielen wir auch\nAuf einem Gartenschlauch\n\nWir sind die Trödler und Company\nUnd dies ist unsere Melodie, whoa...\nWir sind die Trödler und Company\nUnd machen Trödlermusik\nUnd machen Trödlermusik\nWir mаchen Trödlermuѕik"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Dawdler & co",
+      "content": "We are the dawdler and company\nAnd this is our melody\nWe are the dawdler and company\nAnd make dawdler music\n\nWe are the dawdler and company\nSomething like us, the world has never seen before\nOur home is nowhere\nWe are the dawdler and co\n\nIn old things that stand everywhere\nSometimes the best ideas are sleeping, whoa...\nWe convert them to musical instruments\nAnd so our band was created\n\nFirst somebody braught the pots\nOut of this soon already percussion drums were made, whoa...\nAnd what is inside of a watering can\nSounds perfectly like a trumpet\n\nWe are the dawdler and company\nAnd this is our melody\nWe are the dawdler and company\nAnd make dawdler music\n\nIt was in the garden of our grandma\nWhere one morning the wonder happened,  whoa...\nSince that day we are also playing\nOn a garden hose\n\nWe are the dawdler and company\nAnd this is our melody, whoa...\nWe are the dawdler and company\nAnd make dawdler music\nAnd make dawdler music\nWe make dаwdler muѕic"
+    }
+  ],
+  "bpm": 118,
+  "tone": "F minor",
+  "artistPeople": [
+    "Anthony Fischer",
+    "Kniri Knaus",
+    "Marcel Dietrich",
+    "Peter Reber",
+    "Pfuri Baldenweg",
+    "Sue Schell"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Rolf Zuckowski",
+  "lyricists": null,
+  "writers": [
+    "Peter Reber"
+  ],
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Georges Hardy",
+    "Giovanni Bertini",
+    "Theodor Haller"
+  ],
+  "jury": null,
+  "spokesperson": "Michel Stocker"
+}

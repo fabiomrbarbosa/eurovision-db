@@ -1,0 +1,104 @@
+{
+  "id": 37,
+  "country": "FI",
+  "artist": "Pertti Kurikan Nimipäivät",
+  "song": "Aina mun pitää",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/v4Y0HOPL5GU",
+    "https://www.youtube-nocookie.com/embed/zEiM6l5meQI",
+    "https://www.youtube-nocookie.com/embed/RuwAopsrExg",
+    "https://www.youtube-nocookie.com/embed/uXFdnHxANbo",
+    "https://www.youtube-nocookie.com/embed/Wu8JuhAd7Mk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Aina mun pitää",
+      "content": "Aina mun pitää siivota\nAina mun pitää tiskata\nAina mun pitää käydä töissä\nAina mun pitää käydä lääkärissä\n\nEi saa mennä koneelle\nEn katsoa telkkarii\nEn saa edes nähdä mun kavereita\n\nAina mun pitää olla kotona\nAina mun pitää hoitaa tehtäviä\nAina mun pitää syödä kunnolla\nAina mun pitää juoda kunnolla\nEn saa syödä karkkia, en juoda limua\nEn saa edes juoda alkoholia\n\nAina mun pitää levätä\nAina mun pitää nukkua\nAina mun pitää herätä\nAina mun pitää käydä suihkusѕа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I always have to",
+      "content": "I always have to clean\nI always have to do the dishes\nI always have to work\nI always have to go to the doctor\n\nI am not allowed to go to the computer\nI am not allowed to watch television\nI am not allowed to see my friends\n\nI always have to be at home\nI always have to do chores\nI always have to eat well\nI always have to drink well\nI can't eat candy, drink soda\nI can't even drink alcohol\n\nI always have to rest\nI always have to sleep\nI always have to wake up\nI always hаve to ѕhower"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Devo Sempre",
+      "content": "Devo sempre pulire\nDevo sempre lavare i piatti\nDevo sempre lavorare\nDevo sempre andare dal dottore\n\nNon mi è permesso giocare al computer\nNon mi è permesso guardare la televisione\nNon mi è permesso vedere i miei amici\n\nDevo sempre stare a casa\nDevo sempre fare le faccende\nDevo sempre mangiare bene\nDevo sempre bere bene\nNon posso mangiare caramelle, bere soda\nNon riesco nemmeno a bere alcolici\n\nDevo sempre riposare\nDevo sempre dormire\nDevo sempre svegliarmi\nDevo ѕempre fare la docciа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Я всегда должен",
+      "content": "Я всегда должен убирать\nЯ всегда должен мыть посуду\nЯ всегда должен работать\nЯ всегда должен ходить к врачу\n\nМне нельзя подходить к компьютеру\nМне нельзя смотреть телевизор\nМне нельзя видеться с друзьями\n\nЯ всегда должен быть дома\nЯ всегда должен заниматься домашними делами\nЯ всегда должен хорошо питаться\nЯ всегда должен пить здоровые напитки\nЯ не могу есть конфеты, пить газировку\nЯ даже не могу употреблять алкоголь\n\nЯ всегда должен отдыхать\nЯ всегда должен спать\nЯ всегда должен просыпаться\nЯ всегда должен мыться"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Siempre tengo que",
+      "content": "Siempre tengo que limpiar\nSiempre tengo que lavar los platos\nSiempre tengo que trabajar\nSiempre tengo que ir al médico\n\nNo puedo usar el ordenador\nNo puedo ver la televisión\nNo puedo ver a mis amigos\n\nSiempre tengo que estar en casa\nSiempre tengo que hacer tareas\nSiempre tengo que comer bien\nSiempre tengo que beber bien\nNo puedo comer dulces, beber refrescos\nNi siquiera puedo beber alcohol\n\nSiempre tengo que descansar\nSiempre tengo que dormir\nSiempre tengo que deѕpertarme\nSiempre tengo que duchаrme"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "polish"
+      ],
+      "displayedLanguages": null,
+      "title": "Zawsze muszę",
+      "content": "Zawsze muszę sprzątać\nZawsze muszę myć naczynia\nZawsze muszę pracować\nZawsze muszę chodzić do lekarza\n\nNie mogę podchodzić do komputera\nNie mogę oglądać telewizji\nNie mogę widywać się z przyjaciółmi\n\nZawsze muszę być w domu\nZawsze muszę wykonywać obowiązki domowe\nZawsze muszę zdrowo jeść\nZawsze muszę zdrowo pić\nNie mogę jeść słodyczy, pić gazowanego\nNie mogę nawet pić alkoholu\n\nZawsze muszę odpoczywać\nZawsze muszę spać\nZawsze muszę budzić się\nZawsze muszę brаć pryѕznic"
+    }
+  ],
+  "bpm": 96,
+  "tone": "D minor",
+  "artistPeople": [
+    "Kari Aalto",
+    "Pertti Kurikka",
+    "Sami Helle",
+    "Toni Välitalo"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Reija Wäre",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Kari Aalto",
+    "Pertti Kurikka",
+    "Sami Helle",
+    "Toni Välitalo"
+  ],
+  "broadcaster": "YLE",
+  "commentators": [
+    "Aino Töllinen",
+    "Cristal Snow",
+    "Eva Frantz",
+    "Johan Lindroos"
+  ],
+  "jury": [
+    "Aija Puurtinen",
+    "Jukka Immonen",
+    "Laura Haimila",
+    "Mikko Pykäri",
+    "Pekka Eronen"
+  ],
+  "spokesperson": "Krista Siegfrids"
+}

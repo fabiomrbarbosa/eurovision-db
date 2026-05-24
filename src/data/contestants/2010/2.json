@@ -1,0 +1,62 @@
+{
+  "id": 2,
+  "country": "RO",
+  "artist": "Paula Seling & Ovi",
+  "song": "Playing With Fire",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/6OlG9g4-cyg",
+    "https://www.youtube-nocookie.com/embed/xqDnxKGFK1Q",
+    "https://www.youtube-nocookie.com/embed/K8iALS6-l7c"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Playing With Fire",
+      "content": "Girl, girl, girl, can't you see what you do to me tonight?\nBoy, boy, boy, if you're mean, I will start a fight tonight\nYou and I could try to stop – uh boy, till you drop\nIf we get together now, we'll burn this place down\n\nYou and me, can't you see, we're playing with fire?\nTell me now, do you feel this burning desire?\nDon't stop, make it rock, it's taking us higher\nCould it be just a dream? Are you running away?\n\nUh ho… uh ho… uh ho…\n\nBoy, boy, boy, what a fight, come and spend with me the night\nGirl, girl, girl, are you sure? – Uhu – I ain't here to fight, alright?\nYou and I could try to stop – uh boy, till you drop\nIf we get together now, we'll burn this place down\n\nYou and me, can't you see, we're playing with fire\nTell me now, do you feel this burning desire?\nDon't stop, make it rock, it's taking us higher\nCould it be just a dream? Are you running away?\n\nUh ho… uh ho… uh ho…\n\nYou and me, can't you see, we're playing with fire?\nTell me now, do you feel this burning desire?\nDon't stop, make it rock, it's taking us higher\nCould it be just a dream? Are you running away?\n\nYou and me, can't you see, we're playing with fire?\nTell me now, do you feel this burning desire?\nDon't stop, make it rock, it's taking us higher\nCould it be just a dream? Are you running away?\n\nUh ho… uh ho… uh\nIf we get together now, we'll burn thiѕ plаce down"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "romanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Jucând cu focul",
+      "content": "Fato, fato, fato, nu vezi ce-mi faci în seara asta?\nBăiatule, băiatule, băiatule, dacă ești răutăcios, voi începe o luptă în seara asta\nTu și cu mine am putea încerca să oprim - uh băiatule, până când cazi\nDacă ne unim acum, vom arde acest loc până la temelie\n\nTu și eu, nu vezi, jucăm cu focul?\nSpune-mi acum, simți acest dor aprins?\nNu te opri, fă să vibreze, ne duce mai sus\nAr putea fi doar un vis? Te ascunzi?\n\nUh ho… uh ho… uh ho…\n\nBăiatule, băiatule, băiatule, ce luptă, vino și petrece noaptea cu mine\nFato, fato, fato, ești sigură? - Uhu - Nu sunt aici să mă lupt, în regulă?\nTu și cu mine am putea încerca să oprim - uh băiatule, până când cazi\nDacă ne unim acum, vom arde acest loc până la temelie\n\nTu și eu, nu vezi, jucăm cu focul?\nSpune-mi acum, simți acest dor aprins?\nNu te opri, fă să vibreze, ne duce mai sus\nAr putea fi doar un vis? Te ascunzi?\n\nUh ho… uh ho… uh ho…\n\nTu și eu, nu vezi, jucăm cu focul?\nSpune-mi acum, simți acest dor aprins?\nNu te opri, fă să vibreze, ne duce mai sus\nAr putea fi doar un vis? Te ascunzi?\n\nTu și eu, nu vezi, jucăm cu focul?\nSpune-mi acum, simți acest dor aprins?\nNu te opri, fă să vibreze, ne duce mai sus\nAr putea fi doar un vis? Te ascunzi?\n\nUh ho… uh ho… uh\nDacă ne unim acum, vom arde aceѕt loc până lа temelie"
+    }
+  ],
+  "bpm": 122,
+  "tone": "G major",
+  "artistPeople": [
+    "Ovidiu Cernăuţeanu",
+    "Paula Seling"
+  ],
+  "backings": [
+    "Alexandra Craescu",
+    "Oana Puscatu"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Ovidiu Cernăuţeanu"
+  ],
+  "broadcaster": "TVR",
+  "commentators": [
+    "Gianina Corondan",
+    "Leonard Miron"
+  ],
+  "jury": [
+    "Alexandra Cepraga",
+    "Andrei Kerestely",
+    "Andrei Tudor",
+    "Corina Despot",
+    "Mihai Alexandru"
+  ],
+  "spokesperson": "Malvina Cservenschi"
+}

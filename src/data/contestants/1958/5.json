@@ -1,0 +1,50 @@
+{
+  "id": 5,
+  "country": "AT",
+  "artist": "Liane Augustin",
+  "song": "Die ganze Welt braucht Liebe",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5k8cGWdGL84",
+    "https://www.youtube-nocookie.com/embed/yqXCBIZzD2s",
+    "https://www.youtube-nocookie.com/embed/NVpiFTKK60c"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Die ganze Welt braucht Liebe",
+      "content": "Die ganze Welt braucht Liebe\nWer ist schon gern allein?\nEin kleines bißchen Liebe\nSoll's bei mir anders sein?\n\nIm großen Weltgetriebe\nHat selbst der kleinste Stein\nEin kleines zweites Steinchen\nSoll's bei mir anders sein?\nNein\n\nAuch mein Herz hat Sehnsucht\nUnd braucht ein zweites Herz\nDas mich zu versteh'n sucht\nIn Freuden, doch auch im Schmerz\n\nDie Welt wär' kalt und trübe\nKüßt' sie kein Sonnenschein\nUnd jedes Herz braucht Liebe\nSoll's bei mir anders sein?\nNein, 's kann gar nicht anders sein\n\nDie Wange will umschmeichelt sein\nDer Mund braucht Zärtlichkeit\nDie Hand, sie will gestreichelt sein\nSo ist es heut' und alle Zeit:\nDie ganze Welt braucht Liebe\n\nAuch mein Herz hat Sehnsucht\nUnd braucht ein zweites Herz\nDas mich zu versteh'n sucht\nIn Freuden, doch auch im Schmerz\n\nDie Welt wär' kalt und trübe\nKüßt' sie kein Sonnenschein\nUnd jedes Herz braucht Liebe\nSoll's bei mir anders sein?\nNein, 's kann gar nicht аnders ѕein"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The whole world needs love",
+      "content": "The whole world needs love\nWho likes to be alone?\nA little bit of love\nShould it be different with me?\n\nIn the big gear of the world\nEven the smallest stone has\nAnother little stone\nShould it be different with me?\nNo\n\nMy heart too has longing\nAnd it needs a second heart\nThat tries to understand me\nIn happy days, but also in bad days\n\nAnd if the world were cold and gloomy\nIt wouldn't be kissed by sunshine\nAnd every heart needs love\nShould it be different with me?\nNo, it can't be different\n\nThe cheek wants to be touched softly\nThe mouth needs tenderness\nThe hand, it wants to be caressed\nThat's how it is today and for all times\nThe whole world needs love\n\nMy heart too has longing\nAnd it needs a second heart\nThat tries to understand me\nIn happy days, but also in bad days\n\nAnd if the world were cold and gloomy\nThen it wouldn't be kissed by sunshine\nAnd every heart needѕ love\nShould it be different with me?\nNo, it cаn't be different"
+    }
+  ],
+  "bpm": 110,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Liane Augustin"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Willy Fantl",
+  "lyricists": null,
+  "writers": [
+    "Günther Leopold",
+    "Kurt Werner"
+  ],
+  "broadcaster": "ORF",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Karl Bruck"
+}

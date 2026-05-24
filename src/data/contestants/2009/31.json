@@ -1,0 +1,60 @@
+{
+  "id": 31,
+  "country": "BY",
+  "artist": "Petr Elfimov",
+  "song": "Eyes That Never Lie",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/xy4CX_IKEfQ",
+    "https://www.youtube-nocookie.com/embed/Mr0CBaEpHz4",
+    "https://www.youtube-nocookie.com/embed/rTdl5BYK6OY",
+    "https://www.youtube-nocookie.com/embed/mJaxazvV760"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Eyes That Never Lie",
+      "content": "I was wandering alone\nI was turning to stone\nI was going insane\nWhen you came into my life\n\nYou chased sorrow away\nYou changed night into day\nYou cured all of my pain\nWith your eyes that never lie\n\nAll my life I waited\nThinking I would never fly\nThen you looked and saw my wings\nWith your eyes that never lie\n\nYou are my desert and well\nYou are my heaven and hell\nYou are my reason to be\nMy love song, my battle cry\n\nI know I will be whole\nWhile I keep in my soul\nThe light shining on me\nFrom your eyes that never lie\n\nAll my life I waited\nThinking I would never fly\nThen you looked and saw my wings\nWith your eyes that never lie\n\nOh, my darling angel\nGuide me through this barren sky\nIf I'm lost I'll see the way\nIn your eyeѕ thаt never lie"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Взгляд любви",
+      "content": "Сквозь тень тающих лет\nДень в день брёл как слепой\nЛишь боль знала мой след\nИ повсюду шла за мной\n\nЯ был камнем в пыли\nИ ждал долго рассвет\nМеня ноги несли\nВ даль, где вспыхнул яркий свет\n\nОн мне дал надежду\nВерить в жизнь как прежде\nВзгляд любви мне может дать\nОн мне силы дал летать\n\nТвой свет был так далёк\nНо я шёл напролом\nЯ рвал петли дорог\nИ летел к тебе, мой сон\n\nТвой лик, словно с небеc\nСошёл прямо ко мне\nМой рай снова воскрес\nЯ дарю его тебе\n\nОн мне дал надежду\nВерить в жизнь как прежде\nВзгляд любви мне может дать\nОн мне силы дал летать\n\nОн мне дал надежду\nВерить в жизнь как прежде\nВзгляд любви мне может дать\nОн мне силы дал летать"
+    }
+  ],
+  "bpm": 138,
+  "tone": "C major",
+  "artistPeople": [
+    "Petr Elfimov"
+  ],
+  "backings": [
+    "Anton Toimentsau",
+    "Dzmitry Mikulich",
+    "Ekaterina Matskevich",
+    "Ivan Zhancak",
+    "Philip Mazurov"
+  ],
+  "dancers": null,
+  "stageDirector": "Janusz Józefowicz",
+  "composers": [
+    "Petr Elfimov"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Valery Prokhozhy"
+  ],
+  "writers": null,
+  "broadcaster": "BTRC",
+  "commentators": [
+    "Denis Kurian"
+  ],
+  "jury": null,
+  "spokesperson": "Ekaterina Litvinova"
+}

@@ -1,0 +1,49 @@
+{
+  "id": 22,
+  "country": "IE",
+  "artist": "Niamh Kavanagh",
+  "song": "It's For You",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/6SHg8gS-02Q",
+    "https://www.youtube-nocookie.com/embed/8f8YIihrPRg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "It's For You",
+      "content": "Look into these eyes, hold onto these hands, believe in this heartbeat\nThough you're afraid that I might break, just hold on\nShadows only haunt you when darkness crowds your heart\nSo let the light of my love shine bright\n\nWhen I cry, it's for the lonely\nWhen I pray, it's for the lost and stray\nWhen I love like there's no tomorrow\nNo more words to say, it's for you\n\nLook straight ahead, hold onto your dreams, believe in this magic\nOpen your eyes, open your mind and it's there\nShadows only haunt you when darkness crowds your heart\nSo let the light of my love shine bright\n\nWhen I cry, it's for the lonely\nWhen I pray, it's for the lost and stray\nWhen I love like there's no tomorrow\nNo more words to say…\n\nWhen shadows haunt you and darkness crowds your heart\nLet the light of my love shine bright\n\nWhen I cry, it's for the lonely\nWhen I pray, it's for the lost and stray\nWhen I love like there's no tomorrow\nNo more words to sаy, it's for you (It's for you)\nIt'ѕ for you"
+    }
+  ],
+  "bpm": 129,
+  "tone": "C major",
+  "artistPeople": [
+    "Niamh Kavanagh"
+  ],
+  "backings": [
+    "Ed O'Leary",
+    "Karl Power",
+    "Niamh Kavanagh",
+    "Nikki Kavanagh"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Jonas Gladnikoff",
+    "Lina Eriksson",
+    "Marten Eriksson",
+    "Niall Mooney"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Marty Whelan"
+  ],
+  "jury": null,
+  "spokesperson": "Derek Mooney"
+}

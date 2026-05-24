@@ -1,0 +1,49 @@
+{
+  "id": 0,
+  "country": "IE",
+  "artist": "Linda Martin",
+  "song": "Why Me?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Dh6FC_kAH6w",
+    "https://www.youtube-nocookie.com/embed/BgIAxJZoNhg",
+    "https://www.youtube-nocookie.com/embed/rX8D6wCz36Y",
+    "https://www.youtube-nocookie.com/embed/wAoXb8vxIDo"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Why Me?",
+      "content": "Sometimes I watch you passing by my window\nAnd sometimes I watch you passing through my dreams\nAnd sometimes, when I look at you\nYou take my breath away\n\nSometimes I try and understand your reasons\nYou choose to feel the way you feel about me\nAnd sometimes, when I turn around\nAnd you're there, like today\nI wanna say:\n\nWhy me?\nI look at you and I get to feeling\nWhy me? (Why me? Ooh…)\nI know it's true but I can't believe it\nI keep on wonderin' why\nMy love shines in your eyes\nWhy me?\nI look at you and I ask myself\nWhy me?\n\nSometimes I lie awake and watch you sleeping\nAnd listen to the beating of your heart\nAnd sometimes, when you're lyin' there\nYou take my breath away\nAnd I wanna say\n\nWhy me?\nI look at you and I get to feeling\nWhy me? (Why me? Ooh…)\nI know it's true but I can't believe that it's me\nWho's gonna be holdin' you in my arms tonight\nAnd why it's me\nWho's gonna be the one to make you feel all right\nTonight\n\nWhy me?\nI look at you and I get to feeling\nWhy me? (Why me? Ooh…)\nI know it's true but I can't believe it\nI keep on wonderin' why\nMy love shines in your eyes\nWhy me?\nI look at you and I аsk myѕelf\nWhy me?\n\nWhy me?"
+    }
+  ],
+  "bpm": 78,
+  "tone": "D major",
+  "artistPeople": [
+    "Linda Martin"
+  ],
+  "backings": [
+    "Alain Pentony",
+    "Carol Keating",
+    "Garrett Wall",
+    "Margot Daly",
+    "Mary Lowe"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Noel Kelehan",
+  "lyricists": null,
+  "writers": [
+    "Johnny Logan"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Pat Kenny"
+  ],
+  "jury": null,
+  "spokesperson": "Eileen Dunne"
+}

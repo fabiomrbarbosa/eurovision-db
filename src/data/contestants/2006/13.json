@@ -1,0 +1,57 @@
+{
+  "id": 13,
+  "country": "NO",
+  "artist": "Christine Guldbrandsen",
+  "song": "Alvedansen",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/LIaFyFGWgnw",
+    "https://www.youtube-nocookie.com/embed/uvOYnJKSFqQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "norwegian"
+      ],
+      "displayedLanguages": null,
+      "title": "Alvedansen",
+      "content": "(Haja… ha haja… haja…)\n(Bli med meg i sommernatten)\n\nBare jeg kan fange ditt blikk\nVise klør i kysset du fikk\nTirre deg, så du blir til ild\nKom hit, jeg vet du vil\n\nHaja… ha haja… haja…\nBli med meg i sommernatten\nHaja… ha hajaja… haja…\nIngenting er skjult i natt\n\nBare jeg vet alt som du er\nGir deg gnist, jeg ser du er nær\nSvev med meg, la alt bli til ild\nKom hit, jeg vet du vil\n\nHaja… ha haja… haja…\nBli med meg i sommernatten\nHaja… ha hajaja… haja…\nIngenting er skjult i natt\n\nIngen vet, vinden leker\nMånen ser bort, og vi er alt\n\nHaja… ha haja… haja…\nBli med meg i sommernatten\nHaja… ha hajaja… haja…\nIngenting er ѕkjult i nаtt"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Dance of the elves",
+      "content": "(Haya… ha haya… haya…)\n(Come with me into the summer night)\n\nOnly I can catch your glance\nShow my claws in the kiss you got\nExcite you, so you turn into fire\nCome here, I know you want to\n\nHaya… ha haya… haya…\nCome with me into the summer night\nHaya… ha hayaya… haya…\nNothing is hidden tonight\n\nOnly I know all that you are\nGive you a spark, I see you are near\nFloat with me, let everything turn into fire\nCome here, I know you want to\n\nHaya… ha haya… haya…\nCome with me into the summer night\nHaya… ha hayaya… haya…\nNothing is hidden tonight\n\nNo one knows, the wind is playing\nThe moon looks away, and we are everything\n\nHaya… ha haya… haya…\nCome with me into the summer night\nHaya… ha hayaya… hayа…\nNothing iѕ hidden tonight"
+    }
+  ],
+  "bpm": 172,
+  "tone": "G minor",
+  "artistPeople": [
+    "Christine Guldbrandsen"
+  ],
+  "backings": [
+    "Åshild Kristin Stensrud",
+    "Jorunn Hauge",
+    "Karianne Kjærnes",
+    "Liv Merete Kroken",
+    "Sigrid Moldestad"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Atle Halstensen",
+    "Kjetil Fluge"
+  ],
+  "broadcaster": "NRK",
+  "commentators": [
+    "Jostein Pedersen"
+  ],
+  "jury": null,
+  "spokesperson": "Ingvild Helljesen"
+}

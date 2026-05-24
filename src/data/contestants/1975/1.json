@@ -1,0 +1,45 @@
+{
+  "id": 1,
+  "country": "GB",
+  "artist": "The Shadows",
+  "song": "Let Me Be the One",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/aWHZhyhGBF0",
+    "https://www.youtube-nocookie.com/embed/F_CX_YOAjeg",
+    "https://www.youtube-nocookie.com/embed/59RvRrA4Hf0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Let Me Be the One",
+      "content": "Tonight (Tonight)\nTonight (Tonight)\nTonight (Tonight)\nTonight\n\nLet me be the one who's lovin' you tonight\nLet me be the one who really holds you tight\nI'll even bring along a magic moon\nJust to make you feel all right\nSo let me be the one who's lovin' you tonight\n\nLet me be the one who takes you by the hand\n(Let me be the one)\nLet me be the one who always understands\n(Let me be the one)\nEverybody knows we've been good friends\nBut I think the time is right\nSo let me be the one who's lovin' you tonight\n\nYou and I could have an affair\n(All you gotta do is…)\nMake sweet music, go anywhere\nBuilding highways taking us there\nAs long as I know you really care\nWon't you show me you care?\n\nOh… come on\nLet me be the one who's lovin' you tonight\nLet me be the one who really holds you tight\nI'll even bring along a magic moon\nJust to make you feel all right\nSo let me be the one who's lovin' you tonight\n\nDoo doo doo doo…\nWon't you show me you care?\n\nOh… come on\nLet me be the one who takes you by the hand\nLet me be the one who always understаnds\nEverybody knows we've been good friends\nBut I think the time is right\nSo let me be the one who's lovin' you tonight\n\nLet me be the one who'ѕ lovin' you\nTonight (Tonight)\nTonight (Tonight)\nTonight (Tonight)\nTonight"
+    }
+  ],
+  "bpm": 87,
+  "tone": "C major",
+  "artistPeople": [
+    "Brian Bennett",
+    "Bruce Welch",
+    "Brian Robson Rankin",
+    "John Evans"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Alyn Ainsworth",
+  "lyricists": null,
+  "writers": [
+    "Paul Curtis"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Pete Murray"
+  ],
+  "jury": null,
+  "spokesperson": "Ray Moore"
+}

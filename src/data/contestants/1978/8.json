@@ -1,0 +1,58 @@
+{
+  "id": 8,
+  "country": "ES",
+  "artist": "José Vélez",
+  "song": "Bailemos un vals",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-NC7WTTgwxM",
+    "https://www.youtube-nocookie.com/embed/aF51zK6NDjY",
+    "https://www.youtube-nocookie.com/embed/EfMypa08-WQ",
+    "https://www.youtube-nocookie.com/embed/ynOzhIuUN-o"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish",
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Bailemos un vals",
+      "content": "Oh Michèle, ¿dónde estás?\nYo no sé si tú recordarás\nEl verano que juntos pasamos los dos\nY que nunca podré yo olvidar\n\nOh Michèle, te perdí\nNunca más he sabido de ti\nSólo espero que un día regreses a mi\nY de nuevo te pueda pedir\n\nVoulez-vous danser avec moi? \n¿Quieres que bailemos un vals?\nNana nana nay na nana...\nNana nana nay na nana...\n\nVoulez-vous danser avec moi? \n¿Quieres que bailemos un vals?\nNana nana nay na nana...\nBailemos un vals\n\nOh Michèle, ¿dónde estás?\nYo no sé si tú recordarás\nEl verano que juntos pasamos los dos\nY que nunca podré yo olvidar\n\nOh Michèle, te perdí\nNunca más he sabido de ti\nSólo espero que un día regreses a mi\nY de nuevo te pueda pedir\n\nVoulez-vous danser avec moi? \n¿Quieres que bailemos un vals?\nNana nana nay na nana...\nNana nana nay na nana...\n\nVoulez-vous danser avec moi? \n¿Quieres que bailemos un vals?\nNana nana nay na nana...\nBailemos un vals\n(Bailemos un vals)\n\nVoulez-vous danser avec moi? \n¿Quieres que bailemos un vals?\nNana nana nay na nana...\nNana nana nay na nana...\n\nVoulez-vous danser avec moi? \n¿Quieres que bailemos un vals?\nNana nana nay na nana...\nBailemos un vals\n(Bailemos un vals)\nBailemos un valѕ\nAh ha hа..."
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Let's dance a waltz",
+      "content": "Oh Michèle, where are you?\nI don't know if you remember\nThe summer we spent together\nAnd which I could never forget\n\nOh Michèle, I lost you\nI've never heard something from you\nI just hope that you'll come to me one day\nSo I can ask you again\n\nDo you want to dance with me? \nDo you want to dance a waltz?\nNana nana nai na nana...\nNana nana nai na nana...\n\nDo you want to dance with me? \nDo you want to dance a waltz?\nNana nana nai na nana...\nLet's dance a waltz\n\nOh Michèle, where are you?\nI don't know if you remember\nThe summer we spent together\nAnd which I could never forget\n\nOh Michèle, I lost you\nI've never heard something from you\nI just hope that you'll come to me one day\nSo I can ask you again\n\nDo you want to dance with me? \nDo you want to dance a waltz?\nNana nana nai na nana...\nNana nana nai na nana...\n\nDo you want to dance with me? \nDo you want to dance a waltz?\nNana nana nai na nana...\nLet's dance a waltz\n(Let's dance a waltz)\n\nDo you want to dance with me? \nDo you want to dance a waltz?\nNana nana nai na nana...\nNana nana nai na nana...\n\nDo you want to dance with me? \nDo you want to dance a waltz?\nNana nana nai na nana...\nLet's dance a waltz\n(Let's dance a waltz)\nLet'ѕ dance a waltz\nAh ha hа..."
+    }
+  ],
+  "bpm": 105,
+  "tone": "C major",
+  "artistPeople": [
+    "José Vélez"
+  ],
+  "backings": [
+    "María Dolores Arenas",
+    "María Jesús Aguirre",
+    "Mercedes Valimaña"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Ramón Arcusa",
+  "lyricists": null,
+  "writers": [
+    "Manuel de la Calva",
+    "Ramón Arcusa"
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "Miguel de los Santos"
+  ],
+  "jury": null,
+  "spokesperson": "Matías Prats Luque"
+}

@@ -1,0 +1,54 @@
+{
+  "id": 9,
+  "country": "MC",
+  "artist": "Dominique Dussault",
+  "song": "Marlène",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/UUfQ6k6KP_E",
+    "https://www.youtube-nocookie.com/embed/gZX9s6fZBj8",
+    "https://www.youtube-nocookie.com/embed/abhytVPJd6U"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Marlène",
+      "content": "Une voix grave et nostalgique\nDans mon cœur chante une musique\nMusique anachronique\nAvec elle, je reviens toujours\nÀ l'époque du soixant dix-huit tours\nRayé et oublié\n\nC'était toi qui charmais, Marlène\nQui troublais, Marlène, c'était toi\nTu n'étais pas pour moi la reine des écrans, Marlène\nMais l'Ange Bleu qu'on n'oubliera jamais\n\nDe longs doigts, un fum' cigarette\nUn regard qui n'en finissait pas\nSait pas, sait pas ses bas\nSes bas noirs en Cinérama\nUne silhouette en sexyrama, Marlène\nOui, c'est bien toi\n\nTu souris et je suis Marlène\nLes gens crient: \"Marlène!\" – c'est pour moi\nJe rêve d'un escalier de scène comme toi, Marlène\nQue je descends langoureusement\n\nUn mètre cinquante avec mes talons\nDes cheveux frisés comme un mouton\nOh, quelle désillusion\nJe voulais tant lui ressembler\nVous ensorceler, vous 'Marlèniser'\nL'Ange Bleu, pour moi c'est raté\n\nSie sagte: \"Die Liebe, das ist mein Leben\"\n\"Nur auf die bin ich eingestellt\"\nNon, non, je ne peux pas\n\"You take me, take me in the sky\"\n\"You make me crazy in my mind\"\nJamais je ne pourrai...\n\"I want you, I love you, darling\"\n\"I've got you\"\nJe ne pourrai jamais, jamaiѕ chanter comme çа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Marlene",
+      "content": "A low and nostalgic voice\nIn my heart sings music\nOld-fashioned music\nWith that, I always return\nTo the time of the seventy-eight record\nScratched and forgotten\n\nIt was you who charmed, Marlene\nWho overwhelmed, Marlene, it was you\nYou weren't the queen of the screen to me, Marlene\nBut the Blue Angel that will never be forgotten\n\nLong fingers, a lit cigarette\nA glance that never ended\nDoesn't know, doesn't know its end\nIts black end in Cinerama\nA silhouette in sexyrama, Marlene\nYes, it's you\n\nYou smile and I'm Marlene\nPeople shout: \"Marlene!\" – it's for me\nI dream of a stairway on the scene like you, Marlène\nThat I descend languorously\n\nOne metre fifty with my heels\nCurly hair like a sheep\nOh, what a disillusion\nI wanted to resemble her so much\nTo bewitch you, to 'Marlenise' you\nThe Blue Angel, for me it failed\n\nShe said:  \"Love, that's my life\"\n\"I'm only fond of that\"\nNo, no, I can't\n\"You take me, take me in the sky\"\n\"You make me crazy in my mind\"\nI could never...\n\"I want you, I love you, darling\"\n\"I've got you\"\nI could never, never ѕing like thаt"
+    }
+  ],
+  "bpm": 142,
+  "tone": "C# minor",
+  "artistPeople": [
+    "Dominique Dussault"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Eddie Barclay",
+    "Jimmy Walter"
+  ],
+  "conductor": "Jimmy Walter",
+  "lyricists": [
+    "Henri Djian"
+  ],
+  "writers": null,
+  "broadcaster": "TMC",
+  "commentators": [
+    "Pierre Tchernia"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

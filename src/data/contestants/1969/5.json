@@ -1,0 +1,55 @@
+{
+  "id": 5,
+  "country": "MC",
+  "artist": "Jean-Jacques",
+  "song": "Maman, Maman",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Fa4RWu5h_00",
+    "https://www.youtube-nocookie.com/embed/sIm0vYp1Xi0",
+    "https://www.youtube-nocookie.com/embed/P1u0tuwa164",
+    "https://www.youtube-nocookie.com/embed/SleEYhsobwA",
+    "https://www.youtube-nocookie.com/embed/6G4yMvomGAw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Maman, Maman",
+      "content": "Maman, maman, j'ai fait un rêve merveilleux\nMaman, maman, et que j'étais devenu grand\n\nJe marchais au pas, casque, fusil et sac au dos\nDans la lumière d'un matin, le soleil brillait tout là-haut\nIl me suivait comme un copain\n\nMaman, maman, j'ai fait un rêve merveilleux\nMaman, maman, nous étions partis tous les deux\n\nSur un grand bateau, tout blanc, flottait pavillon haut\nEt moi j'étais le commandant, parti pour les îles du vent\nTu étais fière de moi, maman\n\nMaman, maman, j'ai fait un rêve merveilleux\n\nMais soudain tout s'arrête de mon rêve d'enfant\nEt je vois apparaître la vraie vie des grands\nJ'ai le temps, j'ai le temps\n\nMaman, maman, j'ai fait un rêve malheureux\nMaman, maman, je te voyais les cheveux blancs\n\nJe veux oublier le soldat et le grand bateau\nAuprès de toi je veux rester et que Dieu te garde longtemps\nToi, la plus belle des mamans\n\nMaman, maman, je veux rester encore enfant\nGarde-moi près de toi, maman\nGarde-moi prèѕ de toi, mamаn"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Mum, Mum",
+      "content": "Mum, Mum, I had a marvelous dream\nMum, Mum, and I've grown up\n\nI marched in step, helmet, rifle and backpack\nIn the light of a morning, the sun shone high\nIt followed me like a friend\n\nMum, Mum, I had a marvelous dream\nMum, Mum, we both left\n\nOn a great ship, all white, a flag floating high\nAnd I was the commander, left for the islands of the wind\nYou were proud of me, Mum\n\nMum, Mum, I had a marvelous dream\n\nBut suddenly my childhood dream stops\nAnd I see appearing the real adult life\nI have time, I have time\n\nMum, Mum, I had a bad dream\nMum, Mum, I saw your white hair\n\nI want to forget the soldier and the big ship\nI want to stay near you and may God save you for a long time\nYou, the most beautiful of all mums\n\nMum, Mum, I still want to be а child\nHold me close to you, Mum\nHold me cloѕe to you, Mum"
+    }
+  ],
+  "bpm": 139,
+  "tone": "C minor",
+  "artistPeople": [
+    "Jean-Jacques Bertolai"
+  ],
+  "backings": [
+    "Achille Pellegrini"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Hervé Roy",
+  "lyricists": null,
+  "writers": [
+    "Jo Perrier"
+  ],
+  "broadcaster": "TMC",
+  "commentators": [
+    "Pierre Tchernia"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

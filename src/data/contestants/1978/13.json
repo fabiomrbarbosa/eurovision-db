@@ -1,0 +1,65 @@
+{
+  "id": 13,
+  "country": "SE",
+  "artist": "Björn Skifs",
+  "song": "Det blir alltid värre framåt natten",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/RmnxOIbkxXI",
+    "https://www.youtube-nocookie.com/embed/lbBYYiX6g7A",
+    "https://www.youtube-nocookie.com/embed/GNWvccszJKQ",
+    "https://www.youtube-nocookie.com/embed/rPUT2vrDk-4",
+    "https://www.youtube-nocookie.com/embed/1B8cNxeWQ0I"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Det blir alltid värre framåt natten",
+      "content": "Dagarna och kvällarna, då lever jag\nTrivs med mitt jobb, har kompisar att snacka med, det flyter\nSticker ut och tar en öl och hör ett band\nJag dansar väl och mår rätt fint av värmen från nån flicka\n\nDet blir alltid värre framåt natten\nLångt från alla ljusen, alla skratten\nLigger vaken, tänker på dig\nMinns för mycket och är ensam\n\nHittar alltid på någonting, gör vad jag vill\nHar ingen att ta hänsyn till och ingen tid att passa\nGår på bio, spelar squash när jag får lust\nOch käkar sent och dyrt och gott\nHar det rätt bra på kvällen\n\nDet blir alltid värre framåt natten\nLångt från alla ljusen, alla skratten\nLigger vaken, tänker på dig\nMinns för mycket och är ensam\n\nDet blir alltid värre framåt natten\nLångt från alla ljusen, alla skratten\nLigger vaken, tänker på dig\nMinns för mycket och är ensam\n\nDet blir alltid värre framåt natten\nLångt från alla ljusen, alla ѕkratten\nDet blir alltid värre framåt nаtten"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": null,
+      "title": "זה תמיד נעשה גרוע יותר לקראת הלילה",
+      "content": "הימים והערבים, בהם אני חי\nאני אוהב את העבודה שלי, יש לי חברים לדבר איתם, הכול בסדר\nאני יוצא, שותה בירה ומאזין ללהקה\nבטח ארקוד בעודי נהנה מהחום של איזו בחורה\n\nאבל זה תמיד נעשה גרוע יותר לקראת הלילה\nרחוק מכל האורות ומכל הצחוקים\nאני שוכב ער, חושב עלייך\nזוכר יותר מדי, מרגיש בודד\n\nאני תמיד חושב על משהו לעשות, אני עושה כרצוני\nאין לי במי להתחשב ואין לי צורך להיות דייקן\nאני הולך לקולנוע, משחק סקווש כשמתחשק לי\nואני אוכל מאוחר, יקר וטעים\nונהנה למדי בערב\n\nאבל זה תמיד נעשה גרוע יותר לקראת הלילה\nרחוק מכל האורות ומכל הצחוקים\nאני שוכב ער, חושב עלייך\nזוכר יותר מדי, מרגיש בודד\n\nאבל זה תמיד נעשה גרוע יותר לקראת הלילה\nרחוק מכל האורות ומכל הצחוקים\nאני שוכב ער, חושב עלייך\nזוכר יותר מדי, מרגיש בודד\n\nאבל זה תמיד נעשה גרוע יותר לקראת הלילה\nרחוק מכל האורות ומכל הצחוקים\nאבל זה תמיד נעשה גרוע יותר לקראת הלילה"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "It always gets worse towards the night",
+      "content": "The days and the evenings, then I live\nI like my job, I have friends to talk to, it's all right\nI go out and have a beer and listen to a band\nI guess I'll dance, enjoying the warmth of some girl\n\nBut it always gets worse towards the night\nFar away from all the lights and all the laughter\nI lie awake, thinking about you\nRemembering too much, feeling lonely\n\nI always come up with something to do, I do as I please\nI have nobody to take into consideration and no need to be punctual\nI go to the movies, play squash when I feel like it\nAnd I eat late and expensive and tasty\nAnd have a pretty good time in the evening\n\nBut it always gets worse towards the night\nFar away from all the lights and all the laughter\nI lie awake, thinking about you\nRemembering too much, feeling lonely\n\nBut it always gets worse towards the night\nFar away from all the lights and all the laughter\nI lie awake, thinking about you\nRemembering too much, feeling lonely\n\nBut it always gets worse towards the night\nFar away from all the lights and all the laughter\nBut it always gets worse towаrdѕ the night"
+    }
+  ],
+  "bpm": 162,
+  "tone": "F major",
+  "artistPeople": [
+    "Björn Skifs"
+  ],
+  "backings": [
+    "Mikael 'Micke' Rickfors",
+    "Peter Lundblad"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Bengt Palmers",
+  "lyricists": null,
+  "writers": [
+    "Peter Himmelstrand"
+  ],
+  "broadcaster": "SR",
+  "commentators": [
+    "Ulf Elfving"
+  ],
+  "jury": null,
+  "spokesperson": "Sven Lindahl"
+}

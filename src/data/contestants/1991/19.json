@@ -1,0 +1,76 @@
+{
+  "id": 19,
+  "country": "FI",
+  "artist": "Kaija",
+  "song": "Hullu yö",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/a4TUvtjlC_0",
+    "https://www.youtube-nocookie.com/embed/2PxSUbr8Xus",
+    "https://www.youtube-nocookie.com/embed/GxPfTGNubcg",
+    "https://www.youtube-nocookie.com/embed/8ssDZo8FQKE",
+    "https://www.youtube-nocookie.com/embed/2dBjmx7nw8c"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Hullu yö",
+      "content": "En edes halunnut sua omistaa\nEn edes leikisti rakastaa\nKaksi kulkijaa yhteen osuttiin\nYksi yhteinen hetki jaettiin\n\nMinä jäin kun aamu sinut vei\nRauhaa sydän mulle anna ei\nEn irti pääse, sua tarvitsen\nMut turhaa toivon sua vierellein\n\nYksi hullu yö, villi sydän lyö\nMe ehdittiin kai jotain siinä antaa\nYksi hullu yö, villi sydän lyö\nEi haluttukkaan vastuuta kantaa\n\nEnää löydä en sua sylistäin\nSua kosketan vain unissain\nVain unissain\n\nEn edes halunnut sua omistaa\nEn edes leikisti rakastaa\nVain yksi yö niin helppo unohtaa\nMut sydän nälkäinen ei rauhaa saa\n\nYksi hullu yö, villi sydän lyö\nMe ehdittiin kai jotain siinä antaa\nYksi hullu yö, villi sydän lyö\nEi haluttukkaan vastuuta kantaa\n\nEnää löydä en sua sylistäin\nSua kosketan vain unissain\n\nYksi hullu yö, villi sydän lyö\nMe ehdittiin kai jotain siinä antaa\nYksi hullu yö, villi sydän lyö\nEi haluttukkaan vastuuta kantaa, hey…\n\nYksi hullu yö, hey…\n(Yksi hullu yö, villi sydän lyö)\n(Me ehdittiin kai jotain siinä antaa)\nYksi hullu yö, ha…\n(Yksi hullu yö, villi sydän lyö)\n(Ei haluttukkaan vastuuta kantaа)\nYkѕi hullu yö"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Crazy night",
+      "content": "I didn't even want to own you\nI didn't even want to love you\nWe two travellers came across each other\nShared one common moment together\n\nI was left behind when the morning took you away\nMy heart won't give me peace\nI can't let go, I need you\nBut I'm hoping in vain for you to be next to me\n\nOne crazy night, the wild heart is beating\nI suppose we had time to give each other something\nOne crazy night, the wild heart is beating\nWe didn't even want to bear the responsibility\n\nI can't find you in my arms anymore\nI'm touching you only in my sleep\nIn my sleep\n\nI didn't even want to own you\nI didn't even want to love you\nJust one night is so easy to forget\nBut the hungry heart cannot find any peace\n\nOne crazy night, the wild heart is beating\nI suppose we had time to give each other something\nOne crazy night, the wild heart is beating\nWe didn't even want to bear the responsibility\n\nI can't find you in my arms anymore\nI'm touching you only in my sleep\n\nOne crazy night, the wild heart is beating\nI suppose we had time to give each other something\nOne crazy night, the wild heart is beating\nWe didn't even want to bear the responsibility\n\nOne crazy night, hey…\n(One crazy night, the wild heart is beating)\n(I suppose we had time to give each other something)\nOne crazy night, ha…\n(One crazy night, the wild heart is beating)\n(We didn't even want to bear the responѕibility)\nOne crаzy night"
+    }
+  ],
+  "bpm": 127,
+  "tone": "F major",
+  "artistPeople": [
+    "Kaija Hannele Kärkinen"
+  ],
+  "backings": [
+    "Anita Pajunen",
+    "Pemo Ojala",
+    "Pirjo Aittomäki"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ile Kallio"
+  ],
+  "conductor": "Olli Ahvenlahti",
+  "lyricists": [
+    "Jukka Välimaa"
+  ],
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Erkki Pohjanheimo"
+  ],
+  "jury": [
+    "Anna-Mari Kähärä",
+    "Eino Lehtinen",
+    "Harri Antikainen",
+    "Harri Salmi",
+    "Jaana Lindholm",
+    "Johanna Almark",
+    "Jorma Tulonen",
+    "Jussi Saksa",
+    "Kalle Chydenius",
+    "Maisa Kanerva",
+    "Martin Brushane",
+    "Päivi Ahola",
+    "Pauliina Pohjanheimo",
+    "Raimo Henriksson",
+    "Riitta Haapala",
+    "Timo Linnala"
+  ],
+  "spokesperson": "Heidi Kokki"
+}

@@ -1,0 +1,73 @@
+{
+  "id": 19,
+  "country": "GR",
+  "artist": "Thalassa",
+  "song": "Mia krifi evesthisia",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/RJ8UEtgDqQQ",
+    "https://www.youtube-nocookie.com/embed/STNeokuKZxk",
+    "https://www.youtube-nocookie.com/embed/kEhfgfaV9l0",
+    "https://www.youtube-nocookie.com/embed/Y4q7qwPvDdY"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ellinika"
+      ],
+      "title": "Mia krifi evesthisia",
+      "content": "Mia krifi evesthisia\nHtizi tin ikona su\nMe ta loyia ke tis skepsis\nPu ehune to hroma su\nMes ti nihta, mes ti nihta\n\nTo fegari su mayevi t' ahanes tu uranu\nKi oti sothike arhizi mistiko horo sto nu\nMes ti nihta, mes ti nihta\n\nMatea, ki apopse stus parathisus\nTis fandasias mu me t' oniro tha planitho\nOso ki an anastisa to hathi su\nS' ena skotathi su\nPanda tha xepsiho\n\nMia krifi evesthisia\nSozi mia su skia\nTi psihi san Erinia m' ena fovo kiverna\nMes ti nihta, mes ti nihta\n\nMatea, ki apopse stus parathisus\nTis fandasias mu me t' oniro tha planitho\nOso ki an anastisa to hathi su\nS' ena skotathi su\nPanda tha xepsiho\n\nOso ki an anastisa to hathi su\nS' ena skotathi su\nPanda tha xepѕiho\nMateа!"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ελληνικά"
+      ],
+      "title": "Μια κρυφή ευαισθησία",
+      "content": "Μια κρυφή ευαισθησία\nΧτίζει την εικόνα σου\nΜε τα λόγια και τις σκέψεις\nΠου έχουνε το χρώμα σου\nΜες τη νύχτα, μες τη νύχτα\n\nΤο φεγγάρι σου μαγεύει τ' αχανές του ουρανού\nΚι ότι σώθηκε αρχίζει μυστικό χορό στο νου\nΜες τη νύχτα, μες τη νύχτα\n\nΜάταια, κι απόψε στους παράδεισους\nΤης φαντασίας μου με τ' όνειρο θα πλανηθώ\nΌσο κι αν ανάστησα το χάδι σου\nΣ' ένα σκοτάδι σου\nΠάντα θα ξεψυχώ\n\nΜια κρυφή ευαισθησία\nΣώζει μία σου σκιά\nΤην ψυχή σαν Ερινύα μ' ένα φόβο κυβερνά\nΜες τη νύχτα, μες τη νύχτα\n\nΜάταια, κι απόψε στους παράδεισους\nΤης φαντασίας μου με τ' όνειρο θα πλανηθώ\nΌσο κι αν ανάστησα το χάδι σου\nΣ' ένα σκοτάδι σου\nΠάντα θα ξεψυχώ\n\nΌσο κι αν ανάστησα το χάδι σου\nΣ' ένα σκοτάδι σου\nΠάντα θα ξεψυχώ\nΜάταια!"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "A secret sensitivity",
+      "content": "A secret sensitivity\nBuilds your picture\nWith the words and the thoughts\nWhich have your colour\nIn the night, in the night\n\nThe moon makes magic to the sky\nAnd what is left begins a secret dance in the mind\nIn the night, in the night\n\nTonight, in vain I am going to walk\nIn the roads of your imagination\nEven if I wake up from your touch\nIn the darkness of your soul\nI'm always going to die\n\nA secret sensitivity\nSaves your shadow\nMy soul is ruled by this\nIn the night, in the night\n\nTonight, in vain I am going to walk\nIn the roads of your imagination\nEven if I wake up from your touch\nIn the darkness of your soul\nI'm always going to die\n\nEven if I wake up from your touch\nIn the darkness of your soul\nI'm alwayѕ going to die\nIn vаin"
+    }
+  ],
+  "bpm": 133,
+  "tone": "C# minor",
+  "artistPeople": [
+    "Dionyssia Karoki Georgopoulou",
+    "Yiannis Valvis"
+  ],
+  "backings": [
+    "Dimitra Meteveli",
+    "Elsa Afentaki",
+    "Iakovos Misrachi",
+    "Manos Manouselis"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Yiannis Valvis"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Yiannis Malachias"
+  ],
+  "writers": null,
+  "broadcaster": "ERT",
+  "commentators": [
+    "Giorgos Mitropoulos"
+  ],
+  "jury": null,
+  "spokesperson": "Alexis Kostalas"
+}

@@ -1,0 +1,44 @@
+{
+  "id": 5,
+  "country": "IE",
+  "artist": "Maria Christian",
+  "song": "Wait Until the Weekend Comes",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/2R5N-eh4n5I",
+    "https://www.youtube-nocookie.com/embed/xv-31TLGAEQ",
+    "https://www.youtube-nocookie.com/embed/4CrqYw1Aqc4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Wait Until the Weekend Comes",
+      "content": "Wait until the weekend comes\nThen we'll have what time it takes\nTo sort it out\nTo see it through\n\nWait until the weekend comes\nSundays always change your mind\nAnd make you laugh about me and you\n\nHold me now\nReally don't want you to go\nReally don't want you to go\nAnd I'm so afraid\n\nHold me now\nReally don't want you to know\nReally don't want you to know\nThat I'm so afraid\n\nWait until the summer comes\nSunshine looks so good on you\nWe'll catch the tide and start anew\n\nHold me now\nReally don't want you to go\nReally don't want you to go\nAnd I'm so afraid\n\nHold me now\nReally don't want you to know\nReally don't want you to know\nThat I'm so afraid\n\nWait until the rainbow ends\nThen we'll find our pot of gold\nLovers, friends, just growin' old\n\nSo wait until the weekend comes and goes\nWait until the weekend comes аnd goeѕ"
+    }
+  ],
+  "bpm": 120,
+  "tone": "G minor",
+  "artistPeople": [
+    "Maria Christian"
+  ],
+  "backings": [
+    "Pat Reilly"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Noel Kelehan",
+  "lyricists": null,
+  "writers": [
+    "Brendan J. Graham"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Linda Martin"
+  ],
+  "jury": null,
+  "spokesperson": "John Skehan"
+}

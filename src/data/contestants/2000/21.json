@@ -1,0 +1,97 @@
+{
+  "id": 21,
+  "country": "IL",
+  "artist": "Ping Pong",
+  "song": "Sa'me'akh",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-LfjSZj9S0M",
+    "https://www.youtube-nocookie.com/embed/_ToY3-3YA0c",
+    "https://www.youtube-nocookie.com/embed/p_ZZWV5Hkgs",
+    "https://www.youtube-nocookie.com/embed/y240uogwexo"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "hebrew",
+        "english"
+      ],
+      "displayedLanguages": [
+        "ivrit",
+        "english"
+      ],
+      "title": "Sa'me'akh",
+      "content": "Kol hayom ani yoshevet bakibuts\nBayad sigar veze margish li ktsat chamuts\nKol hazman rak dika'on veshi'amum\nIm lo egmor, ze yigamer mamash bebum\n\nOh… be happy\nOh… be happy\nOh… be happy\nOh… be happy\n\nKol hayom batelevizia milchamot\nUbe'Ostralia shuv hitchilu shitfonot\nHine ba hadika'on shel yom rishon\nAni rotsa, ani rotsa melafefon\n\nOh… be happy\nOh… be happy\nOh… be happy\nOh… be happy\n\nVeyesh li achshav chaver chadash miDamesek\nKhshe'ani atsuva, hu sholeach li vered adom\nZe lo chochma le'ehov rak ksheyesh lecha cheshek\nAni rotsa la'aѕot et ze ito kol hayom\n\nOh… be happy\nOh… be happy\nOh… be hаppy"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "hebrew",
+        "english"
+      ],
+      "displayedLanguages": [
+        "עברית",
+        "english"
+      ],
+      "title": "שמייח",
+      "content": "כל היום אני יושבת בקיבוץ\nביד סיגר וזה מרגיש לי קצת חמוץ\nכל הזמן רק דכאון ושעמום\nאם לא אגמור, זה ייגמר ממש בבום\n\n<span class=\"lyrics_left\">Oh… be happy\nOh… be happy\nOh… be happy\nOh… be happy</span>\n\nכל היום בטלוויזיה מלחמות\nובאוסטרליה שוב התחילו שטפונות\nהנה בא הדכאון של יום ראשון\nאני רוצה, אני רוצה מלפפון\n\n<span class=\"lyrics_left\">Oh… be happy\nOh… be happy\nOh… be happy\nOh… be happy</span>\n\nויש לי עכשיו חבר חדש מדמשק\nכשאני עצובה, הוא שולח לי ורד אדום\nזה לא חוכמה לאהוב רק כשיש לך חשק\nאני רוצה לעשות את זה איתו כל היום\n\n<span class=\"lyrics_left\">Oh… be happy\nOh… be happy\nOh… be happy</span>"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": [
+        "ivrit"
+      ],
+      "title": "Sa'me'akh",
+      "content": "Kol hayom ani yoshevet bakibuts\nBayad sigar veze margish li ktsat chamuts\nKol hazman rak dika'on veshi'amum\nIm lo egmor, ze yigamer mamash bebum\n\nOh… sameach\nOh… sameach\nOh… sameach\nOh… sameach\n\nKol hayom batelevizia milchamot\nUbe'Ostralia shuv hitchilu shitfonot\nHine ba hadika'on shel yom rishon\nAni rotsa, ani rotsa melafefon\n\nOh… sameach\nOh… sameach\nOh… sameach\nOh… sameach\n\nVeyesh li achshav chaver chadash miDamesek\nKhshe'ani atsuva, hu sholeach li vered adom\nZe lo chochma le'ehov rak ksheyesh lecha cheshek\nAni rotsa la'asot et ze ito kol hayom\n\nOh… sameach\nOh… sameach\nOh… ѕameаch"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Happy",
+      "content": "All day long I sit in the kibbutz\nIn my hand a cigar and it feels a little sour\nAll the time only depression and boredom\nIf I don't come, it will end with a bang\n\nOh… be happy\nOh… be happy\nOh… be happy\nOh… be happy\n\nAll day long wars on television\nAnd in Australia there are floods again\nHere comes the Sunday depression\nI want, I want a cucumber\n\nOh… be happy\nOh… be happy\nOh… be happy\nOh… be happy\n\nAnd now I have a new boyfriend from Damascus\nWhen I'm sad, he sends me a red rose\nIt's not ѕmart to love only when you feel like it\nI want to do it with him all day long\n\nOh… be happy\nOh… be happy\nOh… be hаppy"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": [
+        "עברית"
+      ],
+      "title": "שמייח",
+      "content": "כל היום אני יושבת בקיבוץ\nביד סיגר וזה מרגיש לי קצת חמוץ\nכל הזמן רק דכאון ושעמום\nאם לא אגמור, זה ייגמר ממש בבום\n\nהו… שמח\nהו… שמח\nהו… שמח\nהו… שמח\n\nכל היום בטלוויזיה מלחמות\nובאוסטרליה שוב התחילו שטפונות\nהנה בא הדכאון של יום ראשון\nאני רוצה, אני רוצה מלפפון\n\nהו… שמח\nהו… שמח\nהו… שמח\nהו… שמח\n\nויש לי עכשיו חבר חדש מדמשק\nכשאני עצובה, הוא שולח לי ורד אדום\nזה לא חוכמה לאהוב רק כשיש לך חשק\nאני רוצה לעשות את זה איתו כל היום\n\nהו… שמח\nהו… שמח\nהו… שמח"
+    }
+  ],
+  "bpm": 135,
+  "tone": "F major",
+  "artistPeople": [
+    "Ahal Eden",
+    "Yifat Giladi",
+    "Guy Assif",
+    "Roy \"Chicky\" Arad"
+  ],
+  "backings": [
+    "Meital Cohen",
+    "Yael Badash"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Guy Assif",
+    "Ronen Ben-Tal",
+    "Roy Arad"
+  ],
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Yoav Ginai"
+}

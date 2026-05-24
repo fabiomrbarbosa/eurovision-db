@@ -44,7 +44,7 @@ const countryList = Object.entries(statsMap)
 		<header class="page-header">
 			<h1>Countries</h1>
 			<p class="muted">
-				{countryList.length} countries have participated in the Senior contest
+				{countryList.length} countries have participated in the Eurovision Song Contest
 			</p>
 		</header>
 
@@ -60,7 +60,12 @@ const countryList = Object.entries(statsMap)
 			<tbody>
 				{
 					countryList.map((c) => (
-						<tr data-name={c.name} data-wins={c.wins} data-appearances={c.appearances} data-last={c.lastYear}>
+						<tr
+							data-name={c.name}
+							data-wins={c.wins}
+							data-appearances={c.appearances}
+							data-last={c.lastYear}
+						>
 							<td>
 								<a href={`/country/${c.code}`} class="country-link">
 									<img class="flag" src={countryFlagUrl(c.code)} alt="" />
@@ -141,52 +146,71 @@ const countryList = Object.entries(statsMap)
 		user-select: none;
 		white-space: nowrap;
 	}
-	.countries-table th[data-sort]:hover { color: var(--c-text); }
-	.countries-table th.th-sorted { color: var(--c-gold); }
-	.countries-table th.th-sorted::after { content: ' ↑'; }
-	.countries-table th.th-sorted.th-sorted-desc::after { content: ' ↓'; }
+	.countries-table th[data-sort]:hover {
+		color: var(--c-text);
+	}
+	.countries-table th.th-sorted {
+		color: var(--c-gold);
+	}
+	.countries-table th.th-sorted::after {
+		content: " ↑";
+	}
+	.countries-table th.th-sorted.th-sorted-desc::after {
+		content: " ↓";
+	}
 </style>
 
 <script>
-  const table = document.querySelector('.countries-table') as HTMLTableElement | null;
-  if (table) {
-    const tbody = table.querySelector('tbody') as HTMLTableSectionElement;
-    let col = 'name', dir = 'asc';
-    const numCols = new Set(['wins', 'appearances', 'last']);
-    const defaults: Record<string, string> = { name: 'asc', wins: 'desc', appearances: 'desc', last: 'desc' };
+	const table = document.querySelector(
+		".countries-table",
+	) as HTMLTableElement | null;
+	if (table) {
+		const tbody = table.querySelector("tbody") as HTMLTableSectionElement;
+		let col = "name",
+			dir = "asc";
+		const numCols = new Set(["wins", "appearances", "last"]);
+		const defaults: Record<string, string> = {
+			name: "asc",
+			wins: "desc",
+			appearances: "desc",
+			last: "desc",
+		};
 
-    function refresh() {
-      table!.querySelectorAll('th[data-sort]').forEach(el => {
-        const th = el as HTMLElement;
-        const key = th.dataset.sort;
-        th.classList.toggle('th-sorted', key === col);
-        th.classList.toggle('th-sorted-desc', key === col && dir === 'desc');
-      });
-    }
+		function refresh() {
+			table!.querySelectorAll("th[data-sort]").forEach((el) => {
+				const th = el as HTMLElement;
+				const key = th.dataset.sort;
+				th.classList.toggle("th-sorted", key === col);
+				th.classList.toggle("th-sorted-desc", key === col && dir === "desc");
+			});
+		}
 
-    function sort() {
-      const rows = [...tbody.querySelectorAll('tr')] as HTMLElement[];
-      rows.sort((a, b) => {
-        const av = a.dataset[col] ?? '';
-        const bv = b.dataset[col] ?? '';
-        const raw = numCols.has(col)
-          ? Number(av) - Number(bv)
-          : av.localeCompare(bv);
-        return dir === 'asc' ? raw : -raw;
-      });
-      rows.forEach(r => tbody.appendChild(r));
-      refresh();
-    }
+		function sort() {
+			const rows = [...tbody.querySelectorAll("tr")] as HTMLElement[];
+			rows.sort((a, b) => {
+				const av = a.dataset[col] ?? "";
+				const bv = b.dataset[col] ?? "";
+				const raw = numCols.has(col)
+					? Number(av) - Number(bv)
+					: av.localeCompare(bv);
+				return dir === "asc" ? raw : -raw;
+			});
+			rows.forEach((r) => tbody.appendChild(r));
+			refresh();
+		}
 
-    table.querySelectorAll('th[data-sort]').forEach(el =>
-      el.addEventListener('click', () => {
-        const next = (el as HTMLElement).dataset.sort ?? '';
-        if (col === next) dir = dir === 'asc' ? 'desc' : 'asc';
-        else { col = next; dir = defaults[next] ?? 'asc'; }
-        sort();
-      })
-    );
+		table.querySelectorAll("th[data-sort]").forEach((el) =>
+			el.addEventListener("click", () => {
+				const next = (el as HTMLElement).dataset.sort ?? "";
+				if (col === next) dir = dir === "asc" ? "desc" : "asc";
+				else {
+					col = next;
+					dir = defaults[next] ?? "asc";
+				}
+				sort();
+			}),
+		);
 
-    refresh(); // show initial indicator without re-sorting
-  }
+		refresh(); // show initial indicator without re-sorting
+	}
 </script>

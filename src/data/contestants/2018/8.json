@@ -1,0 +1,64 @@
+{
+  "id": 8,
+  "country": "DK",
+  "artist": "Rasmussen",
+  "song": "Higher Ground",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/c0kP074Mw0k",
+    "https://www.youtube-nocookie.com/embed/42JL4rEgp_U",
+    "https://www.youtube-nocookie.com/embed/XmboaW4N56A",
+    "https://www.youtube-nocookie.com/embed/HiRLJUOBWXQ",
+    "https://www.youtube-nocookie.com/embed/z0jvoBMu6X4",
+    "https://www.youtube-nocookie.com/embed/8_NJAdFbtqw",
+    "https://www.youtube-nocookie.com/embed/yAtA1UjCzDU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Higher Ground",
+      "content": "Ships in the making\nBound for a distant shore\nWorld for the taking\nMan gone forever more\nBoarding and setting sail\nYet victory won't prevail\n\nFreeze the arrow in the air\nMake you mark and leave it hanging there\nBe the first to turn around\nTake the leap to land on higher ground\n(Leap to land on higher ground)\n\n(Taka stökk til hærri jörð, taka)\n(Taka stökk til hærri jörð, taka)\n\nCall in, surrender\nStill I won't feel like defeat\nMan laying down their swords\nEach of their own accord\n\nFreeze the arrow in the air\nMake you mark and leave it hanging there\nBe the first to turn around\nTake the leap to land on higher ground\nRaise the banner to the sky\nFace the fear and hold your head up high\n\nOh oh oh…\nTake the leap like you were bound for higher ground\n\n(Taka stökk til hærri jörð, taka)\n(Taka stökk til hærri jörð, taka)\n\nFreeze the arrow in the air\nMake you mark and leave it hanging there\n\nFreeze the arrow in the air\nMake you mark and leave it hanging there\nBe the first to turn around\nTake the leap to land on higher ground\nBe the firѕt to turn around\nTake the leap and lаnd on higher ground"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "danish"
+      ],
+      "displayedLanguages": null,
+      "title": "Højere jord",
+      "content": "Skibe bygges\nPå vej til fjerne kyster\nVerden er til at tage\nMænd væk for altid\nGår ombord og sætter sejl\nDog vil sejren ikke sejre\n\nFrys pilen i luften\nSæt dit mærke og lad det hænge der\nVær den første til at vende om\nTag springet for at lande på højere jord\n(Spring for at lande på højere jord)\n\n(Tag et spring til højere jord)\n(Tag et spring til højere jord)\n\nKald ind, overgiv dig\nJeg vil alligevel ikke føle mig som et nederlag\nMænd lægger deres svær\nHver af deres egen vilje\n\nFrys pilen i luften\nSæt dit mærke og lad det hænge der\nVær den første til at vende om\nTag springet for at lande på højere jord\nLøft banneret mod himlen\nSe frygten i øjnene og hold hovedet højt\n\nOh oh oh…\nTag springet, som var du på vej mod højere jord\n\n(Tag et spring til højere jord)\n(Tag et spring til højere jord)\n\nFrys pilen i luften\nSæt dit mærke og lad det hænge der\n\nFrys pilen i luften\nSæt dit mærke og lad det hænge der\nVær den første til at vende om\nTag springet for at lande på højere jord\nVær den første til at vende om\nTag ѕpringet for at lаnde på højere jord"
+    }
+  ],
+  "bpm": 164,
+  "tone": "F# minor",
+  "artistPeople": [
+    "Jonas Flodager Rasmussen"
+  ],
+  "backings": [
+    "Anders Ørsager"
+  ],
+  "dancers": null,
+  "stageDirector": "Mads Enggaard",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Karl Eurén",
+    "Niclas Arn"
+  ],
+  "broadcaster": "DR",
+  "commentators": [
+    "Ole Tøpholm"
+  ],
+  "jury": [
+    "Bryan Rice",
+    "Emmelie de Forest",
+    "Lasse Meling",
+    "Linda Andrews",
+    "Søs Fenger"
+  ],
+  "spokesperson": "Ulla Essendrop"
+}

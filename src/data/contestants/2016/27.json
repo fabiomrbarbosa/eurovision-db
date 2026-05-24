@@ -1,0 +1,79 @@
+{
+  "id": 27,
+  "country": "MK",
+  "artist": "Kaliopi",
+  "song": "Dona",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/uIIzwFoE6ME",
+    "https://www.youtube-nocookie.com/embed/fd8WHhNWp4c",
+    "https://www.youtube-nocookie.com/embed/l8T5z22VjJ0",
+    "https://www.youtube-nocookie.com/embed/iQGl6R1lS-g"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "macedonian"
+      ],
+      "displayedLanguages": [
+        "македонски"
+      ],
+      "title": "Дона",
+      "content": "Од сите малечки нешта\nОва најмногу вреди\nОд сите големи мисли\nОд цел мој свет\nИ кога назад се вртам\nти си стално тука\nКако скриена сенка\nтивок божји цвет\n\nЗа сѐ што ти си ми дала\nОд срце ти фала\nЗа сето минато време\n\nДона, Дона, Дона, Дона, Дона\nДона, гледај ме\nИ насмеј се \nЗа мене\nДона, Дона, Дона, Дона, Дона\nМоја сила, светлост, сјај\nМе правиш силна знај, О Дона\nВерувај\nВо мене верувај\n\nОд сите малечки нешта \nОва најмногу вреди\nОд сите големи мисли\nОд цел мој свет\nЗнам кому припаѓам \nИ каде тоа радост ме чека\nОдам до облаци мали\nна бисерни скали\n\nЗа сѐ што ти си ми дала\nОд срце ти фала\nЗа сето минато време\n\nДона, Дона, Дона, Дона, Дона\nДона, гледај ме\nИ насмеј се \nЗа мене\nДона, Дона, Дона, Дона, Дона\nМоја сила, светлост, сјај\nМе правиш силна знај, О Дона\nВерувај\nВо мене верувај\n\nДона, Дона, Дона, Дона, Дона\nВо мене верувај"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "macedonian"
+      ],
+      "displayedLanguages": [
+        "makedonski"
+      ],
+      "title": "Dona",
+      "content": "Od site malečki nešta \nOva najmnogu vredi\nOd site golemi misli\nOd cel moj svet\nI koga nazad se vrtam\nTi si stalno tuka\nKako skriena senka\nTivok božji cvet\n\nZa sé što ti si mi dala\nOd srce ti fala\nZa seto minato vreme\n\nDona, Dona, Dona, Dona, Dona\nDona gledaj me\nI nasmej se\nZa mene\nDona, Dona, Dona, Dona \nMoja sila, svetlost, sjaj \nMe praviš silna znaj, o Dona\nVeruvaj\nVo mene veruvaj\n\nOd site malečki nešta\nOva najmnogu vredi \nOd site golemi misli\nOd cel moj svet\nZnam komu pripagjam \nI kade toa radost me čeka\nOdam do oblaci mali \nNa biserni skali\n\nZa sé što ti si mi dala\nOd srce ti fala\nZa seto minato vreme\n\nDona, Dona, Dona, Dona, Dona\nDona gledaj me\nI nasmej se\nZa mene\nDona, Dona, Dona, Dona \nMoja sila, svetlost, sjaj \nMe praviš ѕilna znaj, o Dona\nVeruvaj\nVo mene veruvaj\n\nDona, Dona, Dona, Dona, Dona\nVo mene veruvаj"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Dona",
+      "content": "From all the small things\nthis one is the most worthy\nfrom all the great thoughts\nfrom my entire world.\nAnd when I turn back \nyou are always there\nas a hidden shadow \nsilent God`s flower.\n\nFor all the things that you gave me\nfrom my heart I thank you\nfor the entire passed time\n\nDona, Dona, Dona, Dona, Dona\nLook at me\nand smile\nfor me\nDona, Dona, Dona, Dona\nmy force, light, glow\nyou make me strong, you know, o Dona,\nbelieve \nBelieve in me\n\nFrom all the small things \nthis is the most worthy\nfrom all the great thoughts \nfrom my entire world\nI know whom I belong to\nand where joy awaits me\non small clouds I walk\non pearl stairs\n\nFor all the things that you gave me\nfrom my heart I thank you\nfor the entire passed time\n\nDona, Dona, Dona, Dona, Dona\nLook at me\nand smile\nfor me\nDona, Dona, Dona, Dona\nmy force, light, glow\nyou make me ѕtrong, you know, o Dona,\nbelieve \nBelieve in me\n\nDona, Dona, Dona, Dona, Donа\nBelieve in me"
+    }
+  ],
+  "bpm": 132,
+  "tone": "G major",
+  "artistPeople": [
+    "Kaliopi Bukle (Калиопи Букле)"
+  ],
+  "backings": [
+    "Goran Mihajlovski",
+    "Julija Karamitrova-Ognenoska",
+    "Kalina Velkovska",
+    "Maja Sazdanovska",
+    "Marija Naumovska"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Romeo Grill"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Kaliopi"
+  ],
+  "writers": null,
+  "broadcaster": "MKRTV",
+  "commentators": [
+    "Karolina Petkovska"
+  ],
+  "jury": [
+    "Aleksandar Ristovski",
+    "Goran Naumovski",
+    "Miyatta",
+    "Nade Talevska",
+    "Vanco Dimitrov"
+  ],
+  "spokesperson": "Dijana Gogova"
+}

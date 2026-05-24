@@ -1,0 +1,51 @@
+{
+  "id": 7,
+  "country": "ES",
+  "artist": "Raphael",
+  "song": "Yo soy aquél",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/EqmbC813p0w",
+    "https://www.youtube-nocookie.com/embed/TEwWrpebnkM",
+    "https://www.youtube-nocookie.com/embed/HB2nSG6b-3w"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Yo soy aquél",
+      "content": "Yo soy aquél\nQue cada noche te persigue\nYo soy aquél\nQue por quererte ya no vive\nEl que te espera\nEl que te sueña\nEl que quisiera ser dueño de tu amor...\nDe tu amor\n\nYo soy aquél\nQue por tenerte da la vida\nYo soy aquél\nQue estando lejos, no te olvida\nEl que te espera\nEl que te sueña\nAquél que reza cada noche por tu amor\n\nY estoy aquí, aquí, para quererte\nEstoy aquí, aquí, para adorarte\nYo estoy aquí, aquí, para decirte\nQue como yo nadie te amó\n\nYo soy aquél\nQue por tenerte da la vida\nYo soy aquél\nQue estando lejos, no te olvida\nEl que te espera\nEl que te sueña\nAquél que reza cada noche por tu amor\n\nY estoy aquí, aquí, para quererte\nEstoy aquí, aquí, para adorarte\nYo eѕtoy aquí, aquí, para decirte\nAmor, amor, amor, аmor"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I'm that one",
+      "content": "I'm that one\nWho chases after you every night\nI'm that one\nWho doesn't live anymore because he loves you\nThe one who waits for you\nThe one who dreams of you\nThe one who wants to be the owner of your love\nOf your love\n\nI'm that one\nWho gives his life to have you\nI'm that one\nWho's far away and doesn't forget you\nThe one who waits for you\nThe one who dreams of you\nThat one who every night prays for your love\n\nAnd I'm here, here, to love you\nI'm here, here, to adore you\nI'm here, here to tell you\nThat nobody loved you like I did\n\nI'm that one\nWho gives his life to have you\nI'm that one\nWho being far away doesn't forget you\nThe one who waits for you\nThe one who dreams of you\nThat one who every night prayѕ for your love\n\nAnd I'm here, here, to love you\nI'm here, here, to аdore you\nI'm here, here to tell you\nLove, love, love, love"
+    }
+  ],
+  "bpm": 110,
+  "tone": "A major",
+  "artistPeople": [
+    "Miguel Rafael Martos Sánchez"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Rafael de Ibarbia Serra",
+  "lyricists": null,
+  "writers": [
+    "Manuel Alejandro"
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "Federico Gallo"
+  ],
+  "jury": null,
+  "spokesperson": "Blanca Álvarez"
+}

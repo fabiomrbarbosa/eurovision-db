@@ -1,0 +1,59 @@
+{
+  "id": 7,
+  "country": "CH",
+  "artist": "Anita Traversi",
+  "song": "Cielo e terra",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/wQFa5bcRXUE",
+    "https://www.youtube-nocookie.com/embed/dgE1Vi1LFtQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Cielo e terra",
+      "content": "Cielo e terra, sogno e vita\nSulla strada di chi t'ama, come me\nIl confine d'una data\nTu non c'eri ed ora invece sei con me\n\nDi pensiero, di parole si colora\nUn nome chiuso in fondo al cuor\nOra è vero, ho il mio sole\nMa mi chiedo: sarà mio domani ancor?\n\nÈ tanto breve un'ora di dolce intimità\nPerché pensare allora? A quel che poi sarà?\n\nCielo e terra, sogno e vita\nSulla strada di chi t'ama, come me\nIl confine d'una data\nNon sapevo ed ora sa tutto di te\n\nÈ tanto breve un'ora di dolce intimità\nPerché pensare allora? A quel che poi sarà?\n\nCielo e terra, sogno e vita\nSulla strada di chi t'ama, come me\nIl confine d'una data\nNon sapevo ed ora sa tutto di te\n\nCielo e terra, ѕogno e vitа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": null,
+      "title": "Παράδεισος και Γη",
+      "content": "Παράδεισος και Γη, όνειρο και ζωή\nΣτον δρόμο αυτού που σ' αγαπά, σαν κι εμένα\nΤο όριο μιας ημερομηνίας\nΔεν ήσουν εκεί και αντί γι' αυτό είσαι τώρα μαζί μου\n\nΜε σκέψεις, με λόγια χρωματίζεις τον εαυτό σου\nΈνα όνομα κρυμμένο στο βάθος της καρδιάς\nΤώρα είναι αλήθεια, έχω τον Ήλιο μου\nΑλλά απορώ, θα είναι ακόμα δικός μου αύριο;\n\nΕίναι τόσο σύντομη μια ώρα γλυκιάς οικειότητας\nΓιατί όμως να το σκέφτομαι; Πώς με βοηθά;\n\nΠαράδεισος και Γη, όνειρο και ζωή\nΣτον δρόμο αυτού που σ' αγαπά, σαν κι εμένα\nΤο όριο μιας ημερομηνίας\nΔεν ήσουν εκεί και αντί γι' αυτό είσαι τώρα μαζί μου\n\nΕίναι τόσο σύντομη μια ώρα γλυκιάς οικειότητας\nΓιατί όμως να το σκέφτομαι; Πώς με βοηθά;\n\nΠαράδεισος και Γη, όνειρο και ζωή\nΣτον δρόμο αυτού που σ' αγαπά, σαν κι εμένα\nΤο όριο μιας ημερομηνίας\nΔεν ήσουν εκεί και αντί γι' αυτό είσαι τώρα μαζί μου\n\nΠαράδεισος και Γη, όνειρο και ζωή"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Heaven and earth",
+      "content": "Heaven and earth, dream and life\nOn the road to the one who loves you, like me\nThe limit of a date\nYou weren't there and instead you're with me now\n\nWith thoughts, with words it colours\nA name hidden away in the bottom of my heart\nIt's true, I've got my sun\nBut I wonder: will he still be mine tomorrow?\n\nOne hour of sweet intimacy is too short\nWhy should I bother? What is it good for?\n\nHeaven and earth, dream and life\nOn the road to the one who loves you, like me\nThe limit of a date\nI didn't know about you and now I know everything\n\nOne hour of sweet intimacy is too short\nWhy should I bother? What is it good for?\n\nHeaven and earth, dream and life\nOn the road to the one who loveѕ you, like me\nThe limit of a date\nI didn't know about you and now I know everything\n\nHeaven and earth, dream аnd life"
+    }
+  ],
+  "bpm": 124,
+  "tone": "D major",
+  "artistPeople": [
+    "Anita Traversi"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Cédric Dumont",
+  "lyricists": null,
+  "writers": [
+    "Mario Robbiani"
+  ],
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Theodor Haller"
+  ],
+  "jury": null,
+  "spokesperson": "Boris Acquadro"
+}

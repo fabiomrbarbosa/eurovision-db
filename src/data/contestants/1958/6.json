@@ -1,0 +1,52 @@
+{
+  "id": 6,
+  "country": "DE",
+  "artist": "Margot Hielscher",
+  "song": "Für zwei Groschen Musik",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/A7tTpPcDjcc",
+    "https://www.youtube-nocookie.com/embed/be8w6fGX_XQ",
+    "https://www.youtube-nocookie.com/embed/kUDAoa_MCbk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Für zwei Groschen Musik",
+      "content": "Man wählte die Miss Germany, Miss Frankreich und Miss Italy\nEs gibt sogar Miss Mode und Miss Bein\nDoch weil Musik ein jeder liebt\nUnd es Miss Jukebox noch nicht gibt\nMöcht ich so gerne mal Miss Jukebox sein\n\nFür zwei Groschen Musik, für zwei Groschen Musik\nUnd der Alltag versinkt, wenn froh Musik erklingt\nFür zwei Groschen Musik, für zwei Groschen Musik\nUnd für so wenig Geld gehört euch eine Welt\n\nWollt ihr leise Musik?\nWollt ihr heisse Musik?\nOder findet ihr Moll einfach wundervoll?\nFür zwei Groschen Musik, für zwei Groschen Musik\nUnd für so wenig Geld gehört euch eine Welt\n\nDarf es Dixieland sein\nOder Lieder vom Rhein?\nOder liebt irgendwer Verdis Opern mehr?\nFür zwei Groschen Musik, für zwei Groschen Musik\nUnd für so wenig Geld gehört euch eine Welt\n\nFür zwei Groschen Musik, für zwei Groschen Musik\nFür zwei Groschen Musik, für zwei Groschen Musik\n\nHier der Mann am Klavier\nHier der Marsch, so sind wir\nHier der Förster, der singt, wenn die Heimаtglocke klingt\nFür zwei Groschen Musik, für zwei Groschen Musik\nUnd für ѕo wenig Geld gehört euch eine Welt"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Music for two pence",
+      "content": "They chose Miss Germany, Miss France and Miss Italy\nThere are also Miss Fashion and Miss Leg\nBut since everybody likes music\nAnd there is no Miss Jukebox yet\nI just want to be Miss Jukebox for once\n\nMusic for two pence, music for two pence\nAnd everyday life fades away when happy music is played\nMusic for two pence, music for two pence\nAnd for this little money, a world belongs to you\n\nDo you want quiet music?\nDo you want hot music?\nOr do you find a minor key just wonderful?\nMusic for two pence, music for two pence\nAnd for this little money, a world belongs to you\n\nMay it be music of Dixieland\nOr songs from the Rhine?\nOr do you prefer Verdi's operas?\nMusic for two pence, music for two pence\nAnd for this little money, a world belongs to you\n\nMusic for two pence, music for two pence\nMusic for two pence, music for two pence\n\nHere's the man at the piano\nHere's the march, so are we\nHere's the woodsman who sings when the home bells ring\nMusic for two pence, music for two pence\nAnd for this little money, а world belongѕ to you"
+    }
+  ],
+  "bpm": 164,
+  "tone": "F major",
+  "artistPeople": [
+    "Margot Hielscher"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Friedrich Meyer"
+  ],
+  "conductor": "Dolf van der Linden",
+  "lyricists": [
+    "Fred Rauch",
+    "Walter Brandin"
+  ],
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Claudia Doren"
+}

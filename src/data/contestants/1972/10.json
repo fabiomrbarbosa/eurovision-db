@@ -1,0 +1,51 @@
+{
+  "id": 10,
+  "country": "FR",
+  "artist": "Betty Mars",
+  "song": "Comé-comédie",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/GUwgrOmiodk",
+    "https://www.youtube-nocookie.com/embed/w7HU9-pOzzY",
+    "https://www.youtube-nocookie.com/embed/PNzA1pWHhto"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Comé-comédie",
+      "content": "Comé-comé-comédie\nComme, comme, comme on dit\nEn amour, c'est toujours comme ça\nComé-comé-comédie\nUne chanson qu'on oublie\nMais un jour qui reviendra\n\nQuelques pages d'une vie\nQu'on effeuille, et c'est ainsi\nQue la terre tournera\nComé-comé-comédie\nComme, comme, comme on dit\nTant qu'on s'aime, toi et moi\n\nNotre histoire s'écrit en peu de mots:\nJe t'aime, tu m'aimes, quoi de plus beau?\nPourquoi faut-il s'en défendre?\nPourquoi chercher à comprendre?\nPuisqu'on chante aussitôt:\n\nComé-comé-comédie\nComme, comme, comme on dit\nLe bonheur n'est jamais si loin\nComé-comé-comédie\nLes illusions d'aujourd'hui\nPourraient être vraies demain\n\nLes orages ou bien la pluie\nLes chagrins ou les soucis\nAprès tout, cela n'est rien\nComé-comé-comédie\nComme, comme, comme on dit\nQue trois notes à mon refrain\n\nComé-comé-comédie\nComme, comme, comme on dit\nEn amour, c'est toujours comme ça\nComé-comé-comédie\nL'on dit non, puis on dit oui\nEn regardant quelquefois\n\nQuelques pages d'une vie\nQu'on effeuille, et c'est ainsi\nQue la terre tournera\nComé-comé-comédie\nComme, comme, comme on dit\nAutant que l'on ѕ'aimerа\n\nComé-comé-comédie\nComme, comme, comme on dit"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Come comedy",
+      "content": "Come-come-comedy\nAs, as, as they say\nIn love, it's always like that\nCome-come-comedy\nA song that we forget\nBut that one day will return\n\nSome pages of a life\nThat are ripped out, and like this\nThe world will spin round\nCome-come-comedy\nAs, as, as they say\nWe love each other so much, you and me\n\nOur story can be written in a few words:\nI love you, you love me, what's more beautiful?\nWhy do we have to defend ourselves?\nWhy try to understand?\nBecause we immediately sing:\n\nCome-come-comedy\nAs, as, as they say\nHappiness is never so far away\nCome-come-comedy\nThe illusions of today\nMay come true tomorrow\n\nEither the storms or the rain\nThe sorrows or the concerns\nAfter all, that's nothing\nCome-come-comedy\nAs, as, as they say\nBut three notes in my refrain\n\nCome-come-comedy\nAs, as, as they say\nIn love, it's always like that\nCome-come-comedy\nWe say no, then we say yes\nLooking several times\n\nSome pages of a life\nThat are ripped out, and like this\nThe world will spin round\nCome-come-comedy\nAs, as, as they say\nAs much as we love each other\n\nCome-come-comedy\nAs, as, as they ѕаy"
+    }
+  ],
+  "bpm": 129,
+  "tone": "Bb minor",
+  "artistPeople": [
+    "Yvette Baheux"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Franck Pourcel",
+  "lyricists": null,
+  "writers": [
+    "Frédéric Botton"
+  ],
+  "broadcaster": "ORTF",
+  "commentators": [
+    "Pierre Tchernia"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

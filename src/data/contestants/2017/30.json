@@ -1,0 +1,58 @@
+{
+  "id": 30,
+  "country": "IE",
+  "artist": "Brendan Murray",
+  "song": "Dying To Try",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/EOpZikqrfOA",
+    "https://www.youtube-nocookie.com/embed/g0qTZaBTPRs",
+    "https://www.youtube-nocookie.com/embed/0WXCk_7v6zo",
+    "https://www.youtube-nocookie.com/embed/7mTRVjX44r4",
+    "https://www.youtube-nocookie.com/embed/rMm3xWVuLEU",
+    "https://www.youtube-nocookie.com/embed/qglb2vro94w"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Dying To Try",
+      "content": "Take a leap of faith with me\nIf you believe honestly\nThat I am yours and you are mine\nI know you're scared, and so am I\n\n'Cause I know that love can be so strong\nAnd yet so frail\nAnd there ain't no guarantee\nThat you and me won't fail\n\nBut I'm dying to try\nI'm dying to try\nI'll keep you safe in my arms\nBuild a bridge to your heart every day\n\nI'll give you it all\nBut I'm not gonna lie\n'Cause no one can promise\nThat love will ever learn how to fly\nWill ever learn how to fly, oh…\n\nBut I'm dying to try, but I'm dying to try\n('Cause no one can promise)\n(That love will ever learn how to fly) Yeah…\n\nI'm dying to try, I'm dying to try\nI'll keep you safe in my arms\nBuild a bridge to your heart every day\n\nI'll give you it all\nBut I'm not gonna lie\nOh, 'cause no one can promise\nThat love will ever learn how to fly\n\nOh, 'cause no one can promiѕe\nThat love will ever learn how to fly\nBut I'm dying to try\nTake a leаp if you believe"
+    }
+  ],
+  "bpm": 164,
+  "tone": "F minor",
+  "artistPeople": [
+    "Brendan Murray"
+  ],
+  "backings": [
+    "Alison Vard Miller",
+    "Graham Kelly",
+    "Jules Edwards",
+    "Margot Daly",
+    "Shane McDaid"
+  ],
+  "dancers": null,
+  "stageDirector": "Nicoline Refsing",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "James Newman",
+    "Jörgen Elofsson"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Marty Whelan"
+  ],
+  "jury": [
+    "Amanda Lane",
+    "Dayl Cronin",
+    "Greg French",
+    "Louise Macnamara",
+    "Suzanne Doyle"
+  ],
+  "spokesperson": "Nicky Byrne"
+}

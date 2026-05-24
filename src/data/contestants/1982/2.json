@@ -1,0 +1,65 @@
+{
+  "id": 2,
+  "country": "CH",
+  "artist": "Arlette Zola",
+  "song": "Amour on t'aime",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/1NZzdHi_K7o",
+    "https://www.youtube-nocookie.com/embed/ot2_Q5zwWZw",
+    "https://www.youtube-nocookie.com/embed/iDXfpwloOuY",
+    "https://www.youtube-nocookie.com/embed/1wsBvYGkwXU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Amour on t'aime",
+      "content": "On peut traverser la mer, voler autour de la Terre\nCourir l'aventure, chercher de l'or\nOn peut quitter sa patrie\nRefaire son nez et sa vie\nIl nous faut l'amour d'abord\n\nAmour, on t'aime, mieux que nous-mêmes\nMieux que l'argent, la politique et les chansons\nEt quand bien même tu nous enchaînes\nOn a l'cœur qui bat comme les ailes d'un papillon\n\nOn peut croire au fantastique\nAvoir des goûts éclectiques\nPenser Rossini ou Travolta\nOn peut faire de la vitesse, du yoga ou du business\nSans amour, ce n'est pas ça\n\nAmour, on t'aime, malgré nous-mêmes\nTu nous balances comme des voiliers aux quatre vents\nEt quand bien même, tu tiens les rênes\nOn se sent libre et l'on plane comme des goélands\n\nAmour, on t'aime, malgré nous-mêmes\nTu nous entraînes comme des poissons dans l'océan\nPourtant on aime, comme tu nous mènes\nC'est un peu fou, mais on ne peut vivre autrement\n\nAmour, on t'aime, mieux que nous-mêmes\nMieux que l'argent, la politique et les chansons\nAmour, on t'aime, amour en s'aime\nOn a les yeux tout pleins de rire et de lampions\nOn a l'cœur qui bat comme les aileѕ d'un pаpillon"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Love we love you",
+      "content": "We can cross the sea, fly around the earth\nChase after adventure, look for gold\nWe can leave our homeland\nChange our nose and our life\nBut above all we need love\n\nLove we love you, more than ourselves\nMore than money, politics and songs\nAnd even though you chain us up\nOur heart beats like a butterfly's wings\n\nWe can believe in fantasy\nHave eclectic tastes\nThink in terms of Rossini or Travolta\nWe can go in for speed, yoga, business\nWithout love there is something missing\n\nLove we love you, in spite of ourselves\nYou toss us to-and-fro like sailboats in the wind\nAnd even though we're in your power\nWe feel free and soar as seagulls\n\nLove we love you, in spite of ourselves\nYou carry us along like fish in the ocean\nHowever we like the way you lead us\nIt is a bit crazy but we can't live without you\n\nLove we love you, more than ourselves\nMore than money, politics and songs\nLove we love you, love we love you\nOur eyes are full of laughter and song\nOur heart beats like а butterfly's wingѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Amor te amanos",
+      "content": "Podemos cruzar el mar, volar por la Tierra sin parar\nCorrer tras la aventura, buscando oro por doquier\nPodemos dejar la patria atrás\nCambiar la nariz y rehacer el compás\nPero antes de todo, el amor es lo que hay que tener\n\nAmor, te amamos, más que a nosotros mismos\nMás que al dinero, la política o las canciones\nY aunque nos encadenes\nEl corazón late como las alas de los maripones\n\nPodemos creer en lo fantástico\nTener gustos eclécticos\nPensar sin razón en Rossini o en Travolta\nPodemos vivir a toda velocidad, hacer yoga o trabajar sin piedad\nPero sin amor, nada tiene sentido ni emoción\n\nAmor, te amamos, a pesar de nosotros\nNos balanceas como veleros en los cuatro vientos\nY aunque tú lleves las riendas\nNos sentimos libres, volamos como los albatros al momento\n\nAmor, te amamos, a pesar de lo que somos\nNos arrastras como peces en el inmenso océano\nPero amamos cómo nos conduces\nEs un poco loco, pero no hay otra manera de vivir este sueño humano\n\nAmor, te amamos, más que a nosotros mismos\nMás que al dinero, la política o las canciones\nAmor, te amamos, amor en el que nos encontramos\nCon los ojos llenos de risas y farolillos\nY el corazón late como las alas de los mariposаs en ѕu brillo"
+    }
+  ],
+  "bpm": 96,
+  "tone": "A major",
+  "artistPeople": [
+    "Arlette Quazzola"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Alain Morisod"
+  ],
+  "conductor": "Joan Amils",
+  "lyricists": [
+    "Pierre Alain"
+  ],
+  "writers": null,
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Georges Hardy",
+    "Giovanni Bertini",
+    "Theodor Haller"
+  ],
+  "jury": null,
+  "spokesperson": "Michel Stocker"
+}

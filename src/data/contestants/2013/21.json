@@ -1,0 +1,55 @@
+{
+  "id": 21,
+  "country": "LT",
+  "artist": "Andrius Pojavis",
+  "song": "Something",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/0VLhnzk_dAs",
+    "https://www.youtube-nocookie.com/embed/8WwBxE8_hk4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Something",
+      "content": "I have to tell you something, it's been on my mind so long\nI've got to tell you this, it's been on my mind way too long\nI promised myself to tell\nInstead I'm falling apart to see you here\n\nIf you don't know, I'm in love with you\nWhen summertime falls, it becomes untrue\nBecause of my shoes I'm wearing today\nOne is called Love, the other is Pain, yeah…\n\nSo tell me now (So tell me now)\nI'm in your head (I'm in your head)\nI'm in your heart (I'm in your heart)\nTell me now (Tell me now)\n\nTell me now\nBecause I'm falling apart to see you here\n\nIf you don't know, I'm in love with you\nWhen summertime falls, it becomes untrue\nBecause of my shoes I'm wearing today\nOne is called Love, the other is Pain\n\nBut still you don't know, I'm in love with you\nWhen summertime falls, it becomes untrue\nBecause of my shoes I'm wearing today\nOne is called Love, the other is Pain\nOne is called Love, the other iѕ Pаin"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Algo",
+      "content": "Te tengo que contar algo que lleva en mi mente mucho tiempo\nTe tengo que contar esto, lleva en mi mente mucho tiempo\nMe he prometido contarlo\nEn cambio, me desmorono cuando te veo aquí\n\nPor si no lo sabes, estoy enamorado de ti\nCuando llega el verano, se vuelve irreal\nA causa de los zapatos que llevo hoy\nUno se llama Amor, el otro se llama Dolor, sí…\n\nAsí que, dime ahora (Así que dime ahora)\nEstoy en tu mente (Estoy en tu mente)\nEstoy en tu mente (Estoy en tu mente)\nDímelo ahora (Dímelo ahora)\n\nDímelo ahora\nPorque me estoy desmoronando de verte aquí\n\nPor si no lo sabes, estoy enamorado de ti\nCuando llega el verano, se vuelve irreal\nA causa de los zapatos que llevo hoy\nUno se llama Amor, el otro se llama Dolor\n\nPero aún no lo sabes, estoy enamorado de ti\nCuando llega el verano, se vuelve irreal\nA causa de los zapatos que llevo hoy\nUno se llama Amor, el otro se llama Dolor\nUno se llama Amor, el otro ѕe llamа Dolor"
+    }
+  ],
+  "bpm": 130,
+  "tone": "F major",
+  "artistPeople": [
+    "Andrius Pojavis"
+  ],
+  "backings": [
+    "Anatolijus Oleinikas",
+    "Jurijus Veklenko",
+    "Martynas Puchovičius",
+    "Monica Cikanovačikté"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Andrius Pojavis"
+  ],
+  "broadcaster": "LRT",
+  "commentators": [
+    "Darius Užkuraitis"
+  ],
+  "jury": null,
+  "spokesperson": "Ignas Krupavičius"
+}

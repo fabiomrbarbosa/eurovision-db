@@ -1,0 +1,60 @@
+{
+  "id": 0,
+  "country": "DK",
+  "artist": "Olsen Brothers",
+  "song": "Fly On The Wings Of Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/JF8fkHK0AWs",
+    "https://www.youtube-nocookie.com/embed/5sTQ3k7fJDU",
+    "https://www.youtube-nocookie.com/embed/OdGqv_w3zxA",
+    "https://www.youtube-nocookie.com/embed/NkBeXdcjX30",
+    "https://www.youtube-nocookie.com/embed/rp8ny2s2mZg",
+    "https://www.youtube-nocookie.com/embed/C76xn52ZbhA"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Fly On The Wings Of Love",
+      "content": "In the summer nights\nWhen the moon shines bright\nFeeling love forever\nAnd the heat is on\nWhen the daylight's gone\nStill happy together\n\nThere's just one more thing I'd like to add:\nShe's the greatest love I've ever had\n\nFly on the wings of love\nFly, baby, fly\nReaching the stars above\nTouching the sky\n\nAnd as time goes by\nThere's a lot to try\nAnd I'm feelin' lucky\nIn the softest sand\nSmiling hand in hand\nlove is all around me\n\nThere's just one more thing I'd like to add:\nShe's the greatest love I've ever had\n\nFly on the wings of love\nfly, baby, fly\nReaching the stars above\ntouching the sky\n\nIf you just fly\n(fly, baby, fly)\n\nFly on the wings of love (on wings of love)\nReaching the stars above (fly, baby, fly)\nTouching the sky\n\nFly on the wings of love, fly, baby, fly\nReaching the stars above, touching the sky\n\nFly on the wings of love (fly, baby, fly)\nFly, baby, fly (on the wings of love)\nReaching the stars above (fly, bаby, fly)\nTouching the sky\nIf you just fly on wingѕ of love"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "danish"
+      ],
+      "displayedLanguages": null,
+      "title": "Smuk som et stjerneskud",
+      "content": "I den varme nat\nFyldt med drømmen at\nLykken varer evigt\nLyser månen op\nPå en kvindekrop, jah\nOg hendes smukke ansigt\n\nHun er bare min store kærlighed\nDer bli'r større, der bli'r ved og ved\n\nSmuk som et stjerneskud\nSom tiden går\nSmukkere ser hun ud\nÅr efter år\n\nHendes hofters dans\nI en strålekrans, jah\nGennem bølgebruset\nOg i måneskin\nBli'r jeg lukket ind\nLyk'lig og beruset\n\nNаtten den er fyldt med kærlighed\nDer bli'r større der bli'r ved og ved\n\nSmuk som et stjerneskud\nSom tiden går\nSmukkere ser hun ud\nÅr efter år\n\nEt stjerneskud\nStjerneskud\n\nSmuk som et stjerneskud\nSom tiden går\nSmukkere ser hun ud\nÅr efter år\n\nSmuk som et stjerneskud\nSom tiden går\nSmukkere ser hun ud\nÅr efter år\n\nSmuk som et stjerneskud\nSom tiden går\nSmukkere ѕer hun ud\nÅr efter år"
+    }
+  ],
+  "bpm": 104,
+  "tone": "D major",
+  "artistPeople": [
+    "Jørgen Olsen",
+    "Niels Olsen"
+  ],
+  "backings": [
+    "Bianca Moe",
+    "Christina Krüger-Olsen",
+    "Lei Moe",
+    "Lupe Moe"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Jørgen Olsen"
+  ],
+  "broadcaster": "DR",
+  "commentators": [
+    "Keld Heick"
+  ],
+  "jury": null,
+  "spokesperson": "Michael Teschl"
+}

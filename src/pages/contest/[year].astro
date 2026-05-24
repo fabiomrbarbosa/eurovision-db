@@ -53,6 +53,26 @@ const intendedName = contest.intendedCountry
 
 const cancelled = contest.cancelled;
 
+// Date list from round dates (sorted ascending, deduped)
+const roundDates = [...new Set(contest.rounds.map(r => r.date).filter(Boolean))].sort();
+let contestDates = '';
+if (roundDates.length > 0) {
+  const parsed = roundDates.map(d => new Date(d + 'T00:00:00Z'));
+  const last = parsed[parsed.length - 1];
+  const allSameMonth = parsed.every(d => d.getUTCMonth() === last.getUTCMonth() && d.getUTCFullYear() === last.getUTCFullYear());
+  if (allSameMonth) {
+    const days = parsed.map(d => d.getUTCDate()).join(', ');
+    const monthYear = last.toLocaleDateString('en-GB', { month: 'long', year: 'numeric', timeZone: 'UTC' });
+    contestDates = `${days} ${monthYear}`;
+  } else {
+    const parts = parsed.map((d, i) => {
+      const isLast = i === parsed.length - 1;
+      return d.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', ...(isLast ? { year: 'numeric' } : {}), timeZone: 'UTC' });
+    });
+    contestDates = parts.join(', ');
+  }
+}
+
 // Build semifinal round data for SemifinalsView
 const qualifiedToFinalIds = new Set(
   results.filter(r => r.finalPlace !== null).map(r => r.id)
@@ -74,6 +94,7 @@ const semiRounds = contest.rounds
       .map(perf => {
         const c = contest.contestantsById[perf.contestantId];
         return {
+          id: c.id,
           running: perf.running,
           place: perf.place,
           country: c.country,
@@ -98,21 +119,35 @@ const semiRounds = contest.rounds
     <header class="contest-header">
       <div class="contest-meta">
         <h1><img class="flag" src={countryFlagUrl(contest.country)} alt="" /> {contest.city} {year}</h1>
-        <p class="venue">
-          {contest.arena} · {hostCountryName}
-          {intendedName && (<>, hosted on behalf of <strong>{intendedName}</strong></>)}
-        </p>
-        {contest.slogan && <p class="slogan muted">"{contest.slogan}"</p>}
+        <div class="meta-row">
+          <span class="meta-item">
+            <span class="meta-label">Venue</span>
+            {contest.arena} · {hostCountryName}
+            {intendedName && (<>, on behalf of <strong>{intendedName}</strong></>)}
+          </span>
+          {contestDates && (
+            <span class="meta-item">
+              <span class="meta-label">Dates</span>
+              {contestDates}
+            </span>
+          )}
+          {contest.slogan && (
+            <span class="meta-item">
+              <span class="meta-label">Slogan</span>
+              <em>"{contest.slogan}"</em>
+            </span>
+          )}
+        </div>
         <div class="meta-row">
           {contest.presenters.length > 0 && (
             <span class="meta-item">
-              <span class="mono muted" style="font-size:0.72rem;text-transform:uppercase;letter-spacing:0.08em">Hosted by</span>
+              <span class="meta-label">Hosted by</span>
               {contest.presenters.join(' · ')}
             </span>
           )}
           {contest.broadcasters.length > 0 && (
             <span class="meta-item">
-              <span class="mono muted" style="font-size:0.72rem;text-transform:uppercase;letter-spacing:0.08em">Broadcaster</span>
+              <span class="meta-label">Broadcaster</span>
               {contest.broadcasters.join(' · ')}
             </span>
           )}
@@ -172,6 +207,7 @@ const semiRounds = contest.rounds
             client:load
             semiRounds={semiRounds}
             finalists={finalist.map(r => ({
+              id: r.id,
               country: r.country,
               countryName: r.countryName,
               artist: r.artist,
@@ -185,6 +221,7 @@ const semiRounds = contest.rounds
             }))}
             countries={countries}
             hasJuryTele={hasJuryTele}
+            year={year}
           />
         </section>
       </>
@@ -231,8 +268,6 @@ const semiRounds = contest.rounds
     margin-bottom: 0.35rem;
   }
   .contest-header h1 { font-size: clamp(2.5rem, 6vw, 4rem); }
-  .venue { margin-top: 0.4rem; color: var(--c-muted); }
-  .slogan { margin-top: 0.3rem; font-style: italic; }
   .meta-row {
     display: flex;
     flex-wrap: wrap;
@@ -244,6 +279,13 @@ const semiRounds = contest.rounds
     flex-direction: column;
     gap: 0.15rem;
     font-size: 0.875rem;
+  }
+  .meta-label {
+    font-family: var(--f-mono);
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--c-muted);
   }
 
   /* ── Edition navigation ─────────────────────────────────────── */

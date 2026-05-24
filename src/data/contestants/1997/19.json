@@ -1,0 +1,61 @@
+{
+  "id": 19,
+  "country": "IS",
+  "artist": "Paul Oscar",
+  "song": "Minn hinsti dans",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/rVZ0VNsXhTA",
+    "https://www.youtube-nocookie.com/embed/Oecd6PcbotA",
+    "https://www.youtube-nocookie.com/embed/mna1_6kIokc",
+    "https://www.youtube-nocookie.com/embed/xjpx9c5Ly_M",
+    "https://www.youtube-nocookie.com/embed/86bhB9V7-yU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "icelandic"
+      ],
+      "displayedLanguages": null,
+      "title": "Minn hinsti dans",
+      "content": "London, París, Róm – urðu orðin tóm\nGekk þann gyllta breiða, blindaður af ást\nFalskir kunningjar, snerust um mig einan\nFékk mér kavíar, núna er allt um seinan\n\nÞví ég stíg minn hinsta dans\nOg ég kveð mitt líf með glans\nEn ég iðrast aldrei neins, iðrast aldrei\n\nKristals kampavín, perlur postulín\nDemantar í matinn, ást í eftirrétt\nEf ég elsk' í dag, blöðin birta á morgun\nFæ mér freyðibað, drekki mínum sorgum\n\nOg ég stíg minn hinsta dans\nOg þannig kveð mitt líf með glans\nEn ég iðrast ég aldrei neins, iðrast aldrei\n\nAllt sem ég fæ í dag, farið burt á morgun\n\nSvo ég stíg minn hinsta dans\nOg þannig kveð mitt líf með glans\nEn ég iðrast ég aldrei neins, iðraѕt аldrei"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "My final dance",
+      "content": "London, Paris, Rome, became empty words\nI walked the wide and golden road, blinded by love\nFalse acquaintances, revolved around me alone\nI had some caviar, it's all too late now\n\nFor I take my final dance\nAnd bid my life farewell in style\nYet I never regret a thing, never regret\n\nCrystal champagne, pearls, porcelain\nDiamonds for dinner, love for dessert\nIf I love today, it will be in the papers tomorrow\nI take a bubblebath, drown my sorrows\n\nAnd I take my final dance\nAnd that's how I bid my life farewell in style\nYet I never regret a thing, never regret\n\nAll that I get today, has gone away tomorrow\n\nSo I take my final dance\nAnd that's how I bid my life farewell in ѕtyle\nYet I never regret а thing, never regret"
+    }
+  ],
+  "bpm": 141,
+  "tone": "C# major",
+  "artistPeople": [
+    "Páll Óskar Hjálmtýsson"
+  ],
+  "backings": null,
+  "dancers": [
+    "Guðrún Kaldal",
+    "Helena Jónsdóttir",
+    "Hlíf Þorgeirsdóttir",
+    "Ingibjörg Agnes Jónsdóttir"
+  ],
+  "stageDirector": null,
+  "composers": [
+    "Páll Óskar Hjálmtýsson",
+    "Trausti Haraldsson"
+  ],
+  "conductor": "Szymon Kuran",
+  "lyricists": [
+    "Páll Óskar Hjálmtýsson"
+  ],
+  "writers": null,
+  "broadcaster": "RÚV",
+  "commentators": [
+    "Jakob Frímann Magnússon"
+  ],
+  "jury": null,
+  "spokesperson": "Svanhildur Konráðsdóttir"
+}

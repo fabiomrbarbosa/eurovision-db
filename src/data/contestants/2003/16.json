@@ -1,0 +1,50 @@
+{
+  "id": 16,
+  "country": "GR",
+  "artist": "Mando",
+  "song": "Never Let You Go",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/gNJ3XgelGUU",
+    "https://www.youtube-nocookie.com/embed/DgU2gxn4s8A",
+    "https://www.youtube-nocookie.com/embed/CcDU66imXtI",
+    "https://www.youtube-nocookie.com/embed/ucSsctax4o8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Never Let You Go",
+      "content": "I don't know what I'm going through\nClose my eyes, still see you inside\nEverything reminds me of you\nI could never let you go\n\nI can't hide my feelings at all\nI give you love, sometimes it's so hard\nWithout you I know why I would fall\nI could never let you go\n\nI would cry for you\nAnd I'd lie for you\nI would lay my life\nOn the line\n\nI can't hide from you\nThen I'd die for you\nBut I'd never let you go\n\nWhat we share keeps me alive\nFor you there's nothing\nI would deny\nAll I know is I want you so\nI could never let you go\n\nI would cry for you\nAnd I'd lie for you\nI would lay my life\nOn the line\n\nI can't hide from you\nThen I'd die for you\nBut I'd never let you go\n\n(Cry for you)\nCry for you\n(Cry…)\n\nI would cry for you\nAnd I'd lie for you\nI would lay my life\nOn the line\n\nI can't hide from you\nReаch the ѕky for you\nBut I'd never let you go\nNever let you go"
+    }
+  ],
+  "bpm": 172,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Adamantia Stamatopoulou"
+  ],
+  "backings": [
+    "Chriso Stamatopoulou",
+    "Johnny Jam",
+    "Kostas Chrisis",
+    "Tasos Fotiadis"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Mando"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Teri Siganos"
+  ],
+  "writers": null,
+  "broadcaster": "ERT",
+  "commentators": [
+    "Dafni Bokota"
+  ],
+  "jury": null,
+  "spokesperson": "Alexis Kostalas"
+}

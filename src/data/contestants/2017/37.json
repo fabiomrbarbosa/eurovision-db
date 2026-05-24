@@ -1,0 +1,65 @@
+{
+  "id": 37,
+  "country": "MT",
+  "artist": "Claudia Faniello",
+  "song": "Breathlessly",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/tGctKNrfn8M",
+    "https://www.youtube-nocookie.com/embed/Bfoq7udRPwk",
+    "https://www.youtube-nocookie.com/embed/1K915QwwlgY",
+    "https://www.youtube-nocookie.com/embed/3Wc9HCvEA6k",
+    "https://www.youtube-nocookie.com/embed/28ddtLeLFHI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Breathlessly",
+      "content": "I walk the street\nLeaving footprints in your heart\nMy feet are worn\nBut they can handle the cold\n\nI know the game\nI'll take the blame\nI wave my white flag unashamed\n\nSo, here I am\nRight at your door\nCatching my breath before the storm\n\nBreathlessly\nI'll be watching you breathlessly\nKnowing there's a vacancy\nWithin your heart\n\nBreathlessly\nI'll be holding you endlessly\nKnowing that the storm\nIs just about to die\n\nClimbing over walls\nThat always felt too high\nBreathlessly\n\nI'm stepping out\nYet I feel I'm locked inside\nI got the will\nI learned the skill\nOf a true acrobat for love\n\nBreathlessly\nI'll be watching you breathlessly\nKnowing there's a vacancy\nWithin your heart\n\nBreathlessly\nI'll be holding you endlessly\nKnowing that the storm\nIs just about to die\n\nClimbing over walls\nThat always felt too high\nBreаthlesѕly"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "maltese"
+      ],
+      "displayedLanguages": null,
+      "title": "Bla Nifs",
+      "content": "Nimxi t-triq\nInħalli l-marki tal-passi f'qalbek\nSaqajja ma niflaħhomx\nImma jistgħu jifilħu għall-kesħa\n\nNaf il-logħba\nSe nieħu t-tort\nIntajjar il-bandiera l-bajda tiegħi bla mistħija\n\nB'hekk, jien hawn\nQuddiem il-bieb tiegħek\nNieħu n-nifs qabel it-tempesta\n\nBla nifs\nQed narak bla nifs\nNaf li hemm post vojt\nĠewwa qalbek\n\nBla nifs\nSe nżommok sal-aħħar\nNaf li t-tempesta\nWaslet biex tintemm\n\nNixxabat mal-ħitan\nLi dejjem dehru għoljin\nBla nifs\n\nSe noħroġ 'il barra\nIżda qed inħossni magħluqa ġewwa\nĠibt ir-rieda\nTgħallimt it-taħriġ\nTa' akrobat ta' veru għall-imħabba\n\nBla nifs\nQed narak bla nifs\nNaf li hemm post vojt\nĠewwa qalbek\n\nBla nifs\nSe nżommok sal-aħħar\nNaf li t-tempesta\nWaslet biex tintemm\n\nNixxabat mal-ħitan\nLi dejjem dehru għoljin\nBlа nifѕ"
+    }
+  ],
+  "bpm": 152,
+  "tone": "C# major",
+  "artistPeople": [
+    "Claudia Faniello"
+  ],
+  "backings": [
+    "Chantal Hartmann",
+    "Hanna Köpf",
+    "Janina Krömer",
+    "Jeannette Marchewka"
+  ],
+  "dancers": null,
+  "stageDirector": "Gordon Bonello",
+  "composers": [
+    "Philip Vella",
+    "Sean Vella"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Gerard James Borg"
+  ],
+  "writers": null,
+  "broadcaster": "PBS",
+  "commentators": null,
+  "jury": [
+    "Chiara",
+    "Karl Bonaci",
+    "Kevin Abela",
+    "Mark Spiteri Lucas",
+    "Whitney Cremona"
+  ],
+  "spokesperson": "Martha Fenech"
+}

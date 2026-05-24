@@ -1,0 +1,54 @@
+{
+  "id": 19,
+  "country": "BE",
+  "artist": "Morgane",
+  "song": "Nous, on veut des violons",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/u60o-w4uSms",
+    "https://www.youtube-nocookie.com/embed/hXl6LTlc4Lk",
+    "https://www.youtube-nocookie.com/embed/w86XzAK2pWw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Nous, on veut des violons",
+      "content": "En sweat, en pantalon, drôle de génération\nOn cache nos émotions sous la peau d'un blouson\nOui, mais sous l'apparence, mais derrière l'insouciance\nOn ne dit rien de nos blessures, ma génération assure\n\nEn rap et en funky, génération Gorby\nOn cache nos frissons sous des tonnes de béton\nMais cet air d'insouciance n'est rien qu'une apparence\nAu pays sans frontière, ma génération espère\n\nNous, on veut des violons et des statues de pierre\nMille ans de tradition, des sentiments dans l'air\nNous, on veut des violons, des oiseaux, des chimères\nEt des déclarations à ne plus toucher terre\nNous, on veut des violons\n\nNous, on n'a pas d'histoire, pas de passé, pas de mémoire\nMon cœur bat la chamade sous mon rire de parade\nJ'affiche l'indifférence, c'est rien qu'une apparence\nSous ses masques de couleur, ma génération a peur\n\nNous, on veut des violons et des statues de pierre\nMille ans de tradition, des sentiments dans l'air\nNous, on veut des violons, des oiseaux, des chimères\nEt des déclarations à ne plus toucher terre\nNous, on veut des violons\n\nNous, on veut des violons, on veut tout un orchestre\nEt puis des émotions, et puis des nuits d'ivresse\nNous, on veut des violons\n\nNous, on veut des violons et des statues de pierre\nMille ans de tradition, des sentiments dans l'air\nNous, on veut des violons, des oiseaux, des chimères\nEt des déclarаtions à ne plus toucher terre\nNous, on veut des violons\n\nNous, on veut des violons\nNous, on veut des violons\nNous, on veut des violonѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "We want violins",
+      "content": "In sweatshirt, in trousers, crazy generation\nWe hide our emotions underneath the skin of a jacket\nYes, but underneath the appearance, but behind the carefreeness\nWe say nothing about our injuries, my generation assures\n\nIn rap and in funky, generation Gorby\nWe hide our shivers underneath tons of concrete\nBut that look of carefreeness is nothing but an appearance\nIn the land without borders, my generation hopes\n\nWe want violins and statues of stone\nThousand years of tradition, feelings in the air\nWe want violins, birds, phantasms\nAnd declarations that can't be changed\nWe want violins\n\nWe have no history, no past, no memory\nMy heart pounds underneath my smile-for-the-show\nI show the indifference, it's nothing but an appearance\nUnderneath those coloured masks, my generation is afraid\n\nWe want violins and statues of stone\nThousand years of tradition, feelings in the air\nWe want violins, birds, phantasms\nAnd declarations that can't be changed\nWe want violins\n\nWe want violins, we want a whole orchestra\nAnd afterwards emotions, and afterwards drunken nights\nWe want violins\n\nWe want violins and statues of stone\nThousand years of tradition, feelings in the air\nWe want violins, birds, phantasms\nAnd declarations that can't be changed\nWe want violins\n\nWe want violins\nWe want violins\nWe wаnt violinѕ"
+    }
+  ],
+  "bpm": 124,
+  "tone": "F# minor",
+  "artistPeople": [
+    "Ingrid Simonis"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Claude Barzotti"
+  ],
+  "conductor": "Frank Fiévez",
+  "lyricists": [
+    "Anne-Marie Gaspard"
+  ],
+  "writers": null,
+  "broadcaster": "RTBF",
+  "commentators": [
+    "André Vermeulen",
+    "Claude Delacroix"
+  ],
+  "jury": null,
+  "spokesperson": "Jacques Olivier"
+}

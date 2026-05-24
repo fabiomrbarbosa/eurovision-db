@@ -1,0 +1,48 @@
+{
+  "id": 28,
+  "country": "CY",
+  "artist": "Annet Artani",
+  "song": "Why Angels Cry",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/cXXQIbxL110",
+    "https://www.youtube-nocookie.com/embed/s8dEs8rghz8",
+    "https://www.youtube-nocookie.com/embed/FFH6o0o4IsY"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Why Angels Cry",
+      "content": "When I'm feeling down in this world of madness\nYou comfort all my sadness, you soothe away my pain\n'Cause these are trying times, filled with so much sorrow\nI wonder if tomorrow will bring a brighter day\n\nWhy do the angels cry?\nWhy doesn't love survive?\nWhy do we all just pretend?\nWhy do the angels cry?\nInnocent children die\nWhen will it all ever end?\nEver end?\n\nClose your eyes and dream, and visualise a rainbow\nOh… a place where you can pray for peace and harmony\n\nSearch your heart and find a higher meaning\nLet this be the start, a brand new beginning\n\nOh… talking 'bout peace and harmony\nOh…\n\n(Why do the angels cry?)\nWhy do they cry?\n(Why doesn't love survive?)\n(Why do we all) just pretend?\nWhy do the angelѕ cry?\nInnocent children die\nWhen will it аll ever end?\nEver end?"
+    }
+  ],
+  "bpm": 136,
+  "tone": "G major",
+  "artistPeople": [
+    "Annette Stamatelatos"
+  ],
+  "backings": [
+    "Anna Iliadou",
+    "Constantinos Andronikou",
+    "Giorgos Georgiou",
+    "Keana Johnson",
+    "Riana Athanasiou"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Peter Yiannakis"
+  ],
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Evi Papamichail"
+  ],
+  "jury": null,
+  "spokesperson": "Constantinos Christoforou"
+}

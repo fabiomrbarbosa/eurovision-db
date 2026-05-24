@@ -1,0 +1,55 @@
+{
+  "id": 22,
+  "country": "LT",
+  "artist": "Sasha Son",
+  "song": "Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ukSmGIp_xVk",
+    "https://www.youtube-nocookie.com/embed/QJrPfCs8ub0",
+    "https://www.youtube-nocookie.com/embed/Ctkw_95OwqQ",
+    "https://www.youtube-nocookie.com/embed/SZClZ8Z5TI0",
+    "https://www.youtube-nocookie.com/embed/8G1uPPmTx5A",
+    "https://www.youtube-nocookie.com/embed/uxUboko95vQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Love",
+      "content": "I've had it all, as a little child\nI've done it all, as a little child\nBut the pain that I had\nFor the fame that I got, was for what?\n\nA little girl is crying alone\nA little boy, searching for his home\nGiving up to a sin for a heart-craving dream\nIs that a sin?\n\nIf you really love the love you say you love, really love\nThen surely that love would love\nThen surely that love would love to love you back\n\nIf you really love the love you say you love, really love\nThen surely that love would love\nThen surely that love will love you back\n\nFor just one moment, we all wanna be\nJust as happy as one can be\n(So don't you make the same mistake)\n(You gotta give for what you take)\nAnd don't you break\n\nA little girl or boy crying at home alone\nA faithful song will lead the way\nTo make you strong\n\nIf you really love the love you say you love, really love\nThen surely that love would love\nThen surely that love would love to love you back\n\nIf you really love the love you say you love, really love\nThen surely that love would love\nThen surely that love\n\nIf you really love\nIf you really love the love you say you love, really love\nThen surely that love would love\nThen surely that love would love to love you back\n\nIf you really love the love you say you love, really love\nThen surely that love would love\nThen surely that love\nThen surely that love\nThen ѕurely that love will love you back\nWill love you bаck"
+    }
+  ],
+  "bpm": 103,
+  "tone": "A minor",
+  "artistPeople": [
+    "Dmitry Shavrov"
+  ],
+  "backings": [
+    "Baiba Skurstene",
+    "Nora Strolyte",
+    "Sam Hywel James"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Sasha Son"
+  ],
+  "broadcaster": "LRT",
+  "commentators": [
+    "Darius Užkuraitis"
+  ],
+  "jury": [
+    "Edita Vilčiauskienė",
+    "Egmontas Bžeskas",
+    "Linas Adomaitis",
+    "Linas Rimša",
+    "Rūta Lukoševičiūtė"
+  ],
+  "spokesperson": "Ignas Krupavičius"
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1,
+  "country": "NL",
+  "artist": "The Common Linnets",
+  "song": "Calm After The Storm",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/4ggBPAm5XLA",
+    "https://www.youtube-nocookie.com/embed/hkrF8uC92O4",
+    "https://www.youtube-nocookie.com/embed/bWe8PRsW4T0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Calm After The Storm",
+      "content": "Driving in the fast lane\nCounting mile marker signs\nThe empty seat beside me\nKeeps you on my mind\n\nLivin' in the heartache\nWas never something I pursued\nI can't keep on chasing\nWhat I can't be for you\n\nOooohhhh skies are black and blue\nI'm thinking about you\nHere in the calm after the storm\n\nTears on the highway\nWater in my eyes\nThis rain ain't gonna change us\nSo what's the use to cry\n\nI could say I'm sorry\nBut I don't wanna lie\nI just wanna know if staying\nIs better than goodbye\n\nOooohhhh skies are black and blue\nI'm thinking about you\nHere in the calm after the storm\nOooooohh after all that we've been through\n(baby) there ain't nothing new\nHere in the calm after the storm\n\nMaybe I can find you\nDown this broken line\nMaybe you can find me\nGuess we'll know in time\n\nOooohhhh skies are black and blue\nI'm thinking about you\nHere in the calm after the storm\nThere ain't nothing new\nHere in the calm аfter the ѕtorm"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Calme après la tempête",
+      "content": "Roulant sur la voie rapide\nComptant les bornes kilométriques\nCe siège vide à côté de moi\nMe fait sans cesse penser à toi\n\nVivre dans le chagrin\nN'a jamais été quelque chose que j'ai recherché\nJe ne peux pas continuer à courir après\nCe que je ne peux pas être pour toi\n\nOooohhhh le ciel est noir et bleu\nJe pense à toi\nIci dans le calme après la tempête\n\nDes larmes sur l'autoroute\nDe l'eau dans mes yeux\nCette pluie ne va pas nous changer\nA quoi ça sert de pleurer\n\nJe pourrais faire part de mon regret\nMais je ne veux pas mentir\nJe veux seulement savoir si rester\nEst mieux qu'un adieu\n\nOooohhhh le ciel est noir et bleu\nJe pense à toi\nIci dans le calme après la tempête\nOooooooohh après tout ce que nous avons traversé\n(Mon amour) il n'y a rien de nouveau\nIci dans le calme après la tempête\n\nJe peux peut-être te trouver\nAu bout de cette ligne en pointillée\nTu peux peut-être me trouver\nNous le saurons un jour\n\nOooohhhh le ciel est noir et bleu\nJe pense à toi\nIci dans le calme après la tempête\nIl n'y a rien de nouveau\nIci dans le calme aprèѕ lа tempête"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "Rust Na De Storm",
+      "content": "Rijden op de fast lane\nTellen van de kilometer markers\nDe lege stoel naast mij\nLaat me steeds aan je denken\n\nLeven in verdriet\nIs nooit iets geweest waar ik naar op zoek was\nIk kan niet blijven achtervolgen\nWat ik niet voor jou kan zijn\n\nOooohhhh de hemel is zwart en blauw\nIk denk aan jou\nHier in de rust na de storm\n\nTranen op de snelweg\nWater in mijn ogen\nDeze regen zal ons niet veranderen\nWat is het nut van huilen\n\nIk kan mijn spijt uiten\nMaar Ik wil niet liegen\nIk wil alleen weten of ik blijf\nBeter dan een afscheid\n\nOooohhhh de hemel is zwart en blauw\nIk denk aan jou\nHier in de rust na de storm\nOooooooohh na alles wat we hebben meegemaakt\n(Mijn liefde) er is niets nieuws\nHier in de rust na de storm\n\nMisschien kan ik je vinden\nAan het einde van deze stippellijn\nMisschien kun je me vinden\nWe zullen het op een dag ontdekken\n\nOooohhhh de hemel is zwart en blauw\nIk denk aan jou\nHier in de rust na de storm\nEr is niets nieuws\nHier in de rust nа de ѕtorm"
+    }
+  ],
+  "bpm": 116,
+  "tone": "C# major",
+  "artistPeople": [
+    "Ilse Annoeska de Lange",
+    "Willem Bijkerk"
+  ],
+  "backings": [
+    "Bart Vergoossen",
+    "JB Meijers",
+    "Martijn van Agt"
+  ],
+  "dancers": null,
+  "stageDirector": "Hans Pannecoucke",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Ilse DeLange",
+    "Jake Etheridge",
+    "JB Meijers",
+    "Matthew Crosby",
+    "Rob Crosby"
+  ],
+  "broadcaster": "AVROTROS",
+  "commentators": [
+    "Cornald Maas",
+    "Jan Smit"
+  ],
+  "jury": [
+    "Antonius van de Berkt",
+    "Freek Bartels",
+    "Marlayne",
+    "Ruth Jacott",
+    "Sander Lantinga"
+  ],
+  "spokesperson": "Tim Douwsma"
+}

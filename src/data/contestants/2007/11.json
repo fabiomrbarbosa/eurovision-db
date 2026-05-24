@@ -1,0 +1,47 @@
+{
+  "id": 11,
+  "country": "GE",
+  "artist": "Sopho",
+  "song": "Visionary Dream",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/EHImNpPta7M",
+    "https://www.youtube-nocookie.com/embed/PazUF8Zd49U",
+    "https://www.youtube-nocookie.com/embed/votLctMZxCs",
+    "https://www.youtube-nocookie.com/embed/mpZa3I6exv4",
+    "https://www.youtube-nocookie.com/embed/5LrgQn4qfsI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Visionary dream",
+      "content": "I'll dream up tales and rhymes\nIn visionary dream\nThis precious moment of my life\nHolds me excited\n\nI will fly away\nTo reach the heights I've ever dreamed\nBeneath the sun\nNo sense of time and space\n\nAnd dissipation of your light\nHolds me excited\n\nClouds containing lakes\nAnd in the haze of morning light\nI feel embraced\n\nSailing through my story\nSharing my history\nSailing through my story\nSharing my history\n\nHa… haha hahaha…\n\nSailing through my story\nSharing my history\nSailing through my story\nSharing my history\n\nThe precious moment of my life\nHolds me excited\nThe meditation of my dreams\nHolds me delighted\n\nI will fly away\nTo reach the ambience I've dreamed\nBeneath the sun\n\nSailing through my story\nSharing my history\nSailing through my story\nShаring my hiѕtory"
+    }
+  ],
+  "bpm": 122,
+  "tone": "G major",
+  "artistPeople": [
+    "Sophiko Khalvashi"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Beqa Jafaridze"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Bibi Kvachadze"
+  ],
+  "writers": null,
+  "broadcaster": "GPB",
+  "commentators": [
+    "Sandro Gabisonia",
+    "Sopho Altunishvili"
+  ],
+  "jury": null,
+  "spokesperson": "Neli Agirba"
+}

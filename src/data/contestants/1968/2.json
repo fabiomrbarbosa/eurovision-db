@@ -1,0 +1,54 @@
+{
+  "id": 2,
+  "country": "FR",
+  "artist": "Isabelle Aubret",
+  "song": "La Source",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Ioyf4dkJYLY",
+    "https://www.youtube-nocookie.com/embed/ycarcGMdCC0",
+    "https://www.youtube-nocookie.com/embed/YM_2z4vsJe0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "La Source",
+      "content": "Elle chante au milieu du bois, la source, et je me demande\nS'il faut croire à cette légende d'une fille qu'on y trouva\n\nElle était blonde, elle était douce\nElle aimait à se reposer\nDans le bois, couchée sur la mousse\nÉcoutant les oiseaux chanter\n\nUn jour qu'elle allait à la ville\nPar le bois où elle passait\nElle vit soudain, immobiles\nTrois hommes qui la regardaient\nTrois hommes qui la regardaient\n\nElle chante au milieu du bois, la source, et je me demande\nS'il faut croire à cette légende d'une fille qu'on y trouva\n\nIls étaient là, trois, à l'attendre\nTrois hommes loups, cette brebis\nElle avait la chair bien trop tendre\nIls avaient bien trop d'appétit\n\nElle ne savait pas défendre\nLe souffle léger de sa vie\nElle tomba sur l'herbe tendre\nComme un oiseau tombe du nid\nComme un oiseau tombe du nid\n\nElle chante au milieu du bois, la source, et je me demande\nS'il faut croire à cette légende d'une fille qu'on y trouva\n\nQuand on l'a soulevée de terre\nComme une grande fleur coupée\nSa robe blanche et la lumière\nOn aurait dit une mariée\n\nQuand on l'a soulevée de terre\nOn aurait dit comme un grand lis\nEntre les feuilles, entre les pierres\nUne claire source a jailli\nUne claire source a jailli\n\nElle chante au milieu du bois, la ѕource, et je me demande\nS'il faut croire à cette légende d'une fille qu'on y trouva\n\nS'il faut croire à cette légende d'une fille qu'on y trouvа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The Source",
+      "content": "The source sings in the middle of the wood, and I wonder\nIf I should believe this legend of a girl they found there\n\nShe was blonde, she was gentle\nShe liked to rest\nIn the wood, lying down on the moss\nListening to the birds singing\n\nOne day she was going to town\nThrough the woods, that she passed by\nShe suddenly saw, motionless\nThree men looking at her\nThree men looking at her\n\nThe source sings in the middle of the wood, and I wonder\nIf I should believe this legend of a girl they found there\n\nThey were three, there, waiting for her\nThree men-wolves, this lamb\nHer flesh was much too tender\nThey had too much appetite\n\nShe didn't know how to defend\nThe fragile breath of her life\nShe fell down on the soft grass\nLike a bird falls from the nest\nLike a bird falls from the nest\n\nThe source sings in the middle of the wood, and I wonder\nIf I should believe this legend of a girl they found there\n\nWhen they picked her up from the ground\nLike a big cut flower\nHer white dress and the light\nShe looked like a bride\n\nWhen they picked her up from the ground\nShe looked like a big lily\nAmong the leaves, among the rocks\nA pure source gushed out\nA pure source gushed out\n\nThe source sings in the middle of the wood, and I wonder\nIf I should believe this legend of a girl they found there\n\nIf I should believe thiѕ legend of а girl they found there"
+    }
+  ],
+  "bpm": 103,
+  "tone": "G major",
+  "artistPeople": [
+    "Thérèse Coquerelle"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Daniel Faure"
+  ],
+  "conductor": "Alain Goraguer",
+  "lyricists": [
+    "Guy Bonnet",
+    "Henri Djian"
+  ],
+  "writers": null,
+  "broadcaster": "ORTF",
+  "commentators": [
+    "Pierre Tchernia"
+  ],
+  "jury": null,
+  "spokesperson": "Jean-Claude Massoulier"
+}

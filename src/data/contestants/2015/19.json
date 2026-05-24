@@ -1,0 +1,68 @@
+{
+  "id": 19,
+  "country": "HU",
+  "artist": "Boggie",
+  "song": "Wars For Nothing",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/MdybVsBESQc",
+    "https://www.youtube-nocookie.com/embed/Z52QQG1hboo",
+    "https://www.youtube-nocookie.com/embed/gzHNFFSFTIs",
+    "https://www.youtube-nocookie.com/embed/WETXc5Z7Cng",
+    "https://www.youtube-nocookie.com/embed/654V2hPUX4w",
+    "https://www.youtube-nocookie.com/embed/JoMzg0Krsj8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Wars For Nothing",
+      "content": "Do you know our Earth is a mess?\nAll the wars for nothing, it never ends\nEverybody deserves a chance\nAll the souls, all the souls\nCan you hear them cry?\n\nThat you live in peace does not mean\nIt's okay to ignore all the pain\nI see children joining the stars\nSoldiers walk towards the dark\nLet me ask\n\nCan you justify all the eyes\nThat will never see daylight?\nGive me one good reason to hurt\nA helpless soul, break a heart\nKill a mind\n\nDo you know how many innocents\nAre hiding from punishment\nFor crimes they'd never commit?\nAll alone, all alone\nDo they deserve\n\nTo die for believing something else?\nFor having a face someone can't stand\nDo you know our Earth is a mess?\nAll the wars for nothing\nIt never ends\n\nAll the souls, all alone\nHold them tight\nAll the souls deѕerve a chаnce\nAt life"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "hungarian"
+      ],
+      "displayedLanguages": null,
+      "title": "Háborúk A Semmiért",
+      "content": "Tudod-e, őrült az egész világ\nLátod-e a háborúkat a semmiért, soha nem érnek véget\nMindenki megérdemel egy esélyt\nEz a rengeteg szenvedő lélek\nHallod-e a sírásukat?\n\nAz, hogy te békében élsz, nem jelenti azt\nHogy nem kell törődni a sok fájdalommal\nLátom, ahogy gyerekek a csillagokba érnek\nKatonák menetelnek a sötétben\nMondd:\n\nHogyan tudod igazolni\nA megvakított szemeket?\nCsak egy indokot mondjál, hogy miért kell bántani\nEgy gyámoltalan lelket, hogy miért kell szíveket összetörni\nMiért kell lelkeket ölni\n\nTudod-e, hány ártatlan ember\nBujkál a büntetés elől\nOlyan bűnök miatt, amiket soha se követtek volna el\nMind egyedül\nVajon megérdemlik\n\nA halált, azért, hogy másban hisznek?\nAzért, mert valaki ki nem állhatja a képüket?\nTudod-e, őrült az egész világ\nLátod-e a háborúkat a ѕemmiért\nSoha nem érnek véget\n\nEzek а lelkek, mind egyedül\nÖleld át őket\nMinden lélek megérdemli\nAz életet"
+    }
+  ],
+  "bpm": 129,
+  "tone": "D major",
+  "artistPeople": [
+    "Boglárka Csemer"
+  ],
+  "backings": [
+    "Domonkos Dely",
+    "Krisztina Szeder-Szabó",
+    "Milán Szakonyi",
+    "Orsolya Sapszon"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Áron Sebestyén",
+    "Boggie"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Sára Hélène Bori"
+  ],
+  "writers": null,
+  "broadcaster": "MTV",
+  "commentators": [
+    "Gábor Gundel Takács"
+  ],
+  "jury": [
+    "Julianna Fabian",
+    "Mátyás Milkovics",
+    "Odett Polgar",
+    "Robert Hrutka",
+    "Tamás Zoltán Marosi"
+  ],
+  "spokesperson": "Csilla Tatár"
+}

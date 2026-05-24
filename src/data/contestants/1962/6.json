@@ -1,0 +1,52 @@
+{
+  "id": 6,
+  "country": "FI",
+  "artist": "Marion Rung",
+  "song": "Tipi-tii",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/yj7nnOq26cQ",
+    "https://www.youtube-nocookie.com/embed/d3S3CSxHpWI",
+    "https://www.youtube-nocookie.com/embed/76g_G9TPo7g"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Tipi-tii",
+      "content": "Tipi-tii, tipi, tipi, tipi-tii\nKevät on vallaton\nTipi-tii, tipi, tipi, tipi-tii\nLintunen kertoi sen\nTipi-tii, tipi, tipi, tipi-tii\nEtsimään riennetään\nTipi-tii, tipi, tipi, tipi-tii\nArmahin kummankin\n\nKuorolaulu kun lauletaan, tässä kumpikin oksallaan\nSaamme kauemmas kuulumaan, kutsun rakkauden\n\nTipi-tii, tipi, tipi, tipi-tii\nPesänkin rakensin\nTipi-tii, tipi, tipi, tipi-tii\nTule vain armahain\n\nKevät siivin iloisin, liihoittelee meillekin\nPyöritellen tullessaan, aurinkoista vannettaan\n\nLa la la… la la la…\nLa la la… la la la la…\nTipi-tii, tipi, tipi, tipi-tii\nTipi-tii, tipi, tipi, tipi-tii\n\nKuorolaulu kun lauletaan, tässä kumpikin oksallaan\nSaamme kauemmas kuulumaan, kutsun rakkauden\n\nTipi-tii, tipi, tipi, tipi-tii\nPesänkin rakenѕin\nTipi-tii, tipi, tipi, tipi-tii\nTule vain armahain\nTule vain armahаin\nTipi-tii"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Chirpy-chirp",
+      "content": "Chirpy-chirp, chirpy, chirpy, chirpy-chirp\nThe spring is wonderful\nChirpy-chirp, chirpy, chirpy, chirpy-chirp\nIt was told by a bird\nChirpy-chirp, chirpy, chirpy, chirpy-chirp\nLet's hasten to find\nChirpy-chirp, chirpy, chirpy, chirpy-chirp\nA sweetheart for both of us\n\nWhen we're singing in chorus, each one here on its branch\nWe can make it be heard further, the call of love\n\nChirpy-chirp, chirpy, chirpy, chirpy-chirp\nI also built a nest\nChirpy-chirp, chirpy, chirpy, chirpy-chirp\nCome along my dearest\n\nThe spring with happy wings floats for us too\nIt comes twiddling its sunny hoop\n\nLa la la… la la la…\nLa la la… la la la la…\nChirpy-chirp, chirpy, chirpy, chirpy-chirp\nChirpy-chirp, chirpy, chirpy, chirpy-chirp\n\nWhen we're singing in chorus, each one here on its branch\nWe can make it be heard further, the call of love\n\nChirpy-chirp, chirpy, chirpy, chirpy-chirp\nI also built a nest\nChirpy-chirp, chirpy, chirpy, chirpy-chirp\nCome along my dearest\nCome along my deаreѕt\nChirpy-chirp"
+    }
+  ],
+  "bpm": 165,
+  "tone": "G major",
+  "artistPeople": [
+    "Marion Rung"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "George de Godzinsky",
+  "lyricists": null,
+  "writers": [
+    "Jaakko Salo",
+    "Kari Tuomisaari"
+  ],
+  "broadcaster": "YLE",
+  "commentators": [
+    "Aarno Walli"
+  ],
+  "jury": null,
+  "spokesperson": "Poppe Berg"
+}

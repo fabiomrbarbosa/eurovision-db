@@ -1,0 +1,71 @@
+{
+  "id": 15,
+  "country": "BA",
+  "artist": "Fazla",
+  "song": "Sva bol svijeta",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/gmbrJkzQ4Ik",
+    "https://www.youtube-nocookie.com/embed/dkfCGqAoV6U",
+    "https://www.youtube-nocookie.com/embed/ZH9dSjP-jgo",
+    "https://www.youtube-nocookie.com/embed/FW5hKZl2-mI",
+    "https://www.youtube-nocookie.com/embed/uNsgTrU31tg",
+    "https://www.youtube-nocookie.com/embed/3niuPNOQ14M"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "bosnian"
+      ],
+      "displayedLanguages": null,
+      "title": "Sva bol svijeta",
+      "content": "Ja ne mogu skinuti zvijezde sa neba\nNe mogu naći put, put do svemira\nAl' ti mogu ovu pjesmu poslati\nDa znaš da sam živ, ljubavi\n\nKad se noćas na mom licu suze zalede\nNeću dati da me strah sa sobom povede\nJa još imam snage sam da pobijedim\nDa smo zajedno, lakše bilo bi\n\nSva bol svijeta je noćas u Bosni\nOstajem da bolu prkosim\nI nije me strah stati pred zid\nJa znam da zapjevam, ja znam da pobijedim\n\nKad se noćas na mom licu suze zalede\nNeću dati da me strah sa sobom povede\nKo će mjesto mene stražu čuvati\nDa se nikada zlo ne ponovi?\n\nSva bol svijeta je noćas u Bosni\nOstajem da bolu prkosim\nI nije me strah stati pred zid\nJa znam da zapjevam, ja znam da pobijedim\n\nSva bol svijeta je noćas u Bosni\nOstajem da bolu prkosim\nI nije me strah ѕtati pred zid\nJa znam da zapjevam, ja znam dа pobijedim"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": null,
+      "title": "Όλος ο πόνος στον κόσμο",
+      "content": "Δεν μπορώ να κατεβάσω τα αστέρια από τον ουρανό\nΔεν μπορώ να βρω τρόπο, τον τρόπο για το σύμπαν\nΑλλά μπορώ να σου στείλει αυτό το τραγούδι\nΈτσι θα ξέρεις πως είμαι ζωντανός, αγάπη μου\n\nΑπόψε όταν τα δάκρυα στο πρόσωπό μου παγώσουν\nΔεν θα αφήσω τον φόβο να με κυριεύσει\nΈχω ακόμα τη δύναμη να νικήσω μόνος\nΑν ήμασταν μαζί, θα ήταν πιο εύκολο\n\nΌλος ο πόνος στον κόσμο απόψε στη Βοσνία\nΜένω για να αψηφίσω τον φόβο\nΔεν είμαι φοβισμένος να σταθώ μπροστά στον τοίχο\nΜπορώ να τραγουδίσω, μπορώ να κερδίσω\n\nΑπόψε όταν τα δάκρυα στο πρόσωπό μου παγώσουν\nΔεν θα αφήσω τον φόβο να με κυριεύσει\nΠοιος θα είναι ο φρουρός αντί για εμένα\nΈτσι ώστε να μην συμβεί κάτι κακό;\n\nΌλος ο πόνος στον κόσμο απόψε στη Βοσνία\nΜένω για να αψηφίσω τον φόβο\nΔεν είμαι φοβισμένος να σταθώ μπροστά στον τοίχο\nΜπορώ να τραγουδίσω, μπορώ να κερδίσω\n\nΌλος ο πόνος στον κόσμο απόψε στη Βοσνία\nΜένω για να αψηφίσω τον φόβο\nΔεν είμαι φοβισμένος να σταθώ μπροστά στον τοίχο\nΜπορώ να τραγουδίσω, μπορώ να κερδίσω"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "All the pain in the world",
+      "content": "I can't take the stars down from the sky\nI can't find the way, the way to universe\nBut I can send you this song\nSo you'll know I'm alive, my love\n\nTonight when tears on my face freeze up\nI won't let the fear take me over\nI still have the strength to win alone\nIf we were together, it'd be easier\n\nAll the pain in the world tonight is in Bosnia\nI'm staying to defy the fear\nI'm not afraid to stand in front of the wall\nI can sing, I can win\n\nTonight when tears on my face freeze up\nI won't let the fear take me over\nWho will be the guard instead of me\nSo that another evil doesn't occur?\n\nAll the pain in the world tonight is in Bosnia\nI'm staying to defy the fear\nI'm not afraid to stand in front of the wall\nI can sing, I can win\n\nAll the pain in the world tonight is in Bosnia\nI'm staying to defy the fear\nI'm not afraid to stand in front of the wall\nI can ѕing, I cаn win"
+    }
+  ],
+  "bpm": 102,
+  "tone": "D minor",
+  "artistPeople": [
+    "Amir Bjelanobić",
+    "Edina Salkanović",
+    "Enver Milisić",
+    "Erliha Hadzović",
+    "Izudin 'Izo' Kolečić",
+    "Muhamed Fazlagić"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Edin Dervišhalidović"
+  ],
+  "conductor": "Noel Kelehan",
+  "lyricists": [
+    "Edin Dervišhalidović",
+    "Fahrudin Pecikoza-Peca"
+  ],
+  "writers": null,
+  "broadcaster": "RTVBIH",
+  "commentators": [
+    "Ismeta Dervoz-Krvavac"
+  ],
+  "jury": null,
+  "spokesperson": "Senad Hadžifejzović"
+}

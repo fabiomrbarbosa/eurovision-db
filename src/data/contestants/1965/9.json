@@ -1,0 +1,53 @@
+{
+  "id": 9,
+  "country": "SE",
+  "artist": "Ingvar Wixell",
+  "song": "Absent Friend",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/cSXM_tBp3tA",
+    "https://www.youtube-nocookie.com/embed/1vrfQx70c2U",
+    "https://www.youtube-nocookie.com/embed/639wAfFYgxE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Absent Friend",
+      "content": "A night of spring is a lovely thing\nBut I feel sad in this night of spring\nFor this is the time the sloe gets bright\nAnd this is a most bewitching night\nAnd I am lonely and you are far\nAnd you can't hear what I sing\n\nI wish I knew where you are tonight\nI wish you're thinking of me tonight\nWhere are you tonight?\nI wish you feel how I long for you\nAnd I wish you're missing me too\nAnd I wish I knew where to go\nKnowing you\nKnowing you\n\nWe ought to walk where the cowslips grow\nBehind the hedge of candescent sloe\nAnd you ought to smile and look at me\nAnd I ought to kiss you tenderly\nBut I don't know if you still are mine\nThis lovely evening of spring\n\nI wish I knew where you are tonight\nI wish you're thinking of me tonight\nWhere аre you tonight?\n\nI wish you feel how I long for you\nAnd I wish you're missing me too\nAnd I wiѕh I knew where to go\nKnowing you\nKnowing you\n\nTonight"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Annorstädes Vals",
+      "content": "En vårens kväll är en ljuvlig tid\nMen denna kväll ger mig ingen frid\nOch längtan och trånad bor i den\nOch häggen och slån slår ut igen\nOch jag är ensam och långt från dig\nOch du hör alls inte mig\n\nJag undrar just vad du gör ikväll\nJag undrar just var du är ikväll\nVar är du ikväll?\nJag undrar vart dina tankar bär\nOch jag undrar: är jag dig kär?\nOch med oro undrar jag här\nVar du är\nVar du är\n\nVi borde vandra tillsammans nu\nBland hägg och gullvivor, jag och du\nOch du skulle le med tillförsikt\nOch vi skulle kyssas innerligt\nMen jag vet inte om du minns mig\nOch jag är fjärran från dig\n\nJag undrar just vad du gör ikväll\nJag undrar juѕt var du är ikväll\nVar är du ikväll?\n\nJag undrar vart dina tankar bär\nOch jag undrar: är jag dig kär?\nOch med oro undrar jag här\nVar du är\nVаr du är\n\nIkväll"
+    }
+  ],
+  "bpm": 123,
+  "tone": "E minor",
+  "artistPeople": [
+    "Ingvar Wixell"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Dag Wirén"
+  ],
+  "conductor": "William Lind",
+  "lyricists": [
+    "Alf Henriksson"
+  ],
+  "writers": null,
+  "broadcaster": "SR",
+  "commentators": [
+    "Berndt Friberg"
+  ],
+  "jury": null,
+  "spokesperson": "Edvard Matz"
+}

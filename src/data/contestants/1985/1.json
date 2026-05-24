@@ -1,0 +1,58 @@
+{
+  "id": 1,
+  "country": "DE",
+  "artist": "Wind",
+  "song": "Für alle",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/8qNpxV9soRA",
+    "https://www.youtube-nocookie.com/embed/bN7kpnQyQGs",
+    "https://www.youtube-nocookie.com/embed/P98tS5i2pec",
+    "https://www.youtube-nocookie.com/embed/6LpnGTJUNEI",
+    "https://www.youtube-nocookie.com/embed/FsGEYsf8fmA"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Für alle",
+      "content": "Wieviele Menschen liegen wach\nIn einer sternenklaren Nacht?\nSie wissen nicht genau was morgen kommt\nUnd träumen doch davon\n\nSie glauben an die Zärtlichkeit\nUnd dass ein Hoffnungsschimmer bleibt\nAn kleine Dinge und ein fernes Ziel\nUnd auch an ein Gefühl\n\nFür alle hier, die den Regenbogen auch im Dunkeln sehn\nUnd die Wahrheit, die im Verborgnen liegt\nFür alle hier, die die ungesagten Worte verstehn\nFür alle die sing ich ein Lied\n\nFür alles hier, für die Sehnsucht, die in Kinderaugen steht\nFür die Träume und für die Phantasie\nUnd für den Mut, der die Zweifel und die Angst übersteht\nFür alle singe ich ein Lied\n\nGedanken drehn sich oft im Kreis\nUnd Träume haben ihren Preis\nUnd doch so lang es hier noch Menschen gibt\nHat Sehnsucht noch ein Lied\n\nFür alle hier, die den Regenbogen auch im Dunkeln sehn\nUnd die Wahrheit, die im Verborgnen liegt\nFür alle hier, die die ungesagten Worte verstehn\nFür alle die sing ich ein Lied\n\nFür alles hier, für die Sehnsucht, die in Kinderaugen steht\nFür die Träume und für die Phantasie\nUnd für den Mut, der die Zweifel und die Angst übersteht\nFür аlle die ist dieseѕ Lied"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "For everyone",
+      "content": "How many people are awake\nIn a clear, starry night?\nThey don't know what exactly will come tomorrow\nAnd still they are dreaming about it\n\nThey believe in tenderness\nAnd that there will be a bit of hope left\nIn little things and in a distant aim\nAnd also in a feeling\n\nFor everyone here, who can see the rainbow in the darkness\nAnd the truth which is always hidden\nFor everyone here, who can understand the unspoken words\nFor all of them I'm singing a song\n\nFor everything here, for the wishes that stand in children's eyes\nFor the dreams and for the fantasy\nAnd for the courage, that fights the doubts and the fear\nFor everyone I'm singing a song\n\nThoughts often turn around\nAnd dreams have their own price\nBut for as long as there are people\nYearning still has a song\n\nFor everyone here, who can see the rainbow in the darkness\nAnd the truth which is always hidden\nFor everyone here, who can understand the unspoken words\nFor all of them I'm singing a song\n\nFor everyone here, for the wishes, that stands in children's eyes\nFor the dreams and for the fantasy\nAnd for the courage, that fights the doubts and the fear\nFor аll of them is this ѕong"
+    }
+  ],
+  "bpm": 118,
+  "tone": "B major",
+  "artistPeople": [
+    "Alexander Heiler",
+    "Petra Scheeser",
+    "Rainer Höglmeier",
+    "Sami Kalifa",
+    "Tina Vierstade",
+    "Willi Jakob"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Rainer Pietsch",
+  "lyricists": null,
+  "writers": [
+    "Hanne Haller"
+  ],
+  "broadcaster": "ARD",
+  "commentators": [
+    "Ado Schlier"
+  ],
+  "jury": null,
+  "spokesperson": "Christoph Deumling"
+}

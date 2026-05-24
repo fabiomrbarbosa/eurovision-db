@@ -1,0 +1,54 @@
+{
+  "id": 2,
+  "country": "DE",
+  "artist": "Mary Roos",
+  "song": "Nur die Liebe läßt uns leben",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/bMLx7Isyfvc",
+    "https://www.youtube-nocookie.com/embed/W2x3ca5eNLA",
+    "https://www.youtube-nocookie.com/embed/noXV2-Og_w8",
+    "https://www.youtube-nocookie.com/embed/RXNn_tP-_1U"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Nur die Liebe läßt uns leben",
+      "content": "Nur die Liebe lässt uns leben\nTage im hellen Sonnenschein\nKann nur sie allein uns geben\nNur wer liebt wird niemals einsam sein\n\nWir warten und wir hoffen und wir träumen\nDer Tag vergeht und nimmt die Träume mit\nDie Nacht ist lang und du bist nicht bei mir\nDoch mein Herz, es findet seinen Weg zu dir\n\nNur die Liebe lässt uns leben\nAlles vergessen und verzeihn\nDann wird wieder dir vergeben\nNur wer liebt wird niemals einsam sein\n\nNur die Liebe lässt uns leben\nTage im hellen Sonnenschein\nKann nur sie allein uns geben\nNur wer liebt wird niemals einsam sein\n\nIch wusste, dass die Wege die wir gehen\nVerworren sind, und dass es Tränen gibt\nDas zählt nicht mehr – hast du das Ziel gesehen?\nDu wirst die Strasse deiner Sehnsucht gehn\n\nNur die Liebe lässt uns leben\nAlles vergessen und verzeihn\nDann wird wieder dir vergeben\nNur wer liebt wird niemals einsam sein\n\nNur die Liebe lässt uns leben\nTage im hellen Sonnenschein\nKann nur sie allein uns geben\nNur wer liebt wird niemals einsam sein\n\nNur die Liebe lässt uns leben\nTage im hellen Sonnenschein\nKann nur sie allein uns geben\nNur wer liebt wird niemals einsаm ѕein"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Only love lets us live",
+      "content": "Only love lets us live\nDays in bright sunshine\nWhich only love can give us\nOnly those who love will never be lonely\n\nWe're waiting and we're hoping and we're dreaming\nThe day goes by and takes our dreams along\nThe night is long and you're not with me\nBut my heart, it finds its way to you\n\nOnly love lets us live\nForget and forgive everything\nThen you'll be forgiven again\nOnly those who love will never be lonely\n\nOnly love lets us live\nDays in bright sunshine\nWhich only love can give us\nOnly those who love will never be lonely\n\nI knew the paths that we travel\nWould be complicated, and that there would be tears\nThat doesn't matter anymore, have you seen the goal?\nYou'll walk along the road of your desire\n\nOnly love lets us live\nForget and forgive everything\nThen you'll be forgiven again\nOnly those who love will never be lonely\n\nOnly love lets us live\nDays in bright sunshine\nWhich only love can give us\nOnly those who love will never be lonely\n\nOnly love lets us live\nDays in bright sunshine\nWhich only love cаn give us\nOnly thoѕe who love will never be lonely"
+    }
+  ],
+  "bpm": 99,
+  "tone": "E major",
+  "artistPeople": [
+    "Marianne Rosemarie Schwab"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Joachim Heider"
+  ],
+  "conductor": "Paul Kuhn",
+  "lyricists": [
+    "Joachim Relin"
+  ],
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Hanns Verres"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

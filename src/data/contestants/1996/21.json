@@ -1,0 +1,59 @@
+{
+  "id": 21,
+  "country": "BA",
+  "artist": "Amila Glamočak",
+  "song": "Za Našu Ljubav",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/3062NrjNusI",
+    "https://www.youtube-nocookie.com/embed/n8QmKYKeoSU",
+    "https://www.youtube-nocookie.com/embed/8uRgo7MV7QQ",
+    "https://www.youtube-nocookie.com/embed/lYJ6KeHSh68",
+    "https://www.youtube-nocookie.com/embed/2ARxLT2-bHU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "bosnian"
+      ],
+      "displayedLanguages": null,
+      "title": "Za Našu Ljubav",
+      "content": "Sve bih dala, sve na svijetu\nDa si pored mene ti\nDa me grle tvoje ruke\nMoja ljubavi\n\nDa me jutrom tiho budiš\nSvojim vrelim usnama\nDa mi svoje ruke pružiš\nKradeš me od sna\n\nDuga je noć kad sam bez tebe\nI svaki dan, kao da umirem\nAl' jedno znam, volim te ja\nI čekaću sto godina\n\nNe mogu ja bez tebe znam\nJa živim samo za još jedan dan\nZa još jednu noć stvorenu od sna\nZa našu ljubav samo živim ja\n\nNe mogu ja bez tebe znam\nJa živim samo za još jedan dan\nZa još jednu noć stvorenu od sna\nZa našu ljubav ѕamo živim jа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "For our love",
+      "content": "I'd give it all, everything in the world\nTo have you beside me\nTo have your arms around me\nMy love\n\nTo have you wake me up in the morning\nWith your warm lips\nTo have your hands touch mine\nStealing me away from dreams\n\nThe night is long when I'm without you\nAnd every day, as if I'm dying\nBut I know I love you\nAnd will wait hundred years\n\nI can't be without you, I know\nI'm living for only one day\nFor only one night, made of dreams\nOnly for our love, I live\n\nI can't be without you, I know\nI'm living for only one day\nFor only one night, made of dreаmѕ\nOnly for our love, I live"
+    }
+  ],
+  "bpm": 135,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Amila Glamočak"
+  ],
+  "backings": [
+    "Zeljka Katavic-Pilj"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Adnan Bajramović",
+    "Aida Frljak",
+    "Sinan Alimanović"
+  ],
+  "conductor": "Sinan Alimanović",
+  "lyricists": [
+    "Adnan Bajramović"
+  ],
+  "writers": null,
+  "broadcaster": "RTVBIH",
+  "commentators": [
+    "Suad Bejtović"
+  ],
+  "jury": null,
+  "spokesperson": "Segmedina Srna"
+}

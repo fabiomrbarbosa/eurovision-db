@@ -1,0 +1,67 @@
+{
+  "id": 7,
+  "country": "YU",
+  "artist": "Ljiljana Petrović",
+  "song": "Neke davne zvezde",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/0F7t2NFx8Ew",
+    "https://www.youtube-nocookie.com/embed/1wSyMFUAJpg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "serbian"
+      ],
+      "displayedLanguages": [
+        "srpski"
+      ],
+      "title": "Neke davne zvezde",
+      "content": "Stari put od lišća sav žut\nNoć na putu tom\nSan od zvezda tako je žut\nSan u oku mom\n\nO znam ja, o, znam ja\nJoš pamtim te dane\nNekad si bio uz mene tu\n\nO znam, da si još moj\nPlaču noćas grane\nU oku mome i snu\n\nTvoj osmeh još slutim i tvoj topli dlan\nDok čekam, ćutim i tonem u san\n\nO znam, da si još moj\nPlaču noćas grane\nU oku mome i snu\n\nTvoj osmeh još slutim i tvoj topli dlan\nDok čekam, ćutim i tonem u san\n\nO znam, da si još moj\nPlaču noćas grane\nU oku mome, u srcu mome\nU sаmoći mojoj i ѕnu"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "serbian"
+      ],
+      "displayedLanguages": [
+        "српски"
+      ],
+      "title": "Неке давне звезде",
+      "content": "Стари пут од лишћа сав жут\nНоћ на путу том\nСан од звезда тако је жут\nСан у оку мом\n\nО знам ја, о, знам ја\nЈош памтим те дане\nНекад си био уз мене ту\n\nО знам, да си још мој\nПлачу ноћас гране\nУ оку моме и сну\n\nТвој осмех још слутим и твој топли длан\nДок чекам, ћутим и тонем у сан\n\nО знам, да си још мој\nПлачу ноћас гране\nУ оку моме и сну\n\nТвој осмех још слутим и твој топли длан\nДок чекам, ћутим и тонем у сан\n\nО знам, да си још мој\nПлачу ноћас гране\nУ оку моме, у срцу моме\nУ самоћи мојој и сну"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Some distant stars",
+      "content": "The old road is covered with yellow leaves\nThat road is dark\nThe dreams are covered with yellow stars\nThe dreams in my eye\n\nYes, I know, I know\nI still remember those days\nYou were with me then\n\nYes, I know that you're still mine\nThe branches are crying tonight\nIn my eyes and my dreams\n\nI'm still expecting your smile and your warm hand\nWhile I'm waiting, I'm quiet and going to sleep\n\nYes, I know that you're still mine\nThe branches are crying tonight\nIn my eyes and my dreams\n\nI'm still expecting your smile and your warm hand\nWhile I'm waiting, I'm quiet and going to sleep\n\nYes, I know that you're still mine\nThe branches are crying tonight\nIn my eyes and my heart\nIn my loneliness and my dreаmѕ"
+    }
+  ],
+  "bpm": 164,
+  "tone": "G major",
+  "artistPeople": [
+    "Ljiljana Petrović"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jože Privšek"
+  ],
+  "conductor": "Jože Privšek",
+  "lyricists": [
+    "Miroslav Antić"
+  ],
+  "writers": null,
+  "broadcaster": "JRT",
+  "commentators": [
+    "Gordana Bonetti",
+    "Ljubomir Vukadinović",
+    "Tomaž Terček"
+  ],
+  "jury": null,
+  "spokesperson": "Saša Novak"
+}

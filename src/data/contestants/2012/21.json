@@ -1,0 +1,73 @@
+{
+  "id": 21,
+  "country": "FR",
+  "artist": "Anggun",
+  "song": "Écho (You and I)",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/0DZ7DbdeOeE",
+    "https://www.youtube-nocookie.com/embed/SnSmB7uBo-Y"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Écho (You and I)",
+      "content": "You and I, you and I\n\nJ'entends l'écho de nos pas, tous en cadence\nMarche au pas, jamais dans le même sens\nOn avance, mais on court après quoi?\n\nJ'entends l'écho de nos rêves, de nos envies\nAu-delà du jour jusqu'à la nuit\nOn s'entraîne, et on court après quoi?\n\nOn se perd, on s'espère\nQuelque part on s'égare\nUn jour au-delà on se retrouvera\n\nIn my dreams, in my dreams\nIn my heart, in my mind\nI see you and I, there is you and I\n\nJ'entends l'écho de nos pas qui se balancent\nÇa et là, toujours sur la même danse\nOn avance, mais on court après quoi?\n\nOn se perd, on s'espère\nQuelque part on s'égare\nUn jour au-delà on se retrouvera\n\nIn my dreams, in my dreams\nIn my heart, in my mind\nI see you and I, there is you and I\n\nThere is you and I\nThere is you and I\n\nJ'entends l'écho de ta voix s'éloigner de moi\nL'écho d'un amour un jour reviendra\nIl m'entraîne et je cours après toi\n\nOn se perd, on s'espère\nQuelque part on s'égare\nUn jour au-delà on se retrouvera\n\nIn my dreams, in my dreams\nIn my heart, in my mind\nI see you and I, there iѕ you аnd I"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "indonesian"
+      ],
+      "displayedLanguages": null,
+      "title": "Gema (Kamu dan Aku)",
+      "content": "Kamu dan aku, kamu dan aku\n\nAku mendengar gema dari langkah berirama kami\nBerbaris, tidak pernah ke arah yang sama\nKita melanjutkan, tapi apa yang kita kejar?\n\nAku mendengar gema dari mimpi kita, dari keinginan kita\nSetiap hari sampai malam\nKita berlatih, dan apa yang kita kejar?\n\nKita bingung, Kita berharap\nDi suatu tempat kita tersesat\nSuatu hari kita akan bertemu lagi\n\nDalam mimpiku, dalam mimpiku\nDi dalam hatiku, di dalam pikiranku\nAku melihatmu dan aku, ada kamu dan aku\n\nAku mendengar gema dari langkah kita yang berayun\nItu dan di sana, selalu tarian yang sama\nKita melanjutkan, tapi apa yang kita kejar?\n\nKita bingung, Kita berharap\nDi suatu tempat kita tersesat\nSuatu hari kita akan bertemu lagi\n\nDalam mimpiku, dalam mimpiku\nDi dalam hatiku, di dalam pikiranku\nAku melihatmu dan aku, ada kamu dan aku\n\nAda kamu dan aku\nAda kamu dan aku\n\nAku mendengar gema suaramu menjauh dariku\nGema cinta yang suatu hari akan kembali\nItu membawaku pergi dan aku mengejarmu\n\nKita bingung, Kita berharap\nDi suatu tempat kita tersesat\nSuatu hari kita akan bertemu lagi\n\nDalam mimpiku, dalam mimpiku\nDi dalam hatiku, di dalam pikiranku\nAku melihatmu dan aku, di ѕana ada kamu dan аku"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Echo (You and I)",
+      "content": "You and I, you and I\n\nI hear the echo of our rhythmic steps\nMarching, never in the same direction\nWe move on, but what are we running after?\n\nI hear the echo of our dreams, of our desires\nEvery day until the night\nWe practice, and what are we running after?\n\nWe're confused, we hope\nSomewhere we get lost\nOne day we will see each other again\n\nIn my dreams, in my dreams\nIn my heart, in my mind\nI see you and I, there is you and I\n\nI hear the echo of our swinging steps\nThat and there, always the same dance\nWe move on, but what are we running after?\n\nWe're confused, we hope\nSomewhere we get lost\nOne day we will see each other again\n\nIn my dreams, in my dreams\nIn my heart, in my mind\nI see you and I, there is you and I\n\nThere is you and I\nThere is you and I\n\nI hear the echo of your voice moving away from me\nThe echo of a love that one day will return\nIt carries me off and I run after you\n\nWe're confused, we hope\nSomewhere we get lost\nOne day we will see each other again\n\nIn my dreams, in my dreams\nIn my heart, in my mind\nI see you and I, there iѕ you аnd I"
+    }
+  ],
+  "bpm": 137,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Anggun Cipta Sasmi"
+  ],
+  "backings": [
+    "Andréa Catozzi",
+    "Caroline Devismes"
+  ],
+  "dancers": [
+    "Jeremy Maupilet",
+    "Jimmy Bourcereau",
+    "Sebastien Demeaux"
+  ],
+  "stageDirector": null,
+  "composers": [
+    "Jean-Pierre Pilot",
+    "William Rousseau"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Anggun",
+    "William Rousseau"
+  ],
+  "writers": null,
+  "broadcaster": "France 3",
+  "commentators": [
+    "Audrey Chauveau",
+    "Bruno Berberes",
+    "Cyril Féraud",
+    "Mireille Dumas"
+  ],
+  "jury": null,
+  "spokesperson": "Amaury Vassili"
+}

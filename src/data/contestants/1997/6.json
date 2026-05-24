@@ -1,0 +1,50 @@
+{
+  "id": 6,
+  "country": "FR",
+  "artist": "Fanny",
+  "song": "Sentiments songes",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/quWb2KME_fw",
+    "https://www.youtube-nocookie.com/embed/VNGHuqWKbkU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Sentiments songes",
+      "content": "Souvent on s'fait des tours de manège à l'envers\nOn découvre l'amour, mais sans les belles manières\nOn s'invente des histoires, histoires de s'faire planer\nOn s'maquille la mémoire pour éviter de penser\n\nC'est comme l'eau d'un ruisseau, ça coule sans s'arrêter\nTout c'qu'on a trouvé beau, à force s'est cassé\nÇa fait pas vraiment mal, sauf qu'on se sent à côté\nDu brillant des étoiles et qu'on ne veut plus donner\n\nSentiments, sentiments songes utiles\nUtilisation pour mots d'amour fragiles\nSentiments, sentimentales souffrances\nLégère comme un silence\nJeu de larmes pour nuits blanches\n\nSuppositions câlines\nOh...\n\nC'est comme l'arme du crime, faut l'empreinte pour prouver\nProuver qu'on s'fait du mal ou qu'on se fait du bien\nTout c'qu'est moche on l'étale\nC'qu'était bon plus personne s'en souvient\n\nEt ça fait des souvenirs étrangement précis\nDes choses qu'on peut écrire ou ranger dans sa vie\nOn ne sait plus vraiment ce qui est faux ou vrai\nMais c'qui est important c'est que tout ça, on l'ait fait\n\nSentiments, sentiments songes utiles\nUtilisation pour mots d'amour fragiles\nSentiments, sentimentales souffrances\nLégère comme un silence\nJeu de larmes pour nuits blаnches\n\nOh, sentimentѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Dream feelings",
+      "content": "Often we ride on the merry-go-round in the wrong way\nWe discover love, but without the beautiful manners\nWe invent stories, stories to get away from it\nWe make up our memory to avoid thinking\n\nIt's like the water of a stream, it pours without stopping\nEverything we found beautiful, had to get broken\nIt's not all that bad, except that we feel left out\nOf the starshine and that we don't want to give anymore\n\nFeelings, useful dream feelings\nUsed for tender words of love\nFeelings, sentimental suffering\nAs light as a silence\nA game of tears for sleepless nights\n\nTender suppositions\nOh...\n\nIt's like the crime weapon, need the print to prove\nTo prove that it's bad or good for us\nEverything which is ugly, is displayed\nSo nobody remembers anymore what was good\n\nAnd it makes memories strangely precise\nThings we can write or arrange in life\nWe don't really know what is false or true\nBut what's important of all this, is that we did it\n\nFeelings, useful dream feelings\nUsed for tender words of love\nFeelings, sentimental suffering\nAs light as a silence\nA game of teаrs for sleepless nights\n\nOh, feelingѕ"
+    }
+  ],
+  "bpm": 96,
+  "tone": "A minor",
+  "artistPeople": [
+    "Fanny Torres"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Régis Dupré",
+  "lyricists": null,
+  "writers": [
+    "Jean-Paul Dréau"
+  ],
+  "broadcaster": "FT2",
+  "commentators": [
+    "Olivier Minne"
+  ],
+  "jury": null,
+  "spokesperson": "Frédéric Ferrer, Marie Myriam"
+}

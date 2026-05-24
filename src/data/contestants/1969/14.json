@@ -1,0 +1,59 @@
+{
+  "id": 14,
+  "country": "PT",
+  "artist": "Simone de Oliveira",
+  "song": "Desfolhada portuguesa",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/l6WXhDQY_sQ",
+    "https://www.youtube-nocookie.com/embed/abTyMNrWfs4",
+    "https://www.youtube-nocookie.com/embed/2Hy3OUF_bNk",
+    "https://www.youtube-nocookie.com/embed/p52zIYG2elk",
+    "https://www.youtube-nocookie.com/embed/JSZ1EiwhavQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Desfolhada portuguesa",
+      "content": "Corpo de linho, lábios de mosto\nMeu corpo lindo, meu fogo posto\nEira de milho, luar de Agosto\nQuem faz um filho fá-lo por gosto\n\nÉ milho-rei, milho vermelho\nCravo de carne, bago de amor\nFilho de um rei que sendo velho\nVolta a nascer quando há calor\n\nMinha palavra dita à luz do sol nascente\nMeu madrigal de madrugada\nAmor, amor, amor, amor, amor presente\nEm cada espiga desfolhada\n\nLa la la…\n\nMinha raiz de pinho verde\nMeu céu azul tocando a serra\nÓ minha mágoa e minha sede\nÓ mar ao sul da minha terra\n\nÉ trigo loiro, é além Tejo\nO meu país neste momento\nO sol, o queima, o vento, o beija\nSeara louca em movimento\n\nMinha palavra dita à luz do sol nascente\nMeu madrigal de madrugada\nAmor, amor, amor, amor, amor presente\nEm cada espiga desfolhada\n\nLa la la…\n\nOlhos de amêndoa, cisterna escura\nOnde se alpendra a desventura\nMoira escondida, moira encantada\nLenda perdida, lenda encontrada\n\nÓ, minha terra, minha aventura\nCasca de noz deѕamparada\nÓ, minha terra, minha lonjura\nPor mim perdida, por mim achada\n\nLa la lа…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Portuguese husking",
+      "content": "Body of linen, lips of must\nMy lovely body, my burning fire\nCorn threshing-floor, August moonlight\nWho conceives a child, does it for pleasure\n\nIt's red maize, red coloured maize\nFlesh wart, grain of love\nSon of a king that, being old\nIs born again when times are warm\n\nMy word spoken at the rising sun's light\nMy dawning madrigal\nLove, love, love, love, love present\nIn every husked corncob\n\nLa la la…\n\nMy green pine root\nMy blue sky touching the ridge\nOh, my sorrow and my thirstiness\nOh, sea south of my homeland\n\nIt's blonde wheat, it's beyond Tejo\nMy country at this moment\nThe sun burns it, the wind kisses it\nCrazy cereal field in motion\n\nMy word spoken at the rising sun's light\nMy dawning madrigal\nLove, love, love, love, love present\nIn every husked corncob\n\nLa la la…\n\nAlmond eyes, obscure cistern\nWhere misfortune is its porch\nHidden moor, enchanted moor\nLost legend, found legend\n\nOh, my homeland, my adventure\nHelpless nutshell\nOh, my homeland, my remoteness\nBy myself lost, by myѕelf found\n\nLa la lа…"
+    }
+  ],
+  "bpm": 162,
+  "tone": "C minor",
+  "artistPeople": [
+    "Simone de Oliveira"
+  ],
+  "backings": [
+    "António Luís Gomes",
+    "Maria Alexandre de Brito",
+    "Natália Rodrigues de Matos"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Nuno Nazareth Fernandes"
+  ],
+  "conductor": "Ferrer Trindade",
+  "lyricists": [
+    "José Carlos Ary dos Santos"
+  ],
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Henrique Mendes"
+  ],
+  "jury": null,
+  "spokesperson": "Maria Manuela Furtado"
+}

@@ -1,0 +1,68 @@
+{
+  "id": 8,
+  "country": "NL",
+  "artist": "Anouk",
+  "song": "Birds",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/n5iazXvMw5o",
+    "https://www.youtube-nocookie.com/embed/bu3MO78fT08"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Birds",
+      "content": "Isolated from the outside\nClouds have taken all the light\nI have no control, it seems my\nThoughts wander all\nOf the time, when I try to\nLive life without you\n\nBirds falling down the rooftops\nOut of the sky like raindrops\nNo air, no pride\n\nIf being myself is what I do wrong\nThen I would rather not be right\nHopes turned into fear and with my\nOne wing I can't fly\nWith sunrise, embrace my\nDreams tight and that's why\n\nBirds falling down the rooftops\nOut of the sky like raindrops\nNo air, no pride\nBirds\n\nTo a place without fear, with no moonlight\n(To a place without moonlight and fear)\nAll I need are trees and flowers and some sunlight\n(All I need is trees, some flowers and sunlight)\nWhere memories are being made and where the old one dies\nWhere love ain't lost\n\nBirds falling down the rooftops\nOut of the sky like raindrops\n\nBirds falling down the rooftops\nOut of the sky like raindrops\nNo air, no pride\nThаt's why birdѕ don't fly"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Fåglar",
+      "content": "Isolerade från utsidan\nMoln har tagit allt ljus\nJag har ingen kontroll, det verkar som mina\nTankar vandrar hela\nTiden, när jag försöker\nLeva livet utan dig\n\nFåglar faller ner från taken\nUt ur himlen som regndroppar\nIngen luft, ingen stolthet\n\nOm att vara mig själv är vad jag gör fel\nDå skulle jag hellre vara fel\nHopp omvandlas till rädsla och med min\nEnda vinge, jag kan inte flyga\nMed soluppgång, omfamna mina\nDrömmar hårt och det är varför\n\nFåglar faller ner från taken\nUt ur himlen som regndroppar\nIngen luft, ingen stolthet\nFåglar\n\nTill en plats utan rädsla, med inget månsken\n(Till en plats utan månsken och rädsla)\nAllt jag behöver är träd och blommor och lite solsken\n(Allt jag behöver ar träd, blommor och solsken)\nDär minnen blir skapade och de gamla dör\nDär kärlek är inte vilse\n\nFåglar faller ner från taken\nUt ur himlen som regndroppar\n\nFåglar faller ner från taken\nUt ur himlen som regndroppar\nIngen luft, ingen ѕtolthet\nDet är därför fåglаr flyger inte"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Pájaros",
+      "content": "Aislada del mundo exterior\nLas nubes se han adueñado de toda la luz\nNo tengo control, y parece que\nMis pensamientos se alejan\nDel momento en el que intento\nVivir la vida sin ti\n\nPájaros cayendo desde los tejados\nDesde el cielo como gotas de lluvia\nSin aire, sin orgullo\n\nSi ser yo misma es lo que hago mal\nEntonces, preferiría no hacerlo bien\nEsperanzas que se vuelven miedo y\nCon mi única ala, no puedo volar\nCon el amanecer, abrazo fuerte\nMis sueños, y ese es el motivo\n\nPájaros cayendo desde los tejados\nDesde el cielo como gotas de lluvia\nSin aire, sin orgullo\nPájaros\n\nA un lugar sin miedo, sin luz de luna\n(A un lugar sin miedo, sin luz de luna)\nLo único que necesito es árboles, y flores, y luz del sol\n(Lo único que necesito es árboles, y flores, y luz del sol)\nDonde se fabrican los recuerdos y donde el viejo recuerdo muere\nDonde no se pierde el amor\n\nPájaros cayendo desde los tejados\nDesde el cielo como gotas de lluvia\n\nPájaros cayendo desde los tejados\nDesde el cielo como gotas de lluvia\nSin aire, sin orgullo\nEs por eso que los pájaroѕ no vuelаn"
+    }
+  ],
+  "bpm": 127,
+  "tone": "E major",
+  "artistPeople": [
+    "Anouk Teeuwe"
+  ],
+  "backings": [
+    "Ricardo Burgrust",
+    "Shirma Rouse",
+    "Yerry Rellum"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Anouk",
+    "Martin Gjerstad",
+    "Tore Johanson"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Anouk"
+  ],
+  "writers": null,
+  "broadcaster": "TROS",
+  "commentators": [
+    "Daniël Dekker",
+    "Jan Smit"
+  ],
+  "jury": null,
+  "spokesperson": "Cornald Maas"
+}

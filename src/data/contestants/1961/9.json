@@ -1,0 +1,52 @@
+{
+  "id": 9,
+  "country": "MC",
+  "artist": "Colette Deréal",
+  "song": "Allons, allons les enfants",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/mg1ydx9FCyA",
+    "https://www.youtube-nocookie.com/embed/yX14EeLTJzE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Allons, allons les enfants",
+      "content": "Allons les enfants, aujourd'hui la vie est belle\nJ'ai le cœur content de vous dire la nouvelle\nCe n'est pas le jour de gloire, de victoire ni le Jour de l'an\nC'est le jour du printemps\n\nAllons les enfants, ouvrez grandes vos oreilles\nEcoutez le chant des ruisseaux qui se réveillent\nEt vous autres – les nuages, soyez sages et allez-vous-en\nC'est le jour du printemps\n\nVivre, nous allons vivre\nLibres comme le vent\nRiches, nous sommes riches\nDe mille promesses, de jeunesse et de beaux temps\n\nAllons les enfants, prisonniers des capitales\nLe ciel, bon enfant, vous offre ses champs d'étoiles\nIl suffit d'en choisir une, la fortune est cachée dedans\nC'est le jour du printemps\n\nAllons les enfants, aujourd'hui la vie est belle\nJ'ai le cœur content de vous dire la nouvelle\nC'est pour moi le jour de gloire, la victoire\nCe jour de printemps, c'est l'amour qui m'attend\n\nAllons mon amour, je ne rêve que de mousse\nAux premiers beaux jours, il paraît qu'elle est si douce\nC'est pourquoi je te propose une chose\nAllons dans les prés, voir si le loup y est\n\nVivre, moi, je veux vivre\nLibre sous le ciel bleu\nRiche, je me sens riche\nD'amour et d'eau fraîche que je pêche dans tes yeux\n\nAllons les enfants, aujourd'hui la vie est belle\nIl faut sur le champ qu'on répande la nouvelle\nUne belle page blanche, toute blanche, s'ouvre maintenant\nC'est le jour du printemps\n\nL'amour, l'amour, l'amour nouѕ аttend"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Let's go, let's go children",
+      "content": "Let's go children, today life is beautiful\nWith a feeling of pride, I tell you the news\nIt isn't the day of glory, of victory or New Year's Day\nIt's the day of spring\n\nLet's go children, open wide your ears\nListen to the song of the awaking streams\nAnd you others – the clouds, be obedient and go on\nIt's the day of spring\n\nLive, we are about to live\nFreely like the wind\nRich, we are rich\nOf a thousand promises, of youth and of good weather\n\nLet's go children, prisoners of the towns\nThe sky, good child, offers you its fields of stars\nIt's sufficient to choose one, there's a fortune hidden in it\nIt's the day of spring\n\nLet's go children, today life is beautiful\nWith a feeling of pride, I tell you the news\nFor me it's the day of glory, of victory\nThis day of spring, it's love that is awaiting me\n\nLet's go my love, I only dream of foam\nThe first beautiful days, it seems so soft\nThat's why I proposed you something\nGo in the fields, see if the wolf is there\n\nLive, I want to live\nFreely under the blue sky\nRich, I feel rich\nOf love and of fresh water that I fished in your eyes\n\nLet's go children, today life is beautiful\nOn the field they just have to spread the news\nA beautiful white page, all white, is opened now\nIt's the day of spring\n\nLove, love, love is wаiting for uѕ"
+    }
+  ],
+  "bpm": 137,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Iscolette Denise de Glarélial"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Hubert Giraud"
+  ],
+  "conductor": "Raymond Lefèvre",
+  "lyricists": [
+    "Pierre Delanoë"
+  ],
+  "writers": null,
+  "broadcaster": "TMC",
+  "commentators": [
+    "Robert Beauvais"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

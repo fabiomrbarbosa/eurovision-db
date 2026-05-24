@@ -1,0 +1,58 @@
+{
+  "id": 17,
+  "country": "FI",
+  "artist": "Kojo",
+  "song": "Nuku pommiin",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/MmpyXSXZcAA",
+    "https://www.youtube-nocookie.com/embed/TYsJrjr7-S8",
+    "https://www.youtube-nocookie.com/embed/bUfo8STYqnw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Nuku pommiin",
+      "content": "Jos joku nakkaa ydinkakkaa kohta tänne Eurooppaamme\nNiin mitä haastat, kun kaikki saastat sieltä kasvoillemme saamme\nJos joku viskaa pommin niskaan, niin sä tuskin huomaatkaan\n\n(Nuku tuuti, aa… aa… aa… tuuti)\n(Nuku tuuti, aa… aa… aa… tuuti)\n(Nuku tuuti, aa… aa… aa… tuuti)\n(Nuku tuuti, aa… aa… aa… tuuti)\n\nPommiin, pommiin, nuku pommiin, niin on helpompaa\nNuku pom, nuku pom, nuku pommiin, se rauhoittaa\n\nLiian kauan haaveillen nukuit alla taivaiden\nTukkaasi raastat vaan, käy neuvottelemaan\n\n(Nuku tuuti, aa… aa… aa… tuuti)\n(Nuku tuuti, aa… aa… aa… tuuti)\n\nJa nuku pommiin, pommiin, nuku pommiin, niin on helpompaa\nNuku pom, nuku pom, nuku pommiin, se rauhoittaa\n\nNyt jengi istuu, osallistuu neuvotteluseurantaan\nTieteen aivot ja toisten raivot, punoo salajuoniaan\nJos et sä herää tällä erää, niin et herää ollenkaan\n\n(Nuku tuuti, aa… aa… aa… tuuti)\n(Nuku tuuti, aa… aa… aa… tuuti)\n(Nuku tuuti, aa… aa… aa… tuuti)\n(Nuku tuuti, aa… aa… aa… tuuti)\n\nNuku pommiin, pommiin, nuku pommiin, niin on helpompaa\nNuku pom, nuku pom, nuku pommiin, se rauhoittaa\n\nPommiin, pommiin, nuku pommiin, niin on helpompaa\nNuku pom, nuku pom, nuku pommiin, ѕe rauhoittaа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Oversleep",
+      "content": "If someone soon throws some nuclear poo here on our Europe\nWhat will you say when we get all the filth on our faces\nIf someone slings a bomb to your neck you probably won't even notice\n\n(Lullaby, aa… aa… aa… lullaby)\n(Lullaby, aa… aa… aa… lullaby)\n(Lullaby, aa… aa… aa… lullaby)\n(Lullaby, aa… aa… aa… lullaby)\n\nSleep, sleep, oversleep, it's easier that way\nOver-, over-, oversleep, it calms you down\n\nYou slept too long dreaming under the skies\nYou just rub your hair, start negotiating\n\n(Lullaby, aa… aa… aa… lullaby)\n(Lullaby, aa… aa… aa… lullaby)\n\nAnd oversleep, sleep, oversleep, it's easier that way\nOver-, over-, oversleep, it calms you down\n\nNow the gang's sitting, taking part in a negotiation follow-up\nThe brain of science and the rage of the others plot their intrigues\nIf you don't wake up this time, you won't wake up at all\n\n(Lullaby, aa… aa… aa… lullaby)\n(Lullaby, aa… aa… aa… lullaby)\n(Lullaby, aa… aa… aa… lullaby)\n(Lullaby, aa… aa… aa… lullaby)\n\nOversleep, sleep, oversleep, it's easier that way\nOver-, over-, oversleep, it calms you down\n\nSleep, sleep, oversleep, it's easier that way\nOver-, over-, oversleep, it cаlmѕ you down"
+    }
+  ],
+  "bpm": 153,
+  "tone": "D major",
+  "artistPeople": [
+    "Timo Kojo"
+  ],
+  "backings": [
+    "Jim Pembroke",
+    "Juha Björninen",
+    "Keimo Hirvonen",
+    "Pave Maijanen"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jim Pembroke"
+  ],
+  "conductor": "Ossi Runne",
+  "lyricists": [
+    "Juice Leskinen"
+  ],
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Erkki Toivanen"
+  ],
+  "jury": null,
+  "spokesperson": "Solveig Herlin"
+}

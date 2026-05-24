@@ -1,0 +1,61 @@
+{
+  "id": 16,
+  "country": "YU",
+  "artist": "Ambasadori",
+  "song": "Ne mogu skriti svoj bol",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/CAv26ykB-Ok",
+    "https://www.youtube-nocookie.com/embed/ZVyQo1qAbe0",
+    "https://www.youtube-nocookie.com/embed/mQA01Z5_MDg",
+    "https://www.youtube-nocookie.com/embed/mzfwOEtBO6o"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "serbo-croatian"
+      ],
+      "displayedLanguages": null,
+      "title": "Ne mogu skriti svoj bol",
+      "content": "Voljela tebe samo sam ja\n\nKako da bol skrijem svoj? (Kako da bol sad skrijem svoj?)\nPrazni su dani, a nisi moj (Prazni su dani, a nisi moj)\nNekad smo bili samo mi (Nekad smo bili samo mi)\nAl' ode onog ljeta\nU oku osta sjeta\n\nNe molim da se vratiš\nAl' molim te da pamtiš\nVoljela tebe samo sam ja\nNe molim\nNe molim da se vratiš\nAl' molim te da pamtiš\nVoljela tebe samo sam ja\n\nKuda li sad lutaš ti? (O, kuda sada lutaš ti?)\nHladan mi vjetar krade san (Hladan mi vjetar krade san)\nKako je bila topla noć (Kako je bila topla noć)\nKad ode onog ljeta\nU oku osta sjeta\n\nNe molim da se vratiš\nAl' molim te da pamtiš\nVoljela tebe samo sam ja\nNe molim\nNe molim da se vratiš\nAl' molim te da pamtiš\nVoljela tebe samo sam ja\nDa pamtiš\n\nNe molim da se vratiš\nAl' molim te da pamtiš\nVoljela tebe samo sam ja\nNe molim da se vratiš\nAl' molim te da pamtiš\nVoljela tebe samo ѕam jа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I can't hide my pain",
+      "content": "I only loved you\n\nHow can I hide my pain? (How can I hide my pain?)\nDays are empty, you're not mine (Days are empty, you're not mine)\nWe used to be alone (We used to be alone)\nBut he left that summer\nOnly a memory is left in my eyes\n\nI'm not begging you to come back\nBut please remember\nI only loved you\nI'm not begging\nI'm not begging you to come back\nBut please remember\nI only loved you\n\nWhere are you now? (Oh, where are you now?)\nCold wind is stealing my sleep away (Cold wind is stealing my sleep away)\nThe night was so warm (The night was so warm)\nWhen he left that summer\nOnly a memory is left in my eyes\n\nI'm not begging you to come back\nBut please remember\nI only loved you\nI'm not begging\nI'm not begging you to come back\nBut please remember\nI only loved you\nRemember\n\nI'm not begging you to come back\nBut please remember\nI only loved you\nI'm not begging you to come back\nBut pleаѕe remember\nI only loved you"
+    }
+  ],
+  "bpm": 133,
+  "tone": "G minor",
+  "artistPeople": [
+    "Andrej Stefanović",
+    "Enes Bajramović",
+    "Ismeta Dervoz-Krvavac",
+    "Krešimir Vlašić Keco",
+    "Miroslav Šaranović",
+    "Slobodan Vujović"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Slobodan Vujović"
+  ],
+  "conductor": "Esad Arnautalić",
+  "lyricists": [
+    "Slobodan Đurašović"
+  ],
+  "writers": null,
+  "broadcaster": "JRT",
+  "commentators": [
+    "Milovan Ilić",
+    "Oliver Mlakar",
+    "Tomaž Terček"
+  ],
+  "jury": null,
+  "spokesperson": "Viktor Blažič"
+}

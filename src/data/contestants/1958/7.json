@@ -1,0 +1,51 @@
+{
+  "id": 7,
+  "country": "DK",
+  "artist": "Raquel Rastenni",
+  "song": "Jeg rev et blad ud af min dagbog",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/q30asQ45nyA",
+    "https://www.youtube-nocookie.com/embed/qlOqmd08488"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "danish"
+      ],
+      "displayedLanguages": null,
+      "title": "Jeg rev et blad ud af min dagbog",
+      "content": "Dengang du gik i vrede, så fortrød jeg\nFejlen var min - fornuften, tja… den snød mig\nDet, vi havde sammen, var smukt og stort\nVed du, hvad jeg nu i dag har gjort?\n\nJeg rev et blad ud af min dagbog\nHvert lille ord har jeg fortrudt, du kære\nHvad nytter det, at jeg er bagklog\nHvis du syn's, alt skal være slut?\n\nPrøv på at tilgi' mig, om også det er svært\nSå vil jeg love dig, det aldrig hænder mere\n\nJeg rev et blad ud af min dagbog\nGør du li'sådan, min ven\n\nHader du mig, forsåvidt er der grund nok\nMin jalousi, der var jeg mer' end ond nok\nPrøv dog på at tilgi', at jeg var slem\nOg hvis du er stor nok, ja, så glem\n\nJeg rev et blad ud af min dagbog\nHvert lille ord har jeg fortrudt, du kære\nHvad nytter det, at jeg er bagklog\nHvis du syn's, alt skal være slut?\n\nPrøv på at tilgi' mig, om også det er svært\nSå vil jeg love dig, det aldrig hænder mere\n\nJeg rev et blad ud af min dagbog\nGør du li'sådan, min ven\nGør du li'ѕådаn, min ven"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I tore a page out of my diary",
+      "content": "When you left in anger, I regretted\nThe fault was mine - the reason, well… it tricked me\nWhat we had together, was beautiful and great\nDo you know what I've done today?\n\nI tore a page out of my diary\nEvery little word I regret, my dear\nWhat's the use, that I'm wise afterwards\nIf you think, everything must come to an end?\n\nTry to forgive me, even if it is hard\nThen I'll promise you, that it will never happen again\n\nI tore a page out of my diary\nYou do the same, my friend\n\nIf you hate me, really, you have a reason\nMy jealousy, I was more than mean\nDo try to forgive, that I was bad\nAnd if you're great enough, well then forget\n\nI tore a page out of my diary\nEvery little word I regret, my dear\nWhat's the use, that I'm wise afterwards\nIf you think, everything must come to an end?\n\nTry to forgive me, even if it is hard\nThen I'll promise you, that it will never happen again\n\nI tore a page out of my diary\nYou do the same, my friend\nYou do the ѕаme, my friend"
+    }
+  ],
+  "bpm": 143,
+  "tone": "C major",
+  "artistPeople": [
+    "Anna Rachel Rastén"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Kai Mortensen",
+  "lyricists": null,
+  "writers": [
+    "Harry Jensen",
+    "Sven Ulrik"
+  ],
+  "broadcaster": "DSR",
+  "commentators": [
+    "Gunnar Nu Hansen"
+  ],
+  "jury": null,
+  "spokesperson": "Svend Pedersen"
+}

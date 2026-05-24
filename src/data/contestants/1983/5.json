@@ -1,0 +1,50 @@
+{
+  "id": 5,
+  "country": "GB",
+  "artist": "Sweet Dreams",
+  "song": "I'm Never Giving Up",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/BYy4kHL33jU",
+    "https://www.youtube-nocookie.com/embed/Q2kJBw1HF1U",
+    "https://www.youtube-nocookie.com/embed/r5IG5dq37Xk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I'm Never Giving Up",
+      "content": "I don't believe in idle gossip\nThe jealous mind can be unfair\nI hear them make their accusations\nBut baby, come what may\nNo matter what the people say\n\nI'm never givin' up, not givin' in\nIf there's the slightest chance that I could win\nThe battle may be lost, but I can win the war\nAnd get your lovin' back the way it was before\n\nAt times it's hard to see the changes\nOr read the writing on the wall\nWe may become the best of strangers\nBut I'll keep holding on\nUntil I know my chance has gone\n\nI'm never givin' up, not givin' in\nIf there's the slightest chance that I could win\nThe battle may be lost, but I can win the war\nAnd get your lovin' back the way it was before\n\nNever givin' up, I'm never givin' up\n\nI'm never givin' up, not givin' in\nIf there's the slightest chance that I could win\nThe battle may be lost, but I can win the war\nAnd get your lovin' back the way it was\n\nI'm never givin' up, not givin' in\nIf there's the slightest chance that I could win\nThe battle may be lost, but I can win the war\nAnd get your lovin' back the way it waѕ before\n\nNever givin' up, I'm never givin' up\n(I'm allowed to… all I wаnt to… need your lovin')\nI'm never never givin'… never never givin'… never givin' up"
+    }
+  ],
+  "bpm": 143,
+  "tone": "G major",
+  "artistPeople": [
+    "Robert McVey",
+    "Caroline Vanessa Grant",
+    "Helen Kray"
+  ],
+  "backings": [
+    "Alan Carvell",
+    "Hazell Dean",
+    "Kit Rolfe"
+  ],
+  "dancers": null,
+  "stageDirector": "Chrissy Wickham",
+  "composers": null,
+  "conductor": "John Coleman",
+  "lyricists": null,
+  "writers": [
+    "Jan Pulsford",
+    "Phil Wigger",
+    "Ron Roker"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Terry Wogan"
+  ],
+  "jury": null,
+  "spokesperson": "Colin Berry"
+}

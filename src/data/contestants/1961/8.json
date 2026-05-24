@@ -1,0 +1,53 @@
+{
+  "id": 8,
+  "country": "ES",
+  "artist": "Conchita Bautista",
+  "song": "Estando contigo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/FAvnLCTvIwo",
+    "https://www.youtube-nocookie.com/embed/Y9Ott0k-1-Y",
+    "https://www.youtube-nocookie.com/embed/HScyKsze-dE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Estando contigo",
+      "content": "Tengo millares de estrellas\nY tengo la luna y el sol\nY la luz de tu mirada\nY la luz de tu mirada dentro de mi corazón\n\nTengo las nubes del cielo\nY tengo las olas del mar\nY si tengo tu cariño\nY si tengo tu cariño, ya no quiero nada más\n\nEstando contigo, contigo, contigo\nDe pronto me siento feliz\nY cuando te miro, te miro, te miro\nMe olvido del mundo y de mí\nQué maravilloso es quererte así\nEstando contigo, contigo, contigo, me siento feliz\n\nCuando amanece nevando\nNo siento la falta del sol\nY los copos de la nieve\nY los copos de la nieve me parecen de color\n\nCuando la tarde termina\nY todo se empieza a nublar\nMi camino se ilumina\nMi camino se ilumina si me vuelves a mirar\n\nEstando contigo, contigo, contigo\nDe pronto me siento feliz\nY cuando te miro, te miro, te miro\nMe olvido del mundo y de mí\nQué maravilloso es quererte así\nEstando contigo, contigo, contigo, me siento feliz\n\n¡Qué maravilloso es quererte así!\nEstando contigo, contigo, contigo\nHablando contigo, contigo, contigo\nSoñаndo contigo, contigo, contigo\nMe ѕiento feliz\n¡Feliz!"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Being with you",
+      "content": "I have a thousand stars\nAnd I have the moon and the sun\nAnd the light of your glance\nAnd the light of your glance within my heart\n\nI have the clouds of the sky\nAnd the waves of the sea\nAnd if I have your loving\nAnd if I have your loving, I don't want anything else\n\nBeing with you, with you, with you\nIt suddenly makes me feel happy\nAnd when I look at you, look at you, look at you\nI forget the world and myself\nIt's wonderful to love you that way\nBeing with you, with you, with you makes me feel happy\n\nWhen it dawns and it's snowing\nI can't feel the lack of sunshine\nAnd the snow flakes\nAnd the snow flakes seem colourful\n\nWhen the evening is over\nAnd everything starts to be grey\nMy path lights up\nMy path lights up if you look at me again\n\nBeing with you, with you, with you\nIt suddenly makes me feel happy\nAnd when I look at you, look at you, look at you\nI forget the world and myself\nIt's wonderful to love you that way\nBeing with you, with you, with you makes me feel happy\n\nIt'ѕ wonderful to love you that way\nBeing with you, with you, with you\nTalking to you, to you, to you\nDreaming of you, of you, of you\nI feel happy\nHаppy!"
+    }
+  ],
+  "bpm": 93,
+  "tone": "G major",
+  "artistPeople": [
+    "María Concepción Bautista Fernández"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Augusto Algueró"
+  ],
+  "conductor": "Rafael Ferrer",
+  "lyricists": [
+    "Antonio Guijarro"
+  ],
+  "writers": null,
+  "broadcaster": "TVE",
+  "commentators": [
+    "Federico Gallo"
+  ],
+  "jury": null,
+  "spokesperson": "Diego Ramírez Pastor"
+}

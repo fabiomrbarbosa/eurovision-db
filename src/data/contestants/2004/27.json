@@ -1,0 +1,51 @@
+{
+  "id": 27,
+  "country": "FI",
+  "artist": "Jari Sillanpää",
+  "song": "Takes 2 To Tango",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/LRQgeLajKN4",
+    "https://www.youtube-nocookie.com/embed/2eHlhmPwb5g",
+    "https://www.youtube-nocookie.com/embed/fRP9YlJgIC0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Takes 2 To Tango",
+      "content": "Time to leave, time to feel\nHarp and horn, music's born\nTwo worlds meet\nHungry sharing a fantasy\n\nTail and wing, soon will swing\nDusk till dawn, let the show just begin\nIn a place where pardon stand\nGiving feast on sacred land\n\nThe angels and devils meet at night (Hallelujah!)\nThey dance, they caress each other holding on so tight\nThe angels and demons side by side (Hallelujah!)\nThey dance until morning light\nWhen nobody else is in sight\nTakes two to tango, tango\n\nPurified, justified\nTimes of lust (Times of lust)\nTimes of trust (Times of trust)\nPraising dark\nFor one moment in paradise\n\nPassion flows, eager grows\nTime runs out, it's the end of the show\nWhen the morning is at hand\nTime has come to show their stand\n\nThe angels and devils meet at night (Hallelujah!)\nThey dance, they caress each other holding on so tight\nThe angels and demons side by side (Hallelujah!)\nThey dance until morning light\nWhen nobody else is in sight\nTakes two to tango\n\nAngels falling, hear them calling\nDemons rising, they're disguising\nHearts are beating, secret meeting\nJust for the moment in love\n\nThe angels and devils meet at night (Ha…, ha…, hallelujah!)\nThey dance, they caress each other holding on so tight\nThe angels and demons side by side (Ha…, ha…, hallelujah!)\nThey dance until morning light\nWhen nobody else is in sight\nTakeѕ two to tаngo!"
+    }
+  ],
+  "bpm": 138,
+  "tone": "A minor",
+  "artistPeople": [
+    "Jari Sillanpää"
+  ],
+  "backings": [
+    "Anniina Rubinstein",
+    "Antton Laine",
+    "Hanna-Riikka Siitonen",
+    "Mika Toivanen",
+    "Riikka Timonen"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Mika Toivanen"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Jari Sillanpää"
+  ],
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Asko Murtomäki",
+    "Markus Kajo"
+  ],
+  "jury": null,
+  "spokesperson": "Anna Stenlund"
+}

@@ -1,0 +1,70 @@
+{
+  "id": 13,
+  "country": "CY",
+  "artist": "Haris Anastasiou",
+  "song": "Milas Poli",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/fGFb9Dngosg",
+    "https://www.youtube-nocookie.com/embed/sbvUYu995Nc",
+    "https://www.youtube-nocookie.com/embed/jwgtufdliiw",
+    "https://www.youtube-nocookie.com/embed/WI0g9E3ZqBA"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ellinika"
+      ],
+      "title": "Milas Poli",
+      "content": "Dhe ksero pos na s' agapiso\nDhe ksero pos na su to po\nDhe ksero ti na su hariso\nTi dhromo pia na perpato\nPu tha me vgali i istoria mu me sena\nOso s' akolutho?\n\nMilas poli, zitas pola\nVres ena tropo mia fora\nTi parla na ti stamatas\nMilas poli, zitas pola\n\nDhe ksero ti na su thimiso\nPia melodhia, pio rithmo\nMe musiki na zondanepso ta loyia pu tha po\nPu tha me vgali i istoria mu me sena\nOso s' akolutho?\n\nMilas poli, zitas pola\nVres ena tropo mia fora\nTi parla na ti stamatas\nMilas poli, zitas pola\n\nLipon kalitera, mia ora arhitera\nNa telionume mia yia panda\nDhen itan boreto na sinehisume\nKaname lathi pola\n\nMilas poli, zitas pola\nVres ena tropo mia fora\nTi parla na ti stamatas\nMilas poli, zitas pola\n\nMilas poli, zitas pola\nVres ena tropo mia fora\nTi parla na ti stamatas\nMilas poli, zitaѕ polа"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ελληνικά"
+      ],
+      "title": "Μιλάς πολύ",
+      "content": "Δεν ξέρω πώς να σ' αγαπήσω\nΔεν ξέρω πώς να σου το πω\nΔεν ξέρω τι να σου χαρίσω\nΤι δρόμο πια να περπατώ\nΠού θα με βγάλει η ιοτορία μου με σένα\nΌσο σ' ακολουθώ;\n\nΜιλάς πολύ, ζητάς πολλά\nΒρες ένα τρόπο μια φορά\nΤην πάρλα να την σταματάς\nΜιλάς πολύ, ζητάς πολλά\n\nΔεν ξέρω τι να σου θυμίσω\nΠοια μελωδία, ποιο ρυθμό\nΜε μουσική να ζωντανέψω τα λόγια που θα πω\nΠου θα με βγάλει η ιοτορία μου με σένα\nΌσο σ' ακολουθώ;\n\nΜιλάς πολύ, ζητάς πολλά\nΒρες ένα τρόπο μια φορά\nΤην πάρλα να την σταματάς\nΜιλάς πολύ, ζητάς πολλά\n\nΛοιπόν καλύτερα, μια ώρα αρχύτερα\nΝα τελειώνουμε μια για πάντα\nΔεν ήταν μπορετό να συνεχίσουμε\nΚάναμε λάθη πολλά\n\nΜιλάς πολύ, ζητάς πολλά\nΒρες ένα τρόπο μια φορά\nΤην πάρλα να την σταματάς\nΜιλάς πολύ, ζητάς πολλά\n\nΜιλάς πολύ, ζητάς πολλά\nΒρες ένα τρόπο μια φορά\nΤην πάρλα να την σταματάς\nΜιλάς πολύ, ζητάς πολλά"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "You talk too much",
+      "content": "I don't know how to love you\nI don't know how to say it to you\nI don't know what present to give you\nWhich street I should walk along\nWhere will my history with you lead me\nWhile I follow you?\n\nYou talk too much, you ask for too much\nFor once find a way\nTo stop your talking\nYou talk too much, you ask for too much\n\nI don't know what I should remind you of\nWhich melody, which rhythm\nWith music I should make my words alive\nWhere will my history with you lead me\nWhile I follow you?\n\nYou talk too much, you ask for too much\nFor once find a way\nTo stop your talking\nYou talk too much, you ask for too much\n\nSo we'd better end it an hour sooner\nLet's finish once and for all\nIt wasn't right to continue\nWe made lots of mistakes\n\nYou talk too much, you ask for too much\nFor once find a way\nTo stop your talking\nYou talk too much, you ask for too much\n\nYou talk too much, you ask for too much\nFor once find a way\nTo stop your talking\nYou talk too much, you аѕk for too much"
+    }
+  ],
+  "bpm": 120,
+  "tone": "F major",
+  "artistPeople": [
+    "Anastazio",
+    "Anastaziou"
+  ],
+  "backings": [
+    "John Vickers"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "John Vickers"
+  ],
+  "conductor": "Stanko Selak",
+  "lyricists": [
+    "Haris Anastasiou"
+  ],
+  "writers": null,
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Neophytos Taliotis"
+  ],
+  "jury": null,
+  "spokesperson": "Anna Partelidou"
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1,
+  "country": "ES",
+  "artist": "Betty Missiego",
+  "song": "Su canción",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/cCDCQcDzbgs",
+    "https://www.youtube-nocookie.com/embed/6efTu8F9JDU",
+    "https://www.youtube-nocookie.com/embed/DljrowvNG3k"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Su canción",
+      "content": "Paseando sola en mi ciudad\nYo sentí que un canto me llegaba\nMe acerqué y pude contemplar\nA unos niños que cantaban\n\nUno fue y me dijo: \"¡Eh mayor!\"\n\"¿No quieres incluir tu voz cansada?\"\n\"Ya verás que fácil es cantar\"\n\"Si tienes bien alegre el corazón\"\n\nSi todo el mundo quisiera una canción\nQue hable de paz, que hable de amor\nSería sencillo podernos reunir\nPara vivir con ilusión\n\nQuiero que sienta conmigo esta canción\nQue deje atrás su malhumor\nPara que salga en la vida a sonreír\nY a disfrutar su condición\n\nCante en su casa a solas mi canción\nComprenderá que no hay dolor\nCuando se tiene la dicha de vivir\nY un corazón que compartir\n\nCierre los ojos conmigo y diga adios\nA esta canción que me enseñó\nVivir el hoy, no del ayer\nUna canción que es de los dos\nEs ѕu canción\n\nLalalа…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": null,
+      "title": "השיר שלך",
+      "content": "כשטיילתי לבד בעירי\nהרגשתי שיר שמגיע אליי\nהתקרבתי והצלחתי לראות\nכמה ילדים שרים\n\nבא אחד ואמר לי \"היי גיברת\"\n\"לא תרצי לצרף גם את קולך העייף?\"\n\"עוד תראי כמה זה קל לשיר\"\n\"אם לבך שמח\"\n\nלו כל העולם רצה שיר\nשעוסק בשלום, שעוסק באהבה\nיהיה פשוט שנוכל להתאחד\nכדי לחיות עם החלום\n\nאני רוצה שתרגיש איתי את השיר הזה\nשישאיר מאחור את מצב-רוחך הרע\nכדי שתצא אל החיים בחיוך\nותהנה ממצבך\n\nשיר לבדך בבית את השיר שלי\nוהבן שאין כאב\nכשישנה שמחת חיים\nולב שאפשר לחלוק\n\nעצום את העיניים איתי ואמור שלום\nלשיר הזה שלימד אותי\nלחיות היום, ולא אתמול\nהשיר של שנינו\nזה השיר שלך\n\nלה לה לה…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Your song",
+      "content": "Walking alone in my town\nI felt that a song was coming to me\nI approached and I could see\nSome children singing\n\nOne came and told me: \"Hey, old woman!\"\n\"Don't you want to include your weary voice?\"\n\"You'll see how easy it is to sing\"\n\"If your heart is very happy\"\n\nIf everybody wanted a song\nThat speaks of peace, that speaks of love\nIt would be easy to get us together\nTo live with an illusion\n\nI want you to feel this song with me\nTo leave behind your bad mood\nSo you can step into life with a smile\nAnd enjoy your condition\n\nSing my song at home alone\nYou'll understand that there's no pain\nWhen you have the joy of living\nAnd a heart to share\n\nClose your eyes with me and say goodbye\nTo that song which taught me\nTo live today, not yesterday\nA song which is of us both\nIs your ѕong\n\nLalalа…"
+    }
+  ],
+  "bpm": 107,
+  "tone": "C# major",
+  "artistPeople": [
+    "Alexis Carmona",
+    "Beatriz Carmona",
+    "Beatriz Teresa Missiego",
+    "Javier Glaria",
+    "Rosalía Rodríguez"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "José Luis Navarro",
+  "lyricists": null,
+  "writers": [
+    "Fernando Moreno"
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "Miguel de los Santos"
+  ],
+  "jury": null,
+  "spokesperson": "Manuel Almendros"
+}

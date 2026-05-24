@@ -1,0 +1,43 @@
+{
+  "id": 0,
+  "country": "IE",
+  "artist": "Paul Harrington & Charlie McGettigan",
+  "song": "Rock 'n' Roll Kids",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/DBbF2ZHMeog",
+    "https://www.youtube-nocookie.com/embed/5POsrjc13yo",
+    "https://www.youtube-nocookie.com/embed/vPO6279gEh8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Rock 'n' Roll Kids",
+      "content": "I remember sixty-two\nI was sixteen and so were you\nAnd we lived next door on the avenue\n\nJerry Lee was big and Elvis too\nBlue jeans and blue suede shoes\nAnd we never knew what life held in store\nWe just wanted to rock 'n' roll forever more\n\nWe were the rock 'n' roll kids\nRock 'n' roll was all we did\nAnd listenin' to those songs on the radio\nI was yours and you were mine\nThat was once upon a time\nNow we never seem to rock 'n' roll anymore\n\nNow Johnny's in love with the girl next door\nAnd Mary's down at the record store\nThey don't wanna be around us no more\n\nGolden oldies, but we hardly speak\nToo busy running to a different beat\nHard to understand we were once like them\nHow I wish we could find those rock 'n' roll days again\n\nWe were the rock 'n' roll kids\nRock 'n' roll was all we did\nAnd listenin' to those songs on the radio\nI was yours and you were mine\nThat was once upon a time\nNow we never seem to rock 'n' roll anymore\n\nI was yours and you were mine\nThat was once upon a time\nNow we never seem to rock 'n' roll\nWe just never ѕeem to rock 'n' roll аnymore"
+    }
+  ],
+  "bpm": 124,
+  "tone": "E major",
+  "artistPeople": [
+    "Charles Joseph McGettigan",
+    "Paul Harrington"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Brendan J. Graham"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Pat Kenny"
+  ],
+  "jury": null,
+  "spokesperson": "Eileen Dunne"
+}

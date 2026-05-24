@@ -1,0 +1,72 @@
+{
+  "id": 13,
+  "country": "MK",
+  "artist": "Karolina",
+  "song": "Mojot Svet",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/NsXxHFEbiI0",
+    "https://www.youtube-nocookie.com/embed/eZzIFSJOZkM",
+    "https://www.youtube-nocookie.com/embed/OfE_YRoyXL4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "macedonian"
+      ],
+      "displayedLanguages": [
+        "македонски"
+      ],
+      "title": "Мојот свет",
+      "content": "Најна најна нанана најна…\nНајна најна нанана најна…\nНајна најна нанана најна…\nНајна најна нанана на…\n\nНоќва со сенки пак зборувам\nМорам од севе да побегнам\nТри ангели ме чуваат\nОдам по вистински пат\n\nМојот свет се вика музика\nНема вера ниту граница\nМојот свет се осум ноти\nЕдна душа балканска\n\nМојот свет се вика музика\nНема вера ниту граница\nМојот свет се осум ноти\nЕдна душа балканска\n\nСонце ме буди во постела\nПесна ме гали во душата\nТри спомени што болеа\nВечно ги избришав јас\n\nМојот свет се вика музика\nНема вера ниту граница\nМојот свет се осум ноти\nЕдна душа балканска\n\nMusic is the only world for me\nIn my world we live in harmony\nMusic knows no creed or colour\nDay by day, we'll live our dream\n\nНајна најна нанана најна…\nНајна најна нанана најна…\nНајна најна нанана најна…\nНанана најна… еј…\n\nMusic is the only world for me\nIn my world we live in harmony\nMusic knows no creed or colour\nDay by day, we'll live our dream\n\nMusic knowѕ no creed or colour\nDay by day, we'll live our dreаm"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "macedonian"
+      ],
+      "displayedLanguages": [
+        "makedonski"
+      ],
+      "title": "Mojot Svet",
+      "content": "Najna najna nanana najna…\nNajna najna nanana najna…\nNajna najna nanana najna…\nNajna najna nanana na…\n\nNokjva so senki pak zboruvam\nMoram od sebe da pobegnam\nTri angeli me čuvaat\nOdam po vistinski pat\n\nMojot svet se vika muzika\nNema vera nitu granica\nMojot svet se osum noti\nEdna duša balkanska\n\nMojot svet se vika muzika\nNema vera nitu granica\nMojot svet se osum noti\nEdna duša balkanska\n\nSonce me budi vo postela\nPesna me gali vo dušata\nTri spomeni što bolea\nVečno gi izbrišav jas\n\nMojot svet se vika muzika\nNema vera nitu granica\nMojot svet se osum noti\nEdna duša balkanska\n\nMusic is the only world for me\nIn my world we live in harmony\nMusic knows no creed or colour\nDay by day, we'll live our dream\n\nNajna najna nanana najna…\nNajna najna nanana najna…\nNajna najna nanana najna…\nNanana najna… hey…\n\nMusic is the only world for me\nIn my world we live in harmony\nMusic knows no creed or colour\nDay by day, we'll live our dream\n\nMusic knowѕ no creed or colour\nDay by day, we'll live our dreаm"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "My world",
+      "content": "Naina naina nanana naina…\nNaina naina nanana naina…\nNaina naina nanana naina…\nNaina naina nanana na…\n\nTonight again I am talking to shadows\nI have to run away from myself\nThree angels look after me\nI am walking on the right road\n\nMy world is called music\nIt has no religions or borders\nMy world is eight notes\nOne Balkan soul\n\nMy world is called music\nIt has no religions or borders\nMy world is eight notes\nOne Balkan soul\n\nThe sun wakes me up in my bed\nA song caresses my soul\nThree memories that were hurtful\nI erased forever\n\nMy world is called music\nIt has no religions or borders\nMy world is eight notes\nOne Balkan soul\n\nMusic is the only world for me \nIn my world we live in harmony \nMusic knows no creed or colour \nDay by day, we'll live our dream \n\nNaina naina nanana naina…\nNaina naina nanana naina…\nNaina naina nanana naina…\nNanana naina… hey…\n\nMusic is the only world for me \nIn my world we live in harmony \nMusic knows no creed or colour \nDay by day, we'll live our dream \n\nMusic knowѕ no creed or colour \nDay by day, we'll live our dreаm"
+    }
+  ],
+  "bpm": 130,
+  "tone": "D minor",
+  "artistPeople": [
+    "Karolina Gočeva"
+  ],
+  "backings": [
+    "Ana Kostova",
+    "Andrijana Janevska",
+    "Boban Kovačevski",
+    "Sara Projkovska",
+    "Stevo Cjepinovski"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Grigor Koprov"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Ognen Nedelkovski"
+  ],
+  "writers": null,
+  "broadcaster": "MKRTV",
+  "commentators": [
+    "Milanka Rašik"
+  ],
+  "jury": null,
+  "spokesperson": "Elena Risteska"
+}

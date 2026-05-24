@@ -1,0 +1,59 @@
+{
+  "id": 40,
+  "country": "BE",
+  "artist": "Iris",
+  "song": "Would You?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/7Z_5s5gnrCM",
+    "https://www.youtube-nocookie.com/embed/wTMLb_mIwjw",
+    "https://www.youtube-nocookie.com/embed/B7d-8-kiZ6M"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Would You?",
+      "content": "Come and find me, I've been hiding from you\nCome and get me, running from you\nIt's been easy, easy for you\nTo believe me when I say I love you\n\nBut what would you do when my house was empty?\nMy life in a bag and away from you\nYou took my love for granted, would you really miss me?\nAny other guy would do, but would you?\n\nIt's a secret and a question for you\nWhere I'm at now, what are you gonna do?\nIf you run here and look for me now\nAre we done here or starting somehow?\n\nBut what would you do when my house was empty?\nMy life in a bag and away from you\nYou took my love for granted, would you really miss me?\nAny other guy would do, but would you?\nWould you?\n\nIt's a two-way street and I know that\nBut don't look back\nStill I wonder, still I wonder\n\nWhat would you do when my house was empty?\nMy life in a bag just to be with you\nBut when I'm at your door, will you say you misѕed me?\nAny other guy would do\nYeah, аny other guy would do, but would you?\n\nWould you? Oh, would you?\nI love you"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Lo Faresti",
+      "content": "Vieni a cercarmi, mi sono nascosto da te\nVieni a prendermi, scappando da te\nÈ stato facile, facile per te\nCredimi quando ti dico ti amo\n\nMa cosa faresti quando la mia casa era vuota?\nLa mia vita in una borsa e lontano da te\nHai dato il mio amore per scontato, ti mancherei davvero?\nQualsiasi altro ragazzo lo farebbe, ma tu lo faresti?\n\nÈ un segreto e una domanda per te\nDove sono ora, cosa farai?\nSe corri qui e mi cerchi ora\nAbbiamo finito qui o abbiamo iniziato in qualche modo?\n\nMa cosa faresti quando la mia casa era vuota?\nLa mia vita in una borsa e lontano da te\nHai dato il mio amore per scontato, ti mancherei davvero?\nQualsiasi altro uomo lo farebbe, ma tu lo faresti?\nLo faresti?\n\nE ' una strada a doppio senso e lo so\nMa non guardare indietro\nAncora mi chiedo, ancora mi chiedo\n\nCosa faresti quando la mia casa era vuota?\nLa mia vita in una borsa solo per stare con te\nMa quando sarò alla tua porta, dirai che ti sono mancato?\nQualsiasi altro ragazzo farebbe\nSi', qualsiasi altro ragazzo lo farebbe, ma tu lo faresti?\n\nLo faresti? Oh, lo fareѕti?\nTi аmo"
+    }
+  ],
+  "bpm": 109,
+  "tone": "E major",
+  "artistPeople": [
+    "Laura van den Bruel"
+  ],
+  "backings": [
+    "Billie Bentein",
+    "Jana De Valck",
+    "Joke Vincke"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Jean Bosco Safari",
+    "Nina Sampermans",
+    "Walter Mannaerts"
+  ],
+  "broadcaster": "VRT",
+  "commentators": [
+    "André Vermeulen",
+    "Jean-Louis Lahaye",
+    "Jean-Pierre Hautier"
+  ],
+  "jury": null,
+  "spokesperson": "Peter Van de Veire"
+}

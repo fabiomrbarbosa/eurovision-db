@@ -1,0 +1,47 @@
+{
+  "id": 14,
+  "country": "DE",
+  "artist": "Texas Lightning",
+  "song": "No, No, Never",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/IKvPzL1NSSI",
+    "https://www.youtube-nocookie.com/embed/xDvW6szZTlA",
+    "https://www.youtube-nocookie.com/embed/Di8ondobUE8",
+    "https://www.youtube-nocookie.com/embed/b00HDAclZ0U"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "No, No, Never",
+      "content": "My love is stronger now than you'll ever know\nAnd it won't ever let you go\nMy love is wider than the ocean can be\nAnd it's deeper than the deep blue sea\n\nMy love goes higher than a mountain can rise\nAnd I see it there, in your eyes\nMy love gets tougher when the going gets rough\nAnd believe me, I got more than enough\n\nKeep tryin', babe, keep holdin' on\nThere's a place we belong\nWhere things are good, where love is strong\n\nI'm never ever gonna leave you to cry on your own\nNever ever gonna not go and pick up the phone\nI'm never ever gonna let you be chilled to the bone\nNo, no, never\nNo, no, never\n\nI'm never ever gonna leave when you're lost in the storm\nNever ever gonna not keep you safe where it's warm\nI never ever will desert you when your heart is torn\nNo, no, never\nNo, no, never\n\nMy love shines brighter than a twinklin' star\nBaby, no matter where you are\nAnd my love keeps burnin' like an eternal flame\nYou can feel it when I'm callin' your name\n\nKeep tryin', babe, keep holdin' on\nThere's a place we belong\nWhere things are good, where love is strong\n\nI'm never ever gonna leave you to cry on your own\nNever ever gonna not go and pick up the phone\nI'm never ever gonna let you be chilled to the bone\nNo, no, never\nNo, no, never\n\nI'm never ever gonna leave when you're lost in the storm\nNever ever gonna not keep you safe where it's warm\nI never ever will desert you when your heart iѕ torn\nNo, no, never\nNo, no, never\n\nOh… never ever gonna leave you to cry on your own\nNever ever gonna not go and pick up the phone\nI'm never ever gonnа let you be chilled to the bone\nNo, no, never\nNo, no, never\n\nNo, no, never\nNo, no, never"
+    }
+  ],
+  "bpm": 121,
+  "tone": "D major",
+  "artistPeople": [
+    "Jane Comerford",
+    "Jon Flemming Olsen",
+    "Markus Schmidt",
+    "Olli Dittrich",
+    "Uwe Frenzel"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Jane Comerford"
+  ],
+  "broadcaster": "ARD",
+  "commentators": [
+    "Peter Urban"
+  ],
+  "jury": null,
+  "spokesperson": "Thomas Hermanns"
+}

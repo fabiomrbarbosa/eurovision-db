@@ -1,0 +1,65 @@
+{
+  "id": 10,
+  "country": "CY",
+  "artist": "Evridiki",
+  "song": "Teriazoume",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/DdFHIJUt2wU",
+    "https://www.youtube-nocookie.com/embed/SlkAahC7TxA",
+    "https://www.youtube-nocookie.com/embed/krbc_iuD1wQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ellinika"
+      ],
+      "title": "Teriazoume",
+      "content": "Su dhino ta hili mu, ke mesa stin ili mu\nMe kathe kitaro mu se tiligo\nMesa mu hanese, pezis ke pianese\nKi' ego kato apo to dherma mu se krivo\n\nTeriazume, thelis ki esi opos ki ego\nMia nihta dhihos avrio\nMiazume, san dhio komatia urano\nPu smigun yinonde nero\nKi' eksafanizode\nTeriazume, teriazume\n\nSimadhia sparmena, kormia dhihos frena\nKe go na zitianevo t' agigma su\nSe telio ashedhio, trelo narkopedhio\nNa yinome mia ekriksi brosta su\n\nTeriazume, thelis ki esi opos ki ego\nMia nihta dhihos avrio\nMiazume, san dhio komatia urano\nPu smigun yinonde nero\nKi' eksafanizode\nTeriazume, teriazume\n\nTeriazume, thelis ki esi opos ki ego\nMia nihta dhihos avrio\nMiazume, san dhio komatia urano\nPu smigun yinonde nero\nKi' ekѕafanizode\nTeriazume, teriаzume"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ελληνικά"
+      ],
+      "title": "Ταιριάζουμε",
+      "content": "Σου δίνω τα χείλη μου, και μέσα στην ύλη μου\nΜε κάθε κύτταρο μου σε τυλίγω\nΜέσα μου χάνεσαι, παίζεις και πιάνεσαι\nΚι' εγώ κάτω από το δέρμα μου σε κρύβω\n\nΤαιριάζουμε, θέλεις κι εσύ όπως κι εγώ\nΜια νύκτα δίχως αύριο\nΜοιάζουμε, σαν δυο κομμάτια ουρανό\nΠου σμίγουν γίνονται νερό\nΚι' εξαφανίζονται\nΤαιριάζουμε, ταιριάζουμε\n\nΣημάδια σπαρμένα, κορμιά δίχως φρένα\nΚαι γω να ζητιανεύω τ' άγγιγμά σου\nΣε τέλειο σχέδιο, τρελλό ναρκοπέδιο\nΝα γίνομαι μια έκρηξη μπροστά σου\n\nΤαιριάζουμε, θέλεις κι εσύ όπως κι εγώ\nΜια νύκτα δίχως αύριο\nΜοιάζουμε, σαν δυο κομμάτια ουρανό\nΠου σμίγουν γίνονται νερό\nΚι' εξαφανίζονται\nΤαιριάζουμε, ταιριάζουμε\n\nΤαιριάζουμε, θέλεις κι εσύ όπως κι εγώ\nΜια νύκτα δίχως αύριο\nΜοιάζουμε, σαν δυο κομμάτια ουρανό\nΠου σμίγουν γίνονται νερό\nΚι' εξαφανίζονται\nΤαιριάζουμε, ταιριάζουμε"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "We're alike",
+      "content": "I give you my lips, and into my existence\nWith every cell of mine I wrap you\nYou get lost in me, you play and get stuck\nAnd I hide you under my skin\n\nWe're alike, you want what I want\nA night with no tomorrow\nWe look alike, like two pieces of sky\nWhich mix to become water\nAnd vanish\nWe're alike, we're alike\n\nScattered signs, bodies surrendering\nAnd me begging for your touch\nIn a complete picture, a mad minefield\nI become an explosion in front of you\n\nWe're alike, you want what I want\nA night with no tomorrow\nWe look alike, like two pieces of sky\nWhich mix to become water\nAnd vanish\nWe're alike, we're alike\n\nWe're alike, you want what I want\nA night with no tomorrow\nWe look alike, like two pieces of sky\nWhich mix to become water\nAnd vaniѕh\nWe're alike, we're аlike"
+    }
+  ],
+  "bpm": 120,
+  "tone": "Bb minor",
+  "artistPeople": [
+    "Evridiki Theokleous"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Giorgos Theophanous",
+  "lyricists": null,
+  "writers": [
+    "Giorgos Theophanous",
+    "Leonidas Malenis"
+  ],
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Evi Papamichail"
+  ],
+  "jury": null,
+  "spokesperson": "Anna Partelidou"
+}

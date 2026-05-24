@@ -1,0 +1,50 @@
+{
+  "id": 25,
+  "country": "MT",
+  "artist": "Glen Vella",
+  "song": "One Life",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/U9YRL_pHxvU",
+    "https://www.youtube-nocookie.com/embed/SYQnPY0znPA",
+    "https://www.youtube-nocookie.com/embed/h_VqeQe_xa0",
+    "https://www.youtube-nocookie.com/embed/ILMctIGp3bc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "One Life",
+      "content": "Life's a game, it's a mystery\nWhich we give in to\nDays go by, no lesson learned\nJust things that you do\n\nThings change even in my mind\nAnd not in my heart\nI am who I am and I'm here for you\n\nOne life – show what's in your heart\nLove me like I love you\nOne life – it's all we got to live\nTime to set your heart free\n\nChase the pain away\nAnd move on and don't give up\nThis time it's all up to you\nYou can love yourself too\n\nLife is strange and heavenly\nSweet surrender (Surrender)\nLove begins within ourselves\nMakes up our lives\n\nHold on to what life brings you\nJust be who you are\nYou can do it too\nIt's all up to you\n\nOne life – show what's in your heart\nLove me like I love you\nOne life – it's all we got to live\nTime to set your heart free\n\nChase the pain away\nAnd move on and don't give up\nThis time it's all up to you\nYou can love yourself too\n\nDon't try to judge me\nYou don't know how I feel\nLove me, love me for who I am\nMy life, I will give it all\nI give it all to you, give it all\n\nOne life – show what's in your heart\nLove me like I love you\nOne life – it's all we got to live\nTime to set your heart free\n\nChase the pain away\nMove on and don't give up\nThis time it's all up to you\nYou can love yourself too\n\nIt's all up to you\nYou can love yourself too\nIt's all up to you\nYou cаn love yourѕelf too"
+    }
+  ],
+  "bpm": 137,
+  "tone": "D minor",
+  "artistPeople": [
+    "Glen Vella"
+  ],
+  "backings": [
+    "Angela Spiteri",
+    "Isabelle Zammit",
+    "Pamela Bezzina",
+    "Sandro Zammit",
+    "Simon Law"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Fleur Balzan",
+    "Paul Giordimaina"
+  ],
+  "broadcaster": "PBS",
+  "commentators": [
+    "Eileen Montesin"
+  ],
+  "jury": null,
+  "spokesperson": "Kelly Schembri"
+}

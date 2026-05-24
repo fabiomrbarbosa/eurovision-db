@@ -1,0 +1,73 @@
+{
+  "id": 4,
+  "country": "CH",
+  "artist": "Paola del Medico",
+  "song": "Bonjour, Bonjour",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/7bXAxj0fYhk",
+    "https://www.youtube-nocookie.com/embed/IsTV3f5OOxM",
+    "https://www.youtube-nocookie.com/embed/Mu3JSap8O3Y"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Bonjour, Bonjour",
+      "content": "Bonjour, bonjour, es ist schön dich mal wiederzusehen\nBonjour, bonjour, grade heut' scheint die Sonne so schön\nAn deiner Hand, durch die Stadt zu geh'n, das wünsch' ich mir nur\nBonjour, bonjour\n\nDer Himmel lacht wie mein Herz, wenn du lieb zu mir bist\nEs blühen Blumen, wo sonst nur der Straßenstaub ist\nEin Vogel singt für uns beide in Moll und in Dur:\n\"Bonjour, bonjour\"\n\nDie Welt ist wunderbar, sie kann nicht schöner sein\nUnd sie gehört nur den Verliebten allein\n\nBonjour, bonjour, es ist schön, dich mal wiederzusehen\nBonjour, bonjour, nur bei dir scheint die Sonne so schön\nWas ich erlebe mit dir, das ist alles l'amour\nBonjour, bonjour\n\n\"Bonjour, bonjour\", sagen alle, die dich und mich seh'n\nBonjour, bonjour, schlägt die Uhr und für uns bleibt sie steh'n\nGleich zieht ein Denkmal den Hut, darauf warte ich nur\nBonjour, bonjour\n\nDie Welt ist wunderbar, sie kann nicht schöner sein\nUnd sie gehört nur den Verliebten allein\n\n\"Bonjour, bonjour\", sagt das Glück, und es kommt zu uns zwei'n\nIn deinen Armen flieg' ich in den Himmel hinein\nWenn ich auch weiß', für mich bleibt nach der glücklichen Zeit\nNur Einsamkeit\n\nBonsoir, bonsoir, es war schön dich mal wiederzusehen\nFällt's mir auch schwer, so verliebt auseinander zugehen\nIch träum' von dir, bis du kommst und dann ѕаge ich nur:\n\"Bonjour, bonjour\""
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Good day, good day",
+      "content": "Good day, good day, it's wonderful to see you once again\nGood day, good day, especially today the sun shines so beautifully\nMy only wish is to walk through the town led by your hand\nGood day, good day\n\nThe sky laughs like my heart, when you love me dearly\nFlowers are blooming, where previously could be found street dust\nA bird sings for us in a minor and a major key:\n\"Good day, good day\"\n\nThe world is wonderful, it can't be more beautiful\nAnd it only belongs to the lovers\n\nGood day, good day, it's wonderful to see you once again\nGood day, good day, only with you the sun shines so beautifully\nMy experience with you, that's all love\nGood day, good day\n\n\"Good day, good day\", says everybody, who sees you and me\nGood day, good day, the clock chimes and it stops for us\nSoon a monument will take off his hat, that's what I'm waiting for\nGood day, good day\n\nThe world is wonderful, it can't be more beautiful\nAnd it only belongs to the lovers\n\n\"Good day, good day\", fortune says and it comes to us\nIn your arms I fly into the sky\nInspite I also know, that after the lucky time\nOnly loneliness will remain\n\nGood evening, good evening, it was wonderful to see you once again\nThough it's hard for me to leave you such in love\nI dream of you till you come back and then I only ѕay:\n\"Good day, good dаy\""
+    },
+    {
+      "type": 2,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Bonjour, Bonjour",
+      "content": "Bonjour, bonjour, les bourgeons entonnent leur chanson\nBonjour, bonjour, m'sieur l'printemps, oui, nous vous attendions\nMonsieur l'hiver est vexé et il s'est retiré\nBonjour, bonjour\n\nBonjour, la fleur, mets un peu de printemps dans ton cœur\nBonjour, les cœurs, ouvrez-vous, il faut être un peu fou\nCar la saison des amours vient de prendre son tour\nBonjour, bonjour\n\nS'envole un peu de neige, c'est l'hiver qui s'achève\nCe qui est vie pourra se donner du rêve\n\nBonjour, bonjour, les bourgeons entonnent leur chanson\nBonjour, bonjour, m'sieur l'printemps, oui, nous vous attendions\nMonsieur l'hiver est vexé et il s'est retiré\nBonjour, bonjour\n\n\"Bonjour, soleil\", dit l'oiseau revenu dans le ciel\n\"Bonjour, le ciel\", dit le peintre qui reprend l'aquarelle\n\"Bonjour, la vie\", dit le fleuve qui peut quitter son lit\nBonjour, bonjour\n\nS'envole un peu de neige, c'est l'hiver qui s'achève\nCe qui est vie pourra se donner du rêve\n\nBonjour, bonjour, je t'attends depuis l'autre printemps\nBonjour, bonjour, qu'as-tu donc fait pendant tout ce temps?\nJe n'espérais plus jamais te retrouver un jour\nBonjour, bonjour\n\nBonsoir, bonsoir, m'sieur l'printemps semble nous dire bonsoir\nBonsoir, bonsoir, j'attendrai trois saisons pour te voir\nEn espérant ce printemps qui me dirа toujourѕ:\nBonjour, bonjour"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Bonjour, bonjour",
+      "content": "Bonjour, bonjour, que alegría encontrarte, mi amor\nBonjour, bonjour, hoy de nuevo brillando está el sol\nQuiero tan sólo contigo poder pasear\nBonjour, bonjour\n\nEl cielo ríe lo mismo que mi corazón\nY nacen flores en donde jamás floreció\nY hasta los pájaros cantan con su dulce voz\nBonjour, bonjour\n\nJamás podré soñar mayor felicidad\nYo siento junto a ti la dicha de amar\n\nBonjour, bonjour, cada vez que te encuentro, mi amor\nBonjour, bonjour, más que nunca brillando está el sol\nToda mi vida contigo cambió de color\nBonjour, bonjour\n\nBonjour, bonjour, dicen todos al vernos pasar\nBonjour, bonjour, nuestro tiempo volando se va\nNadie comprende que solos queremos estar\nBonjour, bonjour\n\nJamás podré soñar mayor felicidad\nYo siento junto a ti la dicha de amar\n\nBonjour, bonjour, nos saluda la suerte a los dos\nY entre tus brazos, al cielo un suspiro voló\nNada en la vida podrá separarme de ti\nBonjour, bonjour\n\nBonsoir, bonsoir, fui feliz de encontrarte, mi amor\nLo más difícil será despedirme de ti\nHasta que vuelvas, soñаndo yo ѕólo diré:\nBonjour, bonjour"
+    }
+  ],
+  "bpm": 109,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Paola"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Henry Mayer"
+  ],
+  "conductor": "Henry Mayer",
+  "lyricists": [
+    "Jack Stark"
+  ],
+  "writers": null,
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Georges Hardy",
+    "Giovanni Bertini",
+    "Theodor Haller"
+  ],
+  "jury": null,
+  "spokesperson": "Alexandre Burger"
+}

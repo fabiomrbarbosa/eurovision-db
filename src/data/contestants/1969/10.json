@@ -1,0 +1,55 @@
+{
+  "id": 10,
+  "country": "LU",
+  "artist": "Romuald",
+  "song": "Catherine",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/EpFe2X4Vc2Y",
+    "https://www.youtube-nocookie.com/embed/Ral8KXdlrKA",
+    "https://www.youtube-nocookie.com/embed/yvPv1QMTOos",
+    "https://www.youtube-nocookie.com/embed/d55OyqG9vXY"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Catherine",
+      "content": "Catherine, Catherine, nous avions dix ans\nSouvenez-vous, Catherine? - Au jardin d'enfants\nJe vous offrais mes tartines et mes chocolats\nAvec mon cœur, Catherine, amoureux déjà\n\nEt quand la nuit refermait le jardin\nSe brisait mon cœur d'enfant\nVous me laissiez seul avec mon chagrin\nVous rêviez au Prince Charmant\n\nSi je riais, Catherine, j'avais dans le cœur\nBien des rires, Catherine, tristes comme des pleurs\n\nOù êtes-vous et le Prince Charmant?\nL'avez-vous découvert enfin?\nIl y a toujours nos cœurs et nos prénoms\nGravés sur l'arbre du jardin\n\nCatherine, Catherine, au jardin d'enfants\nCatherine, Catherine, nous avions dix ans\n\nCatherine, Catherine, je rêve souvent\nDevant d'autres, Catherine, au jardin d'enfants\nCatherine, Catherine, et malgré le temps\nJe vous attends, Catherine, comme avant, au jardin d'enfantѕ\nCаtherine"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Catherine",
+      "content": "Catherine, Catherine, we were ten years old\nDo you remember, Catherine? In the kindergarten\nI gave you my bread and my chocolate\nWith my heart, Catherine, already in love\n\nAnd when the night closed the garden again\nBroke my childish heart to pieces\nYou left me alone with my sorrow\nYou dreamed about prince charming\n\nIf I laugh, Catherine, I had in my heart\nMany laughs, Catherine, sad like my cries\n\nWhere are you and prince charming?\nHave you found him at last?\nOur hearts are always and our names are always there\nEngraved on the garden tree\n\nCatherine, Catherine, in the kindergarten\nCatherine, Catherine, we were ten years old\n\nCatherine, Catherine, I often dream\nBefore the others, Catherine, in the kindergarten\nCatherine, Catherine, and in ѕpite of time\nI waited for you, Catherine, like before, in the kindergarten\nCаtherine"
+    }
+  ],
+  "bpm": 113,
+  "tone": "F# major",
+  "artistPeople": [
+    "Romuald Figuier"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "André Borgioli",
+    "Paul Mauriat"
+  ],
+  "conductor": "Augusto Algueró",
+  "lyricists": [
+    "André di Fusco"
+  ],
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": [
+    "Jacques Navadic"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

@@ -1,0 +1,58 @@
+{
+  "id": 22,
+  "country": "FI",
+  "artist": "Pave",
+  "song": "Yamma yamma",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/04wdmE1l20k",
+    "https://www.youtube-nocookie.com/embed/XC6U4AYR8HA",
+    "https://www.youtube-nocookie.com/embed/8oDa7LX2NsE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Yamma yamma",
+      "content": "(Yamma yamma yamma yamma yamma yamma yamma ya…)\n(Yamma yamma yamma yamma yamma yamma yamma ya…)\n\nSiitä aikaa on kun putkiradiota kuunneltiin\nAjatuksissamme tuota laatikkoa muunneltiin\n\nSen sisällä sata oli soittajaa\nNe oli pieniä, eikä niitä nähdä saa\nYammaillaan ja kuunnellaan saundeja vanhan radion\nSe soi kuin stadion vaikka niin snadi on\n\n(Yamma yamma yamma yamma yamma yamma yamma ya…)\n(Yamma yamma yamma yamma yamma yamma yamma ya…)\n\nKun lauloi radiossa Sinatra tai John Lennon\nNoissa tuokioissa siemeniä onnen on\nO o o…\n\n(Yamma yamma yamma yamma yamma yamma yamma ya…)\n(Yamma yamma yamma yamma yamma yamma…)\n\nSen sisällä sata oli soittajaa\nNe oli pieniä, eikä niitä nähdä saa\nYammaillaan ja kuunnellaan saundeja vanhan radion\nSe soi kuin stadion vaikka niin ѕnadi on\n\n(Yamma yamma yamma yamma yamma yamma yamma ya…)\n(Yamma yamma yamma yamma yamma yamma yamma ya…)\n\n(Yamma yamma yamma yamma yamma yamma yamma ya…)\n(Yamma yamma yamma yamma yamma yamma yamma yа…)"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Yamma yamma",
+      "content": "(Yamma yamma yamma yamma yamma yamma yamma ya…)\n(Yamma yamma yamma yamma yamma yamma yamma ya…)\n\nIt's been a long time since we listenened to valve radio\nIn our thoughts we modified that box\n\nThere was a hundred musicians inside it\nThey were little and impossible to see\nWe yam and listen to the sounds of the old radio\nIt sounds like stadium though it's so tiny\n\n(Yamma yamma yamma yamma yamma yamma yamma ya…)\n(Yamma yamma yamma yamma yamma yamma yamma ya…)\n\nWhen Sinatra or John Lennon sung in radio\nIn those moments there's seeds of happiness\nO o o…\n\n(Yamma yamma yamma yamma yamma yamma yamma ya…)\n(Yamma yamma yamma yamma yamma yamma yamma ya…)\n\nThere was a hundred musicians inside it\nThey were little and impossible to see\nWe yam and listen to the sounds of the old radio\nIt sounds like stadium though it's ѕo tiny\n\n(Yamma yamma yamma yamma yamma yamma yamma ya…)\n(Yamma yamma yamma yamma yamma yamma yamma ya…)\n\n(Yamma yamma yamma yamma yamma yamma yamma ya…)\n(Yamma yamma yamma yamma yamma yamma yamma yа…)"
+    }
+  ],
+  "bpm": 121,
+  "tone": "D major",
+  "artistPeople": [
+    "Pekka Juhani Maijanen"
+  ],
+  "backings": [
+    "Anita Pajunen",
+    "Pirjo Aittomäki",
+    "Sini Heinilä"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Pave Maijanen"
+  ],
+  "conductor": "Olli Ahvenlahti",
+  "lyricists": [
+    "Hector"
+  ],
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Erkki Pohjanheimo",
+    "Kati Bergman"
+  ],
+  "jury": null,
+  "spokesperson": "Solveig Herlin"
+}

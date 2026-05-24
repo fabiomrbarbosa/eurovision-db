@@ -1,0 +1,62 @@
+{
+  "id": 3,
+  "country": "RO",
+  "artist": "Mihai Traistariu",
+  "song": "Tornerò",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/1SyPb8IOimE",
+    "https://www.youtube-nocookie.com/embed/4OJO4UUn3PM",
+    "https://www.youtube-nocookie.com/embed/96i0QipDMrU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english",
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Tornerò",
+      "content": "Yeah\n\nI'm keeping your smile on my mind every day\nI'm feeling your touch on my face even while you're away\nLike when was together in that dream that could've been so right, hey\nLike when was together in that dream that could've been so right\n\nTornerò, tornerò\nLa mia vita ti darò\nTornerai, tornerai\nMia per sempre tu sarai\n\nTornerò, tornerò\nLa mia vita ti darò\nTornerai, tornerai\nMia per sempre tu sarai\n\nI wonder why I should feel so empty these days\nI wonder why I should fall now while you're away\nWe'll dance together in that dream that could've been so right, hey\nWe'll dance together in that dream that could've been so right\n\nTornerò, tornerò\nLa mia vita ti darò\nTornerai, tornerai\nMia per sempre tu sarai\n\nI'm keeping your smile in my mind\nI'm feeling your touch on my face\nI just really miss you and I wanna kiss you\nAnd I wonder why, why I didn't know\nAnd I wonder why I didn't know\n\nTornerò, tornerò\nLa mia vita ti darò\nTornerai, tornerai\nMia per sempre tu sarai\n\nTornerò, tornerò\nLa mia vita ti darò\nTornerai, tornerai\nMia per sempre tu ѕarаi"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "romanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Mă voi întoarce",
+      "content": "Da\n\nPăstrez zâmbetul tău în minte în fiecare zi\nSimt atingerea ta pe fața mea chiar și când ești departe\nCa atunci când eram împreună în acel vis care ar fi putut fi atât de corect, hei\nCa atunci când eram împreună în acel vis care ar fi putut fi atât de corect\n\nMă voi întoarce, mă voi întoarce\nÎmi voi da viața pentru tine\nTe vei întoarce, te vei întoarce\nVeI fi pentru totdeauna a mea\n\nMă voi întoarce, mă voi întoarce\nÎmi voi da viața pentru tine\nTe vei întoarce, te vei întoarce\nVeI fi pentru totdeauna a mea\n\nMă întreb de ce ar trebui să mă simt atât de gol în aceste zile\nMă întreb de ce ar trebui să cad acum când ești departe\nVom dansa împreună în acel vis care ar fi putut fi atât de corect, hei\nVom dansa împreună în acel vis care ar fi putut fi atât de corect\n\nMă voi întoarce, mă voi întoarce\nÎmi voi da viața pentru tine\nTe vei întoarce, te vei întoarce\nVeI fi pentru totdeauna a mea\n\nPăstrez zâmbetul tău în minte\nSimt atingerea ta pe fața mea\nMi-e dor de tine și vreau să te ѕărut\nȘi mă întreb de ce, de ce nu am știut\nȘi mă întreb de ce nu am știut\n\nMă voi întoarce, mă voi întoarce\nÎmi voi da viața pentru tine\nTe vei întoarce, te vei întoarce\nVeI fi pentru totdeauna a mea\n\nMă voi întoarce, mă voi întoarce\nÎmi voi da viața pentru tine\nTe vei întoarce, te vei întoarce\nVeI fi pentru totdeauna a meа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I'll come back",
+      "content": "Yeah\n\nI'm keeping your smile on my mind every day\nI'm feeling your touch on my face even while you're away\nLike when was together in that dream that could've been so right, hey\nLike when was together in that dream that could've been so right\n\nI'll come back, I'll come back\nI'll give my life to you\nYou'll come back, you'll come back\nYou'll be forever mine\n\nI'll come back, I'll come back\nI'll give my life to you\nYou'll come back, you'll come back\nYou'll be forever mine\n\nI wonder why I should feel so empty these days\nI wonder why I should fall now while you're away\nWe'll dance together in that dream that could've been so right, hey\nWe'll dance together in that dream that could've been so right\n\nI'll come back, I'll come back\nI'll give my life to you\nYou'll come back, you'll come back\nYou'll be forever mine\n\nI'm keeping your smile in my mind\nI'm feeling your touch on my face\nI just really miss you and I wanna kisѕ you\nAnd I wonder why, why I didn't know\nAnd I wonder why I didn't know\n\nI'll come back, I'll come back\nI'll give my life to you\nYou'll come back, you'll come back\nYou'll be forever mine\n\nI'll come back, I'll come back\nI'll give my life to you\nYou'll come back, you'll come bаck\nYou'll be forever mine"
+    }
+  ],
+  "bpm": 130,
+  "tone": "C# minor",
+  "artistPeople": [
+    "Mihai Trăistariu"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Eduard Cîrcotă"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Cristian Hriscu",
+    "Mihaela Deac"
+  ],
+  "writers": null,
+  "broadcaster": "TVR",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Andreea Marin Bănică"
+}

@@ -1,0 +1,67 @@
+{
+  "id": 10,
+  "country": "IL",
+  "artist": "Shlomo Artzi",
+  "song": "At Va'Ani",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/uXkULDSYGCk",
+    "https://www.youtube-nocookie.com/embed/CW19uH2pUVE",
+    "https://www.youtube-nocookie.com/embed/d3TFI_2G52M",
+    "https://www.youtube-nocookie.com/embed/C-zntQaja50",
+    "https://www.youtube-nocookie.com/embed/5j0iEiWPMlE",
+    "https://www.youtube-nocookie.com/embed/5Aw-4bWoMi8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": [
+        "ivrit"
+      ],
+      "title": "At Va'Ani",
+      "content": "At ola kmo shemesh\nHayoshevet me'alai\nVeroshemet bekarneha et yomi\n\nAt krova kmo geshem\nAl roshi ve'al panai\nVehamaim shebefi leta'ami\n\nAt va'ani, ah ah ah…\nAt va'ani, ken, ah ah ah…\nKmo barak vera'am\nAd katsvei hayam\n\nAt va'ani\nAt va'ani, ken\nZe nishma chazak yoter min ha'olam\n\nShneinu yom velaila\nSovevim lelo le'ut\nZe mize ba'im\nVeze el ze shavim\n\nKmo tsiv'ei hakeshet\nOd nikshor anan bechut\nVenomar lo: Shma\nBa'im yamim tovim\n\nAt va'ani, ah ah ah…\nAt va'ani, ken, ah ah ah…\nKmo barak vera'am\nAd katsvei hayam\n\nAt va'ani\nAt va'ani, ken\nZe nishma chazak yoter min ha'olam\n\nKmo tsiv'ei hakeshet\nOd nikshor anan bechut\nVenomar lo: Shma\nBa'im yamim tovim\n\nAt va'ani, ah ah ah…\nAt va'ani, ken, ah ah ah…\nKmo barak vera'am\nAd katsvei hayam\n\nAt va'ani\nAt va'ani, ken\nZe niѕhma chazak yoter min ha'olam\n\nAt va'ani\nAt va'аni"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": [
+        "עברית"
+      ],
+      "title": "את ואני",
+      "content": "את עולה כמו שמש\nהיושבת מעליי\nורושמת בקרניה את יומי\n\nאת קרובה כמו גשם\nעל ראשי ועל פניי\nוהמים שבפי לטעמי\n\n…את ואני, אה אה אה\n…את ואני, כן, אה אה אה\nכמו ברק ורעם\nעד קצווי הים\n\nאת ואני\nאת ואני, כן\nזה נשמע חזק יותר מן העולם\n\nשנינו יום ולילה\nסובבים ללא לאות\nזה מזה באים\nוזה אל זה שבים\n\nכמו צבעי הקשת\nעוד נקשור ענן בחוט\nונאמר לו: שמע\nבאים ימים טובים\n\n…את ואני, אה אה אה\n…את ואני, כן, אה אה אה\nכמו ברק ורעם\nעד קצווי הים\n\nאת ואני\nאת ואני, כן\nזה נשמע חזק יותר מן העולם\n\nכמו צבעי הקשת\nעוד נקשור ענן בחוט\nונאמר לו: שמע\nבאים ימים טובים\n\n…את ואני, אה אה אה\n…את ואני, כן, אה אה אה\nכמו ברק ורעם\nעד קצווי הים\n\nאת ואני\nאת ואני, כן\nזה נשמע חזק יותר מן העולם\n\nאת ואני\nאת ואני"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "You and me",
+      "content": "You rise like a sun\nThat sits above me\nAnd writes my day with its rays\n\nYou are close like rain\nOn my head and on my face\nAnd the water in my mouth is to my liking\n\nYou and me, ah ah ah…\nYou and me, yes, ah ah ah…\nLike thunder and lightning\nUntil the edges of the sea\n\nYou and me\nYou and me, yes\nIt sounds stronger than the world\n\nDay and night, we both\nSpin tirelessly\nComing from one another\nAnd returning to one another\n\nLike the colours of the rainbow\nWe'll tie a cloud to a string\nAnd we'll tell him: Listen\nGood days are ahead\n\nYou and me, ah ah ah…\nYou and me, yes, ah ah ah…\nLike thunder and lightning\nUntil the edges of the sea\n\nYou and me\nYou and me, yes\nIt sounds stronger than the world\n\nLike the colours of the rainbow\nWe'll tie a cloud to a string\nAnd we'll tell him: Listen\nGood days are ahead\n\nYou and me, ah ah ah…\nYou and me, yes, ah ah ah…\nLike thunder and lightning\nUntil the edges of the sea\n\nYou and me\nYou and me, yes\nIt sounds ѕtronger than the world\n\nYou and me\nYou аnd me"
+    }
+  ],
+  "bpm": 140,
+  "tone": "F major",
+  "artistPeople": [
+    "Shlomo Artzi"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Shlomo Artzi"
+  ],
+  "conductor": "Eldad Shrem",
+  "lyricists": [
+    "Ehud Manor"
+  ],
+  "writers": null,
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Yitzhak Shim'oni"
+}

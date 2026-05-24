@@ -1,0 +1,62 @@
+{
+  "id": 5,
+  "country": "EE",
+  "artist": "Evelin Samuel & Camille",
+  "song": "Diamond Of Night",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/GY4Vh-ROPu8",
+    "https://www.youtube-nocookie.com/embed/ylqeC4eC6sc",
+    "https://www.youtube-nocookie.com/embed/pXOg8J9-3DA",
+    "https://www.youtube-nocookie.com/embed/cvcIe92Aysc",
+    "https://www.youtube-nocookie.com/embed/PINg8fx7XHU",
+    "https://www.youtube-nocookie.com/embed/tdMn7Wpw5Z4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Diamond Of Night",
+      "content": "Silently glowing, moonbeams are sowing silver, silver starry-eyed skies\nBurning in fire, words of desire linger, linger, long in disguise\n\nDiamond of night, burning so bright, guide me my silvery new sign\nFinding my way as I pray, now I can say it is my time\n\nVoices are calling, whilst stardust falling, reveries, reveries lighten his heart\nSilently blazing, stars so amazing, heavenly, heavenly fire from a spark\n\nDiamond of night, burning so bright, guide me my silvery new sign\nFinding my way as I pray, now I can say it is my time\n\nDiamond of night, burning so bright, guide me my silvery new sign\nFinding my way as I pray, now I can say it is my time\n\nDiamond of night, burning bright, now I can sаy it iѕ my time"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": null,
+      "title": "יהלום הלילה",
+      "content": "זוהרים בשקט, קרני ירח זורעות שמיים כסופים עם עיניים מכוכבות\nבוער באש, מילים של תשוקה להשתהות, להשתהות, ארוך בתחפושת\n\nיהלום הלילה, בוער כל כך בהיר, הדריך אותי את השלט החדש והכסוף שלי\nלמצוא את דרכי כשאני מתפלל, עכשיו אני יכול לומר שזה הזמן שלי\n\nקולות קוראים, בעוד אבק כוכבים נופל, חלומות בהקיץ, חלומות בהקיץ להאיר את לבו\nלוהט בשקט, כוכבים כל כך מדהימים, שמימיים, אש שמימית מניצוץ\n\nיהלום הלילה, בוער כל כך בהיר, הדריך אותי את השלט החדש והכסוף שלי\nלמצוא את דרכי כשאני מתפלל, עכשיו אני יכול לומר שזה הזמן שלי\n\nיהלום הלילה, בוער כל כך בהיר, הדריך אותי את השלט החדש והכסוף שלי\nלמצוא את דרכי כשאני מתפלל, עכשיו אני יכול לומר שזה הזמן שלי\n\nיהלום של לילה, בוער בהיר, עכשיו אני יכול לומר שזה הזמן שלי"
+    }
+  ],
+  "bpm": 140,
+  "tone": "C# major",
+  "artistPeople": [
+    "Imbi Rätsep",
+    "Evelin Samuel"
+  ],
+  "backings": [
+    "Anneli Tõevere",
+    "Maian-Anna Kärmas",
+    "Saale Kivimaaker"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Glen Pilvre",
+    "Priit Pajusaar"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Maian-Anna Kärmas"
+  ],
+  "writers": null,
+  "broadcaster": "ERR",
+  "commentators": [
+    "Marko Reikop"
+  ],
+  "jury": null,
+  "spokesperson": "Mart Sander"
+}

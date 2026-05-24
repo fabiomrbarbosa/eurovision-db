@@ -1,0 +1,51 @@
+{
+  "id": 3,
+  "country": "LU",
+  "artist": "Hugues Aufray",
+  "song": "Dès que le printemps revient",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Hdne0IMQ8Ac",
+    "https://www.youtube-nocookie.com/embed/FI64Rk34q6o",
+    "https://www.youtube-nocookie.com/embed/ccUzn8Uqxlo"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Dès que le printemps revient",
+      "content": "Les filles sont jolies dès que le printemps est là\nMais les serments s'oublient dès que le printemps s'en va\nLà-bas dans la prairie, j'attends toujours mais en vain\nUne fille en organdi dès que le printemps revient\n\nJe repense à ses yeux dès que le printemps est là\nJe revois nos adieux dès que le printemps s'en va\nEt son image rôde au détour de mon chemin\nQuand les soirées se font chaudes dès que le printemps revient\n\nNon, le temps n'y fait rien\nNon, le temps n'y peut rien\n\nJe crois la retrouver dès que le printemps est là\nJe cesse d'y rêver dès que le printemps s'en va\nAprès bien des hivers pourtant mon cœur se souvient\nComme si c'était hier dès que le printemps revient\n\nNon, le temps n'y fait rien\nOh non, le temps n'y peut rien\n\nParfois je veux mourir dès que le printemps est là\nJe crois toujours guérir dès que le printemps s'en va\nMais je sens la brûlure d'une douleur qui m'étreint\nComme une аncienne blessure dès que le printemps revient\n\nDès que le printemps revient, dès que le printemps revient\nDès que le printemps revient, dès que le printempѕ revient"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Once spring returns",
+      "content": "The girls are pretty once spring is here\nBut the vows forget themselves once spring goes away\nThere in the prairie, I always await but in vain\nA girl in organdy once spring returns\n\nI think again about her eyes once spring is here\nI see again our parting, once spring goes away\nAnd her image hanging around the corner of my path\nWhen the evenings become warm once spring returns\n\nNo, time can't do anything\nNo, it is not up to time\n\nI believe I will find her once spring is here\nI cease to dream about it once spring goes away\nAfter many winters yet my heart remembers\nAs if it was yesterday once spring returns\n\nNo, time can't do anything\nOh no, it is not up to time\n\nSometimes I want to die once spring is here\nI always believe to be healed once spring goes away\nBut I feel the sting of a pain that embraces me\nLike аn old wound once spring returns\n\nOnce spring returns, once spring returns\nOnce spring returns, once spring returnѕ"
+    }
+  ],
+  "bpm": 123,
+  "tone": "E major",
+  "artistPeople": [
+    "Jean Aufray"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Hugues Aufray"
+  ],
+  "conductor": "Jacques Denjean",
+  "lyricists": [
+    "Jacques Plante"
+  ],
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

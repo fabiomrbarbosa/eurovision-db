@@ -1,0 +1,52 @@
+{
+  "id": 18,
+  "country": "CH",
+  "artist": "Duilio",
+  "song": "Sto pregando",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/kCc6GbO5TJc",
+    "https://www.youtube-nocookie.com/embed/LhuAqWXVhZE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Sto pregando",
+      "content": "Sto pregando per chi non ha ancor capito\nChe la vita ha soltanto un gran dolore\nChi crede quanto è scritto, rinascerà di certo\nUn grande giorno e dolce quel sarà\n\nIo sto pregando per voi, per tutto il male intorno\nChe circonda la vita\nIo sto pregando per tutti, per i sogni distrutti\nPerché non credere?\n\nIo sto pregando il domani, il cielo, il sol, le stelle\nChe perdoni ogni sbaglio\nIo sto pregando per quelli che cercan l'amore\nE non sanno dov'è\n\nIo sto pregando per voi, per tutto il male intorno\nChe circonda la vita\nIo sto pregando per tutti, per i sogni distrutti\nPerché non credere?\n\nIo sto pregando il domani, il cielo, il sol, le stelle\nChe perdoni ogni sbaglio\nIo sto pregando per quelli che cercan l'amore\nE non sanno dov'è\n\nSto pregando nel silenzio dei ricordi\nChe ritorni ancora il tempo dei miei sogni\nRisplenderà une luce per quelli che sapranno\nCercаre il sole nell'oѕcurità"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I'm praying",
+      "content": "I'm praying for someone who has not yet realized\nThat life just has a big pain\nWho believes what is written, will be certainly reborn\nOn a great and sweet day\n\nI'm praying for you, for all the evil around\nWhich surrounds life\nI'm praying for everybody, for the destroyed dreams\nWhy don't you believe it?\n\nI'm praying tomorrow, the sky, the sun, the stars\nTo forgive all the sins\nI'm praying for those who are looking for love\nAnd don't know where\n\nI'm praying for you, for all the evil around\nWhich sorrounds life\nI'm praying for everybody, for the destroyed dreams\nWhy don't you believe it?\n\nI'm praying tomorrow, the sky, the sun, the stars\nTo forgive all the sins\nI'm praying for those who are looking for love\nAnd don't know where\n\nI'm praying in the silence of memories\nThat the time of my dreams may stay here again\nA light will shine for those who know\nHow to find the sun in the dаrknesѕ"
+    }
+  ],
+  "bpm": 145,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Lorenzo di Cicco"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Valeriano Chiaravalle",
+  "lyricists": null,
+  "writers": [
+    "Giuseppe Scaramello"
+  ],
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Bernard Thurnheer",
+    "Jean-Marc Richard",
+    "Wilma Gilardi"
+  ],
+  "jury": null,
+  "spokesperson": "Sandra Studer"
+}

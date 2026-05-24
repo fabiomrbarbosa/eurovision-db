@@ -1,0 +1,56 @@
+{
+  "id": 17,
+  "country": "SI",
+  "artist": "Vili Resnik",
+  "song": "Naj bogovi slišijo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/BTED2l_S-aQ",
+    "https://www.youtube-nocookie.com/embed/BgVJdG2y_8k",
+    "https://www.youtube-nocookie.com/embed/0f-T4FBdrus"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "slovene"
+      ],
+      "displayedLanguages": null,
+      "title": "Naj bogovi slišijo",
+      "content": "Vse, kar mi ostalo je\nPar spominov, upanje\nNjena slika pred očmi\nNikoli ne zbledi, le žari\n\nTisoč let jo čakal bom (Čakal te bom)\nNa kolenih prosil bom (Prosil te bom)\nNaj usmili se nekdo\nZakričal bom v nebo ljubim jo\n\nNaj bogovi slišijo\nDa mi je hudo\nRešite me\nNe, ne morem brez nje\nUmira mi srce\n\nNaj usmili se nekdo\nZakričal bom v nebo ljubim jo\n\nNaj bogovi slišijo\nDa mi je hudo\nRešite me\nNe, ne morem brez nje\n\nOh… (Naj bogovi slišijo)\nNana naj naj naj naj naj…\nDa mi je hudo\nRešite me\nNe, ne morem brez nje\nUmira mi srce\n\nUmirа mi ѕrce"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Let the gods hear",
+      "content": "All there is left for me\nAre a few memories and hope\nHer picture in front of my eyes\nNever fades, it just shines\n\nI'll wait for her for a thousand years (I'll wait for you)\nI'll be begging on my knees (I'll be begging you)\nLet someone have mercy\nI'll scream to the sky I love her\n\nLet the gods hear\nThat I'm in pain\nSave me\nNo, I can't be without her\nMy heart is dying\n\nLet someone have mercy\nI'll scream to the sky I love her\n\nLet the gods hear\nThat I'm in pain\nSave me\nNo, I can't be without her\n\nOh… (Let the gods hear)\nNana nai nai nai nai nai…\nThat I'm in pain\nSave me\nNo, I can't be without her\nMy heart is dying\n\nMy heаrt iѕ dying"
+    }
+  ],
+  "bpm": 152,
+  "tone": "G minor",
+  "artistPeople": [
+    "Vili Resnik"
+  ],
+  "backings": [
+    "Karmen Stavec",
+    "Urša Vlašič"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Matjaž Vlašič"
+  ],
+  "conductor": "Mojmir Sepe",
+  "lyricists": [
+    "Urša Vlašič"
+  ],
+  "writers": null,
+  "broadcaster": "RTVSLO",
+  "commentators": [
+    "Miša Molk"
+  ],
+  "jury": null,
+  "spokesperson": "Mojca Mavec"
+}

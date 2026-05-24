@@ -1,0 +1,60 @@
+{
+  "id": 33,
+  "country": "HR",
+  "artist": "Daria",
+  "song": "Celebrate",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/wTJzolnObu0",
+    "https://www.youtube-nocookie.com/embed/4hsoB5wWn3s",
+    "https://www.youtube-nocookie.com/embed/jS61sDrRyaI",
+    "https://www.youtube-nocookie.com/embed/su_Bt2d3nKg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Celebrate",
+      "content": "Friday, my night\nFlashing street lights\nLet's get this old town dancing\nLeave your troubles behind, oh…\n\nPut your hands up\nLet the magic take over your heart\nJoin us, you'll have a good time\nLove is here to stay\n\nCelebrate every single step you take\nStop the world for a moment\nShine like a comet\nNothing can stop you now\n\nCelebrate every single step you take\nStop the world for a moment\nShine like a comet\nIn our musical galaxy\n\nFriday, late night\nWe're all just shadows in the moonlight\nA thousand drums are beating\nTill the break of day\n\nPut your hands up\nLet the magic take over your heart\nJoin us, you'll have a good time\nThe party of your life\n\nCelebrate every single step you take\nStop the world for a moment\nShine like a comet\nNothing can stop you now\n\nCelebrate every single step you take\nStop the world for a moment\nShine like a comet\nIn our musical galaxy\n\nJust keep moving and dancing and dancing and dancing\nMusic will heal your soul\nLet's move to the rhythms and beats all around\nUntil we lose control\n\nCelebrate every single step you take\nStop the world for a moment\nShine like a comet\nNothing can stop you now\n\nCelebrate every single step you take\nStop the world for a moment\nShine like a comet\nIn our muѕical galaxy\n\nCelebrаte"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "croatian"
+      ],
+      "displayedLanguages": null,
+      "title": "Lahor",
+      "content": "Jesen, zime\nPitaju za tvoje ime\nJel ti kisa\nLjubi lice i umiva\n\nPuse jace\nU inat hodam idem dalje\nNecu biti sama na svijetu\nDok tuku vjetrovi\n\nLahore, salji dalje moju bol\nLjubav lak je korak\nTvrd je orah\nNek vihor ju izbrise\n\nLahore, salji dalje moju bol\nLjubav lak je korak\nTvrd je orah\nNek vihor ju izbrise\n\nJesen, zime\nPitaju za tvoje ime\nJel ti studen\nSteze srce u grudima\n\nBoli jace\nU inat hodam idem dalje\nNecu biti sama na svijetu\nDok tuku vjetrovi\n\nOva noc, ovaj dan\nOvaj suton i mrak\nNek je na spomen zauvijek\n\nOvaj dodir i glas\nSto ih cuvas k'o dаr\nNek te podѕjete"
+    }
+  ],
+  "bpm": 128,
+  "tone": "F# major",
+  "artistPeople": [
+    "Daria Kinzer"
+  ],
+  "backings": [
+    "Ana Jakšić",
+    "Irena Križ",
+    "Jasenka Rutar",
+    "Katarina Jurić",
+    "Segej Voronstov"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Boris Đurđević"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Andrea Čubrić"
+  ],
+  "writers": null,
+  "broadcaster": "HRT",
+  "commentators": [
+    "Duško Ćurlić"
+  ],
+  "jury": null,
+  "spokesperson": "Nevena Rendeli"
+}

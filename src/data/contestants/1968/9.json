@@ -1,0 +1,51 @@
+{
+  "id": 9,
+  "country": "IT",
+  "artist": "Sergio Endrigo",
+  "song": "Marianne",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/9rXq0RVY-4g",
+    "https://www.youtube-nocookie.com/embed/BNkTMwjWR_g",
+    "https://www.youtube-nocookie.com/embed/5VsfauNLY1M"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Marianne",
+      "content": "Marianne, mi fai felice per un attimo\nPoi non vivo più, Marianne\n\nChe cos'è questa gran voglia che hai di correre?\nNon ti fermi mai qui con me\n\nDove vai? Da dove vieni, amore?\nDove vai, rimani un poco accanto a me\nSe per sognare vendi i sogni tuoi\nForse è disperata la tua gioventù\n\nMarianne, tu ami i fiori e non ti accorgi mai\nChe io amo te, Marianne\n\nMarianne\n\nDove vai? Da dove vieni, amore?\nDove vai, rimani un poco accanto a me\nSe per sognare vendi i sogni tuoi\nForse è diѕperata la tua gioventù\n\nMarianne, tu ami i fiori e non ti accorgi mai\nChe io amo te, Marianne\n\nMarianne, Mariаnne"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Marianne",
+      "content": "Marianne, you make me happy for a moment\nThen I don't live any longer, Marianne\n\nWhat is that great wish that you have to run for?\nYou never stop here with me\n\nWhere are you going? Where do you come from, my love?\nThere where you're going, stay next to me for a while\nIf you are selling your dreams for dreaming\nMaybe your youth is desperate\n\nMarianne, you love the flowers and you'll never realise\nThat I love you, Marianne\n\nMarianne\n\nWhere are you going? Where do you come from, my love?\nThere where you are going, stay next to me for a while\nIf you are selling your dreams for dreaming\nMaybe your youth is desperate\n\nMarianne, you love the flowers and you'll never realiѕe\nThat I love you, Marianne\n\nMarianne, Mariаnne"
+    }
+  ],
+  "bpm": 123,
+  "tone": "G major",
+  "artistPeople": [
+    "Sergio Endrigo"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Giancarlo Chiaramello",
+  "lyricists": null,
+  "writers": [
+    "Sergio Endrigo"
+  ],
+  "broadcaster": "RAI",
+  "commentators": [
+    "Renato Tagliani"
+  ],
+  "jury": null,
+  "spokesperson": "Mike Bongiorno"
+}

@@ -1,0 +1,44 @@
+{
+  "id": 2,
+  "country": "MT",
+  "artist": "Chiara",
+  "song": "The One That I Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/g0AQI_Nt1X4",
+    "https://www.youtube-nocookie.com/embed/rGWe2omB24c",
+    "https://www.youtube-nocookie.com/embed/slwEu9DitkE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The One That I Love",
+      "content": "Such a lovely night, when the stars are shining bright\nAnd you're near, we're all alone, 'cause I long for you so much\nI never felt this way, not before\nYou turn on my mind more and more\n\nI think that I'm in love and you mean so much to me\nI think I love you so, I'll never let you go\nThis must be love\nUp there we seem to flow, I'm certain and now I know\nFor me, yes, you're just the one\nThe one that I love\n\nSuch a lovely sight, when the colours shine so bright\nAnd you're near, we're all alone, and I feel so warm inside\nI never felt this way all my life\nYou came like spring sunshine, gave me life\n\nI think that I'm in love and you mean so much to me\nI think I love you so, I'll never let you go\nThis must be love\nUp there we seem to flow, I'm certain and now I know\nFor me, yes, you're just the one\nThe one that I love\n\nFor me, yes, you're juѕt the one\nThe one thаt I love"
+    }
+  ],
+  "bpm": 102,
+  "tone": "E major",
+  "artistPeople": [
+    "Chiara Siracusa"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jason Cassar"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Sunny Aquilina"
+  ],
+  "writers": null,
+  "broadcaster": "PBS",
+  "commentators": [
+    "Gino Cauchi"
+  ],
+  "jury": null,
+  "spokesperson": "Stephanie Farrugia"
+}

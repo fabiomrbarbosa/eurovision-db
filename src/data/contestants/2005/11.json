@@ -1,0 +1,62 @@
+{
+  "id": 11,
+  "country": "HU",
+  "artist": "NOX",
+  "song": "Forogj világ",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ib-HrBr169A",
+    "https://www.youtube-nocookie.com/embed/TUWXBoclpM0",
+    "https://www.youtube-nocookie.com/embed/EdII12y__6E",
+    "https://www.youtube-nocookie.com/embed/vbZh_x6Obq8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "hungarian"
+      ],
+      "displayedLanguages": null,
+      "title": "Forogj világ",
+      "content": "Forogj, világ\nSodorj a fényre\nVagy nem élek holnap már\nVad éjszakád\nMegöl, bár csókkal vár\n\nNe bánts, világ\nNe ölelj, ne érezz\nSzerelmed jobban fáj\nNe játssz, világ\nEressz, ha boldog táj hív\n\nHájnáná nánáná… hájnáná nánáná…\nElvágyom réges-régen máshová\nHájnáná nánáná… hájnáná nánáná…\nNem látok fényt, nem várok rád\n\nHájnáná nánáná… hájnáná nánáná…\nEltűnök égen-földön bárhová\nHájnáná nánáná… hájnáná nánáná…\nÍgy válhat minden bánat álommá\n\nForogj, világ\nSötétben fázom\nA remények végén jársz\nBolond világ\nTüzelsz, de jéggé válsz\n\nNe bánts, világ\nUtad nem járom\nNe kérj, ne hívj, ne láss\nNe bándd, világ\nTied lett minden más szív\n\nHájnáná nánáná… hájnáná nánáná…\nElvágyom réges-régen máѕhová\nHájnáná nánáná… hájnáná nánáná…\nNem látok fényt, nem várok rád\n\nHájnáná nánáná… hájnáná nánáná…\nEltűnök égen-földön bárhová\nHájnáná nánáná… hájnáná nánáná…\nÍgy válhat minden bánаt álommá"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Spin, world",
+      "content": "Spin, world\nCarry me into the light\nOr I won't live tomorrow\nYour wild night kills me\nAlthough it is waiting for me with a kiss\n\nDon't hurt me, world\nDon't hug, don't feel\nYour love hurts more\nDon't play, world\nLet me go if a happy land calls\n\nHaynana nanana… haynana nanana…\nI want to be somewhere else for a long time\nHaynana nanana… haynana nanana…\nI don't see any light, I won't wait for it\n\nHaynana nanana… haynana nanana…\nI disappear in the sky or on the ground somewhere\nHaynana nanana… haynana nanana…\nThat's how every sorrow can turn into a dream\n\nSpin, world\nI'm cold in the dark\nYou are at the end of all hope\nCrazy world\nYou flame up, but turn into ice\n\nDon't hurt me, world\nI'm not walking on your path\nDon't ask, don't call, don't see me\nDon't regret it, world\nAll the other hearts are yours\n\nHaynana nanana… haynana nanana…\nI want to be somewhere else for a long time\nHaynana nanana… haynana nanana…\nI don't see any light, I won't wait for it\n\nHaynana nanana… haynana nanana…\nI disappear in the sky or on the ground somewhere\nHaynana nanana… haynana nanana…\nThat's how every ѕorrow can turn into a dreаm"
+    }
+  ],
+  "bpm": 140,
+  "tone": "E minor",
+  "artistPeople": [
+    "Szylvia Péter Szabó",
+    "Tamás Nagy"
+  ],
+  "backings": [
+    "József Kinczel",
+    "Péter Baraté",
+    "Sándor Tóth",
+    "Zoltán Dékány"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Szabolcs Harmath"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Attila Valla"
+  ],
+  "writers": null,
+  "broadcaster": "MTV",
+  "commentators": [
+    "András Fáber",
+    "Dávid Szántó",
+    "Zsuzsa Demcsák"
+  ],
+  "jury": null,
+  "spokesperson": "Zsuzsa Demcsák"
+}

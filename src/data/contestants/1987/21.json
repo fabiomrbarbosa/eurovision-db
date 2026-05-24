@@ -1,0 +1,58 @@
+{
+  "id": 21,
+  "country": "TR",
+  "artist": "Seyyal Taner & Lokomotif",
+  "song": "Şarkım Sevgi Üstüne",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/70-f2D8YDfs",
+    "https://www.youtube-nocookie.com/embed/AOHSvWXnVII",
+    "https://www.youtube-nocookie.com/embed/2FrLHQcP-A8",
+    "https://www.youtube-nocookie.com/embed/Q31FYLOiXdk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "turkish"
+      ],
+      "displayedLanguages": null,
+      "title": "Şarkım Sevgi Üstüne",
+      "content": "Bir melodi (ve müzik ve) bir melodi\nBir melodi, dostluk, sevgi\n\nLa la la la… la la la la… la la la la la la la la la la…\nLa la la la la la la la la la…\nŞarkım sevgi üstüne\n\nYalan değil benim dünyam\nHayal değil gerçek rüyam\nBütün dünya duysun diye\nŞarkı yazdım üstüne\n\nBenim şarkım sevgi dolu\nBenim şarkım dostluk dolu\nBenim yolum aklın yolu\nYolum sevgi üstüne\n\nBir melodi, bir melodi\nBir melodi, dostluk, sevgi\n\nÖyle güzel, güzel ki hayat\nDünya güzel, dünya rahat\nDostluğunu şarkıma kat\nSöyle sevgi üstüne\n\nBir melodi (ve müzik ve) bir melodi\nBir melodi, dostluk, sevgi\n\nGüle güle, döne döne\nKoy elini el üstüne\nBütün dünya duysun diye\nŞarkım sevgi üstüne\n\nGüle güle, döne döne\nSar kolunu sar belime\nBütün dünya duysun diye\nŞarkım sevgi üstüne\nŞarkım sevgi üstüne\nŞаrkım sevgi üѕtüne"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "My song is about love",
+      "content": "A melody (and music), a melody\nA melody, friendship, love\n\nLa la la la… la la la la… la la la la la la la la la la…\nLa la la la la la la la la la…\nMy song is about love\n\nMy world is not a lie\nMy dream is no illusion, it's the reality\nThe whole world should hear it\nI wrote a song about it\n\nMy song is full of love\nMy song is full of friendship\nMy road is the road of wisdom\nMy road is love\n\nA melody, a melody\nA melody, friendship, love\n\nSuch a wonderful life\nThe world is nice and peaceful\nAdd a little friendship to my song\nSay it for love\n\nA melody (and music), a melody\nA melody, friendship, love\n\nBye bye, coming back\nPut your hands together\nThe whole world should hear it\nMy song is about love\n\nBye bye, coming back\nPut your arms together\nThe whole world should hear it\nMy song is about love\nMy song is about love\nMy song iѕ аbout love"
+    }
+  ],
+  "bpm": 139,
+  "tone": "E major",
+  "artistPeople": [
+    "Seyyal Taner"
+  ],
+  "backings": [
+    "Alper Berksu",
+    "Feridun Mete",
+    "Mehmet Emin Taşer",
+    "Melis Sökmen",
+    "Tansu Atak"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Garo Mafyan",
+  "lyricists": null,
+  "writers": [
+    "Olcayto Ahmet Tuğsuz"
+  ],
+  "broadcaster": "TRT",
+  "commentators": [
+    "Gülgün Feyman"
+  ],
+  "jury": null,
+  "spokesperson": "Canan Kumbasar"
+}

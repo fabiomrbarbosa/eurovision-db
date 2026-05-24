@@ -1,0 +1,59 @@
+{
+  "id": 38,
+  "country": "LT",
+  "artist": "Laura and the Lovers",
+  "song": "Little By Little",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/qUfTcrz8Zcc",
+    "https://www.youtube-nocookie.com/embed/xjuDAgKN0ks",
+    "https://www.youtube-nocookie.com/embed/eJbkb9jI0aw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Little By Little",
+      "content": "Night shadows falling\nI hear you calling\nWe're finally talking\nYour words touch my soul\n\nIt's taken a long time\nTo get inside your mind\nI know it's not easy\nBut baby, we're two of a kind\n\nOoh… little by little\nI'm getting close to your heart\nWhen we're together\nLooks like we're making a start\n\nLittle by little\nI see that look in your eyes\nEach time you touch me\nI want to reach out for you\n\nNo more confusion\nIt ain't no illusion\nThis is a fusion\nOf body and mind\n\nWe're meant for each other\nSo baby, come on, hold me tight\nWe'll make it together\nAs we fly into the night\n\nOoh… little by little\nI'm getting close to your heart\nWhen we're together\nLooks like we're making a start\n\nLittle by little\nI see that look in your eyes\nEach time you touch me\nI want to reach out for you\n\nMmm… little by little\n\nLittle by little\nI'm getting close to your heart\nWhen we're together\nLooks like we're making a start\n\nLittle by little\nI see that look in your eyeѕ\nEach time you touch me\nI want to reаch out for you"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "lithuanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Po Truputį",
+      "content": "Nakties šešėliai krenta\nAš girdžiu tave šaukiantį\nMes pagaliau kalbam\nTavo žodžiai liečia mano sielą\n\nTai užtruko ilgą laiką\nPatekti į tavo protą\nŽinau kad tai nelengva\nBet mažuli, mes vieninteliai tokie\n\nOho… po truputį\nAš artėju prie tavo širdies\nKai mes kartu\nRodosi mes pradedame\n\nPo truputį\nAš matau tavo akių žvilgsnį\nKiekvieną kartą kai mane palieti\nAš noriu siekti tavęs\n\nDaugiau jokios painiavos\nTai nėra iliuzija\nTai susiliejimas\nTarp kūno ir proto\n\nMes vienas kitam skirti\nTaigi mažuli, einame, tvirtai mane laikyk\nMes tai įveiksim kartu\nKol mes skrendam į naktį\n\nOho… po truputį\nAš artėju prie tavo širdies\nKai mes kartu\nRodosi mes pradedame\n\nPo truputį\nAš matau tavo akių žvilgsnį\nKiekvieną kartą kai mane palieti\nAš noriu siekti tavęs\n\nMmm… po truputį\n\nPo truputį\nAš artėju prie tavo širdies\nKai mes kartu\nRodosi mes pradedame\n\nPo truputį\nAš matau tavo akių žvilgsnį\nKiekvieną kartą kai mane palieti\nAš noriu siekti tаvęѕ"
+    }
+  ],
+  "bpm": 130,
+  "tone": "C major",
+  "artistPeople": [
+    "Audrius Piragis",
+    "Donatas Paulauskas",
+    "Laura Čepukaite",
+    "Martynas Lukoševičius"
+  ],
+  "backings": [
+    "Caroline Jönsson",
+    "Sonja Aldén"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Bobby Ljunggren"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "William 'Billy' Butt"
+  ],
+  "writers": null,
+  "broadcaster": "LRT",
+  "commentators": [
+    "Darius Užkuraitis"
+  ],
+  "jury": null,
+  "spokesperson": "Rolandas Vilkončius"
+}

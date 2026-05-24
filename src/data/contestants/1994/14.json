@@ -1,0 +1,55 @@
+{
+  "id": 14,
+  "country": "BA",
+  "artist": "Alma & Dejan",
+  "song": "Ostani kraj mene",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/9t-ptOfHvtQ",
+    "https://www.youtube-nocookie.com/embed/QkGwa3b8zEo",
+    "https://www.youtube-nocookie.com/embed/oe2kjLqlXYk",
+    "https://www.youtube-nocookie.com/embed/4qpJbJzc8QI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "bosnian"
+      ],
+      "displayedLanguages": null,
+      "title": "Ostani kraj mene",
+      "content": "Ti znaš da vratiš svijetlo\nOvom mraku koji osjećam\nS tobom sam sretno djete\nMada tako ti ne izgledam\n\nGodine, jedna po jedna\nKao voz i stanica\nNa posljednjoj smo sami ti i ja\n\nOstani kraj mene\nSva moja nada to si ti\nSva moja snaga to si ti\nSva moja sreća i zato ostani\nLjubavi\n\nU tvojim očima modra rijeka\nKojom mržnja neće poteći\nTvoje srce zna one drage riječi\nŠto se daju ljubeći\n\nGodine, korak po korak\nI sva bol će prestati\nOstat će ova pjesma ja i ti\n\nOstani kraj mene\nSva moja nada to si ti\nSva moja snaga to si ti\nSva moja sreća i zato oѕtani\nLjubаvi"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Stay beside me",
+      "content": "You're the only one who can\nLighten up this darkness I am feeling\nWith you, I am like a happy child\nAlthough I don't look like it\n\nYears, one by one\nLike a train and a station\nOnly we're at the last one\n\nStay beside me\nYou are all my hope\nYou are all my strength\nAll my happiness and stay because of that\nMy love\n\nIn your eyes, there's a blue river\nThrough which hatred will never flow\nYour heart knows the sweet words\nSaid when one's in love\n\nYears, step by step\nAnd all the pain will vanish\nExcept this song, me and you\n\nStay beside me\nYou are all my hope\nYou are all my strength\nAll my happiness and stay becauѕe of thаt\nMy love"
+    }
+  ],
+  "bpm": 94,
+  "tone": "G major",
+  "artistPeople": [
+    "Alma Čardžić",
+    "Dejan Lazarević"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Adi Mulahalilović"
+  ],
+  "conductor": "Sinan Alimanović",
+  "lyricists": [
+    "Edo Mulahalilović"
+  ],
+  "writers": null,
+  "broadcaster": "RTVBIH",
+  "commentators": [
+    "Ismeta Dervoz-Krvavac"
+  ],
+  "jury": null,
+  "spokesperson": "Diana Grković-Foretić"
+}

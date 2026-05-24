@@ -1,0 +1,64 @@
+{
+  "id": 16,
+  "country": "RU",
+  "artist": "Philipp Kirkorov",
+  "song": "Kolybelnaya Dlya Vulkana",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/YX5O4Ems3Pg",
+    "https://www.youtube-nocookie.com/embed/HyRKNLawyiU",
+    "https://www.youtube-nocookie.com/embed/-eeHUgjOd1Y"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": [
+        "русский"
+      ],
+      "title": "Колыбельная для вулкана",
+      "content": "Спят долины тихим сном, спят рябины над прудом\nИ дожди, и ветра, притаились до утра\n\nСпит великий океан, только ты один вулкан\nОгнегривый старик, не умолкнешь ни на миг\n\nВслушайся доверчиво в голос человеческий\nОбратись, пожалуйста, к разуму и к радости\n\nНавсегда забудь, вулкан, чем грозил былым векам\nТы тиранить мир устань, и горой зеленой стань\n\nТы навек забудь, вулкан, чем грозил былым векам\nОбратись, пожалуйста, к разуму и к радости\n\nСпи угрюмый великан, спи недремлющий вулкан\nОтрекись от войны, мира дай и тишины\n\nМира юным и седым, мира грешным и святым\nМира жизни земной, мира небу над тобой\n\nТы навек забудь, вулкан, чем грозил былым векам\nОбратись, пожалуйста, к разуму и к радости\n\nОбратись, пожалуйста, к разуму и к радости"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": [
+        "russkiy"
+      ],
+      "title": "Kolybelnaya Dlya Vulkana",
+      "content": "Spjat daljini tikhim snom, spjat rjabjini nad prudom\nI daždji, i vjetra, pritajiljis da utra\n\nSpit vjeljikij akean, toljko ti adjin vulkan\nAgnjegrivij starik, nje umolknješ nji na mig\n\nVslušajsa davjerčiva v golos čelavječeskij\nAbratis, pažalujsta, k razumu i k radesti\n\nNavsegda zabud, vulkan, čem grazjil bilim vjekam\nTi tiranjit mir ustan, i garoj zjeljenaj stan\n\nTi navjek zabud, vulkan, čem grazjil bilim vjekam\nAbratis, pažalujsta, k razumu i k radesti\n\nSpi ugrumij vjeljikan, spi njedremljušij vulkan\nAtrekis at vajni, mira daj i tišini\n\nMira junim i sedim, mira grešnim i svjatim\nMira žiznji zjemnoj, mira njebu nad taboj\n\nTi navjek zabud, vulkan, čem grazjil bilim vjekam\nAbratis, pažalujsta, k razumu i k radesti\n\nAbratis, pažalujsta, k razumu i k rаdeѕti"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Lullaby for a volcano",
+      "content": "The valleys sleep deeply, the mountain ash sleeps beside the pond\nThe rain and the wind are quiet till the next morning\n\nThe immense ocean sleeps, only you, unique volcano\nVolcanic old man, you are never quiet even for a moment\n\nListen trustingly to the human voice\nPlease, turn back to common sense and to joy\n\nForget forever, volcano, what you have theatened for centuries\nStop to tyrannize the world and stay a green mountain\n\nForget eternally, volcano, what you have threatened for centuries\nPlease, turn back to common sense and to joy\n\nSleep, sullen giant, sleep, eternal guarding volcano\nRenounce of war, give us peace and silence\n\nGive peace for the old and the young, also for sinners and saints\nGive peace for life on earth, peace for the sky above\n\nForget eternally, volcano, what you have threatened for centuries\nPlease, turn back to common sense and to joy\n\nPlease, turn back to common senѕe аnd to joy"
+    }
+  ],
+  "bpm": 129,
+  "tone": "D major",
+  "artistPeople": [
+    "Philipp Bedrosovich Kirkorov (Фили́пп Бедро́сович Кирко́ров)"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ilya Bershadskiy"
+  ],
+  "conductor": "Michael Finberg",
+  "lyricists": [
+    "Ilya Resnik"
+  ],
+  "writers": null,
+  "broadcaster": "ORT",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Marina Danielyan"
+}

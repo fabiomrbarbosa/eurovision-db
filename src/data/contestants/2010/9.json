@@ -1,0 +1,57 @@
+{
+  "id": 9,
+  "country": "UA",
+  "artist": "Alyosha",
+  "song": "Sweet People",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/NQ2mAuqnXZk",
+    "https://www.youtube-nocookie.com/embed/dJX9NCuLagU",
+    "https://www.youtube-nocookie.com/embed/NT9GFoRbnfc",
+    "https://www.youtube-nocookie.com/embed/GvlOuCeQDWU",
+    "https://www.youtube-nocookie.com/embed/b-NBIJTtH7o"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Sweet People",
+      "content": "Oh, sweet people\nWhat have we done?\nTell me what is happening?\nFor all that we've built\nTumbles and is gone\n\nOh, sweet people\nHave you no love for mankind?\nMust you go on killing\nJust to pass the time?\n\nThe message is so true\nThe end is really near\nAll these feelings take me down\nIt steals the things so dear\n\nYes, the message is so real\nDon't turn all the earth to stone\nBecause, because, because\nThis is your home\n\nOh, sweet people\nWhat about our children?\nIn theatres and video games\nThey watch what we send to ruin\n\nOh, sweet people\nWhat senseless game\nHave we all been playing?\nNo one but you to blame?\n\nThe message is so true\nThe end is really near\nAll these feelings take me down\nIt steals the things so dear\n\nYes, the message is so real\nDon't turn all the earth to stone\nBecause, because, becаuse\nThis is your home\n\nThis iѕ our home"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Люди Добрые",
+      "content": "О, люди добрые\nЧто же мы наделали?\nСкажите, что происходит?\nВедь всё, что мы построили\nРушится, и уже ничего не осталось\n\nО, люди добрые\nНеужели вы не любите человечество?\nЗачем вы продолжаете убивать\nЧтобы хоть чем-то занять себя?\n\nПослание очевидно —\nКонец действительно близок\nВсё, что я испытываю, удручает меня\nВедь мы лишимся самого дорогого\n\nДа, послание ясно всем:\nНе превращайте землю в камень\nПотому что, потому что, потому что\nЭто ваш дом\n\nО, люди добрые\nА как же наши дети?\nВ кино и видеоиграх\nОни смотрят на то, что мы разрушаем\n\nО, люди добрые\nВ какую бездумную игру\nМы все играли?\nНикто не виноват, кроме вас самих\n\nПослание очевидно —\nКонец действительно близок\nВсё, что я испытываю, удручает меня\nВедь мы лишимся самого дорогого\n\nДа, послание ясно всем:\nНе превращайте землю в камень\nПотому что, потому что, потому что\nЭто ваш дом\n\nЭто наш дом"
+    }
+  ],
+  "bpm": 120,
+  "tone": "E minor",
+  "artistPeople": [
+    "Olena Topolia"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Olena Kucher",
+    "Borys Kukoba",
+    "Vadim Lisitsa"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Olena Kucher"
+  ],
+  "writers": null,
+  "broadcaster": "NTU",
+  "commentators": [
+    "Timur Miroshnychenko"
+  ],
+  "jury": null,
+  "spokesperson": "Iryna Zhuravska"
+}

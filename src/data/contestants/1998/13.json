@@ -1,0 +1,62 @@
+{
+  "id": 13,
+  "country": "TR",
+  "artist": "Tüzmen",
+  "song": "Unutamazsın",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/zOa-AtCdSzw",
+    "https://www.youtube-nocookie.com/embed/27LgBugVrXY",
+    "https://www.youtube-nocookie.com/embed/lwH7JgJWUyI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "turkish"
+      ],
+      "displayedLanguages": null,
+      "title": "Unutamazsın",
+      "content": "\"Yalnızlığım\" çaldı yine sessiz kapımı\nKaranlığa giden yolu unutmuşken\nYitirmişiz dünleri biz hep yarınlarda\nAğla kalbim, ağla, çünkü bu son fırtına\n\nYazık olur ikimize sevgimize\nHüzünlere çekme bizi bir nefeste\nSenden kalan tek şey sana tutsaklığımsa\nAğla kalbim, daha çok var aydınlığa\n\nNeden ayrılsın ellerimiz\nSevgiyle bakan gözlerimiz?\nYalnızken hani atmaz dururdu, yüreklerimiz?\n\nUnutamazsın yıllar geçse\nSaçlarımıza aklar düşse\nUnutturamaz bizi bize, hiç kimse\n\n\"Yalnızlığım\" çaldı yine sessiz kapımı\nKaranlığa giden yolu unutmuşken\nYitirmişiz dünleri biz hep yarınlarda\nAğla kalbim, daha çok var aydınlığa\n\nNeden ayrılsın ellerimiz\nSevgiyle bakan gözlerimiz?\nYalnızken hani atmaz dururdu, yüreklerimiz?\n\nUnutamazsın yıllar geçse\nSaçlarımıza aklar düşse\nUnutturamaz bizi bize, hiç kimse\n\nUnutamazsın yıllar geçse\nSaçlarımıza aklar düşse\nUnutturamаz bizi bize, hiç kimse\n\nHiç kimѕe"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "You can't forget",
+      "content": "My loneliness knocked on my silent door again\nWhen I had forgotten the path to darkness\nWe have lost the yesterdays, longing for tomorrows\nCry, my heart cry, 'cause this is the final storm\n\nIt will be a waste for us, for our love\nDon't draw us to sorrow in one breath\nIf my captivity to you is the only thing that you have left me\nCry my heart, there is a lot of time for the light\n\nWhy should our hands\nPart our loving eyes?\nDidn't our hearts stop beating, when we were apart?\n\nYou can't forget even if years pass by\nEven if our hair begins to turn grey\nNo one can make us forget each other\n\nMy loneliness knocked on my silent door again\nWhen I had forgotten the path to darkness\nWe have lost the yesterdays, longing for tomorrows\nCry, my heart cry, 'cause this is the final storm\n\nWhy should our hands\nPart our loving eyes?\nDidn't our hearts stop beating, when we were apart?\n\nYou can't forget even if years pass by\nEven if our hair begins to turn grey\nNo one can make us forget each other\n\nYou can't forget even if years pass by\nEven if our hair begins to turn grey\nNo one can make uѕ forget each other\n\nEаch other"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Du kan inte glömma",
+      "content": "Min ensamhet knackade på min tysta dörr igen\nNär jag hade glömt vägen till mörkret\nVi har förlorat gårdagarna, längtar efter morgondagar\nGråt, mitt hjärta gråt, för det här är den sista stormen\n\nDet blir ett slöseri för oss, för vår kärlek\nDra oss inte in i sorg i ett andetag\nOm min fångenskap till dig är det enda du har lämnat kvar för mig\nGråt mitt hjärta, det finns mycket tid för ljuset\n\nVarför ska våra händer\nSära på våra älskande ögon?\nSlutade inte våra hjärtan slå när vi var isär?\n\nDu kan inte glömma även om åren går\nÄven om vårt hår börjar bli grått\nIngen kan få oss att glömma varandra\n\nMin ensamhet knackade på min tysta dörr igen\nNär jag hade glömt vägen till mörkret\nVi har förlorat gårdagarna, längtar efter morgondagar\nGråt, mitt hjärta gråt, för det här är den sista stormen\n\nVarför ska våra händer\nSära på våra älskande ögon?\nSlutade inte våra hjärtan slå när vi var isär?\n\nDu kan inte glömma även om åren går\nÄven om vårt hår börjar bli grått\nIngen kan få oss att glömma varandra\n\nDu kan inte glömma även om åren går\nÄven om vårt hår börjar bli grått\nIngen kan få osѕ att glömma varandra\n\nVarandrа"
+    }
+  ],
+  "bpm": 148,
+  "tone": "G minor",
+  "artistPeople": [
+    "Tarkan Tüzmen"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Erdinç Tunç"
+  ],
+  "conductor": "Ümit Eroğlu",
+  "lyricists": [
+    "Canan Tunç"
+  ],
+  "writers": null,
+  "broadcaster": "TRT",
+  "commentators": [
+    "Ömer Önder"
+  ],
+  "jury": null,
+  "spokesperson": "Osman Erkan"
+}

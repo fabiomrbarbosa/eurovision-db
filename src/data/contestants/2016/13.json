@@ -1,0 +1,64 @@
+{
+  "id": 13,
+  "country": "IL",
+  "artist": "Hovi Star",
+  "song": "Made of Stars",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/SS5TB2XUdgs",
+    "https://www.youtube-nocookie.com/embed/SpWKfcjXcp0",
+    "https://www.youtube-nocookie.com/embed/xU1WtfovOWk",
+    "https://www.youtube-nocookie.com/embed/E8KVkt4JNcs",
+    "https://www.youtube-nocookie.com/embed/5Vukp-kbrjY"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Made of stars",
+      "content": "A language I don't understand\nYou speak, I listen, I'm your friend\n(You hypnotize me)\n\nTake my hand\nA million faces tied in chains\nYou ride a Black horse in the rain\n(You hypnotize me)\n\nDon't escape no more, no more, no more, no more\n'Cause we are all\n\nMade of stars\nSilver fragments falling\nWe are made of stars\nWe are made of stars\nSearching for that secret promise\nMade of stars\n\nYou heal me, you fill me\nIgnite a flame within me\n(Hypnotize me)\n\nI'm begging you\nDon't escape no more, no more, no more, no more\n'Cause we are all\n\nMade of stars\nSilver fragments falling\nWe are made of stars\nWe are made of stars\nSearching for that secret promise\nMade of stars\n\nTell me that you understand\nCome in close and take my hand\nLet's float across the sky like there's no floor and there's no ceiling\nDance with me like we are made of stars\n'Cause we are, 'cause we are, we are, we are, we are\n\nWe are made of stars\nSilver fragments falling\nWe are made of stars\nWe are made of stars\nSearching for that secret promise\nMade of stars\n\nDance with me like we are made of stars\nDance with me like we are made of stаrѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": null,
+      "title": "עשויים מכוכבים",
+      "content": "שפה שאני לא מבין\nאתה מדבר, אני מקשיב, אני חבר שלך\n(אתה מהפנט אותי)\n\nקח את ידי\nמיליון פרצופים קשורים בשרשראות\nאתה רוכב על סוס שחור בגשם\n(אתה מהפנט אותי)\n\nאל תברח, לא עוד, לא עוד, לא עוד, לא עוד\nכי כולנו\n\nעשויים מכוכבים\nשברי כסף נופלים\nאנחנו עשויים מכוכבים\nאנחנו עשויים מכוכבים\nמחפש את הסוד המובטח\nעשויים מכוכבים\n\nאתה מרפה אותי, אתה ממלא אותי\nמצית להבה בתוכי\n(מהפט אותי)\n\nאני מתחנן אליך\nאל תברח, לא עוד, לא עוד, לא עוד, לא עוד\nכי כולנו\n\nעשויים מכוכבים\nשברי כסף נופלים\nאנחנו עשויים מכוכבים\nאנחנו עשויים מכוכבים\nמחפש את הסוד המובטח\nעשויים מכוכבים\n\nתגיד לי שאתה מבין\nבוא קרוב וקח את ידי\nבוא נרחף על פני השמיים כאילו שאין רצפה ואין תקרה\nתרקוד איתי כאילו אנחנו עשויים מכוכבים\nכי אנחנו, אנחנו, אנחנו, אנחנו, אנחנו, אנחנו, אנחנו, אנחנו\n\nעשויים מכוכבים\nשברי כסף נופלים\nאנחנו עשויים מכוכבים\nאנחנו עשויים מכוכבים\nמחפש את הסוד המובטח\nעשויים מכוכבים\n\nתרקוד איתי כאילו אנחנו עשויים מכוכבים\nתרקוד איתי כאילו אנחנו עשויים מכוכבים"
+    }
+  ],
+  "bpm": 140,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Hovav Sekulets (חובב סקולץ)"
+  ],
+  "backings": [
+    "Almog Kapach",
+    "Imri Ziv",
+    "Matan Agami"
+  ],
+  "dancers": [
+    "Amir Ner-Goan",
+    "Jennifer Cohen"
+  ],
+  "stageDirector": "Doron Medalie",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Doron Medalie"
+  ],
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": [
+    "Betty Pablo",
+    "Chaya Zel",
+    "Nathan Slor",
+    "Rhone Rabin",
+    "Tsach Zimroni"
+  ],
+  "spokesperson": "Ofer Nachshon"
+}

@@ -1,0 +1,53 @@
+{
+  "id": 13,
+  "country": "SE",
+  "artist": "Lill-Babs",
+  "song": "April, april",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/JzldSvZG6cc",
+    "https://www.youtube-nocookie.com/embed/LpmpPqRvblo",
+    "https://www.youtube-nocookie.com/embed/xq78UMaseS0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "April, april",
+      "content": "Alla pigga, glada fåglar sjunger kvitt, kvitt, kvitt\nAlla västan vindar leker glatt tafatt\nAlla sippor målar ängarna i vitt, vitt, vitt\nAlla flickor provar ut sin nya hatt\nAlla pojkar gläds att yllestrumpan\nAv stumpen byts mot ljus nylon\n\nApril, det gör ingenting att vinter varit svår\nApril, när du nu till sist slår ut ditt blonda hår\n\nEn vår är här igen och jag är kär igen\nEn vår, det är nog så\nAtt det är den jag väntat på\n\nApril, infekterar mig med kärlekens bacill\nApril, dumma sillar kan du lura vart du vill\n\nDu du du du du du du du...\nDu du du du du du du du...\n\nEn vår är här igen och jag är kär igen\nEn vår, det är nog så\nAtt det är den jag väntat på\n\nApril, det gör ingenting att vinter varit svår\nApril, när du nu till sist slår ut ditt blonda hår\n\nApril, infekterar mig med kärlekens bacill\nApril, dumma ѕillar kan du lura vart du vill\n\nTra la la la la la la lа... mmm..."
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "April, april",
+      "content": "All the lively, happy birds are singing chirp, chirp, chirp\nAll the west winds happily play catch\nAll the anemones paint the meadows in white, white, white\nAll the girls are trying out their new hats\nAll the boys are happy that the woolen socks\nAre changed to light nylon by the girls\n\nApril, it doesn't matter if the winter's been hard\nApril, when you can let your blonde hair down now\n\nSpring is here again and I'm in love again\nSpring, that's how it is\nThat's what I've been waiting for\n\nApril, infects me with the love bug\nApril, I can make you an April's Fool\n\nDu du du du du du du du...\nDu du du du du du du du...\n\nSpring is here again and I'm in love again\nSpring, that's how it is\nThat's what I've been waiting for\n\nApril, it doesn't matter if the winter's been hard\nApril, when you can let your blonde hair down now\n\nApril, infects me with the love bug\nApril, I can make you an April'ѕ Fool\n\nTra la la la la la la lа... mmm..."
+    }
+  ],
+  "bpm": 133,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Barbro Margareta Svensson"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Bobbie Ericsson"
+  ],
+  "conductor": "Thore Ehrling",
+  "lyricists": [
+    "Bo Eneby"
+  ],
+  "writers": null,
+  "broadcaster": "SR",
+  "commentators": [
+    "Jan Gabrielsson"
+  ],
+  "jury": null,
+  "spokesperson": "Roland Eiworth"
+}

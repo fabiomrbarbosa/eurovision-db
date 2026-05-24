@@ -1,0 +1,52 @@
+{
+  "id": 20,
+  "country": "SI",
+  "artist": "Regina",
+  "song": "Dan najlepših sanj",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/bLkch4pIA_M",
+    "https://www.youtube-nocookie.com/embed/RWIu_U5cYp8",
+    "https://www.youtube-nocookie.com/embed/5YSluwYxoBk",
+    "https://www.youtube-nocookie.com/embed/ZLej-YtLRuc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "slovene"
+      ],
+      "displayedLanguages": null,
+      "title": "Dan najlepših sanj",
+      "content": "Sonce zaspano mi pravi, da si tu\nIn luna nad mano pozdravlja me v snu\n\nPrvi cvetovi in prvo majsko nebo\nNajlepši vrtovi v ljubezni skriti so\n\nKer to je dan najlepših sanj\nKi trajal bo za vedno\nUtrip srca me vodi tja\nKjer je ljubezen prava\n\nIn če mi kdo vzame to ljubezen\nVzame mi srce\nA brez srca zaljubljen biti se ne da\n\nPrvi cvetovi in prvo majsko nebo\nNajlepši vrtovi v ljubezni skriti so\n\nKer to je dan najlepših sanj\nKi trajal bo za vedno\nUtrip srca me vodi tja\nKjer je ljubezen prava\n\nKer to je dan (najlepših sanj)\nKi trajal bo za vedno\nUtrip srca me vodi tja\nKjer je ljubezen prava\n\nIn če mi kdo vzame to ljubezen\nVzame mi srce\nA brez srca zaljubljen biti se ne da\nA brez srca zaljubljen biti ѕe ne dа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The day of the most beautiful dream",
+      "content": "A sleepy sun tells me that you are here\nAnd the moon above me greets me in a dream\n\nThe first blossom and May's first sky\nThe most beautiful gardens are hidden in love\n\nBecause this is the day of the most beautiful dream\nThat will last forever\nA heartbeat leads me to the place\nWhere love is real\n\nAnd if someone steals my love\nSteals my heart\nBut with no heart, no one can be in love\n\nThe first blossom and May's first sky\nThe most beautiful gardens are hidden in love\n\nBecause this is the day of the most beautiful dream\nThat will last forever\nA heartbeat leads me to the place\nWhere love is real\n\nBecause this is the day (of the most beautiful dream)\nThat will last forever\nA heartbeat leads me to the place\nWhere love is real\n\nAnd if someone steals my love\nStealѕ my heart\nBut with no heart, no one can be in love\nBut with no heart, no one cаn be in love"
+    }
+  ],
+  "bpm": 106,
+  "tone": "E major",
+  "artistPeople": [
+    "Irena Kogoj"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Jože Privšek",
+  "lyricists": null,
+  "writers": [
+    "Aleksander Kogoj"
+  ],
+  "broadcaster": "RTVSLO",
+  "commentators": [
+    "Miša Molk"
+  ],
+  "jury": null,
+  "spokesperson": "Mario Galunič"
+}

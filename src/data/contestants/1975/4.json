@@ -1,0 +1,57 @@
+{
+  "id": 4,
+  "country": "LU",
+  "artist": "Géraldine",
+  "song": "Toi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/cowZzbKD9w4",
+    "https://www.youtube-nocookie.com/embed/zTT-ewMOzXE",
+    "https://www.youtube-nocookie.com/embed/VTqMRJu4LsA",
+    "https://www.youtube-nocookie.com/embed/mj4_JAGR1ts"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Toi",
+      "content": "Je me suis endormie en écoutant ta voix\nEn oubliant ma vie au creux de toi, au creux de toi\nJe me suis réveillée, j'ai retrouvé ta voix\nEt je savais aimer, dis-moi pourquoi, dis-moi pourquoi\n\nToi, tu es mon seul amour, tu es mon existence\nToi, tu m'as donné l'amour, tu m'as donné la chance\nDe comprendre aujourd'hui que je vivais pour toi\nDe savoir que ma vie n'existe pas sans toi\n\nPuisque tu vas voler mes souvenirs d'enfant\nLaisse-moi les garder juste le temps, juste le temps\nDe revoir mes quinze ans, de courir dans les bois\nEt de laisser le vent chanter pour toi, chanter pour toi\n\nToi, qui es mon seul amour, qui es mon existence\nToi, qui m'as donné l'amour, qui m'as donné la chance\nDe comprendre aujourd'hui que je vivais pour toi\nDe savoir que ma vie n'existe pas sаnѕ toi"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "You",
+      "content": "I fell asleep, listening to your voice\nForgetting my life in your niche, in your niche\nI woke up, I have found your voice back\nAnd I knew how to love, tell me why, tell me why\n\nYou are my only love, you're my existence\nYou have given me love, you have given me the chance\nTo understand today that I lived for you\nTo know that my life doesn't exist without you\n\nSince you're going to steal the memories of my childhood\nLet me keep them just the time, just the time\nTo see again my adolescence, running in the forests\nAnd letting the wind singing for you, singing for you\n\nYou are my only love, you're my existence\nYou gave me love, you gave me the chance\nTo understand today that I lived for you\nTo know thаt my life doesn't exiѕt without you"
+    }
+  ],
+  "bpm": 114,
+  "tone": "Ab minor",
+  "artistPeople": [
+    "Geraldine Brannigan"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Bill Martin",
+    "Phil Coulter"
+  ],
+  "conductor": "Phil Coulter",
+  "lyricists": [
+    "Bill Martin",
+    "Phil Coulter",
+    "Pierre Cour"
+  ],
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": [
+    "Jacques Navadic"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

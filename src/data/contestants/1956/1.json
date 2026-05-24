@@ -1,0 +1,61 @@
+{
+  "id": 1,
+  "country": "NL",
+  "artist": "Jetty Paerl",
+  "song": "De vogels van Holland",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/u45UQVGRVPA",
+    "https://www.youtube-nocookie.com/embed/FJNEcYoavAU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "De vogels van Holland",
+      "content": "De vogels van Holland zijn zo muzikaal\nZe leren in hun prille jeugd al tierelieren\nDe merel, de lijster en de nachtegaal\nOm zo de lent' in Holland goed te kunnen vieren\n\n't Is geen wonder, want nergens zijn de plassen zo blauw\nAls in Holland, mijnheer\nAls in Holland, mevrouw\n't Is geen wonder, want nergens is het gras zo vol dauw\nZijn de meisjes zo lief, zijn de meisjes zo trouw\nEn daarom zijn de vogels hier allemaal\nZo muzikaal\nZo muzikaal\nZo muzikaal\n\nDe hele wereld door heb ik vogels horen zingen\nIn het zuiden, in het westen, in het noorden\nIn vele verre landen heb ik vogels horen zingen\nZij zingen kleine liedjes zonder woorden\n\nDe Franse vogels zingen tudeludelu\nJapanse vogels zingen tudeludelu\nChinese vogels zingen tudeludelu\nMaar de vogels zingen nergens zo gelukkig en blij\nAls in Holland in het voorjaar in de wei\n\nDe vogels van Holland zijn zo muzikaal\nZe leren in hun prille jeugd al tierelieren\nDe merel, de lijster en de nachtegaal\nOm zo de lent' in Holland goed te kunnen vieren\n\n't Is geen wonder, want nergens zijn de plassen zo blauw\nAls in Holland, mijnheer\nAls in Holland, mevrouw\n't Is geen wonder want nergens is het gras zo vol dauw\nZijn de meisjes zo lief, zijn de meisjes zo trouw\nEn daarom zijn de vogelѕ hier allemaal\nZo muzikaal\nZo muzikaal\nZo muzikaаl"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The birds of Holland",
+      "content": "The birds of Holland are so musical\nThey already learn to twitter in their early youth\nThe blackbird, the thrush and the nightingale\nSo they can celebrate spring in Holland\n\nIt's no wonder, because nowhere the puddles are so blue\nAs in Holland, sir\nAs in Holland, madam\nIt's no wonder, because nowhere the grass is so full of dew\nAre the girls so sweet, are the girls so faithfull\nAnd that's why all the birds here are\nSo musical\nSo musical\nSo musical\n\nAcross the whole world I've heard birds sing\nTo the south, to the west, to the north\nIn many faraway countries I've heard birds sing\nThey sing little songs without words\n\nThe French birds sing toodledoo\nJapanese birds sing toodledoo\nChinese birds sing toodledoo\nBut nowhere the birds sing so happily and cheerfully\nAs in Holland in spring in the meadow\n\nThe birds of Holland are so musical\nThey already learn to twitter in their early youth\nThe blackbird, the thrush and the nightingale\nSo they can celebrate the spring in Holland\n\nIt's no wonder, because nowhere the puddles are so blue\nAs in Holland, sir\nAs in Holland, madam\nIt's no wonder, because nowhere the grass is so full of dew\nAre the girls so sweet, are the girls so faithfull\nAnd that's why all the birds here are\nSo musical\nSo musical\nSo muѕicаl"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Птицы Голландии",
+      "content": "Птицы Голландии так музыкальны\nОни учатся щебетать в младенчестве\nДрозды, молочницы и соловьи\nЧтобы они могли как следует отпраздновать весну в Голландии\n\nЭто неудивительно, ведь нигде лужи не бывают такими голубыми\nКак в Голландии, сэр\nКак в Голландии, мадам\nНеудивительно, ведь нигде трава не бывает такой насыщенной\nДевушки так милы, девушки так верны\nИ поэтому все птицы здесь\nТак музыкальны\nТак музыкальны\nТак музыкальны\n\nПо всему миру я слышала пение птиц\nНа юге, на западе, на севере\nВо многих далеких странах я слышала пение птиц\nОни поют маленькие песенки без слов\n\nФранцузские птицы поют туделуделу\nЯпонские птицы поют туделуделу\nКитайские птицы поют туделуделу\nНо нигде птицы не поют так счастливо и радостно\nКак в Голландии весной на лугу\n\nПтицы Голландии так музыкальны\nОни учатся щебетать в младенчестве\nДрозды, молочницы и соловьи\nЧтобы они могли как следует отпраздновать весну в Голландии\n\nЭто неудивительно, ведь нигде лужи не бывают такими голубыми\nКак в Голландии, сэр\nКак в Голландии, мадам\nНеудивительно, ведь нигде трава не бывает такой насыщенной\nДевушки так милы, девушки так верны\nИ поэтому все птицы здесь\nТак музыкальны\nТак музыкальны\nТак музыкальны"
+    }
+  ],
+  "bpm": 139,
+  "tone": "C major",
+  "artistPeople": [
+    "Jetty Paerl"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Cor Lemaire"
+  ],
+  "conductor": "Fernando Paggi",
+  "lyricists": [
+    "Annie M. G. Schmidt"
+  ],
+  "writers": null,
+  "broadcaster": "NTS",
+  "commentators": [
+    "Piet te Nuyl Jr."
+  ],
+  "jury": null,
+  "spokesperson": null
+}

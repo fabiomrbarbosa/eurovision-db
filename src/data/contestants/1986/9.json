@@ -1,0 +1,76 @@
+{
+  "id": 9,
+  "country": "ES",
+  "artist": "Cadillac",
+  "song": "Valentino",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/oUeSKjfrJVs",
+    "https://www.youtube-nocookie.com/embed/3cjIDIP3xSM",
+    "https://www.youtube-nocookie.com/embed/xXQ-ojgV5bs",
+    "https://www.youtube-nocookie.com/embed/o98hQfZeKdw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Valentino",
+      "content": "En Madrid, un hotel\nSucedió, hice mi papel\nElla y yo, la pasión\nCoincidió en la recepción\n\nValentino no lo hubiera hecho mejor\nRosas rojas con una invitación\nUn tango en el salón\nChampaña y seducción\nY la orquesta sonará para los dos\nLa pasión nos llevará a tu habitación\n\nValentino, Valentino\n\nAtracción, emoción\nCaerá bajo mi control\n\nValentino, baila un tango para mí\nQuiero ser protagonista de tus films\nValentino no lo hubiera hecho mejor\nRosas rojas con una invitación\nTumbada en la chaise-longue, esperando mi amor\n¡Ay!, si Hollywood supiera quién ѕoy yo\nTodo el mundo bailaría mi canción\n\nValentino, Valentino, Vаlentino"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Valentino",
+      "content": "In Madrid, in a hotel\nIt happened, I played my role\nShe and I, the passion\nCoincided at the reception\n\nValentino couldn't have done it better\nRed roses with an invitation\nA tango in the lounge\nChampagne and seduction\nAnd the orchestra will play for the two of us\nThe passion will take us to your room\n\nValentino, Valentino\n\nAttraction, emotion\nShe will fall under my control\n\nValentino, dance a tango for me\nI want to be the hero in your films\nValentino couldn't have done it better\nRed roses with an invitation\nLying on the chaise longue, waiting for my love\nAh, if Hollywood knew who I am\nEverybody would dance to my ѕong\n\nValentino, Valentino, Vаlentino"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Valentino",
+      "content": "I Madrid, på ett hotel\nHände det, jag spelade min roll\nHon och jag, passionen\nSammanföll i receptionen\n\nValentino kunde inte ha gjort det bättre\nRöda rosor med en inbjudan\nEn tango i vardagsrummet\nChampagne och förförelse\nOch orkestern kommer spela för oss två\nPassionen tar oss till ditt rum\n\nValentino, Valentino\n\nAttraktion, känsla\nHon kommer hamna under min kontroll\n\nValentino, dansa en tango för mig\nJag vill vara hjälten i dina filmer\nValentino kunde inte ha gjort det bättre\nRöda rosor med en inbjudan\nLigger i schäslongen och väntar på min älskade\nAh, om Hollywood visste vem jag var\nSkulle hela världen dansa till min ѕång\n\nValentino, Valentino, Vаlentino"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "polish"
+      ],
+      "displayedLanguages": null,
+      "title": "Valentino",
+      "content": "W Madrycie, w hotelu\nZdarzyło się, odegrałem swoją rolę\nOna i ja, pasja\nSpotkały się w recepcji\n\nValentino nie zrobiłby tego lepiej\nCzerwone róże z zaproszeniem\nTango w sali\nSzampan i uwodzenie\nA orkiestra zagra dla nas dwojga\nPasja zaprowadzi nas do twojego pokoju\n\nValentino, Valentino\n\nAtrakcyjność, emocje\nOna upadnie pod moją kontrolą\n\nValentino, zatańcz tango dla mnie\nChcę być głównym bohaterem twoich filmów\nValentino nie zrobiłby tego lepiej\nCzerwone róże z zaproszeniem\nLeżąc na szezlongu, czekając na moją miłość\n¡Ay!, gdyby Hollywood wiedziało, kim jestem\nWszyscy tańczyliby moją pioѕenkę\n\nValentino, Valentino, Vаlentino"
+    }
+  ],
+  "bpm": 139,
+  "tone": "G major",
+  "artistPeople": [
+    "Daniel Jacques Louis",
+    "José María Guzmán",
+    "Pedro Agustín Sánchez"
+  ],
+  "backings": [
+    "Adolfo Rodríguez",
+    "Maisa Hens",
+    "Mary Jamison"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Eduardo Leiva",
+  "lyricists": null,
+  "writers": [
+    "José María Guzmán"
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "Antonio Gómez"
+  ],
+  "jury": null,
+  "spokesperson": "Matilde Jarrín"
+}

@@ -66,11 +66,14 @@ eurovision-app/
 └── src/
     ├── data/                        ← server-side JSON (read by Astro at build time)
     │   ├── countries.json
-    │   ├── index.json               ← flattened search index (all contestants+winners)
-    │   ├── years.json
-    │   └── contests/
-    │       ├── 1956.json
-    │       └── ... (1956–2026)
+    │   ├── contests/
+    │   │   ├── 1956.json
+    │   │   └── ... (1956–2026)
+    │   └── contestants/             ← per-contestant detail (fetched with --contestants flag)
+    │       ├── 2025/
+    │       │   ├── 0.json           ← ContestantDetail (lyrics, BPM, credits, …)
+    │       │   └── ...
+    │       └── ... (all years)
     ├── lib/
     │   ├── api/
     │   │   ├── types.ts             ← ALL TypeScript interfaces (source of truth)
@@ -84,7 +87,8 @@ eurovision-app/
     ├── components/
     │   ├── Search.svelte            ← client-side search island (fetches /data/index.json)
     │   ├── ScoreBreakdown.svelte    ← interactive vote detail (click country → voters)
-    │   └── ContestTabs.svelte       ← SF1/SF2/Final tab group for contest page
+    │   ├── ContestTabs.svelte       ← SF1/SF2/Final tab group for contest page
+    │   └── LyricsTabs.svelte        ← wrapping tab group for original + translations/versions
     └── pages/
         ├── index.astro              ← homepage: hero + recent winners grid
         ├── contests.astro           ← all editions table
@@ -93,9 +97,11 @@ eurovision-app/
         │   ├── index.json.ts        ← Astro endpoint: serves src/data/index.json
         │   └── countries.json.ts    ← Astro endpoint: serves src/data/countries.json
         ├── contest/
-        │   └── [year].astro        ← full contest page: scoreboard + ScoreBreakdown
+        │   ├── [year].astro         ← full contest page: scoreboard + ScoreBreakdown
+        │   └── [year]/contestant/
+        │       └── [id].astro       ← contestant detail: video, lyrics, credits, results
         └── country/
-            └── [code].astro        ← country page: stats + full history table
+            └── [code].astro         ← country page: stats + full history table
 ```
 
 ---
@@ -205,6 +211,10 @@ npm run fetch:flags
 # Download all contest logos to public/images/logos/{year}.png (safe to re-run)
 npm run fetch:logos
 
+# Also fetch per-contestant detail (lyrics, BPM, credits) for all years
+# WARNING: ~1800 files, takes several minutes
+npm run fetch:data -- --contestants
+
 # Gap-fill a single year — WARNING: clobbers years.json and index.json
 # with only that year's data. Prefer npm run fetch:data (full run) when possible.
 npm run fetch:year -- 2026
@@ -255,7 +265,8 @@ npm run build
   hidden when wins > 0 (1st place is already implied); Final column shows `—`
   (not "DNQ") for contestants who appeared in the final round but have no recorded
   place (1956); table wrapped in `.table-scroll` for mobile
-- `Search.svelte` — live search island (queries /data/index.json and /data/countries.json)
+- `Search.svelte` — live search island (queries /data/index.json and /data/countries.json);
+  `listEl` declared with `$state()` for reactive binding; a11y `onkeydown` handler on result `<li>`
 - `ScoreBreakdown.svelte` — interactive voter detail panel; `WLD` voter shown as
   "Rest of the World" with its heart flag (`/images/flags/wld.svg`); "Votes received by"
   label uses `--c-cyan`
@@ -276,9 +287,20 @@ npm run build
 - `scripts/fetch-flags.ts` — downloads heart flags from eurovision.com with browser headers;
   falls back to flagcdn.com PNG for unsupported codes (gb-wls)
 - Contest logo `<img>` on `[year].astro` uses local `/images/logos/{year}.png`
+- `contest/[year]/contestant/[id].astro` — contestant detail page: hero with performance
+  result pills (place, pts, jury/tele split), YouTube embed, `LyricsTabs` island, sidebar
+  with song metadata (BPM, key, members), credits (writers, stage director, backings,
+  dancers, conductor), and broadcast info (broadcaster, spokesperson, commentators, jury);
+  only generates static paths for contestants that have a local detail file
+- `LyricsTabs.svelte` — wrapping tab bar (flex-wrap) for original + translations + versions;
+  tab label uses language name(s) (capitalised), type badge colour-coded gold/cyan/magenta;
+  single-lyric songs skip the tab bar entirely; `\n\n` stanzas rendered as `<p>` with
+  `white-space: pre-line` to preserve line breaks within stanzas
+- `src/data/contestants/` — 1830 ContestantDetail JSON files covering all years (1956–2026),
+  fetched with `npm run fetch:data -- --contestants`
 
 ### 🔲 Still to build
-- Contestant detail page: `/contest/{year}/contestant/{id}` (lyrics, BPM, jury)
+
 - Error/404 page
 - Pagination or virtual scroll for the contests table (70+ rows is fine for now)
 - Per-country vote breakdowns for 2026 — run `npm run fetch:year -- 2026` once API updates
@@ -320,4 +342,4 @@ npm run build
 
 ---
 
-*Last updated: 2026-05-24 (session 3).*
+*Last updated: 2026-05-24 (session 4).*

@@ -1,0 +1,57 @@
+{
+  "id": 12,
+  "country": "AT",
+  "artist": "Stella Jones",
+  "song": "Die Welt dreht sich verkehrt",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Ta-dzguUpJY",
+    "https://www.youtube-nocookie.com/embed/FS531GWm9pY",
+    "https://www.youtube-nocookie.com/embed/keP8H-GRe7I"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Die Welt dreht sich verkehrt",
+      "content": "Yeah yeah...\n\nDas Leben wirft mich aus der Bahn\nWenn du mich ansiehst\nUnd dann deine Hand mich berührt\nEs macht sich auf und davon, von dem Moment an\nIn dem dein Kuß mich verführt\n\nJede Norm ist mir egal\nUnd der Wahnsinn wird normal\n\nDie alte Welt dreht sich verkehrt\nWird federleicht, und schwebt davon\nGold und Platin sind nichts mehr wert\nIch bin Millionär\nWenn ich bei dir bin\nLachen und Weinen vereint\n\nOoh... yeah yeah yeah yeah...\n\nKomm' mach aus mir einen Clown\nDu Akrobat ohne Seil\nFliegt mit mir durch die Zeit\nEin Haus aus Tagträumen bauen\nWahrheit oder Betrug\nKein Problem weit und breit\n\nJede Norm ist mir egal\nUnd der Wahnsinn wird normal\nWird normal...\n\n(Die alte Welt dreht sich verkehrt)\nAh... wird federleicht, und schwebt davon\nGold und Platin sind nichts mehr wert\nIch bin Millionär, und leb' davon\n\nDie alte Welt dreht sich verkehrt\nWird federleicht\nWenn ich bei dir bin\nLachen und Weinen vereint\n\nYeah yeah yeаh...\nDie Welt dreht ѕich verkehrt"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The world turns the wrong way",
+      "content": "Yeah yeah...\n\nLife throws me off course\nWhen you look at me\nAnd then your hand touches me\nIt's away from the very moment\nWhen your kiss seduced me\n\nEvery norm is the same to me\nAnd madness becomes normal\n\nThe old world turns the wrong way\nBe light like a feather and float away\nGold and platinum will have no value\nI'm a millionaire\nWhen you are with me\nLaughter and crying unites\n\nOoh... yeah yeah yeah yeah...\n\nMake a clown out of me\nYou acrobat without rope\nFly with me through time\nLet's build a house out of daydreams\nTruth or false\nNo problems around\n\nEvery norm is the same to me\nAnd madness becomes normal\nBecomes normal...\n\n(The old world turns the wrong way)\nAh... be light like a feather and float away\nGold and platinum will have no value\nI'm a millionaire, and live on it\n\nThe old world turns the wrong way\nBe light like a feather\nWhen I'm with you\nLaughter and crying united\n\nYeah yeah yeah...\nThe world turnѕ the wrong wаy"
+    }
+  ],
+  "bpm": 100,
+  "tone": "A major",
+  "artistPeople": [
+    "Stellisa Zacher"
+  ],
+  "backings": [
+    "Gerhard Lux",
+    "Jacqueline Patricio da Luz",
+    "Linda Spa",
+    "Lisa Jacob",
+    "Thomas Lang"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Michael Kienzl",
+  "lyricists": null,
+  "writers": [
+    "Mischa Krausz"
+  ],
+  "broadcaster": "ORF",
+  "commentators": [
+    "Ernst Grissemann"
+  ],
+  "jury": null,
+  "spokesperson": "Tilia Herold"
+}

@@ -1,0 +1,61 @@
+{
+  "id": 6,
+  "country": "PT",
+  "artist": "Carlos Mendes",
+  "song": "A festa da vida",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/sE60nsaf7q0",
+    "https://www.youtube-nocookie.com/embed/ytl6FQ3hj0g",
+    "https://www.youtube-nocookie.com/embed/lsLP-qYWPI4",
+    "https://www.youtube-nocookie.com/embed/iFb9MpfMR1w",
+    "https://www.youtube-nocookie.com/embed/pQjBAIoashc",
+    "https://www.youtube-nocookie.com/embed/_1LpErksJcM",
+    "https://www.youtube-nocookie.com/embed/kAbR-nPU3wA"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "A festa da vida",
+      "content": "Que venha o sol, o vinho, as flores\nMarés, canções, todas as cores\nGuerras esquecidas por amores\nQue venham já trazendo abraços\nVistam sorrisos de palhaços\nEsqueçam tristezas e cansaços\n\nQue tragam todos os festejos\nE ninguém se esqueça de beijos\nQue tragam prendas de alegria\nE a festa dure até ser dia\n\nQue não se privem nas despesas\nAfastem todas as tristezas\nPão, vinho e rosas sobre as mesas\nQue tragam cobertores ou mantas\nO vinho escorra pelas gargantas\nE a festa dure até às tantas\n\nQue venham todos de vontade\nSem se lembrarem de saudade\nVenham os novos e os velhos\nMas que nenhum me dê conselhos\n\n(Pu du du pu pu pu pu pu…)\n(Pu du du pu pu pu pu pu…)\n\nVenham os novos e os velhos\nMas que nenhum me dê conselhos\n\nQue venham todos de vontade\nSem se lembrarem de saudade\nVenham os novos e os velhos\nMаs que nenhum me dê conselhoѕ\n\nAh…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The party of life",
+      "content": "May come the sun, the wine, the flowers\nTides, songs, all colours\nMay wars be forgotten thanks to love\nMay already come the embraces\nPut on the smile of a clown\nForget sadness and tiredness\n\nMay come all the parties\nAnd may nobody forget the kisses\nMay come the gifts of joy\nAnd may the party last until daybreak\n\nMay no expenses be spared\nMay all sadness be kept far away\nMay there be bread, wine and roses on the table\nMay blankets and rugs be brought along\nMay the wine flow in our throats\nAnd may the party laѕt all night long\n\nMay everyone come out of free will\nMay all longing be forgotten\nMay young and old people come\nWithout giving me any advice\n\n(Pu du du pu pu pu pu pu…)\n(Pu du du pu pu pu pu pu…)\n\nMay young and old people come\nWithout giving me any advice\n\nMay everyone come out of free will\nMay all longing be forgotten\nMay young and old people come\nWithout giving me any аdvice\n\nAh…"
+    }
+  ],
+  "bpm": 163,
+  "tone": "E minor",
+  "artistPeople": [
+    "Carlos Mendes"
+  ],
+  "backings": [
+    "Gill Gray",
+    "Laura Lee",
+    "Sylvia King"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "José Calvário"
+  ],
+  "conductor": "Richard Hill",
+  "lyricists": [
+    "José Niza"
+  ],
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Henrique Mendes"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

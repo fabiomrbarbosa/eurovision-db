@@ -1,0 +1,72 @@
+{
+  "id": 33,
+  "country": "AL",
+  "artist": "Hersi",
+  "song": "One Night's Anger",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Ahu_K_Jh2vc",
+    "https://www.youtube-nocookie.com/embed/J4ABpIspdic",
+    "https://www.youtube-nocookie.com/embed/l30HPHvpxso",
+    "https://www.youtube-nocookie.com/embed/tdFDRz9DkbM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "One Night's Anger",
+      "content": "Say no, let go, keep your breath, as the anger flows\nI Know, you know, words can hurt, you'll regret them though\nSo say say say say you'll be there when the words are done\nDon't give in your pride\nKeep calm and think twice\n\nFree your mind from the doubts that are tickling\nFree your heart, and let the peace enlighten your feelings\nSun will rise, and the light will be clearing\nThe tides of the night\nKeep calm and think twice\n\nSay no, let go, night will fade and the day will glow\nI know, you know, that the morning is brighter so\nPlease say say say say you'll be there when the words are done\nDon't give in your pride\nLet go and don't cry\n\nFree your mind from the doubts that are tickling\nFree your heart, and let the peace enlighten your feelings\nSun will rise, and the light will be clearing\nThe tides of the night\nKeep calm and think twice\n\nWait a tick tiny tick, you'll forget it (just wanna make it right)\nWait a tick tiny tick, you'll regret it (I want to let it out)\nAnything iѕn't it you want to get it\nMaybe tomorrow, will be lаte to get by"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Rabia de una noche",
+      "content": "Di no, déjate ir, mantén el aliento, según fluye la rabia\nLo sé, lo sé, las palabras pueden herir, aunque te arrepentirás de ellas\nAsí que di, di, di, di que estarás ahí cuando se acaben las palabras\nNo cedas a tu orgullo\nMantente tranquilo y piensa dos veces\n\nLibera tu mente de las dudas que te asaltan\nLibera tu corazón, y deja que la paz ilumine tus sentimientos\nEl sol saldrá, y la luz irá aclarando\nLas mareas de la noche\nMantente tranquilo y piensa dos veces\n\nDi no, déjate ir, la noche se apagará y el día brillará\nLo sé, tú lo sabes que, así, la mañana brillará más\nPor favor di, di, di, di que estarás ahí cuando se acaben las palabras\nNo cedas a tu orgullo\nDéjate ir y no llores\n\nLibera tu mente de las dudas que te asaltan\nLibera tu corazón, y deja que la paz ilumine tus sentimientos\nEl sol saldrá, y la luz irá aclarando\nLas mareas de la noche\nMantente tranquilo y piensa dos veces\n\nEspera un poco, lo olvidarás (sólo deseo solucionarlo)\nEspera un poco, te arrepentirás (deseo dejarlo salir)\nNo es como si no quisieras conseguirlo\nQuizás mañana, ya será demaѕiado tаrde"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "albanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Zemërimi i një nate",
+      "content": "I do, s'i do, fjalën e fundit mos e mendo\nDysho, beso, mikun e ngushtë ti mos e lendo\nSe ja vjen një ditë, dite e re që do ta kërkosh\nQetësohu një natë\nMendoje pak gjatë\n\nTi largo zemërimin nga mendja jote\nQë çdo mëngjes është më i zgjuar se çdo mbrëmje\nMos lejo çmendurinë e një zemre\nMendohu dhe pak\nHarroje ket natë\n\nKujto, harro, fjalën e fundit mos e lësho\nMos u nxitio, miqësinë ti mos e lëndo\nSe ja vjen një ditë që miqësinë ti do ta kërkosh\nMos mbaj kaq inat\nMos mbaj zemra plagë\n\nTi largo zemërimin nga mendja jote\nQë cdo mëngjes është më i zgjuar se çdo mbrëmje\nMos lejo çmendurinë e një zemre\nMendohu dhe pak, harroje kët natë\n\n(ti prit dhe pak, po nxitohesh)\nMë ler ta them një fjalë\n(ti prit dhe pak se ke frikë mos lëndohesh)\nLe të dal ku të dal\n(ti ke frikë që të rrish të takohesh)\nMë mirë harroje, e di ku do dalë\n\nTi largo zemërimin nga mendja jote\nQë çdo mëngjes është më i zgjuar se çdo mbrëmje\nMoѕ lejo çmendurinë e një zemre\nMendohu dhe pak, mendoje pak gjatë\nHarroje kët natë\nMendoje pak gjatë, harroje kët natë\nMendoje pak gjatë, harroje kët natë\nMendoje pak gjatë, harroje kët nаtë"
+    }
+  ],
+  "bpm": 152,
+  "tone": "F minor",
+  "artistPeople": [
+    "Hersjana Matmuja"
+  ],
+  "backings": [
+    "Erga Halilaj",
+    "Olsa Papandili"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Gentian Lako"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Jorgo Papingji"
+  ],
+  "writers": null,
+  "broadcaster": "RTSH",
+  "commentators": [
+    "Andri Xhahu"
+  ],
+  "jury": [
+    "Alfred Kacinari",
+    "Edmond Zhulali",
+    "Engjell Ndocaj",
+    "Jetmir Barbullushi",
+    "Mira Tuci"
+  ],
+  "spokesperson": "Andri Xhahu"
+}

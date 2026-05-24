@@ -1,0 +1,59 @@
+{
+  "id": 5,
+  "country": "DK",
+  "artist": "Tommy Seebach",
+  "song": "Disco tango",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/XZ44_wBTHWU",
+    "https://www.youtube-nocookie.com/embed/SswthsHGDII",
+    "https://www.youtube-nocookie.com/embed/-TLFg-ulaG8",
+    "https://www.youtube-nocookie.com/embed/jAhtl5WInsE",
+    "https://www.youtube-nocookie.com/embed/di8I_YnmyYc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "danish"
+      ],
+      "displayedLanguages": null,
+      "title": "Disco tango",
+      "content": "Hun er en stjerne på et dansegulv\nSlår John Travolta i en rock 'n' roll\nPå diskoteket ta'r hun kegler, og der ka' man se\nDem stå i kø og skæve, hver gang hun gør sin entré\n\nOm dagen lever hun et hundeliv\nOg dyrker skoleridt som tidsfordriv\nMen så når mørket falder på, er hun den, der står af\nHun kræver action, det' det samme hver eneste dag\nHvad mon det er, hun vil ha'?\n\nDisco tango à la carte\nOg godt med garniture, flugt og fart\nEn jockey uden hest, der disc'er op\nMed nyt fra USA, soul, reggae eller pop\n\nBach er lige fedt om dag'n\nBeethoven ta'r endnu sin bid af kag'n\nMen nat-menuen hedder lidt bizart:\nEn disco tango à la carte\n\nDisco tango à la carte\nOg godt med garniture, flugt og fart\nEn jockey uden hest, der disc'er op\nMed nyt fra USA, soul, reggae eller pop\n\nBach er lige fedt om dag'n\nBeethoven ta'r endnu sin bid af kag'n\nMen nat-menuen hedder lidt bizart:\nEn diѕco tango à la cаrte"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Disco tango",
+      "content": "She's a star on a dance floor\nBeats John Travolta in a rock 'n' roll\nAt the disco she's scoring, and there you see\nThem queue up with an eye on her, every time she enters\n\nIn the daytime she's living a dog's life\nPractising dressage as a pastime\nBut when darkness falls, she's the one opting out\nShe demands action, it's the same every single day\nWhat can it be that she wants?\n\nDisco tango à la carte\nAnd lots of decorations, flight and speed\nA jockey without a horse, who dishes up\nWith news from USA, soul, reggae or pop\n\nBach is just as cool in the daytime\nBeethoven still takes his slice of the cake\nBut the night menu is a bit bizarre:\nA disco tango à la carte\n\nDisco tango à la carte\nAnd lots of decorations, flight and speed\nA jockey without a horse, who dishes up\nWith news from USA, soul, reggae or pop\n\nBach is just as cool by in the daytime\nBeethoven still takes his slice of the cake\nBut the night menu is a bit bizarre:\nA diѕco tango à la cаrte"
+    }
+  ],
+  "bpm": 133,
+  "tone": "G minor",
+  "artistPeople": [
+    "Tommy Seebach"
+  ],
+  "backings": [
+    "Debbie Cameron",
+    "Ianne Elo",
+    "Michael Elo"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Tommy Seebach"
+  ],
+  "conductor": "Allan Botschinsky",
+  "lyricists": [
+    "Keld Heick"
+  ],
+  "writers": null,
+  "broadcaster": "DR",
+  "commentators": [
+    "Jørgen de Mylius"
+  ],
+  "jury": null,
+  "spokesperson": "Bent Henius"
+}

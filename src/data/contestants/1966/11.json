@@ -1,0 +1,52 @@
+{
+  "id": 11,
+  "country": "FI",
+  "artist": "Ann-Christine Nyström",
+  "song": "Playboy",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/w8Uz9f0sLdc",
+    "https://www.youtube-nocookie.com/embed/TQeM2W8fnY0",
+    "https://www.youtube-nocookie.com/embed/SBQsg2Ml0i4",
+    "https://www.youtube-nocookie.com/embed/-cxwOJsq-d4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Playboy",
+      "content": "Autot tulipunaiset, kalliit nahkaistuimet\nMalli viimeinen sinuun luota en\nTytöt seurapiirien, niihin kuulu mä en\nHurmaat, naurat, viettelet, syyttää isät vihaiset:\n\nOlet playboy, liukas playboy\nVarma playboy, mutta verkkoos tartu en\nOlet playboy, liukas playboy\nVarma playboy, mutta verkkoos tartu en\n\nLainelautaurheilu, tennis sekä miekkailu\nTuota silmäilen sinuun luota en\nEntäs talviurheilu: tytöt-niin- ja kelkkailu\nTalvi St. Morizin on ilman sua lohduton\n\nOlet playboy, sama playboy\nSoma playboy, mutta kelkkaas tule en\nOlet playboy, sama playboy\nSoma playboy, mutta kelkkaas tule en\n\nMonet ladyt varakkaat, monet raharuhtinaat\nPetät hymyillen sinnun luota en\nNolla nolla seitsemän, nimes muka liitetään\nNollat siinä olla vois, mutta seiskan jätän pois\n\nOlet playboy, kunnon playboy\nAito playboy, elää ilman sua voin\nOlet playboy, kunnon playboy\nAito playboy, elää ilman sua voin\n\nElää ilman ѕuа voin"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Playboy",
+      "content": "Fiery red cars, expensive leather seats\nThe latest model, I don't trust you\nThe society ladies, I'm not one of them\nYou charm, laugh, seduce, angry fathers blame you\n\nYou're a playboy, smooth playboy\nSure playboy, but I won't stick your net\nYou're a playboy, smooth playboy\nSure playboy, but I won't stick your net\n\nSurfboarding, tennis and fencing\nI glance at that, I don't trust you\nWhat about winter sports: Girls, yes, and bobsleigh racing?\nThe winter of Sankt Moritz is desolate without you\n\nYou're a playboy, the same playboy\nPretty playboy, but I won't take up with you\nYou're a playboy, the same playboy\nPretty playboy, but I won't take up with you\n\nMany wealthy ladies, many moneyprincesses\nYou deceive smiling, I don't trust you\nYou say your name is linked to 007\nNoughts could be there, but I leave out the ѕeven\n\nYou're a playboy, real playboy\nTrue playboy, I can live without you\nYou're a playboy, real playboy\nTrue playboy, I can live without you\n\nI cаn live without you"
+    }
+  ],
+  "bpm": 115,
+  "tone": "C# major",
+  "artistPeople": [
+    "Ann Christine Nyström"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Ossi Runne",
+  "lyricists": null,
+  "writers": [
+    "Ossi Runne"
+  ],
+  "broadcaster": "YLE",
+  "commentators": [
+    "Aarno Walli"
+  ],
+  "jury": null,
+  "spokesperson": "Poppe Berg"
+}

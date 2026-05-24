@@ -1,0 +1,59 @@
+{
+  "id": 12,
+  "country": "LU",
+  "artist": "Michèle Arnaud",
+  "song": "Les Amants de minuit",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/r99NL_NvJps",
+    "https://www.youtube-nocookie.com/embed/1YIoHnEmcfU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Les Amants de minuit",
+      "content": "Les amants de minuit par hasard se rencontrent\nPar hasard se rencontrent\nEt quant à ce qui suit - bonheur ou malencontreux\nSeule le sait la nuit\n\nÀ l'angle de deux rues, aux tables d'un café\nAu long d'une avenue, deux ombres sont venues\nEt puis, les jeux sont faits\n\nPas de mots inutiles, pas de baisers perdus\nPas de baisers perdus\nPas d'aveux difficiles ni de cœurs morfondus\nNi décevant idylle\n\nÀ l'aube sans retour\nLes amants désapprennent leurs noms et leurs amours\nElles valent les miennes usés par tant de jours\n\nLes amants de minuit par hasard se rencontrent\nPar hasard se rencontrent\nEt quant à ce qui suit - bonheur ou malencontreux\nSeule le sait la nuit\n\nEt si leurs cœurs se donnent un peu plus qu'une nuit\nIl n'y aura personne, personne entre elle et lui\nPour leur crier maldonne\n\nLes amants de minuit par hasard se rencontrent\nPar hasаrd ѕe rencontrent"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Midnight lovers",
+      "content": "Midnight lovers, by chance meet together\nBy chance meet together\nAnd, about what will follow, happiness or unfortunate\nOnly knows the night\n\nAt the corner of two streets, at a café tables\nOn the avenue, two shadows had come\nAnd then, the die is cast\n\nNo pointless words, no lost kisses\nNo lost kisses\nNo difficult confessions, nor dejected heart\nNor disappointing romance\n\nAt dawn no return\nLovers unlearn their names and their loves\nIt is quite the equal of mine, worn out by so many days\n\nMidnight lovers, by chance meet together\nBy chance meet together\nAnd, about what will followed, happiness or unfortunate\nOnly knows the night\n\nAnd if their heart gave themselves a little bit more than one night\nThere will be nobody, nobody between her and him\nTo shout them misdeal\n\nMidnight loverѕ, by chance meet together\nBy chаnce meet together"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Полуночные любовники",
+      "content": "Случайная встреча полуночных любовников\nСлучайная встреча\nИ что за этим последует - счастье или несчастье\nЗнает только ночь\n\nНа углу двух улиц, за столиками кафе\nВдоль аллеи появились две тени\nИ тогда все ставки сделаны\n\nНи бесполезных слов, ни потерянных поцелуев\nНикаких потерянных поцелуев\nНи трудных признаний, ни скорбных сердец\nНикакой разочаровывающей романтики\n\nНа заре невозврата\nВлюбленные не знают своих имен и своих возлюбленных\nОни так же хороши, как и мои, измученные многими днями\n\nСлучайная встреча полуночных любовников\nСлучайная встреча\nИ что будет дальше - счастье или несчастье\nЗнает только ночь\n\nИ если их сердца отдадут чуть больше, чем одну ночь\nНикто, никто не встанет между ним и ею\nЧтобы накликать беду на них\n\nСлучайная встреча полуночных любовников\nСлучайная встреча"
+    }
+  ],
+  "bpm": 99,
+  "tone": "B major",
+  "artistPeople": [
+    "Micheline Caré"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Simone Laurencin"
+  ],
+  "conductor": "Jacques Lassry",
+  "lyricists": [
+    "Jacques Lassry"
+  ],
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

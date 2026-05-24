@@ -1,0 +1,61 @@
+{
+  "id": 12,
+  "country": "LU",
+  "artist": "Camillo Felgen",
+  "song": "So laang we's du do bast",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/csoaoaVg_I8",
+    "https://www.youtube-nocookie.com/embed/3AobLiWJUmw",
+    "https://www.youtube-nocookie.com/embed/mv1xtMC2Wgk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "luxembourgish"
+      ],
+      "displayedLanguages": null,
+      "title": "So laang we's du do bast",
+      "content": "So laang we's du do bast, so laang's du mir no bast\nSo laang wéi méng Aen, dëch nëmmen gesin\nSo laang we's du hei bast, so léiw an so trei bast\nSo laang kann fir mëch ët näischt Schéineres gin\n\nKuck all méng Gedanken, si wanken, si schwanken\nSi sin stéits bei dir, an ech kann nët dofir\nSo laang we's du do bast, so laang's du mir no bast\nSo laang kann fir mëch ët näischt Schéineres gin\n\nWann's de heino och fort gees, fir ëmmer no Nord gees\nDann solls du nët mierken méng heemelëch Träin\nAn wann's du géif's froën, dann misst ech gestoën\nSo laang we's du do worst, so laang wor ët schéin\n\nEt as so am Liewen: 't geet monsches doniewen\nAll Stonnen déi schéin, vill ze séier verbléin\nWann's du dann no Nord gees, gleew mir, wann's de och fort gees\nSo laang we's du do bast, so laаng wor ët ѕchéin"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "As long as you are there",
+      "content": "As long as you are there, as long as you are near me\nAs long as my eyes only see you\nAs long as you are here, being lovely and faithful\nSo long it can't be anything more beautiful to me\n\nLook at all my thoughts, they're swaying, they're staggering\nThey will be with you always and I can't help it\nAs long as you are there, as long as you are near me\nSo long it can't be anything more beautiful to me\n\nEven if you will go away then, going to the north forever\nYou won't notice my secret tears\nAnd if you asked me, then I would have to admit\nAs long as you were there, so long everything was fine\n\nThat's the way life is: some things will go wrong\nTimes of happiness pass by much too fast\nWhen you will go to the north then, believe me, even when you will go away\nAs long as you are there, so long everything wаѕ fine"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Solange Du Da Bist",
+      "content": "Solange du da bist, solange du in meiner Nähe bist\nSolange meine Augen nur dich sehen\nSolange du hier bist, bist du so liebevoll und so treu\nSo lange kann es für mich nichts Schöneres geben\n\nSchau dir all meine Gedanken an, sie schwanken, sie schwanken\nSie sind immer bei dir und ich kann nichts dagegen tun\nSolange du da bist, solange du in meiner Nähe bist\nSo lange kann es für mich nichts Schöneres geben\n\nWenn Sie hier weggehen, gehen Sie für immer nach Norden\nDann sollst du von meinem geheimen Traum nichts mitbekommen\nUnd wenn Sie mich fragen würden, müsste ich aufhören\nSolange du da warst, solange es schön war\n\nSo ist das im Leben: Dinge gehen schief\nAll die schönen Stunden vergehen viel zu schnell\nWenn du nach Norden gehst, glaub mir, wenn du auch nach Norden gehst\nSolange du da warst, wаr es wunderѕchön"
+    }
+  ],
+  "bpm": 91,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Camille Jean Nicolas Felgen"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Henri Moots",
+    "Jean Roderes"
+  ],
+  "conductor": "Eric Robinson",
+  "lyricists": [
+    "Henri Moots"
+  ],
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Unknown"
+}

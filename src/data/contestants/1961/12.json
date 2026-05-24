@@ -1,0 +1,53 @@
+{
+  "id": 12,
+  "country": "DE",
+  "artist": "Lale Andersen",
+  "song": "Einmal sehen wir uns wieder",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/FGAfCD0mzVc",
+    "https://www.youtube-nocookie.com/embed/z7vL7pMBzmw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german",
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Einmal sehen wir uns wieder",
+      "content": "Überall auf der Welt fällt der Abschied schwer\nUnd das Herz tut manchmal weh\nManches Wort, das man sagt\nGlaubt man selbst nicht mehr\nLebe wohl, adieu\n\nNoch ein Lächeln – ein Kuss\nNoch ein winken – ein Gruss\nUnd ein Schiff fährt hinaus\nUnd mit ihm das Glück\nDoch die Hoffnung bleibt zurück\n\nEinmal sehen wir uns wieder\nUnd vielleicht schon übers Jahr\nEinmal sehen wir uns wieder\nDann wird alles so wie es war\n\nDarum glaub an unsere Liebe\nMag auch noch so viel geschehn\nIrgendwo, irgendwann, denke immer daran\nWerden wir uns wiedersehen\n\nUnd der Sonntag war grau, und der Himmel schwer\nUnd der Regen schlug aufs Dach\nUnd die Strasse entlang bis hinab zum Meer\nSah ich dir vom Fenster nach\n\nSoviel Liebe – vorbei\nSoviel Träume – vorbei\nIch weiss nicht wo du bist\nDoch dein letztes Wort klingt in meinem Herzen fort\n\nLoin, plus loin qu'au bout du monde\nMon amour est près de toi\nEt mon cœur qui vagabonde\nNe battra jamais que pour toi\n\nDarum glaub an unsere Liebe\nMag auch noch so viel geschehn\nDenke immer daran: irgendwo, irgendwann\nWerden wir uns wiedersehen\n\nDenke immer daran: irgendwo, irgendwаnn\nWerden wir uns wiederѕehen"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "We'll see each other once again",
+      "content": "Everywhere in the world the departure is difficult\nAnd sometimes the heart hurts\nAll words that you say\nYou don't believe them yourself anymore\nHave a nice life, goodbye\n\nAnother smile – a kiss\nAnother wave – a greeting\nAnd a ship goes out\nAnd with it goes luck\nYet hope remains\n\nWe'll see each other once again\nAnd maybe already next year\nWe'll see each other once again\nThen everything will be as it used to be\n\nSo believe in our love\nNo matter what may happen\nSomewhere, some day, always remember\nWe'll see each other again\n\nAnd the Sunday was grey, and the sky was heavy\nAnd the rain hammered on the roof\nAnd as you walked along the street down to the sea\nI was watching you from my window\n\nSo much love – gone\nSo many dreams – gone\nI don't know where you are\nBut your last words still ring in my heart\n\nFar, further than the end of the world \nMy love is close to you \nAnd my straying heart \nWill never beat for anyone but you \n\nSo believe in our love\nNo matter what may happen\nAlways remember: somewhere, some day\nWe'll see each other again\n\nAlways remember: somewhere, some day\nWe'll ѕee each other agаin"
+    }
+  ],
+  "bpm": 126,
+  "tone": "G major",
+  "artistPeople": [
+    "Liese-Lotte Helene Berta Bunnenberg"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Rudolf Maluck"
+  ],
+  "conductor": "Franck Pourcel",
+  "lyricists": [
+    "Ernst Bader"
+  ],
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Wolf Mittler"
+  ],
+  "jury": null,
+  "spokesperson": "Heinz Schenk"
+}

@@ -1,0 +1,53 @@
+{
+  "id": 9,
+  "country": "ES",
+  "artist": "Lucía",
+  "song": "Él",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/DYxaX8Jv7jA",
+    "https://www.youtube-nocookie.com/embed/8JkfXUB9FqY",
+    "https://www.youtube-nocookie.com/embed/P_M8wU8924g"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Él",
+      "content": "Ven, tengo libre de ocho a diez\nNos podemos divertir y tomarnos una copa\nÉl es igual que un perro fiel\nPero te prefiero a ti\nAunque digan que estoy loca\n\nÉl ejerce de hombre serio\nTú te lo tomas a risa\nÉl pretende ser mi dueño\nTú me llamas y me olvidas\nPero te prefiero a ti\n\nÉl me perdona porque es un pedazo de buen pan\nY me trata con paciencia\nSé que no debo ser cruel\nQue le debo confesar que él a mí, no me interesa\n\nÉl ejerce de hombre serio\nTú te lo tomas a risa\nÉl pretende ser mi dueño\nTú me llamas y me olvidas\nPero te prefiero a ti\n\nÉl dice que ya cambiaré\nQue le tengo que buscar cuando siente la cabeza\nVen, tengo libre de ocho a diez\nLuego tengo que estudiar\nY pensar quién me interesa\n\nÉl ejerce de hombre serio\nTú te lo tomas a risa\nÉl pretende ser mi dueño\nTú me llamas y me olvidas\nPero te prefiero a ti\n\nÉl dice que ya cambiaré\nQue le tengo que buscar cuando siente la cabeza\nVen, tengo libre de ocho a diez\nLuego tengo que estudiar\nY pensar quién me interesa\n\nÉl ejerce de hombre serio\nTú te lo tomas a risa\nÉl pretende ser mi dueño\nTú me llamas y me olvidaѕ\nPero te prefiero а ti"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "He",
+      "content": "Come, I'm free from eight to ten\nWe can have fun and have a drink\nHe's like a faithful dog\nBut I prefer you\nThough people say I'm crazy\n\nHe acts like a serious man\nYou're laughing about it\nHe intends to be my owner\nYou phone me and forget me\nBut I prefer you\n\nHe forgives me because he's a scrap of good bread\nAnd he treats me with patience\nI know that I shouldn't be cruel\nThat I should tell him I'm not interested in him\n\nHe acts like a serious man\nYou're laughing about it\nHe intends to be my owner\nYou phone me and forget me\nBut I prefer you\n\nHe says that I will change\nThat I have to find him when I settle down\nCome, I'm free from eight to ten\nThen I have to study\nAnd think about whom I'm interested in\n\nHe acts like a serious man\nYou're laughing about it\nHe intends to be my owner\nYou phone me and forget me\nBut I prefer you\n\nHe says that I will change\nThat I have to find him when I settle down\nCome, I'm free from eight to ten\nThen I have to study\nAnd think about whom I'm interested in\n\nHe acts like a serious man\nYou're laughing about it\nHe intendѕ to be my owner\nYou phone me аnd forget me\nBut I prefer you"
+    }
+  ],
+  "bpm": 130,
+  "tone": "Eb minor",
+  "artistPeople": [
+    "María Isabel Lineros Rodríguez"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Francisco 'Paco' Cepero"
+  ],
+  "conductor": "Miguel Ángel Varona",
+  "lyricists": [
+    "Ignacio Román"
+  ],
+  "writers": null,
+  "broadcaster": "TVE",
+  "commentators": [
+    "Miguel de los Santos"
+  ],
+  "jury": null,
+  "spokesperson": "Marisa Naranjo"
+}

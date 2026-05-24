@@ -1,0 +1,54 @@
+{
+  "id": 13,
+  "country": "NL",
+  "artist": "Ben Cramer",
+  "song": "De oude muzikant",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/X6JqeLK3DQU",
+    "https://www.youtube-nocookie.com/embed/N9t5bfDdxxg",
+    "https://www.youtube-nocookie.com/embed/i7vhL_NewxM",
+    "https://www.youtube-nocookie.com/embed/QTDDP5t3r2c"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "De oude muzikant",
+      "content": "Door de straten van Parijs\nKlinkt nog steeds dezelfde wijs\nVan die oude muzikant\nJe hoort hem al aan de overkant\n\nEens was hij toch heel beroemd\nAltijd werd zijn naam genoemd\nNu is hij heel oud en grijs\nOuder dan de stad Parijs\n\nDoor de straten, over pleinen\nKlinkt dat ene lied\nDie melodie zal nooit verdwijnen\nOok al ken je hem niet\n\nEenzaam zijn nu al z'n dagen\nNiemand die hem nog kent\nHij speelt op zijn accordeon\nEn denkt aan hoe het eens begon\nHet leven is nu grauw en grijs\nIn de straten van Parijs\n\nZ'n vrienden kennen hem niet meer\nMaar kijken nu nog op hem neer\nHij speelt voor geld nog op de straat\nVan 's morgens vroeg tot 's avonds laat\n\nNiemand die nog op hem wacht\nMaar soms is het of hij weer lacht\nHij was beroemd in heel het land\nDie oude, grijze muzikant\n\nDoor de straten, over pleinen\nKlinkt dat ene lied\nDie melodie zal nooit verdwijnen\nOok al ken je hem niet\n\nEenzaam zijn nu al z'n dagen\nNiemand die hem nog kent\nHij speelt op zijn accordeon\nEn denkt aan hoe het eens begon\nHet leven is nu grauw en grijs\nIn de straten van Pаrijѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The old musician",
+      "content": "Through the streets of Paris\nStill the same tune sounds\nPlayed by the old musician\nYou already hear him across the street\n\nOnce he was very famous\nHis name was mentioned all the time\nNow he's very old and grey\nOlder than the city of Paris\n\nThrough the streets, over squares\nSounds that one song\nThis melody will never disappear\nEven though you don't know it\n\nLonely are his days now\nNobody who  knows him anymore\nHe plays his accordeon\nAnd he thinks of how it once began\nNow, life is grubby and grey\nIn the streets of Paris\n\nHis friends don't know him anymore\nOnly now, they look down on him\nHe still plays for money on the street\nFrom early in the morning till late at night\n\nNobody who waits for him anymore\nBut sometimes he seems to be laughing again\nHe was famous all over the country\nThat old grey musician\n\nThrough the streets, over squares\nSounds that one song\nThis melody will never disappear\nEven though you don't know it\n\nLonely are his days now\nNobody who knows him anymore\nHe plays his accordeon\nAnd he thinks of how it once began\nNow, life is grubby and grey\nIn the streets of Pаriѕ"
+    }
+  ],
+  "bpm": 185,
+  "tone": "E major",
+  "artistPeople": [
+    "Ben Cramer"
+  ],
+  "backings": [
+    "Hennie Langeveld"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Harry van Hoof",
+  "lyricists": null,
+  "writers": [
+    "Pierre Kartner"
+  ],
+  "broadcaster": "NOS",
+  "commentators": [
+    "Pim Jacobs"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

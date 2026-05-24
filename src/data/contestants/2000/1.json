@@ -1,0 +1,55 @@
+{
+  "id": 1,
+  "country": "RU",
+  "artist": "Alsou",
+  "song": "Solo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ISHSkWFHcI0",
+    "https://www.youtube-nocookie.com/embed/I7pZQ1T20xA",
+    "https://www.youtube-nocookie.com/embed/9uXdMIJCDVs"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Solo",
+      "content": "Sitting alone, here in my room\nStaring at your picture from midnight till noon\nCounting the hours, counting the days\nYou know that I'll miss you in a million ways\n\nNow I wait in the cold and this is getting old\nNo more stories, no more lies, take me off this ride\nWhen you see me in the hall, I'll look at the wall\nBy my actions you should know – I'm going solo\nGoing solo\n\nMy friends try to tell me, I didn't want to listen\n'Cause I'm the kind of person gotta find out on my own\nI gave you my heart, you tore it apart\nBut I'm coming back strong, I knew it was wrong\n\nNow I wait in the cold and this is getting old\nNo more stories, no more lies, take me off this ride\nWhen you see me in the hall, I'll look at the wall\nBy my actions you should know\n\nNow I wait in the cold and this is getting old\nNo more stories, no more lies, take me off this ride\nWhen you see me in the hall, I'll look at the wall\nBy my actions you should know – I'm going solo\nGoing solo\n\nNow I wait…\nWait in the cold and this is getting old\nNo more stories, no more lies, take me off this ride\nWhen you see me in the hall, I'll look at the wall\nBy my actions you should know\n\nNow I wait in the cold and this is getting old\nNo more stories, no more lies, take me off this ride\nWhen you see me in the hall, I'll look at the wall\nBy my аctions you should know – I'm going ѕolo"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Solo",
+      "content": "Sentando sola, aquí en mi habitación\nMirando a tu imagen desde la noche hasta el mediodía\nContando las horas, contando los días\nSabes que te extrañaré en un millón de maneras\n\nAhora espero en el frío y esto se pone antiguo\nNada de historias, nada de mentiras, quítame de este viaje\nCuando me ves en la sala, miraré a la pared\nDe mis acciones deberías saber – que voy solo\nVoy solo\n\nMis amigos intentan decirme, No quería escucharles\nPor que soy de las personas que tengo que averiguarme por mi cuenta\nTe dí mi corazón, lo destrozaste\nPero volveré fuerte, sabía que estaba mal\n\nAhora espero en el frío y esto se pone antiguo\nNada de historias, nada de mentiras, quítame de este viaje\nCuando me ves en la sala, miraré a la pared\nDe mis acciones deberías saber\n\nAhora espero en el frío y esto se pone antiguo\nNada de historias, nada de mentiras, quítame de este viaje\nCuando me ves en la sala, miraré a la pared\nDe mis acciones deberías saber – que voy solo\nVoy solo\n\nAhora espero…\nEspero en el frío y esto se pone antiguo\nNada de historias, nada de mentiras, quítame de este viaje\nCuando me ves en la sala, miraré a la pared\nDe mis acciones deberías saber\n\nAhora espero en el frío y esto se pone antiguo\nNada de historias, nada de mentiras, quítame de este viaje\nCuando me ves en la sala, miraré a la pared\nDe mis acciones deberías sаber – que voy ѕolo"
+    }
+  ],
+  "bpm": 105,
+  "tone": "Bb minor",
+  "artistPeople": [
+    "Alsou Ralifovna Abramova (Алсу́ Рали́фовна Абра́мова)"
+  ],
+  "backings": [
+    "Beverley Skeete"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Andrew Lane",
+    "Brandon Barnes"
+  ],
+  "broadcaster": "C1R",
+  "commentators": [
+    "Aleksej Zhuravlev",
+    "Tatjana Godunova"
+  ],
+  "jury": null,
+  "spokesperson": "Zhanna Agalakova"
+}

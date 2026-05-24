@@ -1,0 +1,52 @@
+{
+  "id": 10,
+  "country": "NO",
+  "artist": "Inger Jacobsen",
+  "song": "Kom sol, kom regn",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/58QSyaUc6Ms",
+    "https://www.youtube-nocookie.com/embed/e4SHoC4koq4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "norwegian"
+      ],
+      "displayedLanguages": null,
+      "title": "Kom sol, kom regn",
+      "content": "Kom sol, kom regn, kom hva som komme vil\nSå lenge du er her\nKom sol, kom regn, så lenge vi finn's til\nFor deg, for meg, er lykken alltid nær\n\nRegn blir til solskinn når du bare smiler mot meg\nVi to går sommerens vei\nKom sol, kom regn, hva kan vel skje når jeg\nHar alt hva jeg kan ønske meg i deg\n\nJeg håpet mange gange: Det må komme en dag, min dag\nMen tvilen sådde uro i mitt sinn\nMin verden var så maset, og jeg fulgte med i dens jag\nMen så kom du, og dа ble verden min\n\nKom sol, kom regn, det eneste jeg vet\nVår lykke blir hos osѕ når vi\nHolder på vår kjærlighet"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Come sun, come rain",
+      "content": "Come sun, come rain, come what may come\nAs long as you are here\nCome sun, come rain, as long as we exist\nFor you, for me, happiness is always close\n\nRain becomes sunshine when only you smile at me\nThe two of us walk along the path of summer\nCome sun, some rain, what could happen when I\nHave everything I could wish for in you\n\nI hoped many times: A day must come, my day\nBut the doubt planted seeds of unease in my mind\nMy world was so stressful, and I went along with its rush\nBut then you came and then the world was mine\n\nCome sun, come rain, the only thing I know\nOur happiness remаins with uѕ when we\nHold on to our love"
+    }
+  ],
+  "bpm": 94,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Inger Jacobsen"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Kjell Karlsen"
+  ],
+  "conductor": "Øivind Bergh",
+  "lyricists": [
+    "Ivar Andersen"
+  ],
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "Odd Grythe"
+  ],
+  "jury": null,
+  "spokesperson": "Kari Borg Mannsåker"
+}

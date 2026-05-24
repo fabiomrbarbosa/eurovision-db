@@ -1,0 +1,54 @@
+{
+  "id": 6,
+  "country": "FR",
+  "artist": "Nina Morato",
+  "song": "Je suis un vrai garçon",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/1bi0_NItoao",
+    "https://www.youtube-nocookie.com/embed/maxRmwUaZfA"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Je suis un vrai garçon",
+      "content": "Je peux pas\n\nJ'veux pas, j'peux pas, laisse-moi\nJ'veux pas, j'peux pas, j'ai pas, lâche-moi\n\nJ'veux pas rentrer chez moi, il n'est plus rien pour moi\nMais j'peux pas tout lui dire, j'veux pas lui mentir\nJe sais j'suis son amour, forcément y'a des jours\nOù c'est lourd, c'est lourd\n\nJe suis un vrai garçon\nJe suis un vrai garçon, je suis celle qui t'ensorcelle\nElle...\n\nJ'vais pas rentrer chez moi, lui raconter pourquoi\nPourquoi j'aurais pas dû et comment j'ai pu\nJe sais j'suis son amour, forcément y'a des jours\nOù c'est lourd, c'est lourd\n\nJe suis un vrai garçon\nJe suis un vrai garçon, je suis celle qui t'ensorcelle\nElle... elle...\n\nJe suis un vrai garçon\n\nJ'peux plus rentrer chez moi, j'ai pas d'explication\nC'est un autre qui m'a perdu ma raison\nJe sais j'suis son amour, mais putain, y'a des jours\nOù c'est lourd, c'est lourd\n\nJe suis un vrai garçon\nJe suis un...\nC'est lourd\nJe suis un vrai garçon\n\nJe suis un vrаi...\nC'eѕt moi"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I'm a real boy",
+      "content": "I can't\n\nI don't want, I can't, let me go\nI don't want, I can't, I haven't got, leave me alone\n\nI don't want to go home again, he is nothing for me\nBut I can't tell him everything, I don't want to lie to him\nI know I'm his love, inevitably there are days\nWhich are hard, hard\n\nI'm a real boy\nI'm a real boy, I'm the one who bewitches you\nThe one...\n\nI don't want to go home again, to tell him why\nWhy I didn't have to and how I did it\nI know I'm his love, inevitably there are days\nWhich are hard, hard\n\nI'm a real boy\nI'm a real boy, I'm the one who bewitches you\nThe one... the one...\n\nI'm a real boy\n\nI can't go home again, I don't have a reason\nSomeone else made me crazy\nI know I'm his love, but fuck, there are days\nWhich are hard, hard\n\nI'm a real boy\nI'm a...\nIt's hard\nI'm a real boy\n\nI'm a reаl...\nIt'ѕ me"
+    }
+  ],
+  "bpm": 115,
+  "tone": "A major",
+  "artistPeople": [
+    "Stéphanie Morato"
+  ],
+  "backings": [
+    "Mathieu Chedid"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Bruno Maman"
+  ],
+  "conductor": "Alain Goraguer",
+  "lyricists": [
+    "Nina Morato"
+  ],
+  "writers": null,
+  "broadcaster": "FT2",
+  "commentators": [
+    "Patrice Laffont"
+  ],
+  "jury": null,
+  "spokesperson": "Laurent Romejko"
+}

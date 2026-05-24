@@ -1,0 +1,56 @@
+{
+  "id": 18,
+  "country": "LT",
+  "artist": "Evelina Sašenko",
+  "song": "C'est ma vie",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/S3_aSVE4t3M",
+    "https://www.youtube-nocookie.com/embed/EI7bEVRxU9c",
+    "https://www.youtube-nocookie.com/embed/yDGox-BNz3E"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english",
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "C'est ma vie",
+      "content": "Great is the sorrow\nBut just look straight for tomorrow\nWhen soon will shine at your face\nDon't close your eyes\n\nThose who went through desert\nPassed never ending forever\nThey know my dreams will come true\nAs I sing to you:\n\nC'est ma vie, je dis oui\nNo more rain around\nI know I have found\nEverlasting love for life\nLove of mine, love the time\n\nTime will give the answers\nFor all your great tribulation\nSoon we'll be playing in the sun\nAnd feel like one\n\nC'est ma vie, je dis oui\nNo more rain around\nI know I have found\nEverlasting love for life\nLove of mine, love that shines, love of time\n\nC'est ma vie, je dis oui\nNo more rain round\nI know I have found\nEverlasting love for life\nLove that shines, love of mine\nLove of time, love of mine\n\nC'eѕt mа vie"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "This Is My Life",
+      "content": "Great is the sorrow\nBut just look straight for tomorrow\nWhen soon will shine at your face\nDon't close your eyes\n\nThose who went through desert\nPassed never ending forever\nThey know my dreams will come true\nAs I sing to you:\n\nThis is my life, i say yes\nNo more rain around\nI know I have found\nEverlasting love for life\nLove of mine, love the time\n\nTime will give the answers\nFor all your great tribulation\nSoon we'll be playing in the sun\nAnd feel like one\n\nThis is my life, i say yes\nNo more rain around\nI know I have found\nEverlasting love for life\nLove of mine, love that shines, love of time\n\nThis is my life, i say yes\nNo more rain round\nI know I have found\nEverlasting love for life\nLove thаt shines, love of mine\nLove of time, love of mine\n\nThis iѕ my life"
+    }
+  ],
+  "bpm": 80,
+  "tone": "E major",
+  "artistPeople": [
+    "Evelina Sašenko"
+  ],
+  "backings": [
+    "Paulius Zdanavičius"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Paulius Zdanavičius"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Andrius Kairys"
+  ],
+  "writers": null,
+  "broadcaster": "LRT",
+  "commentators": [
+    "Darius Užkuraitis"
+  ],
+  "jury": null,
+  "spokesperson": "Giedrius Masalskis"
+}

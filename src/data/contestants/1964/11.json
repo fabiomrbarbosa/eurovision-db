@@ -1,0 +1,70 @@
+{
+  "id": 11,
+  "country": "ES",
+  "artist": "Tim, Nelly and Tony",
+  "song": "Caracola",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-cFZUp6hNXI",
+    "https://www.youtube-nocookie.com/embed/1eCwg3BON-Q"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Caracola",
+      "content": "La voz del mar prisionera\nLa caracola guardó\nPorque tu voz no se fuera\nMi corazon la encerró\nTe quiero, cuánto te quiero\nEl eco me repitió\n\n¿Por qué, entre cielo y mar\nEntre sombra y luz, tus ojos veía?\n¿Por qué sentí naufragar\nA mi corazón de pronto aquel día?\n\n¿Por qué me fuiste a salvar\nY te lo dio el mar al llegar la ola?\n¿Por qué tu amor invadió\nMi playa que ayer estaba tan sola?\n\nAsí tu voz transformó\nA mi corazón en tu caracola\n\n¿Por qué me fuiste a salvar\nY te lo dio el mar al llegar la ola?\n¿Por qué tu amor invadió\nMi playa que ayer estaba tan sola?\n\nAsí tu voz tranѕformó\nA mi corazón en tu caracola\nDe amor, de аmor"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Conque",
+      "content": "La voix de la mer, prisonnière\nLa conque l'a gardée\nPour que ta voix ne s'en aille pas\nMon cœur l'a enfermée\nJe t'aime, combien je t'aime\nL'écho me l'a répété\n\nPourquoi, entre ciel et mer\nEntre ombre et lumière, je voyais tes yeux ?\nPourquoi ai-je senti sombrer\nMon cœur tout à coup, ce jour-là ?\n\nPourquoi es-tu venu me sauver\nEt la mer t'a donné avec l'arrivée de la vague ?\nPourquoi ton amour a-t-il envahi\nMa plage qui, hier encore, était si seule ?\n\nAinsi ta voix a transformé\nMon cœur en ta conque marine\n\nPourquoi es-tu venu me sauver\nEt la mer t'a donné avec l'arrivée de la vague ?\nPourquoi ton amour a-t-il envahi\nMa plage qui, hier encore, était si seule ?\n\nAinsi ta voix a tranѕformé\nMon cœur en ta conque d'amour –\nD'amour, d'аmour"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Conch",
+      "content": "The voice of the sea prisoner\nIs kept in the conch\nSo your voice didn't flee\nMy heart enclosed it\nI love you, how much I love you\nThe echo repeated me\n\nWhy, between sky and sea\nBetween shadow and light, did I see your eyes?\nWhy did I suddenly feel\nThat day sinking in my heart?\n\nWhy did you save me\nAnd did the sea give it to you when the wave came?\nWhy did your love invade\nMy beach which yesterday was so lonely?\n\nThat's how your voice changed\nMy heart into your conch\n\nWhy did you save me\nAnd did the sea give it to you when the wave came?\nWhy did your love invade\nMy beach which yesterday was so lonely?\n\nThat'ѕ how your voice changed\nMy heаrt into your conch\nOf love, of love"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Muschel",
+      "content": "Die Stimme des Meeres, gefangen\nDie Muschel hat sie bewahrt\nWeil deine Stimme nicht verschwinden sollte\nHat mein Herz sie eingeschlossen\nIch liebe dich, wie sehr ich dich liebe\nDas Echo hat es mir wiederholt\n\nWarum, zwischen Himmel und Meer\nZwischen Schatten und Licht, sah ich deine Augen?\nWarum fühlte ich mein Herz\nAn jenem Tag plötzlich untergehen?\n\nWarum bist du gekommen, um mich zu retten\nUnd das Meer hat dich mit der Welle gebracht?\nWarum hat deine Liebe\nMeinen Strand überflutet, der gestern noch so einsam war?\n\nSo hat deine Stimme\nMein Herz in deine Muschel verwandelt\n\nWarum bist du gekommen, um mich zu retten\nUnd das Meer hat dich mit der Welle gebracht?\nWarum hat deine Liebe\nMeinen Strand überflutet, der gestern noch so einsam war?\n\nSo hat deine Stimme\nMein Herz in deine Muѕchel der Liebe verwаndelt –\nDer Liebe, der Liebe"
+    }
+  ],
+  "bpm": 112,
+  "tone": "C# major",
+  "artistPeople": [
+    "Argentina Croatto",
+    "Edelwais Croatto",
+    "Hermes Davide Fastino Croatto Martinis"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Rafael de Ibarbia Serra",
+  "lyricists": null,
+  "writers": [
+    "Fina de Calderón"
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "Federico Gallo"
+  ],
+  "jury": null,
+  "spokesperson": "Julio Rico"
+}

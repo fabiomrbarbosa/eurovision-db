@@ -1,0 +1,63 @@
+{
+  "id": 13,
+  "country": "PT",
+  "artist": "António Calvário",
+  "song": "Oração",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/avK0zW4LRwg",
+    "https://www.youtube-nocookie.com/embed/kcfRGNTJVKI",
+    "https://www.youtube-nocookie.com/embed/MCI9B6C803Y"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Oração",
+      "content": "Senhor, a Teus pés eu confesso\nSenhor, meu amor maltratei\nSenhor, se perdão aqui peço, não mereço\nSenhor, meu amor desprezei e pequei\n\nPerdão, no entanto eu imploro\nSenhor, Tu que és a redenção\nEu sei que a perdi e que a adoro e eu choro\nSenhor, ao rogar Seu perdão\n\nSenhor, eu confesso o perjúrio de tantas promessas\nSenhor, eu errei mas na vida encontrei a lição\nSenhor, eu Te imploro, Senhor\nÓ meu Deus, não Te esqueças da minha oração\nSenhor, ó bondade infinita, dai-me o Seu perdão\n\nAmor, por amor eu na vida jamais encontrara\nÉ tarde, caminho p'la vida perdido na dor\nSenhor, este amor é mais puro\nQue a joia mais rara, o mais puro amor\nSenhor, se o amor é cаѕtigo, perdão, meu Senhor"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Prayer",
+      "content": "God, at Your feet I confess\nGod, I hurted my love\nGod, I ask for Your forgiveness, but I don't deserve it\nGod, I despised my love and sinned\n\nPardon me, I beg You\nGod, You are redemption\nI know I lost her, but I love her, so I cry\nGod, asking for her forgiveness\n\nGod, I confess the perjury of so many promesses\nGod, I made some mistakes, but in life I found a lesson\nGod, I beg You, God\nOh my God, don't forget my prayer\nGod, oh endless kindness, give me Your forgiveness\n\nLove, I had never found love in life\nIt's late, I walk through life, lost in pain\nGod, this love is more precious\nThan the rarest jewells, the most precious one of loves\nGod, if love is а puniѕhment, forgive me, my God"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Gebet",
+      "content": "Herr, zu Deinen Füßen bekenne ich\nHerr, meine Liebe habe ich verletzt\nHerr, wenn ich hier um Vergebung bitte, verdiene ich sie nicht\nHerr, ich habe meine Liebe missachtet und gesündigt\n\nVergebung, dennoch flehe ich darum\nHerr, Du, der Du die Erlösung bist\nIch weiß, dass ich sie verloren habe und dass ich sie liebe, und ich weine\nHerr, während ich um Deine Vergebung bitte\n\nHerr, ich bekenne den Meineid so vieler Versprechen\nHerr, ich habe gefehlt, doch im Leben habe ich die Lektion gefunden\nHerr, ich flehe Dich an, Herr\nOh mein Gott, vergiss mein Gebet nicht\nHerr, o unendliche Güte, gib mir Deine Vergebung\n\nLiebe, aus Liebe habe ich im Leben niemals gefunden\nEs ist zu spät, ich gehe durchs Leben verloren im Schmerz\nHerr, diese Liebe ist reiner\nAls das seltenste Juwel, die reinste Liebe\nHerr, wenn Liebe Strаfe iѕt – Verzeihung, mein Herr"
+    }
+  ],
+  "bpm": 126,
+  "tone": "C major",
+  "artistPeople": [
+    "António Calvário Da Paz"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "João Nobre"
+  ],
+  "conductor": "Kai Mortensen",
+  "lyricists": [
+    "Francisco Nicholson",
+    "Rogério Bracinha"
+  ],
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Gomes Ferreira"
+  ],
+  "jury": null,
+  "spokesperson": "Maria Manuela Furtado"
+}

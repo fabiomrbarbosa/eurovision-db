@@ -1,0 +1,341 @@
+{
+  "id": 23,
+  "country": "ES",
+  "artist": "Melody",
+  "song": "Esa diva",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/IEKSa9FVLqA",
+    "https://www.youtube-nocookie.com/embed/_sfZ4L8pGzQ",
+    "https://www.youtube-nocookie.com/embed/H46FB-rLh04",
+    "https://www.youtube-nocookie.com/embed/2J9xYVcP4MA",
+    "https://www.youtube-nocookie.com/embed/PqOeAnGX1eg",
+    "https://www.youtube-nocookie.com/embed/6gB3HSVD1nc",
+    "https://www.youtube-nocookie.com/embed/P-qp57jp10k"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Esa diva",
+      "content": "Desde que era bien pequeña\nAntes de saber andar\nFui del mundo la rumbera\nPara mí era tan normal\n\nY descubrí a una suprema del teatro\nDespreciando a los demás del camerino\nPero la supuesta diva\nPor el eco de una vida\nQue no le pertenecía\nSe embrujó\n\nUna diva es sencilla\nComo un simple mortal\nUna diva no pisa\nA nadie para brillar\nSu voz le hace grande\n¿Qué más da?\nSi ella es libre cantando\nComo un pez en el mar\n\nUna diva es valiente\nPoderosa\nSu vida es un jardín lleno de espinas y rosas\nResurge bailando\nCon más fuerza que un huracán\n\nEs la madre que madruga\nEs la artista sin cartel\nCon dinero o sin fortuna\nEllas son divas también\n\nNo es la fama tu grandeza\nLa igualdad es mi bandera\nY la música es mi única ilusión\n\nUna diva es sencilla\nComo un simple mortal\nUna diva no pisa\nA nadie para brillar\nSu voz le hace grande\n¿Qué más da?\nSi ella es libre cantando\nComo un pez en el mar\n\nUna diva es valiente\nPoderosa\nSu vida es un jardín lleno de espinas y rosas\nResurge bailando\nCon más fuerza que un huracán\nYa verán\n\n(Diva, diva, diva…)\n\n¡Somos divas tú y yo!\n\nSi ella es libre cantando\nComo un pez en el mar\n\nUna diva es valiente\nPoderosa\nSu vida es un jardín lleno de espinas y rosas\nResurge bailando\nCon más fuerza que un huracán\nYa verán\n\n¡Esa divа ѕoy yo!"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "arabic"
+      ],
+      "displayedLanguages": null,
+      "title": "تلك الديفا",
+      "content": "منذ أن كنت فتاة صغيرة\nقبل أن أعرف كيف أمشي\nكنت للعالم رقاصة\nكان الأمر لي طبيعيًا جدًا\n\nواكتشفتُ سامية مسرح\nتحتقر الآخرين في غرفة التبديل\nلكن المدعوة ديفا\nلصدى الحياة\nلم تكن تنتمي إليها\nكانت مسحورة\n\nالديفا بسيطة\nكمجرد فانية\nالديفا لا تطأ\nأحدًا لكي تلمع\nصوتها يجعلها عظيمة\nوما الفرق؟\nإذا كانت حرة تغني\nمثل سمكة في البحر\n\nالديفا شجاعة\nقوية\nحياتها حديقة مليئة بالأشواك والورود\nتظهر من جديد وهي ترقص\nأشد قوة من إعصار\n\nهي الأم التي تستيقظ مبكرًا\nهي الفنانة بدون إعلان\nبالمال أو بدون ثروة\nإنهم ديفات أيضًا\n\nليست الشهرة عظمتك\nالمساواة هي رايتي\nوالموسيقى هي وهمي الوحيد\n\nالديفا بسيطة\nكمجرد فانية\nالديفا لا تطأ\nأحدًا لكي تلمع\nصوتها يجعلها عظيمة\nوما الفرق؟\nإذا كانت حرة تغني\nمثل سمكة في البحر\n\nالديفا شجاعة\nقوية\nحياتها حديقة مليئة بالأشواك والورود\nتظهر من جديد وهي ترقص\nأشد قوة من إعصار\nسوف يرون\n\n(ديفا، ديفا، ديفا..)\n\nنحن ديفاتان أنتي وأنا\n\nإذا كانت حرة تغني\nمثل سمكة في البحر\n\nالديفا شجاعة\nقوية\nحياتها حديقة مليئة بالأشواك والورود\nتظهر من جديد وهي ترقص\nأشد قوة من إعصار\nسوف يرون\n\nتلك الديفا - هي أنا"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": null,
+      "title": "הדיווה הזו",
+      "content": "מאז שהייתי מאוד קטנה\nלפני שידעתי איך ללכת\nהייתי ילדת המסיבות של העולם\nבשבילי זה היה כל כך נורמלי\n\nואז גיליתי את עליונות התיאטרון\nמזלזלת באחרים בחדר ההלבשה\nאבל הדיווה כביכול\nעקב הדהוד החיים\nשלא היה שייך לה\nהפכה למכושפת\n\nדיווה היא פשוטה\nכמו בן תמותה סתמי\nדיווה לא דורכת\nעל אף אחד בשביל לזרוח\nהקול שלה הופך אותה לגדולה\nאיזה הבדל זה כבר עושה ?\nבגלל שהיא שרה בחופשיות\nכמו דג בים\n\nדיווה היא אמיצה\nחזקה\nהחיים שלה הם גן מלא בקוצים וורדים\nהיא מעלה לשטח את הריקוד\nעם יותר עוצמה מהוריקן\n\nהם האימא שמתעוררת מוקדם\nהאומן בלי הפוסטר\nעם כסף או בלי הון\nהם גם דיוות\n\nפרסום הוא לא הגדולה\nשיוויון הוא הדגל שלי\nוהמוזיקה היא הדבר היחיד שמלהיב אותי\n\nדיווה היא פשוטה\nכמו בן תמותה סתמי\nדיווה לא דורכת\nעל אף אחד בשביל לזרוח\nהקול שלה הופך אותה לגדולה\nאיזה הבדל זה כבר עושה?\nבגלל שהיא שרה בחופשיות\nכמו דג בים\n\nדיווה היא אמיצה\nחזקה\nהחיים שלה הם גן מלא בקוצים וורדים\nהיא מעלה לשטח את הריקוד\nעם יותר עוצמה מהוריקן\nאתם תראו\n\n(דיווה, דיווה,דיווה…)\n\nאני ואתם דיוות\n\nבגלל שהיא שרה בחופשיות\nכמו דג בים\n\nדיווה היא אמיצה\nחזקה\nהחיים שלה הם גן מלא בקוצים וורדים\nהיא מעלה לשטח את הריקוד\nעם יותר עוצמה מהוריקן\nאתם תראו\n\nהדיווה הזו היא אני"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "slovak"
+      ],
+      "displayedLanguages": null,
+      "title": "Tá diva",
+      "content": "Už od malička\nEšte pred tým ako som sa naučila chodiť\nBola som jediná tanečníčka na svete\nPre mňa to bolo úplne normálne\n\nA zisila som, že divadelným vrcholom\nJe pohŕdanie ostatnými v šatni\nAle tá takzvaná diva\nKvoli ohlasom\nKtoré jej nepatrili\nBola podvedená\n\nDiva je jednoduchá\nAko obyčajný smrtelník\nDiva po nikom nepošliape\nAby zažiarila\nTo, čo ju robí dobrou, je jej hlas\nAle koho to zaujíma?\nPretože spieva slobodne\nAko ryba vo vode\n\nDiva je taká odvážna\nTaká mocná\nJej život je ako záhrada plná tŕňov a ruží\nPri tanci sa vzbúdza\nA je silnejšia ako hurikán\n\nJe to matka, ktorá vstáva skoro\nJe umelkyňou aj bez podpory\nS peniazmi alebo bez\nAj tak sú to všetko divy\n\nSláva nie je vaša sila\nRovnosť je moja vlajka\nA hudba je moja jediné nadšenie\n\nDiva je jednoduchá\nAko obyčajný smrtelník\nDiva po nikom nepošliape\nAby ona zažiarila\nTo, čo ju robí dobrou, je jej hlas\nAle koho to zaujíma?\nPretože spieva slobodne\nAko ryba vo vode\n\nDiva je taká odvážna\nTaká mocná\nJej život je ako záhrada plná tŕňov a ruží\nPri tanci sa vzbúdza\nA je silnejšia ako hurikán\nVeď uvidíte…\n\n(Diva, diva, diva…)\n\nAj ty aj ja sme divy\n\nPretože spieva slobodne\nAko ryba vo vode\n\nDiva je taká odvážna\nTaká mocná\nJej život je ako záhrada plná tŕňov a ruží\nPri tanci sa vzbúdza\nA je silnejšia ako hurikán\nVeď uvidíte…\n\nA tá diva, ѕom jа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "romanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Acea divă",
+      "content": "De când eram foarte mică\nÎnainte să știu să merg\nEram fata petrecerii în lume\nPentru mine era atât de normal\n\nȘi am descoperit un teatru suprem\nDisprețuind pe ceilalți din culise\nDar presupusa divă\nDin ecoul unei vieți\nCare nu-i aparținea\nA devenit vrăjită\n\nO divă este simplă\nCa o muritoare oarecare\nO divă nu calcă\nPe nimeni pentru a străluci\nVocea ei o face mare\nCe diferență face?\nDacă este liberă cântând\nCa un pește în mare\n\nO divă este curajoasă\nPuternică\nViața ei este o grădină plină de spini și trandafiri\nRăsare din nou dansând\nMai puternică decât un uragan\n\nEste mama care se trezește devreme\nEste artista fără postere\nCu bani sau fără avere\nEle sunt și ele dive\n\nFama nu este măreția ta\nEgalitatea este steagul meu\nIar muzica este singurul meu entuziasm\n\nO divă este simplă\nCa o muritoare oarecare\nO divă nu calcă\nPe nimeni pentru a străluci\nVocea ei o face mare\nCe diferență face?\nDacă este liberă cântând\nCa un pește în mare\n\nO divă este curajoasă\nPuternică\nViața ei este o grădină plină de spini și trandafiri\nRăsare din nou dansând\nMai puternică decât un uragan\nVeți vedea\n\n(Divă, divă, divă…)\n\nTu și cu mine suntem dive\n\nDacă este liberă cântând\nCa un pește în mare\n\nO divă este curajoasă\nPuternică\nViața ei este o grădină plină de spini și trandafiri\nRăsare din nou dansând\nMai puternică decât un uragan\nVeți vedea\n\nAceа divă ѕunt eu"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "basque"
+      ],
+      "displayedLanguages": null,
+      "title": "Diba hori",
+      "content": "Oso txikia nintzenetik\nIbiltzen jakin aurretik\nMunduko rumba dantzaria nintzen\nNiretzat oso normala zen\n\nEta antzerkiaren goren bat aurkitu nuen\nKamerinoko besteak mespretxatuz\nBaina ustezko diba\nBizitza baten oihartzunagatik\nHori ez zen berea\nSorgintu egin zen\n\nDiba bat xumea da\nHilkor soil bat bezala\nDiba batek ez du\nInor zapaltzen distira egiteko\nBere ahotsak handia egiten dio\nZer axola dio?\nAbesten libre bada\nArrain bat itsasoan bezala\n\nDiba bat ausarta da\nAhaltsua\nBere bizitza arantzaz eta arrosaz betetako lorategia da\nBerpiztea dantzan\nUrakan batek baino indar handiagoz\n\nGoiz jaikitzen den ama da\nKartelik gabeko artista da\nDiruarekin edo aberastasunik gabe\nDibak ere badira\n\nEz da ospea zure handitasuna\nBerdintasuna da nire bandeera\nEta musika da nire ilusio bakarra\n\nDiba bat xumea da\nHilkor soil bat bezala\nDiba batek ez du\nInor zapaltzen distira egiteko\nBere ahotsak handia egiten dio\nZer axola dio?\nAbesten libre bada\nArrain bat itsasoan bezala\n\nDiba bat ausarta da\nAhaltsua\nBere bizitza arantzaz eta arrosaz betetako lorategia da\nBerpiztea dantzan\nUrakan batek baino indar handiagoz\nIkusiko duzue\n\n(Diba, diba, diba…)\n\nZu eta ni dibak gara\n\nAbesten libre bada\nArrain bat itsasoan bezala\n\nDiba bat ausarta da\nAhaltsua\nBere bizitza arantzaz eta arrosaz betetako lorategia da\nBerpiztea dantzan\nUrakan batek baino indar handiagoz\nIkuѕiko duzue\n\nDiba hori ni nаiz"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "irish"
+      ],
+      "displayedLanguages": null,
+      "title": "An diva sin",
+      "content": "Ós rud é go raibh mé an-beag\nSula a fhios agam conas a siúl\nBa as an domhan rumbera mé\nMaidir liom féin bhí sé chomh gnáth\n\nAgus fuair mé amach imreoir amharclainne uachtaracha\nDespising na cinn eile sa seomra feistis\nAch an diva ceaptha\nChun macalla an tsaoil\nNíor bhain sé sin leis\nBewitched sé\n\nTá diva simplí\nCosúil le mortal amháin\nNí chéimíonn diva\nNíl aon duine le lonrú\nDéanann a ghuth go hiontach é\nCén difríocht a dhéanann sé?\nMá tá sí ag canadh saor in aisce\nCosúil le iasc san fharraige\n\nTá diva cróga\nCumhachtach\nGairdín atá lán de dealga agus rósanna is ea a shaol\nDamhsa aiséirí\nNíos láidre ná hairicín\n\nIs í an mháthair a éiríonn go luath\nIs í an t-ealaíontóir gan póstaer í\nLe hairgead nó gan fhortún\nIs divas iad freisin\n\nNí hé Laochra do mhóráltacht\nIs é comhionannas mo bhratach\nAgus is é ceol mo bhrionglóid amháin\n\nTá diva simplí\nCosúil le mortal amháin\nNí chéimíonn diva\nNíl aon duine le lonrú\nDéanann a ghuth go hiontach é\nCén difríocht a dhéanann sé?\nMá tá sí ag canadh saor in aisce\nCosúil le iasc san fharraige\n\nTá diva cróga\nCumhachtach\nGairdín atá lán de dealga agus rósanna is ea a shaol\nDamhsa aiséirí\nNíos láidre ná hairicín\nFeicfidh tú\n\n(Diva, diva, diva…)\n\nIs divas tú féin agus mé féin\n\nMá tá sí ag canadh saor in aisce\nCosúil le iasc san fharraige\n\nTá diva cróga\nCumhachtach\nGairdín atá lán de dealga agus rósanna is ea a shaol\nDamhsa aiséirí\nNíos láidre ná hairicín\nFeicfidh tú\n\nIs mise an divа ѕin"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "azerbaijani"
+      ],
+      "displayedLanguages": null,
+      "title": "O Diva",
+      "content": "Çox kiçik yaşlarda\nYürüməyi öyrənməmişdən əvvəl\nDünyanın parti qızı idim\nBunlar mənim üçün çox təbii idi\n\nBir teatr aktyoru kəşf etdim\nSoyunma otağında başqalarını kiçidən\nAmma sözdə diva\nBir həyatın əks-sədasından\nOna aid olmayan\nSehrlənmişdi\n\nBir diva sadədir\nAdi bir insan kimi\nBir diva parlayır\nKiməsə zərbə vurmaz\nSəsi onu möhtəşəm edir\nNə əhəmiyyət kəsb edir?\nƏgər sərbəstcə mahnı oxuyarsa\nDənizdəki bir balıq kimi\n\nBir diva cəsurdur\nO güclüdür\nHəyatı tikanlar və güllərlə dolu bağçasıdır\nÜzə çıxmaq üçün rəqs edir\nFırtınadan daha güclüdür\n\nErkən oyanan anadır\nPosteri olmayan sənətkardır\nPul və ya sərvət olmadan\nOnlar da divadır\n\nŞöhrət sənə böyük olduğunu göstərmir\nBərabərlik mənim bayrağım olacaq\nVə musiqi mənim tək həvəsimdir\n\nBir diva sadədir\nAdi bir insan kimi\nBir diva parlayır\nKiməsə zərbə vurmaz\nSəsi onu möhtəşəm edir\nNə əhəmiyyət kəsb edir?\nƏgər sərbəstcə mahnı oxuyarsa\nDənizdəki bir balıq kimi\n\nBir diva cəsurdur\nO güclüdür\nHəyatı tikanlar və güllərlə dolu bağçasıdır\nÜzə çıxmaq üçün rəqs edir\nFırtınadan daha güclüdür\nGörəcəksən\n\n(Diva, diva, diva…)\n\nSən və mən divalarıq\n\nƏgər sərbəstcə mahnı oxuyursa\nDənizdəki bir balıq kimi\n\nBir diva cəsurdur\nO güclüdür\nHəyatı tikanlar və güllərlə dolu bağçasıdır\nRəqs edərək üzə çıxar\nFırtınadan daha güclüdür\nGörəcəkѕən\n\nO divа mənəm"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Cette diva",
+      "content": "Depuis toute petite\nAvant de savoir marcher\nJ'ai été la fêtarde du monde\nC'était tellement normal pour moi\n\nJ'ai découvert une suprême du théâtre\nMéprisant les autres dans les loges\nMais la supposée diva\nPar l'écho d'une vie\nQui ne lui appartenait pas\nS'est ensorcelée\n\nUne diva est simple\nComme un simple mortel\nUne diva ne piétine\nPersonne pour briller\nSa voix la rend grande\nQu'est-ce que ça peut bien faire ?\nSi elle, elle est libre en chantant\nComme un poisson dans la mer\n\nUne diva est courageuse\nPuissante\nSa vie est un jardin rempli d'épines et de roses\nElle réapparait en dansant\nAvec plus de force qu'un ouragan\n\nC'est la mère qui se lève tôt\nC'est l'artiste sans toile\nAvec de l'argent ou sans fortune\nElles aussi sont des divas\n\nCe n'est pas de la célébrité ta grandeur\nL'égalité est mon étendard\nEt la musique est mon seul rêve\n\nUne diva est simple\nComme un simple mortel\nUne diva ne piétine\nPersonne pour briller\nSa voix la rend grande\nQu'est-ce que ça peut bien faire ?\nSi elle, elle est libre en chantant\nComme un poisson dans la mer\n\nUne diva est courageuse\nPuissante\nSa vie est un jardin rempli d'épines et de roses\nElle réapparait en dansant\nAvec plus de force qu'un ouragan\nVous verrez\n\n(Diva, diva, diva…)\n\nNous sommes des divas toi et moi\n\nSi elle, elle est libre en chantant\nComme un poisson dans la mer\n\nUne diva est courageuse\nPuissante\nSa vie est un jardin rempli d'épines et de roses\nElle réapparait en dansant\nAvec plus de force qu'un ouragan\nVous verrez\n\nCette divа c'eѕt moi"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "indonesian"
+      ],
+      "displayedLanguages": null,
+      "title": "Diva Itu",
+      "content": "Sejak aku masih sangat kecil\nSebelum belajar 'tuk berjalan\nAku adalah satu-satunya rumbera di dunia\nBagiku itu sangat biasa\n\nDan aku menemukan teater yang luar biasa\nMeremehkan yang lain di ruang ganti\nTapi yang disebut diva\nKarena gaung seumur hidup\nItu bukan miliknya\nMenjadi keramat\n\nDiva itu sederhana\nSeperti manusia biasa\nDiva tidak memaki-maki\nSiapapun untuk bersinar\nSuaranya membuatnya hebat\nSiapa peduli?\nKarena ia bernyanyi dengan bebas\nSeperti ikan di air\n\nSeorang diva sangat berani\nBegitu kuat\nHidupnya seperti taman yang penuh duri dan mawar\nDia bangkit sambil menari\nLebih kuat dari badai\n\nDia adalah ibu yang bangun pagi-pagi\nSeorang artis tanpa barisan\nDengan atau tanpa kekayaan\nMereka juga diva\n\nKetenaran bukanlah kebesaranmu\nKesetaraan adalah benderaku\nDan musik adalah satu-satunya kebahagiaanku\n\nSeorang diva itu sederhana\nSeperti manusia biasa\nSeorang diva tidak memaki-maki\nSiapapun untuk bersinar\nSuaranya membuatnya hebat\nSiapa peduli?\nKarena ia bernyanyi dengan bebas\nSeperti ikan di air\n\nSeorang diva sangat berani\nBegitu kuat\nHidupnya seperti taman yang penuh duri dan mawar\nDia bangkit sambil menari\nLebih kuat dari badai\nKau akan lihat\n\n(Diva, diva, diva…)\n\nKau dan aku adalah diva\n\nKarena dia bernyanyi dengan bebas\nSeperti ikan di air\n\nSeorang diva sangat berani\nBegitu kuat\nHidupnya seperti taman yang penuh duri dan mawar\nDia bangkit ѕambil menari\nLebih kuat dari badai\nKau akan lihat\n\nDiva itu adalah аku"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": null,
+      "title": "Αυτή η ντίβα",
+      "content": "Από πολύ μικρή\nΠριν μάθω να περπατώ\nΥπήρξα του κόσμου η ρουμπέρα\nΓια μένα ήταν τόσο φυσιολογικό\n\nΚαι ανακάλυψα μια ταλαντούχα του θεάτρου\nΠου περιφρονούσε τους άλλους στο καμαρίνι\nΜα η υποτιθέμενη ντίβα\nΑπό τον απόηχο μιας ζωής\nΠου δεν της ανήκε\nΣαγηνεύτηκε\n\nΜια ντίβα είναι απλή\nΣαν κοινός θνητός\nΜια ντίβα δεν καταπατάει\nΚανέναν για να λάμψει\nΗ φωνή της την εξυψώνει\nΤι και αν είναι\nΕλεύθερη τραγουδώντας\nΣαν ψάρι στη θάλασσα;\n\nΜια ντίβα είναι γενναία\nΔυνατή\nΗ ζωή της είναι ένας κήπος γεμάτος αγκάθια και τριαντάφυλλα\nΑναγεννιέται χορεύοντας\nΜε δύναμη ισχυρότερη του τυφώνα\n\nΕίναι η μητέρα που αγουροξυπνάει\nΕίναι η καλλιτέχνης χωρίς αφίσα\nΜε λέφτά ή άφραγκες\nΕίναι ντίβες και αυτές\n\nΗ διασημότητα δεν είναι το μεγαλείο σου\nΗ ισότητα είναι η σημαία μου\nΚαι η μουσική είναι το μόνο μου όνειρο\n\nΜια ντίβα είναι απλή\nΣαν κοινός θνητός (Ντίβα!)\nΜια ντίβα δεν καταπατάει\nΚανέναν για να λάμψει (Ντίβα!)\nΗ φωνή της την εξυψώνει\nΤι και αν είναι (Ντίβα!)\nΕλεύθερη τραγουδώντας\nΣαν ψάρι στη θάλασσα;\n\nΜια ντίβα είναι γενναία\nΔυνατή\nΗ ζωή της είναι ένας κήπος γεμάτος αγκάθια και τριαντάφυλλα\nΑναγεννιέται χορεύοντας\nΜε δύναμη ισχυρότερη του τυφώνα\nΘα δειτε\n\n(Ντίβα, ντίβα, ντίβα…)\n\nΝντίβες είμαστε εσύ κι εγώ\n\nΑν αυτή είναι ελεύθερη τραγουδώντας\nΣαν ψάρι στη θάλασσα;\n\nΜια ντίβα είναι γενναία\nΔυνατή\nΗ ζωή της είναι ένας κήπος γεμάτος αγκάθια και τριαντάφυλλα\nΑναγεννιέται χορεύοντας\nΜε δύναμη ισχυρότερη του τυφώνα\nΘα δείτε\n\nΑυτή η ντιβα είμαι εγώ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "asturian"
+      ],
+      "displayedLanguages": null,
+      "title": "Esa diva",
+      "content": "Desque yera bien pequeña\nEnantes de saber andar\nFui del mundu la rumbera\nPa min yera tan normal\n\nY descubrí una suprema del teatru\nDespreciando los demás pel camerín\nPero la supuesta diva\nPol ecu d'una vida\nQue nun-y pertenecía\nEmbruxó\n\nUna diva ye cenciella\nComo un simple mortal\nUna diva nun pisa\nNaide pa brillar\nLa so voz faila grande\nQué importa\nSi ella ye llibre cantando\nComo un pexe na mar\n\nUna diva ye valiente\nPoderosa\nLa so vida ye un xardín enllenu d'espinos y roses\nResurde baillando\nCon más fuerza de qu'un furacán\n\nYe la madre que s'ergue ceo\nYe l'artista ensin papel\nCon dinero o ensin fortuna\nElles son dives tamién\n\nNun ye la fama'l to grandor\nLa igualdá ye mio bandera\nY la música l'única mio ilusión\n\nUna diva ye cenciella\nComo un simple mortal\nUna diva nun pisa\nNaide pa brillar\nLa so voz faila grande\nQué importa\nSi ella ye llibre cantando\nComo un pexe na mar\n\nUna diva ye valiente\nPoderosa\nLa so vida ye un xardín enllenu d'espinos y roses\nResurde baillando\nCon más fuerza qu'un furacán\nYá verás\n\n(Diva, diva, diva…)\n\nSomos dives tu y yo\n\nSi ella ye llibre cantando\nComo un pexe na mar\n\nUna diva ye valiente\nPoderosa\nLa so vida ye un xardín enllenu d'espinos y roses\nResurde baillando\nCon más fuerza qu'un furacán\nYá verás\n\nEsa divа ѕoi yo"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "tagalog"
+      ],
+      "displayedLanguages": null,
+      "title": "Ang Diwatang Iyon",
+      "content": "Mula pa nang ako'y isinilang\nBago pa matutong lumakad\nAko'y hinubog ng tugtugan\nAt sayaw ang aking buhay\n\nAt doon ko nasilayan ang isang tunay na mutya\nNa nilalait ang iba sa silid-likuran\nNgunit ang itinuturing nilang diwata\nAy inalipin ng anino\nNg isang buhay na hindi kanya\nAt siya'y napahamak\n\nAng tunay na diwata\nAy payak tulad ng iba\n'Di niya tinatapakan\nAng sinuman upang magsilaw\nTinig niya ay maganda\nAnong pagkakaiba?\nKung malaya siyang umaawit\nGaya ng isdang lumalangoy sa laot\n\nAng diwata'y matapang\nAt may angking lakas\nBuhay niya'y harding puno ng tinik at rosas\nMuling bumangon at nagsayaw\nMas matindi pa sa unos\n\nSiya ang inang nagigising nang maaga\nSiya ang alagad ng sining kahit walang tanghalan\nMay salapi man o wala\nSila'y tunay ding diwata\n\nHindi yaman ang sukatan\nPagkakapantay ang panata\nAt himig ang tanging pangarap ko\n\nAng tunay na diwata\nAy payak tulad ng iba\n'Di niya tinatapakan\nAng sinuman upang magsilaw\nTinig niya ay maganda\nAnong pagkakaiba?\nKung malaya siyang umaawit\nGaya ng isdang lumalangoy sa laot\n\nAng diwata'y matapang\nAt may angking lakas\nBuhay niya'y harding puno ng tinik at rosas\nMuling bumangon at nagsayaw\nMas matindi pa sa unos\nMakikita mo ngayon…\n\n(Diwata, diwata, diwata…)\n\nTayo'y mga diwata\n\nKung malaya siyang umaawit\nGaya ng isdang lumalangoy sa laot\n\nAng diwata'y matapang\nAt may angking lakas\nBuhay niya'y harding puno ng tinik at rosas\nMuling bumangon at nagsayaw\nMas matindi pa sa unoѕ\nMakikita mo ngayon…\n\nAng diwatang iyon ay аko"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "That diva",
+      "content": "Since I was very little\nBefore learning how to walk\nI was the world's only <span class=\"lyrics_mark\" data-mark=\"9nqa4jx8qx\">rumbera</span>\nFor me it was so usual\n\nAnd I found out a theatre supreme\nDisdaining the others in the dressing room\nBut the so-called diva\nDue to the echo of a lifetime\nThat didn't belong to her\nBecame bewitched\n\nA diva is simple\nLike a mere mortal\nA diva doesn't step\nOn anyone else to shine\nHer voice makes her great\nWho cares?\nBecause she is free singing\nLike a fish in water\n\nA diva is so brave\nSo powerful\nHer life's like a garden full of thorns and roses\nShe rises while dancing\nStronger than a hurricane\n\nShe's the early morning mother\nAn artist with no line-up\nWith or without a fortune\nThey are divas as well\n\nFame is not your greatness\nEquality is my flag\nAnd music is my only enthusiasm\n\nA diva is simple\nLike a mere mortal\nA diva doesn't step\nOn anyone else to shine\nHer voice makes her great\nWho cares?\nBecause she is free singing\nLike a fish in water\n\nA diva is so brave\nSo powerful\nHer life's like a garden full of thorns and roses\nShe rises while dancing\nStronger than a hurricane\nYou'll see\n\n(Diva, diva, diva…)\n\nYou and I are divas\n\nBecause she is free singing\nLike a fish in water\n\nA diva is so brave\nSo powerful\nHer life's like a garden full of thorns and roses\nShe rises while dancing\nStronger than a hurricane\nYou'll see\n\nThat divа iѕ me"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "ukrainian"
+      ],
+      "displayedLanguages": null,
+      "title": "Ця діва",
+      "content": "Коли я була ще геть малою\nДо того як я навчилася ще ходити\nЯ була головною тусовщицею світу\nДля мене це було цілком нормально\n\nІ я дізналася про великий театр\nЗневажала інших у гримерці\nАле так-звана діва\nЧерез відлуння життя\nЯке не було її\nПричарувалась\n\nДіва проста\nВсього-навсього смертна\nДіва не йде по чужих головах\nАби сяяти\nЇї голос робить її великою\nАле яка з того різниця\nЯкщо вона співає вільно\nЯк риба у воді\n\nДіва хоробра\nМогутня\nЇї життя - сад з трояндами й шипами\nВона виходить на поверхню знов танком\nПотужніша ніж ураган\n\nЦе - мати яка встає ні світ зоря\nЦе - мисткиня без плакату\nБез грошей чи статків\nВони теж діви\n\nНе в славі твоя велич\nРівність - то мій прапор\nІ музика - єдине чим живу я\n\nДіва проста\nВсього-навсього смертна\nДіва не йде по чужих головах\nАби сяяти\nЇї голос робить її великою\nАле яка з того різниця\nЯкщо вона співає вільно\nЯк риба у воді\n\nДіва хоробра\nМогутня\nЇї життя - сад з трояндами й шипами\nВона виходить на поверхню знов танком\nПотужніша ніж ураган\nВи ще побачите\n\n(Діва, діва, діва…)\n\nТи і я - діви\n\nЯкщо вона співає вільно\nЯк риба у воді\n\nДіва хоробра\nМогутня\nЇї життя - сад з трояндами й шипами\nВона виходить на поверхню знов танком\nПотужніша ніж ураган\nВи ще побачите\n\nЦя діва - я"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Quella diva",
+      "content": "Fin da quando ero molto piccola\nPrima di sapere come camminare\nEro la rumbera del mondo\nPer me era così normale\n\nE ho scoperto una suprema di teatro\nDisdegnando gli altri nel camerino\nMa la presunta diva\nPer l'eco di una vita\nChe non le apparteneva\nNe rimase stregata\n\nUna diva è semplice\nCome un semplice mortale\nUna diva non calpesta\nNessuno per brillare\nLa sua voce la rende grande\nChe differenza fa?\nSe è libera di cantare\nCome un pesce nel mare\n\nUna diva è coraggiosa\nPotente\nLa sua vita è un giardino pieno di spine e rose\nRiemerge ballando\nCon più forza di un uragano\n\nÈ la madre che si sveglia presto\nLei è l'artista senza poster\nCon soldi o senza fortuna\nAnche loro sono dive\n\nLa fama non è la tua grandezza\nL'uguaglianza è la mia bandiera\nE la musica è la mia unica illusione\n\nUna diva è semplice\nCome un semplice mortale\nUna diva non calpesta\nNessuno per brillare\nLa sua voce la rende grande\nChe differenza fa?\nSe è libera di cantare\nCome un pesce nel mare\n\nUna diva è coraggiosa\nPotente\nLa sua vita è un giardino pieno di spine e rose\nRiemerge ballando\nCon più forza di un uragano\nVedrai\n\n(Diva, diva, diva…)\n\nTu ed io siamo delle dive\n\nSe è libera di cantare\nCome un pesce nel mare\n\nUna diva è coraggiosa\nPotente\nLa sua vita è un giardino pieno di spine e rose\nRiemerge ballando\nCon più forza di un uragano\nVedrai\n\nQuella divа ѕono io"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "serbian"
+      ],
+      "displayedLanguages": null,
+      "title": "Ta diva",
+      "content": "Od malena\nDok još nisam znala hodati\nBila sam kraljica ritma\nZa mene je to bilo sasvim normalno\n\nI otkrila sam vrhunsku umetnicu pozorišta\nKoja je prezirala ostale u garderobi\nAli ta takozvana diva\nZbog odjeka jednog života\nKoji joj nije pripadao\nBila je začarana\n\nDiva je jednostavna\nKao običan smrtnik\nDiva ne gazi\nNikoga da bi sijala\nNjen glas je čini velikom\nZar je važno?\nJer ona je slobodna dok peva\nKao riba u moru\n\nDiva je hrabra\nMoćna\nNjen život je vrt pun trnja i ruža\nPonovno se diže plešući\nJača od uragana\n\nOna je majka koja rano ustaje\nOna je umetnica bez postera\nSa novcem ili bez bogatstva\nOne su takođe dive\n\nSlava nije tvoja veličina\nJednakost je moja zastava\nA muzika je moja jedina iluzija\n\nDiva je jednostavna\nKao običan smrtnik\nDiva ne gazi\nNikoga da bi sijala\nNjen glas je čini velikom\nZar je važno?\nJer ona je slobodna dok peva\nKao riba u moru\n\nDiva je hrabra\nMoćna\nNjen život je vrt pun trnja i ruža\nPonovno se diže plešući\nJača od uragana\nVidećete\n\n(Diva, diva, diva…)\n\nMi smo dive, ti i ja\n\nJer ona je slobodna dok peva\nKao riba u moru\n\nDiva je hrabra\nMoćna\nNjen život je vrt pun trnja i ruža\nPonovno se diže plešući\nJača od uragana\nVidećete\n\nTa diva ѕam jа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "occitan"
+      ],
+      "displayedLanguages": null,
+      "title": "Aquela Diva",
+      "content": "Dempuèi qu'èra fòrça pichona\nAbans de saber caminar\nSoi estat del monde la rumbera\nPer ieu èra tan normal\n\nE ai descobèrt una suprèma del teatre\nMespresant los autres del camerino\nMas la supausada diva\nPer l'eco d'una vida\nQue li aparten pas\nS'enfumèt\n\nUna diva es simpla\nComa un simple mortal\nUna diva pas pas de trampa\nPas cap per brilhar\nSa votz la fa granda\nQu'ei hèra\nSe es liura cantant\nComa un peis dins la mar\n\nUna diva es valenta\nPoderosa\nSa vida es un jardin plen d'espinas e ròsas\nRessorgís dançant\nMai fòrt qu'un auragan\n\nEs la maire que matina\nEs l'artista sens cartèl\nAmb d'argent o sens fortuna\nSon divas tanben\n\nEs pas ta reputacion ta grandor\nL'egalitat es ma bandièra\nE la musica es ma sola illusion\n\nUna diva es simpla\nComa un simple mortal\nUna diva pas pas de trampa\nPas cap per brilhar\nSa votz la fa granda\nQu'ei hèra\nSe es liura cantant\nComa un peis dins la mar\n\nUna diva es valenta\nPoderosa\nSa vida es un jardin plen d'espinas e ròsas\nRessorgís dançant\nMai fòrt qu'un auragan\nVeiràn\n\n(Diva, diva, diva…)\n\nSèm dives tu e ieu\n\nSe es liura cantant\nComa un peis dins la mar\n\nUna diva es valenta\nPoderosa\nSa vida es un jardin plen d'espinas e ròsas\nRessorgíѕ dançant\nMai fòrt qu'un auragan\nVeiràn\n\nAquela divа oc ieu"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "danish"
+      ],
+      "displayedLanguages": null,
+      "title": "Den diva",
+      "content": "Siden jeg var helt lille\nFør jeg kunne gå\nVar jeg verdens festpige\nFor mig var det helt normalt\n\nOg jeg opdagede en teatervirtuos\nDer foragtede de andre i skuespillergarderoben\nMen den formodede diva\nGrundet et liv fyldt med ekkoer\nSom ikke tilhørte hende\nBlev tryllebundet\n\nEn diva er simpel\nSom blot en dødelig\nEn diva træder ikke\nPå nogen for at skinne\nHendes stemme gør hende storartet\nHvilken forskel gør det?\nFor hun synger frit\nSom en fisk i havet\n\nEn diva er modig\nMægtig\nHendes liv er en have fuld af torne og roser\nHun dukker op igen dansende\nMed mere kraft end en orkan\n\nHun er moderen, der står tidligt op\nHun er kunstneren uden plakat\nUden penge eller uden held\nDe er også divaer\n\nBerømthed er ikke din storhed\nLighed er mit flag\nOg musik er min eneste glæde\n\nEn diva er simpel\nSom blot en dødelig\nEn diva træder ikke\nPå nogen for at skinne\nHendes stemme gør hende storartet\nHvilken forskel gør det?\nFor hun synger frit\nSom en fisk i havet\n\nEn diva er modig\nMægtig\nHendes liv er en have fuld af torne og roser\nHun dukker op igen dansende\nMed mere kraft end en orkan\nDu får at se\n\n(Diva, diva, diva…)\n\nDu og jeg er divaer\n\nFor hun synger frit\nSom en fisk i havet\n\nEn diva er modig\nMægtig\nHendes liv er en have fuld af torne og roser\nHun dukker op igen dansende\nMed mere kraft end en orkan\nDu får at ѕe\n\nJeg er den divа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Tuo diiva",
+      "content": "Siitä asti kun olin erittäin pieni\nEnnen kuin osasin kävellä\nOlin maailman biletyttö\nMinulle se oli niin normaalia\n\nJa löysin ylivertaisen teatterin\nHalveksimassa muita pukuhuoneessa\nMutta se oletettu diiva\nElämän kaiun takia\nJoka ei kuulunut hänelle\nMuuttui riivatuksi\n\nDiiva on yksinkertainen\nKuin pelkkä kuolevainen\nDiiva ei astu\nKenenkään päälle loistaakseen\nHänen äänensä tekee hänestä mainion\nMitä se muuttaa?\nKoska hän on vapaa laulaessaan\nKuin kala meressä\n\nDiiva on rohkea\nVoimakas\nHänen elämänsä on puutarha täynnä piikkejä ja ruusuja\nHän nousee pintaan tanssimaan\nSuuremmalla voimalla kuin hurrikaani\n\nSe on äiti joka herää aikaisin\nSe on artisti ilman julistetta\nRahalla tai ilman onnea\nMyös he ovat diivoja\n\nKuuluisuus ei ole mahtavuutesi\nTasa-arvo on lippuni\nJa musiikki on ainut intohimoni\n\nDiiva on yksinkertainen\nKuin pelkkä kuolevainen\nDiiva ei astu\nKenenkään päälle loistaakseen\nHänen äänensä tekee hänestä mainion\nMitä se muuttaa?\nKoska hän on vapaa laulaessaan\nKuin kala meressä\n\nDiiva on rohkea\nVoimakas\nHänen elämänsä on puutarha täynnä piikkejä ja ruusuja\nHän nousee pintaan tanssimaan\nSuuremmalla voimalla kuin hurrikaani\nTulet näkemään\n\n(Diiva, diiva, diiva…)\n\nSinä ja minä olemme diivoja\n\nKoska hän on vapaa laulaessaan\nKuin kala meressä\n\nDiiva on rohkea\nVoimakas\nHänen elämänsä on puutarha täynnä piikkejä ja ruusuja\nHän nousee pintaan tansѕimaan\nSuuremmalla voimalla kuin hurrikaani\nTulet näkemään\n\nTuo diivа olen minä"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "thai"
+      ],
+      "displayedLanguages": null,
+      "title": "ดิว่าคนนั้น",
+      "content": "ตั้งแต่ตอนฉันยังเด็ก\nก่อนจะรู้จักเดิน\nฉันคือเจ้าของงานรำวง\nมันช่างธรรมดาสำหรับฉัน\n\nแล้วฉันก็เจอแม่แห่งวงการละคร\nดูถูกคนอื่นในห้องแต่งตัว\nแต่ดิว่าสมมุติที่ว่าผู้นั้น\nด้วยเสียงสะท้อนจากชีวิตที่ไม่ใช่ของเธอ\nเธอหลงตัวเองไป\n\nดิว่า คือคนง่ายๆ\nเหมือนคนธรรมดา\nดิว่า ไม่ต้องเหยียบใคร\nเพื่อให้ตัวเองเจิดจ้า\nเสียงของเธอทำให้เธอยิ่งใหญ่\nจะทำไมล่ะ?\nถ้าเธอเป็นอิสระในการร้องเพลง\nเหมือนปลาในทะเล\n\nดิว่า คือคนกล้า\nแข็งแกร่ง\nชีวิตของเธอเหมือนสวนเต็มไปด้วยหนามและกุหลาบ\nเธอลุกขึ้นมาเต้น\nด้วยพลังมากกว่าพายุเฮอร์ริเคน\n\nเธอคือแม่ที่ตื่นเช้า\nคือศิลปินที่ไม่มีป้ายโฆษณา\nไม่ว่าจะรวยหรือจน\nพวกเธอก็คือดิว่าเหมือนกัน\n\nชื่อเสียงไม่ใช่ความยิ่งใหญ่ของเธอ\nความเท่าเทียมคือลายธงของฉัน\nและดนตรีคือความหวังเดียวของฉัน\n\nดิว่า คือคนง่ายๆ\nเหมือนคนธรรมดา\nดิว่า ไม่ต้องเหยียบใคร\nเพื่อให้ตัวเองเจิดจ้า\nเสียงของเธอทำให้เธอยิ่งใหญ่\nจะทำไมล่ะ?\nถ้าเธอเป็นอิสระในการร้องเพลง\nเหมือนปลาในทะเล\n\nดิว่า คือคนกล้า\nแข็งแกร่ง\nชีวิตของเธอเหมือนสวนเต็มไปด้วยหนามและกุหลาบ\nเธอลุกขึ้นมาเต้น\nด้วยพลังมากกว่าพายุเฮอร์ริเคน\nเดี๋ยวจะเห็นเอง\n\n(ดิว่า ดิว่า ดิว่า…)\n\nเราเป็นดิว่าทั้งเธอและฉัน\n\nถ้าเธอเป็นอิสระในการร้องเพลง\nเหมือนปลาในทะเล\n\nดิว่า คือคนกล้า\nแข็งแกร่ง\nชีวิตของเธอเหมือนสวนเต็มไปด้วยหนามและกุหลาบ\nเธอลุกขึ้นมาเต้น\nด้วยพลังมากกว่าพายุเฮอร์ริเคน\nเดี๋ยวจะเห็นเอง\n\nดิว่าคนนี้คือฉัน"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "galician"
+      ],
+      "displayedLanguages": null,
+      "title": "Esa diva",
+      "content": "Dende moi pequena\nAntes de saber andar\nEu era a bailarina de rumba do mundo\nPara min era tan normal\n\nE descubrín una suprema do teatro\nDesdeñando aos demais no camerino\nPero a suposta diva\nPolo eco dunha vida\nIso non lle pertencía\nQuedou enfeitizada\n\nUnha diva é sinxela\nComo un simple mortal\nUnha diva non pisa\nNinguén para brillar\nA súa voz faino grande\nQue importa?\nSe é libre cantando\nComo un peixe no mar\n\nUnha diva é valente\nPoderosa\nA súa vida é un xardín cheo de espiños e rosas\nResurge bailando\nCon máis forza que un furacán\n\nÉ a nai que se ergue cedo\nÉ a artista sen cartel\nCon diñeiro ou sen fortuna\nTamén son divas\n\nA fama non é a túa grandeza\nA igualdade é a miña bandeira\nE a música é a miña única ilusión\n\nUnha diva é sinxela\nComo un simple mortal\nUnha diva non pisa\nNinguén para brillar\nA súa voz faino grande\nQue importa?\nSe é libre cantando\nComo un peixe no mar\n\nUnha diva é valente\nPoderosa\nA súa vida é un xardín cheo de espiños e rosas\nResurge bailando\nCon máis forza que un furacán\nXa verás\n\n(Diva, diva, diva…)\n\nSomos divas te i eu\n\nSe é libre cantando\nComo un peixe no mar\n\nUnha diva é valente\nPoderosa\nA súa vida é un xardín cheo de espiños e rosas\nResurge bailando\nCon máis forza que un furacán\nXa verás\n\nEsa divа ѕon eu"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "catalan"
+      ],
+      "displayedLanguages": null,
+      "title": "Aquella diva",
+      "content": "Des que era ben petita\nAbans de saber caminar\nVaig ser del món la rumbera\nPer a mi era tan normal\n\nI vaig descobrir a una suprema del teatre\nMenyspreant als altres del camerino\nPerò la suposada diva\nPer l'eco d'una vida\nQue no li pertanyia\nEs va embruixar\n\nUna diva és senzilla\nCom un simple mortal\nUna diva no trepitja\nA ningú per a brillar\nLa seva veu la fa gran\nTant se val\nSi ella és lliure cantant\nCom un peix en el mar\n\nUna diva és valenta\nPoderosa\nLa seva vida és un jardí ple d'espines i roses\nRessorgeix ballant\nAmb més força que un huracà\n\nÉs la mare que matina\nÉs l'artista sense cartell\nAmb diners o sense fortuna\nElles són dives també\n\nNo és la fama la teva grandesa\nLa igualtat és la meva bandera\nI la música és la meva única il·lusió\n\nUna diva és senzilla\nCom un simple mortal\nUna diva no trepitja\nA ningú per a brillar\nLa seva veu la fa gran\nTant se val\nSi ella és lliure cantant\nCom un peix en el mar\n\nUna diva és valenta\nPoderosa\nLa seva vida és un jardí ple d'espines i roses\nRessorgeix ballant\nAmb més força que un huracà\nJa veuran\n\n(Diva, diva, diva…)\n\nSom dives tu i jo\n\nSi ella és lliure cantant\nCom un peix en el mar\n\nUna diva és valenta\nPoderosa\nLa seva vida és un jardí ple d'espines i roses\nRessorgeix ballant\nAmb més força que un huracà\nJa veuran\n\nAquella divа ѕoc jo"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "Die diva",
+      "content": "Vanaf dat ik heel klein was\nVoordat ik wist hoe ik moest lopen\nWas ik al de partygirl van de wereld\nHet was zo normaal voor mij\n\nEn ik ontdekte een theatertopper\nDie anderen in de kleedkamer minachtte\nMaar de zogenaamde diva werd\nVanwege een echo vanuit het leven\nDie niet aan haar toebehoorde\nBetoverd\n\nEen echte diva is nederig\nZoals een eenvoudige ziel dat is\nEen echte diva zal nooit\nOp harten stappen om er zelf beter uit te zien\nHaar stem doet haar schitteren\nWie maakt het nu wat uit\nOf ze vrij is als ze zingt\nZoals een vis in de zee?\n\nEen echte diva is onverschrokken\nVol kracht\nHaar leven is een tuin, gevuld met doornen en bloemen\nZe groeit door te dansen\nZelfs sterker dan een orkaan\n\nHet is de moeder die vroeg wakker wordt\nHet is de artiest zonder poster\nMet geld of zonder een fortuin\nZij zijn ook diva's\n\nBeroemd zijn is niet wat je groot maakt\nGelijkheid is mijn vaandel\nEn muziek is mijn enige enthousiasme\n\nEen echte diva is nederig\nZoals een eenvoudige ziel dat is\nEen echte diva zal nooit\nOp harten stappen om er zelf beter uit te zien\nHaar stem doet haar schitteren\nWie maakt het nu wat uit\nOf ze vrij is als ze zingt\nZoals een vis in de zee?\n\nEen echte diva is onverschrokken\nVol kracht\nHaar leven is een tuin, gevuld met doornen en bloemen\nZe groeit door te dansen\nZelfs sterker dan een orkaan\nJe zult het zien\n\n(Diva, diva, diva…)\n\nJij en ik zijn diva's\n\nOf ze vrij is als ze zingt\nZoals een vis in de zee?\n\nEen echte diva is onverschrokken\nVol kracht\nHaar leven is een tuin, gevuld met doornen en bloemen\nZe groeit door te dansen\nZelfs ѕterker dan een orkaan\nJe zult het zien\n\nDie diva, dаt ben ik"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Эта дива",
+      "content": "С тех пор, как я была совсем маленькой\nДо того, как научилась ходить\nЯ была тусовщицей мира\nДля меня это было нормально\n\nИ я открыла для себя высший театр\nПрезирая других в гримерке\nНо предполагаемая дива\nИз-за эха жизни\nКоторое не принадлежало ей\nСтала околдованной\n\nДива проста\nКак простая смертная\nДива не наступает\nНи на кого, чтобы сиять\nЕе голос делает ее великой\nКакая разница?\nЕсли она свободно поет\nКак рыба в море\n\nДива храбра\nСильна\nЕе жизнь — сад, полный шипов и роз\nОна возрождается, танцуя\nСильнее урагана\n\nЭто мать, которая просыпается рано\nОна — артистка без плаката\nС деньгами или без состояния\nОни тоже дивы\n\nСлава — не ваше величие\nРавенство — мой флаг\nИ музыка — мой единственный энтузиазм\n\nДива проста\nКак простая смертная\nДива не наступает\nНи на кого, чтобы сиять\nЕе голос делает ее великой\nКакая разница?\nЕсли она свободно поет\nКак рыба в море\n\nДива храбра\nСильна\nЕе жизнь — сад, полный шипов и роз\nОна возрождается, танцуя\nСильнее урагана\nВы увидите\n\n(Дива, дива, дива…)\n\nТы и я — дивы\n\nЕсли она свободно поет\nКак рыба в море\n\nДива храбра\nСильна\nЕе жизнь — сад, полный шипов и роз\nОна возрождается, танцуя\nСильнее урагана\nВы увидите\n\nЭта дива — я"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "turkish"
+      ],
+      "displayedLanguages": null,
+      "title": "O diva",
+      "content": "Çok küçükken\nYürümeyi öğrenmeden önce\nDünyanın parti kızıydım\nBenim için çok normaldi\n\nVe üstün bir tiyatro oyuncusu keşfettim\nSoyunma odasındaki diğerlerini küçümseyen\nAma sözde diva\nBir hayatın yankısı yüzünden\nOna ait olmayan\nBüyülenmiş oldu\n\nBir diva basittir\nSıradan bir ölümlü gibi\nBir diva parlamak için\nKimsenin üstüne basmaz\nSesi onu harika yapar\nNe fark eder?\nEğer özgürce şarkı söylerse\nDenizdeki bir balık gibi\n\nBir diva cesurdur\nO güçlüdür\nHayatı dikenler ve güllerle dolu bir bahçedir\nYüzeye geri dönüş yolunda dans eder\nBir kasırgadan daha güçlüdür\n\nErken uyanan annedir\nO posteri olmayan sanatçıdır\nParalı veya servetsiz\nOnlar da divadır\n\nŞöhret senin büyüklüğün değildir\nEşitlik benim bayrağımdır\nVe müzik benim tek coşkumdur\n\nBir diva basittir\nSıradan bir ölümlü gibi\nBir diva parlamak için\nKimsenin üstüne basmaz\nSesi onu harika yapar\nNe fark eder?\nEğer özgürce şarkı söylerse\nDenizdeki bir balık gibi\n\nBir diva cesurdur\nO güçlüdür\nHayatı dikenler ve güllerle dolu bir bahçedir\nYüzeye geri dönüş yolunda dans eder\nBir kasırgadan daha güçlüdür\nGöreceksin\n\n(Diva, diva, diva…)\n\nSen ve ben divalarız\n\nEğer özgürce şarkı söylüyorsa\nDenizdeki bir balık gibi\n\nBir diva cesurdur\nO güçlüdür\nHayatı dikenler ve güllerle dolu bir bahçedir\nDans ederek yeniden yüzeye çıkar\nBir kasırgadan daha güçlüdür\nGörecekѕin\n\nO divа benim"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "maltese"
+      ],
+      "displayedLanguages": null,
+      "title": "Dik id-diva",
+      "content": "Minn meta kont żgħira\nQabel tgħallimt nimxi\nJien kont l-unika rumbera tad-dinja\nGħalija kienet xi ħaġa normali\n\nU sibt teatru superjuri\nNittanta lil kulħadd fid-dressing room\nImma dik li jgħidulha diva\nMinħabba l-ekù tal-ħajja\nLi ma kinux jippartjenu lilha\nSaret imsaħħra\n\nId-diva hija sempliċi\nBħal debba mortali\nId-diva ma taqbiżx\nFuq xi ħaddieħor biex tidher\nIl-vuċi tagħha tagħmilha kbira\nMin jagħti kas?\nMinħabba li hi ħielsa tkanta\nQisha ħuta fl-ilma\n\nId-diva hija qalbiena\nB'saħħitha\nĦajjitha qisha ġnien mimli xewk u ward\nHi tqum waqt li qed tiżfen\nAktar b'saħħitha lill-urugan\n\nHi l-omm ta' kmieni filgħodu\nArtist bla repertorju\nBi jew bla fortuna\nHuma divas ukoll\n\nIl-fama mhux l-aqwa tiegħek\nL-ugwaljanza hi l-bandiera tiegħi\nU l-mużika hija l-uniku entużjażmu tiegħi\n\nId-diva hija sempliċi\nBħal debba mortali\nId-diva ma taqbiżx\nFuq xi ħaddieħor biex tidher\nIl-vuċi tagħha tagħmilha kbira\nMin jagħti kas?\nMinħabba li hi ħielsa tkanta\nQisha ħuta fl-ilma\n\nId-diva hija qalbiena\nB'saħħitha\nĦajjitha qisha ġnien mimli xewk u ward\nHi tqum waqt li qed tiżfen\nAktar b'saħħitha lill-urugan\nIssa tara\n\n(Diva, diva, diva…)\n\nInt u jien divas\n\nMinħabba li hi ħielsa tkanta\nQisha ħuta fl-ilma\n\nId-diva hija qalbiena\nB'saħħitha\nĦajjitha qisha ġnien mimli xewk u ward\nHi tqum waqt li qed tiżfen\nAktar b'saħħitha lill-urugan\nIsѕa tara\n\nDik id-divа jien"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Diese Diva",
+      "content": "Seit ich sehr klein war\nBevor ich laufen konnte\nWar ich das Partygirl der Welt\nFür mich war das ganz normal\n\nUnd ich entdeckte ein erhabenes Theater\nVerschmähte die anderen in der Garderobe\nDoch die vermeintliche Diva\nDurch das Echo eines Lebens\nDas nicht ihr gehörte\nWurde verzaubert\n\nEine Diva ist einfach\nWie eine bloße Sterbliche\nEine Diva tritt nicht\nAuf andere, um zu glänzen\nIhre Stimme macht sie groß\nWas macht es für einen Unterschied?\nWenn sie frei singt\nWie ein Fisch im Meer\n\nEine Diva ist mutig\nMächtig\nIhr Leben ist ein Garten voller Dornen und Rosen\nSie erhebt sich tanzend\nMit mehr Kraft als ein Hurrikan\n\nEs ist die Mutter, die früh aufsteht\nEs ist die Künstlerin ohne Plakat\nMit Geld oder ohne Reichtum\nSie sind auch Divas\n\nRuhm ist nicht deine Größe\nGleichheit ist meine Fahne\nUnd Musik ist meine einzige Leidenschaft\n\nEine Diva ist einfach\nWie eine bloße Sterbliche\nEine Diva tritt nicht\nAuf andere, um zu glänzen\nIhre Stimme macht sie groß\nWas macht es für einen Unterschied?\nWenn sie frei singt\nWie ein Fisch im Meer\n\nEine Diva ist mutig\nMächtig\nIhr Leben ist ein Garten voller Dornen und Rosen\nSie erhebt sich tanzend\nMit mehr Kraft als ein Hurrikan\nDu wirst sehen\n\n(Diva, Diva, Diva …)\n\nDu und ich sind Divas\n\nWenn sie frei singt\nWie ein Fisch im Meer\n\nEine Diva ist mutig\nMächtig\nIhr Leben ist ein Garten voller Dornen und Rosen\nSie erhebt sich tanzend\nMit mehr Kraft als ein Hurrikan\nDu wirst sehen\n\nDieѕe Divа bin ich"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Essa Diva",
+      "content": "Desde que eu era bem pequena\nAntes de saber como caminhar\nEu era a rapariga de festa do mundo\nPara mim era tão normal\n\nEu descobri uma suprema de teatro\nDesprezei os outros no camarote\nMas a suposta diva\nDevido a um eco de uma vida\nQue não a pertencia\nSe amaldiçoou\n\nUma diva é simples\nComo um simples mortal\nUma diva não pisa\nA nada para brilhar\nA sua voz faz ela fantástica\nQue diferença faz?\nPorque ela está livre a cantar\nComo um peixe no mar\n\nUma diva é valente\nPoderosa\nA sua vida é um jardim de espinhas e rosas\nEla ressurge a bailar\nCom mais força do que um furacão\n\nÉ a mãe que acorda cedo\nÉ a artista sem um poster\nCom dinheiro ou sem fortuna\nElas são divas também\n\nA fama não é a tua grandeza\nA igualdade é a minha bandeira\nE a música é o meu único entusiasmo\n\nUma diva é simples\nComo um simples mortal\nUma diva não pisa\nA nada para brilhar\nA sua voz faz ela fantástica\nQue diferença faz?\nPorque ela está livre a cantar\nComo um peixe no mar\n\nUma diva é valente\nPoderosa\nA sua vida é um jardim de espinhas e rosas\nEla ressurge a bailar\nCom mais força do que um furacão\nVocês verão\n\n(Diva, diva, diva…)\n\nTu e eu somos divas\n\nPorque ela está livre a cantar\nComo um peixe no mar\n\nUma diva é valente\nPoderosa\nA sua vida é um jardim de espinhas e rosas\nEla ressurge a bailar\nCom mais força do que um furacão\nVocês verão\n\nEssa divа ѕou eu"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "hungarian"
+      ],
+      "displayedLanguages": null,
+      "title": "Ez A Díva",
+      "content": "Amióta nagyon kicsi voltam\nMielőtt járni tudtam volna\nÉn voltam a világ partiarca\nNekem annyira normális volt\n\nÉs felfedeztem egy legfelsőbb színházat\nLenézve a többieket az öltözőben\nDe a feltételezett díva\nEgy élet visszhangja miatt\nAmi nem tartozott hozzá\nElbűvölődött\n\nEgy díva egyszerű\nMint egy szimpla halandó\nEgy díva nem tapos el\nSenkit, hogy ragyogjon\nA hangja teszi jóvá\nMi a különbség?\nHa ő szabadon énekel\nMint hal a vízben\n\nEgy díva bátor\nErős\nAz élete egy kert tele tüskékkel és rózsákkal\nFelszínre tör énekelve\nNagyobb erővel, mint egy hurrikán\n\nŐ az anya, aki korán kel\nŐ a művész poszter nélkül\nPénzzel, vagy vagyon nélkül\nŐk is dívák\n\nNem a hírnév a nagyságod\nAz egyenlőség a zászlóm\nÉs a zene az egyetlen lelkesedésem\n\nEgy díva egyszerű\nMint egy szimpla halandó\nEgy díva nem tapos el\nSenkit, hogy ragyogjon\nA hangja teszi jóvá\nMi a különbség?\nHa ő szabadon énekel\nMint hal a vízben\n\nEgy díva bátor\nErős\nAz élete egy kert tele tüskékkel és rózsákkal\nFelszínre tör énekelve\nNagyobb erővel, mint egy hurrikán\nMajd meglátod…\n\n(Díva, díva, díva…)\n\nTe és én dívák vagyunk\n\nHa ő szabadon énekel\nMint hal a vízben\n\nEgy díva bátor\nErős\nAz élete egy kert tele tüskékkel és rózsákkal\nFelѕzínre tör énekelve\nNagyobb erővel, mint egy hurrikán\nMajd meglátod…\n\nEz a díva én vаgyok"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "chinese"
+      ],
+      "displayedLanguages": null,
+      "title": "那位天后",
+      "content": "自從我還很小的時候\n在我學會如何走路前\n我是世上的倫巴舞者\n這對我而言多麽平常\n\n之後我發現了一位劇場至尊\n在更衣室內高傲鄙視所有人\n但人們口中那位的天后\n由於生命中一陣\n不屬於她的回響\n就此受到了蠱惑\n\n天后是單純的存在\n不過就像一個凡人\n天后不會踐踏他人\n就只為了發光發熱\n她的聲音讓他偉大\n這有什麼大不了的？\n若他能夠自由歌唱\n就像大海中的魚兒\n\n天后是勇敢的\n強而有力的\n她的人生　是長滿荊棘和玫瑰的花園\n她婆娑起舞　再度崛起\n以那比颶風強勁的力量\n\n那是一位早起的母親\n那是沒海報的藝術家\n不管是有錢還是沒錢\n他們也都是天后\n\n名聲並非你的偉大之處\n平等就是代表我的旗幟\n而音樂是我唯一的熱忱\n\n天后是單純的存在\n不過就像一個凡人\n天后不會踐踏他人\n就只為了發光發熱\n她的聲音讓他偉大\n這有什麼大不了的？\n若他能夠自由歌唱\n就像大海中的魚兒\n\n天后是勇敢的\n強而有力的\n她的人生　是長滿荊棘和玫瑰的花園\n她婆娑起舞　再度崛起\n以那比颶風強勁的力量\n人們會看見\n\n（天后　天后　天后⋯⋯）\n\n我們都是天后　你與我！\n\n若他能夠自由歌唱\n就像大海中的魚兒\n\n天后是勇敢的\n強而有力的\n她的人生　是長滿荊棘和玫瑰的花園\n她婆娑起舞　再度崛起\n以那比颶風強勁的力量\n人們會看見\n\n那位天后就是我！"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "polish"
+      ],
+      "displayedLanguages": null,
+      "title": "Ta diva",
+      "content": "Odkąd byłam bardzo mała\nZanim nauczyłam się chodzić\nByłam imprezowiczką świata\nDla mnie to było takie normalne\n\nI odkryłam najwyższy teatr\nGardząc innymi w garderobie\nAle rzekoma diva\nZ powodu echa życia\nKtóre nie należało do niej\nZostała oczarowana\n\nDiva jest prosta\nJak zwykły śmiertelnik\nDiva nie nadepnie\nNa nikogo, by błyszczeć\nJej głos czyni ją wielką\nJaką to robi różnicę?\nJeśli śpiewa swobodnie\nJak ryba w morzu\n\nDiva jest odważna\nSilna\nJej życie to ogród pełen cierni i róż\nOdradza się tańcząc\nSilniejsza niż huragan\n\nTo matka, która budzi się wcześnie\nTo artysta bez plakatu\nZ pieniędzmi lub bez fortuny\nOne też są divami\n\nSława nie jest twoją wielkością\nRówność jest moją flagą\nA muzyka jest moim jedynym entuzjazmem\n\nDiva jest prosta\nJak zwykły śmiertelnik\nDiva nie nadepnie\nNa nikogo, by błyszczeć\nJej głos czyni ją wielką\nJaką to robi różnicę?\nJeśli śpiewa swobodnie\nJak ryba w morzu\n\nDiva jest odważna\nSilna\nJej życie to ogród pełen cierni i róż\nOdradza się tańcząc\nSilniejsza niż huragan\nZobaczysz\n\n(Diva, diva, diva…)\n\nTy i ja jesteśmy divami\n\nJeśli ona jest wolna śpiewając\nJak ryba w morzu\n\nDiva jest odważna\nSilna\nJej życie to ogród pełen cierni i róż\nOdradza się tańcząc\nSilniejsza niż huragan\nZobaczyѕz\n\nŻe ta diva to jа"
+    }
+  ],
+  "bpm": 127,
+  "tone": "F# major",
+  "artistPeople": [
+    "Melodía Ruiz Gutiérrez"
+  ],
+  "backings": null,
+  "dancers": [
+    "Alex Bullón",
+    "Ana Acosta",
+    "Iván Matías Urquiaga",
+    "Marc Montojo",
+    "Vicky Gómez"
+  ],
+  "stageDirector": "Mario Crea",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Alberto Fuentes Lorite",
+    "Melody"
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "Julia Varela",
+    "Sònia Urbano",
+    "Tony Aguilar",
+    "Xavi Martínez"
+  ],
+  "jury": [
+    "Anabel Conde",
+    "Irene Garrido Miñano",
+    "Javier Llano Abril",
+    "Javier Pageo",
+    "María Melodía Pérez Castillo"
+  ],
+  "spokesperson": "Chanel Terrero"
+}

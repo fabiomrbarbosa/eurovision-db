@@ -1,0 +1,68 @@
+{
+  "id": 2,
+  "country": "BA",
+  "artist": "Hari Mata Hari",
+  "song": "Lejla",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/SXlIN3mcsH4",
+    "https://www.youtube-nocookie.com/embed/bl36fPvl3k0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "bosnian"
+      ],
+      "displayedLanguages": null,
+      "title": "Lejla",
+      "content": "Niz polje vjetar miriše\nI bol me prati kao sjena\nDa l' negdje za mnom uzdišeš?\nGdje si od mene sakrivena?\n\nU kosu stavi ruzmarin\nI jedan cvijet kraj šadrvana\nLejla, zar bi mogla ti drugog voljeti?\n\nAko te sutra zaprose\nZnaj tamo neću biti ja\nLako se tuge oproste\nAl' samo ljubav nikada\n\nZar bi mogla ti drugog voljeti?\n\nGolube, moj golube\nNosi joj suze mjesto pjesme\nJa odlazim k'o da sam kriv\nŠto voljeh onu koju ne smijem\n\nGolube, moj golube\nNosi joj suze mjesto pjesme\nOdlazim k'o da sam kriv\nŠto voljeh tebe koju ne ѕmijem\n\nŠto voljeh tebe, Lejlа\n(Golube, moj golube)"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Lejla",
+      "content": "Down a field, a scent of wind\nAnd pain follows me like a shadow\nAre you sighing after me somewhere?\nWhere are you hidden from me?\n\nPlace rosemary in your hair\nAnd a flower from an old fountain\nLayla, could you love another?\n\nIf they propose to you tomorrow\nKnow that I won't be there\nSorrows are easily forgiven\nBut only love never is\n\nCould you love another?\n\nDove, my dove\nBring her tears instead of a song\nI'm leaving, as if guilty\nFor loving who I'm not allowed\n\nDove, my dove\nBring her tears instead of a song\nI'm leaving, aѕ if guilty\nFor loving you who I'm not allowed\n\nFor loving you, Lejlа\n(Dove, my dove)"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Lejla",
+      "content": "Laggiù nel campo, un odore di vento\nE il dolore mi segue come un'ombra\nStai sospirando dietro di me da qualche parte?\nDove sei nascosta da me?\n\nMettiti un rosmarino nei capelli\nE un fiore della vecchia fontana\nLejla, potresti amare un altro?\n\nSe domani si dichiara a te\nSappi che non ci sarò\nLe sofferenze sono facilmente perdonabili\nMa l'amore non lo è mai\n\nPotresti amare un altro?\n\nColomba, mia colomba\nPortale lacrime al posto di una canzone\nMe ne vado, come se colpevole\nDi amare chi non posso\n\nColomba, mia colomba\nPortale lacrime al posto di una canzone\nMe ne vado, come se colpevole\nDi amarti, che non posѕo\n\nDi amarti, Lejlа"
+    }
+  ],
+  "bpm": 91,
+  "tone": "F# minor",
+  "artistPeople": [
+    "Hajrudin Varešanović",
+    "Izudin 'Izo' Kolečić",
+    "Karlo Martinović",
+    "Nihad Voloder"
+  ],
+  "backings": [
+    "Ivana Čabraja",
+    "Ksenija Milošević"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Željko Joksimović"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Dejan Ivanović",
+    "Fahrudin Pecikoza-Peca"
+  ],
+  "writers": null,
+  "broadcaster": "BHRT",
+  "commentators": [
+    "Dejan Kukrić"
+  ],
+  "jury": null,
+  "spokesperson": "Vesna Andrée-Zaimović"
+}

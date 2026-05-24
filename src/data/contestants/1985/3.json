@@ -1,0 +1,46 @@
+{
+  "id": 3,
+  "country": "GB",
+  "artist": "Vikki",
+  "song": "Love Is...",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/i2fGW93FZxI",
+    "https://www.youtube-nocookie.com/embed/ew3dYkOr1bU",
+    "https://www.youtube-nocookie.com/embed/IMMws6lhZyE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Love Is...",
+      "content": "It's been a pleasant evening\nNow she says she's leaving\nAnd he's too proud to say out loud\nOh baby, won't you stay?\n\nNow she says she'll call him\nShe finds herself fallin'\nWhen he reaches out and touches her hand\nShe turns to walk away\n'Cause there's always a weak one\nAlways a strong one, who'll be the first to fall?\n\nLove is the danger of meeting a stranger\nAnd takin' a chance on two hearts makin' it\nLove is the fire, the burnin' desire\nThat makes the world go round\nLove is the feelin' that makes you believe in\nTakin' a chance on two hearts beatin' as one\nThat's what love is\n\nStill she's hesitating\nIs the ice worth breaking?\nShould she hold back or rush right in\nWhere angels fear to tread?\n'Cause there's always a weak one\nAlways a strong one, who'll be the first to fall?\n\nLove is the danger of meeting a stranger\nAnd takin' a chance on two hearts makin' it\nLove is the fire, the burnin' desire\nThat makes the world go round\nLove is the feelin' that makes you believe in\nTakin' a chance on two hearts beatin' as one\nThat's what love is, hoh…\n\nLove is the danger of meeting a stranger\nAnd takin' a chance on two hearts makin' it\nLove is the fire, the burnin' desire\nThat makes the world go round\nLove is the feelin' that makes you believe in\nTakin' a chance\n\nLove is the danger of meeting a stranger\nAnd takin' a chance on two hearts makin' it\nLove is the fire, the burnin' desire\nThat makes the world go round\nLove is the feelin' that makes you believe in\nTakin' a chance\n\nLove is the danger of meeting a stranger\nAnd takin' a chance on two hearts makin' it\nLove is the fire, the burnin' desire\nThat mаkeѕ the world go round"
+    }
+  ],
+  "bpm": 182,
+  "tone": "D minor",
+  "artistPeople": [
+    "Victoria Watson"
+  ],
+  "backings": [
+    "Sue Glover",
+    "Sunny Leslie"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "John Coleman",
+  "lyricists": null,
+  "writers": [
+    "James Kaleth",
+    "Vikki Watson"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Terry Wogan"
+  ],
+  "jury": null,
+  "spokesperson": "Colin Berry"
+}

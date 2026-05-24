@@ -1,0 +1,54 @@
+{
+  "id": 22,
+  "country": "MT",
+  "artist": "Firelight",
+  "song": "Coming Home",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/E_hT08vzHt8",
+    "https://www.youtube-nocookie.com/embed/Qxi5C-lGX2Y",
+    "https://www.youtube-nocookie.com/embed/mXY0imG1SzQ",
+    "https://www.youtube-nocookie.com/embed/z-tQJoddqxo"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Coming Home",
+      "content": "Freedom of life, I will express my soul\nLook me in the eye and electrify my bones\nI ain't gonna leave until you know my name\nStepping out of the shell, now don't you step in my way\nBuild another wall and watch it crumble by your side\n\nI'm coming home\n\nI'm not holding back, no, I ain't wasting time\nIf you want me near then you must come for the ride\nIf your sky will fall, I'll shelter you from the rain\nThere's not a cloud in the sky that can come in the way\nRoaming through fields, I'm trying to find this new land\nIt's only because I'm here, I'm finding gold in my hands\n\nI'm coming home\nI'm coming home\n\nTrying to build up the words to say what you mean to me\nGonna open your eyes and let you know what I mean\n\nGonna take on this journey feel the light getting warm\nFind the strength I've been searching, keep the beat going strong\nKeep the gloves on for fighting, don't you knock on my door\nYeah, the spiritѕ alive, I'm on the roаd coming home\n\nI'm coming home\nI'm coming home\nI'm coming home\nI'm coming home"
+    }
+  ],
+  "bpm": 128,
+  "tone": "C# major",
+  "artistPeople": [
+    "Daniel Micallef",
+    "Leslie Decesare",
+    "Michelle Mifsud",
+    "Richard Edwards Micallef",
+    "Tony Polidano",
+    "Wayne William Micallef"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Richard Edwards Micallef"
+  ],
+  "broadcaster": "PBS",
+  "commentators": [
+    "Carlo Borg Bonaci"
+  ],
+  "jury": [
+    "Corazon Mizzi",
+    "Elton Zarb",
+    "Manolito Galea",
+    "Pamela Bezzina",
+    "Paul Abela"
+  ],
+  "spokesperson": "Valentina Rossi"
+}

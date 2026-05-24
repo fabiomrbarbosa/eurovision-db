@@ -1,0 +1,62 @@
+{
+  "id": 5,
+  "country": "NL",
+  "artist": "Ruth Jacott",
+  "song": "Vrede",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/r0p3DSR-cFA",
+    "https://www.youtube-nocookie.com/embed/-Sif8fZVf9s",
+    "https://www.youtube-nocookie.com/embed/YfhZ69OWoLo",
+    "https://www.youtube-nocookie.com/embed/qy0vT76pndg",
+    "https://www.youtube-nocookie.com/embed/yllV0ZcYNm4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "Vrede",
+      "content": "Zelfs de allerduurste auto kan niet zwemmen\nEn als het nat is, heeft ie moeite om te remmen\nDaarom is er met het asfalt iets gedaan\nWaardoor er nooit een druppel water op blijft staan\n\nWe weten allemaal dat goochelaars bedriegen\nEn dat geen mens waar ook ter wereld zelf kan vliegen\nDe ware reden dat het vliegtuig nu bestaat\nLigt in het feit dat zweven niet vanzelf gaat\n\nWe bouwen huizen om orkanen te weerstaan\nEn maken schepen om in elke storm te varen\nEr wordt gesleuteld aan een lamp die nooit kapot zal gaan\nHet wil alleen nog niet zo lukken om de vrede te bewaren\n(Te bewaren)\n\nElke nieuwe appelboom die wordt geboren\nHeeft van nature niet de oren om te horen\nMaar genetisch zullen wij hem dan wel leren\nOm smaak en kwaliteit te garanderen\n\nWe bouwen huizen om orkanen te weerstaan\nEn maken schepen om in elke storm te varen\nEr wordt gesleuteld aan een lamp die nooit kapot zal gaan\nHet wil alleen nog niet zo lukken om de vrede te bewaren\n\nAls geen brug te ver is\nKomt straks elke klok gelijk te staan\nAls geen weg te lang is\nWil straks geen mens een ander mens meer slaan\nWoh, oh…\n\nWe bouwen huizen om orkanen te weerstaan\nEn maken schepen om in elke storm te varen\nEr wordt geѕleuteld aan een lamp die nooit kapot kan gaan\nHet wil alleen nog niet zo lukken om de vrede te bewаren"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Peace",
+      "content": "Even the most expensive car can't swim\nAnd when it's wet, it has trouble braking\nThat's why something is done to the asphalt\nSo that no drop of water remains on it\n\nWe all know that magicians deceive\nAnd that no man on earth can fly by himself\nThe real reason why the airplane exists now\nIs the fact that gliding doesn't happen on its own\n\nWe build houses to withstand hurricanes\nAnd make ships to sail in every storm\nWe're working on a light bulb that never burns out\nIt only just won't work to keep peace\n(To keep)\n\nEach new apple tree that is born\nIsn't endowed by nature with ears to hear\nBut through genetics we'll manage to teach it\nTo guarantee taste and quality\n\nWe build houses to withstand hurricanes\nAnd make ships to sail in every storm\nWe're working on a light bulb that never burns out\nIt only just won't work to keep peace\n\nWhen no bridge is too far\nEvery clock will chime at the same hour\nWhen no road is too long\nNo man wants to hit another man ever again\nWoh, oh…\n\nWe build houses to withstand hurricanes\nAnd make ships to sail in every storm\nWe're working on a light bulb that never burns out\nIt only juѕt won't work to keep peаce"
+    }
+  ],
+  "bpm": 103,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Ruth Jacott"
+  ],
+  "backings": [
+    "Han van Eijk",
+    "Humphrey Campbell",
+    "Julya Loko",
+    "Pim Roos",
+    "Roq-E Harrell"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Eric van Tijn",
+    "Jochem Fluitsma"
+  ],
+  "conductor": "Harry van Hoof",
+  "lyricists": [
+    "Henk Westbroek"
+  ],
+  "writers": null,
+  "broadcaster": "NOS",
+  "commentators": [
+    "Willem van Beusekom"
+  ],
+  "jury": null,
+  "spokesperson": "Joop van Os"
+}

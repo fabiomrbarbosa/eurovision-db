@@ -1,0 +1,50 @@
+{
+  "id": 20,
+  "country": "DE",
+  "artist": "Corinna May",
+  "song": "I Can't Live Without Music",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ZDSd_T_Sthk",
+    "https://www.youtube-nocookie.com/embed/uqqG-nPLN34",
+    "https://www.youtube-nocookie.com/embed/i431XBz7Q34"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I can't live without music",
+      "content": "You're my song in the morning, you're the rhythm of my heartbeat at night\nAnd the sound of love I hear in your voice keeps on touching me deep inside\nYou are the air that I breathe and the gentle tune of whisperin' trees\nYou're the only melody that's in my soul and in my mind all the time\n\nI can't live without music, only you keep me goin' along\nI can't live without music and the power that's deep in your song\nYou're the one and only thing I couldn't do without\nMakes me wanna sing and dance and shout\n\nWe can't live without music, we can't live without music\nIt's a rainbow in the night, turns darkness into light\nIt's everything we really need\nWe can't live without music, and if ever we lose it\nThat's when everybody, just everybody, starts getting the blues\n(We can't live without music) 'cause it's freedom to me and to you\n\nSo let the music touch your heart in times when men are worlds apart\n'Cause only love can heal the dream that's hidden in our souls\nAnd hand in hand we'll walk along, we'll be united by a peaceful song\nAnd we'll live all together\n\n(We can't live without music, we can't live without music)\nI can't live without music, I can't live without music\nAnd if anybody, just anybody, is asking me why\nMusic makes me feel like flyin', giveѕ me hope when I'm а-cryin'\nI believe without it I would die"
+    }
+  ],
+  "bpm": 124,
+  "tone": "C major",
+  "artistPeople": [
+    "Corinna Meyer"
+  ],
+  "backings": [
+    "Dawn Schonherz",
+    "Filiz Aktepe",
+    "Kisha Parker",
+    "Nadine Kraft",
+    "Tulay Sanlav"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ralph Siegel"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Gunter Johansen"
+  ],
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Peter Urban"
+  ],
+  "jury": null,
+  "spokesperson": "Axel Bulthaupt"
+}

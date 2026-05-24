@@ -1,0 +1,68 @@
+{
+  "id": 18,
+  "country": "GR",
+  "artist": "Christos Callow & Wave",
+  "song": "Horis skopo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/1Cuw59kLtko",
+    "https://www.youtube-nocookie.com/embed/8x7ZSPsm8Fw",
+    "https://www.youtube-nocookie.com/embed/CLk_ssJiWLs"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ellinika"
+      ],
+      "title": "Horis skopo",
+      "content": "Kathe nihta pu horevo\nSe skies ke se skotathia akrovato\nMes t' asteria se yirevo\nKe sti musiki tu thromu se zito\n\nNa borusa na klepso to oniro su\nNa hatho ston pireto su\nOtan les to s' agapo\nKi otan fevgis horis skopo\n\nTosi thromi pligomeni\nToses portes thihos anthropo ke fos\nKapu tha' se xehasmeni\nKi ap' ton ithio to thiko su eafto\n\nNa borusa na klepso to oniro su\nNa hatho ston pireto su\nOtan les to s' agapo\nKi otan fevgis horis skopo\n\nAn boris na onireftis ti mera pu harazis ti siopi\nTote tha' se thinati, ton ilio n' andikrisis\nMa to xero tha thakrisis ma\n\nTha klepso to oniro su\nTha hatho ston pireto su\nOtan les to s' agapo\nKi otаn fevgis horis ѕkopo"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ελληνικά"
+      ],
+      "title": "Χωρίς σκοπό",
+      "content": "Καθε νύχτα που χορεύω\nΣε σκιές και σε σκοτάδια ακροβατώ\nΜες τ' αστέρια σε γυρεύω\nΚαι στη μουσική του δρόμου σε ζητώ\n\nΝα μπορούσα να κλέψω το όνειρό σου\nΝα χαθώ στον πυρετό σου\nΌταν λες το σ' αγαπώ\nΚι όταν φεύγεις χωρίς σκοπό\n\nΤόσοι δρόμοι πληγωμένοι\nΤόσες πόρτες δίχως άνθρωπο και φως\nΚάπου θά' σαι ξεχασμένη\nΚι απ' τον ίδιο το δικό σου εαυτό\n\nΝα μπορούσα να κλέψω το όνειρό σου\nΝα χαθώ στον πυρετό σου\nΌταν λες το σ' αγαπώ\nΚι όταν φεύγεις χωρίς σκοπό\n\nΑν μπορείς να ονειρευτείς τη μέρα που χαράζεις τη σιωπή\nΤότε θα' σαι δυνατή, τον ήλιο ν' αντικρύσεις\nΜα το ξέρω θα δακρύσεις μα\n\nΘα κλέψω το όνειρό σου\nΘα χαθώ στον πυρετό σου\nΌταν λες το σ' αγαπώ\nΚι όταν φεύγεις χωρίς σκοπό"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Without a purpose",
+      "content": "Every night I dance\nI wander in the shadows and darkness\nI am looking for you in the stars\nAnd in the street music\n\nIf I could only steal your dream\nAnd dive into your fever\nWhen you say I love you\nAnd when you go away without a purpose\n\nToo many roads hurt\nToo many doors without people and light\nYou must be somewhere\nForgotten even by yourself\n\nIf I could only steal your dream\nAnd dive into your fever\nWhen you say I love you\nAnd when you go away without a purpose\n\nIf you can dream the day that is coming in silence\nThen you will be strong enough to face the sun\nBut I know you will cry\n\nAnd then I will steal your dream\nAnd I will dive into your fever\nWhen you say I love you\nAnd when you go away without а purpoѕe"
+    }
+  ],
+  "bpm": 129,
+  "tone": "F major",
+  "artistPeople": [
+    "Christos Callow"
+  ],
+  "backings": [
+    "Fotini Savvatianou"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Yiorgos Palaiokastritis"
+  ],
+  "conductor": "Michalis Rozakis",
+  "lyricists": [
+    "Yiorgos Papayanakis"
+  ],
+  "writers": null,
+  "broadcaster": "ERT",
+  "commentators": [
+    "Dafni Bokota"
+  ],
+  "jury": null,
+  "spokesperson": "Fotini Giannoulatou"
+}

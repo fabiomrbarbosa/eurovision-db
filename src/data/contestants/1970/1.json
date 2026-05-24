@@ -1,0 +1,45 @@
+{
+  "id": 1,
+  "country": "GB",
+  "artist": "Mary Hopkin",
+  "song": "Knock, Knock (Who's There?)",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Kvo8pzEyxF4",
+    "https://www.youtube-nocookie.com/embed/ybdQbyKCO2s"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Knock, Knock (Who's There?)",
+      "content": "Tears of rain run down my window pane\nI'm on my own again, good evening, sorrow\nSit and dream of how things might have been\nAnd as I close my eyes, I get the strangest feeling\n\nKnock, knock, who's there?\nCould this be love that's calling?\nThe door is always open wide\nKnock, knock, who's there?\nNow as the night is falling\nTake off your coat and come inside\n\nClimb the stair and then I say a prayer\nFor someone who could share my situation\nBut instead as I lay down my head\nI have to leave it all to my imagination\n\nKnock, knock, who's there?\nCould this be love that's calling?\nThe door is always open wide\nKnock, knock, who's there?\nNow as the night is falling\nTake off your coat and come inside\n\nLa lala lalala la lala…\nLalala la lala lalala lala…\nLa lala lalala la lala…\nLalala la lala lalala lala…\n\nSit and dream of how things might have been\nAnd as I close my eyes, I get the strangest feeling\n\nKnock, knock, who's there?\nCould this be love that's calling?\nThe door is always open wide\nKnock, knock, who's there?\nNow as the night is falling\nTake off your coat and come inside\n\nTake off your coat аnd come inѕide"
+    }
+  ],
+  "bpm": 94,
+  "tone": "D major",
+  "artistPeople": [
+    "Mary Hopkin"
+  ],
+  "backings": [
+    "Brian Bennett",
+    "John Farrar"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Johnny Arthey",
+  "lyricists": null,
+  "writers": [
+    "Geoff Stephens",
+    "John Carter"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "David Gell"
+  ],
+  "jury": null,
+  "spokesperson": "Colin-Ward Lewis"
+}

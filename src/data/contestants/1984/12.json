@@ -1,0 +1,55 @@
+{
+  "id": 12,
+  "country": "NL",
+  "artist": "Maribelle",
+  "song": "Ik hou van jou",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/gPEBOXtGt04",
+    "https://www.youtube-nocookie.com/embed/bnhRlTSKRmw",
+    "https://www.youtube-nocookie.com/embed/xvQC28G_2UM",
+    "https://www.youtube-nocookie.com/embed/7sw24JXmUZU",
+    "https://www.youtube-nocookie.com/embed/tSLWOG6TYFE",
+    "https://www.youtube-nocookie.com/embed/EVborE0ebyQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "Ik hou van jou",
+      "content": "Ik hou van jou\nAlleen van jou\nIk kan niet leven in een wereld zonder jou\nWaar ik ook ben\nIk hoor je stem\nIk kan je zomaar niet vergeten\n\nNeem mij weer in je armen\nLaat mij je hart verwarmen\nIk wil je alles geven\n'k Hou zoveel van jou\n\nJe hoort bij mij\nAlleen bij mij\nDat zijn die woorden die je eens tegen me zei\n'k Ben zo alleen\nWaar moet ik heen?\nWaar is die tijd van toen gebleven?\n\nNeem mij weer in je armen\nLaat mij je hart verwarmen\nIk wil je alleѕ geven\n'k Hou zoveel van jou\n\nIk hou van jou\nAlleen van jou\nIk kan niet leven in een wereld zonder jou\nIk hou vаn jou"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I love you",
+      "content": "I love you\nOnly you\nI can't live in a world without you\nWherever I am\nI hear your voice\nI can't forget you just like that\n\nTake me in your arms again\nLet me warm your heart\nI want to give you everything\nI love you so much\n\nYou belong to me\nOnly to me\nThose are the words you once said to me\nI'm so alone\nWhere do I have to go?\nWhere are the good old days gone to?\n\nTake me in your arms again\nLet me warm your heart\nI want to give you everything\nI love you ѕo much\n\nI love you\nOnly you\nI can't live in а world without you\nI love you"
+    }
+  ],
+  "bpm": 172,
+  "tone": "D major",
+  "artistPeople": [
+    "Maria Lidwina Kwakman"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Rogier van Otterloo",
+  "lyricists": null,
+  "writers": [
+    "Peter van Asten",
+    "Richard Debois"
+  ],
+  "broadcaster": "NOS",
+  "commentators": [
+    "Ivo Niehe"
+  ],
+  "jury": null,
+  "spokesperson": "Flip van der Schalie"
+}

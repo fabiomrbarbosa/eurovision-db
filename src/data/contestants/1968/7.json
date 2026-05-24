@@ -1,0 +1,53 @@
+{
+  "id": 7,
+  "country": "MC",
+  "artist": "Line & Willy",
+  "song": "À chacun sa chanson",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/8_3iE_L1Mbg",
+    "https://www.youtube-nocookie.com/embed/K5KCr8KWsu0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "À chacun sa chanson",
+      "content": "À chacun sa chanson, nous, on veut chanter l'amour\nTous les refrains qui sont notre histoire de tous les jours\nQue ça pleure ou que ça rie importe peu\nCe qui compte, à mon avis, c'est d'être deux\n\nDeux dans une chanson, deux qui jouent avec l'amour\nOù l'un part sans raison et l'autre attend le retour\n\nÀ chacun sa chanson, nous, on veut chanter l'amour\nDes refrains sans façons, pleine de sentiments autour\nJe suis comme les amoureux de mes refrains\nQue ça pleure ou rie comme eux, ça ne fait rien\n\nL'important c'est d'aimer, tout donner, mais en retour\nVous vous reconnaîtrez au cœur d'un refrain d'amour\n\nLa lala lala lala…\nLa lala lala lalalala lala…\n\nÀ chacun sa chanson, nous, on veut chanter l'amour\nTous les refrains qui sont notre histoire de tous les jours\nDes refrains sans façons, pleine de sentiments autour\nÀ chacun sa chanson, chacun sa chanson d'amour\n(À chacun sa chanson, chacun sa chanson d'amour)\nÀ chacun sa chanson, chacun sa chanson d'amour\n(À chacun sa chanson, chacun sa chanson d'amour)\nÀ chacun sa chanson, chacun sa chаnѕon"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "To everyone his song",
+      "content": "To everyone his song, we want to sing about love\nEvery refrain is our everyday story\nWhether it cries or laughs isn't very important\nWhat counts, in my opinion, is being two\n\nTwo in a song, two who play with love\nWhere one leaves without reason and the other awaits the return\n\nTo everyone his song, we want to sing about love\nUnforced refrains, full of sentiments around them\nI'm like the lovers of my refrains\nWhether it cries or laughs like them, that doesn't matter\n\nThe important thing is to love, to give everything, but in return\nYou meet yourself again in the heart of a refrain of love\n\nLa lala lala lala…\nLa lala lala lalalala lala…\n\nTo everyone his song, we want to sing about love\nEvery refrain is our everyday story\nUnforced refrains, full of sentiments аround them\nTo everyone his song, everyone his song of love\n(To everyone his song, everyone his song of love)\nTo everyone his song, everyone his song of love\n(To everyone his song, everyone his song of love)\nTo everyone his song, everyone his ѕong of love"
+    }
+  ],
+  "bpm": 117,
+  "tone": "F# major",
+  "artistPeople": [
+    "Jacqueline Van Meenen",
+    "Claude Boillod"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jean-Claude Oliver"
+  ],
+  "conductor": "Michel Colombier",
+  "lyricists": [
+    "Roland Valade"
+  ],
+  "writers": null,
+  "broadcaster": "TMC",
+  "commentators": [
+    "Pierre Tchernia"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

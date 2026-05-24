@@ -1,0 +1,56 @@
+{
+  "id": 18,
+  "country": "BA",
+  "artist": "Davor Popović",
+  "song": "Dvadeset i prvi vijek",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/OzwbESyePLY",
+    "https://www.youtube-nocookie.com/embed/xverANCrn-8",
+    "https://www.youtube-nocookie.com/embed/iF6hkaoqs8k",
+    "https://www.youtube-nocookie.com/embed/n6Okv8b_qm8",
+    "https://www.youtube-nocookie.com/embed/CsLOS9isu4s"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "bosnian"
+      ],
+      "displayedLanguages": null,
+      "title": "Dvadeset i prvi vijek",
+      "content": "Zaledila si more, najluđe valove\nI sakrila si bore, prve bore najslađe, od mene\n\nGdje si ti plavooka, ne teče med i mlijeko\nDaleko srce od oka, voli li te neko\nJoš nosim stari džemper, što si mi isplela\nI zauvijek mi srce prepolovila\n\nKad ulice su puste, tramvaji drijemaju\nI kad me magle guste gutaju\nPola srca kuca samo, pola je kod tebe\nKad životu puno damo on nas pojede\n\nDvadeset i prvi vijek nam draga dolazi\nA tebi nema traga\nDvadeset i prvi vijek nam draga dolazi\nA sreći nema traga\nA sreći nema traga\n\nU krevetu je doručak, a ljubav izvan njega\nS tobom je i rastanak, strasniji od svega\nProzor tvoj još gori, svjetionik što ne blijedi\nJa ne znam ko me stvori, da gubim sve što vrijedi\n\nKad zvijezde nebom pališ, tišina zapjeva\nKoliko mi fališ, da li znaš\nNišta mi ne vrijedi, i moj život blijedi\nPoput starog blue jeansa\n\nDvadeset i prvi vijek nam draga dolazi\nA tebi nema traga\nDvadeset i prvi vijek nam draga dolazi\nA sreći nema traga\nA ѕreći nema tragа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The 21st century",
+      "content": "You have frozen up the sea, the crazy waves\nAnd hidden the pores, the first sweetest pores from me\n\nWhere are you blue-eyed, my life's miserable\nDoes someone love your heart away from me\nI still wear the old jumper you've knitted for me\nAnd forever split my heart\n\nWhen streets are quiet and tramways asleep\nAnd when the thick fog is swallowing me\nOnly half the heart is pounding, half's with you\nWhen we give life everything, it eats us alive\n\nThe 21st century is coming, my dear\nAnd you're nowhere to be found\nThe 21st century is coming, my dear\nAnd happiness is nowhere to be found\nAnd happiness is nowhere to be found\n\nThe breakfast is in bed, but love is outside it\nFarewell with you is most horrific\nYour light's still on, like an everlasting lighthouse\nWhy was I born, when I lose everything I own\n\nWhen you light up the stars, quietness sings\nDo you know how much I miss you\nMy life is worth nothing\nIt's decaying, like the old blue jeans\n\nThe 21st century is coming, my dear\nAnd you're nowhere to be found\nThe 21st century is coming, my dear\nAnd happiness is nowhere to be found\nAnd hаppiness iѕ nowhere to be found"
+    }
+  ],
+  "bpm": 99,
+  "tone": "F minor",
+  "artistPeople": [
+    "Davorin Popović"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Sinan Alimanović",
+    "Zlatan Fazlić"
+  ],
+  "conductor": "Sinan Alimanović",
+  "lyricists": [
+    "Zlatan Fazlić"
+  ],
+  "writers": null,
+  "broadcaster": "RTVBIH",
+  "commentators": [
+    "Ismeta Dervoz-Krvavac"
+  ],
+  "jury": null,
+  "spokesperson": "Diana Grković-Foretić"
+}

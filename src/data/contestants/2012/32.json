@@ -1,0 +1,52 @@
+{
+  "id": 32,
+  "country": "NL",
+  "artist": "Joan Franka",
+  "song": "You And Me",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/JCc0Iiu3DiU",
+    "https://www.youtube-nocookie.com/embed/1QmmXELJeb0",
+    "https://www.youtube-nocookie.com/embed/UqlJaubki0o"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "You And Me",
+      "content": "I was five, you were three\nWe were dancing in the street\nAnd you looked just like an angel\nYou looked up and saw the sky\nSaw the birds and wondered why\nThey could fly away so high\n\nIn the morning I would wake\nAnd my heart just couldn't wait\nTo play in your backyard\nIn the evening I would go\nTelling you I love you so\nAnd I couldn't wait to see you again\n\nIt's you and me and everybody out there\nAnd I can see that everybody knows\nAbout you and me, but I don't really care for it\nI can see that everybody knows about us\n\nWe grew up knowing love\nThanking God up above\nThat we could be together forever\nWe would never say goodbye\n'Cause we promised, you and I\nBut our love couldn't handle time\n\nAnd I see you walking by my house\nAnd wonder why we don't play around no more\nSuch a shame we have no time\nThey were wrong and we were right\nI still love you and in my mind\n\nIt's you and me and everybody out there\nAnd I can see that everybody knows\nAbout you and me, but I don't really care for it\nI can see that everybody knows about us\n\nSo I'm lying in bed thinking 'bout the old days\nThinking 'bout it all and how it ends sometimes\nWas it wrong or right or was I good enough?\n\nIt's you and me and everybody out there\nAnd I can see that everybody knows\nAbout you and me and everybody out there\nAnd I can see that everybody knows\nAbout you and me, but I don't really care for it\nI can see that everybody knows аbout uѕ"
+    }
+  ],
+  "bpm": 98,
+  "tone": "F# major",
+  "artistPeople": [
+    "Ayten Kalan"
+  ],
+  "backings": [
+    "Arjen Rommens",
+    "Brendo Festen",
+    "Erica Groeneveld",
+    "Marc Udo",
+    "Rens Damberg"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jessica Hogeboom",
+    "Joan Franka"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Joan Franka"
+  ],
+  "writers": null,
+  "broadcaster": "TROS",
+  "commentators": [
+    "Daniël Dekker",
+    "Jan Smit"
+  ],
+  "jury": null,
+  "spokesperson": "Vivienne van den Assem"
+}

@@ -1,0 +1,59 @@
+{
+  "id": 30,
+  "country": "PT",
+  "artist": "Filipa Sousa",
+  "song": "Vida minha",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/fk5i7Hfyy3o",
+    "https://www.youtube-nocookie.com/embed/IxXcUU19Fp0",
+    "https://www.youtube-nocookie.com/embed/PPJUJHLGhA8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Vida minha",
+      "content": "Sigo as ruas da cidade\nVelha, escura, imperfeita\nCheira a beijos de saudade\nNuma praça que se enfeita\n\nHá uma criança que corre\nUma vizinha que espreita\nE em mim só segue o desejo\nDe chegar p'ra te abraçar\n\nE em mim só segue o desejo\nDe chegar p'ra te abraçar\n\nSe fosses luz, amor, ai luz do dia\nSorriso inspirador de fantasia\nSe fosses água, amor, qual água pura\nQue mata a sede à flor da ternura\n\nSe fosses luz, amor, ai luz do dia\nSorriso inspirador de fantasia\nMas entre tudo que possas ser na vida\nSó quero, meu amor, sejas vida minha\n\nE em mim só segue o desejo\nDe chegar p'ra te abraçar\n\nSe fosses luz, amor, ai luz do dia\nSorriso inspirador de fantasia\nSe fosses água, amor, qual água pura\nQue mata a sede à flor da ternura\n\nSe fosses luz, amor, ai luz do dia\nSorriso inspirador de fantasia\nMas entre tudo que possas ser na vida\nSó quero, meu amor, sejas vida minha\n\nMas entre tudo que possas ser na vida\nSó quero, meu amor, sejaѕ vida minhа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The life of mine",
+      "content": "I'm walking the streets of the city\nOld, dark, imperfect\nThere's a feeling of nostalgic kisses\nIn a square that is decorated\n\nThere's a child running\nA neighbour lurking\nAnd in me, the desire remains\nTo come home and hold you\n\nAnd in me, the desire remains\nTo come home and hold you\n\nIf you were light, my love, oh you'd be the light of the day\nAn inspiring smile of fantasy\nIf you were water, my love, you'd be like pure water\nThat quenches the thirst of the flower of tenderness\n\nIf you were light, my love, oh you'd be the light of the day\nAn inspiring smile of fantasy\nBut of all the things you can be in life\nI just want you, my love, to be the life of mine\n\nAnd in me, the desire remains\nTo come home and hold you\n\nIf you were light, my love, oh you'd be the light of the day\nAn inspiring smile of fantasy\nIf you were water, my love, you'd be like pure water\nThat quenches the thirst of the flower of tenderness\n\nIf you were light, my love, oh you'd be the light of the day\nAn inspiring smile of fantasy\nBut of all the things you can be in life\nI just want you, my love, to be the life of mine\n\nBut of all the things you can be in life\nI juѕt wаnt you, my love, to be the life of mine"
+    }
+  ],
+  "bpm": 108,
+  "tone": "B major",
+  "artistPeople": [
+    "Filipa Sousa"
+  ],
+  "backings": [
+    "Ana Rita Inácio",
+    "Carla Ribeiro",
+    "Eduardo Marques",
+    "Felipe Fontenelle",
+    "Pedro Coelho"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Andrej Babić"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Carlos Coelho"
+  ],
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Pedro Granger"
+  ],
+  "jury": null,
+  "spokesperson": "Joana Teles"
+}

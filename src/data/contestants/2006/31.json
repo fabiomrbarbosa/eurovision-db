@@ -1,0 +1,53 @@
+{
+  "id": 31,
+  "country": "EE",
+  "artist": "Sandra",
+  "song": "Through My Window",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/zOybfT_x8Sc",
+    "https://www.youtube-nocookie.com/embed/TyesYqE0zZU",
+    "https://www.youtube-nocookie.com/embed/K3D0JmPkdfA",
+    "https://www.youtube-nocookie.com/embed/SRSw-l4zk7c"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Through my window",
+      "content": "When life is a road goin' nowhere\nI'm alone, though you're gonna be right here\nYou're my baby\nWhen life is a road goin' somewhere\nAll alone, I have to hold on to go on\n\nI'm lookin' through my window\nWhat about the sun you made shine?\nWhat about the rain you cried on my pillow?\n\nI'm lookin' through my window\nWhat about us? Tell me why\nI still can't see where's the rainbow\n\nAnd maybe somebody someday\nTurns back home, but it's gonna be a long way\nIt's been a long day\nAnd maybe somebody someway\nHighs and lows, it's always the same thing anyway\n\nI'm lookin' through my window\nWhat about the sun you made shine?\nWhat about the rain you cried on my pillow?\n\nI'm lookin' through my window\nWhat about us? Tell me why\nI still can't see where's the rainbow\n\nI can't find the words, lose my nerve\nAnd grass just turns to stone (Grass just turns to stone)\nWhen all hopes are high, I have my pride\nShow you what I'm really like inside\n\n(I'm lookin' through my window)\nWhat about the sun you made shine?\nWhat about the rain you cried on my pillow?\n\nI'm lookin' through my window\nWhat about us? Tell me why\nI still can't see where's the rainbow\n\nI'm lookin' through my window\nWhat about us? Tell me why\nI still can't see where's the rainbow\nI still can't see where'ѕ the rаinbow"
+    }
+  ],
+  "bpm": 142,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Sandra Oxenryd"
+  ],
+  "backings": [
+    "Carita Nyström",
+    "Dagmar Oja",
+    "Emma Andersson",
+    "Jacob Gyldenskog",
+    "Jelena Juzvik"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Alar Kotkas",
+    "Ilmar Laisaar",
+    "Pearu Paulus"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Jana Hallas"
+  ],
+  "writers": null,
+  "broadcaster": "ERR",
+  "commentators": [
+    "Marko Reikop"
+  ],
+  "jury": null,
+  "spokesperson": "Evelin Samuel"
+}

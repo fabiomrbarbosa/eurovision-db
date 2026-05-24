@@ -1,0 +1,56 @@
+{
+  "id": 4,
+  "country": "IT",
+  "artist": "Massimo Ranieri",
+  "song": "L'amore è un attimo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/yNCjU7y-yxc",
+    "https://www.youtube-nocookie.com/embed/vwntESY9S1U",
+    "https://www.youtube-nocookie.com/embed/Wf1-2hMhfHU",
+    "https://www.youtube-nocookie.com/embed/bXGsa-qRE9Y",
+    "https://www.youtube-nocookie.com/embed/3hSDZP3cgpM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "L'amore è un attimo",
+      "content": "Ciao, perdono amore mio, stasera scrivo a te l'ultima lettera\nNe ho strappate mille sai perché ti lascerò, ma non so dirtelo\nMai dicevi nascerà chi dividerci potrà\n\nL'amore è un attimo, l'amore è un attimo\nPerò la vita è un vento, forte più di noi\n\nE va, tristezza, va, per lei c'è un pensiero e una lacrima\nAddio, felicità, vedrai le ferite si chiudono\nChissà se un fiore c'è là sotto la neve per te\n\n(La la la la la la... la la la la la la...)\n(La la la la la la la la la la la la...)\n\nÈ passato un mese e già non mi difendo più dalla malinconia\nIl mio solo amico qui è questo treno che va verso casa mia\nMai dicevi nascerà chi dividerci potrà\n\nL'amore è un attimo, l'amore è un attimo\nPerò la vita è un vento, forte più di me\n\nE va, tristezza, va, per lei, c'è un pensiero e una lacrima\nAddio, felicità, vedrai le ferite si chiudono\nChissà se un fiore c'è là sotto la neve per te\n\nChissà se un fiore c'è là ѕotto lа neve per te"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Love is a moment",
+      "content": "Hello, forgive me my love, tonight I'm writing the last letter to you\nI teared up thousands of them because I will leave you, but don't know how to tell it\nYou said that the one that can tear us apart will never be born\n\nLove is a moment, love is a moment\nBut life is a storm, stronger than us\n\nAnd go, sadness, go, for her there is a thought and a tear\nGoodbye, good luck, you'll see the wounds will heal\nWho knows if there will be a flower for you under the snow\n\n(La la la la la la... la la la la la la...)\n(La la la la la la la la la la la la...)\n\nOne month has passed and I already give in to melancholy\nMy only friend is the train that brings me home\nYou said that the one that can tear us apart will never be born\n\nLove is a moment, love is a moment\nBut life is a storm, stronger than us\n\nAnd go, sadness, go, for her there is a thought and a tear\nGoodbye, good luck, you'll see the wounds will heal\nWho knows if there will be a flower for you under the snow\n\nWho knows if there will be а flower for you under the ѕnow"
+    }
+  ],
+  "bpm": 91,
+  "tone": "F major",
+  "artistPeople": [
+    "Giovanni Calone"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Enrico Polito"
+  ],
+  "conductor": "Enrico Polito",
+  "lyricists": [
+    "Gaetano Savio",
+    "Giancarlo Bigazzi"
+  ],
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Renato Tagliani"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

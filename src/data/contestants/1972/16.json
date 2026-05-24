@@ -1,0 +1,58 @@
+{
+  "id": 16,
+  "country": "BE",
+  "artist": "Serge and Christine Ghisoland",
+  "song": "À la folie ou pas du tout",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/IKWfbesTZow",
+    "https://www.youtube-nocookie.com/embed/fu1nv0ZCJ6c",
+    "https://www.youtube-nocookie.com/embed/2I1Qi4XQFRk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "À la folie ou pas du tout",
+      "content": "On aime à la folie ou pas du tout\nL'amour n'est rien quand il ne rend pas fou\nMais on fait dire aux fleurs n'importe quoi\nOn s'aime un peu beaucoup et on le croit\n\nMoi, si je cueille (Moi, si je cueille)\nLa fleur des champs (La fleur des champs)\nCe n'est qu'au vent (Ce n'est qu'au vent)\nQue je l'effeuille (Que je l'effeuille)\n\nUn peu beaucoup: ces mots nous feraient peur\nCe n'est jamais assez au gré du cœur\nL'amour n'est rien s'il ne nous rend pas fous\nOn aime à la folie ou pas du tout\n\nOn aime à la folie ou pas du tout\nL'amour n'est rien quand il ne rend pas fou\nMais on fait dire aux fleurs n'importe quoi\nOn s'aime un peu beaucoup et on le croit\n\nOn aime à la folie ou pas du tout\nL'amour n'est rien quand il ne rend pas fou\nMais on fait dire aux fleurs n'importe quoi\nOn ѕ'aime un peu beаucoup et on le croit"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Passionately or not at all",
+      "content": "We love passionately or not at all\nLove is nothing when it doesn't drive crazy\nBut whatever we say to flowers\nWe love each other a bit much and we believe it\n\nWhen I pick (When I pick )\nA wildflower (A wildflower)\nIt's only in the wind (It's only in the wind)\nThat I defoliate it (That I defoliate it)\n\nA bit much: those words scared us\nIt's never enough in the grey of the heart\nLove is nothing when it doesn't drive us crazy\nWe love passionately or not at all\n\nWe love passionately or not at all\nLove is nothing when it doesn't drive crazy\nBut whatever we say to flowers\nWe love each other a bit much and we believe it\n\nWe love passionately or not at all\nLove is nothing when it doesn't drive crazy\nBut whatever we say to flowerѕ\nWe love each other a bit much аnd we believe it"
+    }
+  ],
+  "bpm": 74,
+  "tone": "G major",
+  "artistPeople": [
+    "Christine Ghisoland",
+    "Serge Ghisoland"
+  ],
+  "backings": [
+    "Claude Lombard"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Bob Milan",
+    "Daniël Nelis"
+  ],
+  "conductor": "Henri Segers",
+  "lyricists": [
+    "Daniël Nelis"
+  ],
+  "writers": null,
+  "broadcaster": "RTBF",
+  "commentators": [
+    "Herman Verelst",
+    "Paule Herreman"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

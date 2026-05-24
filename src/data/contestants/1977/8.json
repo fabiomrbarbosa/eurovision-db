@@ -1,0 +1,57 @@
+{
+  "id": 8,
+  "country": "ES",
+  "artist": "Micky",
+  "song": "Enséñame a cantar",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/hielLw-JmYE",
+    "https://www.youtube-nocookie.com/embed/HO6zj2JZ0kA",
+    "https://www.youtube-nocookie.com/embed/QOLaUu5qYBc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Enséñame a cantar",
+      "content": "Al salir de mi casa, cuando iba a pasear\nPensando en mis problemas con ganas de olvidar\nMe encontré a una niña sentada en el portal\nTocando con un banjo, cantando sin parar\n\nEnséñame a cantar, enséñame a cantar\nQue tengo triste el corazón y necesito amar\nEnséñame a cantar, enséñame a cantar\nQue tengo triste el corazón y necesito amar\n\n(La lala lala lalala…)\n(La lala lala lalala…)\n(La lala lala lalala…)\n(La lala…)\n\nLa lala lala lalala…\nLa lala lala lalala…\nLa lala lala lalala…\nLa lala…\n\nLa miré sonriendo y sin saber porqué\nSe iluminó su cara y sonrió también\n\"Siéntate a mi lado si quieres aprender\nY no te de vergüenza que yo te enseñaré\"\n\nEnséñame a cantar, enséñame a cantar\nQue tengo triste el corazón y necesito amar\nEnséñame a cantar, enséñame a cantar\nQue tengo triste el corazón y necesito amar\n\n(La lala lala lalala…)\n(La lala lala lalala…)\n(La lala lala lalala…)\n(La lala…)\n\nLa lala lala lalala…\nLa lala lala lalala…\nLa lala lala lalala…\nLa lala…\n\nEnséñame a cantar, enséñame a cantar\nQue tengo triste el corazón y necesito amar\n\nEnséñame a cantar, enséñame a cantar\nQue tengo triste el corazón y necesito amar\nEnséñame a cantar, enséñame a cantar\nQue tengo triste el corazón y necesito amar\n\nEnséñame a cantar, enséñame a cantar\nQue tengo triste el corazón y necesito amar\nEnséñame a cantar, enѕéñame a cantаr"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Teach me to sing",
+      "content": "When I left my house for a walk\nThinking of my problems that I want to forget\nI found a girl sitting at my door\nPlaying a banjo, singing without stopping\n\nTeach me to sing, teach me to sing\nThat my heart is sad and that I need to love\nTeach me to sing, teach me to sing\nThat my heart is sad and that I need to love\n\n(La lala lala lalala…)\n(La lala lala lalala…)\n(La lala lala lalala…)\n(La lala…)\n\nLa lala lala lalala…\nLa lala lala lalala…\nLa lala lala lalala…\nLa lala…\n\nI looked at her smile, and without knowing why\nHer face illuminated and she smiled as well\n\"Sit by my side if you want to learn\nAnd don't be ashamed, I'll show you\"\n\nTeach me to sing, teach me to sing\nThat my heart is sad and that I need to love\nTeach me to sing, teach me to sing\nThat my heart is sad and that I need to love\n\n(La lala lala lalala…)\n(La lala lala lalala…)\n(La lala lala lalala…)\n(La lala…)\n\nLa lala lala lalala…\nLa lala lala lalala…\nLa lala lala lalala…\nLa lala…\n\nTeach me to sing, teach me to sing\nThat my heart is sad and I need to love\n\nTeach me to sing, teach me to sing\nThat my heart is sad and that I need to love\nTeach me to sing, teach me to sing\nThat my heart is sad and that I need to love\n\nTeach me to sing, teach me to sing\nThat my heart is sad and that I need to love\nTeach me to sing, teаch me to ѕing"
+    }
+  ],
+  "bpm": 94,
+  "tone": "B major",
+  "artistPeople": [
+    "Miguel Ángel Carreño Schmelter"
+  ],
+  "backings": [
+    "Amadeo Alvarez Fernandez",
+    "Jasmin Wilson",
+    "Judy Clericuzio",
+    "Mary Jamison",
+    "Paloma Villasevil"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Rafael de Ibarbia Serra",
+  "lyricists": null,
+  "writers": [
+    "Fernando Arbex"
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "Miguel de los Santos"
+  ],
+  "jury": null,
+  "spokesperson": "Isabel Tenaille"
+}

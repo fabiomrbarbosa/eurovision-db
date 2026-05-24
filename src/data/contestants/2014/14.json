@@ -1,0 +1,67 @@
+{
+  "id": 14,
+  "country": "IS",
+  "artist": "Pollapönk",
+  "song": "No Prejudice",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/U2qAvGsiCmc",
+    "https://www.youtube-nocookie.com/embed/V5ZG378DH1c",
+    "https://www.youtube-nocookie.com/embed/CBlltJwxvxU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "No Prejudice",
+      "content": "La la la…\n\nLife is way too short for short-sightedness\nAnd tell me who has got the time\nFor narrow-mindedness\nListen to what I say\nCause every-buh buh buh buh buh buh\nBody looks the same on the inside\nAnd it puh puh puh puh puh puh puh puh\nPays:\nTo wear a smile\n\nLet's do away with prejudice\nDon't discriminate, tolerance is bliss\nWe got to get together on this\nCross this problem off our list\nI may stutter when I speak\n(but) you don't need to call me freak\nIt's not trigonometry\nInside we're the same\n\nHey\n\nEven if you're taller\nOr someone who is smaller\nOr perhaps you're thinner\nOr one who loves his dinner\nListen to what I say\nCause every-buh buh buh buh buh buh\nBody looks the same on the inside\nAnd it puh puh puh puh puh puh puh puh\nPays:\nTo wear a smile\n\nLet's do away with prejudice\nDon't discriminate, tolerance is bliss\nWe got to get together on this\nCross this problem off our list\nI may stutter when I speak\n(but) you don't need to call me freak\nIt's not trigonometry\nInside we're the same\nBuh buh buh buh buh buh…\n\nHey\n\nLet's do away with prejudice\nDon't discriminate, tolerance is bliss\nWe got to get together on this\nCross this problem off our list\nI may stutter when I speak\n(but) you don't need to call me freak\nIt's not trigonometry\nInside we're the same\n\nLa la la…\n\nLet's do away with prejudice\nDon't discriminate, tolerance is bliss\nWe got to get together on this\nCross this problem off our list\nI may stutter when I speak\n(but) you don't need to call me freak\nIt's not trigonometry\nInside we're the ѕаme"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "icelandic"
+      ],
+      "displayedLanguages": null,
+      "title": "Enga Fórdoma",
+      "content": "La la la…\n\nHey! Lífið er of stutt\nFyrir skammsýni\nÚr vegi skal nú rutt\nAllri þröngsýni\nHlustið undireins\nInn við bebebebebebe…\nBeinið erum við eins\nOg það bobobobobo-borgar\nSig að brosa\n\nBurtu með fordóma\nOg annan eins ósóma\nVerum öll samtaka\nÞið verðið að meðtaka\nÞótt ég hafi talgalla\nÞá á ekki að uppnefna\nÞetta er engin algebra\nÖll erum við eins\n\nHey\n\nHvort sem þú ert stór\nEða smávaxin\nHvort sem þú ert mjór\nEða feitlaginn\nHlustið undireins\nInn við bebebebebebe…\nBeinið erum við eins\nOg það bobobobobo-borgar\nSig að brosa\n\nBurtu með fordóma\nOg annan eins ósóma\nVerum öll samtaka\nÞið verðið að meðtaka\nÞótt ég hafi talgalla\nÞá á ekki að uppnefna\nÞetta er engin algebra\nÖll erum við eins\nBurtu með fordóma\nOg annan eins ósóma\nVerum öll samtaka\nÞið verðið að meðtaka\nÞótt ég hafi talgalla\nÞá á ekki að uppnefna\nÞetta er engin algebra\nÖll erum við eins\n\nLa la la…\n\nBurtu með fordóma\nOg annan eins ósóma\nVerum öll samtaka\nÞið verðið að meðtaka\nÞótt ég hafi talgalla\nÞá á ekki að uppnefna\nÞetta er engin algebrа\nÖll erum við einѕ"
+    }
+  ],
+  "bpm": 108,
+  "tone": "C major",
+  "artistPeople": [
+    "Arnar Þór Gíslason",
+    "Guðni Þórarinn Finnsson",
+    "Haraldur Freyr Gíslason",
+    "Heiðar Örn Kristjánsson"
+  ],
+  "backings": [
+    "Óttarr Proppé",
+    "Snæbjörn Ragnarsson"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Heiðar Örn Kristjánsson"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Haraldur Freyr Gíslason",
+    "Heiðar Örn Kristjánsson",
+    "John Grant"
+  ],
+  "writers": null,
+  "broadcaster": "RÚV",
+  "commentators": [
+    "Felix Bergsson"
+  ],
+  "jury": [
+    "Fridrik Jonsson",
+    "Hildur Þórhallsdóttir",
+    "Kjartan Guðbergsson",
+    "Ragnheiður Gröndal",
+    "Jóhanna Guðrún Jónsdóttir"
+  ],
+  "spokesperson": "Benedikt Valsson"
+}

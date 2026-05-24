@@ -1,0 +1,59 @@
+{
+  "id": 3,
+  "country": "HR",
+  "artist": "Doris Dragović",
+  "song": "Marija Magdalena",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/zMuQEwwBf5w",
+    "https://www.youtube-nocookie.com/embed/ECvBILpnQxU",
+    "https://www.youtube-nocookie.com/embed/tHOKZi1Ffls",
+    "https://www.youtube-nocookie.com/embed/GwpxAeRwOTQ",
+    "https://www.youtube-nocookie.com/embed/IB3ktz7T0PA",
+    "https://www.youtube-nocookie.com/embed/H3RXt01NBbg",
+    "https://www.youtube-nocookie.com/embed/BpNsq-ettEE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "croatian"
+      ],
+      "displayedLanguages": null,
+      "title": "Marija Magdalena",
+      "content": "Jer tvoja ljubav me razapela\nOdriješila me je mojih grijeha\nSvjedok mi Bog, srca mi mog\nOva žena zna, da ti pripada sva\n\nMarija Magdalena, Marija Magdalena\nAh… Marija Magdalena\nAh…\n\nVodila me noć svud po svijetu\nI rekla sam joj: \"Stoj!\" ah… \"dalje neću\"\nSvjedok mi Bog, srca mi mog\nOva žena zna, da ti pripada sva\n\nMarija Magdalena, Marija Magdalena\nAh… Marija Magdalena\nAh…\n\nSvjedok mi Bog, srca mi mog\nOva žena zna, da ti pripada ѕva\n\nMarija Magdalena, Marija Magdalena\nAh… Marija Magdalenа\nAh…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Mary Magdalene",
+      "content": "For your love got me crucified\nAnd released me of all my sins\nAs God is my witness, I swear by my heart\nThat this woman knows, she belongs to you entirely\n\nMary Magdalene, Mary Magdalene\nAh… Mary Magdalene\nAh…\n\nThe night guided me around the world\nI told her: \"Stop!\" ah… \"I won't go any further\"\nAs God is my witness, I swear by my heart\nThat this woman knows, she belongs to you entirely\n\nMary Magdalene, Mary Magdalene\nAh… Mary Magdalene\nAh…\n\nAs God is my witness, I swear by my heart\nThat this woman knows, she belongѕ to you entirely\n\nMary Magdalene, Mary Magdalene\nAh… Mary Magdаlene\nAh…"
+    }
+  ],
+  "bpm": 120,
+  "tone": "C# minor",
+  "artistPeople": [
+    "Dorotea Dragović Budimir"
+  ],
+  "backings": [
+    "Alenka Milano"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Tonči Huljić"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Vjekoslava Huljić"
+  ],
+  "writers": null,
+  "broadcaster": "HRT",
+  "commentators": [
+    "Aco Kostadinov"
+  ],
+  "jury": null,
+  "spokesperson": "Marko Rašica"
+}

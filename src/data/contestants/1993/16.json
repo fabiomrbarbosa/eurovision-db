@@ -1,0 +1,58 @@
+{
+  "id": 16,
+  "country": "FI",
+  "artist": "Katri-Helena",
+  "song": "Tule luo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/EJCCQ_4_jgw",
+    "https://www.youtube-nocookie.com/embed/htDhjtnT35U",
+    "https://www.youtube-nocookie.com/embed/-4B5fihtYO4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Tule luo",
+      "content": "Tule luo, ole poutapilvi taivaan\nTule luo, ole kaste aamun maan\nTule luo, tule noustaan ilmalaivaan\nTule luo, tule juostaan maailmaan\n\nTule luo, tule hiljaa, tule salaa\nTule luo, tummaan iltaan valo tuo\nTule luo, kaunein liekki hetken palaa\nTule luo, tule luo, tule luo\n\nKuunnellaan, katsellaan, kuljetaan\nTule luo, aikaa pieni hetki on vaan\nTule luo, ovet kohta suljetaan\nHuomaan poutapilven taivaan, tule luo\n\nKuunnellaan, katsellaan, kuljetaan\nTule luo, aikaa pieni hetki on vaan\nTule luo, ovet kohta suljetaan\nHuomaan poutapilven taivaan, tule luo\n\nTule luo, koske niinkuin aalto rantaa\nTule luo, rauha sielun kuohuun tuo\nTule luo, tuuli toiveen kauas kantaa\nTule luo, tule luo, tule luo\n\nKuunnellaan, katsellaan, kuljetaan\nTule luo, aikaa pieni hetki on vaan\nTule luo, ovet kohta suljetaan\nHuomaan poutapilven taivaan, tule luo\n\nKuunnellaan, katsellaan, kuljetaan\nTule luo, aikaa pieni hetki on vaan\nTule luo, ovet kohta ѕuljetaan\nHuomaan poutapilven taivaаn, tule luo\n\nTule luo"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Come to me",
+      "content": "Come to me, be a white cloud in the sky\nCome to me, be a dew in the morning\nCome to me, come, let's get on the airship\nCome to me, come, let's run to the world\n\nCome to me, come quietly, come secretly\nCome to me, bring a light to the dark night\nCome to me, the most beautiful flame burns a moment\nCome to me, come to me, come to me\n\nLet's listen, let's watch, let's go\nCome to me, there's only a little moment of time\nCome to me, doors will soon be closed\nTo the care of a white cloud in the sky, come to me\n\nLet's listen, let's watch, let's go\nCome to me, there's only a little moment of time\nCome to me, doors will soon be closed\nTo the care of a white cloud in the sky, come to me\n\nCome to me, touch me like a wave touches the beach\nCome to me, bring a peace to the surge of soul\nCome to me, wind carries a wish far away\nCome to me, come to me, come to me\n\nLet's listen, let's watch, let's go\nCome to me, there's only a little moment of time\nCome to me, doors will soon be closed\nTo the care of a white cloud in the sky, come to me\n\nLet's listen, let's watch, let's go\nCome to me, there's only a little moment of time\nCome to me, doors will soon be closed\nTo the care of а white cloud in the ѕky, come to me\n\nCome to me"
+    }
+  ],
+  "bpm": 178,
+  "tone": "G minor",
+  "artistPeople": [
+    "Katri Helena Kalaoja"
+  ],
+  "backings": [
+    "Anita Pajunen",
+    "Pave Maijanen",
+    "Pepe Willberg"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Matti Puurtinen"
+  ],
+  "conductor": "Olli Ahvenlahti",
+  "lyricists": [
+    "Jukka Saarinen"
+  ],
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Erkki Pohjanheimo",
+    "Kirsi-Maria Niemi"
+  ],
+  "jury": null,
+  "spokesperson": "Solveig Herlin"
+}

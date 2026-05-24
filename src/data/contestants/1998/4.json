@@ -1,0 +1,57 @@
+{
+  "id": 4,
+  "country": "HR",
+  "artist": "Danijela",
+  "song": "Neka mi ne svane",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/HFhL3lNzHV0",
+    "https://www.youtube-nocookie.com/embed/OyEICTuUei4",
+    "https://www.youtube-nocookie.com/embed/5yqPPVfFzIg",
+    "https://www.youtube-nocookie.com/embed/GVKLw616n-Y"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "croatian"
+      ],
+      "displayedLanguages": null,
+      "title": "Neka mi ne svane",
+      "content": "Još jedan dan je prošao\nJoš jednom mjesec došao\nTiho k'o neki dragi gost\nDa mi do jutra bude most\n\nJer tuga vodi me kroz godine\nI krade san, dok novi ne svane mi dan\n\nNeka mi ne svane\nNek' me nema, nek' me ne bude\nNeka me bez tebe ne probude\nNeka mi ne svane\nNek' me nema, nek' me ne bude\nNeka me bez tebe ne probude\n\nJoš jedan dan je prošao\nJoš jednom mjesec došao\nTiho k'o neki dragi gost\nDa mi do jutra bude most\n\nJer tuga vodi me kroz godine\nI krade san, dok novi ne svane mi dan\n\nNeka mi ne svane\nNek' me nema, nek' me ne bude\nNeka me bez tebe ne probude\nNeka mi ne svane\nNek' me nema, nek' me ne bude\nNeka me bez tebe ne probude\n\nNeka me bez tebe ne probude\nNeka mi ne ѕvane\nNek' me nema, nek' me ne bude\nNeka me bez tebe ne probude\nNekа me bez tebe ne probude"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "May the dawn never rise",
+      "content": "Another day has passed by\nOnce more, the moon has come\nSilently, like a dear guest\nTo abridge my mornings\n\nFor the sorrow leads me through the years\nSteals the dream, till a new day dawns\n\nMay the dawn never rise\nMay I disappear, may I cease to exist\nMay I not wake up without you\nMay the dawn never rise\nMay I disappear, may I cease to exist\nMay I not wake up without you\n\nAnother day has passed by\nOnce more, the moon has come\nSilently, like a dear guest\nTo abridge my mornings\n\nFor the sorrow leads me through the years\nSteals the dream, till a new day dawns\n\nMay the dawn never rise\nMay I disappear, may I cease to exist\nMay I not wake up without you\nMay the dawn never rise\nMay I disappear, may I cease to exist\nMay I not wake up without you\n\nMay I not wake up without you\nMay the dawn never rise\nMay I disappear, may I cease to exiѕt\nMay I not wake up without you\nMay I not wаke up without you"
+    }
+  ],
+  "bpm": 123,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Danijela Martinović"
+  ],
+  "backings": [
+    "Alenka Milano",
+    "Ksenija Erker"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Stipica Kalogjera",
+  "lyricists": null,
+  "writers": [
+    "Petar Grašo",
+    "Remi Kazinotti",
+    "Stjepan Kalogjera"
+  ],
+  "broadcaster": "HRT",
+  "commentators": [
+    "Aco Kostadinov"
+  ],
+  "jury": null,
+  "spokesperson": "Davor Meštrović"
+}

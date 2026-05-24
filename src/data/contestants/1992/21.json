@@ -1,0 +1,52 @@
+{
+  "id": 21,
+  "country": "SE",
+  "artist": "Christer Björkman",
+  "song": "I morgon är en annan dag",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/OwRlrn8R1T8",
+    "https://www.youtube-nocookie.com/embed/ZQgr0aWeFmI",
+    "https://www.youtube-nocookie.com/embed/FR4MPLmgwAo"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "I morgon är en annan dag",
+      "content": "Det finns en flicka som jag går till ibland\nHon tycker om mig for jag gör vad jag kan\nI hennes tystnad finns så mycket jag vill veta\nSå jag stannar hela natten, fast vi är som eld och vatten\n\n(Kom) så länge hjärtat slår\n(Kom) så länge spänningen finns kvar\nI morgon är en annan dag\n(Kom) så länge solen ler\n(Kom) så länge lusten ger och tar\nSå fort när allt försvinner, i morgon är en annan dag\n\nHon målar tavlor som jag aldrig får se\nHon sjunger sånger när ingen sitter bredvid\nI hennes ögon finns en längtan efter mera\nSå jag stannar hela natten, fast vi är som eld och vatten\n\n(Kom) så länge hjärtat slår\n(Kom) så länge spänningen finns kvar\nI morgon är en annan dag\n(Kom) så länge solen ler\n(Kom) så länge lusten ger och tar\nSå fort när allt försvinner, i morgon är en annan dag\n\nTiden är som ett timglas i din hand\nDär sekunder och minuter blir till år\nJag vill ha allt det jag får\n\n(Kom) så länge hjärtat slår\n(Kom) så länge spänningen finns kvar\nI morgon är en annan dag\n(Kom) så länge solen ler\n(Kom) så länge lusten ger och tar\nSå fort när allt förѕvinner, i morgon är en annan dag\n\nI morgon är en annan dаg"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Tomorrow is another day",
+      "content": "There is a girl, that I go to see sometimes\nShe likes me, because I'll always do my best\nShe has a silence and there's so much I want to know\nSo I'll stay the whole night, even though we're like water and fire\n\n(Come) as long as the heart is beating\n(Come) as long as there is excitement\nTomorrow is another day\n(Come) as long as the sun shines\n(Come) as long as lust is giving and taking\nAnd when everything is gone, tomorrow is another day\n\nShe paints pictures, that I've never seen\nShe sings her songs, when nobody is sitting next to her\nIn her eyes there is a longing for more\nSo I'll stay the whole night, even though we're like water and fire\n\n(Come) as long as the heart is beating\n(Come) as long as there is excitement\nTomorrow is another day\n(Come) as long as the sun shines\n(Come) as long as lust is giving and taking\nAnd when everything is gone, tomorrow is another day\n\nTime is like a hourglass in your hand\nWhere seconds and minutes turn into years\nI want everything I get\n\n(Come) as long as the heart is beating\n(Come) as long as there is excitement\nTomorrow is another day\n(Come) as long as the sun shines\n(Come) as long as lust is giving and taking\nAnd when everything is gone, tomorrow is another day\n\nTomorrow iѕ another dаy"
+    }
+  ],
+  "bpm": 80,
+  "tone": "A major",
+  "artistPeople": [
+    "Christer Björkman"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Anders Berglund",
+  "lyricists": null,
+  "writers": [
+    "Niklas Strömstedt"
+  ],
+  "broadcaster": "SVT",
+  "commentators": [
+    "Björn Kjellman",
+    "Jesper Aspegren"
+  ],
+  "jury": null,
+  "spokesperson": "Jan Jingryd"
+}

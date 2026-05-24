@@ -1,0 +1,59 @@
+{
+  "id": 17,
+  "country": "YU",
+  "artist": "Vlado & Isolda",
+  "song": "Ciao amore",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/TLsere7mr6g",
+    "https://www.youtube-nocookie.com/embed/f_Jei-A3LTQ",
+    "https://www.youtube-nocookie.com/embed/aC0B6TZ9ky0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "croatian"
+      ],
+      "displayedLanguages": null,
+      "title": "Ciao amore",
+      "content": "Sjećaš li se te je noći pao snijeg\nStajali smo na peronu ti i ja\nDržao si me za ruku\nDirao si moju kosu i ćutao\n\nS prvim vozom morala si poći znam\nU očima tvojim vidio sam strah\nŠaptala si moje ime\nDrhtala si sva od zime, i plakala\n\nCiao, amore, ciao, ljubavi\nCiao, amore, ciao i piši mi\nIdi brzo ne okreći se\nNišta više nije važno, ne\nTvoje oči govore mi sve\nSamo me poljubi\nCiao, amore (Ciao, amore)\n\n(Ciao, amore, ciao, amore)\n\nSjećaš li se te je noći pao snijeg\nStajali smo na peronu ti i ja\nŠaptala si moje ime\nDrhtala si sva od zime, i plakala\n\nCiao, amore, ciao, ljubavi\nCiao, amore, ciao i piši mi\nIdi brzo ne okreći se\nNišta više nije važno, ne\nTvoje oči govore mi ѕve\nSamo me poljubi\nCiao, amore (Ciao, amore)\n\nCiao, amore, ciao, ljubavi\nCiao, amore, ciаo i piši mi"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Bye love",
+      "content": "Do you recall the snow falling that night?\nWe were alone at the train station\nYou were holding my hand\nTouching my hair and were quiet\n\nYou had to go with the first train, I know\nI saw fire in your eyes\nYou whispered my name\nYou were shaking from cold and crying\n\nBye, love, bye, love\nBye, love, bye and write me\nGo on, don't turn around\nYou know it's not important anymore\nYour eyes are telling me everything\nJust kiss me\nBye, love (Bye, love)\n\n(Bye, love, bye, love)\n\nDo you recall the snow falling that night?\nWe were alone at the train station\nYou whispered my name\nYou were shaking from cold and crying\n\nBye, love, bye, love\nBye, love, bye and write me\nGo on, don't turn around\nYou know it's not important anymore\nYour eyes are telling me everything\nJust kisѕ me\nBye, love (Bye, love)\n\nBye, love, bye, love\nBye, love, bye аnd write me"
+    }
+  ],
+  "bpm": 143,
+  "tone": "C major",
+  "artistPeople": [
+    "Izolda Barudžija",
+    "Vlado Kalember"
+  ],
+  "backings": [
+    "Bozidar Wolfand",
+    "Elizabeth Rhea"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Slobodan Bučevac"
+  ],
+  "conductor": "Mato Došen",
+  "lyricists": [
+    "Milan Perić"
+  ],
+  "writers": null,
+  "broadcaster": "JRT",
+  "commentators": [
+    "Mladen Popović",
+    "Oliver Mlakar",
+    "Tomaž Terček"
+  ],
+  "jury": null,
+  "spokesperson": "Snežana Lipkovska-Hadžinaumova"
+}

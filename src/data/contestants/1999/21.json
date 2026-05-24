@@ -1,0 +1,66 @@
+{
+  "id": 21,
+  "country": "CY",
+  "artist": "Marlain Angelidou",
+  "song": "Tha'nai erotas",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/sdikjoqTLr8",
+    "https://www.youtube-nocookie.com/embed/SsXaWNxbPCg",
+    "https://www.youtube-nocookie.com/embed/cObYpiv7aWM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ellinika"
+      ],
+      "title": "Tha'nai erotas",
+      "content": "Sti poli tremosvini to fengari\nKi an tin antehis ti skini\nTa matia su dhio stales ehun pari\nAp 'ti vrohi tin broini\n\nPare t' asteria t' uranu\nStolise ti matia tu\nAngikse to anthos tu lotu\nFonakse t' onoma tu, ke tha 'ne erotas\n\nSti poli tremosvini kapio asteri\nKi esi apomines na zis, ne, na zis\nSto proto tis kardhias su kalokeri\nStis angalies tis Kiriakis\n\nPare t' asteria t' uranu\nStolise ti matia tu\nAngikse to anthos tu lotu\nFonakse t' onoma tu\n\n(Omos mi rotas), tha 'ne erotas\nOmos mi rotas, tha 'ne erotas\n\n(Pare t' asteria t' uranu)\nStolise ti matia tu\nAngikse to anthos tu lotu\nFonakse ke tha 'ne erotas\nTha 'ne erotas\n(Tha 'ne erotas, tha 'ne erotas, tha 'ne erotаѕ)"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ελληνικά"
+      ],
+      "title": "Θά 'ναι έρωτας",
+      "content": "Στην πόλη τρεμοσβήνει το φεγγάρι\nΚι αν την αντέχεις τη σκηνή\nΤα μάτια σου δυο στάλες έχουν πάρει\nΑπ 'την βροχή την πρωϊνή\n\nΠάρε τ' αστέρια τ' ουρανού\nΣτόλισε τη ματιά του\nΆγγιξε το άνθος του λωτού\nΦώναξε τ' ονόμά του, και θά 'ναι έρωτας\n\nΣτην πόλη τρεμοσβήνει κάποιο αστέρι\nΚι εσύ απόμεινες να ζεις, ναι, να ζεις\nΣτο πρώτο της καρδιάς σου καλοκαίρι\nΣτις αγκαλιές της Κυριακής\n\nΠάρε τ' αστέρια τ' ουρανού\nΣτόλισε τη ματιά του\nΆγγιξε το άνθος του λωτού\nΦώναξε τ' ονόμά του\n\n(Ομως μη ρωτάς), θά 'ναι έρωτας\nΟμως μη ρωτάς, θά 'ναι έρωτας\n\n(Πάρε τ' αστέρια τ' ουρανού)\nΣτόλισε τη ματιά του\nΆγγιξε το άνθος του λωτού\nΦώναξε και θά 'ναι έρωτας\nΘά 'ναι έρωτας\n(Θά 'ναι έρωτας, θά 'ναι έρωτας, θά 'ναι έρωτας)"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "It will be love",
+      "content": "The moon lights dimly in the city\nAnd if you can bear with the scene\nYour eyes have taken two drops\nFrom the morning rain\n\nTake the stars of the sky\nEmbellish his glance\nTouch the flower of the lotus\nCall his name, and it will be love\n\nSome star lights dimly in the city\nAnd you remained to live, yes, to live\nTo the first of your heart's summer\nInto the hugs of Sunday\n\nTake the stars of the sky\nEmbellish his glance\nTouch the flower of the lotus\nCall his name\n\n(But don't ask), it will be love\nBut don't ask, it will be love\n\n(Take the stars of the sky)\nEmbellish his glance\nTouch the flower of the lotuѕ\nCall аnd it will be love\nIt will be love\n(It will be love, it will be love, it will be love)"
+    }
+  ],
+  "bpm": 146,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Marlain Angelidou"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Yiorgos Kallis"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Andreas Karanicolas"
+  ],
+  "writers": null,
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Evi Papamichail"
+  ],
+  "jury": null,
+  "spokesperson": "Marina Maleni"
+}

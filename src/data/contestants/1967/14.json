@@ -1,0 +1,51 @@
+{
+  "id": 14,
+  "country": "AT",
+  "artist": "Peter Horten",
+  "song": "Warum es hunderttausend Sterne gibt",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ZgnZfdkQ530"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Warum es hunderttausend Sterne gibt",
+      "content": "Warum es hunderttausend Sterne gibt\nDes Nachts am weiten blauen Himmelszelt?\nWarum ein Mensch oft einen anderen liebt\nViel mehr als alles auf der Welt?\n\nWarum Millionen Blumen blühen\nUnd die Sonne scheint für Arm und Reich?\nDass Jugend und Vergehen\nHier auf Erden für alle gleich?\n\nWas immer auch für dich bestimmt\nNimm als dein Schicksal hin\nVielleicht erkennt dein Herz\nDaraus des Lebens wahren Sinn\n\nWarum es hunderttausend Sterne gibt\nDes Nachts am weiten blauen Himmelszelt?\nWarum es immer wieder Wunder gibt\nEin Herz oft treu zum andern hält?\n\nWarum es auch für Arme wieder Frühling wird\nOft schöner als für den, der Reich?\nWeil für den einen überm Himmelszelt\nJa, alle Menschen auf der Erde gleich\nWeil für den einen überm Himmelszelt\nJa, alle Menѕchen аuf der Erde gleich"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Why are there a hundred thousand stars",
+      "content": "Why are there a hundred thousand stars\nAt night in the deep blue sky?\nWhy does someone often love someone else\nMuch more than anything else in the world?\n\nWhy do millions of flowers bloom\nAnd does the sun shine for the poor and rich?\nIs youth and dying\nHere on earth equal for everyone?\n\nWhat ever is destined for you\nTake it as your destiny\nPerhaps your heart realizes\nThis way, the real sense of life\n\nWhy are there a hundred thousand stars\nAt night in the deep blue sky?\nWhy are there always miracles?\nHolds a heart often truely to another heart?\n\nWhy does also for the poor the springtime come\nOften more beautiful than for the rich?\nBecause for God in heaven\nYes, everybody on earth is equal\nBecause for God in heaven\nYes, everybody on earth iѕ equаl"
+    }
+  ],
+  "bpm": 164,
+  "tone": "C major",
+  "artistPeople": [
+    "Peter Horton"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Kurt Peche"
+  ],
+  "conductor": "Johannes Fehring",
+  "lyricists": [
+    "Karin Bognar"
+  ],
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": [
+    "Emil Kollpacher"
+  ],
+  "jury": null,
+  "spokesperson": "Walter Richard Langer"
+}

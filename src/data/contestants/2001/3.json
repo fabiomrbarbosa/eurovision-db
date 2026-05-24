@@ -1,0 +1,53 @@
+{
+  "id": 3,
+  "country": "FR",
+  "artist": "Natasha Saint-Pier",
+  "song": "Je n'ai que mon âme",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Xk2z_vBJkPw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Je n'ai que mon âme",
+      "content": "Puisqu'il faut dire, puisqu'il faut parler de soi\nPuisque ton cœur ne brûle plus comme autrefois\nMême si l'amour, je crois, ne se dit pas\nMais puisqu'il faut parler, alors écoute-moi\n\nMais je n'ai que mon âme pour te parler de moi\nOh, juste mon âme, mon âme et ma voix\nSi fragiles flammes au bout de mes doigts\nDérisoires armes pour parler de moi\n\nMême si tu dis que je fais partie de toi\nQue notre histoire nous suivra pas à pas\nJe sais tellement que l'amour a ses lois\nS'il faut le sauver, alors écoute-moi\n\nMais je n'ai que mon âme pour te parler de moi\nOh, juste mon âme, mon âme et ma voix\nEt mon corps qui s'enflamme au son de ta voix\nJe ne suis qu'une femme qui t'aime tout bas\n\nI'd rather be damned if I lose my faith\nIf I am condemned, I will answer my fate\nI'll kneel down unarmed, life will take control\n'Cause I am what I am and all I have is my soul\n\nI am what I am, all I hаve is my ѕoul"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I only have my soul",
+      "content": "Since we have to tell, since we have to talk about ourselves\nSince your heart doesn't burn anymore like before\nEven if love, I believe, isn't said anymore\nBut since we have to tell, then listen to me\n\nBut I only have my soul to talk to you about myself\nOh, only my soul, my soul and my voice\nSo fragile flames at my finger tips\nDerisory arms to talk about myself\n\nEven if you say that I'm part of you\nThat our history will follow us step by step\nI know very well that love has its laws\nIf we are to save it, then listen to me\n\nBut I only have my soul to talk to you about myself\nOh, only my soul, my soul and my voice\nAnd my body is on fire because of the sound of your voice\nI'm only a woman who likes you silently\n\nI'd rather be damned if I lose my faith \nIf I am condemned, I will answer my fate \nI'll kneel down unarmed, life will take control \n'Cause I am what I am and all I have is my soul \n\nI am what I am, all I hаve is my ѕoul"
+    }
+  ],
+  "bpm": 129,
+  "tone": "C minor",
+  "artistPeople": [
+    "Natasha St-Pier"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "J. Kapler"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "M. Jones",
+    "J. Kapler"
+  ],
+  "writers": null,
+  "broadcaster": "France 3",
+  "commentators": [
+    "Marc-Olivier Fogiel",
+    "Dave"
+  ],
+  "jury": null,
+  "spokesperson": "Corinne Hermès"
+}

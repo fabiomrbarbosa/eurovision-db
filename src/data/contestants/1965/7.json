@@ -1,0 +1,53 @@
+{
+  "id": 7,
+  "country": "CH",
+  "artist": "Yovanna",
+  "song": "Non, à jamais sans toi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/1ZAtG50bhT4",
+    "https://www.youtube-nocookie.com/embed/XDrAQ16L-fg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Non, à jamais sans toi",
+      "content": "Non, par le temps perdu à n'avoir voulu que toi\nNon, par le temps passé à ne plus penser qu'à toi\nVa, tu vois, c'est demain déjà\nVa, tu n'as rien compris\nVa, tu vois, je ne pleure pas\nAujourd'hui je te dis\n\nNon, par les grands chemins revenus de loin pour toi\nNon, par les nuits d'été qui n'ont fait danser que toi\nVa, jusqu'au bout de l'horizon\nAujourd'hui c'est non\n\nNon, parce qu'un matin ne restera rien de toi\nNon, il viendra le jour du prochain amour sans toi\nVa, tu vois, c'est demain déjà\nÀ jamais sans toi\nVa, tu vois, c'est demain déjà\nÀ jamais sаnѕ toi"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "No, forever without you",
+      "content": "No, for the lost time that I only wanted you\nNo, for the passed time that I only thought of you\nGo, you see, it's already tomorrow\nGo, you understood nothing\nGo, you see, I don't cry\nToday I tell you\n\nNo, for the big roads along which I came back to you from far away\nNo, for the summer nights that only made you dance\nGo, until the end of the horizon\nToday it's no\n\nNo, because one morning nothing will be left of you\nNo, the day of another love without you will come\nGo, you see, it's already tomorrow\nForever without you\nGo, you see, it'ѕ alreаdy tomorrow\nForever without you"
+    }
+  ],
+  "bpm": 112,
+  "tone": "D major",
+  "artistPeople": [
+    "Ioanna Fassou Kalpaxi"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Bob Calfati"
+  ],
+  "conductor": "Mario Robbiani",
+  "lyricists": [
+    "Jean Charles"
+  ],
+  "writers": null,
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Georges Hardy",
+    "Theodor Haller"
+  ],
+  "jury": null,
+  "spokesperson": "Alexandre Burger"
+}

@@ -1,0 +1,51 @@
+{
+  "id": 8,
+  "country": "DE",
+  "artist": "Inge Brück",
+  "song": "Anouschka",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/snx9B6tKuGU",
+    "https://www.youtube-nocookie.com/embed/yEof5Fkw8eQ",
+    "https://www.youtube-nocookie.com/embed/7vk2XsZ00Vk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Anouschka",
+      "content": "Musst nicht weinen, kleine Anouschka\nEr kommt wieder, kleine Anouschka\nWenn der Frühling kommt, wenn die Blumen blühn\nIst er wieder bei dir\n\nDeine Augen, kleine Anouschka\nSind voll Tränen, kleine Anouschka\nDoch die Welt ist weit, es verrinnt die Zeit\nTränen trocknet der Wind\n\nWenn es die wahre Liebe ist\nWird alles wieder gut\nDann kommt er auch zurück\nDenn er denkt an dich, immerzu an dich\n\nAnouschka\nSoviel Freude, kleine Anouschka\nWirst du haben, kleine Anouѕchka\nWenn der Frühling kommt, wenn die Blumen blühn\nEuer Leben beginnt\n\nLalalala lalalala...\nLalala lalala...\nDann kommt er auch zurück\nDenn er denkt an dich, immerzu аn dich\nAn dich"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Anouschka",
+      "content": "No need to cry, little Anouschka\nHe'll come back, little Anouschka\nWhen spring comes and the flowers bloom\nHe'll be back with you\n\nYour eyes, little Anouschka\nAre full of tears, little Anouschka\nBut the world is big, the time passes by\nAnd tears will be dried by the wind\n\nIf it's true love\nEverything will turn out fine\nThen he will come back\nBecause he's thinking of you, always of you\n\nAnouschka\nSo much joy, little Anouschka\nYou will have, little Anouschka\nWhen spring comes and the flowers bloom\nYour lives will begin\n\nLalalala lalalala...\nLalala lalala...\nThen he will come back\nBecause he's thinking of you, alwаyѕ of you\nOf you"
+    }
+  ],
+  "bpm": 123,
+  "tone": "B major",
+  "artistPeople": [
+    "Inge Brück"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Hans Blum",
+  "lyricists": null,
+  "writers": [
+    "Hans Blum"
+  ],
+  "broadcaster": "ARD",
+  "commentators": [
+    "Hans-Joachim Rauschenbach"
+  ],
+  "jury": null,
+  "spokesperson": "Karin Tietze-Ludwig"
+}

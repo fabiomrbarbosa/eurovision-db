@@ -1,0 +1,55 @@
+{
+  "id": 25,
+  "country": "IE",
+  "artist": "Ryan Dolan",
+  "song": "Only Love Survives",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/4tgtyl_5x5Y"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Only Love Survives",
+      "content": "All our lives we've been afraid\nWatching the world decline till nothing remains\nBut in our darkest hour, right before the dawn\nThe old world dies, the new day is born\n\nWe're gonna live like it's our last night alive\nAnd we're dancing till the morning light\nAnd even if the sun don't rise\nIn the end, only love survives\n\nSo be love, be love\nJust be love (just be love), only love (only love)\nWe are love (we are love), only love (only love)\nAnd when the stars are aligned, you got to make love a state of mind\n'Cause in the end only love survives\n\nSo let the world collide, don't be afraid\nIf it's the end of time, love will remain\n\nTo live like it's the last night alive\nAnd we're dancing till the morning light\nAnd even if the sun don't rise\nIn the end, only love survives\n\nSo be love, be love\nJust be love (just be love), only love (only love)\nWe are love (we are love), only love (only love)\nAnd when the stars are aligned you got to make love a state of mind\n'Cause in the end, only love survives\n\nSo be love (be love), only love, love, love\n(Be love, only love) Only love, love, love\n('Cаuse in the end) Only love surviveѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Sólo el amor sobrevive",
+      "content": "Pasamos nuestras vidas con miedo\nViendo al mundo declinar hasta que no queda nada\nPero en nuestros momentos más oscuros, justo antes del amanecer\nMuero el viejo mundo y nace un nuevo día\n\nVamos a vivir como si fuera nuestra última noche con vida\nY vamos a bailar hasta que llegue la luz de la mañana\nE incluso si el sol no sale\nAl final, sólo el amor sobrevivirá\n\nSea el amor, sea el amor\nSólo sea el amor (sólo sea el amor), sólo amor (sólo amor)\nSomos amor (somos amor), sólo amor (sólo amor)\nY cuando las estrellas se alineen, tienes que hacer que el amor sea un estado mental\nPorque, al final, sólo el amor sobrevive\n\nAsí que se estrelle el mundo\nSi llega el final de los tiempos, el amor permanecerá\n\nVivir como si fuera la última noche con vida\nY vamos a bailar hasta que llegue la luz de la mañana\nE incluso si el sol no sale\nAl final, sólo el amor sobrevivirá\n\nSea el amor, sea el amor\nSólo sea el amor (sólo sea el amor), sólo amor (sólo amor)\nSomos amor (somos amor), sólo amor (sólo amor)\nY cuando las estrellas se alineen, tienes que hacer que el amor sea un estado mental\nPorque, al final, sólo el amor sobrevive\n\nSea el amor (sea el amor), sólo amor, amor, amor\n(Sea el amor, sólo amor) Sólo amor, amor, amor\n(Porque, al final) Sólo el аmor ѕobrevive"
+    }
+  ],
+  "bpm": 128,
+  "tone": "F# major",
+  "artistPeople": [
+    "Ryan Dolan"
+  ],
+  "backings": [
+    "Alan McGrath",
+    "Colm Farrel",
+    "Leanne Moore",
+    "Nicky Bailey"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Ryan Dolan",
+    "Wez Devine"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Marty Whelan"
+  ],
+  "jury": null,
+  "spokesperson": "Nicky Byrne"
+}

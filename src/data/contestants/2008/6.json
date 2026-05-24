@@ -1,0 +1,58 @@
+{
+  "id": 6,
+  "country": "TR",
+  "artist": "Mor ve Ötesi",
+  "song": "Deli",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/A__hliu_9UE",
+    "https://www.youtube-nocookie.com/embed/VeOtv894ls8",
+    "https://www.youtube-nocookie.com/embed/GQdwd4rSMmk",
+    "https://www.youtube-nocookie.com/embed/ARQWYnh76O4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "turkish"
+      ],
+      "displayedLanguages": null,
+      "title": "Deli",
+      "content": "Aranıyor, sahibi ruhumun\nTam yerine mi düştüm?\nDireniyor, faili tutkunun\nKızmış ve küçülmüş\n\nAranıyor, sahibi ruhumun\nTam yerine mi düştüm?\nDireniyor, direniyor, direniyor\n\nBeni büyütün, ağlatmayın\nSevginiz nerde, övündüğünüz?\nBeni büyütün, ağlatmayın\nSahte düşlerle oyalamayın\n\nAranıyor, sahibi ruhumun\nTam yerine mi düştüm?\nDireniyor, faili tutkunun\nKızmış ve küçülmüş\n\nAranıyor, sahibi ruhumun\nTam yerine mi düştüm?\nDireniyor, direniyor, direniyor\n\nBeni büyütün, ağlatmayın\nSevginiz nerde, övündüğünüz?\nBeni büyütün, ağlatmayın\nSahte düşlerle\n\nBir yarım akıllı, bir yarım deli\nDört yanım akıllı, bir yanım deli\nHerkeѕ akıllı, bir ben deli\nBir ben deli, bir ben deli\n\nBeni büyütün, ağlatmayın\nSevginiz nerde, övündüğünüz?\nBeni büyütün, ağlatmayın\nSahte düşlerle oyalamаyın"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Insane",
+      "content": "The owner of my soul is looked for\nDid I land in the right place?\nThe perpetrator of my passion is resisting\nHe's angry and diminished\n\nThe owner of my soul is looked for\nDid I land in the right place?\nHe's resisting, resisting, resisting\n\nRaise me, don't make me cry\nWhere's the love you're proud of?\nRaise me, don't make me cry\nDon't waste my time with fake dreams\n\nThe owner of my soul is looked for\nDid I land in the right place?\nThe perpetrator of my passion is resisting\nHe's angry and diminished\n\nThe owner of my soul is looked for\nDid I land in the right place?\nHe's resisting, resisting, resisting\n\nRaise me, don't make me cry\nWhere's the love you're proud of?\nRaise me, don't make me cry\nFake dreams\n\nI'm one half sane, one half insane\nI'm four sides sane, one side insane\nEverybody is sane, only I am insane\nOnly I am insane, only I am insane\n\nRaise me, don't make me cry\nWhere's the love you're proud of?\nRaise me, don't make me cry\nDon't waste my time with fake dreаmѕ"
+    }
+  ],
+  "bpm": 151,
+  "tone": "A minor",
+  "artistPeople": [
+    "Burak Güven",
+    "Harun Tekin",
+    "Kerem Kabadayı",
+    "Kerem Özyeğen"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Burak Güven",
+    "Harun Tekin",
+    "Kerem Kabadayı",
+    "Kerem Özyeğen"
+  ],
+  "broadcaster": "TRT",
+  "commentators": [
+    "Bülend Özveren"
+  ],
+  "jury": null,
+  "spokesperson": "Meltem Ersan Yazgan"
+}

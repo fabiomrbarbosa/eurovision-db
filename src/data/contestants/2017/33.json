@@ -1,0 +1,70 @@
+{
+  "id": 33,
+  "country": "AL",
+  "artist": "Lindita",
+  "song": "World",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/NyKOBMAXFFA",
+    "https://www.youtube-nocookie.com/embed/cP0aQAdYNjY",
+    "https://www.youtube-nocookie.com/embed/FR12a6Kaf9U",
+    "https://www.youtube-nocookie.com/embed/fCCCu_uTJ7U",
+    "https://www.youtube-nocookie.com/embed/9MWqK_PxrmA",
+    "https://www.youtube-nocookie.com/embed/1KXsuchavk8",
+    "https://www.youtube-nocookie.com/embed/gzXJfvd7xy0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "World",
+      "content": "We're so alike, yet different\nAt a loss for words, stuttering\nIt don't make sense, what's happening\nI just don't understand\n\nWhat's this fight all for?\nWhat's the cost of life in this world?\nAlmost impossible\nIs to let the love unite us all\n\nDoes anybody care, I'm weak and I'm afraid\nWondering if I will make it through this day\nFor the life of me I refuse to be anything but free\nBut I'm tired of all the battling, oh…\n\nWhat's this fight all for?\nWhat's the cost of life in this world?\nAlmost impossible\nIs to let the love unite us all\n\n<i style=\"color:#789\">Let the love unite us all\nLet the love unite us all</i>\n\n<i style=\"color:#789\">What's this fight all for?\nWhat's the cost of life in this world?\nAlmost impossible\nIs to let the love unite us all</i>\n\nWhat's this fight all for?\nWhat's the cost of life in this world?\nAll I ever really want\nIs to let the love unite uѕ аll"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "albanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Böte",
+      "content": "Jemi pranë, dhe larg\nPo më ngel në fyt çdo fjalë\nUnë dhe ti, shumë ne ngjajmë\nSa vështirë për ne me falë\n\nSëmundje që shërim nuk ka\nNdjej se zemra po më ndal\n\nKëtë realitet, ne e zgjodhëm vetë\nS'mundem as të fle, të\nGjata janë këto netë\nNjoha vetëm dhunë, kur\nDo të ketë një fund\nJetë e rëndë si plumb, se po çmendem unë\n\nSa shumë lotë, sa shumë\nDhembje në këtë botë\nJo më s'mund të duroj, do\nTë doja t'jem më e fortë\n\nT'jemi bashkë ne më të fortë\nOhhhh…\nT'jemi bashkë ne më të fortë\nOhhh, ohhh, ohhh…\n\n(Sa shumë lotë, sa\nShumë dhembje në këtë botë)\n\n(Jo nuk mundem të\nDuroj, do të doja t'jem më e fortë)\n\nSa shumë lotë, sa ѕhumë\nDhembje në këtë botë\nJo nuk mundem të duroj, do\nTë dojа t'jem më e fortë"
+    }
+  ],
+  "bpm": 85,
+  "tone": "D minor",
+  "artistPeople": [
+    "Lindita Halimi"
+  ],
+  "backings": [
+    "Anxhelo Miho",
+    "Denisa Xhemnica",
+    "Gjergj Kaçinari",
+    "Greta Radovani"
+  ],
+  "dancers": null,
+  "stageDirector": "Kleidi Eski",
+  "composers": [
+    "Klodian Qafoku"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Big Basta",
+    "Lindita Halimi"
+  ],
+  "writers": null,
+  "broadcaster": "RTSH",
+  "commentators": [
+    "Andri Xhahu"
+  ],
+  "jury": [
+    "Aulon Naci",
+    "Endri Sina",
+    "Haig Zacharian",
+    "Marsela Cibukaj",
+    "Olta Boka",
+    "Orgesa Zaimi"
+  ],
+  "spokesperson": "Andri Xhahu"
+}

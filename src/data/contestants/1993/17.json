@@ -1,0 +1,57 @@
+{
+  "id": 17,
+  "country": "DE",
+  "artist": "Münchener Freiheit",
+  "song": "Viel zu weit",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/34OQGAK7D8A",
+    "https://www.youtube-nocookie.com/embed/aZ6ZOUeORI8",
+    "https://www.youtube-nocookie.com/embed/jc5NyQXyuOs",
+    "https://www.youtube-nocookie.com/embed/NJF6RhF43Nw",
+    "https://www.youtube-nocookie.com/embed/46ZQ1c503So"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Viel zu weit",
+      "content": "Irgendwo in Zeit und Raum\nMuss es ferne Welten geben\nUnberührt und schön und doch erfüllt mit Leben\n\nLeben ohne Angst und Not\nOhne Hass und Neid zu spüren\nSterne, hell und klar, dass man sie fast berühren kann\nIch glaub daran\n\nDoch das ist viel zu weit\nDraussen in der Dunkelheit\nViel zu weit\nHier ist unsere Wirklichkeit\n\nIrgendwo in diesem Traum\nMuss es ferne Wünsche geben\nKeiner ist so tief wie unser Wunsch nach Leben\n\nLeben wie im Paradies\nOhne dafür zu bezahlen\nDas man wie ein Bild in tausend Farben malen kann\nIch glaub daran\n\nDoch das ist viel zu weit\nDraussen in der Dunkelheit\nViel zu weit\nHier ist unsere Wirklichkeit\n\nViel zu weit\nWeiter als es jemals war\nViel zu weit\nUnd dabei zum Greifen nah\n\nViel zu weit\nDraussen in der Dunkelheit\nViel zu weit\nHier ist unsere Wirklichkeit\n\nIrgendwo in Zeit und Raum\nHat es eine Welt gegeben\nUnberührt und schön, und damit fing das Leben an\nUnd was kam dann?\nUnd waѕ kam dаnn?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Much too far",
+      "content": "Somewhere in time and space\nThere must be far worlds\nUntouched and beautiful and still filled with life\n\nLife without fear and misery\nNo hatred and malice to be found\nStars, bright and clear, so you can almost touch them\nI believe in it\n\nBut it's much too far away\nOutside in the darkness\nMuch too far away\nHere is our reality\n\nSomewhere in that dream\nThere must be far wishes\nNone is as deep as our wish to live\n\nLife like in paradise\nWithout paying for it\nSo you can paint in thousand colours like a painting\nI believe in it\n\nBut it's much too far away\nOutside in the darkness\nMuch too far away\nHere is our reality\n\nMuch too far away\nFurther away than ever before\nMuch too far away\nYet so near to touch\n\nMuch too far away\nOutside in the darkness\nMuch too far away\nHere is our reality\n\nSomewhere in time and space\nThere has been a world\nUntouched and beautiful, and with that, life haѕ begun\nAnd what came next?\nAnd what cаme next?"
+    }
+  ],
+  "bpm": 153,
+  "tone": "B major",
+  "artistPeople": [
+    "Alexander Grünwald",
+    "Aron Strobel",
+    "Michael Kunze",
+    "Renard Henry Hatzke",
+    "Stefan Zauner"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Norbert Daum",
+  "lyricists": null,
+  "writers": [
+    "Stefan Zauner"
+  ],
+  "broadcaster": "ARD",
+  "commentators": [
+    "Jan Hofer"
+  ],
+  "jury": null,
+  "spokesperson": "Carmen Nebel"
+}

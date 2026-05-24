@@ -1,0 +1,63 @@
+{
+  "id": 21,
+  "country": "PL",
+  "artist": "Kasia Moś",
+  "song": "Flashlight",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/xVCokUW3BUo",
+    "https://www.youtube-nocookie.com/embed/dh9k78jPWDg",
+    "https://www.youtube-nocookie.com/embed/c3S3g0MKx08",
+    "https://www.youtube-nocookie.com/embed/MKZuK2UPqiE",
+    "https://www.youtube-nocookie.com/embed/QSbzfpiewmY",
+    "https://www.youtube-nocookie.com/embed/Kjmq5WTsmVM",
+    "https://www.youtube-nocookie.com/embed/rSM4kGKbwdk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Flashlight",
+      "content": "Like a bullet from a smoking gun\nThey try to tell us that we don't belong\nCreeping round at the depth of night\nJust two shadows in love we were ghosts\n\nTwo hearts we're invincible\nWhen we're together we're untouchable\nHaunted by if it's wrong or right\nShadows in love we were ghosts\n\nFire, like a burning desire\nTaking me higher\nWalk in a wire\nWe will never come down\n\nIt's like a flashlight burning in our eyes\nYou call the dogs off, I got them hypnotized\nYou never catch us, take us by suprise\nRunning faster at the speed of light\nFalling deeper got you in the sight\nBringing down your eyes in the sky\n\nLike two animals on the run\nNot afraid to fly into the sun\nInvisible we don't leave a trace\nWe're shadows in love we were ghosts\n\nFire, like a burning desire\nTaking me higher\nWalk in a wire\nWe will never come down\n\nIt's like a flashlight burning in our eyes\nYou call the dogs off, I got them hypnotized\nYou never catch us, take us by suprise\nRunning faster at the speed of light\nFalling deeper got you in а sight\nBringing down your eyes in the ѕky"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Ficklampa",
+      "content": "Som en kula från en rykande pistol\nFörsöker de säga till och att vi inte hör hemma här\nSmyger runt i nattens djup\nBara två förälskade skuggor vi var spöken\n\nTvå hjärtan vi är oövervinnerliga\nNär vi är tillsammans är vi oåtkomliga\nJagade av om det är fel eller rätt\nFörälskade skuggor vi var spöken\n\nEld, som ett brinnande begär\nSom tar mig högre\nGå in i en tråd\nVi kommer aldrig komma ner\n\nDet är som en ficklampa som brinner i våra ögon\nDu kallar bort hundarna, jag har fått dem hypnotiserade\nNi fångar oss aldrig, överraska oss\nSpringer fortare i ljusets hastighet\nFaller djupare har er inom sikte\nTar ner era ögon i skyn\n\nSom två djur på rymmen\nInte rädd att flyga in i solen\nOsynliga vi lämnar inte ett spår\nVi är förälskade skuggor vi var spöken\n\nEld, som ett brinnande begär\nSom tar mig högre\nGå in i en tråd\nVi kommer aldrig komma ner\n\nDet är som en ficklampa som brinner i våra ögon\nDu kallar bort hundarna, jag har fått dem hypnotiserade\nNi fångar oss aldrig, överraska oss\nSpringer fortare i ljusets hastighet\nFaller djupare har er inom sikte\nTar ner erа ögon i ѕkyn"
+    }
+  ],
+  "bpm": 120,
+  "tone": "G minor",
+  "artistPeople": [
+    "Katarzyna Moś"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Konrad Smuga",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Kasia Moś",
+    "Pete Barringer",
+    "Rickard Bonde Truumeel"
+  ],
+  "broadcaster": "TVP",
+  "commentators": [
+    "Artur Orzech"
+  ],
+  "jury": [
+    "Grzegorz Urban",
+    "Magda Steczkowska",
+    "Magdalena Tul",
+    "Marek Dutkiewicz",
+    "Piotr Iwicki"
+  ],
+  "spokesperson": "Anna Popek"
+}

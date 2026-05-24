@@ -1,0 +1,54 @@
+{
+  "id": 17,
+  "country": "MT",
+  "artist": "Joe Grech",
+  "song": "Marija l-Maltija",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Ve-Cy4kIZrQ",
+    "https://www.youtube-nocookie.com/embed/N0AL3Qcqcow",
+    "https://www.youtube-nocookie.com/embed/xZUuhMMRPlo",
+    "https://www.youtube-nocookie.com/embed/cEV-roVIPYM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "maltese"
+      ],
+      "displayedLanguages": null,
+      "title": "Marija l-Maltija",
+      "content": "M'hemmx li jdur l-iżveljarin\nNistenna li jgħaddi l-ħin\nPutirjal mimli bit-tama\nĦdejn il-funtana nkun nistenniek\nSabiex moħħi jsib is-serħ\nQalbi tintela' bil-ferħ\nIl fortuna laqqgħatni miegħek\nĦelu d-destin\n\nMarija, Marija, Marí\nIsmek fuq fomm kulħadd, isem ferrieħ\nMarija, Marija, Marí\nBħal ward li jfewwaħ ġnien tant hu sabiħ\n\nKulur ħaddejk lewn xrar in-nar\nMinn ġos-smewwiet\nL-Anġli ġabu żewġ kwiekeb kbar\nBlu, blu, dawk għajnejk sbieħ\nTbissima ta' mistrieħ\nDenja li tkun bint Malta\nMarija l-Maltija\n\nM'hemmx li jdur l-iżveljarin\nNistenna li jgħaddi l-ħin\nPutirjal mimli bit-tama\nFejn il-funtana nkun nistennik\nSabiex moħħi jsib is-serħ\nQalbi tintela' bil-ferħ\nIl fortuna laqqgħatni miegħek\nĦelu d-destin\n\nMarija, Marija, Marí\nIsmek fuq fomm kulħadd, isem ferrieħ\nMarija, Marija, Marí\nBħal ward li jfewwaħ ġnien tant hu sabiħ\n\nKulur ħaddejk lewn xrar in-nar\nMinn ġos-smewwiet\nL-Anġli ġabu żewġ kwiekeb kbar\nBlu, blu, dawk għajnejk sbieħ\nTbissima ta' miѕtrieħ\nDenja li tkun bint Malta\nMarija l-Maltija\n\nMarija l-Maltijа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The Maltese Maria",
+      "content": "Can't wait for the alarm clock to go round\nI'm waiting for the time to pass\nFull of hope, I'll be waiting for you\nNext to the fountain at Putirjal\nSo that my mind will be at ease\nYou'll fill my heart with joy\nFortune made you come my way\nSweet destiny\n\nMaria, Maria, Mary\nFor everyone your name means happiness\nMaria, Maria, Mary\nYou're like the roses that fill a garden with sweet smells\n\nThe colour of your cheeks is as red as fire\nFrom heaven above\nThe angels brought two big stars\nBlue, blue are your beautiful eyes\nA peaceful smile\nSo worthy to be a daughter of Malta\nThe Maltese Maria\n\nCan't wait for the alarm clock to go round\nI'm waiting for the time to pass\nFull of hope, I'll be waiting for you\nNext to the fountain at Putirjal\nSo that my mind will be at ease\nYou'll fill my heart with joy\nFortune made you come my way\nSweet destiny\n\nMaria, Maria, Mary\nFor everyone your name means happiness\nMaria, Maria, Mary\nYou're like the roses that fill a garden with sweet smells\n\nThe colour of your cheeks is as red as fire\nFrom heaven above\nThe angels brought two big stars\nBlue, blue are your beautiful eyes\nA peaceful smile\nSo worthy to be a daughter of Malta\nThe Maltese Maria\n\nThe Malteѕe Mariа"
+    }
+  ],
+  "bpm": 96,
+  "tone": "C major",
+  "artistPeople": [
+    "Joe Grech"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Joe Grech"
+  ],
+  "conductor": "Anthony Chircop",
+  "lyricists": [
+    "Charles Mifsud"
+  ],
+  "writers": null,
+  "broadcaster": "MBA",
+  "commentators": [
+    "Victor Aquilina"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

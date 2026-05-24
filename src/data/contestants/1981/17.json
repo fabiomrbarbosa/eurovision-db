@@ -1,0 +1,54 @@
+{
+  "id": 17,
+  "country": "TR",
+  "artist": "Modern Folk Trio & Ayşegül",
+  "song": "Dönme Dolap",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/4ktcsqjL6yg",
+    "https://www.youtube-nocookie.com/embed/sbhX21QMmu8",
+    "https://www.youtube-nocookie.com/embed/dzbDWxBOl4g"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "turkish"
+      ],
+      "displayedLanguages": null,
+      "title": "Dönme Dolap",
+      "content": "Yaşamak oyun değil arkadaş\nDünyaya gelmenin bir bedeli var\nDost bildiklerin tükenmez arkadaş\nSevgi insanların hamurunda var\n\nYaşamak dönme dolap gibidir\nOnun da iniş ve çıkışları var\nTalihlidir hep çıkanlar arkadaş\nGerçek dost inenlerin yanında var\n\nNefes almak değildir yaşamak\nDüşünmek ve hissetmektir yaşamak\nSen gülmeden geçen günlere acı\nDönme dolap iner çıkar arkadaş\n\nYaşamak oyun değil arkadaş\nDünyaya gelmenin bir bedeli var\nDost bildiklerin tükenmez arkadaş\nSevgi insanların hamurunda var\n\nYaşamak dönme dolap gibidir\nOnun da iniş ve çıkışları var\nTalihlidir hep çıkanlar arkadaş\nGerçek dost inenlerin yanında var\n\nNefes almak değildir yaşamak\nDüşünmek ve hisѕetmektir yaşamak\nSen gülmeden geçen günlere acı\nDönme dolap iner çıkar arkadaş\n\nArkadaş… arkadаş…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The carousel",
+      "content": "Life isn't a game, my friend\nComing to the world has its price\nFriendship is eternal, my friend\nLove is in the core of man\n\nLife is like a carousel\nIt also has its ups and downs\nLucky are those who go up my friend\nBut by those who go down stand true friends\n\nTo breathe is not to live\nLiving is thinking and feeling\nRegret the days gone without joy\nThe carousel goes up and down my friend\n\nLife isn't a game, my friend\nComing to the world has its price\nFriendship is eternal, my friend\nLove is in the core of man\n\nLife is like a carousel\nIt also has its ups and downs\nLucky are those who go up my friend\nBut by those who go down stand true friends\n\nTo breathe is not to live\nLiving is thinking and feeling\nRegret the days gone without joy\nThe carousel goeѕ up аnd down my friend\n\nMy friend… my friend…"
+    }
+  ],
+  "bpm": 103,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Ahmet Kurtaran",
+    "Ayşegül Aldinç",
+    "Doğan Canku",
+    "Selami Karaibrahimgil"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Onno Tunç",
+  "lyricists": null,
+  "writers": [
+    "Ali Kocatepe"
+  ],
+  "broadcaster": "TRT",
+  "commentators": [
+    "Bülend Özveren"
+  ],
+  "jury": null,
+  "spokesperson": "Başak Doğru"
+}

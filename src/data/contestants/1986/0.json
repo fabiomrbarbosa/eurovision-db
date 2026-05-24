@@ -1,0 +1,62 @@
+{
+  "id": 0,
+  "country": "BE",
+  "artist": "Sandra Kim",
+  "song": "J'aime la vie",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/AT3c41gi3B4",
+    "https://www.youtube-nocookie.com/embed/-SPzSC2gFew",
+    "https://www.youtube-nocookie.com/embed/dR95Rx2iDZo",
+    "https://www.youtube-nocookie.com/embed/Ts5ujYQFneA",
+    "https://www.youtube-nocookie.com/embed/R9ecPhgIODk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "J'aime la vie",
+      "content": "Je vois des gens courber le dos\nComme si la vie marquait zéro\nMoi, j'ai quinze ans et je te dis\nWhoa whoa…  j'aime la vie\n(J'aime la vie – la vie, toute la vie)\n\nIl faut y croire, j'ai moi aussi\nDes flashs d'espoir, des insomnies\nMais au total, à l'addition\nJ'aime l'horizon\n\nJ'aime, j'aime la vie\n(Même si c'est une folie)\nJ'aime, j'aime la vie\n(Bravo pour le défi)\nJ'aime, j'aime la vie\nNe m'en veuillez pas\nJe suis née comme ça\nJ'aime, j'aime la vie\n\nWhoa… et tant pis\nS'il pleut un peu beaucoup sur moi\nWhoa whoa… tu es là\n\nDevant Jacques Brel, devant Mozart\nJe m'sens petite, j'ai le cafard\nJe ne suis rien qu'une poussière\nDans cet univers\n(C'est la vie – la vie, toute la vie)\n\nMais dès qu'tu m'aimes, dès qu'tu souris\nMes joies s'enchaînent à l'infini\nY a plus de Brel, plus de Mozart\nMa vie redémarre\n\nJ'aime, j'aime la vie\n(Même si c'est une folie)\nJ'aime, j'aime la vie\n(Bravo pour le défi)\nJ'aime, j'aime la vie\nNe m'en veuillez pas\nJe suis née comme ça\nJ'aime, j'aime la vie\n\nTant pis s'il pleut un peu sur moi\n\nJ'aime, j'aime la vie\n(Même si c'est une folie)\nJ'aime, j'aime la vie\n(Bravo pour le défi)\nJ'aime, j'aime la vie\nNe m'en veuillez pas\nJe suis née comme ça\n\nJ'aime, j'aime la vie\n(Même si c'est une folie)\nJ'aime, j'aime la vie\n(Bravo pour le défi)\nPour les jours qui n'vont pas\nJ'ai un truc à moi\nJe compte sur toi\nJ'aime, j'aime la vie\n\nWhoa… et tant pis\nS'il pleut un peu beaucoup sur moi\nWhoa whoa… lа vie – oui, tu eѕ là"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I love life",
+      "content": "I see people bowing their back\nAs if life was a zero\nI'm fifteen and I tell you\nWhoa whoa… I love life\n(I love life – life, the whole life)\n\nYou have to believe in it, I also have\nFlashes of hope, of insomnia\nBut in total, on the bill\nI love the horizon\n\nI love, I love life\n(Even if it's madness)\nI love, I love life\n(Bravo for the challenge)\nI love, I love life\nDon't hold it against me\nI was born that way\nI love, I love life\n\nWhoa… and no matter\nIf it rains a bit much on me\nWhoa whoa… you're there\n\nCompared to Jacques Brel, to Mozart\nI feel so small, I've got the blues\nI'm just a speck of dust\nIn this universe\n(That's life – life, the whole life)\n\nBut as soon as you love me, as soon as you smile\nMy joy goes on forever\nThere's no more Brel, no more Mozart\nMy life begins again\n\nI love, I love life\n(Even if it's madness)\nI love, I love life\n(Bravo for the challenge)\nI love, I love life\nDon't hold it against me\nI was born that way\nI love, I love life\n\nNo matter if it rains a bit on me\n\nI love, I love life\n(Even if it's madness)\nI love, I love life\n(Bravo for the challenge)\nI love, I love life\nDon't hold it against me\nI was born that way\n\nI love, I love life\n(Even if it's madness)\nI love, I love life\n(Bravo for the challenge)\nFor those days when things don't work out\nI have something to fall back on\nI'm counting on you\nI love, I love life\n\nWhoa… and no matter\nIf it rains a bit much on me\nWhoa whoa… life – yeѕ, you аre there"
+    }
+  ],
+  "bpm": 139,
+  "tone": "D major",
+  "artistPeople": [
+    "Sandra Caldarone"
+  ],
+  "backings": [
+    "Angelo Crisci",
+    "Françoise Vidick",
+    "Jean-Paul Furnémont",
+    "Patricia Maessen"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Angelo Crisci",
+    "Jean-Paul Furnémont"
+  ],
+  "conductor": "Jo Carlier",
+  "lyricists": [
+    "Rosario Marino Atria"
+  ],
+  "writers": null,
+  "broadcaster": "RTBF",
+  "commentators": [
+    "Luc Appermont",
+    "Patrick Duhamel"
+  ],
+  "jury": null,
+  "spokesperson": "Jacques Olivier"
+}

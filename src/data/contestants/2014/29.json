@@ -1,0 +1,68 @@
+{
+  "id": 29,
+  "country": "EE",
+  "artist": "Tanja",
+  "song": "Amazing",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/wi9Q1ufjooE",
+    "https://www.youtube-nocookie.com/embed/tG5by63x_MA",
+    "https://www.youtube-nocookie.com/embed/TDeoEaxCKDE",
+    "https://www.youtube-nocookie.com/embed/2MqojuvtU3c",
+    "https://www.youtube-nocookie.com/embed/hOJBhVnfGnc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Amazing",
+      "content": "Remember how we used to be\nFloating the skies, it felt so heavenly\nWe were weightless\nWe froze to ice and melted down\nWe chased the stars and felt to the ground\nCouldn't care less\n\nThis feeling inside\nYou're all that I have, I need you back\nDo you hear me screaming?\n\nStay amazing lie (do you hear me screaming?)\nI don't, don't want another to make me high\nI want, want you to be amazing lie\nStay amazing lie\n\nYou know there's nothing I wouldn't do\nI'd brake the curse of time to be with you\nI'd be fearless\nI'd jump as far as I can see\nAnd beat the perfect storm in the endless sea\n\nThis feeling inside\nYou're all that I have, I need you back\nDo you hear me screaming?\n\nStay amazing lie (do you hear me screaming?)\nI don't, don't want another to make me high\nI want, want you to be amazing lie\nStay amazing lie\n\nThis feeling inside\nYou're all that I have, I need you back\nWe were weightless\n\nStay amazing lie (do you hear me ѕcreaming?)\nI don't, don't want another to make me high\nI want, want you to be amazing lie\nStay amаzing lie"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Asombrosa mentira",
+      "content": "Recuerda cómo éramos\nFlotando por los cielos, parecía tan celestial\nNos sentíamos ingrávidos\nNos convertimos en hielo y nos fundimos\nPerseguimos las estrellas y nos caímos al suelo\nFuimos descuidados\n\nEste sentimiento dentro\nTú eres todo lo que tengo, necesito que vuelvas\n¿Me oyes gritar?\n\nQuédate, asombrosa mentira (¿Me oyes gritar?)\nNo quiero, no quiero a otro que me ponga\nQuiero, quiero que seas tú, asombrosa mentira\nQuédate, asombrosa mentira\n\nSabes que no existe nada que no hiciera\nPararía el curso del tiempo por estar contigo\nNo tendría miedo\nSaltaría tan lejos como me permitiera la vista\nY vencería a la tormenta perfecta en el mar infinito\n\nEste sentimiento dentro\nTú eres todo lo que tengo, necesito que vuelvas\n¿Me oyes gritar?\n\nQuédate, asombrosa mentira (¿Me oyes gritar?)\nNo quiero, no quiero a otro que me ponga\nQuiero, quiero que seas tú, asombrosa mentira\nQuédate, asombrosa mentira\n\nEste sentimiento dentro\nTú eres todo lo que tengo, necesito que vuelvas\nNos sentíamos ingrávidos\n\nQuédate, asombrosa mentira (¿Me oyes gritar?)\nNo quiero, no quiero a otro que me ponga\nQuiero, quiero que seas tú, asombrosa mentira\nQuédate, asombroѕa mentirа"
+    }
+  ],
+  "bpm": 128,
+  "tone": "C minor",
+  "artistPeople": [
+    "Tatjana Mihhailova-Saar"
+  ],
+  "backings": [
+    "Kaire Vilgats",
+    "Marilin Kongo",
+    "Marvi Vallaste"
+  ],
+  "dancers": [
+    "Argo Liik"
+  ],
+  "stageDirector": null,
+  "composers": [
+    "Tatjana Mihhailova-Saar",
+    "Timo Vendt"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Tatjana Mihhailova-Saar"
+  ],
+  "writers": null,
+  "broadcaster": "ERR",
+  "commentators": [
+    "Marko Reikop"
+  ],
+  "jury": [
+    "Alar Kotkas",
+    "Laura Remmel",
+    "Marju Länik",
+    "Rasmus Rändvee",
+    "Rauno Märks"
+  ],
+  "spokesperson": "Lauri Pihlap"
+}

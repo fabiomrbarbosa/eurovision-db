@@ -1,0 +1,59 @@
+{
+  "id": 20,
+  "country": "AT",
+  "artist": "Wilfried",
+  "song": "Lisa, Mona Lisa",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/1fKcQb3ZEG4",
+    "https://www.youtube-nocookie.com/embed/qjYJFFVDuCY",
+    "https://www.youtube-nocookie.com/embed/D0_UVoZ98Wk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Lisa, Mona Lisa",
+      "content": "Sie schläft bei Tag und tanzt bei Nacht\nIch hör' sie weinen, wenn sie lacht\nUnd sie lacht immer wieder\n\nSie sieht bei Nacht und braucht kein Licht\nSie malt sich Märchen ins Gesicht\nUnd sie lacht, lacht mich nieder\n\nIrgendwann lern' ich dann, sie zu sehen\nIrgendwann fang' ich an\nKann ich hinter ihre Farben seh'n?\n\n(Lisa, Mona Lisa)\n(Lisa, Mona Lisa)\n\nSie lügt, doch sie belügt mich nicht\nSie trägt ihr Leben im Gesicht, und sie lebt\n\nIrgendwo ist sie so schwer zu sehen\nIrgendwo bin ich froh\nManchmal ihre Träume zu verstehen\n\nLisa, Mona Lisa\nLisa, Mona Lisa\n\nLisa, Mona Lisa\nLisa, Mona Lisa\n\nSie taumelt durch die Glitzerstadt\nSucht einen, der ein Lächeln hat für sie\nIrgendwie\n\nUnd irgendwie mag ich sie\nUnd irgendwie lieb' ich sie\nUnd irgendwann werd' ich sie auch versteh'n\n\nWhoa...\nLisa, Mona Lisa\nLisa, Mona Lisa\n\nLisa, Mona Lisa\nLisa, Mona Lisa\n\nLisa, oh Mona Lisa\nLisa, (Mona Liѕа)"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Lisa, Mona Lisa",
+      "content": "She sleeps during the day and dances at night\nI hear her crying when she laughs\nAnd she laughs again and again\n\nShe sees clearly at night and needs no light\nShe paints fairy tales on her face\nAnd she laughs me down\n\nSometime I learn to see her\nSometime I begin\nCan I look behind her colours?\n\n(Lisa, Mona Lisa)\n(Lisa, Mona Lisa)\n\nShe's lying but no liar\nShe carries her life in her face, and she lives\n\nSomehow it's very difficult to see her\nSomehow I'm glad\nTo sometimes understand her dreams\n\nLisa, Mona Lisa\nLisa, Mona Lisa\n\nLisa, Mona Lisa\nLisa, Mona Lisa\n\nShe's tumbling through the glittering town\nSearching for someone, who has a smile for her\nSomehow\n\nSomehow I like her\nAnd somehow I love her\nAnd somehow I will understand her\n\nWhoa...\nLisa, Mona Lisa\nLisa, Mona Lisa\n\nLisa, Mona Lisa\nLisa, Mona Lisa\n\nLisa, oh Mona Lisa\nLisa, (Mona Liѕа)"
+    }
+  ],
+  "bpm": 92,
+  "tone": "A major",
+  "artistPeople": [
+    "Wilfried Scheutz"
+  ],
+  "backings": [
+    "Alfred Petz",
+    "Cordula Kotzbek",
+    "Freddy Tezzele",
+    "Hannes Treiber",
+    "Hossein Rastegar"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Harald Neuwirth",
+  "lyricists": null,
+  "writers": [
+    "Klaus Kofler",
+    "Ronnie Herboltzheimer",
+    "Wilfried Scheutz"
+  ],
+  "broadcaster": "ORF",
+  "commentators": [
+    "Ernst Grissemann"
+  ],
+  "jury": null,
+  "spokesperson": "Tilia Herold"
+}

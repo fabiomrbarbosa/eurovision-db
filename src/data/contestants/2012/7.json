@@ -1,0 +1,50 @@
+{
+  "id": 7,
+  "country": "DE",
+  "artist": "Roman Lob",
+  "song": "Standing Still",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/cScJPH20P3A",
+    "https://www.youtube-nocookie.com/embed/phrAE03-F_8",
+    "https://www.youtube-nocookie.com/embed/XOVSID9tUrE",
+    "https://www.youtube-nocookie.com/embed/hp9DbJbol-Q"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Standing Still",
+      "content": "Guess we knew this was coming on\n'Cause you're already gone in my head\nYou can tell me that I'm wrong\nThat you're staying with me instead\n\nWhen winter's come along and summer's dead and gone\nIs there anything left here to say?\nI can put my arms around the emptiness I found\nAnd find a way to make you stay\n\nBut I'm standing still, I'm standing still\nAs you leave me now\nI'm standing still, I'm standing still\nAs you're walking out\nYeah, I'm just standing still\n\nNow before I'd be this strong\nPieces of me break so easy\nWhat I thought would be the end\nIs just the feeling that you freed me\n\nGirl, this ain't giving up, it's knowing where to stop\nKnowing when a thing is over\nI know my life is blind, see for the first time\nThis ain't gonna bring us closer\n\n'Cause I'm standing still, I'm standing still\nAs you leave me now, yeah…\nI'm standing still, I'm standing still\nAs you're walking out\n\nI'm standing still…\n'Cause I'm just standing still as you leave me now\nBut I'm just standing still\n\nWhen winter's come along and summer's dead and gone\nIs there anything left here to say?\nI can put my arms around the emptiness I found\nAnd find a way to make you stay\n\nI'm standing still, I'm standing still\nAs you leave me now, yeah…\nI'm standing still, I'm standing still\nAs you're walking out\nI'm just standing still\n\nJust standing still\nYeah, I'm just standing still\nJust stаnding ѕtill"
+    }
+  ],
+  "bpm": 108,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Roman Lob"
+  ],
+  "backings": [
+    "Alexander Linster",
+    "Marc Awounou",
+    "Thomas Fietz",
+    "Tobias Schmitz"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Jamie Cullum",
+    "Steve Robson",
+    "Wayne Hector"
+  ],
+  "broadcaster": "NDR",
+  "commentators": [
+    "Peter Urban"
+  ],
+  "jury": null,
+  "spokesperson": "Anke Engelke"
+}

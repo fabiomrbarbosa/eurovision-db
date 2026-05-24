@@ -1,0 +1,78 @@
+{
+  "id": 23,
+  "country": "ES",
+  "artist": "Soraya",
+  "song": "La noche es para mí",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/zw8uKCrDt7U",
+    "https://www.youtube-nocookie.com/embed/1MsyNuMfekQ",
+    "https://www.youtube-nocookie.com/embed/6vQYobgDYGc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish",
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "La noche es para mí",
+      "content": "Vuelvo a mirar, tus ojos son un volcán\nNo escaparás, tu fuego dirá la verdad\nNo importa si quieres o no, porque hoy mando yo\n\nCome on and take me, come on and shake me\nQuiero saber lo que sientes por mí\nCome on and take me, come on and shake me\n¿Que no lo ves que estoy loca por ti?\nCome set me free, just you and me\nLa noche es para mí\n\nNo puedo más, juro que mío serás\nVen a bailar, ya no podrás escapar\nNo importa si quieres o no, porque hoy mando yo\n\nCome on and take me, come on and shake me\nQuiero saber lo que sientes por mí\nCome on and take me, come on and shake me\n¿Que no lo ves que estoy loca por ti?\nCome set me free, just you and me\nLa noche es para mí\n\nAh…\nTake me, shake me, take me\n\nBrilla la luz, mi mágica noche eres tu\nYa no hay tabús\nQuiero clavarte en mi cruz\n\nCome on and take me, come on and shake me\nQuiero saber lo que sientes por mí\nCome on and take me, come on and shake me\n¿Que no lo ves que estoy loca por ti?\nLa noche es para mí\nLa noche es para mí\nCome set me free, just you and me\nLa noche eѕ parа mí"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "romanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Noaptea e pentru mine",
+      "content": "Mă uit din nou, ochii tăi sunt un vulcan\nNu vei scăpa, focul tău va spune adevărul\nNu contează dacă vrei sau nu, pentru că astăzi eu sunt la conducere\n\nHaide și ia-mă, haide și scutură-mă\nVreau să știu ce simți pentru mine\nHaide și ia-mă, haide și scutură-mă\nNu vezi că sunt nebun după tine?\nVino să mă eliberezi, doar tu și cu mine\nNoaptea este pentru mine\n\nNu mai pot suporta, jur că vei fi a mea\nHaide și dansează, nu poți scăpa\nNu contează dacă vrei sau nu, pentru că azi eu sunt la comandă\n\nHaide și ia-mă, haide și scutură-mă\nVreau să știu ce simți pentru mine\nHaide și ia-mă, haide și scutură-mă\nNu vezi că sunt nebun după tine?\nVino să mă eliberezi, doar tu și cu mine\nNoaptea este pentru mine\n\nAh…\nIa-mă, scutură-mă, scutură-mă, ia-mă\n\nStrălucește lumina, noaptea mea magică ești tu\nNu mai există tabuuri\n\"Vreau să te țin în cuie pe crucea mea\n\nVino și ia-mă, vino și scutură-mă\nVreau să știu ce simți pentru mine\nHaide și ia-mă, haide și scutură-mă\nNu vezi că sunt nebun după tine?\nNoaptea este pentru mine\nNoaptea e pentru mine\nVino ѕă mă eliberezi, doar tu și cu mine\nNoapteа e pentru mine"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The night is for me",
+      "content": "I look again, your eyes are like a volcano\nYou won't escape, your fire will tell the truth\nIt doesn't matter if you want or not, because today I command\n\nCome on and take me, come on and shake me \nI want to know what you feel about me\nCome on and take me, come on and shake me \nCan't you see I'm crazy about you?\nCome set me free, just you and me \nThe night is for me\n\nI can't go on any further, I swear you'll be mine\nCome and dance, you're no longer able to escape\nIt doesn't matter if you want or not, because today I command\n\nCome on and take me, come on and shake me \nI want to know what you feel about me\nCome on and take me, come on and shake me \nCan't you see I'm crazy about you?\nCome set me free, just you and me \nThe night is for me\n\nAh… \nTake me, shake me, take me \n\nThe light is shining, you are my magical night\nThere are no taboos anymore\nI want to nail you on my cross\n\nCome on and take me, come on and shake me \nI want to know what you feel about me\nCome on and take me, come on and shake me \nCan't you see I'm crazy about you?\nThe night is for me\nThe night is for me\nCome set me free, just you аnd me \nThe night iѕ for me"
+    }
+  ],
+  "bpm": 126,
+  "tone": "F# minor",
+  "artistPeople": [
+    "Soraya Arnelas"
+  ],
+  "backings": [
+    "Noemí Gallego",
+    "Nora Jiménez",
+    "Verónica Ferreiro"
+  ],
+  "dancers": [
+    "Alexey Postolosky",
+    "Dima Oleschenko"
+  ],
+  "stageDirector": "Maite Marcos",
+  "composers": [
+    "Dimitri Stassos",
+    "Irini Michas",
+    "Jason Gill"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Felipe Pedroso"
+  ],
+  "writers": null,
+  "broadcaster": "TVE",
+  "commentators": [
+    "Joaquín Guzmán"
+  ],
+  "jury": [
+    "José Luis Uribarri",
+    "Mariola Orellana",
+    "Mauro Canut",
+    "Pedro Martínez",
+    "Toni Garrido"
+  ],
+  "spokesperson": "Iñaki del Moral"
+}

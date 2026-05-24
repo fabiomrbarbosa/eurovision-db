@@ -1,0 +1,58 @@
+{
+  "id": 6,
+  "country": "GB",
+  "artist": "Ryder",
+  "song": "Runner in the Night",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/EjLSSXAZyzA",
+    "https://www.youtube-nocookie.com/embed/P4NDC61iqdI",
+    "https://www.youtube-nocookie.com/embed/JSyPuk7CLJk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Runner in the Night",
+      "content": "Goin' home, I'm a runner in the night\nTurnin' back with another chance to make it right\nI know where I went wrong\nI've been away for far too long\nI'm on the track – I'm a runner in the night\n\nYou told me once not to go, I guess I wasn't listening\nI was blind to reason then\nYou were the light guidin' me\nWas so confused I could not see\nWithout your love I wasn't free\n\nGoin' home, I'm a runner in the night\nTurnin' back with another chance to make it right\nI wanna start again\nGo back in time till I get to when\nI took your heart like a runner in the night\n\nYou didn't ask much of me\nI didn't make you promises\nYou kept faith, I broke the rules\nI'm sorry now, my mistake\nI didn't mean that your heart should break\nI want you back, what will it take?\nOh… oh…\n\nI know I made you wait, I only hope it's not too late\nTo try again for a runner in the night\n\n(Runnin', runnin', runnin', runnin')\n(Runnin', runnin', runnin', runnin')\nYeah…\n\nGoin' home, I'm a runner in the night, ooh…\nTouchin' down on the runway with the mornin' flight\nI know I made you wait\nI only hope it's not too late\nTo try again for a runner in the night\n(Runnin', runnin')\n\nGoin' home, I'm a runner in the night, ooh…\nTouchin' down on the runway with the mornin' flight\nI know I made you wait\nI only hope it'ѕ not too lаte"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "polish"
+      ],
+      "displayedLanguages": null,
+      "title": "Biegacz w nocy",
+      "content": "Wracam do domu, jestem biegaczem w nocy\nOdwracam się, mając kolejną szansę, by to naprawić\nWiem, gdzie popełniłem błąd\nByłem daleko zbyt długo\nJestem na właściwej drodze – jestem biegaczem w nocy\n\nPowiedziałaś mi raz, żebym nie odchodził, chyba nie słuchałem\nByłem wtedy ślepy na rozsądek\nByłaś światłem, które mnie prowadziło\nByłem tak zagubiony, że nie mogłem zobaczyć\nBez twojej miłości nie byłem wolny\n\nWracam do domu, jestem biegaczem w nocy\nOdwracam się, mając kolejną szansę, by to naprawić\nChcę zacząć od nowa\nCofnąć czas, aż wrócę do chwili\nGdy zabrałem twoje serce jak biegacz w nocy\n\nNie wymagałaś ode mnie wiele\nNie składałem ci obietnic\nTy wierzyłaś, ja łamałem zasady\nTeraz żałuję, to był mój błąd\nNie chciałem, by twoje serce pękło\nChcę cię odzyskać – co muszę zrobić?\nOh… oh…\n\nWiem, że kazałem ci czekać, mam tylko nadzieję, że nie jest za późno\nBy spróbować jeszcze raz – dla biegacza w nocy\n\n(Biegnę, biegnę, biegnę, biegnę…)\n(Biegnę, biegnę, biegnę, biegnę…)\nYeah…\n\nWracam do domu, jestem biegaczem w nocy, ooh…\nLąduję na pasie z porannym lotem\nWiem, że kazałem ci czekać\nMam tylko nadzieję, że nie jest za późno\nBy spróbować jeszcze raz – dla biegacza w nocy\n(Biegnę, biegnę…)\n\nWracam do domu, jestem biegaczem w nocy, ooh…\nLąduję na pasie z porannym lotem\nWiem, że kazałem ci czekać\nMam tylko nadzieję, że nie jeѕt zа późno"
+    }
+  ],
+  "bpm": 141,
+  "tone": "G major",
+  "artistPeople": [
+    "Andrew Ebsworth",
+    "Dudley Phillips",
+    "Michael English",
+    "Martin Williams",
+    "Paul Robertson",
+    "Robert Terry"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Brian Wade"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Maureen Darbyshire"
+  ],
+  "writers": null,
+  "broadcaster": "BBC",
+  "commentators": [
+    "Terry Wogan"
+  ],
+  "jury": null,
+  "spokesperson": "Colin Berry"
+}

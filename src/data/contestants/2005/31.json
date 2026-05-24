@@ -1,0 +1,52 @@
+{
+  "id": 31,
+  "country": "FI",
+  "artist": "Geir Rönning",
+  "song": "Why",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/09TuHCqg5t4",
+    "https://www.youtube-nocookie.com/embed/_5s0GEJuUNw",
+    "https://www.youtube-nocookie.com/embed/dgsZNoxcmoo"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Why",
+      "content": "In the night, there's a candle burning\nLittle light full of ache and yearning\nFor the child who won't be returning\nAnd all the loved ones left behind\n\nMorning breaks with the news of violence\nNothing moves in the haze of silence\nDeep inside it feels like a riot\nOh, where can I find peace of mind?\n\n(And they say that our trouble's just begun)\nTell me how\n(Tell me how much we'll lose before we've won)\nThese tears won't dry\n\nSo I'm asking\nWhy? (Why?) Why?\nWill we ever find the answer?\nWhy? (Why?) Why?\nWhy can't love be all that matters?\nWhy? (Why?) Why?\nWhile we try to understand\nFaith and hope are slipping through our hands\nCan you tell me why?\n\nWhat's the secret to make things better?\nWhere's the thread holding us together?\nHow do we find the key that lets us\nOpen up our hearts and minds?\n\nWinds of faith blow us past our limits\nSpend our lives searching for forgiveness\nCan one voice really make a difference?\nStill I know we've got to try\n\n(And they say that our trouble's just begun)\nTell me how\n(Tell me how much we'll lose before we've won)\nThese tears won't dry\n\nSo I'm asking\nWhy? (Why?) Why?\nWill we ever find the answer?\nWhy? (Why?) Why?\nWhy can't love be all that matters?\nWhy? (Why?) Why?\nWhile we try to understand\nThat faith and hope are slipping through our hands\n(Tell me why)\n\nTears are falling down like rain\nA flood of questions come\nIt is getting hard to wait\nIs really love so hard to find?\n\nSo I'm asking\n(Why?) Why…?\nWill we ever find the answer?\nWhy? (Why?) Why? (Why?)\nWhy can't love be all that matters?\nWhy? (Why?) Why?\nWhile we pray to understand\nFaith and hope are slipping through our hаndѕ\nTell me why"
+    }
+  ],
+  "bpm": 150,
+  "tone": "Ab minor",
+  "artistPeople": [
+    "Geir Rønning"
+  ],
+  "backings": [
+    "Charles Salter",
+    "Hanna-Riikka Siitonen",
+    "Mika Turunen",
+    "Nina Tapio",
+    "Tomas Höglund"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Mika Toivanen"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Steven Stewart"
+  ],
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Asko Murtomäki",
+    "Heikki Paasonen",
+    "Jaana Pelkonen"
+  ],
+  "jury": null,
+  "spokesperson": "Jari Sillanpää"
+}

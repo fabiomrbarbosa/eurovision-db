@@ -1,0 +1,54 @@
+{
+  "id": 11,
+  "country": "LU",
+  "artist": "David-Alexandre Winter",
+  "song": "Je suis tombé du ciel",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/9-nTwltlavQ",
+    "https://www.youtube-nocookie.com/embed/vzRDLhV3zqU",
+    "https://www.youtube-nocookie.com/embed/v_E0hUHpw44",
+    "https://www.youtube-nocookie.com/embed/FzRLWcCgrHk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Je suis tombé du ciel",
+      "content": "Je vivais bien là-haut dans mes nuages\nJ'avais le cœur et la tête en voyage\nJe me croyais tranquille pour longtemps\nPour longtemps\n\nChaque fois que je regardais la terre\nJe la trouvais bien ronde et bien sévère\nJe n'avais pas envie de voir les gens\nMais tout à coup, un jour, en te voyant\n\nJe suis tombé du ciel pour me pencher sur toi\nEn arrivant du ciel, je suis tombé sur toi\nIl m'est venu des ailes en m'approchant de toi\nJe suis tombé du ciel et je suis fou de joie\n\nJe n'irai plus jamais dans les nuages\nTu es ma ville et tu es mon village\nJ'ai découvert que le seul paradis\nC'est ici\n\nDieu qu'on s'ennuie quand on plane là-haut\nÀ vivre seul comme un triste pierrot\nQuand il suffit de plonger dans tes yeux\nPour naviguer au milieu du ciel bleu\n\nJe suis tombé du ciel pour me pencher sur toi\nEn arrivant du ciel, je suis tombé sur toi\nIl m'est venu des ailes en m'approchant de toi\nJe suis tombé du ciel et je suis fou de joie\n\nLa la la la la la... la la la la la la...\nLa la la la la lа... et je suiѕ fou de joie"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I fell from heaven",
+      "content": "I lived well up there in my clouds\nMy heart and my head were travelling\nI felt I was quiet for a long time\nFor a long time\n\nEverytime I looked at the earth\nI found it very round and very hard\nI didn't want to see people\nBut suddenly, one day, while seeing you\n\nI fell from heaven to bend me over you\nArriving from heaven, I fell on you\nApproaching you, gave me wings\nI fell from heaven and I'm mad with joy\n\nI'll never go back to the clouds\nYou're my city and you're my village\nI've discovered that the only paradise\nIs here\n\nI pray that they will be bored when they sore up there\nTo live alone like a sad stay-at-home\nWhen it's enough to dive in your eyes\nTo navigate in the middle of the blue sky\n\nI fell from heaven to bend me over you\nArriving from heaven, I fell on you\nApproaching you, gave me wingѕ\nI fell from heaven and I'm mad with joy\n\nLa la la la la la... la la la la la la...\nLa la la la la la... and I am mаd with joy"
+    }
+  ],
+  "bpm": 124,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Leon Kleerekoper"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Yves de Vriendt"
+  ],
+  "conductor": "Raymond Lefèvre",
+  "lyricists": [
+    "Eddy Marnay"
+  ],
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": [
+    "Jacques Navadic"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

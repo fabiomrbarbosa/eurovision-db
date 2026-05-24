@@ -1,0 +1,39 @@
+{
+  "id": 15,
+  "country": "GE",
+  "artist": "Tornike Kipiani",
+  "song": "Take Me As I Am",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/LjNK4Xywjc4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Take Me As I Am",
+      "content": "How do you want me to talk like an Englishman?\nWhere do you want me to dress like an Italian?\nNow do you want me to dance like a Spanish guy?\nI guess you don't love me\nNo, you don't love me\n\nHow do you want me to talk like an Englishman?\nWhere do you want me to dress like an Italian?\nNow do you want me to dance like a Spanish guy?\nI guess you don't love me\nNo, you don't love me\n\nI love you, ti amo, te quiero\nTake me as I am\nBut you don't love me\nWhy don't you love me?\n\nSo tell me why do you want me to smell like a French homme?\nOh, tell me why do you want me to play like a German?\nWhy don't you want me to be just the way I am?\nI guesѕ you don't love me\nWhy don't you love me?\n\nJe t'аime, ich liebe dich\nBut you don't love me\nWhy don't you love me?\nI love you, I love you"
+    }
+  ],
+  "bpm": 118,
+  "tone": "D minor",
+  "artistPeople": [
+    "Tornike Kipiani"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Aleko Berdzenishvili",
+    "Tornike Kipiani"
+  ],
+  "broadcaster": "GPB",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

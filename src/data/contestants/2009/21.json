@@ -1,0 +1,44 @@
+{
+  "id": 21,
+  "country": "MT",
+  "artist": "Chiara",
+  "song": "What If We",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/kX5STdIuiEg",
+    "https://www.youtube-nocookie.com/embed/A_2L8rXIghY",
+    "https://www.youtube-nocookie.com/embed/RsC4_7pMOSY"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "What If We",
+      "content": "Words of wisdom, prophets and quotes\nWise men talking, tales from the old\nI reach for the stars, wherever they are, in darkness\nWe're lost, fading away\n\nWhat if we could be free?\nMystify our wisdom in time\nAnd one day we'll see\nWhat if we found the key?\nThrow the dice, unravel our lies\nAnd learn how to be\n\nAll the madness feeding our soul\nTake a wild guess out of control\nThere will be a star, no matter how far, shining\nOne day we'll sail away\n\nWhat if we could be free?\nMystify our wisdom in time\nAnd one day we'll see\nWhat if we found the key?\nThrow the dice, unravel our lies\nAnd learn how to be\n\nIf you don't know your destination\nWho determines your destiny?\n\nWhat if we could be free?\nMystify our wisdom in time\nAnd one day we'll see\nWhat if we found the key?\nThrow the dice, unravel our lieѕ\nAnd leаrn how to be"
+    }
+  ],
+  "bpm": 124,
+  "tone": "F# major",
+  "artistPeople": [
+    "Chiara Siracusa"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Marc Paelinck"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Gregory Bilsen"
+  ],
+  "writers": null,
+  "broadcaster": "PBS",
+  "commentators": [
+    "Valerie Vella"
+  ],
+  "jury": null,
+  "spokesperson": "Pauline Agius"
+}

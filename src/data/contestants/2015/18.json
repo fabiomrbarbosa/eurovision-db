@@ -1,0 +1,58 @@
+{
+  "id": 18,
+  "country": "GR",
+  "artist": "Maria Elena Kyriakou",
+  "song": "One Last Breath",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/1RZ2JGC9Nlw",
+    "https://www.youtube-nocookie.com/embed/qD6epZ-YWSc",
+    "https://www.youtube-nocookie.com/embed/v7xKMnNcVdM",
+    "https://www.youtube-nocookie.com/embed/EA0RCGtBG24",
+    "https://www.youtube-nocookie.com/embed/voouPZFBVJs"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "",
+      "content": "My soul, I guess I'm just no one\nYou killed me and I'm done, without a gun\nMy love will fade, I feel betrayed\nJust can't be brave without faith\nHow could you, love?\n\nI'm begging you, take me wherever you have gone\nCome back and save me, don't want to be alone\nNothing left, I just have one last breath\n\nI'm begging you, take me out of this fiery hell\nCome back and save me, what happened wasn't fair\nNothing left, all that I have is one last breath\nOnly one last breath\n\nJust pain, fake love, a drunken lie\nI struggle to survive, I'm still alive\nI'm fighting tears and fears apart\nBut still it's stuck inside my heart…\n\nI'm begging you, take me out of this fiery hell\nCome back and save me, what happened wasn't fair\nNothing left, all that I have is one last breath\nOnly one last breath\n\nI'm begging you, take me wherever you have gone\nI'm begging you, take me, don't wanna be alone\nAll that I have is one last breath\nOne laѕt breаth"
+    }
+  ],
+  "bpm": 85,
+  "tone": "A minor",
+  "artistPeople": [
+    "Maria Elena Kyriakou"
+  ],
+  "backings": [
+    "Alex Economou",
+    "Katerina Kyriakou"
+  ],
+  "dancers": null,
+  "stageDirector": "Maria Liraraki",
+  "composers": [
+    "Efthivoulos Theocharous",
+    "Maria Elena Kyriakou"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Evelina Tziora",
+    "Vangelis Konstantinidis"
+  ],
+  "writers": null,
+  "broadcaster": "NERIT",
+  "commentators": [
+    "Giorgos Kapoutzidis",
+    "Maria Kozakou"
+  ],
+  "jury": [
+    "Antonios Karatzikos",
+    "Helen Giannatsoulia",
+    "Ioannis Koutsaftakis",
+    "Jick Nakassian",
+    "Marianna Efstratiou"
+  ],
+  "spokesperson": "Helena Paparizou"
+}

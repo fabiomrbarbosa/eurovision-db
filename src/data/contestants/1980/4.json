@@ -1,0 +1,65 @@
+{
+  "id": 4,
+  "country": "NL",
+  "artist": "Maggie MacNeal",
+  "song": "Amsterdam",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/0pVWW_bj6eE",
+    "https://www.youtube-nocookie.com/embed/IKds-H5XnFw",
+    "https://www.youtube-nocookie.com/embed/UMLQViNFqgo",
+    "https://www.youtube-nocookie.com/embed/ZYdcr9G5o8A"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "Amsterdam",
+      "content": "Waar in de wereld je ook bent\nJe denkt terug aan dat moment\nEn weet niet waar je het van kent\n\nMaar opeens herinner je je weer\nEr was een eindeloze sfeer\nEn die is er telkens weer\n\nIn Amsterdam, Amsterdam\nIs van alles aan de gang\nAmsterdam, Amsterdam\nBestaat al eeuwenlang\n\nAmsterdam, Amsterdam\nDe stad waar alles kan\nAmsterdam, Amsterdam\nIedereen die weet ervan\n\nHier ben je werk'lijk nooit alleen\nJe vindt een deel van iedereen\nIn alle dingen om je heen\n\nHier voelen zich alle mensen blij\nEn in hun doen en laten vrij\nMet het gevoel: je hoort erbij\n\nIn Amsterdam, Amsterdam\nIs van alles aan de gang\nAmsterdam, Amsterdam\nBestaat al eeuwenlang\n\nIn die stad waar heel de wijde wereld jou begroet\nVind je dat wat je zoekt\nOveral in overvloed\n\nAmsterdam, Amsterdam\nDaar is van alles aan de gang\nAmsterdam, Amsterdam\nBestaat al eeuwenlang\n\nAmsterdam\nDe stad waar alles kan\nAmsterdam, Amѕterdam\nIedereen die weet ervаn"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Amsterdam",
+      "content": "Wherever you are in the world\nYou think back to that moment\nAnd you don't know where you know it from\n\nBut all of sudden you remember again\nThere was a superb atmosphere\nAnd it's there time and again\n\nIn Amsterdam, Amsterdam\nAll kinds of things are going on\nAmsterdam, Amsterdam\nExists for centuries already\n\nAmsterdam, Amsterdam\nThe city where everything's possible\nAmsterdam, Amsterdam\nEveryone knows about it\n\nHere you're really never alone\nYou find a part of everyone\nIn everything around you\n\nHere, all people feel happy\nAnd free in their comings and goings\nWith the feeling of belonging\n\nIn Amsterdam, Amsterdam\nAll kinds of things are going on\nAmsterdam, Amsterdam\nExists for centuries already\n\nIn that city where the whole wide world greets you\nYou'll find everything you're looking for\nEverywhere in plenty\n\nAmsterdam, Amsterdam\nAll kinds of things are going on there\nAmsterdam, Amsterdam\nExists for centuries already\n\nAmsterdam, Amsterdam\nThe city where everything's possible\nAmsterdam, Amsterdam\nEveryone knowѕ аbout it"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Amsterdam",
+      "content": "Dondequiera que estés en el mundo\nRecuerdas aquel momento profundo\nSin saber de dónde viene ese segundo\n\nPero de repente lo recuerdas bien\nHabía una atmósfera sin fin\nY siempre vuelve, como un clarín\n\nEn Ámsterdam, Ámsterdam\nSiempre algo está por suceder\nÁmsterdam, Ámsterdam\nUna ciudad con siglos de ser\n\nÁmsterdam, Ámsterdam\nDonde todo es posible, al parecer\nÁmsterdam, Ámsterdam\nTodos lo saben, todos pueden ver\n\nAquí nunca estás realmente solo\nUna parte de todos está a tu modo\nEn cada cosa que ves en torno\n\nAquí todos se sienten alegres y en paz\nLibres en lo que hacen, sin más\nCon la sensación de que aquí perteneces, en verdad\n\nEn Ámsterdam, Ámsterdam\nSiempre algo está por suceder\nÁmsterdam, Ámsterdam\nUna ciudad con siglos de ser\n\nEn la ciudad donde el mundo te saluda al llegar\nEncuentras lo que buscas en cualquier lugar\nEn abundancia, sin cesar\n\nÁmsterdam, Ámsterdam\nSiempre algo está por suceder\nÁmsterdam, Ámsterdam\nUna ciudad con siglos de ser\n\nÁmsterdam\nDonde todo es posible, al parecer\nÁmsterdam, Ámsterdam\nTodos lo sаben, todoѕ lo pueden ver"
+    }
+  ],
+  "bpm": 162,
+  "tone": "F minor",
+  "artistPeople": [
+    "Sjoukje Smit-van 't Spijker"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Frans Smit",
+    "Sjoukje Smit-van 't Spijker",
+    "Robert Verwey"
+  ],
+  "conductor": "Rogier van Otterloo",
+  "lyricists": [
+    "Alex Alberts"
+  ],
+  "writers": null,
+  "broadcaster": "NOS",
+  "commentators": [
+    "Pim Jacobs"
+  ],
+  "jury": null,
+  "spokesperson": "Flip van der Schalie"
+}

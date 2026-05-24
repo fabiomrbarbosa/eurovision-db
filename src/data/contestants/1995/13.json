@@ -1,0 +1,45 @@
+{
+  "id": 13,
+  "country": "IE",
+  "artist": "Eddie Friel",
+  "song": "Dreamin'",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/CRZxY4rLbvM",
+    "https://www.youtube-nocookie.com/embed/dTcQc_5rPgw",
+    "https://www.youtube-nocookie.com/embed/m8PXeIg6jbQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Dreamin'",
+      "content": "Dreamin'\nDreamin' on a silver sea of moonlight\nMagic fills the night\nMelodies alight, when I'm dreamin'\n\nDreamin'\nDreamin' how I love this nowhere feelin'\nRound and round I go\nShadows soft and low, when I'm dreamin'\n\nYou can sail on any ocean\nDream an easy melody\nMoonlight magic shines so gently\nMoonlight magic harmony\n\nNight time slips away in silence\n(Dreamin')\nAnd daylight steals across my silver sea\nAnd goodbye dreamin' in the moonlight\n(Goodbye)\nSleepy wake up to reality\n\nLalala...\nLala lala lala lala lalala...\nLala la lala...\nUnderneath the stars, dreamin'\n\nFar away a blue horizon\nDriftin' on the midnight sea\nMoonlight magic shines ѕo gently\nMoonlight magic harmony\n\n(Dreamin')\n(Lala lala lala lala lalala...)\nSleepy wake up to reality\n(Dreаmin')"
+    }
+  ],
+  "bpm": 89,
+  "tone": "A major",
+  "artistPeople": [
+    "Eddie Friel"
+  ],
+  "backings": [
+    "Eamonn Toal"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Noel Kelehan",
+  "lyricists": null,
+  "writers": [
+    "Barry Woods",
+    "Richard Abbott"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Pat Kenny"
+  ],
+  "jury": null,
+  "spokesperson": "Eileen Dunne"
+}

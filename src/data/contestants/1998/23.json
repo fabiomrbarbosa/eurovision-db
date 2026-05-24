@@ -1,0 +1,60 @@
+{
+  "id": 23,
+  "country": "FR",
+  "artist": "Marie-Line",
+  "song": "Où aller",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/_KY-84SdQVs",
+    "https://www.youtube-nocookie.com/embed/Oms1nQVJT90"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Où aller",
+      "content": "Tu n'as pas où aller\nTu n'sais même pas où aller\nTu n'as pas où aller\nTu n'sais même pas où aller\n\nTu n'as pas où aller\nQuand tu es bloqué, tes yeux sont fermés\nPersonne peut décider le cours de ta vie\nToi seul peut le dessiner\n\nTu n'es pas le premier\nL'espoir va t'encourager\nSi tu penses, tu relances\nSi tu flanches, tu renonces\n\nTu n'as pas où aller\nTu n'sais même pas où aller\nTu n'as pas où aller\n(Tu n'sais même pas où aller)\nNon, non\n\nDans tes manières, t'es bien remonté\nMais ton cœur parle\nT'en baves, tu rames, t'es mal\n\nD'y voir bien clair\nTu pourrais trouver le vrai chemin, la foi, la force\nQui mènent à la vérité\n\nTu n'as pas où aller\nTu n'sais même pas où aller\nTu n'as pas où aller\nTu n'sais même pas où aller\n\nNon, tu n'as pas, oh, où aller\n(Tu n'as pas où aller)\n(Tu n'sais même pas où aller)\n(Tu n'as pas où aller)\nToi seul peux tout changer\n(Tu n'sais même pas où aller)\nOh non\n\n(Même pas où aller, même pas où aller)\n(Même pas où aller, même pas où aller)\nOh la...\n(Même pas où aller, même pas où aller)\nOh lala...\n(Même pas où aller, même pas où aller)\nOh la...\n\n(Tu n'as pas où aller)\nNon, tu n'as pas\n(Tu n'sais même pas où aller)\nOh... où aller\n(Tu n'as pas où aller)\nOh... où aller\n(Tu n'sais même pas où aller)\nOh non\n\n(Tu n'as pas où aller)\n(Tu n'sais même pas où aller)\nOh la... où aller\n(Tu n'as pas où aller)\nOh... où aller\n(Tu n'sais même pas où aller)\nOh la...\n\n(Tu n'as pas où aller)\n(Tu n'sais même pas où aller)\nLa la...\n(Tu n'as pas où aller)\n(Tu n'sais même paѕ où аller)"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Where to go",
+      "content": "You don't have somewhere to go\nYou don't even know where to go\nYou don't have somewhere to go\nYou don't even know where to go\n\nYou don't have somewhere to go\nWhen you're stuck, your eyes are closed\nNobody can decide the course of your life\nOnly you can draw it\n\nYou're not the first one\nHope will encourage you\nIf you think, you revive\nIf you weaken, you give up\n\nYou don't have somewhere to go\nYou don't even know where to go\nYou don't have somewhere to go\n(You don't even know where to go)\nNo, no\n\nIn your manners, you're well up\nBut your heart speaks\nYou drool, you work hard, you feel bad\n\nTo see very clear\nYou could find the real road, the faith, the strength\nLeading to the truth\n\nYou don't have somewhere to go\nYou don't even know where to go\nYou don't have somewhere to go\nYou don't even know where to go\n\nNo, you don't have, oh, somewhere to go\n(You don't have somewhere to go)\n(You don't even know where to go)\n(You don't have somewhere to go)\nOnly you can change everything\n(You don't even know where to go)\nOh no\n\n(Not even somewhere to go, not even somewhere to go)\n(Not even somewhere to go, not even somewhere to go)\nOh la...\n(Not even somewhere to go, not even somewhere to go)\nOh lala...\n(Not even somewhere to go, not even somewhere to go)\nOh la...\n\n(You don't have somewhere to go)\nNo, you don't have\n(You don't even know where to go)\nOh... somewhere to go\n(You don't have somewhere to go)\nOh... where to go\n(You don't even know where to go)\nOh no\n\n(You don't have somewhere to go)\n(You don't even know where to go)\nOh la... where to go\n(You don't have somewhere to go)\nOh... where to go\n(You don't even know where to go)\nOh la...\n\n(You don't have somewhere to go)\n(You don't even know where to go)\nLa la...\n(You don't hаve ѕomewhere to go)\n(You don't even know where to go)"
+    }
+  ],
+  "bpm": 136,
+  "tone": "C minor",
+  "artistPeople": [
+    "Marie Line Marolany"
+  ],
+  "backings": [
+    "Jean-Philippe Dary",
+    "Micaël Sene",
+    "Moïse Crespy"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jean-Philippe Dary",
+    "Marie Line Marolany",
+    "Micaël Sene",
+    "Moïse Crespy"
+  ],
+  "conductor": "Martin Koch",
+  "lyricists": [
+    "Marie Line Marolany"
+  ],
+  "writers": null,
+  "broadcaster": "FT2",
+  "commentators": [
+    "Chris Mayne",
+    "Laura Mayne"
+  ],
+  "jury": null,
+  "spokesperson": "Marie Myriam"
+}

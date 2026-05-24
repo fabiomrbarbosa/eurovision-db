@@ -1,0 +1,59 @@
+{
+  "id": 25,
+  "country": "NO",
+  "artist": "Tooji",
+  "song": "Stay",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-ZaxIY1VAbM",
+    "https://www.youtube-nocookie.com/embed/7prpZqI10Ck",
+    "https://www.youtube-nocookie.com/embed/qVEXghAvBko"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Stay",
+      "content": "I hear music as I walk down the street\nStart moving to the rhythm, heart is pumping the beat\nI hear the people shout out: \"Turn up the music louder\"\nBetter start running if you can't stand the heat\n\nWhat's it doin' to me? I feel it settin' me free\nIt's like I'm losin' all control\nYou know it's makin' me hot and baby I don't stop\nIt's like a fire in my soul\n\nI don't know what I'm doing tonight\nBut this rush, it is making me stronger\nI don't know if it's wrong or it's right\nBut I know I want you to stay (Nana nana nana)\nStay (Nana nana nana)\n\nMy heart beats faster as I'm scanning the crowd\nMy meters are peaking, I can tell you're around\nIt's like I'm on a (high now), nothing can pull me (down now)\nSirens are calling and I can't kill the sound\n\nWhat's it doin' to me? I feel it settin' me free\nIt's like I'm losin' all control\nYou know it's makin' me hot and baby I don't stop\nIt's like a fire in my soul\n\nI don't know what I'm doing tonight\nBut this rush, it is making me stronger\nI don't know if it's wrong or it's right\nBut I know I want you to stay (Nana nana nana)\nStay (Nana nana nana)\n\nWork it, move your body, baby\nYou better (work) – nana nana nana\nYou better (work) – nana nana nana\nCome on now, work it, move your body, baby\nYou better (work) – nana nana nana\nYou better (work)\n\nI don't know what I'm doing tonight\nBut this rush, it is making me stronger\nI don't know if it's wrong or it's right\nBut I know I want you to stay\n\nI don't know what I'm doing tonight\nBut this rush, it is making me stronger\nI don't know if it's wrong or it's right\nBut I know I want you to ѕtay (Nana nana nana)\nStay (Nana nana nanа)"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Останься",
+      "content": "Я слышу музыку, когда иду по улице\nНачинаю двигаться в такт, сердце бьется в такт\nЯ слышу, как люди кричат: \"Сделай музыку громче\"\nЛучше беги, если не можешь выносить жару\n\nЧто это со мной делает? Я чувствую, что это освобождает меня\nЯ как будто теряю контроль над собой\nТы знаешь, это возбуждает меня, и, детка, я не останавливаюсь\nЭто как огонь в моей душе\n\nЯ не знаю, что я делаю сегодня вечером\nНо этот порыв делает меня сильнее\nЯ не знаю, правильно это или нет\nНо я знаю, что хочу, чтобы ты остался (Нана-нана-нана)\nОстался (Нана-нана-нана)\n\nМое сердце бьется быстрее, когда я оглядываю толпу\nМои показатели на пике, я чувствую, что ты где-то рядом\nЯ как будто на (седьмом небе от счастья), ничто не может меня (остановить сейчас)\nСирены воют, и я не могу заглушить звук\n\nЧто это со мной делает? Я чувствую, что это освобождает меня\nЯ как будто теряю контроль над собой\nТы знаешь, это возбуждает меня, и, детка, я не останавливаюсь\nЭто как огонь в моей душе\n\nЯ не знаю, что я делаю сегодня вечером\nНо этот порыв делает меня сильнее\nЯ не знаю, правильно это или нет\nНо я знаю, что хочу, чтобы ты остался (Нана-нана-нана)\nОстался (Нана-нана-нана)\n\nРаботай, двигай телом, детка\nТы лучше (работай) – нана-нана-нана\nТы лучше (работай) – нана-нана-нана\nДавай уже, работай, двигай своим телом, детка\nТы лучше (работай) – нана-нана-нана\nТы лучше (работай)\n\nЯ не знаю, что я делаю сегодня вечером\nНо этот порыв, он делает меня сильнее\nЯ не знаю, правильно это или нет\nНо я знаю, что хочу, чтобы ты остался\n\nЯ не знаю, что я делаю сегодня вечером\nНо этот порыв, он делает меня сильнее\nЯ не знаю, правильно это или нет\nНо я знаю, что хочу, чтобы ты остался (Нана-нана-нана)\nОстался (Нана-нана-нана)"
+    }
+  ],
+  "bpm": 127,
+  "tone": "F minor",
+  "artistPeople": [
+    "Touraj Keshtkar"
+  ],
+  "backings": [
+    "Anne-Marit Tynes",
+    "BamBam",
+    "Daniel Gill",
+    "Hans Esben Gihle",
+    "Maria"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Figge Boström",
+    "Peter Boström",
+    "Tooji"
+  ],
+  "broadcaster": "NRK",
+  "commentators": [
+    "Olav Viksmo-Slettan"
+  ],
+  "jury": null,
+  "spokesperson": "Nadia Hasnaoui"
+}

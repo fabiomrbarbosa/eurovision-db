@@ -1,0 +1,61 @@
+{
+  "id": 6,
+  "country": "SE",
+  "artist": "Arvingarna",
+  "song": "Eloise",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/NJEZ3BGybrE",
+    "https://www.youtube-nocookie.com/embed/d5u9XNghD6g",
+    "https://www.youtube-nocookie.com/embed/8Vt59Hrozio",
+    "https://www.youtube-nocookie.com/embed/wS8Gs-FRDdE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Eloise",
+      "content": "Samlar mina tankar i ensamhet innan jag går ut\nTrodde jag va' smart när jag gjorde slut, ah…\nLängtar efter dig och nu står jag här utanför din dörr\nNär jag nu ringer på, öppnar du då\nEller vill du att jag ska gå?\nSå jag ber dig, kom ut till mig\n\nEloise, är vi mer än bara vänner?\nSå visa vad du känner och sen får känslorna bestämma\nEloise, även vindarna kan vända, för mig är du den enda\nVår kärlek den är värd ett högre pris, Eloise\n\nDet är inte lätt när man inte kan inse sina fel\nJag är som en boll i ett flipperspel, ah…\nLängtar efter dig och nu står jag här utanför din dörr\nNär jag nu ringer på, öppnar du då\nEller vill du att jag ska gå?\nSå jag ber dig, kom ut till mig\n\nWhoa… Eloise, är vi mer än bara vänner?\nSå visa vad du känner och sen får känslorna bestämma\nEloise, även vindarna kan vända, för mig är du den enda\nVår kärlek den är värd ett högre pris, Eloise\n\nJag väntar och hoppas och längtar, säg mig…\n\nEloise, även vindarna kan vända, för mig är du den endа\nVår kärlek den är värd ett högre pris, Eloiѕe"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Eloise",
+      "content": "I'm pulling myself together before I go out\nI thought that I was smart when I broke up with you, ah…\nI'm missing you and here I am in front of your door\nIf I ring the bell, will you open your door\nOr do you want me to leave?\nSo I'm asking you, please come out to me\n\nEloise, are we more than just friends?\nIf so, show me what your feel and later on our emotions can rule\nEloise, even the winds can change, for me you are the only one\nOur love is worth a higher price, Eloise\n\nIt's not easy when you can't see your own mistakes\nI'm like a small ball, in a pinball game, ah…\nI'm missing you and here I am in front of your door\nIf I ring the bell, will you open your door\nOr do you want me to leave?\nSo I'm asking you, please come out to me\n\nWhoa… Eloise, are we more than just friends?\nIf so, show me what your feel and later on our emotions can rule\nEloise, even the winds can change, for me you are the only one\nOur love is worth a higher price, Eloise\n\nI'm waiting and hoping and longing, please tell me…\n\nEloise, even the winds can change, for me you are the only one\nOur love is worth а higher price, Eloiѕe"
+    }
+  ],
+  "bpm": 136,
+  "tone": "G major",
+  "artistPeople": [
+    "Casper Janebrink",
+    "Kim Carlsson",
+    "Lars 'Lasseman' Larsson",
+    "Tommy Carlsson"
+  ],
+  "backings": [
+    "Lennart Sjöholm",
+    "Peeter Wiik"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Lasse Holm"
+  ],
+  "conductor": "Curt-Eric Holmquist",
+  "lyricists": [
+    "Gert Lengstrand"
+  ],
+  "writers": null,
+  "broadcaster": "SVT",
+  "commentators": [
+    "Jan Jingryd",
+    "Kåge Gimtell"
+  ],
+  "jury": null,
+  "spokesperson": "Gösta Hanson"
+}

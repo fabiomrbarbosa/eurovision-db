@@ -1,0 +1,60 @@
+{
+  "id": 26,
+  "country": "NL",
+  "artist": "Jeangu Macrooy",
+  "song": "Grow",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/sMcxWB90TTY",
+    "https://www.youtube-nocookie.com/embed/Q1T96jNHjXE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Grow",
+      "content": "When I'm sad\nI am unreasonable\nJust like a little kid\nMad at the world\n\nWhen I'm alone\nI am defenceless\nJust like the boy I was\nAfraid in the dark\n\nDon't take it personally\nDon't be offended\nDon't mind my mood\nChanging like the weather\nGod knows I try to hold it all together\nOh, I'm getting older\nAnd it ain't what I thought it would be\n\nWide awake\nThe planet spins around\nA little too fast for me\nMost of the time\n\nLost control\nMy thoughts are flickering\nJust like satellites\nLost in the sky\n\nDon't take it personally\nDon't be offended\nDon't mind my mood\nChanging like the weather\nGod knows I try to hold it all together\nI'm getting older\nAnd it ain't what I thought it would be\n\nOne day I'll find\nSome peace of mind\nAnd then I'll stop being afraid\nI won't make it through the night\n\nThe more I learn\nThe less I know\nThrough every high and every low\nOh, oh, the more I learn (Grow)\nThe less I know (Grow)\nThrough every high and every low (Grow)\nI'll grow, oh-oh\nThe more I learn (Grow)\nThe lesѕ I know (Grow)\nThrough every high аnd every low (Grow)\nI'll grow, oh-oh"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Kasva",
+      "content": "Kun olen surullinen\nOlen järjetön\nIhan kuin pieni lapsi\nVihainen koko maailmalle\n\nKun olen yksin\nOlen puolustuskyvytön\nAivan kuin se poika, joka olin\nPelkäsin pimeää\n\nÄlä ota sitä henkilökohtaisesti\nÄlä loukkaannu\nÄlä välitä mielialastani\nSe vaihtuu kuin sää\nJumala tietää, että yritän pitää kaiken kasassa\nOh, minä vanhenen\nEikä se olekaan sitä, mitä luulin sen olevan\n\nValveilla\nPlaneetta pyörii ympäri\nHieman liian nopeasti minulle\nUseimmiten\n\nMenetin hallinnan\nAjatukseni välkkyvät\nIhan kuin satelliitit\nEksyneinä taivaalle\n\nÄlä ota sitä henkilökohtaisesti\nÄlä loukkaannu\nÄlä välitä mielialastani\nSe vaihtuu kuin sää\nJumala tietää, että yritän pitää kaiken kasassa\nMinä vanhenen\nEikä se olekaan sitä, mitä luulin sen olevan\n\nJonain päivänä löydän\nMielenrauhan\nJa sitten lakkaan pelkäämästä\nEtten selviä yöstä läpi\n\nMitä enemmän opin\nSitä vähemmän tiedän\nJokaisen huipun ja pohjan läpi\nOh, oh, mitä enemmän opin (Kasva)\nSitä vähemmän tiedän (Kasvan)\nJokaisen huipun ja pohjan läpi (Kasva)\nMinä kasvan, oh-oh\nMitä enemmän opin (Kasva)\nSitä vähemmän tiedän (Kasva)\nJokaisen huipun ja pohjan läpi (Kasva)\nMinä kaѕvаn, oh-oh"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "Groeien",
+      "content": "Als ik verdrietig ben\nIk ben onredelijk\nNet als een klein kind\nGek op de wereld\n\nAls ik alleen ben\nIk ben weerloos\nNet als de jongen die ik was\nBang in het donker\n\nVat het niet persoonlijk op\nWees niet beledigd\nLet niet op mijn humeur\nVeranderen als het weer\nGod weet dat ik alles bij elkaar probeer te houden\nIk word ouder\nEn het is niet wat ik dacht dat het zou zijn\n\nHelemaal wakker\nDe planeet draait rond\nEen beetje te snel voor mij\nHet grootste deel van de tijd\n\nVerloren controle\nMijn gedachten flikkeren\nNet als satellieten\nVerloren in de lucht\n\nVat het niet persoonlijk op\nWees niet beledigd\nLet niet op mijn humeur\nVeranderen als het weer\nGod weet dat ik alles bij elkaar probeer te houden\nIk word ouder\nEn het is niet wat ik dacht dat het zou zijn\n\nOp een dag vind ik\nEnige gemoedsrust\nEn dan ѕtop ik met bang zijn\nIk zal de nacht niet overleven\n\nHoe meer ik leer\nHoe minder ik weet\nDoor elke hoogte en elke laag\nHoe meer ik leer (groeien)\nHoe minder Ik weet (groeien)\nDoor elke hoogte en elke laag (groeien)\nIk zal groeien\nHoe meer ik leer (groei)\nHoe minder Ik weet (groeien)\nDoor elke hoogte en elke laag (groeien)\nIk zаl groeien"
+    }
+  ],
+  "bpm": 142,
+  "tone": "C major",
+  "artistPeople": [
+    "Jeangu Macrooy"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jeangu Macrooy",
+    "Perquisite"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Jeangu Macrooy"
+  ],
+  "writers": null,
+  "broadcaster": "AVROTROS",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

@@ -1,0 +1,57 @@
+{
+  "id": 20,
+  "country": "RO",
+  "artist": "Dan Bittman",
+  "song": "Dincolo de nori",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Zpp_zOTz7FY",
+    "https://www.youtube-nocookie.com/embed/Z4fZzaa5AEs"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "romanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Dincolo de nori",
+      "content": "In ziua ce vine poate mă vei asculta\nAm ales şi rău şi bine\nO parte din mine las in grija ta\n\nNopţi fără vise, întrebări fără răspuns\nImi trezesc din amintire sufletu-mi ascuns\n\nDincolo de nori e-o rază de lumină\nDincolo de nori e lumea mea, e lumea\n\nNu cer iertare pentru tot ce am făcut\nCer o rază de iubire s-o iau de la început\n\nAm puterea-acum sa schimb ceva in lume\nAm puterea de-a viѕa\n\n(Dincolo de nori, dincolo de nori)\nDincolo de nori\n(Dincolo de nori)\nE lumea mea, e lumea mea\n(Dincolo de nori)\nE lumea, lumea, lumea, lumea, lumea mea\n(Dincolo de nori)\nE lumea mea\n\n(Dincolo de nori)\nE lumea meа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Beyond the clouds",
+      "content": "The coming day you may listen to me\nI have chosen the bad as well as the good\nPart of myself I leave in your hands\n\nNights without dreams, questions without answer\nI wake up my hidden soul from my memories\n\nBeyond the clouds, there is a ray of light\nBeyond the clouds, there is my world, the world\n\nI am not asking for forgiveness for all I have done\nI am asking for a ray of love to start all over again\n\nI now have the power now to make a change in the world\nI have the power to dreаm\n\n(Beyond the clouds, beyond the clouds)\nBeyond the clouds\n(Beyond the clouds)\nThere is my world, there is my world\n(Beyond the clouds)\nThere is my world, world, world, world, world\n(Beyond the clouds)\nThere is my world\n\n(Beyond the clouds)\nThere iѕ my world"
+    }
+  ],
+  "bpm": 152,
+  "tone": "G major",
+  "artistPeople": [
+    "Dan Bittman"
+  ],
+  "backings": [
+    "Corina Bogaru",
+    "Daniela Vladescu",
+    "Geanina Olaru",
+    "Mariana Turcanu",
+    "Romeo Bediu"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Noel Kelehan",
+  "lyricists": null,
+  "writers": [
+    "Antonio Furtuna",
+    "Dan Bittman"
+  ],
+  "broadcaster": "TVR",
+  "commentators": [
+    "Gabriela Cristea"
+  ],
+  "jury": null,
+  "spokesperson": "Cristina Țopescu"
+}

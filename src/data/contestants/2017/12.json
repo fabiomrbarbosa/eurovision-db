@@ -1,0 +1,73 @@
+{
+  "id": 12,
+  "country": "HR",
+  "artist": "Jacques Houdek",
+  "song": "My Friend",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/4Sya_GIxsw0",
+    "https://www.youtube-nocookie.com/embed/Q06z-EaBvjE",
+    "https://www.youtube-nocookie.com/embed/tkP0xw_i_Ho",
+    "https://www.youtube-nocookie.com/embed/MfpivRXe3Q4",
+    "https://www.youtube-nocookie.com/embed/WJ0Zjlx4RIc",
+    "https://www.youtube-nocookie.com/embed/JnqeuCuc658",
+    "https://www.youtube-nocookie.com/embed/m3YD9_1ShQ8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english",
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "My Friend",
+      "content": "<i style=\"color:#789\">\"There are only two ways to live your life\nOne is as though nothing is a miracle\nThe other is as though everything's a miracle\"</i>\n\nThere's a miracle my friend\nAnd it happens every day\nHold out your hand\nDon't let it slip away\n\nIo so che esiste\nGuarda meglio su\nRitorna ogni giorno\nPromettendo sempre più\n\nAfter the rain\nNasce il sole\n\nI pray you see the light and find your way\nLa forza del destino che è in te\nDo your best, take a chance\nDare to dream and make it real\nSegui la verità, via della libertà\n\nMy friend\nMy friend\n\nDon't let go\nLet it flow\nCredi nel miracolo\nFor the miracle\nThat I'm talking of\nIs the life that we're given\nLa vita vincera\n\nI pray you see the light and find your way\n(I pray, I pray)\nLa forza del destino che è in te\n(I pray)\nDo your beѕt, take a chance\nDare to dream and make it real\nSegui la verità, via dellа libertà\n\nMy friend\nMy friend\nMy friend\nMy friend\nMy friend"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "My Friend",
+      "content": "<i style=\"color:#789\">\"There are only two ways to live your life\nOne is as though nothing is a miracle\nThe other is as though everything's a miracle\"</i>\n\nThere's a miracle my friend\nAnd it happens every day\nHold out your hand\nDon't let it slip away\n\nI know it exists\nLook up closer\nUpward it comes back every day\nPromising more and more\n\nAfter the rain\nThe sun rises\n\nI pray you see the light and find your way\nThe strength of fate that is in you\nDo your best, take a chance\nDare to dream and make it real\nFollow the truth, the road of freedom\n\nMy friend\nMy friend\n\nDon't let go\nLet it flow\nDo you believe in miracles?\nFor the miracle\nThat I'm talking of\nIs the life that we're given\nThe winning life\n\nI pray you see the light and find your way\n(I pray, I pray)\nThe strength of fate that is in you\n(I pray)\nDo your beѕt, take a chance\nDare to dream and make it real\nFollow the truth, the roаd of freedom\n\nMy friend\nMy friend\nMy friend\nMy friend\nMy friend"
+    }
+  ],
+  "bpm": 138,
+  "tone": "F major",
+  "artistPeople": [
+    "Željko Houdek"
+  ],
+  "backings": [
+    "Alen Đuras",
+    "Edgar Rupena",
+    "Matija Cvek"
+  ],
+  "dancers": null,
+  "stageDirector": "Krešimir Dolenčić",
+  "composers": [
+    "Jacques Houdek",
+    "Siniša Reljić",
+    "Tony Malm"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Arjana Kunštek",
+    "Fabrizio Laucella",
+    "Ines Prajo",
+    "Jacques Houdek"
+  ],
+  "writers": null,
+  "broadcaster": "HRT",
+  "commentators": [
+    "Duško Ćurlić"
+  ],
+  "jury": [
+    "Dino Jelusić",
+    "Ivana Kindl",
+    "Sanja Doležal",
+    "Saša Lozar",
+    "Tihomir Preradović"
+  ],
+  "spokesperson": "Uršula Tolj"
+}

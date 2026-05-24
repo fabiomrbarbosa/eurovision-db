@@ -1,0 +1,47 @@
+{
+  "id": 9,
+  "country": "CY",
+  "artist": "Sandro",
+  "song": "Running",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Jl_qEw_4OK0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Running",
+      "content": "I don't feel like talking, let me sit here alone\nThe phone's calling, I can't pick it up \n\nI'm tired of running from these demons (demons)\nI'm tired of running from these demons, I can't see any more \nI can't see anymore\n\nBut I keep on running, I keep on running\nI keep on running away\nNow I keep on running, I keep on running\nI don't wanna fall again\n\nDrowning out my memories, from the night before \nDoor's knocking, just leave me alone\n\nI'm tired of running from these demons\nI'm tired of running from these demons, I can't see any more \nI can't see anymore\n\nBut I keep on running, I keep on running\nI keep on running away\nNow I keep on running, I keep on running\nI don't wanna fall again\n\nLooking - losing\nMy energy - tripping\nAnybody tow me back home\n\nYeah yeah\nStanding naked\nPutting on fake smiles\nI don´t wanna be ѕad anymore\n\nI don't wanna fall again \n\nI'm not gonna fall agаin"
+    }
+  ],
+  "bpm": 150,
+  "tone": "B minor",
+  "artistPeople": [
+    "Alessandro Rütten"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Alfie Arcuri",
+    "Octavian",
+    "Sandro Nicolas",
+    "Sebastian Rickards",
+    "Teo DK"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Alfie Arcuri",
+    "Octavian",
+    "Sandro Nicolas",
+    "Sebastian Rickards"
+  ],
+  "writers": null,
+  "broadcaster": "CyBC",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

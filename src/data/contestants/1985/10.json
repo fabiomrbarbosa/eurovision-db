@@ -1,0 +1,60 @@
+{
+  "id": 10,
+  "country": "DK",
+  "artist": "Hot Eyes",
+  "song": "Sku' du spørg' fra no'en",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-0ddE9BGLXA",
+    "https://www.youtube-nocookie.com/embed/C1K8WnHyn_Y",
+    "https://www.youtube-nocookie.com/embed/VmzoLTsmj7M",
+    "https://www.youtube-nocookie.com/embed/w9ypPlP47Mo"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "danish"
+      ],
+      "displayedLanguages": null,
+      "title": "Sku' du spørg' fra no'en",
+      "content": "Der gik en time, ja, der gik nok mere\nOg jeg blev stadig ved at spekulere:\nHvem var det nu du var?\nSå fik jeg end'lig svar, sag'n var soleklar\nDa vi var mindre var vi kammerater\nI gård'n derhjemme leged' vi to tit teater\nNår nogen spurgte hvem vi forestilled' svared' du:\n\nSku' du spørg' fra no'en? (Tør du eller ej?)\nSku' du spørg' fra no'en, spørg så bare mig\nTa' med til vores ønskeø\nDer får man li', hvad man ønsker sig\nSku' du spørg' fra no'en? (Sig det en gang til)\nSku' du spørg' fra no'en? Ka' du ikke se\nHvis bar' du vil, så ta'r vi til\nStedet, hvor alt kan ske\n\nJeg gik forsigtig hen til stedets jockey\nOg bad om noget med lidt mindre rock i\nJeg så du rejste dig og styred' denne vej\nLige hen mod mig\nMon du ku' huske mig endnu? Jeg tror det\nDu ville danse med mig, men idet du spurgte\nSå ku' jeg li'som ikke dy mig for at le og si':\n\nSku' du spørg' fra no'en? (Tør du eller ej?)\nSku' du spørg' fra no'en, spørg så bare mig\nTa' med til vores ønskeø\nDer får man li', hvad man ønsker sig\nSku' du spørg' fra no'en? (Sig det en gang til)\nSku' du spørg' fra no'en? Ka' du ikke se\nHvis bar' du vil, så ta'r vi til mit hem'lige sted\nHar du lyst, så kom dog med (Sku' du spørg'…?)\nNej\n\nSku' du spørg' fra no'en? (Tør du eller ej?)\nSku' du spørg' fra no'en, spørg så bare mig\nTa' med til vores ønskeø\nDer får man li', hvad man ønsker sig\nSku' du spørg' fra no'en? (Sig det en gang til)\nSku' du spørg' fra no'en? Yeah\nHvis bar' du vil, så ta'r vi til\nStedet, hvor alt kаn ѕke"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Wouldn't you like to know?",
+      "content": "An hour passed, well probably more\nAnd I keep speculating:\nNow, who was it, that you were?\nThen I finally got an answer, it was obvious\nWhen we were kids we were friends\nIn the yard at home, we often played theatre\nWhen someone asked who we should look like, you'd answer:\n\nWouldn't you like to know? (Do you dare or not?)\nWouldn't you like to know, then just ask me\nCome along to our dream island\nWhere you can get exactly what you want\nWouldn't you like to know? (Say it once more)\nWouldn't you like to know? Don't you see\nIf you want to, we'll go to\nThe place where everything can happen\n\nI cautiously went to the jockey of the place\nAnd asked for something with a bit less rock\nI saw you get up and come this way\nStraight towards me\nDid you still remember me? I think so\nYou wanted to dance with me, but as you asked\nI couldn't really help laughing and saying:\n\nWouldn't you like to know? (Do you dare or not?)\nWouldn't you like to know, then just ask me\nCome along to our dream island\nWhere you can get exactly what you want\nWouldn't you like to know? (Say it once more)\nWouldn't you like to know? Don't you see\nIf only you want to, we'll go to my secret place\nIf you want to, then come along\nNo\n\nWouldn't you like to know? (Do you dare or not?)\nWould you like to know, then just ask me\nCome along to our dream iѕland\nWhere you can get exactly what you want\nWouldn't you like to know? (Say it once more)\nWouldn't you like to know? Yeah\nIf you want to, we'll go to\nThe place where everything can hаppen"
+    }
+  ],
+  "bpm": 145,
+  "tone": "C major",
+  "artistPeople": [
+    "Kirsten Siggaard",
+    "Søren Bundgaard"
+  ],
+  "backings": [
+    "Hanne Boel",
+    "Lea Bundgaard",
+    "Lise Dandanell",
+    "Michael Elo"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Søren Bundgaard"
+  ],
+  "conductor": "Wolfgang Käfer",
+  "lyricists": [
+    "Keld Heick"
+  ],
+  "writers": null,
+  "broadcaster": "DR",
+  "commentators": [
+    "Jørgen de Mylius"
+  ],
+  "jury": null,
+  "spokesperson": "Bent Henius"
+}

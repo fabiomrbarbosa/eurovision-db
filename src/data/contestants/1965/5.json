@@ -1,0 +1,44 @@
+{
+  "id": 5,
+  "country": "IE",
+  "artist": "Butch Moore",
+  "song": "I'm Walking the Streets in the Rain",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/S7oLCg2Auv4",
+    "https://www.youtube-nocookie.com/embed/YjzboeQ-6Bw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I'm Walking the Streets in the Rain",
+      "content": "My poor heart feels like breaking\n'Cause I'll never see you again\nStill, nobody knows I am crying\n'Cause I'm walking the streets in the rain\n\nMy tears are mixed through the raindrops\nAnd I feel like I can't stand the pain\nStill, nobody knows I am crying\n'Cause I'm walking the streets in the rain\n\nI'm retracing your steps one by one\nOh, we walk down the street for so long\nI can still see your face through my teardrops\nWhile the rain whispers softly: \"She's gone\"\n\nThe tears and the rain will keep falling\nTill you bring back the sunshine again\nStill, nobody knows I am crying\n'Cause I'm walking the streets in the rain\n\nStill, nobody knows I am crying\n'Cause I'm walking the streetѕ in the rаin"
+    }
+  ],
+  "bpm": 101,
+  "tone": "D major",
+  "artistPeople": [
+    "Butch Moore"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "George Prendergast",
+    "Joe Harrigan"
+  ],
+  "conductor": "Gianni Ferrio",
+  "lyricists": [
+    "Teresa Conlon"
+  ],
+  "writers": null,
+  "broadcaster": "RÉ",
+  "commentators": [
+    "Bunny Carr"
+  ],
+  "jury": null,
+  "spokesperson": "Frank Hall"
+}

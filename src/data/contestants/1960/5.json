@@ -1,0 +1,52 @@
+{
+  "id": 5,
+  "country": "BE",
+  "artist": "Fud Leclerc",
+  "song": "Mon amour pour toi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/byD35ZhNeI8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Mon amour pour toi",
+      "content": "Mon amour pour toi, c'est comme la mer\nQuand personne n'a marché sur le sable\nMon amour pour toi, c'est comme l'hiver\nQuand l'étoile a trouvé son étable\n\nJe partage avec toi les pavés du chemin\nL'aube claire, l'eau glacée et le pain\nMon amour pour toi, c'est comme la mer\nLe ciel bleu de l'hiver\nL'aube tendre et l'eau claire\n\nUn peu de vent qui tourne en rond\nAutour d'un vieux clocher d'église\nQuatre bateaux sur la mer grise\nUn petit bal peint au néon\n\nEt sous ma chambre minuscule\nL'écho brisé d'un orphéon\nQui fait danser une chanson\nSur mes ivresses noctambules\n\nMon amour pour toi, c'est comme la mer\nQuand personne n'a marché sur le sable\nMon amour pour toi, c'est comme l'hiver\nQuand l'étoile a trouvé son étable\n\nJe partage avec toi les pavés du chemin\nL'aube claire, l'eau glacée et le pain\nMon amour pour toi, c'eѕt comme la mer\nLe ciel bleu de l'hiver\nL'aube tendre et l'eau claire\n\nMon amour, mon аmour pour toi"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "My love for you",
+      "content": "My love for you, it's like the sea\nWhen nobody has walked on the sand yet\nMy love for you, it's like winter\nWhen the star found its stable\n\nI share with you the paving stones of the road\nA clear dawn, ice water and bread\nMy love for you, it's like the sea\nThe blue sky of winter\nA tender dawn and clear water\n\nA little wind is spinning\nRound an old bell-tower of a church\nFour boats on the gray sea\nA small ball painted in neon\n\nAnd under my tiny room\nThe broken echo of a fanfare\nThat makes a song dance\nOn my nocturnal intoxications\n\nMy love for you, it's like the sea\nWhen nobody has walked on the sand yet\nMy love for you, it's like the winter\nWhen the star found its cattle shed\n\nI share with you the paving stones of the road\nA clear dawn, ice water and bread\nMy love for you, it's like the sea\nThe blue ѕky of winter\nA tender dawn and clear wаter\n\nMy love, my love for you"
+    }
+  ],
+  "bpm": 172,
+  "tone": "F major",
+  "artistPeople": [
+    "Fernand Urbain Dominic Leclerc"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jack Say"
+  ],
+  "conductor": "Henri Segers",
+  "lyricists": [
+    "Robert Montal"
+  ],
+  "writers": null,
+  "broadcaster": "NIR",
+  "commentators": [
+    "Georges Désir",
+    "Nic Bal"
+  ],
+  "jury": null,
+  "spokesperson": "Arlette Vincent"
+}

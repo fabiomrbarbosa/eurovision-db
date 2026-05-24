@@ -1,0 +1,56 @@
+{
+  "id": 12,
+  "country": "LU",
+  "artist": "Céline Carzo",
+  "song": "Quand je te rêve",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/tsRkzXXmlNw",
+    "https://www.youtube-nocookie.com/embed/jYppMF_kwkU",
+    "https://www.youtube-nocookie.com/embed/xXsA2IZ2e4o"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Quand je te rêve",
+      "content": "Je te vois tout en haut des tours\nDans les buildings de Singapour\nSous un peu de pluie à Cherbourg\nDans les jardins du Luxembourg\nLoin toujours\n\nUn vol d'oiseaux sur Manhattan\nRevient me dire que tu t'éloignes\nJe dessine notre amour au fil de tes absences\nEt c'est comme un été qui commence\n\nQuand je te rêve, y a plus d'heure, plus de distance\nRien n'a plus d'importance, j'oublie tous mes états d'urgence\nQuand je te rêve, tu me prends, tu me soulèves\nUn sourire sur tes lèvres et j'ai peur du jour qui se lève\nQuand je te rêve, quand je te rêve\n\nTu m'attends sur le banc d'un square\nDans toutes les salles des aérogares\nJe te croise au fond des regards\nDerrière les glaces bleues des miroirs\n\nJe devine ton visage dans toutes les transparences\nDes voyages que je fais en silence\n\nQuand je te rêve, y a plus d'heure, plus de distance\nRien n'a plus d'importance, j'oublie tous mes états d'urgence\nQuand je te rêve, c'est comme un vent qui m'enlève\nQui me donne la fièvre, viens avant que la nuit s'achève\n\nViens dans mon rêve, viens dans mon rêve\nViens dans mon rêve, viens dans mon rêve\nViens dans mon rêve, dans mon rêve, dans mon rêve\nViens dans mon rêve, dans mon rêve, dans mon rêve\nViens dans mon rêve\n\nOh... viens dans mon rêve\nViens dans mon rêve, dans mon rêve, dans mon rêve\nViens dans mon rêve, dans mon rêve, dаnѕ mon rêve"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "When I dream of you",
+      "content": "I see you right at the top of the towers\nIn the buildings of Singapore\nUnder a bit of rain in Cherbourg\nIn the gardens of Luxembourg\nAlways far away\n\nA flight of birds over Manhattan\nCome back to tell me that you're going away\nI draw our love as your absences pass by\nAnd it is like a summer that is beginning\n\nWhen I dream of you, there are no more hours, no more distance\nNothing is important anymore, I forget all my states of urgency\nWhen I dream of you, you take me, you lift me up\nA smile on your lips and I'm afraid of the day which is dawning\nWhen I dream of you, when I dream of you\n\nYou wait for me on the bench of a square\nIn all the rooms of the air terminals\nI see you at the back of all the looks\nBehind the blue glass of the mirrors\n\nI guess your face in all the transparency\nThe journeys which I make in silence\n\nWhen I dream of you, there are no more hours, no more distance\nNothing is important anymore, I forget all my states of urgency\nWhen I dream of you, it's like a wind which takes me away\nWhich gives me a fever, come before the night comeѕ to an end\n\nCome into my dream, come into my dream\nCome into my dream, come into my dream\nCome into my dream, into my dream, into my dream\nCome into my dream, into my dream, into my dream\nCome into my dream\n\nOh... come into my dream\nCome into my dream, into my dream, into my dream\nCome into my dream, into my dream, into my dreаm"
+    }
+  ],
+  "bpm": 140,
+  "tone": "D major",
+  "artistPeople": [
+    "Céline Carzo"
+  ],
+  "backings": [
+    "Francine Chantereau",
+    "Martine Latorre"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jean-Charles France"
+  ],
+  "conductor": "Thierry Durbet",
+  "lyricists": [
+    "Thierry Delianis"
+  ],
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": [
+    "Valérie Sarn"
+  ],
+  "jury": null,
+  "spokesperson": "Jean-Luc Bertrand"
+}

@@ -1,0 +1,52 @@
+{
+  "id": 9,
+  "country": "SE",
+  "artist": "Siw Malmkvist",
+  "song": "Alla andra får varann",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/yt5OZsc7r6Y",
+    "https://www.youtube-nocookie.com/embed/dpVTjQSeV6c"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Alla andra får varann",
+      "content": "Bara, bara du och jag måste skilda gå var dag\nMen alla andra får varann\nVarför ska det vara så\nVarför drabbas just vi två\nNär alla andra får varann\n\nOm jag blott vågade fria\nSkulle du nog ge ditt 'ja'\nMen lyckan får vänta\nTills jag repat mod en dag\n\nJag på bröllop brukar gå\nMen får sitta och se på\nHur alla andra får varann\n\nKanhända kunde det ordnas\nOch sen gick det som en dans\nOm man kunde fria liksom förr\nPer korrespondens\n\nYeah… käraste, en vacker dag, kanske ockѕå du och jag\nSom alla andra får varаnn"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "All the others get each other",
+      "content": "Only, only you and I have to be apart every day\nWhile all the others get each other\nWhy does it have to be that way\nWhy does it have to happen to us\nWhen all the others get each other\n\nIf I only had the courage to propose\nYou would probably give me your 'yes'\nBut happiness has to wait\nUntil I've picked up the courage some day\n\nI go to weddings\nBut I sit and watch\nHow all the others get each other\n\nPerhaps it could be arranged\nAnd then it would all be easy\nIf you could propose like they used to\nBy correspondence\n\nYeah… dearest, maybe one day, maybe also you and I\nLike all the otherѕ, we will have eаch other"
+    }
+  ],
+  "bpm": 145,
+  "tone": "G major",
+  "artistPeople": [
+    "Siw Malmkvist"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ulf Kjellqvist"
+  ],
+  "conductor": "Thore Ehrling",
+  "lyricists": [
+    "Åke Gerhard"
+  ],
+  "writers": null,
+  "broadcaster": "SR",
+  "commentators": [
+    "Jan Gabrielsson"
+  ],
+  "jury": null,
+  "spokesperson": "Tage Danielsson"
+}

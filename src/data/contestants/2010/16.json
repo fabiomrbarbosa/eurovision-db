@@ -1,0 +1,57 @@
+{
+  "id": 16,
+  "country": "BA",
+  "artist": "Vukašin Brajić",
+  "song": "Thunder and Lightning",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/IPBo9vaN9Vc",
+    "https://www.youtube-nocookie.com/embed/rrjfHgatLxI",
+    "https://www.youtube-nocookie.com/embed/Yy8kowTwyNk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Thunder and Lightning",
+      "content": "Say just one more word\nAnd you will make it end\nAnd I will leave this place\nOnly anger will remain\nAnd it doesn't seem to me\nWe're each other's better side\nThese days\n\nThis is the time to melt the ice\nOff our lips and off our hearts\nThunder and lightning holding hands\nLet's overcome the past\n\nThe drought is all around\nBut if we start breathing together\nWe can bring the rain down\nFor a dream, for a brand new day\nTo wash away our sins\nAnd carry them away\n\nThis is the time to melt the ice\nOff our lips and off our hearts\nThunder and lightning holding hands\nLet's overcome the past\nWe have to do it fast\n\nThis is the time (to melt the ice)\n(Off our lips and off our hearts) Off our hearts\n(Thunder and lightning holding hands)\nThunder and lightning\n(Let's overcome the past)\n(We have to do it fast)\n\nIn this crazy world\nIn this crazy world\nJust you and I\n\nSay juѕt one more word\nAnd everything will end, everyone will leаve"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "bosnian"
+      ],
+      "displayedLanguages": null,
+      "title": "Munja i grom",
+      "content": "Riječ, još samo riječ\nTi ćeš otići do kraja, ja ću izaći iz stana\nBijes, ostaje bijes strana\n\nOvih dana\n\nNek otopi se led sa usana\nDa li iko zna za red u srcima\nZa ruke drže se munja i grom\nOduvijek zajedno\n\nSuša je svud\nAl' tijela koja isto dišu mogu prizvati tu kišu\nU san, za novi dan\nNek' nas opere od grijeha i nek odnese ih rijeka\n\nNek' otopi se led sa usana\nDa li iko zna za red u srcima\nZa ruke drže se munja i grom\nOduvijek zajedno\n\nA svak' u svijetu svoj\nI ti i ja\n\nRiječ, samo još riječ\nSve će otići do kraja, ѕvi će izаći"
+    }
+  ],
+  "bpm": 94,
+  "tone": "F minor",
+  "artistPeople": [
+    "Vukašin Brajić"
+  ],
+  "backings": [
+    "Danijela Večerinović",
+    "Dunja Gallineo Kajević",
+    "Edvin Hadžić",
+    "Elma Selimović",
+    "Marko Vulinović"
+  ],
+  "dancers": null,
+  "stageDirector": "Gorčin Stojanović",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Edin-Dino Šaran"
+  ],
+  "broadcaster": "BHRT",
+  "commentators": [
+    "Dejan Kukrić"
+  ],
+  "jury": null,
+  "spokesperson": "Ivana Vidmar"
+}

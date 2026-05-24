@@ -1,0 +1,58 @@
+{
+  "id": 24,
+  "country": "PT",
+  "artist": "Célia Lawson",
+  "song": "Antes do adeus",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/baz_0VUO4j8",
+    "https://www.youtube-nocookie.com/embed/aotGh0dard4",
+    "https://www.youtube-nocookie.com/embed/Mt6xcTbEzjA"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Antes do adeus",
+      "content": "Antes do adeus, a aventura\nAntes do adeus, a loucura\nAntes do adeus, a ternura\nJuras ao luar, e a canção do mar, porque…\n\nAntes do adeus (Tuas trovas, teus lamentos)\nImproviso (Ouvia-se em toda a rua)\nAntes do adeus (Na outra esquina do vento)\nNo sorriso (Na outra face da lua)\n\nAntes do adeus (Os teus sonhos eram meus)\nParaíso (A minha vida era tua)\nLemos os sinais (Antes de dizer adeus)\nE até fomos imortais\n\nE à noite um rio, onde o sol se pôs\nMeu corpo, um navio na maré da tua voz\nSons ao desafio, a vibrar por nós\nE a luz da manhã era mágica\n\nAntes do adeus (Devolveste os meus poetas)\nA desfeita (Nos teus olhos vi rancor)\nAntes do adeus (Houve palavras secretas)\nA suspeita (No avesso do amor)\n\nAntes do adeus (Onde escondeste, maldosa)\nImperfeita (Um livro de Saramago)\nA partilha a dois (E um disco do Abrunhosa)\nP'ra lembrar depois, mas…\n\nO azul do céu deixou de ser verdade\nEm cinzas morreu a magia da cidade\nNo meu olhar nasceu a sombra da ansiedade\nE a dor silenciou toda a música\n\nO azul do céu deixou de ser verdade\nEm cinzas morreu a magia da cidade\nNo meu olhar nasceu a sombra da ansiedade\nE a dor silenciou toda a música\n\nDepois do adeus, a ѕaudаde"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Before goodbye",
+      "content": "Before goodbye, adventure\nBefore goodbye, madness\nBefore goodbye, tenderness\nMoonlight promises and the song of the sea, because…\n\nBefore goodbye (Your poetry, your laments)\nImprovise (Heard throughout the whole street)\nBefore goodbye (On the other corner of the wind)\nIn my smile (On the other side of the moon)\n\nBefore goodbye (Your dreams were mine)\nParadise (My life was yours)\nWe read the signs (Before saying goodbye)\nAnd we even reached immortality\n\nAnd the night is a river where the sun sets\nMy body is the ship on the tide of your voice\nChallenging sounds, vibrating for us\nAnd the light of the dawn was magical\n\nBefore goodbye (You returned my poets)\nOutrage (In your eyes I saw grudge)\nBefore goodbye (There were secret words)\nSuspicion (On the reverse of love)\n\nBefore goodbye (Wickedly you have hidden)\nImperfect (A book by Saramago)\nDividing in two (And a record by Abrunhosa)\nTo later remember, but…\n\nThe blue of the sky, no longer is true\nThe magic of the city vanished in ashes\nThe shadow of anxiety emerged in my eyes\nAnd pain hushed all music\n\nThe blue of the sky, no longer is true\nThe magic of the city vanished in ashes\nThe shadow of anxiety emerged in my eyes\nAnd pain hushed all music\n\nAfter the goodbye, deep sаdnesѕ"
+    }
+  ],
+  "bpm": 162,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Célia Maria Fernandes Lawson"
+  ],
+  "backings": [
+    "José Bacelar",
+    "Mico da Câmara Pereira",
+    "Pedro Reis",
+    "Vicky Pais Martins"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Thilo Krasmann"
+  ],
+  "conductor": "Thilo Krasmann",
+  "lyricists": [
+    "Rosa Lobato de Faria"
+  ],
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Carlos Ribeiro"
+  ],
+  "jury": null,
+  "spokesperson": "Cristina Rocha"
+}

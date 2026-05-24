@@ -1,0 +1,59 @@
+{
+  "id": 10,
+  "country": "HR",
+  "artist": "Boris Novkovic feat. Lado members",
+  "song": "Vukovi umiru sami",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/UqAKFyZw2Ls",
+    "https://www.youtube-nocookie.com/embed/-xirg1I3-G0",
+    "https://www.youtube-nocookie.com/embed/rfKVkLfaEbk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "croatian"
+      ],
+      "displayedLanguages": null,
+      "title": "Vukovi umiru sami",
+      "content": "Tišina k'o sidro veže mrak\nU meni polako kopni strah\nOvaj ljubav je bila priviđenje\nNije ovo moje vrijeme\n\nDo zore je ostao još koji sat\nA vani nemir, k'o da je rat\nOblačim kaput i odlazim\nDa sve zaboravim\n\nI opet Dunavom plove brodovi\nA ti više za mene ne brini\nK'o lišće sam, vjetar me raznosi\nVukovi umiru sami\n\nI opet Dunavom plove brodovi\nA ti više za mene ne brini\nK'o lišće sam, vjetar me raznosi\nVukovi umiru sami\n\nTišina k'o sidro veže mrak\nU meni polako kopni strah\nOblačim kaput i odlazim\nDa sve zaboravim\n\nI opet Dunavom plove brodovi\nA ti više za mene ne brini\nK'o lišće sam, vjetar me raznosi\nVukovi umiru sami\n\n(Dunavom, Dunavom)\n(Dunavom, Dunavom)\n(Dunavom, Dunavom)\n(Dunavom)\n\nI opet (Dunavom plove brodovi)\nA ti više za mene ne brini\nK'o lišće sam, vjetar me raznosi\nVukovi umiru sami\n\nK'o lišće sam, vjetar me raznosi\nVukovi umiru ѕami\n\n(Dunаvom)"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Wolves die alone",
+      "content": "Silence ties the dark like an anchor\nThe fear in me slowly melts away\nThis love was a vision\nThis is not my time\n\nOnly a few hours left till dawn\nAnd outside unrest, as if a war is on\nI put my coat on and leave\nTo forget everything\n\nAnd once again boats sail down the Danube\nDon't you worry about me anymore\nI'm like leaves, the wind blows me away\nWolves die alone\n\nAnd once again boats sail down the Danube\nDon't you worry about me anymore\nI'm like leaves, the wind blows me away\nWolves die alone\n\nSilence ties the dark like an anchor\nThe fear in me slowly melts away\nI put my coat on and leave\nTo forget everything\n\nAnd once again boats sail down the Danube\nDon't you worry about me anymore\nI'm like leaves, the wind blows me away\nWolves die alone\n\n(Down the Danube, down the Danube)\n(Down the Danube, down the Danube)\n(Down the Danube, down the Danube)\n(Down the Danube)\n\nAnd once again (boats sail down the Danube)\nDon't you worry about me anymore\nI'm like leaves, the wind blows me away\nWolves die alone\n\nI'm like leaves, the wind blows me away\nWolveѕ die alone\n\n(Down the Dаnube)"
+    }
+  ],
+  "bpm": 162,
+  "tone": "D minor",
+  "artistPeople": [
+    "Boris Novković",
+    "Dijana Banek",
+    "Sanja Mikulić",
+    "Stjepan Večković",
+    "Valentina Šepak"
+  ],
+  "backings": [
+    "Tomislav Tržan"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Franjo Valentić"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Boris Novković"
+  ],
+  "writers": null,
+  "broadcaster": "HRT",
+  "commentators": [
+    "Aco Kostadinov"
+  ],
+  "jury": null,
+  "spokesperson": "Barbara Kolar"
+}

@@ -1,0 +1,62 @@
+{
+  "id": 11,
+  "country": "NL",
+  "artist": "Xandra",
+  "song": "Colorado",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/18itteeU7ps",
+    "https://www.youtube-nocookie.com/embed/W_acdBVNvJ0",
+    "https://www.youtube-nocookie.com/embed/FAZ5WNr4PAY",
+    "https://www.youtube-nocookie.com/embed/vp3wzUPyn0U",
+    "https://www.youtube-nocookie.com/embed/NOWvZ8MhI08"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "Colorado",
+      "content": "Oh oh… Colorado, vlieg met me mee naar Colorado\nOh oh… Colorado, over de zee naar Colorado\nOh… Colorado, Colorado\n\nDe dollar is nu niet meer zo duur\nGa je mee de oversteek maken\nNaar een leven vol van avontuur?\n\nDe rivieren zitten vol vis\nMet een wilde beer op de foto\nColorado, Colorado\n\nOh oh… Colorado, vlieg met me mee naar Colorado\nOh oh… Colorado, over de zee naar Colorado\nOh… Colorado, Colorado\n\nWe kopen snel een tweedehands paard\nSamen heel de dag in het zadel\nDenk aan de benzine die je spaart\n\nIn de ѕterrennacht bij het vuur\nIn je armen lig ik te dromen\nColorado, Colorado\n\nOh oh… Colorado, vlieg met me mee naar Colorado\nOh oh… Colorado, over de zee naar Colorado\nOh oh… Colorado, Colorado\n\nOh oh… Colorado, vlieg met me mee naar Colorado\nOh oh… Colorado, over de zee naar Colorado\nOh… Colorado, Colorаdo"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Colorado",
+      "content": "Oh oh… Colorado, fly with me to Colorado\nOh oh… Colorado, over the sea to Colorado\nOh… Colorado, Colorado\n\nThe dollar is not so expensive anymore\nWill you go with me and cross the ocean\nTo a life full of adventure?\n\nThe rivers are full of fish\nWith a wild bear on the photo\nColorado, Colorado\n\nOh oh… Colorado, fly with me to Colorado\nOh oh… Colorado, over the sea to Colorado\nOh… Colorado, Colorado\n\nLet's buy a second-hand horse\nTogether a whole day in the saddle\nThink of the petrol you would save\n\nIn the star night close to the fire\nIn your arms I'm dreaming\nColorado, Colorado\n\nOh oh… Colorado, fly with me to Colorado\nOh oh… Colorado, over the sea to Colorado\nOh… Colorado, Colorado\n\nOh oh… Colorado, fly with me to Colorado\nOh oh… Colorado, over the ѕea to Colorado\nOh… Colorado, Colorаdo"
+    }
+  ],
+  "bpm": 136,
+  "tone": "G major",
+  "artistPeople": [
+    "Barbara Alexandra Reemer"
+  ],
+  "backings": [
+    "Ferdy Lancee",
+    "Mac Sell",
+    "Okkie Huysdens",
+    "Paul Vink",
+    "Ton op 't Hof"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Rob Bolland"
+  ],
+  "conductor": "Harry van Hoof",
+  "lyricists": [
+    "Ferdi Bolland",
+    "Gerard Cox"
+  ],
+  "writers": null,
+  "broadcaster": "NOS",
+  "commentators": [
+    "Willem Duys"
+  ],
+  "jury": null,
+  "spokesperson": "Ivo Niehe"
+}

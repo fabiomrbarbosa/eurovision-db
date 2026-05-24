@@ -1,0 +1,68 @@
+{
+  "id": 5,
+  "country": "IL",
+  "artist": "Chocolate, Menta, Mastik",
+  "song": "Emor Shalom",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/TG4TRrNA_5I",
+    "https://www.youtube-nocookie.com/embed/ErHouGbYTyQ",
+    "https://www.youtube-nocookie.com/embed/NMIaDj6qBLU",
+    "https://www.youtube-nocookie.com/embed/W5GChhswUVE",
+    "https://www.youtube-nocookie.com/embed/XkA37eK3ay4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": [
+        "ivrit"
+      ],
+      "title": "Emor Shalom",
+      "content": "Bo, bo, bo od hayom\nAni od kan az bo emor shalom\nEmor shalom\n\nBo, bo, bo od hayom\nAni od kan az bo emor shalom\nEmor shalom\n\nBo miyad, ten li yad\nTen li yad, ani ro'a kvar et ha'ofek\nBo miyad, ten li yad\nKim'at shloshim shana ani levad\n\nBo, bo, bo od hayom\nAni od kan az bo emor shalom\nEmor shalom\n\nBo, bo, bo od hayom\nAni od kan az bo emor shalom\nEmor shalom\n\nIm netse ze el ze\nZe et ze nifgosh hayom al em haderech\nAz nits'ad yad beyad\nUnemale kol rega she'avad\n\nBo, bo, bo od hayom\nAni od kan az bo emor shalom\nEmor shalom\n\nBo, bo, bo od hayom\nAni od kan az bo emor shalom\nEmor shalom\n\nTen li la, ten li re, ten li mi\nAni rotsa lashir bishnaim\nTen li fa, ten li sol\nYashiru az kulam bekol gadol\n\nBo, bo, bo od hayom\nAni od kan az bo emor shalom\nEmor shalom\n\nBo, bo, bo od hayom\nAni od kan az bo emor shalom\nEmor ѕhalom\n\nBo miyad, ten li yad\nTen li yad, ani ro'a kvar et ha'ofek\nBo miyad, ten li yad\nBo miyad veten li yаd"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": [
+        "עברית"
+      ],
+      "title": "אמור שלום",
+      "content": "בוא, בוא, בוא עוד היום\nאני עוד כאן אז בוא אמור שלום\nאמור שלום\n\nבוא, בוא, בוא עוד היום\nאני עוד כאן אז בוא אמור שלום\nאמור שלום\n\nבוא מיד, תן לי יד\nתן לי יד, אני רואה כבר את האופק\nבוא מיד, תן לי יד\nכמעט שלושים שנה אני לבד\n\nבוא, בוא, בוא עוד היום\nאני עוד כאן אז בוא אמור שלום\nאמור שלום\n\nבוא, בוא, בוא עוד היום\nאני עוד כאן אז בוא אמור שלום\nאמור שלום\n\nאם נצא זה אל זה\nזה את זה נפגוש היום על אם הדרך\nאז נצעד יד ביד\nונמלא כל רגע שאבד\n\nבוא, בוא, בוא עוד היום\nאני עוד כאן אז בוא אמור שלום\nאמור שלום\n\nבוא, בוא, בוא עוד היום\nאני עוד כאן אז בוא אמור שלום\nאמור שלום\n\nתן לי לה, תן לי רה, תן לי מי\nאני רוצה לשיר בשניים\nתן לי פה, תן לי סול\nישירו אז כולם בקול גדול\n\nבוא, בוא, בוא עוד היום\nאני עוד כאן אז בוא אמור שלום\nאמור שלום\n\nבוא, בוא, בוא עוד היום\nאני עוד כאן אז בוא אמור שלום\nאמור שלום\n\nבוא מיד, תן לי יד\nתן לי יד, אני רואה כבר את האופק\nבוא מיד, תן לי יד\nבוא מיד ותן לי יד"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Say hello",
+      "content": "Come, come, come today\nI'm still here so come say hello\nSay hello\n\nCome, come, come today\nI'm still here so come say hello\nSay hello\n\nCome right now, give me your hand\nGive me your hand, I can already see the horizon\nCome right now, give me your hand\nI've been alone for almost thirty years\n\nCome, come, come today\nI'm still here so come say hello\nSay hello\n\nCome, come, come today\nI'm still here so come say hello\nSay hello\n\nIf we'd go towards each other\nWe'll meet one another today by the roadside\nThen we'll walk hand in hand\nAnd fill every lost moment\n\nCome, come, come today\nI'm still here so come say hello\nSay hello\n\nCome, come, come today\nI'm still here so come say hello\nSay hello\n\nGive me a la, give me a re, give me a mi\nI want to sing a duet\nGive me a fa, give me a sol\nThen everyone will sing in a great voice\n\nCome, come, come today\nI'm still here so come say hello\nSay hello\n\nCome, come, come today\nI'm still here so come say hello\nSay hello\n\nCome right now, give me your hand\nGive me your hand, I can already ѕee the horizon\nCome right now, give me your hand\nCome right now and give me your hаnd"
+    }
+  ],
+  "bpm": 99,
+  "tone": "C minor",
+  "artistPeople": [
+    "Leah Lupatin",
+    "Ruti Holzman",
+    "Yardena Feinbaum-Arazi"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Matti Caspi"
+  ],
+  "conductor": "Matti Caspi",
+  "lyricists": [
+    "Ehud Manor"
+  ],
+  "writers": null,
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Yitzhak Shim'oni"
+}

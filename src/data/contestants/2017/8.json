@@ -1,0 +1,59 @@
+{
+  "id": 8,
+  "country": "AU",
+  "artist": "Isaiah",
+  "song": "Don't Come Easy",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/YTCP4S1dqwA",
+    "https://www.youtube-nocookie.com/embed/RiXEMYUqa3w",
+    "https://www.youtube-nocookie.com/embed/058Yyhxsi7o",
+    "https://www.youtube-nocookie.com/embed/Ka4-H2GkJpU",
+    "https://www.youtube-nocookie.com/embed/sFOGiI86Tgw",
+    "https://www.youtube-nocookie.com/embed/_qN541n76jE",
+    "https://www.youtube-nocookie.com/embed/KvqYdAlZKtk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Don't Come Easy",
+      "content": "I can tell by your eyes you want more than this\nBut can we be much more beyond these sheets?\nNo I don't, don't wanna mess with your head\nBut my love, it's hard to love again\n\nIt don't come easy and it don't come cheap\nBeen burned too many times to love easily\nDon't mistake me, my love runs deep\nBut it don't come easy, it don't come cheap\nNo, not with me\n\nI used to move in fast to erase my past\nBut it never works, no, it never lasts, no\nIn my mind I gotta get things right\nTake it slow before I jump this time\n\nNo, it don't come easy, no, it don't come cheap\nBeen burned too many times to love easily\nDon't mistake me, my love runs deep\nBut it don't come easy, it don't come cheap\nNo, not with me\n\nAnd if you think I've got a heart of stone\nYou couldn't be more wrong, oh…\nYou might think I've been afraid too long\nAfraid of love\n\nBut it don't come easy\nBeen burned too many times to love easily\nDon't mistake me, my love runs deep\nBut it don't come easy, it don't come cheap\n\nNo, not with me\nOh… no, not with me\nOh… don't mistake me, my love runs deep\nBut it don't come eaѕy, it don't come cheаp\nNo, not with me"
+    }
+  ],
+  "bpm": 156,
+  "tone": "D major",
+  "artistPeople": [
+    "Isaiah Firebrace"
+  ],
+  "backings": [
+    "Aaron Malone",
+    "Aaron Mendoza",
+    "Daniel Adrian Kelaart"
+  ],
+  "dancers": null,
+  "stageDirector": "Marko Panzic, Sacha Jean-Baptiste",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Anthony Egizii",
+    "David Musumeci",
+    "Michael Angelo"
+  ],
+  "broadcaster": "SBS",
+  "commentators": [
+    "Joel Creasey",
+    "Myf Warhurst"
+  ],
+  "jury": [
+    "Jackie Loeb",
+    "Lucy Durack",
+    "Natasha Cuppit",
+    "Peter Hayward",
+    "Steven Capaldo"
+  ],
+  "spokesperson": "Lee Lin Chin"
+}

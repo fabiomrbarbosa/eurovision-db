@@ -1,0 +1,49 @@
+{
+  "id": 33,
+  "country": "BY",
+  "artist": "Litesound",
+  "song": "We Are The Heroes",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-JWbOKNaIAo",
+    "https://www.youtube-nocookie.com/embed/LbUSs1BCiKY",
+    "https://www.youtube-nocookie.com/embed/hnJZG0eyavs"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "We Are The Heroes",
+      "content": "When the night is falling from the sky\nJust keep driving on a highway\nWhen the world is deaf to all your cries\nJust keep going, you'll be there someday\n\nYou're not alone, we're against them all\nHold on to me, I'll never let you fall\nEven if someday all hope is gone\nI will not give up\n\nWhatever's standing in my way, we'll make it through the day\n'Cause we are the winners, we are the heroes\nWe're breaking down the walls, we're gonna hit them all\n'Cause we are believers, we are the dreamers\n\nNo matter what they say, no matter what they do\nI'll make it alright, I'll make it for you\nWe're breaking down the walls\nWe are the heroes\n\nAs I stand beneath the starry sky\nI just lose faith in gravity\nAnd it feels like I can learn to fly\nBring to life all my fantasies\n\nYou're not alone, we're against them all\nHold on to me, I'll never let you fall\nEven if someday all hope is gone\nI will not give up\n\nWhatever's standing in my way, we'll make it through the day\n'Cause we are the winners, we are the heroes\nWe're breaking down the walls, we're gonna hit them all\n'Cause we are believers, we are the dreamers\n\nNo matter what they say, no matter what they do\nI'll make it alright, I'll make it for you\nWe're breaking down the walls\nWe are the heroes, we are the heroes\n\nWhatever's standing in my way, we'll make it through the day\n'Cause we are the winners, we are the heroes\nWe're breaking down the walls, we're gonna hit them all\n'Cause we are believers, we are the dreamers\n\nNo matter what they say, no matter what they do\nI'll make it alright, I'll make it for you\nWe're breaking down the walls\nWe аre the heroeѕ"
+    }
+  ],
+  "bpm": 123,
+  "tone": "F# major",
+  "artistPeople": [
+    "Dmitriy Karyakin",
+    "Jacopo Massa",
+    "Vladimir Karyakin"
+  ],
+  "backings": [
+    "Alex Kolchin",
+    "Alex Panayi",
+    "Ignat Yakovich"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Dmitriy Karyakin",
+    "Vladimir Karyakin"
+  ],
+  "broadcaster": "BTRC",
+  "commentators": [
+    "Denis Kurian"
+  ],
+  "jury": null,
+  "spokesperson": "Dmitry Koldun"
+}

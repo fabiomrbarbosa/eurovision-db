@@ -1,0 +1,50 @@
+{
+  "id": 24,
+  "country": "LT",
+  "artist": "Ovidijus Vyšniauskas",
+  "song": "Lopšinė mylimai",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/PWmh95boVZY",
+    "https://www.youtube-nocookie.com/embed/_zPM5uSoWFQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "lithuanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Lopšinė mylimai",
+      "content": "Tavo lūpos kvepia lietumi\nNuodėmė paliesti jas, išsipildymo meldžiu\nSapnas mano į tave įeis\nLikti tamsoje vienai neleis\n\nMano neliesta styga\nTu man neliesta\nMano sapnas į tave\nLieja svaigų vyną mūsų naktyje\n\nJau ir visi nakties žiedai akis užmerkė\nTik tavo toks gilus dangus\nGėlės kaip ir tu be meilės verkia\nIr sapnuoja tuos pačius sapnus\n\nMano neliesta styga\nTu man neliesta\nMano sapnas į tave\nLieja svaigų vyną naktyje\n\nMano neliesta styga\nTu man neliesta\nMano sapnas į tave\nLieja ѕvaigų vyną nаktyje"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Sweethearts' lullaby",
+      "content": "The smell of your lips is like rain\nTo touch them is sinful, and for fulfillment I pray\nMy dream will come into you\nAnd won't leave you alone in the darkness\n\nMy chord untouched\nYou are, untouched by me\nMy dream is pouring you its wine\nIn that night of ours\n\nEvery blossom of night has closed its eyes\nYet so deep is the heaven of yours\nFlowers, like you, are crying without love\nAnd dreaming dreams same as you\n\nMy chord untouched\nYou are, untouched by me\nMy dream is pouring you its wine\nIn that night of ours\n\nMy chord untouched\nYou are, untouched by me\nMy dream is pouring you its wine\nIn thаt night of ourѕ"
+    }
+  ],
+  "bpm": 140,
+  "tone": "G major",
+  "artistPeople": [
+    "Ovidijus Vyšniauskas"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ovidijus Vyšniauskas"
+  ],
+  "conductor": "Tomas Leiburas",
+  "lyricists": [
+    "Gintaras Zdebskis"
+  ],
+  "writers": null,
+  "broadcaster": "LRT",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Gitana Balsytė"
+}

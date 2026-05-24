@@ -1,0 +1,52 @@
+{
+  "id": 15,
+  "country": "FR",
+  "artist": "Dominique Walter",
+  "song": "Chez nous",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/HkDpDiTez8I",
+    "https://www.youtube-nocookie.com/embed/hD2kjubmmYs"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Chez nous",
+      "content": "Chez nous, chez nous, chez nous, chez nous\nChez nous, chez nous, chez nous, chez nous\n\nC'est vraiment une chance qu'on ait fait connaissance\nLorsqu'aux dernières vacances, tu es venu chez nous\nTraversant l'Atlantique, tu avais, c'est classique\nDes idées romantiques sur les gens de chez nous\n\nCar depuis bien longtemps, aux yeux des étrangers\nNotre vieux continent n'a pas beaucoup changé\nC'est avec des façons qui datent de toujours\nQu'en Europe les garçons font aux filles leur cour\n\nIl n'empêche que l'on s'aime\nEt qu'on peut sans problèmes\nSe marier quand même\nComme on le fait chez nous\n\nTu voudrais m'emmener là-bas\nDans la ville qui t'a vu naître\nOù tout est grand, trop grand, crois-moi\nOù les murs n'en finissent pas\n\nMoi, je veux bien te suivre, mais j'ai lu dans les livres\nQue le mieux pour y vivre, c'était encore chez nous\n\nChez nous, chez nous, chez nous, chez nous\nChez nous, chez nous, chez nous, chez nous\n\nJe préfère aux grandes cités\nLa douceur d'un petit village\nOù sur la place les soirs d'été\nOn peut s'amuser et danser\n\nToutes ces différences dans nos deux existences\nN'ont aucune importance pour être heureux chez nous\nDans la rue j'habite, tout le monde t'invite\nÀ devenir bien vite une enfаnt de chez nous\n\nChez nous, chez nous, chez nous, chez nous\nChez nous, chez nous, chez nous, chez nouѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Where we live",
+      "content": "Where we live, where we live, where we live, where we live\nWhere we live, where we live, where we live, where we live\n\nIt's a real luck that we've got to know each other\nSince the last holidays that you came to us\nCrossing the Atlantic Ocean, you classically had\nRomantic ideas about our people\n\nBecause for a long time already, in the eyes of foreigners\nOur old continent hasn't changed much\nIt's with the eternal manners\nThat in Europe boys pay court to girls\n\nThe fact remains that we love each other\nAnd that we're even able\nTo get married without problem\nThe way it is done here\n\nYou wanted to take me there\nIn your city of birth\nWhere everything is big, too big, believe me\nWhere the walls never end\n\nI really want to follow you, but I've read in books\nThat it's still better to live here\n\nWhere we live, where we live, where we live, where we live\nWhere we live, where we live, where we live, where we live\n\nI prefer to big cities\nThe gentleness of a small village\nIn the public square during the summer evenings\nWe can have fun and dance\n\nAll those differences in both our lives\nHave no importance for being happy here\nIn the street where I live, everybody invites you\nTo become very quickly aѕ а child of our own\n\nWhere we live, where we live, where we live, where we live\nWhere we live, where we live, where we live, where we live"
+    }
+  ],
+  "bpm": 108,
+  "tone": "G major",
+  "artistPeople": [
+    "Dominique Walter"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Claude Carrère"
+  ],
+  "conductor": "Franck Pourcel",
+  "lyricists": [
+    "Jacques Plante"
+  ],
+  "writers": null,
+  "broadcaster": "ORTF",
+  "commentators": [
+    "François Deguelt"
+  ],
+  "jury": null,
+  "spokesperson": "Jean-Claude Massoulier"
+}

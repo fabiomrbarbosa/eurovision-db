@@ -1,0 +1,58 @@
+{
+  "id": 31,
+  "country": "EE",
+  "artist": "Koit Toome & Laura",
+  "song": "Verona",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/NxqPpzWYN1c",
+    "https://www.youtube-nocookie.com/embed/4vq3GFVeVE8",
+    "https://www.youtube-nocookie.com/embed/FNPEkEdYIcU",
+    "https://www.youtube-nocookie.com/embed/1I0vZXPmNJw",
+    "https://www.youtube-nocookie.com/embed/tKUfOk01x4M",
+    "https://www.youtube-nocookie.com/embed/mTlLGvonCn4",
+    "https://www.youtube-nocookie.com/embed/WqancM8DSfQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Verona",
+      "content": "Sleeping all alone\nYou wake up with a bottle in your hands\nNo sound of serenade\nCause we both know we lost our game\n\nI was always high on loving you\nBefore the romance turned to drama\nLike Romeo and Juliet once before\nWe are lost in Verona\n\nLearning through the scars\nWill make you stronger time is the proof\nI´m not a loner kind\nI know I just can't get over you\n\nI was always trying to tell the truth\nBefore the romance turned to drama\nI hoped the best in me was always you\nBefore we lost our Verona\n\nWe are lost\nLost in the crowd of the street\nWe are lost\nLike two sailing boats in the sea\nWe are lost\nCause sometimes we building and burning down love\nWe have lost our Verona\n\nWe lost and we found our Verona\nWe are lost in Verona\n\nReckless type of love\nReckless type of love\nWe never said: I´m sorry\nWe never said: enough\nThis western type of woman\nWestern type of man\nDisappeared in Verona\n\nWe lost and we found our Verona\nWe are lost in Verona\n\nWe are lost\nLost in the crowd of the street\nWe are lost\nLike two sailing boats in the sea\nWe are lost\nCause sometimes we building and burning down love\nWe have lost our Verona\n\nWe lost and we found our Verona\nWe are loѕt in Veronа"
+    }
+  ],
+  "bpm": 111,
+  "tone": "D minor",
+  "artistPeople": [
+    "Koit Toome",
+    "Laura Põldvere",
+    "Laura Remmel"
+  ],
+  "backings": [
+    "Dagmar Oja",
+    "Kaire Vilgats",
+    "Rolf Roosalu"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Sven Lõhmus"
+  ],
+  "broadcaster": "ERR",
+  "commentators": [
+    "Marko Reikop"
+  ],
+  "jury": [
+    "Getter Jaani",
+    "Jakko Maltis",
+    "Marju Länik",
+    "Olavi Paide",
+    "Rasmus Rändvee"
+  ],
+  "spokesperson": "Jüri Pootsmann"
+}

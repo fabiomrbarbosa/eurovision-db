@@ -1,0 +1,56 @@
+{
+  "id": 10,
+  "country": "CH",
+  "artist": "Egon Egemann",
+  "song": "Musik klingt in die Welt hinaus",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/rJzFwpqMmMM",
+    "https://www.youtube-nocookie.com/embed/5-Mv-lTNdIw",
+    "https://www.youtube-nocookie.com/embed/8mIOdBSt36M"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Musik klingt in die Welt hinaus",
+      "content": "Sie war allein und niemand wollte sie\nIch sah sie an und war verliebt in sie\nSie wurde mein, es war so schön wie nie\nDie Geige sang mir diese Melodie\n\nMusik klingt in die Welt hinaus\nMusik, die meine Geige spielt\nMusik hört man in jedem Haus\nMusik, die jeder fühlt\nMusik klingt in die Welt hinaus\nMusik, die meine Geige spielt\nMusik macht manches Märchen wahr\nMusik, so wunderbar\n\nSie spielt in Dur wenn sie die Muse küsst\nUnd auch in Moll wenn ihr zum Weinen ist\nIch bleib' ihr treu, möchte sie nie verliern\nWill zu ihr stehen, sie ist ein Teil von mir\n\nMusik klingt in die Welt hinaus\nMusik, die meine Geige spielt\nMusik hört man in jedem Haus\nMusik, die jeder fühlt\nMusik klingt in die Welt hinaus\nMusik, die meine Geige spielt\nMusik macht manches Märchen wahr\nMusik, so wunderbar\n\nMusik klingt in die Welt hinaus\nMusik, die meine Geige spielt\nMusik hört man in jedem Haus\nMusik, die jeder fühlt\nMusik klingt in die Welt hinaus\nMusik, die meine Geige spielt\nMusik macht manches Märchen wahr\nMusik, ѕo wunderbаr"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Music sounds around the world",
+      "content": "It was alone, and nobody wanted it\nI looked at it and felt in love with it\nIt became mine, it was beautiful like never before\nthe violin played for me this melody\n\nMusic sounds around the world\nMusic, that my violin plays\nMusic is heard in every house\nMusic that everybody feels\nMusic sounds around the world\nMusic, that my violin plays\nMusic makes fairy tales come true\nMusic, so wonderful\n\nIt plays in major, when the muse is kissing it\nAnd in minor, when the violin cries\nI stand by its side, I don't want to lose it\nWant to stand by its side, it is like a part of me\n\nMusic sounds around the world\nMusic, that my violin plays\nMusic is heard in every house\nMusic that everybody feels\nMusic sounds around the world\nMusic, that my violin plays\nMusic makes fairy tales come true\nMusic, so wonderful\n\nMusic sounds around the world\nMusic, that my violin plays\nMusic is heard in every house\nMusic that everybody feels\nMusic sounds around the world\nMusic, that my violin plays\nMusic makes fairy tаles come true\nMusic, ѕo wonderful"
+    }
+  ],
+  "bpm": 120,
+  "tone": "D major",
+  "artistPeople": [
+    "Egon Lackner"
+  ],
+  "backings": [
+    "George Schwarz",
+    "Karim La Sala"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Bela Balint",
+  "lyricists": null,
+  "writers": [
+    "Cornelia Lackner"
+  ],
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Bernard Thurnheer",
+    "Emanuela Gaggini",
+    "Thierry Masselot"
+  ],
+  "jury": null,
+  "spokesperson": "Michel Stocker"
+}

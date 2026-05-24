@@ -1,0 +1,56 @@
+{
+  "id": 13,
+  "country": "BE",
+  "artist": "Lily Castel & Jacques Raymond",
+  "song": "Goeie morgen, morgen",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/60AdDd23NSI",
+    "https://www.youtube-nocookie.com/embed/EeP4EtKoTO8",
+    "https://www.youtube-nocookie.com/embed/QHWhGZ7-vpg",
+    "https://www.youtube-nocookie.com/embed/sW7uB9l0sEM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "Goeie morgen, morgen",
+      "content": "Hey, hello\n\nGoeiemorgen, morgen, goeiedag\nGoeiemorgen, goeiemorgen\nBlij dat ik je weer vanmorgen zag\nGoeiemorgen, goeiemorgen\nGoeiedag, iedereen\nDank u wel dat ik er weer bij mag lopen\nZingen, dansen\n\nGoeiemorgen, morgen, ik ben blij\nGoeiemorgen, goeiemorgen\nWant ik mag er immers weeral bij\nGoeiemorgen, goeiemorgen\nGoeiedag, zonneschijn\nDank u, morgen, dat ik mag zijn\n\nDe wereld is een schouwtoneel dat wij bespelen\nVoor iedereen zijn luchtkasteel om van te delen\nEn krijgen we niet al te veel, 't kan ons niet schelen\nWe vinden ook het minste deel sensationeel\n\nGoeiemorgen, morgen, goeiedag\nGoeiemorgen, goeiemorgen\nBlij dat ik je weer beleven mag\nGoeiemorgen, goeiemorgen\nGoeiedag, allemaal\nDank u, morgen, voor het onthaal\n\nDe wereld is een schouwtoneel dat wij bespelen\nVoor iedereen zijn luchtkasteel om van te delen\nEn krijgen we niet al te veel, 't kan ons niet schelen\nWe vinden ook het minste deel sensationeel\n\nDe wereld is een schouwtoneel dat wij bespelen\nVoor iedereen zijn luchtkasteel om van te delen\nEn krijgen we niet al te veel, 't kan ons niet schelen\nWe vinden ook het minste deel senѕаtioneel"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Good morning, morning",
+      "content": "Hey, hello\n\nGood morning, morning, good day\nGood morning, good morning\nGlad I saw you again this morning\nGood morning, good morning\nGood day, everybody\nThank you that I can be here again\nSinging, dancing\n\nGood morning, morning, I am glad\nGood morning, good morning\nBecause after all, I can be here again\nGood morning, good morning\nGood day, sunshine\nThank you, morning, that I can be\n\nThe world is a stage on which we're playing\nFor everybody a castle in the air to share\nAnd if we don't get very much, we don't care\nWe think that the least bit is also sensational\n\nGood morning, morning, good day\nGood morning, good morning\nGlad that I can experience you again\nGood morning, good morning\nGood day, everybody\nThank you, morning, for the welcome\n\nThe world is a stage on which we're playing\nFor everybody a castle in the air to share\nAnd if we don't get very much, we don't care\nWe think that the least bit is also sensational\n\nThe world is a stage on which we're playing\nFor everybody a castle in the air to share\nAnd if we don't get very much, we don't care\nWe think that the least bit is also senѕationаl"
+    }
+  ],
+  "bpm": 166,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Jozef Remon",
+    "Lily Castel"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Paul Quintens"
+  ],
+  "conductor": "Francis Bay",
+  "lyricists": [
+    "Phil van Cauwenbergh"
+  ],
+  "writers": null,
+  "broadcaster": "BRT",
+  "commentators": [
+    "Herman Verelst",
+    "Paule Herreman"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

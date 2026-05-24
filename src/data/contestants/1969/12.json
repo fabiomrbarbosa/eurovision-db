@@ -1,0 +1,55 @@
+{
+  "id": 12,
+  "country": "YU",
+  "artist": "Ivan & M's",
+  "song": "Pozdrav svijetu",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/eFwChBOOgBY",
+    "https://www.youtube-nocookie.com/embed/UixIJYM3z9M"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "croatian"
+      ],
+      "displayedLanguages": null,
+      "title": "Pozdrav svijetu",
+      "content": "Dobar dan (Dobar dan) \nDobar dan (Dobar dan) \nBuenos días (Buenos días) \nZa svu braću za sve sestre širom svjeta \nDobar dan \n\nIz svih grla iz svih srca \nNek odjekne vasionom jednoglasnim unisonom \nDobar dan, dobar dan \nGuten Tag (Guten Tag) \n\nBonjour (Bonjour) \nBonjour (Bonjour) \nGood morning (Good morning) \nZa dječake sviju zastava i boja \nBonjour \n\nNek u horu svi zabruje \nNek' se ori nek se čuje \nOvaj poklik unisonom \nDobar dan, dobar dan \nGoedendag (Goedendag) \n\nBuongiorno (Buongiorno) \nBuongiorno (Buongiorno) \nOh, zdravsvuytye (Oh, zdravsvuytye) \nOvaj pozdrav neka prihvate milioni \nBuongiorno \n\nNek' svi ljudi sad u kolu \nPruže ruke prijateljstva \nU taj pozdrav, pozdrav ѕvijeta \nDobar dan, dobar dan \nHyvää päivää (Hyvää päivää) \nDobar dan, dobar dаn"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Greetings to the world",
+      "content": "Good day (Good day)\nGood day (Good day)\nGood day (Good day)\nTo all the sisters and brothers of the world\nGood day\n\nFrom the bottom of our hearts and throats\nMay it be heard through universe in a unison\nGood day, good day\nGood day (Good day)\n\nGood day (Good day)\nGood day (Good day)\nGood morning (Good morning) \nTo every boy of all colours and flags\nGood day\n\nLet's join the choir\nMay this hail\nBe heard in unison\nGood day, good day\nGood day (Good day)\n\nGood day (Good day)\nGood day (Good day)\nOh, good day (Oh, good day)\nMay millions receive this greeting\nGood day\n\nMay everyone in a dance\nJoin their hands of friendѕhip\nIn a greeting to the world\nGood day, good day\nGood day (Good day)\nGood day, good dаy"
+    }
+  ],
+  "bpm": 121,
+  "tone": "C# major",
+  "artistPeople": [
+    "Branko Marušić",
+    "Ivica Krajač",
+    "Saša Sablić",
+    "Željko Ružić"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Miljenko Prohaska",
+  "lyricists": null,
+  "writers": [
+    "Milan Lentić"
+  ],
+  "broadcaster": "JRT",
+  "commentators": [
+    "Miloje Orlović",
+    "Mladen Delić",
+    "Tomaž Terček"
+  ],
+  "jury": null,
+  "spokesperson": "Gordana Bonetti"
+}

@@ -1,0 +1,63 @@
+{
+  "id": 21,
+  "country": "FI",
+  "artist": "Teräsbetoni",
+  "song": "Missä miehet ratsastaa",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/a-nbF9dxbJ0",
+    "https://www.youtube-nocookie.com/embed/TheV9eBTT3Q",
+    "https://www.youtube-nocookie.com/embed/dxWA1RLROBA",
+    "https://www.youtube-nocookie.com/embed/WoHUjTYXbyI",
+    "https://www.youtube-nocookie.com/embed/DRt1lUS4RCY",
+    "https://www.youtube-nocookie.com/embed/H3ngp0PGLlI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Missä miehet ratsastaa",
+      "content": "Huh! Hah! Huh! Hah!\nHuh! Hah! Huh! Hah!\n\nOlkoon myrsky sekä viima\nJa tuvassa lämmin kamiina\nOn kunnia ja miehuullisuus\nSuorittaa velvollisuus\n\nMaailma on kylmä vaikka\nOn ehkä lämmölläkin paikka\nKentät kutsuu sankareita\nEikä suinkaan pelkureita\n\nMissä miehet ratsastaa\nSiellä lampaat ei voi laiduntaa\nMissä miehet ratsastaa\nSiellä kuulee susien ulvontaa\n\nHuh! Hah! Huh! Hah!\n\nOlkoon edessä tuhoa\nJa takana lemmen lumoa\nOn miehellä velvollisuus\nMuistaa urhoollisuus\n\nEi kukaan voi välttää kipua\nJa vain elämän virrassa lipua\nKentät kutsuu sankareita\nEikä suinkaan pelkureita\n\nMissä miehet ratsastaa\nSiellä lampaat ei voi laiduntaa\nMissä miehet ratsastaa\nSiellä kuulee susien ulvontaa\n\nMissä miehet, missä miehet ratsastaa\nMissä miehet, missä miehet ratsastaa\n\nMissä miehet ratsastaa\nSiellä lampaat ei voi laiduntaa\nMissä miehet ratsastaa\nSiellä kuulee susien ulvontaa\n\nMissä miehet ratsastaa\nSiellä lampaat ei voi laiduntaa\nMissä miehet ratsastaa\nSiellä kuulee susien ulvontaa\n\nMissä miehet… Hah! Huh! Hah!\nMisѕä miehet… Hah! Huh! Hаh!"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Where the men ride",
+      "content": "Hooh! Hah! Hooh! Hah!\nHooh! Hah! Hooh! Hah!\n\nNo matter if there's storm and cold wind\nAnd a warm stove in the cabin\nIt's an honour and manhood\nTo execute the duty\n\nThe world is cold although\nThere's maybe a place for warmth as well\nThe fields are calling for heroes\nAnd definitely not for cowards\n\nWhere the men ride\nThere the sheep can't pasture\nWhere the men ride\nThere one can hear the wolves howl\n\nHooh! Hah! Hooh! Hah!\n\nLet there be destruction in front\nAnd enchantment of love behind\nThe man has responsibility\nTo remember the bravery\n\nNobody can avoid pain\nAnd just float in the stream of life\nThe fields are calling for heroes\nAnd definitely not for losers\n\nWhere the men ride\nThere the sheep can't pasture\nWhere the men ride\nThere one can hear the wolves howl\n\nWhere the men, where the men ride\nWhere the men, where the men ride\n\nWhere the men ride\nThere the sheep can't pasture\nWhere the men ride\nThere one can hear the wolves howl\n\nWhere the men ride\nThere the sheep can't pasture\nWhere the men ride\nThere one can hear the wolveѕ howl\n\nWhere the men… Hah! Hooh! Hah!\nWhere the men… Hah! Hooh! Hаh!"
+    }
+  ],
+  "bpm": 140,
+  "tone": "B minor",
+  "artistPeople": [
+    "Arto Järvinen",
+    "Jari Kuokkanen",
+    "Jarkko Ahola",
+    "Viljo Rantanen"
+  ],
+  "backings": [
+    "Antto Tuomainen",
+    "Osku Ketola"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Jarkko Ahola"
+  ],
+  "broadcaster": "YLE",
+  "commentators": [
+    "Asko Murtomäki",
+    "Jaana Pelkonen",
+    "Mikko Peltola",
+    "Thomas Lundin"
+  ],
+  "jury": null,
+  "spokesperson": "Mikko Leppilampi"
+}

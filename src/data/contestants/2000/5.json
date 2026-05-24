@@ -1,0 +1,50 @@
+{
+  "id": 5,
+  "country": "IE",
+  "artist": "Eamonn Toal",
+  "song": "Millennium Of Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/hE6J_t1pm0U",
+    "https://www.youtube-nocookie.com/embed/flvW-L2PL6w",
+    "https://www.youtube-nocookie.com/embed/qJCWPWZrNIg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Millennium Of Love",
+      "content": "Nature's child lays beside a mother's broken heart\nWe stand denied the power and glory\nBitterness can't feed the hungry, hate just leaves us cold\nIt's time to change it\n\nI lit a candle in a dream I thought I heard\nLiberated voices crying freedom\nOpen hearts, open doors in truth and honesty\nLet wisdom be the guiding light\n\nCelebrate the new millennium of love\nWhere our footprints leave a harvest for the children\nSomewhere on our journey lies a world beyond compare\nI believe we all have the answer\n\nA cloud can hide a mountain\nAnd a face can hide the pain\nSearch until you find the answer\nThere is no reason\nWho can understand man's inhumanity to man?\n\nCelebrate the new millennium of love\nWhere our footprints leave a harvest for the children\nSomewhere on our journey lies a world beyond compare\nI believe, I believe, I believe, I believe in you\n\n(Celebrate the new millennium of love)\nLet our footprints leave a harvest for the children\nSomewhere on our journey lies a world beyond compare\nI believe we all have the answer\nI believe we all have the аnѕwer"
+    }
+  ],
+  "bpm": 151,
+  "tone": "A major",
+  "artistPeople": [
+    "Eamonn Toal"
+  ],
+  "backings": [
+    "Carol Keating",
+    "Gerry Simpson",
+    "Louise Byrne",
+    "Margot Daly",
+    "Stephen Moran"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Gerry Simpson"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Raymond J. Smyth"
+  ],
+  "writers": null,
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Marty Whelan"
+  ],
+  "jury": null,
+  "spokesperson": "Derek Mooney"
+}

@@ -1,0 +1,55 @@
+{
+  "id": 11,
+  "country": "IT",
+  "artist": "Enrico Ruggeri",
+  "song": "Sole d'Europa",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/pcGtMQHRszo",
+    "https://www.youtube-nocookie.com/embed/1Z9HzJnycUo"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Sole d'Europa",
+      "content": "Corrono in macchina, giocano a prendersi\nLungo una strada bagnata dai bar\nGiocano a vivere ma si consumano\nE i giorni non cambiano mai\n\nE la prima luce arriva, là dalla periferia\nE piccole case li portano via\nE i sogni non cambiano mai\n\nSbrigati, sole, fatti vedere\nSparano ancora ma aspettano te\nPosaci un raggio sul cuore, se scopri dov'è\nSorgi per me, sali con me, scaldami ancora\n\nNon si conoscono, però si assomigliano\nE i sogni non cambiano mai\n\nSe ti prendono la mano, cercano la compagnia\nMa il vento e la guerra li portano via\nMa i sogni non cambiano mai\n\nSvegliati, sole, fatti sentire\nOggi nessuno domanda di te\nCopri di luce l'Europa, ricordi dov'è?\nVieni con me, vola con me, scaldami ancora\n\nCambiano divisa e colore\nMa le anime stanche aspettano il sole\nE dicono che verrà\nCredono che verrà\n\nSvegliaci, sole, facci capire\nQuanto dolore hai portato con te\nDonaci un raggio di luce nel buio che c'è\nSorgi per noi, sali con noi, ѕcaldaci ancorа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Sun of Europe",
+      "content": "They run in their cars, they play taking each other\nAlong a street bathed in bars\nThey play living but they wear themselves out\nAnd the days never change\n\nAnd the first light comes, beyond the outskirts\nAnd little houses carry them away\nAnd the dreams never change\n\nHurry up, sun, make you see\nThey shoot again but they're waiting for you\nPut a beam in your heart, if you discover where it is\nRise for me, come up with me, warm me up again\n\nThey don't know each other, still they resemble each other\nAnd the dreams never change\n\nIf they take your hand, they are looking for some company\nBut the wind and the war carry them away\nBut the dreams never change\n\nWake up, sun, so we can feel you\nToday nobody asks for you\nCover Europe with light, do you remember where it is?\nCome with me, fly with me, warm me up again\n\nThey change their uniform and colour\nBut their tired souls wait for the sun\nAnd they say he'll come\nThey believe he'll come\n\nWake us up, sun, make us understand\nHow much pain you've carried with you\nGive us a light beam in this gloom\nRise for us, come up with us, warm uѕ up agаin"
+    }
+  ],
+  "bpm": 156,
+  "tone": "E minor",
+  "artistPeople": [
+    "Enrico Ruggeri"
+  ],
+  "backings": [
+    "Alberto Tafuri",
+    "Fabrizio Palermo",
+    "Luigi Fiore",
+    "Luigi Schiavone"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Vittorio Cosma",
+  "lyricists": null,
+  "writers": [
+    "Enrico Ruggeri"
+  ],
+  "broadcaster": "RAI",
+  "commentators": [
+    "Ettore Andenna"
+  ],
+  "jury": null,
+  "spokesperson": "Peppi Franzelin"
+}

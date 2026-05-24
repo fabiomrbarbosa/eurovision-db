@@ -1,0 +1,52 @@
+{
+  "id": 7,
+  "country": "FR",
+  "artist": "Annick Thoumazeau",
+  "song": "Autant d'amoureux que d'étoiles",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/4k28wNXmgsU",
+    "https://www.youtube-nocookie.com/embed/vdo6UMhZ2Ws"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Autant d'amoureux que d'étoiles",
+      "content": "Quel est l'endroit? Quel est l'envers?\nDans quel sens elle tourne, la terre?\nIl paraît qu'il y a de l'orage dans l'air\nLe monde est-il meilleur ou pire?\nJe n'sais pas ce que je peux dire\nMais chez moi, j'entends des éclats de rire\n\nIl y a autant d'amoureux que d'étoiles au ciel\nIl y a autant d'heureux que nous sous le soleil\nLaisse-moi regarder l'avenir au fond des yeux\nLaisse-moi te jurer qu'on restera tous les deux\n\nIl y a autant d'amoureux que d'étoiles au ciel\nIl y a autant d'heureux que nous sous le soleil\nSi tu sais écouter, tu entendras des oiseaux\nSi tu sais regarder, tu verras, le monde est beau\nLe monde est beau\n\nQuel est l'envers? Quel est l'endroit?\nDans tes bras, je ne le sais pas\nMais pourtant on est tellement bien comme ça\nS'il faut souffrir, s'il faut mourir\nJe veux bien mourir de plaisir\nD'amour fou ou d'un grand éclat de rire\n\nIl y a autant d'amoureux que d'étoiles au ciel\nIl y a autant d'heureux que nous sous le soleil\nLaisse-moi regarder l'avenir au fond des yeux\nLaisse-moi te jurer qu'on restera tous les deux\n\nIl y a autant d'amoureux que d'étoiles au ciel\nIl y a autant d'heureux que nous sous le soleil\nSi tu sais écouter, tu entendras des oiseaux\nSi tu sais regarder, tu verras, le monde est beau\nLe monde eѕt beаu"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "As many lovers as stars",
+      "content": "Which is the right side? Which is the wrong side?\nIn which direction does the earth turn?\nIt seems there's something in the air\nIs the world better or worse?\nI don't know what I can say\nBut at home, I hear laughter\n\nThere are as many lovers as stars in the sky\nThere are as many lucky people as we under the sun\nLet me look at the future through your eyes\nLet me swear to you that we will stay together\n\nThere are as many lovers as stars in the sky\nThere are as many lucky people as we under the sun\nIf you know how to listen, you'll hear birds\nIf you know how to look, you'll see, the world is beautiful\nThe world is beautiful\n\nWhich is the wrong side? Which is the right side?\nIn your arms, I don't know it\nBut nevertheless, we're happy this way\nIf I must suffer, if I must die\nI wouldn't mind dying of pleasure\nOf crazy love or of great laughter\n\nThere are as many lovers as stars in the sky\nThere are as many lucky people as we under the sun\nLet me look at the future through your eyes\nLet me swear to you that we will stay together\n\nThere are as many lovers as stars in the sky\nThere are as many lucky people as we under the sun\nIf you know how to listen, you'll hear the birds\nIf you know how to look, you'll see, the world is beautiful\nThe world iѕ beаutiful"
+    }
+  ],
+  "bpm": 133,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Annick Thoumazeau"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Vladimir Kosma"
+  ],
+  "conductor": "François Rauber",
+  "lyricists": [
+    "Charles Level"
+  ],
+  "writers": null,
+  "broadcaster": "A2F",
+  "commentators": [
+    "Léon Zitrone"
+  ],
+  "jury": null,
+  "spokesperson": "Gillette Aho"
+}

@@ -1,0 +1,59 @@
+{
+  "id": 11,
+  "country": "YU",
+  "artist": "Korni",
+  "song": "Generacija '42",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/4y8ySFKIEkc",
+    "https://www.youtube-nocookie.com/embed/27ez2U58t3o",
+    "https://www.youtube-nocookie.com/embed/gHCkezEyghU",
+    "https://www.youtube-nocookie.com/embed/IxoxM4lQ6h0",
+    "https://www.youtube-nocookie.com/embed/xNRgEJRif9w"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "serbian"
+      ],
+      "displayedLanguages": null,
+      "title": "Generacija '42",
+      "content": "Iznenada kobne noći te četrdesetdruge, godine\nČinilo se kao da će sneg\nA stigao je rat\nI vojnik neki tuđ i strah\n\nMene majka moja rodi da sanjam o slobodi\nU prvoj noći da čujem zveket\nDa plačem sa rukom na usnama\n\nMoja generacija iz četrdesetdruge\nDobro je pregurala burne dane te\nMoja generacija iz četrdesetdruge\nTo je vreme spavala i čeznula za mlekom\n\nSad je vreme sasvim drugo i put svoj svako ima\nŠto god smo dalje sve više hoću\nDa znam gde živi, gde pije, peva, gde je sad?\n\nMoja generacija iz četrdesetdruge\nSva se već poženila i čuva slatku decu\nMoja generacija iz četrdesetdruge\nSva ѕe uozbiljila, jer tako morа biti"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Generation '42",
+      "content": "Suddenly that deadly night of year forty-two\nSeemed like it was going to snow\nBut war arrived\nAnd a foreign soldier and fear\n\nMy mother gave me life to dream of freedom\nThe first night to hear gunshots\nTo cry with a hand on my lips\n\nMy generation from year forty-two\nNicely managed those intense days\nMy generations from year forty-two\nSlept and longed for milk at that time\n\nTimes are different now and everyone has his own path\nThe further we are, the more I want\nTo know where they live, drink, sing, are now\n\nMy generation from year forty-two\nIs married now and has kids\nMy generation from year forty-two\nGot all serious, because it haѕ to be like thаt"
+    }
+  ],
+  "bpm": 91,
+  "tone": "E major",
+  "artistPeople": [
+    "Bojan Hreljac",
+    "Josip Bocek",
+    "Kornelije Kovač",
+    "Vladimir Furduj",
+    "Zlatko Pejaković"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Zvonimir Skerl",
+  "lyricists": null,
+  "writers": [
+    "Kornelije Kovač"
+  ],
+  "broadcaster": "JRT",
+  "commentators": [
+    "Milovan Ilić",
+    "Oliver Mlakar",
+    "Tomaž Terček"
+  ],
+  "jury": null,
+  "spokesperson": "Helga Vlahović"
+}

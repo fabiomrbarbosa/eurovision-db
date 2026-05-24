@@ -1,0 +1,50 @@
+{
+  "id": 1,
+  "country": "MT",
+  "artist": "Chiara",
+  "song": "Angel",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Vv8GmwcfR9A",
+    "https://www.youtube-nocookie.com/embed/1YuVE9zx6Mk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Angel",
+      "content": "Far away in a lost world\nI hear your voice calling for heaven\nCast away, caught in mem'ries\nYou must believe love will come through\n\nI'll be your angel in your darkest night\nI'll be your destiny, waiting by your side\nI'll be the sunshine when you're feeling blue\nI'm always here for you\n\nComes a day, heart on fire\nWhen all your faith seems to be missing\nGo your way and you'll find there\nA land of hope, a land of dreams\n\nI'll be your angel in your darkest night\nI'll be your destiny, waiting by your side\nI'll be the sunshine when you're feeling blue\nI'm always here for you\n\nAnd when you lose it all\nAnd nothing seems right\nJust keep holding on\nTo me\n\nI'll be your angel in your darkest night\nI'll be your destiny waiting by your side\nI'll be the sunshine when you're feeling blue\nI'm alwаyѕ here for you"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "polish"
+      ],
+      "displayedLanguages": null,
+      "title": "Anioł",
+      "content": "Daleko w zaginionym świecie\nSłyszę twój głos wołający z nieba\nWygnany, zatracony we wspomnieniach\nMusisz uwierzyć, że miłość nadejdzie\n\nBędę twoim aniołem w twej najmroczniejszej nocy\nBędę twoim przeznaczeniem, czuwającym u boku\nBędę twoim promieniem słońca, gdy poczujesz smutek\nJestem tu zawsze dla ciebie\n\nPrzychodzi dzień, serce płonie\nKiedy twojej wiary wydaje się brakować\nIdź swoją drogą, a odnajdziesz tam\nLąd nadziei, ląd marzeń\n\nBędę twoim aniołem w twej najmroczniejszej nocy\nBędę twoim przeznaczeniem, czuwającym u boku\nBędę twoim promieniem słońca, gdy poczujesz smutek\nJestem tu zawsze dla ciebie\n\nA kiedy wszystko stracisz\nI nic nie wydaje się być właściwe\nPoprostu trzymaj się\nMnie\n\nBędę twoim aniołem w twej najmroczniejszej nocy\nBędę twoim przeznaczeniem, czuwającym u boku\nBędę twoim promieniem słońca, gdy poczujesz smutek\nJestem tu zawѕze dlа ciebie"
+    }
+  ],
+  "bpm": 136,
+  "tone": "G major",
+  "artistPeople": [
+    "Chiara Siracusa"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Chiara"
+  ],
+  "broadcaster": "PBS",
+  "commentators": [
+    "Eileen Montesin"
+  ],
+  "jury": null,
+  "spokesperson": "Valerie Vella"
+}

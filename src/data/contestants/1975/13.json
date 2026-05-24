@@ -1,0 +1,54 @@
+{
+  "id": 13,
+  "country": "MC",
+  "artist": "Sophie",
+  "song": "Une chanson c'est une lettre",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/iPb7zd89LuQ",
+    "https://www.youtube-nocookie.com/embed/r2g1xect9RI",
+    "https://www.youtube-nocookie.com/embed/St8MdSY1tjg",
+    "https://www.youtube-nocookie.com/embed/YiH6och46xI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Une chanson c'est une lettre",
+      "content": "Vois-tu? – La chanson c'est une lettre\nQu'on écrit pour soi et puis qu'on jette\nElle ne voit jamais la boîte aux lettres\nEt pourtant\n\nOn a le courage d'y dire: \"Je t'aime\"\nPuisque c'est un autre sur la scène\nQui vient le crier sans avoir peur\nDes projecteurs\n\nUne chanson c'est une lettre\nQue l'on écrit là dans sa tête\nUne chanson c'est une lettre\nQue l'on n'envoie…\nQue l'on n'envoie jamais\n\nLes amours y sont toujours parfaites\nOn a jamais peur d'y être bête\nQuand le cœur est prêt à se soumettre\nÀ un cœur\n\nIl est plus facile de dire: \"Je t'aime\"\nÀ l'alexandrin de son poème\nL'amour n'est jamais comme sur la scène\nDans la vie\n\nUne chanson c'est une lettre\nQue l'on écrit là dans sa tête\nUne chanson c'est une lettre\nQue ne prendra jamais plus le facteur\n\n\"Partons tous les deux sur ce navire\"\nVoilà des choses que je ne peux dire\nMa gorge se serre et se déchire\nÀ l'idée\nQu'un jour il faudrait que je t'écrive\nCes mots plantés là sur l'autre rive\nFaute de te faire une missive\nJ'ai chanté\n\nUne chanson c'est une lettre\nQue l'on écrit là dans sa tête\nUne chanson c'est une lettre\nQue ne prendra jamais le facteur\n\nUne chanson c'est une lettre\nQue l'on écrit là dans sa tête\nUne chаnson c'est une lettre\nQui reste en soi\nQui se froisѕe et qui meurt"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "A song is a letter",
+      "content": "You see? – The song is a letter\nThat you write for yourself and then throw away\nIt never sees the mailbox\nHowever\n\nYou have the courage to say in it: \"I love you\"\nBecause it's someone else on the stage\nWho comes and shout it without fearing\nThe spotlights\n\nA song is a letter\nThat you write in your head\nA song is a letter\nThat you never…\nThat you never mail\n\nLove is always perfect in it\nYou're never afraid to feel silly\nWhen your heart is ready to surrender\nTo another heart\n\nIt's easier to say: \"I love you\"\nIn an alexandrine of your poem\nLove on stage doesn't match love\nIn real life\n\nA song is a letter\nThat you write in your head\nA song is a letter\nThat the postman will never ever take along\n\n\"Let's both leave on that ship\"\nThat's something I can't say\nMy throat squeezes and gets stuck\nAt the idea\nThat one day I'd have to write you\nThose words planted there on the other shore\nIt's a mistake to write you a letter\nSo I sang\n\nA song is a letter\nThat you write in your head\nA song is a letter\nThat the postman will never take along\n\nA song is a letter\nThat you write in your head\nA song is a letter\nThat stays inside of you\nThat crumples аnd dieѕ"
+    }
+  ],
+  "bpm": 96,
+  "tone": "E minor",
+  "artistPeople": [
+    "Sophie Hecquet"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "André Popp"
+  ],
+  "conductor": "André Popp",
+  "lyricists": [
+    "Boris Bergman"
+  ],
+  "writers": null,
+  "broadcaster": "TMC",
+  "commentators": [
+    "Georges de Caunes"
+  ],
+  "jury": null,
+  "spokesperson": "Carole Chabrier"
+}

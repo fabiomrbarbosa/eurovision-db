@@ -1,0 +1,74 @@
+{
+  "id": 17,
+  "country": "HR",
+  "artist": "Igor Cukrov feat. Andrea",
+  "song": "Lijepa Tena",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/jdLct2IqcLA",
+    "https://www.youtube-nocookie.com/embed/eiXiKRtjJWI",
+    "https://www.youtube-nocookie.com/embed/vBeelzWfWg4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "croatian"
+      ],
+      "displayedLanguages": null,
+      "title": "Lijepa Tena",
+      "content": "Bio sam oblak, lebdio\nNi sunca nisam vidio\nTebe čekao\n\nBog te je meni poslao\nOd srca otkinuo svog, da bi živio\nI čekao da ti meni daš čudo ljubavi\n\nHej draga, hej draga\nSuze u pamuk pretvaraš\nUmorne oči odmaraš\nZačaraš\n\nHej lijepa, hej sveta\nVodu u vino pretvaraš\nTi se moliš za sve nas, za sve nas\n\nTena… Tena…\n\nBio sam oblak, lebdio\nNi sunca nisam vidio\n\nHej draga, hej draga\nSuze u pamuk pretvaraš\nUmorne oči odmaraš\nZačaraš\n\nHej lijepa, hej sveta\nVodu u vino pretvaraš\nTi se moliš za sve nas, za sve naѕ\n\nTena… Tena…\nTena, Tena, Tenа…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Belle Tena",
+      "content": "J'étais un nuage, je flottais\nMême le soleil, je ne voyais pas\nJe t'attendais\n\nDieu t'a envoyée vers moi\nArrachée de son propre cœur, pour que je vive\nEt attendu que tu me donnes le miracle de l'amour\n\nHé ma chère, hé ma chère\nTu transformes les larmes en coton\nTu reposes les yeux fatigués\nTu ensorcelles\n\nHé belle, hé sainte\nTu changes l'eau en vin\nTu pries pour nous tous, pour nous tous\n\nTena… Tena…\n\nJ'étais un nuage, je flottais\nMême le soleil, je ne voyais pas\n\nHé ma chère, hé ma chère\nTu transformes les larmes en coton\nTu reposes les yeux fatigués\nTu ensorcelles\n\nHé belle, hé sainte\nTu changes l'eau en vin\nTu pries pour nous tous, pour nous touѕ\n\nTena… Tena…\nTena, Tena, Tenа…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Beautiful Tena",
+      "content": "I was a cloud, floating\nAnd I haven't seen the sun\nI was waiting for you\n\nGod has sent you to me\nDetached you from his heart, so I could live\nAnd waited for you to give me the miracle of love\n\nHey darling, hey darling\nYou're turning tears into cotton\nYou're a sight for sore eyes\nYou enchant\n\nHey beauty, hey holy\nYou're turning water into wine\nYou're praying for all of us, for all of us\n\nTena… Tena…\n\nI was a cloud, floating\nAnd I haven't seen the sun\n\nHey darling, hey darling\nYou're turning tears into cotton\nYou're a sight for sore eyes\nYou enchant\n\nHey beauty, hey holy\nYou're turning water into wine\nYou're praying for all of us, for all of uѕ\n\nTena… Tena…\nTena, Tena, Tenа…"
+    }
+  ],
+  "bpm": 116,
+  "tone": "A major",
+  "artistPeople": [
+    "Andrea Šušnjara",
+    "Igor Cukrov"
+  ],
+  "backings": [
+    "Ivana Čabraja",
+    "Jelena Majić",
+    "Karmen Matković",
+    "Sanja Jukić"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Tonči Huljić"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Vjekoslava Huljić"
+  ],
+  "writers": null,
+  "broadcaster": "HRT",
+  "commentators": [
+    "Duško Ćurlić"
+  ],
+  "jury": [
+    "Darko Domitrović",
+    "Denis Vasilj",
+    "Doris Karamatić",
+    "Silvije Glojnarić",
+    "Tina Vukov"
+  ],
+  "spokesperson": "Mila Horvat"
+}

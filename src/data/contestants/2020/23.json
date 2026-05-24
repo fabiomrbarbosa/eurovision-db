@@ -1,0 +1,45 @@
+{
+  "id": 23,
+  "country": "LT",
+  "artist": "The Roop",
+  "song": "On Fire",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/FxPm-Wz8qpY",
+    "https://www.youtube-nocookie.com/embed/awmMoVeqxlY",
+    "https://www.youtube-nocookie.com/embed/A1f7Z0GCV2w",
+    "https://www.youtube-nocookie.com/embed/0_mfQgQl2Gk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "On Fire",
+      "content": "I'm a human not a stone\nI can make a change and go\nWherever I want to\n\nThey told me maybe I'm too old\nBut there's fire in my soul.\n\nThe heat is getting higher\nI feel that I'm on fire\nThe world is my desire\nI feel that I'm on fire\n\nThere's no doubt I'm strong enough\nTo reach the state I've dreamed of\nIt's gonna happen\n\nAnd I will do what I can\nJust to be a better man\n\nThe heat is getting higher\nI feel that I'm on fire\nThe world is my desire\nI feel that I'm on fire\n\nCan't believe it took so long\nTo take action and move on\nNo one can stop me\n\nThrough the clouds there comes the sun\nAnd I'm ready for some fun\n\nLa la la la la… \n\nThe heat is getting higher\nI feel that I'm on fire\nThe world is my desire\nI feel that I'm on fire\n\n(on fire)\n(on fire)\n\nThe heаt iѕ getting higher"
+    }
+  ],
+  "bpm": 122,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Vaidotas Valiukevičius"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Mantas Banišauskas",
+    "Robertas Baranauskas",
+    "Vaidotas Valiukevičius"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Vaidotas Valiukevičius"
+  ],
+  "writers": null,
+  "broadcaster": "LRT",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

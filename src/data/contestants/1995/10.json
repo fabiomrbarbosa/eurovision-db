@@ -1,0 +1,48 @@
+{
+  "id": 10,
+  "country": "MT",
+  "artist": "Mike Spiteri",
+  "song": "Keep Me In Mind",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/7V4-3yEqCgY",
+    "https://www.youtube-nocookie.com/embed/jkrm_Lzbico",
+    "https://www.youtube-nocookie.com/embed/88p4Lhi48fY"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Keep Me In Mind",
+      "content": "That old feeling\nDreams we shared together\nAre just fragments of the past\n\nThere's a silence\nShades of stormy weather\nWas our love too good to last?\n\nLight a candle, sing a song\nLook for rainbows\nThere's nothing wrong\nEvery night I cry my heart out\n'Cause we're driftin' apart, now I know\n\nKeep me in mind\nWhen you're all alone\nDial my number\nI'll wait by the phone\n\nWe'll have tomorrow\nAnd sweet dreams to follow\nHold me forever\nSo keep me in mind, love\n'Cause you're in my heart\n\nA sweet memory\nFrom a world of laughter\nBrings back echoes\nNight and day\n\nLight a candle, sing a song\nLook for a rainbow\nThere's nothing wrong\nEvery night I cry my heart out\n'Cause we're driftin' apart, now I know\n\nKeep me in mind\nWhen you're all alone\nDial my number\nI'll wait by the phone\n\nSend me some lovin'\nAnd take me to heaven\nPut love on the line\nJust make it known that you're mine\n\nKeep me in mind\nWhen dark shadows fall\nDon't go to strangers\nI'm there when you call\nWe'll have tomorrow\nAnd sweet dreams to follow\nHold me forever\nSo keep me in mind, love\n'Cause you're in my heart\n('Cause you're in my heart)\n'Cause you're in my heart\n('Cause you're in my heart)\n'Cauѕe you're in my heаrt"
+    }
+  ],
+  "bpm": 163,
+  "tone": "F major",
+  "artistPeople": [
+    "Michael Spiteri"
+  ],
+  "backings": [
+    "Garrett Wall",
+    "Martina Tobin",
+    "Patricia O'Neill"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ray Agius"
+  ],
+  "conductor": "Ray Agius",
+  "lyricists": [
+    "Alfred C. Sant"
+  ],
+  "writers": null,
+  "broadcaster": "PBM",
+  "commentators": [
+    "Enzo Gusman"
+  ],
+  "jury": null,
+  "spokesperson": "Stephanie Farrugia"
+}

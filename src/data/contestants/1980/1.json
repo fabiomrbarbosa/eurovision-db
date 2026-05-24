@@ -1,0 +1,56 @@
+{
+  "id": 1,
+  "country": "DE",
+  "artist": "Katja Ebstein",
+  "song": "Theater",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/I-YAecPqn54",
+    "https://www.youtube-nocookie.com/embed/DHLb7TLQgqg",
+    "https://www.youtube-nocookie.com/embed/IWZ1FvL_0vQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Theater",
+      "content": "Sie setzen jeden Abend eine Maske auf\nUnd sie spielen wie die Rolle es verlangt\nAn das Theater haben sie ihr Herz verkauft\nSie stehn oben und die unten schaun sie an\nSie sind König, Bettler, Clown im Rampenlicht\nDoch wie's tief in ihnen aussieht, sieht man nicht\n\nTheater, Theater, der Vorhang geht auf\nDann wird die Bühne zur Welt\nTheater, Theater, das ist wie ein Rausch\nUnd nur der Augenblick zählt\n\nWie ein brennendes Fieber, wie ein Stück Glückseligkeit\nEin längst vergessner Traum erwacht zum Leben\nTheater, Theater, gehasst und geliebt\nHimmel und Hölle zugleich\n\nUnd der Clown, der muss lachen, auch wenn ihm zum Weinen ist\nUnd das Publikum sieht nicht, dass eine Träne fliesst\nUnd der Held, der muss stark sein und kämpfen für das Recht\nDoch oft ist ihm vor Lampenfieber schlecht\n\nAlles ist nur Theater und ist doch auch Wirklichkeit\nTheater, das Tor zur Phantasie\nTheater, Theater, nur der bleibt dir treu\nDer dich vor Leidenschaft liebt\n\nTheater, Theater\n(Und der Clown, der muss lachen)\nIst Leben und Traum\n(Auch wenn ihm zum Weinen ist)\nAnfang und Ende zugleich\n(Und das Publikum sieht nicht, dass eine Träne fliesst)\n\nTheater, Theater\n(Und der Held, der muss stark sein)\nIhr schenkt uns Applaus\n(Und kämpfen für das Recht)\nWir geben alles für euch\n(Doch oft ist ihm vor Lampenfieber schlecht)\n\nUnd lachen und weinen für euch\n(Theater, Theater)\nJa, wir geben аlleѕ für euch"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Theatre",
+      "content": "They put a mask on every evening\nAnd they play the role they have to play\nThey have sold their hearts to the theatre\nThey're standing up there and those below look at them\nThey're kings, beggars, clowns in the footlight\nBut how it looks deep inside them, you can't see\n\nTheatre, theatre, the curtain opens\nThen the stage becomes the world\nTheatre, theatre, it's like an intoxication\nAnd it's only the moment that counts\n\nLike a burning fever, like a piece of happiness\nA long forgotten dream comes back to life\nTheatre, theatre, hated and loved\nHeaven and hell at the same time\n\nAnd the clown has to laugh, even if he wants to cry\nAnd the audience doesn't see that a tear is rolling down\nAnd the hero has to be strong, and fight for the right\nBut often he's got stage fright\n\nEverything is just like theatre, but it's also reality\nTheatre, the gateway to fantasy\nTheatre, theatre, the only one who stays true\nWho loves you with passion\n\nTheatre, theatre\n(And the clown has to laugh)\nIs life and dream\n(Even if he wants to cry)\nBeginning and ending at the same time\n(And the audience doesn't see that a tear is rolling down)\n\nTheatre, theatre\n(And the hero has to be strong)\nYou give us the applause\n(And fight for the right)\nWe give everything for you\n(But often he's got stage fright)\n\nAnd laugh and cry for you\n(Theatre, theаtre)\nYeѕ, we give everything for you"
+    }
+  ],
+  "bpm": 95,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Karin Ilse Überall",
+    "Karin Witkiewicz"
+  ],
+  "backings": [
+    "Ralph Siegel"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ralph Siegel"
+  ],
+  "conductor": "Wolfgang Rödelberger",
+  "lyricists": [
+    "Gunter Johansen"
+  ],
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Ado Schlier"
+  ],
+  "jury": null,
+  "spokesperson": "Gabi Schnelle"
+}

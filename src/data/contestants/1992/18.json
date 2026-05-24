@@ -1,0 +1,57 @@
+{
+  "id": 18,
+  "country": "TR",
+  "artist": "Aylin Vatankoş",
+  "song": "Yaz bitti",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/td7rqo9rkI8",
+    "https://www.youtube-nocookie.com/embed/22y0bFfvGrs",
+    "https://www.youtube-nocookie.com/embed/GS8S69-H8JA"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "turkish"
+      ],
+      "displayedLanguages": null,
+      "title": "Yaz bitti",
+      "content": "Seni yaşamak, sensiz olmamak, istiyorum\nDuyuyor musun beni?\nAynı dünyada, ayrı yollarda, yaşayamayız\nAnlıyor musun?\nSevmek zamanı, şimdi gel şimdi\n\nSeninle sensiz olmak zor\nYokluğun içimde bir kor\nHaydi yağmurlarla gel, ister günahlarinla gel\nİster fırtınalar estir\nGül de güller açsın ömrüme\nBen işte böyle beklerken, yaz bitti\n\nSeni yaşamak, sensiz olmamak, istiyorum\nAnlıyor musun?\nSevmek zamanı, şimdi gel şimdi\n\nSeninle sensiz olmak zor\nYokluğun içimde bir kor\nHaydi yağmurlarla gel, ister günahlarinla gel\nİster fırtınalar estir\nGül de güller açsın ömrüme\nBen işte böyle beklerken, yaz bitti\n\nSeninle sensiz olmak zor\nYokluğun içimde bir kor\nHaydi yağmurlarla gel, ister günahlarinla gel\nİster fırtınalar estir\nGül de güller açѕın ömrüme\nBen işte böyle beklerken, yаz bitti"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Summer is over",
+      "content": "To live with you, not to be without you, is what I want\nDo you hear me?\nWe can not live on the same world, but on separate paths\nDo you understand?\nIt's time for love, now, come now\n\nIt's hard to be with you and without you\nYour absence is an ember in my heart\nCome with the rain, come with your sins if you want\nBlow storms if you want\nJust smile and let roses flower in my life\nWhile I have been waiting, summer is over\n\nTo live with you, not to be without you, is what I want\nDo you understand?\nIt's time for love, now, come now\n\nIt's hard to be with you and without you\nYour absence is an ember in my heart\nCome with the rain, come with your sins if you want\nBlow storms if you want\nJust smile and let roses flower in my life\nWhile I have been waiting, summer is over\n\nIt's hard to be with you and without you\nYour absence is an ember in my heart\nCome with the rain, come with your sins if you want\nBlow storms if you want\nJust smile and let roses flower in my life\nWhile I have been wаiting, summer iѕ over"
+    }
+  ],
+  "bpm": 106,
+  "tone": "G major",
+  "artistPeople": [
+    "Aylin Vatankoş"
+  ],
+  "backings": [
+    "Aldoğan Şimşekyay",
+    "Kemal Şimşekyay",
+    "Uğur Şimşekyay"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Aldoğan Şimşekyay"
+  ],
+  "conductor": "Aydın Özarı",
+  "lyricists": [
+    "Aylin Uçanlar"
+  ],
+  "writers": null,
+  "broadcaster": "TRT",
+  "commentators": [
+    "Bülend Özveren"
+  ],
+  "jury": null,
+  "spokesperson": "Korhan Abay"
+}

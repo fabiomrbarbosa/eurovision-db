@@ -1,0 +1,51 @@
+{
+  "id": 10,
+  "country": "MD",
+  "artist": "Pasha Parfeny",
+  "song": "Lăutar",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vIy0EtEeLEw",
+    "https://www.youtube-nocookie.com/embed/3H7AILnPoio",
+    "https://www.youtube-nocookie.com/embed/EchSvC5rJ6I"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Lăutar",
+      "content": "At the wedding tonight, she looks nicer than the bride\nWhen she smiles, I forget my lyrics\nI got blind, I got mad, not from the diamonds she had\nBut from the beauty that put my heart on fire\n\nYou have never been to my show\nYou haven't seen before how looks the trumpet\nBut the sound goes straight to your soul, gets you out of control\nThis trumpet makes you my girl\n\n(This trumpet makes you my girl)\n\nJust like from paradise, you came down from the skies\nOn a plane which belongs to your daddy\nWelcome to carousel, the wine is sweet, but take care\n'Cause too much is no good for a princess\n\nYou have never been to my show\nYou haven't seen before how looks the trumpet\nBut the sound goes straight to your soul, gets you out of control\nThis trumpet makes you my girl\n\nYou have never been to my show\nYou haven't seen before how looks the trumpet\nBut the sound goes straight to your soul, gets you out of control\n\nYou haven't seen before (you've never seen before) how looks the trumpet\nBut the sound goes straight to your soul, gets you out of control\nThis trumpet makes you (my girl)\nThis trumpet makes you (my girl)\nThis trumpet makes you my girl\nThis trumpet mаkeѕ you my girl"
+    }
+  ],
+  "bpm": 107,
+  "tone": "C major",
+  "artistPeople": [
+    "Pavel Parfeni"
+  ],
+  "backings": [
+    "Aliona Moon",
+    "Julia Gakhova",
+    "Ksyusha Vertelnikova",
+    "Lera Kirichenko",
+    "Tatiana Heghea"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Alex Brașoveanu",
+    "Pavel Parfeni"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Pavel Parfeni"
+  ],
+  "writers": null,
+  "broadcaster": "TRM",
+  "commentators": [
+    "Marcel Spătari"
+  ],
+  "jury": null,
+  "spokesperson": "Olivia Furtună"
+}

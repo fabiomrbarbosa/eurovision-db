@@ -1,0 +1,50 @@
+{
+  "id": 27,
+  "country": "LT",
+  "artist": "InCulto",
+  "song": "Eastern European Funk",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/XeOn-GG_eHo",
+    "https://www.youtube-nocookie.com/embed/KqU88ZBW0z8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Eastern European Funk",
+      "content": "You've seen it all before, we ain't got no taste, we're all a bore\nYou should give us a chance, 'cause we're all victims of circumstance\nWe've had it pretty tough, but that's okay, we like it rough\nWe'll settle the score, survived the reds and two world wars\n\nGet up and dance to our Eastern European kinda…\nGet up and dance to our Eastern European kinda…\nGet up and dance to our Eastern European kinda funk\n\nYes sir, we are legal, we are, though we're not as legal as you\nNo sir, we're not equal, no, though we're both from the EU\nWe build your homes, we wash your dishes, keep your hands all squeaky clean\nSome day you'll come to realise Eastern Europe is in your genes\n\nGet up and dance to our Eastern European kinda…\nGet up and dance to our Eastern European kinda…\nGet up and dance to our Eastern European kinda…\n\nGet up and dance to our Eastern European kinda…\nGet up and dance to our Eastern European kinda…\nGet up and dance to our Eastern European kinda funk\n\nGet up and dance to our… get up and dance to our…\nGet up and dance to our… get up and dance to our…\nGet up and dance to our… get up and dance to our…\nGet up and dance to our Eastern European kinda…\n\nGet up and dance to our Eastern European kinda funk\nGet up and dance to our…\nGet up and dance to our Eastern European kinda funk\nGet up and dance to our…\nGet up and dance to our Eastern European kinda funk\nGet up and dance to our…\nGet up and dance to our Eaѕtern European kindа funk"
+    }
+  ],
+  "bpm": 134,
+  "tone": "E major",
+  "artistPeople": [
+    "Aurelijus Morlencas",
+    "Jievaras Jasinskis",
+    "Jonas Narbutas",
+    "Jurgis Didžiulis",
+    "Laurynas Lapė",
+    "Šarūnas Kirdeikis"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Aurelijus Morlencas",
+    "Jievaras Jasinskis",
+    "Jonas Narbutas",
+    "Jurgis Didžiulis",
+    "Laurynas Lapė"
+  ],
+  "broadcaster": "LRT",
+  "commentators": [
+    "Darius Užkuraitis"
+  ],
+  "jury": null,
+  "spokesperson": "Giedrius Masalskis"
+}

@@ -1,0 +1,54 @@
+{
+  "id": 2,
+  "country": "FR",
+  "artist": "Guy Mardel",
+  "song": "N'avoue jamais",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/VQhZq5WcyzE",
+    "https://www.youtube-nocookie.com/embed/6rl0QDmlAho",
+    "https://www.youtube-nocookie.com/embed/80sd9LGt0iw",
+    "https://www.youtube-nocookie.com/embed/PDFFWkPBVfU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "N'avoue jamais",
+      "content": "N'avoue jamais, jamais, jamais, jamais, jamais\nN'avoue jamais que tu aimes\nN'avoue jamais, jamais, jamais, oh non, jamais\nN'avoue jamais que tu l'aimes\n\nSi tu veux qu'on te donne tout ce que tu attends\nSi tu veux que l'automne ait le goût du printemps\nSois celui qui déroute et souviens-toi toujours\nQu'il faut semer le doute pour récolter l'amour\n\nN'avoue jamais, jamais, jamais, jamais, jamais\nN'avoue jamais que tu aimes\nN'avoue jamais, jamais, jamais, oh non, jamais\nN'avoue jamais que tu l'aimes\n\nSi tu tiens à défendre ton bonheur d'amoureux\nSi tu tiens à entendre les plus tendres aveux\nSois celui que l'on aime pour ce qu'il ne dit pas\nQui commence un poème mais ne le finit pas\n\nN'avoue jamais, jamais, jamais, jamais, jamais\nN'avoue jamais que tu aimes\nN'avoue jamais, jamais, jamais, oh non, jamais\nN'avoue jamais que tu l'aimes\n\nN'avoue jamais, jamais, jamais, jamais, jamais\nN'avoue jamais que tu l'аimeѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Never admit",
+      "content": "Never admit, never, never, never, never\nNever admit that you love\nNever admit, never, never, oh no, never\nNever admit that you love her\n\nIf you want to be given everything you're waiting for\nIf you want the autumn to have the scent of springtime\nBe the one who changes course and always remember\nThat you have to sow doubt to reap love\n\nNever admit, never, never, never, never\nNever admit that you love\nNever admit, never, never, oh no, never\nNever admit that you love her\n\nIf you keep defending your happiness in love\nIf you keep listening to the most tender confessions\nBe the one who is loved for saying nothing\nWho begins a poem but doesn't finiѕh it\n\nNever admit, never, never, never, never\nNever admit that you love\nNever admit, never, never, oh no, never\nNever admit that you love her\n\nNever admit, never, never, never, never\nNever admit thаt you love her"
+    }
+  ],
+  "bpm": 74,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Guy Mardel"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Guy Mardel"
+  ],
+  "conductor": "Franck Pourcel",
+  "lyricists": [
+    "Françoise Dorin"
+  ],
+  "writers": null,
+  "broadcaster": "ORTF",
+  "commentators": [
+    "Pierre Tchernia"
+  ],
+  "jury": null,
+  "spokesperson": "Jean-Claude Massoulier"
+}

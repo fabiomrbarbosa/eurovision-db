@@ -1,0 +1,67 @@
+{
+  "id": 3,
+  "country": "UA",
+  "artist": "Mika Newton",
+  "song": "Angel",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/g_xRmEkR6KE",
+    "https://www.youtube-nocookie.com/embed/j5tpijqnLuU",
+    "https://www.youtube-nocookie.com/embed/gWszo7AnMTY",
+    "https://www.youtube-nocookie.com/embed/Jtfetx1u8I0",
+    "https://www.youtube-nocookie.com/embed/pb_xGZA7zl0",
+    "https://www.youtube-nocookie.com/embed/-ErJlIkNzhM",
+    "https://www.youtube-nocookie.com/embed/ri6yJ7pLGvI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Angel",
+      "content": "When you look into my eyes\nWorld becomes a better place\nAnd you know deep inside\nLove is taking all the space\nBaby, I love you… and you?\n\nWe are birds, we fly so high and we are falling down\nWhen I dream of you, my dream is so fearless\nWe are people of the planet, we live human lives\nWe are angels, we're in danger, we are crystal white, crystal white\n\nWhen you look into my eyes\nSun is touching mountain top\nWhen you look into my eyes\nIt will never have to stop\nBaby, I love you… and you?\n\nWe are birds, we fly so high and we are falling down\nWhen I dream of you, my dream is so fearless\nWe are people of the planet, we live human lives\nWe are angels, we're in danger, we are crystal white, crystal white\n\nWe are birds, we fly so high and we are falling down\nWhen I dream of you, my dream is so fearless\nWe are people of the planet, we live human lives\nWe are angels, we're in danger, we are crystal white, cryѕtаl white"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "ukrainian"
+      ],
+      "displayedLanguages": null,
+      "title": "Ангел",
+      "content": "Коли ти дивишся мені у вічі\nСвіт стає кращим місцем\nІ ти знаєш, глибоко в душі\nЛюбов заповнює кожен простір\nКоханий, я люблю тебе… а ти?\n\nМи — птахи, летимо так високо, та падаємо вниз\nКоли я мрію про тебе, моя мрія безстрашна\nМи — люди на планеті, живемо людським життям\nМи — ангели, ми в небезпеці, ми кришталево білі, кришталево білі\n\nКоли ти дивишся мені у вічі\nСонце торкається вершини гори\nКоли ти дивишся мені у вічі\nЦе ніколи не припиниться\nКоханий, я люблю тебе… а ти?\n\nМи — птахи, летимо так високо, та падаємо вниз\nКоли я мрію про тебе, моя мрія безстрашна\nМи — люди на планеті, живемо людським життям\nМи — ангели, ми в небезпеці, ми кришталево білі, кришталево білі\n\nМи — птахи, летимо так високо, та падаємо вниз\nКоли я мрію про тебе, моя мрія безстрашна\nМи — люди на планеті, живемо людським життям\nМи — ангели, ми в небезпеці, ми кришталево білі, кришталево білі"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Ангел",
+      "content": "Посмотри в мои глаза\nИ желанье сбудется\nНе мечта, Внизу скользят, города и улицы\nЯ тебя люблю а ты?\n\nСловно птицы в синем небе разлетаемся\nТы прости меня за все мечты не смелые\nМы людьми на этом свете называемся\nТолько прячем за спиною крылья белые, белые\n\nПосмотри в мои глаза\nВетер, свет ещё далëк\nПосмотри в мои глаза\nТы не будешь одинок\nЯ тобой живу а ты?\n\nСловно птицы в синем небе разлетаемся\nТы прости меня за все мечты не смелые\nМы людьми на этом свете называемся\nТолько прячем за спиною крылья белые, белые\n\nСловно птицы в синем небе разлетаемся\nТы прости меня за все мечты не смелые\nМы людьми на этом свете называемся\nТолько прячем за спиною крылья белые, белые"
+    }
+  ],
+  "bpm": 89,
+  "tone": "F minor",
+  "artistPeople": [
+    "Oksana Stefanivna Hrytsay (Оксана Стефанівна Грицай)"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Anatolii Zalevskyi",
+  "composers": [
+    "Maryna Skomorohova"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Ruslan Kvinta"
+  ],
+  "writers": null,
+  "broadcaster": "NTU",
+  "commentators": [
+    "Tetyana Terekhova",
+    "Timur Miroshnychenko"
+  ],
+  "jury": null,
+  "spokesperson": "Ruslana"
+}

@@ -1,0 +1,57 @@
+{
+  "id": 4,
+  "country": "BE",
+  "artist": "Jacques Zegers",
+  "song": "Avanti la vie",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/apMQRVC8JHg",
+    "https://www.youtube-nocookie.com/embed/HTCnLRmtnWU",
+    "https://www.youtube-nocookie.com/embed/ffftiAj-eOA"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Avanti la vie",
+      "content": "Avanti, avanti la vie\nTraverse la mémoire des hommes\nDu cœur et des poings, avanti\nPeut-être referas-tu Rome\n\nAvanti, avanti la vie\nSois un oiseau sans barreaux, va\nDes ailes et du bec, avanti\nMais vole plus haut que les chats\n\nLe train des jours roule dans ta tête\nTant de détours souvent te guettent\n\nAvanti, avanti la vie\nN'écoute pas toutes les lois\nTu en crèverais, avanti\nToutes les libertés grondent en toi\n\n(Avanti, avanti la vie)\nNi valet, ni roi\n(Sois poète sans bourreaux, va)\nChante aussi fort que tu pourras\n(De l'encre et des mots, avanti)\nAvanti la vie\n(Écris le fou du fond de toi)\n\nLe train du temps parfois s'arrête\nProfites-en, change de tête\n\nAvanti, avanti la vie\nAide-toi, le ciel t'aidera\nLève-toi et marche, avanti\nUn autre l'a dit avant moi\n\n(Avanti, avanti la vie)\nAvanti la vie\n(Traverse la mémoire des hommes)\nDu cœur et des poings, avanti\n(Du cœur et des poings, avanti)\nPeut-être referаѕ-tu Rome"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Go forward in life",
+      "content": "Go forward, go forward in life\nRemember the history of mankind\nHeart and fists, go forward\nMaybe you will revive Rome\n\nGo forward, go forward in life\nBe a free bird, go\nWings and beak, go forward\nBut fly higher than the cats\n\nThe train of the days rides in your head\nA lot of bends are often waiting for you\n\nGo forward, go forward in life\nDon't listen to all the laws\nYou would perish, go forward\nAll the liberties growl on you\n\n(Go forward, go forward in life)\nNeither servant nor king\n(Be a poet without executioners, go)\nSing as strong as you can\n(Ink and words, go forward)\nGo forward in life\n(Write down the madness of your inner self)\n\nThe train of the time sometimes stops\nMake the most of it, change your mind\n\nGo forward, go forward in life\nHelp yourself, heaven will help you\nStand up and walk, go forward\nSomeone else said it before me\n\n(Go forward, go forward in life)\nGo forward  in life\n(Remember the history of mankind)\nHeart and fists, go forward\n(Heart and fistѕ, go forward)\nMаybe you will revive Rome"
+    }
+  ],
+  "bpm": 91,
+  "tone": "A major",
+  "artistPeople": [
+    "Jacques Zegers"
+  ],
+  "backings": [
+    "Chantal Nicaise",
+    "Isabelle Kabatu"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Henri Seroka"
+  ],
+  "conductor": "Jo Carlier",
+  "lyricists": [
+    "Jacques Zegers"
+  ],
+  "writers": null,
+  "broadcaster": "RTBF",
+  "commentators": [
+    "Jacques Mercier",
+    "Luc Appermont"
+  ],
+  "jury": null,
+  "spokesperson": "Jacques Olivier"
+}

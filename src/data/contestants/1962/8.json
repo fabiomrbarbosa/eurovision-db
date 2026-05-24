@@ -1,0 +1,52 @@
+{
+  "id": 8,
+  "country": "IT",
+  "artist": "Claudio Villa",
+  "song": "Addio, addio",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/npD6wev8Dtw",
+    "https://www.youtube-nocookie.com/embed/Tn2cz1qlRpg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Addio, addio",
+      "content": "I miei sorrisi e i tuoi si sono spenti\nNoi camminiamo insieme e siamo soli\nCi restano soltanto lunghi silenzi che volgon dire:\nAddio, addio\n\nIl nostro amore, acqua di mare, è diventata sale\nLe nostre labbra inaridite non hanno più parole\n\nGuardami, guardami, lo sai che non è vero\nNon è vero che è finito il nostro amore\n\nAddio, addio\nAddio, addio\n\nGuardami, guardami, ascoltami, fermati\nNon è vero, perché tu stai piangendo\n\nPerché noi lo sappiamo (Perché noi lo sappiamo)\nChe ci vogliamo bene (Che ci vogliamo bene)\nChe ci vogliamo bene e ci laѕciamo\n\nAddio, addio\nAddio, аddio"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Goodbye, goodbye",
+      "content": "My smiles and yours are extinguished\nWe're walking together and we're alone\nThere are only long silences left which mean:\nGoodbye, goodbye\n\nOur love has become salt like sea water\nOur parched lips don't have words any longer\n\nLook at me, look at me, you know that it isn't true\nIt isn't true that our love has ended\n\nGoodbye, goodbye\nGoodbye, goodbye\n\nLook at me, look at me, listen to me, hold on\nIt isn't true, because you're crying\n\nBecause we know (Becauѕe we know)\nThat we love each other (That we love each other)\nThat we love each other and that we're breаking up\n\nGoodbye, goodbye\nGoodbye, goodbye"
+    }
+  ],
+  "bpm": 152,
+  "tone": "C major",
+  "artistPeople": [
+    "Claudio Pica"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Domenico Modugno"
+  ],
+  "conductor": "Cinico Angelini",
+  "lyricists": [
+    "Franco Migliacci"
+  ],
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Renato Tagliani"
+  ],
+  "jury": null,
+  "spokesperson": "Enzo Tortora"
+}

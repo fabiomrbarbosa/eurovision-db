@@ -1,0 +1,50 @@
+{
+  "id": 17,
+  "country": "AT",
+  "artist": "Nadine Beiler",
+  "song": "The Secret Is Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/UsBC5AB1tFo",
+    "https://www.youtube-nocookie.com/embed/NC_Cdrq0Of0",
+    "https://www.youtube-nocookie.com/embed/IXenb8gnzPI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The Secret Is Love",
+      "content": "When I close my eyes, I fall into a dream\nCan't you see this world, all people live in peace\nThe sun is shining in my heart, rainbows in the sky\nSpread your wings and fly, fly, fly high\n\nWe all are dreamers on our way\nIn a world where we're not meant to stay\nTogether we can make it all\nThe secret is in you, it's love\n\nWhen I smile inside my heart, I feel so free\nAll the fears and doubts, they turn into belief\nI feel right, we'll make it right now\nIf we trust, trust, trust in love\n\nWe all are dreamers on our way\nIn a world where we're not meant to stay\nTogether we can make it all\nThe secret is love\n\nI'm reaching out my hand to you\nSoldiers let the light shine through\nSo we can realise the wonder of life (Trust, love, life)\n\nSo what more do we need?\nSo what more will it take to see life?\nJust open your eyes\n\n(We all are dreamers on our way)\n(In a world where we're not meant to stay) We're not meant to stay\nTogether we can make it all\nThe secret is love\n\nI'm reaching out my hand to you\nSoldiers (Soldiers let the light shine through)\nLet the light shine through\nSo we can realise the wonder of life\n\n(Trust, love, life)\n(Spread your wings аnd fly)\n(Trust, love)\n\nSee… the secret iѕ love"
+    }
+  ],
+  "bpm": 123,
+  "tone": "F# minor",
+  "artistPeople": [
+    "Nadine Beiler"
+  ],
+  "backings": [
+    "Anne Semper",
+    "Juci Janoska",
+    "Karin Ziegelwanger",
+    "Maria Rerych",
+    "Renee Benson"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Thomas Rabitsch"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Nadine Beiler"
+  ],
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": [
+    "Andi Knoll"
+  ],
+  "jury": null,
+  "spokesperson": "Katharina Bellowitsch"
+}

@@ -1,0 +1,76 @@
+{
+  "id": 14,
+  "country": "RU",
+  "artist": "Alla Pugachova",
+  "song": "Primadonna",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/QVJnjdROPOA",
+    "https://www.youtube-nocookie.com/embed/GJ_mXXSmue4",
+    "https://www.youtube-nocookie.com/embed/p_UgckVi_l8",
+    "https://www.youtube-nocookie.com/embed/SdaM5ux2080",
+    "https://www.youtube-nocookie.com/embed/5SWP8fQ0gao"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": [
+        "русский"
+      ],
+      "title": "Примадонна",
+      "content": "Словно раненая птица, с опереньем золотым\nНа помост выйдешь ты\nИ вижу, вижу я тебя счастливой\n\nПой, для меня лишь пой, Примадонна\nПой раненой душой, Примадонна\nУмирая каждый раз\n\nСмейся в лицо судьбе, Примадонна\nНе привыкать тебе, Примадонна\nК роли страшной и простой – быть звездой\n\nИ своим усталым взором, коронованным слезой\nГлядишь ты в этот зал\nИ словно видишь сон, но сон растаял\n\nВот он, последний бой, Примадонна\nБой со своей судьбой, Примадонна\n\nСмейся в лицо судьбе, Примадонна\nНе привыкать тебе, Примадонна\nК роли страшной и смешной\nБыть всегда одной\n\nДай же силы, о небо, осушить эту чашу до дна\nТам, где ты еще не был, ей уже наливали вина\nЕй кричали браво, за причудливый фарс\nПоднимаю бокал, за счастливый финал!\n\nБраво! Примадонна! Браво!"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": [
+        "russkiy"
+      ],
+      "title": "Primadonna",
+      "content": "Slovna ranjenaja ptitsa, s aperenjem zalatim\nNa pamost vijdješ ti\nI vižu, vižu ja tebja sčastljivaj\n\nPoj, dlja menja ljiš poj, Primadonna\nPoj ranjenaj dušoj, Primadonna\nUmiraja každij raz\n\nSmejsa v ljitso sudjbje, Primadonna\nNje privikat tebje, Primadonna\nK rolji strašnoj i prastoj – bit zvjezdoj\n\nI svajim ustalim vzoram, karanovannim sljezoj\nGljidjiš ti v etat zal\nI slovna vjidjiš son, no son rastajal\n\nVot on, pasljednjij boj, Primadonna\nBoj sa svajej sudjboj, Primadonna\n\nSmejsa v ljitso sudjbje, Primadonna\nNje privikat tebje, Primadonna\nK rolji strašnoj i smešnoj\nBit vsegda adnoj\n\nDaj že sili, o njeba, asušit etu čašu do dna\nTam, gdje ti ješe nje bil, jej uže naljivalji vjina\nJej kričalji bravo, za pričudljivij fars\nPadnjimaju bakal, za sčaѕtljivij final!\n\nBravo! Primadonna! Brаvo!"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Prima donna",
+      "content": "Like an injured bird with golden feathers\nYou go on stage\nAnd I see, I see, that you are happy\n\nSing for me, just sing, Prima donna\nSing with an injured soul, Prima donna\nDying every time\n\nLaugh into the face of your destiny, Prima donna\nFor you it isn't new, Prima donna\nTo play the terrible and easy part, to be a star\n\nAnd with your tired glance that is crowned with tears\nYou look into this hall\nAnd you probably see the dream that is just an illusion\n\nHere it is, the last combat, Prima donna\nThe combat with your destiny, Prima donna\n\nLaugh into the face of your destiny, Prima donna\nFor you it isn't new, Prima donna\nTo play the terrible and foolish part\nTo stay alone forever\n\nGive me the force, oh heaven, to drain the cup\nThere, where nobody has ever been, she had already drunk the wine\nThey shouted 'Bravo' to her, for this strange farce\nI'm raising my glasѕ to the grand final\n\nBravo! Prima donna! Brаvo!"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Prima donna",
+      "content": "Come un uccello ferito dalle piume d'oro\nSali sul palco\nE vedo, vedo che sei felice\n\nCanta per me, canta e basta, Primadonna\nCanta con l'anima ferita, Primadonna\nChe muore ogni volta\n\nRidi in faccia al tuo destino, Primadonna\nPer te non è una novità, Primadonna\nRecitare la parte facile e terribile, essere una star\n\nE con il tuo sguardo stanco e coronato di lacrime\nGuardi in questa sala\nE probabilmente vedi il sogno che è solo un'illusione\n\nEccolo, l'ultimo combattimento, Prima donna\nIl combattimento col tuo destino, Prima donna\n\nRidi in faccia al tuo destino, Primadonna\nPer te non è una novità, Primadonna\nRecitare la parte terribile e sciocca\nRestare solo per sempre\n\nDammi la forza, oh cielo, di scolare la coppa\nLì, dove nessuno è mai stato, lei aveva già bevuto il vino\nLe hanno gridato \"Bravo\", per questa strana farѕa\nAlzo il calice al gran finale\n\nBravo! Primadonna! Brаvo"
+    }
+  ],
+  "bpm": 121,
+  "tone": "C major",
+  "artistPeople": [
+    "Alla Borisovna Pugachova"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Rutger Gunnarsson",
+  "lyricists": null,
+  "writers": [
+    "Alla Pugacheva"
+  ],
+  "broadcaster": "ORT",
+  "commentators": [
+    "Philipp Kirkorov",
+    "Sergei Antipov"
+  ],
+  "jury": null,
+  "spokesperson": "Arina Sharapova"
+}

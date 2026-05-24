@@ -1,0 +1,63 @@
+{
+  "id": 1,
+  "country": "CH",
+  "artist": "Lys Assia",
+  "song": "Giorgio",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/14Xn9nkB2f4",
+    "https://www.youtube-nocookie.com/embed/X9Uly6Td6So",
+    "https://www.youtube-nocookie.com/embed/TWqJp32Hcf4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german",
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Giorgio",
+      "content": "Oh Giorgio, Giorgio\nOh Giorgio vom Lago Maggiore\nGiorgio, ein Weekend mit dir in Ascona\nIn Ascona am Lago Maggiore\nMit Chianti, Chianti, Chianti, Chianti, Chianti\nEin Weekend mit dir\nUnd Risotto, Risotto, Risotto, Risotto, Risotto, Risotto, Risotto\nOh Giorgio, ein Weekend mit dir in Ascona\nIn Ascona am Lago Maggiore\nCon amore, molto amore\nOh Giorgio, Giorgio\n\nUn ristorante alla piazza\n\"Cameriere!\"\n\"Signore, Signorina, per favore, un espresso?\"\n\"No - vino!\"\n\nOh Giorgio, Giorgio\nOh Giorgio vom Lago Maggiore\nGiorgio, ein Weekend mit dir in Ascona\nIn Ascona am Lago Maggiore\nMit Chianti, Chianti, Chianti, Chianti, Chianti\nEin Weekend mit dir\nUnd Polenta, Polenta, Polenta, Polenta, Polenta, Polenta, Polenta\nOh Giorgio, ein Weekend mit dir in Ascona\nIn Ascona am Lago Maggiore\nCon amore, tanto amore\nOh Giorgio, Giorgio\n\nUna notte sulla luna\nUna barca - il lago, le montagne e le palme\nGiardini, fiori, mimose\n\nOh Giorgio, Giorgio\nVom Lago Maggiore in Ascona\nIn Aѕcona am Lago Maggiore\n<span class=\"lyrics_mark\" data-mark=\"g7nvy56hgf\">Con amore, molto amore</span>\nLa la la…\n<span class=\"lyrics_mark\" data-mark=\"g7nvy56hgf\">Con amore, molto amore</span>\n<span class=\"lyrics_mark\" data-mark=\"g7nvy56hgf\">Oh Giorgio, Giorgio</span>\n\nMio caro! Mia cara\nAddio! Arrivederci mia bella, bella bionda\nAddio, ciao Giorgio\n\nOh Giorgio, Giorgio\nLa la lа…\nOh Giorgio, Giorgio"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "George",
+      "content": "Oh George, George\nOh George from the lake Maggiore\nGeorge, a weekend with you in Ascona\nIn Ascona at the lake Maggiore\nWith chianti, chianti, chianti, chianti, chianti\nA weekend with you\nAnd risotto, risotto, risotto, risotto, risotto, risotto, risotto\nOh George, a weekend with you in Ascona\nIn Ascona at the lake Maggiore\nWith love, much love\nOh George, George\n\nA restaurant at the public square\n\"Waiter!\"\n\"Sir, Madam, would you like an espresso?\"\n\"No – wine!\"\n\nOh George, George\nOh George from the lake Maggiore\nGeorge, a weekend with you in Ascona\nIn Ascona at the lake Maggiore\nWith chianti, chianti, chianti, chianti, chianti\nA weekend with you\nAnd polenta, polenta, polenta, polenta, polenta, polenta, polenta\nOh George, a weekend with you in Ascona\nIn Ascona at the lake Maggiore\nWith love, much love\nOh George, George\n\nA night under the moon\nA boat - the lake, the mountains and the palms\nGardens, flowers, mimosa\n\nOh George, George\nFrom the lake Maggiore in Ascona\nIn Aѕcona at the lake Maggiore\nWith love, much love\nLa la la…\nWith love, much love\nOh George, George\n\nMy beloved! My beloved\nGoodbye! Goodbye my beautiful, beautiful, blonde woman\nGoodbye, bye George\n\nOh George, George\nLa la lа…\nOh George, George"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Giorgio",
+      "content": "Oh Giorgio, Giorgio\nOh Giorgio, quel soir magnifique\nViens, prends mon bras et partons en musique\nTous les deux sur le lac romantique\nVers la dance, la dance, la dance, la dance, la dance\nFilons sur ta barque légère, légère, légère, légère, légère, légère, légère\nLa lune s'admire au mirroir des eaux claires\nEt ton cœur bat plus fort pour me plaire\nMille étoiles jouent dans la voile\nOh Giorgio, Giorgio\n\nUn restaurant sur la plage\n\"Maître d'hôtel!\"\n\"Signore, Signorina, per favore, un espresso?\"\n\"No – champagne!\"\n\nOh Giorgio, Giorgio\nMa tête tourne un peu, mes yeux brillent\nSi je te dis que tu sais plaire aux filles, c'est la faute au champagne qui pétille\nJe t'adore, t'adore, t'adore, t'adore, t'adore\nSoit toujours fidèle, fidèle, fidèle, fidèle, fidèle, fidèle, fidèle, fidèle\nJe vois dans le ciel nos prénoms qui s'enchaînent\nC'est écrit que le ciel veut lui-même que tu m'aimes comme je t'aime\n\nJe n'oublierai jamais la barque, la montagne\nLes palmiers, les jardins, les roses, les mimosas\n\nOh Giorgio, Giorgio\nLa nuit qui s'achève met au monde notre amour dans le jour qui se lève\n\nMon chéri! Ma chérie! Je t'aime\nAvec le jour qui s'élance, c'est une autre vie qui commence\nJe t'aime, embrasѕe-moi, Giorgio\n\nOh Giorgio, Giorgio\nLa la lа…\nOh Giorgio, Giorgio"
+    }
+  ],
+  "bpm": 155,
+  "tone": "C major",
+  "artistPeople": [
+    "Rosa Mina Schärer"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Paul Burkhard"
+  ],
+  "conductor": "Paul Burkhard",
+  "lyricists": [
+    "Fridolin Tschudi"
+  ],
+  "writers": null,
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Theodor Haller"
+  ],
+  "jury": null,
+  "spokesperson": "Mäni Weber"
+}

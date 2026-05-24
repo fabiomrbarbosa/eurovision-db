@@ -1,0 +1,55 @@
+{
+  "id": 5,
+  "country": "SE",
+  "artist": "Family Four",
+  "song": "Vita vidder",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Mq10KQ77dnY",
+    "https://www.youtube-nocookie.com/embed/U7LkF7OzxmU",
+    "https://www.youtube-nocookie.com/embed/EUaTl7Zoo3k",
+    "https://www.youtube-nocookie.com/embed/6PLblelGO2Q"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Vita vidder",
+      "content": "Soliga stränder, gröna vajande palmer\nMedelhavsländer, mörka nätter, varma, sköna\nDär vill du leva, jag har ett annat paradis\n\nVita vidder, gnistrande skare\nFjäll med snö så långt man kan se\nDjupa skogar, vipor och hare\nEvig sol som aldrig går ner\nHär är min värld och den vill jag dela med dig\nOm du vill vara vid min sida, du vill vara vid min sida\n\nBara vi båda förstår varandra, då är världen vår\nSol på en strand eller sol över snövitt vinterland\n\nLummiga vindar gör små vågor i sanden\nMedelhavs vindar för var segelbåt mot stranden\nSå vill du leva, jag har ett annat paradis\n\nSnö som virvlar runt mina skidor\nNerför branta hisnande stup\nGlida ner för fjällkammens sidor\nEnsam mellan himmel och djup\nSå'n är min värld och den vill jag dela med dig\nOm du vill vara vid min sida, du vill vara vid min sida\n\nBara vi båda förѕtår varandrа, då är världen vår"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "White expanses",
+      "content": "Sunny beaches, green swaying palms\nMediterranean countries, dark nights, warm, pleasant\nThat's where you want to live, I have another paradise\n\nWhite expanses, sparkling frozen crust\nMountains with snow as far as you can see\nDeep forests, grouse and hare\nEternal sun that never sets\nHere is my world and I want to share it with you\nIf you want to be by my side, you want to be by my side\n\nAs long as we understand each other, then the world is ours\nSun over a beach or sun over a snowy white winter landscape\n\nWarm winds make little waves in the sand\nMediterranean winds bring our boat to the shore\nThat's how you want to live, I have another paradise\n\nSnow that whirls around my skis\nDown steep dizzying slopes\nGliding down the sides of the mountain edge\nAlone between heaven and abyss\nThat's my world and I want to share it with you\nIf you want to be by my side, you want to be by my side\n\nAs long as we understand eаch other, then the the world is ourѕ"
+    }
+  ],
+  "bpm": 120,
+  "tone": "G major",
+  "artistPeople": [
+    "Agneta Munther",
+    "Berndt Öst",
+    "Marie Bergman",
+    "Pierre Isacsson"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Claes Rosendahl",
+  "lyricists": null,
+  "writers": [
+    "Håkan Elmquist"
+  ],
+  "broadcaster": "SR",
+  "commentators": [
+    "Åke Strömmer"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

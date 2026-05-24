@@ -1,0 +1,51 @@
+{
+  "id": 8,
+  "country": "DE",
+  "artist": "Heidi Brühl",
+  "song": "Marcel",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/7huFUkPV0V4",
+    "https://www.youtube-nocookie.com/embed/PPYosIy23Dk",
+    "https://www.youtube-nocookie.com/embed/Wjr4ePUHIpo"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Marcel",
+      "content": "Marcel, das geht mir viel zu schnell\nEs tut mir schrecklich leid, ich brauch ein bisschen Zeit\nMarcel, kannst du eventuell ein bisschen netter sein?\nDann will ich dir verzeihn\n\nEs geht, wenn sich's um Liebe dreht\nNur mit sehr viel Gefühl, sonst bleib ich sehr, sehr kühl\nMarcel, Marcel, das geht mir viel zu schnell\n'ne Chance hat bei mir allein ein Kavalier\n\nLala… lalala lalala…\nLalala lalala… lalala lalala…\n\nMarcel, Marcel, das geht mir viel zu schnell\nEs tut mir schrecklich leid, ich brauch ein bisschen Zeit\nMarcel, kannst du eventuell ein bisschen netter sein?\nDann will ich dir verzeihn\n\nEs geht, wenn sich's um Liebe dreht\nNur mit sehr viel Gefühl, sonst bleib ich sehr, sehr kühl\nMarcel, Marcel, das geht mir viel zu ѕchnell\n'ne Chance hat bei mir allein ein Kavаlier"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Marcel",
+      "content": "Marcel, this is going much too quickly for me\nI'm really very sorry, but I need a little time\nMarcel, could you possibly be a little nicer?\nThen I want to forgive you\n\nWhen it comes to love, it has to be\nWith a lot of feeling, or else I remain very, very cool\nMarcel, Marcel, this is going much too quickly for me\nOnly a gentleman has a chance with me\n\nLala… lalala lalala…\nLalala lalala… lalala lalala…\n\nMarcel, Marcel, this is going much too quickly for me\nI'm really very sorry, but I need a little time\nMarcel, could you possibly be a little nicer?\nThen I want to forgive you\n\nWhen it comes to love, it has to be\nWith a lot of feeling, or else I remain very, very cool\nMarcel, Marcel, this is going much too quickly for me\nOnly a gentleman haѕ a chаnce with me"
+    }
+  ],
+  "bpm": 136,
+  "tone": "F minor",
+  "artistPeople": [
+    "Heidi Rosemarie Brühl"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Willy Berking",
+  "lyricists": null,
+  "writers": [
+    "Charly Niessen"
+  ],
+  "broadcaster": "ARD",
+  "commentators": [
+    "Hanns Joachim Friedrichs"
+  ],
+  "jury": null,
+  "spokesperson": "Werner Veigel"
+}

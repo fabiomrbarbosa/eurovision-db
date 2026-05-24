@@ -1,0 +1,61 @@
+{
+  "id": 5,
+  "country": "FR",
+  "artist": "Mathé Altéry",
+  "song": "Le Temps perdu",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/x1e8gPquGVY",
+    "https://www.youtube-nocookie.com/embed/b50tomgljZM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Le Temps perdu",
+      "content": "Chante, carillon\nLe chant du temps perdu\nChante ta chanson à mon cœur éperdu\nMoi, je pleure celui que j'aime\n\nBerce dans le soir\nMon rêve et mes sanglots\nVerse en moi l'espoir de le revoir bientôt\nHâte-toi, car j'attends toujours\n\nVienne le temps du bonheur\nLe temps d'amour qui seul peut calmer mon cœur\n\nCoule le ruisseau\nVers la mer qui t'attend\nRoule dans tes eaux toute la vie du printemps\nMoi, toujours j'attends ton retour\n\nLes heures s'enfuient lentement dans la nuit\nChacune d'elles monotone sonne\nEt j'attends le jour, imaginant toujours\nQue tu me rendras ton amour un jour\n\nChante, carillon\nChante pour mon bonheur\nChante ta chanson, si légère à mon cœur\nChante aussi pour celui que j'aime\n\nBerce dans le soir\nNos étreintes d'amour\nVerse en moi l'espoir de le garder toujours\nChante, j'oublie le temps perdu\n\nSonne, mais sans te presser\nL'heure d'amour qui nous retient enlacés\n\nCoule le ruisseau\nVers la mer qui t'attend\nRoule dans tes eaux toute la vie du printemps\nMoi, toujours j'аttendѕ ton retour"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Lost time",
+      "content": "Sing, carillon\nThe song of lost time\nSing your song to my fiery heart\nI cry for the one I love\n\nLull in the evening\nMy dream and my sobs\nPour in me the hope to meet him soon\nHurry up, because I'm still waiting\n\nMay come the time of happiness\nThe time of love, which only can calm down my heart\n\nDivert the river\nInto the sea that is waiting for you\nCherish in these waters all life of springtime\nI will always wait for your return\n\nThe hours flee slowly in the night\nEvery hour rings monotonously\nAnd I'm waiting for the day, always imagining\nThat you will give back your love to me one day\n\nSing, carillon\nSing for my happiness\nSing your song, so softly to my heart\nAlso sing for the one I love\n\nLull in the evening\nOur love embraces\nPour in me the hope to keep him forever\nSing, I forget the lost time\n\nRing, but you don't have to hurry\nThe hour of love keeps us clasped\n\nDivert the river\nInto the sea that is waiting for you\nCherish in these waters all life of springtime\nI will alwayѕ wаit for your return"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Потерянное время",
+      "content": "Пой, колокольчик\nПесню о потерянном времени\nСпой свою песню моему смятенному сердцу\nЯ плачу о том, кого люблю\n\nУбаюкивает вечер\nМой сон и мои рыдания\nВложи в меня надежду на скорую встречу с ним\nПоторопись, ведь я все еще жду\n\nНаступит время счастья\nВремя любви, которая одна может успокоить мое сердце\n\nТечь ручьем\nК морю, которое ждет тебя\nВ твоих водах вся жизнь весны\nЯ все еще жду твоего возвращения\n\nЧасы медленно ускользают в ночь\nКаждый монотонный час отзвенел\nИ я жду дня, всегда представляя\nЧто однажды ты вернешь мне свою любовь\n\nПой, колокольчик\nПой для моего счастья\nПой свою песню, которая так легка для моего сердца\nСпой для того, кого я люблю\n\nУбаюкивает вечер\nНаши любовные объятия\nВложи в меня надежду сохранить его навсегда\nПой, я забываю о потерянном времени\n\nЗвони, но не спеши\nВ час любви, что нас связывает\n\nРучей течет\nК морю, которое ждет тебя\nВ твоих водах течет вся жизнь весны\nЯ всегда жду твоего возвращения"
+    }
+  ],
+  "bpm": 133,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Marie-Thérèse Renée Micheline Altare"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "André Lodge"
+  ],
+  "conductor": "Franck Pourcel",
+  "lyricists": [
+    "Rachel Thoreau"
+  ],
+  "writers": null,
+  "broadcaster": "RTF",
+  "commentators": [
+    "Michelle Rebel"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

@@ -1,0 +1,52 @@
+{
+  "id": 17,
+  "country": "FI",
+  "artist": "Viktor Klimenko",
+  "song": "Aurinko laskee länteen",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/7Z8-jvfY-8s",
+    "https://www.youtube-nocookie.com/embed/sbNCp8v0k_I"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Aurinko laskee länteen",
+      "content": "Aamulla aurinko nousi taivaani kirkasten\nPurppurapilvissä sousi täyttymys unelmien…\n\nNyt aurinko laskee länteen, saapunut ilta jo on\nAurinko laskee länteen, aurinko rakkaudeton\n\nUskonut illan en koskaan saapuvan äkkiä näin\nKunnes näin sinisen linnun lentävän etelää päin\n\nNäin sen ja ymmärsin sen: Poissa aika on rakkauden\nKun aurinko laskee länteen\n\nOnneni auringon luulin taivaalle seisahtuneen\nKunnes näin sammuvan välkkeen kuohussa tulisen veen\n\nNäin sen ja ymmärsin sen: Poissa aika on rakkauden\nKun aurinko laskee länteen\nKun aurinko lаѕkee länteen"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The sun sets in the west",
+      "content": "In the morning the sun rose, brightening up my sky\nThe fulfilment of dreams rowed in the purple clouds…\n\nNow the sun sets in the west, the evening has already arrived\nThe sun sets in the west, the loveless sun\n\nI never thought that the evening would arrive so soon\nUntil I saw a blue bird heading south\n\nI saw it and I understood it: The time of love is gone\nWhen the sun sets in the west\n\nI thought the sun of my happiness had halted in the sky\nUntil I saw a fading sparkle in the foam of fiery water\n\nI saw it аnd I understood it: The time of love is gone\nWhen the sun sets in the west\nWhen the sun sets in the weѕt"
+    }
+  ],
+  "bpm": 113,
+  "tone": "C minor",
+  "artistPeople": [
+    "Viktor Klimenko"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Toivo Kärki"
+  ],
+  "conductor": "George de Godzinsky",
+  "lyricists": [
+    "Reino Helismaa"
+  ],
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Aarno Walli"
+  ],
+  "jury": null,
+  "spokesperson": "Poppe Berg"
+}

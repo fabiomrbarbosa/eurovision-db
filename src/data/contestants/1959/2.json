@@ -1,0 +1,52 @@
+{
+  "id": 2,
+  "country": "FR",
+  "artist": "Jean Philippe",
+  "song": "Oui, oui, oui, oui",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/S9AwgxTre08",
+    "https://www.youtube-nocookie.com/embed/dYTZdieQNYI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Oui, oui, oui, oui",
+      "content": "Oui, oui, oui, oui, oui, oui, oui\nNous ferons le tour du monde\nAvec mon trois mâts joli\nOui, oui, oui, oui, oui, oui\n\nNous n'aurons plus pour amis\nQue la brise vagabonde\nEt le soleil de midi\nOui, oui, oui, oui, oui, oui\n\nVa, mon bateau, va\nDanse ton mât, claque ta voile\nVa, mon bateau, va\nPour elle et moi, vogue là-bas\n\nOui, oui, oui, oui, oui, oui, oui\nChoisis la plus belle escale\nEt je t'offre un paradis\nOui, oui, oui, oui, oui, oui\n\nVeux-tu le ciel de Capri\nOu les palais de Bengale\nOu le soleil d'Hawaii?\nOui, oui, oui, oui, oui, oui\n\nVa, mon bateau, va\nDanse ton mât, claque ta voile\nVa, mon bateau, va\nPour elle et moi, oui, mais voilà\n\nMon bateau est tout petit\nIl dort dans une bouteille\nEt moi, je rêve avec lui\nOui, oui, oui, oui, oui, oui\n\nQuand vient la nuit, nous partons\nDécouvrir mille merveilles\nDont je ne sais pas le nom\nNon, non, non, non, non, non\n\nVa, mon bateau, va\nDanse ton mât, berce mon rêve\nVa, mon bateau, va\nPour elle et moi, vogue là-bas\n\nUn jour mon trois mâts joli\nM'emportera loin d'ici\nDans un merveilleux pаyѕ\nOui, oui, oui, oui, oui, oui"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Yes, yes, yes, yes",
+      "content": "Yes, yes, yes, yes, yes, yes, yes\nWe'll go round the world\nWith my pretty threemaster\nYes, yes, yes, yes, yes, yes\n\nWe will only have as friends\nThe wandering breeze\nAnd the midday sun\nYes, yes, yes, yes, yes, yes\n\nGo, my ship, go\nLet your mast dance, let your sail flap\nGo, my ship, go\nFor her and me, drift over there\n\nYes, yes, yes, yes, yes, yes\nChoose the most beautiful port of call\nAnd I offer you a paradise\nYes, yes, yes, yes, yes, yes\n\nDo you want the sky of Capri\nOr the palaces of Bengal\nOr the sun of Hawaii?\nYes, yes, yes, yes, yes, yes\n\nGo, my ship, go\nLet your mast dance, let your sail flap\nGo, my ship, go\nFor her and me, yes, but look at that\n\nMy ship is very small\nIt sleeps in a bottle\nAnd I dream as well\nYes, yes, yes, yes, yes, yes\n\nWhen the night comes, we leave\nTo discover thousand wonders\nOf which I don't know the name\nNo, no, no, no, no, no\n\nGo, my ship, go\nLet your mast dance, let your sail flap\nGo, my ship, go\nFor her and me, drift over there\n\nSomeday my pretty threemaster\nWill take me far from here\nIn a wonderful lаnd\nYes, yes, yes, yes, yes, yeѕ"
+    }
+  ],
+  "bpm": 120,
+  "tone": "A major",
+  "artistPeople": [
+    "Jean Philippe"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Hubert Giraud"
+  ],
+  "conductor": "Franck Pourcel",
+  "lyricists": [
+    "Pierre Cour"
+  ],
+  "writers": null,
+  "broadcaster": "RTF",
+  "commentators": [
+    "Claude Darget"
+  ],
+  "jury": null,
+  "spokesperson": "Marianne Lecène"
+}

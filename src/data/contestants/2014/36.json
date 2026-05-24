@@ -1,0 +1,65 @@
+{
+  "id": 36,
+  "country": "MD",
+  "artist": "Cristina Scarlat",
+  "song": "Wild Soul",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/l9ZfGttI4P0",
+    "https://www.youtube-nocookie.com/embed/z_E12QokqAs",
+    "https://www.youtube-nocookie.com/embed/rW04AWysDSI",
+    "https://www.youtube-nocookie.com/embed/yRIiuVp6YO4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Wild Soul",
+      "content": "What am I?\nAm I human?\nWhat am I?\nAn emotion?\nTime and space can lie to us while we sleep\n\nLovers cry, parents tremble\nWhile you and I show our devils\nThe world can play a joke on each of us anytime\n\nMercy\nI have no feelings of mercy\nDestiny left me so empty\nEmpty in my heart and my spirit\nMy patience\nFighting with our indifference\nFighting to win over everything that we are and can be\n\nSelfishness\nTakes the trophies\nHonesty\nWins the glories\nAll the masks we have are meant to make us free\n\nWounded pride kills our feeling\nWhile you and I need the dreaming\nThe world can throw a dice for each of us anytime\n\nWild soul\nIs rushing through my body\nAnd my\nWild soul\nIs meant to keep me trying\n\nMercy\nI have no feelings of mercy\nDestiny left me so empty\nEmpty in my heart and my ѕpirit\nMy patience\nFighting with our indifference\nFighting to win over everything that we are and cаn be"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Espíritu salvaje",
+      "content": "¿Qué soy yo?\n¿Soy humana?\n¿Qué soy yo?\n¿Una emoción?\nEl tiempo y el espacio nos pueden mentir mientras dormimos\n\nLos amantes lloran, los padres tiemblan\nMientras tú y yo mostramos nuestros demonios\nEl mundo nos puede jugar una mala pasada en cualquier momento\n\nPiedad\nNo tengo sentimientos de piedad\nEl destino me dejó muy vacía\nVacía de corazón y de espíritu\nMi paciencia\nLuchando contra nuestra indiferencia\nLuchando para apoderarse de todo lo que somos y podemos ser\n\nEl egoísmo\nSe lleva los trofeos\nLa honestidad\nSe gana la gloria\nTodas las máscaras que llevamos nos deberían liberar\n\nEl orgullo herido mata nuestros sentimientos\nMientras tú y yo necesitamos soñar\nEl mundo puede arrojar los dados por cada uno de nosotros en cualquier momento\n\nUn espíritu salvaje\nRecorre todo mi cuerpo\nY mi\nEspíritu salvaje\nDeberá hacer que siga intentándolo\n\nPiedad\nNo tengo sentimientos de piedad\nEl destino me dejó muy vacía\nVacía de corazón y de espíritu\nMi paciencia\nLuchando contra nuestra indiferencia\nLuchando para apoderаrse de todo lo que somos y podemos ѕer"
+    }
+  ],
+  "bpm": 140,
+  "tone": "D minor",
+  "artistPeople": [
+    "Cristina Scarlat"
+  ],
+  "backings": null,
+  "dancers": [
+    "Dragos Hioara",
+    "Eugen Simac",
+    "Lilian Caraus",
+    "Vadim Bianchin"
+  ],
+  "stageDirector": null,
+  "composers": [
+    "Ivan Aculov"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Lidia Scarlat"
+  ],
+  "writers": null,
+  "broadcaster": "TRM",
+  "commentators": [
+    "Daniela Babici"
+  ],
+  "jury": [
+    "Anatol Chiriac",
+    "Andrei Tostogan",
+    "Iurie Badicu",
+    "Nelly Ciobanu",
+    "Tatiana Postolachi"
+  ],
+  "spokesperson": "Olivia Furtună"
+}

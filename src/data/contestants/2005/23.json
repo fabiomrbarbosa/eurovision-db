@@ -1,0 +1,46 @@
+{
+  "id": 23,
+  "country": "DE",
+  "artist": "Gracia",
+  "song": "Run & Hide",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/etWtZYu2tLQ",
+    "https://www.youtube-nocookie.com/embed/VWYhynmbHCY",
+    "https://www.youtube-nocookie.com/embed/Fg0jpj_X_qM",
+    "https://www.youtube-nocookie.com/embed/hXon1G5_roc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Run & hide",
+      "content": "You'd better run and hide\n\nTwenty five dollars wasted on you\nGot you out of trouble, but you'll soon\nCome by\nFor another try\n\nYou're a friend of mine and I know\nOnly crooked places you can go\nYour eyes\nConveyed too many lies\n\nYou'd better run and hide\nToo many girls have cried\nOh no, no, no, why\nDo I feel sorry?\n\nYou'd better run and hide\nToo many dreams have died\nOh no, no, no, why\nDo I still worry?\n\nYou'd better run and\nYou'd better run and hide\n\nTwenty five reasons to leave you\nBut I'm still feeling kinda blue\nInside\nWatching our worlds collide\n\nBaby, gotta see you as you are\nWipe the rest of yearning out of my heart\nAnd try\nTo say that last goodbye\nYeah, yeah, yeah…\n\nYou'd better run and hide\nToo many girls have cried\nOh no, no, no, why\nDo I feel sorry?\n\nYou'd better run and hide\nToo many dreams have died\nOh no, no, no, why\nDo I still worry?\nYeah, yeah…\nNo, no, no, no\nI ѕtill worry\n\nYou'd better run and hide\nHide\nYou'd better run and hide\nYou'd better run аnd hide"
+    }
+  ],
+  "bpm": 156,
+  "tone": "A major",
+  "artistPeople": [
+    "Gracia Arabella Baur"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "David Brandes",
+    "Jane Tempest"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "John O'Flynn"
+  ],
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Peter Urban"
+  ],
+  "jury": null,
+  "spokesperson": "Thomas Hermanns"
+}

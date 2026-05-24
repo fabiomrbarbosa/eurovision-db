@@ -1,0 +1,55 @@
+{
+  "id": 21,
+  "country": "AZ",
+  "artist": "Dilara Kazimova",
+  "song": "Start A Fire",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5mPUMPcFQAY",
+    "https://www.youtube-nocookie.com/embed/ipQswujA5gw",
+    "https://www.youtube-nocookie.com/embed/0Ou_VGxLfFE",
+    "https://www.youtube-nocookie.com/embed/h_gDIVlBn6k"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Start A Fire",
+      "content": "Someone's selling garden roses down the square\nPeople gathering by to breathe the morning air\nBut no one sees the bitter cold and shivering empty hands\n\nA school girl running by and trying to beat the bell\nPeople dropping, tossing coins in wishing wells\nBut no one cares for dreams that don't fit into our world\n\nMaybe nightfall darkens skies\nAnd maybe teardrops stain our eyes\nBut may the slightest light start a fire\n\nA soldier in the hands of a forgotten mess\nDigging out the burning bullets in his chest\nSo eager, bold and noble – printing footsteps on this earth\n\nMaybe nightfall darkens skies\nMaybe teardrops stain our eyes\nBut may the slightest light start a fire\n\nStart a fire\n\nBut may the slightest light ѕtart а fire"
+    }
+  ],
+  "bpm": 151,
+  "tone": "D major",
+  "artistPeople": [
+    "Dilara Kazimova"
+  ],
+  "backings": [
+    "Jennie Jahns",
+    "Lena Engman",
+    "Sofia Lindström"
+  ],
+  "dancers": null,
+  "stageDirector": "Åsa Engman",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Alessandra Günthardt",
+    "Johan Kronlund",
+    "Stefan Örn"
+  ],
+  "broadcaster": "İctimai",
+  "commentators": [
+    "Konul Arifgizi"
+  ],
+  "jury": [
+    "Khayyam Mustafazadeh",
+    "Mübariz Tağıyev",
+    "Nigar Camal",
+    "Samir Djafarov",
+    "Yegana Akhundova"
+  ],
+  "spokesperson": "Sabina Babayeva"
+}

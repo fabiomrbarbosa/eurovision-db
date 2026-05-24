@@ -1,0 +1,55 @@
+{
+  "id": 8,
+  "country": "IT",
+  "artist": "Renato Rascel",
+  "song": "Romantica",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/JfeQAUOktng",
+    "https://www.youtube-nocookie.com/embed/d4mShBIdlcw",
+    "https://www.youtube-nocookie.com/embed/u7jnpC1l0TQ",
+    "https://www.youtube-nocookie.com/embed/0HzO9esXzD0",
+    "https://www.youtube-nocookie.com/embed/N3OEPnOsjNo"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Romantica",
+      "content": "Tu sei romantica, tu sei romantica\nAmarti è un po' rivivere\n\nTu sei romantica, amarti è un po' rivivere\nNella semplicità, nell'irrealtà di un'altra età\nTu sei romantica, amica delle nuvole\nChe cercano lassù un po' di sol come fai tu\n\nTu sei la musica che ispira l'anima\nSei tu il mio angolo di paradiso, quaggiù\n\nEd io che accanto a te, son ritornato a vivere\nA te racconterò, affiderò i sogni miei\nPerché romantica tu sei\n\n(Tu sei romantica, amarti è un po' rivivere)\n(Nella semplicità, nell'irrealtà di un altra età)\nTu sei la musica che ispira l'anima\nSei tu il mio angolo di paradiso, quaggiù\n\nEd io che accanto a te son ritornato a vivere\nA te racconterò, affiderò i sogni miei\nPerché romantica... perché romantica\nPerché romantica tu sei\n\n(Tu ѕei romanticа)"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Romantic",
+      "content": "You're romantic, you're romantic\nLoving you is a little bit reviving\n\nYou're romantic, loving you is a little bit reviving\nIn the simplicity, in the fantasy of another age\nYou're romantic, a friend of the clouds\nWhich are searching for a little bit of sun above, as you do\n\nYou're the music that inspires the soul\nYou're my corner of paradise, down here\n\nAnd I, next to you, have come back to live\nI'll tell and confide my dreams to you\nBecause you're romantic\n\n(You're romantic, loving you is a little bit reviving)\n(In the simplicity, in the fantasy of another age)\nYou're the music that inspires the soul\nYou're my corner of paradise, down here\n\nAnd I, next to you, have come back to live\nI'll tell and confide my dreams to you\nBecause romantic... because romantic\nBecauѕe you're romantic\n\n(You're romаntic)"
+    }
+  ],
+  "bpm": 148,
+  "tone": "F minor",
+  "artistPeople": [
+    "Renato Ranucci"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Dino Verde"
+  ],
+  "conductor": "Cinico Angelini",
+  "lyricists": [
+    "Renato Rascel"
+  ],
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Giorgio Porro"
+  ],
+  "jury": null,
+  "spokesperson": "Enzo Tortora"
+}

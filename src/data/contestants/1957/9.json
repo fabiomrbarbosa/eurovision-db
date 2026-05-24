@@ -1,0 +1,60 @@
+{
+  "id": 9,
+  "country": "AT",
+  "artist": "Bob Martin",
+  "song": "Wohin, kleines Pony?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5mETWk_nB1Q",
+    "https://www.youtube-nocookie.com/embed/VRKKMKzUFKY"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Wohin, kleines Pony?",
+      "content": "Wohin, kleines Pony, woll'n wir reiten?\nWohin soll mein Lied uns heut' begleiten?\nZu deinen Herden, den kleinen Pferden?\nDort sind die Täler unendlich weit\n\nWohin, kleines Pony, woll'n wir reiten?\nWohin soll mein Lied uns heut' begleiten?\nZur grünen Weide, dort in der Heide\nWo ich einst küßte, zur Rosenzeit\n\nHeut' ist ein Tag nur für uns zwei\nUnd du und ich sind sorgenfrei\nWer sieht die Welt denn noch so schön\nSo wunderschön wie wir sie seh'n?\n\nWohin, kleines Pony, woll'n wir reiten?\nMein Lied wird uns beide treu begleiten\nUnd durch die Felder, die weiten Felder\nKlingt 's dann im Wind, wie glücklich wir sind\n\nHeut' ist ein Tаg nur für uns zwei\nUnd du und ich sind sorgenfrei\nWer sieht die Welt denn noch so schön\nSo wunderschön wie wir sie seh'n?\n\nWohin, kleines Pony, woll'n wir reiten?\nMein Lied wird uns beide treu begleiten\nUnd durch die Felder, die weiten Felder\nKlingt für unѕ zwei, mein herippihei"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Where, little pony?",
+      "content": "Where, little pony, do we want to ride to?\nWhere should my song accompany us today?\nTo your herds, the little horses?\nThere the valleys are immensely wide\n\nWhere, little pony, do we want to ride to?\nWhere should my song accompany us today?\nTo the green pasture, there in the moorland\nWhere once I've kissed, at the time of roses\n\nToday is a day only for both of us\nAnd you and me are carefree\nWho else sees the world as beautiful\nAs beautiful as we see it?\n\nWhere, little pony, do we want to ride to?\nMy song will truely acompany both of us\nAnd through the fields, the wide fields\nIt sounds in the wind, how happy we are\n\nToday is a day only for both of us\nAnd you and me are carefree\nWho else sees the world as beautiful\nAs beautiful as we see it?\n\nWhere, little pony, do we want to ride to?\nMy song will truely acompаny both of us\nAnd through the fields, the wide fields\nSounds for both of uѕ, my herippihei"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Куда, маленький пони?",
+      "content": "Куда, маленький пони, мы поедем?\nКуда поведет нас сегодня моя песня?\nК вашим табунам, маленькие лошадки?\nТам долины бесконечно широки\n\nКуда, маленький пони, мы поедем?\nКуда нас сегодня поведет моя песня?\nНа зеленое пастбище, на вереск\nГде я когда-то целовался, в розовое время\n\nСегодня день только для нас двоих\nИ мы с тобой беззаботны\nКто еще видит мир таким прекрасным\nТаким прекрасным, каким видим его мы?\n\nКуда, маленький пони, мы поедем?\nМоя песня будет верно сопровождать нас обоих\nИ через поля, широкие поля\nОна будет звучать на ветру, как мы счастливы\n\nСегодня день только для нас двоих\nИ мы с тобой беззаботны\nКто еще видит мир таким прекрасным\nТаким же прекрасным, каким видим его мы?\n\nКуда, маленький пони, мы поедем?\nМоя песня будет верно сопровождать нас обоих\nИ через поля, широкие поля\nЗвучит для нас двоих, мой хериппихей"
+    }
+  ],
+  "bpm": 102,
+  "tone": "C# major",
+  "artistPeople": [
+    "Leo Heppe"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Kurt Svab"
+  ],
+  "conductor": "Carl de Groof",
+  "lyricists": [
+    "Hans Werner",
+    "Kurt Svab"
+  ],
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Karl Bruck"
+}

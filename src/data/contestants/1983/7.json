@@ -1,0 +1,55 @@
+{
+  "id": 7,
+  "country": "FR",
+  "artist": "Guy Bonnet",
+  "song": "Vivre",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/svAP-uh2eY4",
+    "https://www.youtube-nocookie.com/embed/gS8Os4o6wyw",
+    "https://www.youtube-nocookie.com/embed/viG_8uadvUw",
+    "https://www.youtube-nocookie.com/embed/Tnck5YOFy1w",
+    "https://www.youtube-nocookie.com/embed/sc-9i8_Pyig"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Vivre",
+      "content": "Vivre, vivre encore un jour, vivre encore un amour\nVivre encore un réveil, ivre, gorgé de soleil\nAime, aime comme un fou, aime, aime à genoux\nOui, même si tu dois souffrir, aime, même s'il faut partir\n\nIls se sont dit adieu, peut-être à jamais\nMais au fond de leurs yeux, oh, comme ils s'aimaient\nEt la ronde des jours va les emporter\nVers un autre toujours, vers l'éternité\nLoin, loin, si loin, comme une étoile, un point\n\nVivre, vivre encore un jour, vivre encore un amour\nVivre encore un réveil, ivre, gorgé de soleil\nAime, aime comme un fou, aime, aime à genoux\nOui, même si tu dois souffrir, aime, même s'il faut partir\n\nQu'importent les saisons, qu'importe le temps?\nPar delà l'horizon, rien n'est important\nIls traversent la nuit au fond de leurs yeux\nUne flamme qui luit, l'amour en adieux\nLoin, loin, si loin, comme une étoile, un point\n\nAux premières lueurs, ils l'ont embarqué\nLes fusils des tueurs vont bientôt claquer\nTu dois enfin mourir, disent-ils, que veux-tu?\nIl s'est mis à sourire, il a répondu\nLoin, loin, si loin, comme une étoile, un point\n\nVivre, vivre encore un jour\nVivre encore un аmour\nVivre (encore un réveil)\nOh, vivre (gorgé de ѕoleil)\nVivre, vivre"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Living",
+      "content": "Living, living a day again, living a love again\nLiving an awakening again, drunk, filled with sun\nLove, love like a fool, love, love on your knees\nYes, even if you have to suffer, love, even if you have to leave\n\nThey said goodbye to each other, maybe till never\nBut deep in their eyes, oh, how much they loved each other\nAnd the dance of the days will take them away\nTo another forever, to eternity\nFar, far, so far away, like a star, a dot\n\nLiving, living a day again, living a love again\nLiving an awakening again, drunk, filled with the sun\nLove, love like a fool, love, love on your knees\nYes, even if you have to suffer, love, even if you have to leave\n\nWhat do the seasons matter, what does the weather matter?\nBeyond the horizon, nothing is important\nThey pass through the night deep in their eyes\nA shimmering flame, love as farewells\nFar, far, so far away, like a star, a dot\n\nAt sunrise, they took it away\nThe guns of the killers will soon ring\nYou've got to die in the end, they say, what do you want?\nThen he started to smile, he answered\nFar, far, so far away, like a star, a dot\n\nLiving, living a day again\nLiving a love again\nLiving (an awakening agаin)\nOh, living (filled with the ѕun)\nLiving, living"
+    }
+  ],
+  "bpm": 128,
+  "tone": "D minor",
+  "artistPeople": [
+    "Guy Bonnet"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Guy Bonnet"
+  ],
+  "conductor": "François Rauber",
+  "lyricists": [
+    "Fulbert Cant"
+  ],
+  "writers": null,
+  "broadcaster": "A2F",
+  "commentators": [
+    "Léon Zitrone"
+  ],
+  "jury": null,
+  "spokesperson": "Geneviève Moll"
+}

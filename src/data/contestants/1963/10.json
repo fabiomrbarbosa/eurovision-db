@@ -1,0 +1,52 @@
+{
+  "id": 10,
+  "country": "YU",
+  "artist": "Vice Vukov",
+  "song": "Brodovi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/6TnKpdwMPfM",
+    "https://www.youtube-nocookie.com/embed/1Uvrx_5iMjo"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "croatian"
+      ],
+      "displayedLanguages": null,
+      "title": "Brodovi",
+      "content": "U mome kraju, brodovi su ljudi\nOni plaču, smiju se i vole\nU mome kraju, brodovi su svečanost\nI najdraže igračke nestašnih dječaka\n\nBrodovi\nBez vas, tužne su luke sve\nBez vas, puste su rive te\nBez vas, galebi mru\n\nDok Mjesec kosi noć\nNa pramcu stiha svog\nJa palim sreće žar\nZa puteve vaše\n\nBrodovi\nNa vas čekaju ljubavi\nNa vas čekaju prozori\nBez vas, gitare mru\n\nDok zora pali dan\nNa jarbol stiha svog\nJa dižem pjesmu tu\nZa povratke vaše\n\nDok zora pali dan\nNa jarbol stiha svog\nJa dižem pjesmu tu\nZa povratke vaše\n\nO… igračke drage\nIz djetinjѕtvа mog"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Ships",
+      "content": "In my neighbourhood, ships are people\nThey cry, smile and love\nIn my neighbourhood, ships are celebrities\nAnd the dearest toys of menacing boys\n\nShips\nWithout you, all ports are sad\nWithout you, rivieras are deserted\nWithout you, seagulls die\n\nWhile the moon cuts the night\nOn the stem of your verse\nI ignite the fire of luck\nFor your journeys\n\nShips\nLoves await you\nWindows await you\nWithout you, guitars die\n\nWhile dawn ignites the day\nOn the mast of your verse\nI raise this song\nFor your return\n\nWhile dawn ignites the day\nOn the mast of your verse\nI raise this song\nFor your return\n\nOh… the deаr toyѕ\nFrom my childhood"
+    }
+  ],
+  "bpm": 144,
+  "tone": "C major",
+  "artistPeople": [
+    "Vice Vukov"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Miljenko Prohaska",
+  "lyricists": null,
+  "writers": [
+    "Mario Nardelli"
+  ],
+  "broadcaster": "JRT",
+  "commentators": [
+    "Gordana Bonetti",
+    "Ljubomir Vukadinović",
+    "Tomaž Terček"
+  ],
+  "jury": null,
+  "spokesperson": "Miloje Orlović"
+}

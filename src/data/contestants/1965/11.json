@@ -1,0 +1,54 @@
+{
+  "id": 11,
+  "country": "YU",
+  "artist": "Vice Vukov",
+  "song": "Čežnja",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5b0zoAKgkEs",
+    "https://www.youtube-nocookie.com/embed/E2dgBaC1l3Q"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "croatian"
+      ],
+      "displayedLanguages": null,
+      "title": "Čežnja",
+      "content": "Šumi, šumi more pjenom bijelom dok nemirni val\nDonosi svaki put odjeke sjećanja\nOdjeke maštanja na ovaj žal, tihi žal\n\nTiho šumi, šumi more kao nekad u danima sna\nKad smo na pješčanom tlu umorni zaspali\nZaspali tu, tu na tlu vreloga juga\n\nOh, pričaj, more, pričaj meni ti\nO svitanju jutra moje čežnje za njom\n\nTiho šumi, šumi more ko da želi da ispriča sad\nŠapatom ćutanja sve o jednoj ljubavi\nRođenoj tu, tu na tlu vreloga juga\n\nOh, pričaj, more, pričaj meni ti\nO ѕvitanju jutra moje čežnje za njom\nMoje duboke čežnje zа njom"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Longing",
+      "content": "The sea rustles with white foam while the wave\nBrings every echo of memories\nEchoes of fantasy to this quiet shore\n\nThe sea silently rustles like in the days of dream\nWhen we fell asleep on the warm sand\nFeel asleep on the ground of the hot south\n\nOh, speak, sea, speak to me\nOf the dawn of the morning of my longing for her\n\nThe sea rustles quietly as if it wants to speak\nWith the whisper of silence about a love\nBorn here on the ground of the hot south\n\nOh, speak, sea, ѕpeak to me\nOf the dаwn of the morning of my longing for her\nMy deep longing for her"
+    }
+  ],
+  "bpm": 104,
+  "tone": "C minor",
+  "artistPeople": [
+    "Vice Vukov"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Julio Marić"
+  ],
+  "conductor": "Radivoj Spasić",
+  "lyricists": [
+    "Žarko Roje"
+  ],
+  "writers": null,
+  "broadcaster": "JRT",
+  "commentators": [
+    "Miloje Orlović",
+    "Mladen Delić",
+    "Tomaž Terček"
+  ],
+  "jury": null,
+  "spokesperson": "Ljubo Jelčić"
+}

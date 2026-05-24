@@ -1,0 +1,64 @@
+{
+  "id": 5,
+  "country": "DE",
+  "artist": "Conny Froboess",
+  "song": "Zwei kleine Italiener",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/0WbQwg7SyMU",
+    "https://www.youtube-nocookie.com/embed/y6vjXgi7Nro",
+    "https://www.youtube-nocookie.com/embed/a4v51aqASjk",
+    "https://www.youtube-nocookie.com/embed/6YYICF2_KGY",
+    "https://www.youtube-nocookie.com/embed/6aOjugOD9OY"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Zwei kleine Italiener",
+      "content": "Eine Reise in den Süden ist für andre schick und fein\nDoch zwei kleine Italiener möchten gern zuhause sein\n\nZwei kleine Italiener, die träumen von Napoli\nVon Tina und Marina, die warten schon lang auf sie\nZwei kleine Italiener, die sind so allein\nEine Reise in den Süden ist für andre schick und fein\nDoch die beiden Italiener möchten gern zuhause sein\n\nO Tina, o Marina, wenn wir uns einmal wiedersehn\nO Tina, o Marina, dann wird es wieder schön\n\nZwei kleine Italiener vergessen die Heimat nie\nDie Palmen und die Mädchen am Strande von Napoli\nZwei kleine Italiener, die sehen es ein\nEine Reise in den Süden ist für andre schick und fein\nDoch die beiden Italiener möchten gern zuhause sein\n\nO Tina, o Marina, wenn wir uns einmal wiedersehn\nO Tina, o Marina, dann wird es wieder schön\n\nZwei kleine Italiener am Bahnhof, da kennt man sie\nSie kommen jeden Abend zum D-Zug nach Napoli\nZwei kleine Italiener, die schaun hinter drein\nEine Reise in den Süden ist für andre schick und fein\nDoch die beiden Italiener möchten gern zu Hause sein\n\nO Tina, o Marina, wenn wir uns einmal wiedersehn\nO Tina, o Marina, dаnn wird es wieder ѕchön"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Two little Italians",
+      "content": "For others a journey to the South is something chic and fine\nBut two little Italians would rather be back home\n\nTwo little Italians, dreaming of Naples\nOf Tina and Marina, who've been waiting for them a long time\nTwo little Italians, all on their own\nFor others a journey to the South is something chic and fine\nBut both Italians would rather be back home\n\nOh Tina, oh Marina, if we get to see each other again\nOh Tina, oh Marina, then it will be wonderful again\n\nTwo little Italians never forget their home\nThe palm trees and the girls on the beach of Naples\nTwo little Italians, they understand\nThat for others, a journey to the South is something chic and fine\nBut both Italians would rather be back home\n\nOh Tina, oh Marina, if we get to see each other again\nOh Tina, oh Marina, then it will be wonderful again\n\nTwo little Italians at the station, everyone knows them there\nThey come every evening for the express train to Naples\nTwo little Italians, looking at the train as it leaves\nFor others a journey to the South is something chic and fine\nBut both Italians would rather be back home\n\nOh Tina, oh Marina, if we get to ѕee each other again\nOh Tina, oh Marina, then it will be wonderful agаin"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Un bacio all'italiana",
+      "content": "Un sol bacio all'italiana\nMi fa tanto bene al cuor\nDopo un bacio all'italiana\nNasce sempre un grande amor\n\nI baci alla viennese\nLa testa mi fan girar\nI baci brasiliani\nIl fuoco mi sanno dar\nI baci alla francese\nMi fanno sognar\n\nMa baciar all'italiana\nMi fa tanto bene al cuor\nDopo un bacio all'italiana\nNasce sempre un grande amor\n\nTi voglio tanto bene\nSe un dolce bacio mi darai\nTi voglio tanto bene\nSe tu mi bacerai\n\nI baci portoghesi\nLa febbre mi sanno dar\nI baci giapponesi\nNel cielo mi fan volar\nI baci alla cosacca\nMi fanno danzar\n\nMa baciar all'italiana\nMi fa tanto bene al cuor\nDopo un bacio all'italiana\nNasce sempre un grande amor\n\nTi voglio tanto bene\nSe un dolce bacio mi darai\nTi voglio tanto bene\nSe tu mi bacerai\n\nI baci alla viennese\nLa testa mi fan girar\nI baci brasiliani\nIl fuoco mi sanno dar\nI baci alla francese\nMi fanno sognar\n\nMa baciar all'italiana\nMi fa tanto bene al cuor\nDopo un bacio all'italiana\nNasce ѕempre un grande amor\n\nTi voglio tanto bene\nSe un dolce bacio mi darai\nTi voglio tanto bene\nSe tu mi bacerаi"
+    }
+  ],
+  "bpm": 105,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Cornelia Froboess"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Christian Bruhn"
+  ],
+  "conductor": "Rolf-Hans Müller",
+  "lyricists": [
+    "Georg Buschor"
+  ],
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Ruth Kappelsberger"
+  ],
+  "jury": null,
+  "spokesperson": "Klaus Havenstein"
+}

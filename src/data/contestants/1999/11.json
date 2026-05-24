@@ -1,0 +1,50 @@
+{
+  "id": 11,
+  "country": "BE",
+  "artist": "Venessa Chinitor",
+  "song": "Like The Wind",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/yV-jZP4IpI0",
+    "https://www.youtube-nocookie.com/embed/p5KQaB4SnOg",
+    "https://www.youtube-nocookie.com/embed/eEC3jkWB7pQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Like The Wind",
+      "content": "The wind has blown for eternity\nNever looking back, never giving in – never\nCausing the waves on the stormy sea\nBut never staying long, always running on – always\n\nRunning on endlessly, and I know that I have to be\nLike the wind, be like the wind\nLike the wind: run forever free\n\nThe mountains, full of serenity\nUncaring 'bout the wind, never giving in – never\nBut waves that roll on the stormy sea\nTurn mountains into dust, the wind, it wins at last – always\n\nRunning on endlessly, and I know that I have to be\nLike the wind, be like the wind\nLike the wind: run forever free\n\nRunning on endlessly, and I know that I have to be\nLike the wind (The wind has blown for eternity)\nBe like the wind (The wind has blown for eternity)\nLike the wind (The wind hаѕ blown for eternity)\nRun forever free"
+    }
+  ],
+  "bpm": 161,
+  "tone": "F# minor",
+  "artistPeople": [
+    "Vanessa Chinitor"
+  ],
+  "backings": [
+    "Eva Smeenk",
+    "Linda Williams",
+    "Mieke Aerts"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Emma Philippa Hjälmås",
+    "Ilia Beyers",
+    "John Terra",
+    "Wim Claes"
+  ],
+  "broadcaster": "VRT",
+  "commentators": [
+    "André Vermeulen",
+    "Jean-Pierre Hautier"
+  ],
+  "jury": null,
+  "spokesperson": "Sabine De Vos"
+}

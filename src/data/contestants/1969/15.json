@@ -1,0 +1,54 @@
+{
+  "id": 15,
+  "country": "NO",
+  "artist": "Kirsti Sparboe",
+  "song": "Oj, oj, oj, så glad jeg skal bli",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/82uR5MLX5YY",
+    "https://www.youtube-nocookie.com/embed/6iX-2p10_Fw",
+    "https://www.youtube-nocookie.com/embed/t_6yrVgjffk",
+    "https://www.youtube-nocookie.com/embed/0Hg1ung6NWI",
+    "https://www.youtube-nocookie.com/embed/gh6KYF26cZc",
+    "https://www.youtube-nocookie.com/embed/acrATJ5R_d0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "norwegian"
+      ],
+      "displayedLanguages": null,
+      "title": "Oj, oj, oj, så glad jeg skal bli",
+      "content": "Oj, oj, oj, så glad jeg skal bli\nNår ikke lenger han har noen på si'\nOj, oj, oj, da skal det bli fest\nOg jeg skal være den eneste gjest\n\nOj, oj, oj, så glad jeg skal bli\nNår jeg kan slippe konkurrentene fri\nOj, oj, oj, alene med deg\nJa, det et toppen av livet for meg\n\nJeg har verdens kjekkeste kar, den saken er klar\nMen han har for stor appetitt på mini-invitt\nHan flyr etter Eva, Lise og Anne\nOg boltrer seg vilt som fisken i vannet\n\nMen hver gang han legger på svøm\nSå har jeg en inderlig drøm:\n\nOj, oj, oj, så glad jeg skal bli\nNår ikke lenger han har noen på si'\nOj, oj, oj, da skal det bli fest\nOg jeg skal være den eneste gjest\n\nOj, oj, oj, så glad jeg skal bli\nNår jeg kan ѕlippe konkurrentene fri\nOj, oj, oj, alene med deg\nJa, det et toppen av livet for meg\n\nLalalala lalalala… lalala lalalala lalalala…\nLalalala lalalala… lalala lalala lalala…\nLalala lalala… lalala lalalalа…\n\nOj, oj, oj, oj…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Wow, wow, wow, how happy I'll be",
+      "content": "Wow, wow, wow, how happy I'll be\nWhen he no longer has someone on the side\nWow, wow, wow, then I'll have a party\nAnd I will be the only guest\n\nWow, wow, wow, how happy I'll be\nWhen I can set all the competition free\nWow, wow, wow, alone with you\nYes, that's top of the world for me\n\nI've got the world's most handsome guy, that's for sure\nBut he has too much of an appetite for miniskirt-invites\nHe runs after Eva, Lise and Anne\nFrolicking like a fish in the sea\n\nBut every time he sets sails\nI dream with all my heart:\n\nWow, wow, wow, how happy I'll be\nWhen he no longer has someone on the side\nWow, wow, wow, then I'll have a party\nAnd I will be the only guest\n\nWow, wow, wow, how happy I'll be\nWhen I can set all the competition free\nWow, wow, wow, alone with you\nYes, that'ѕ top of the world for me\n\nLalalala lalalala… lalala lalalala lalalala…\nLalalala lalalala… lalala lalala lalala…\nLalala lalala… lalala lalalalа…\n\nWow, wow, wow, wow"
+    }
+  ],
+  "bpm": 126,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Kirsti Sparboe"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Øivind Bergh",
+  "lyricists": null,
+  "writers": [
+    "Arne Bendiksen"
+  ],
+  "broadcaster": "NRK",
+  "commentators": [
+    "Sverre Christophersen"
+  ],
+  "jury": null,
+  "spokesperson": "Janka Polanyi"
+}

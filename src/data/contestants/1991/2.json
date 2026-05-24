@@ -1,0 +1,68 @@
+{
+  "id": 2,
+  "country": "IL",
+  "artist": "Duo Datz",
+  "song": "Kan",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Xz8TY1GlPVE",
+    "https://www.youtube-nocookie.com/embed/VFgenoymBV8",
+    "https://www.youtube-nocookie.com/embed/DyV2MKwFLh4",
+    "https://www.youtube-nocookie.com/embed/wgJbvmy8smk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": [
+        "ivrit"
+      ],
+      "title": "Kan",
+      "content": "Kan beiti, po ani noladeti\nBamishor asher al sfat hayam\nKan hachaverim itam gadalti\nVe'en li shum makom acher ba'olam\nEn li shum makom acher ba'olam\n\nKan beiti, po ani sichakti\nBashfela asher al gav hahar\nKan min habe'er shatiti maim\nVeshatalti deshe bamidbar\nVeshatalti deshe bamidbar\n\nKan noladeti, kan noldu li yeladai\nKan baniti et beiti bishtei yadai\nKan gam ata iti vechan kol elef yedidai\nVe'achrei shanim alpaim, sof lindudai\n\nKan et kol shirai ani niganti\nVehalachti bemasa leili\nKan bine'urai ani heganti\nAl chelkat ha'Elohim sheli\nAl chelkat ha'Elohim sheli\n\nKan noladeti, kan noldu li yeladai\nKan baniti et beiti bishtei yadai\nKan gam ata iti vechan kol elef yedidai\nVe'achrei shanim alpaim, sof lindudai\n\nKan\nKan et shulchani ani arachti\nPat shel lechem, perach ra'anan\nDelet lashchenim ani patachti\nUmi sheba, nomar lo \"Ahalan\"\n(\"Ahalan\")\nUmi sheba, nomar lo \"Ahalan\"\n\nKan noladeti, kan noldu li yeladai\nKan baniti et beiti bishtei yadai\nKan gam ata iti vechan kol elef yedidai\nVe'achrei shanim alpaim, sof lindudai\n\nKan gam ata iti vechan kol elef yedidai\nVe'achrei shanim alpaim\nAchrei shanim alpaim\n\nKan noladeti, kan noldu li yeladai\nKan baniti et beiti bishtei yadai\nKan gam ata iti vechan kol elef yedidai\nVe'achrei shanim alpaim, sof lindudai\n\nKan gam ata iti vechan kol elef yedidai\nVe'achrei shanim alpaim\nSof, ѕof lindudаi"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": [
+        "עברית"
+      ],
+      "title": "כאן",
+      "content": "כאן ביתי, פה אני נולדתי\nבמישור אשר על שפת הים\nכאן החברים איתם גדלתי\nואין לי שום מקום אחר בעולם\nאין לי שום מקום אחר בעולם\n\nכאן ביתי, פה אני שיחקתי\nבשפלה אשר על גב ההר\nכאן מן הבאר שתיתי מים\nושתלתי דשא במדבר\nושתלתי דשא במדבר\n\nכאן נולדתי, כאן נולדו לי ילדיי\nכאן בניתי את ביתי בשתי ידיי\nכאן גם אתה איתי וכאן כל אלף ידידיי\nואחרי שנים אלפיים, סוף לנדודיי\n\nכאן את כל שיריי אני ניגנתי\nוהלכתי במסע לילי\nכאן בנעוריי אני הגנתי\nעל חלקת האלוהים שלי\nעל חלקת האלוהים שלי\n\nכאן נולדתי, כאן נולדו לי ילדיי\nכאן בניתי את ביתי בשתי ידיי\nכאן גם אתה איתי וכאן כל אלף ידידיי\nואחרי שנים אלפיים, סוף לנדודיי\n\nכאן\nכאן את שולחני אני ערכתי\nפת של לחם, פרח רענן\nדלת לשכנים אני פתחתי\n\"ומי שבא נאמר לו \"אהלן\n(\"אהלן\")\n\"ומי שבא, נאמר לו \"אהלן\n\nכאן נולדתי, כאן נולדו לי ילדיי\nכאן בניתי את ביתי בשתי ידיי\nכאן גם אתה איתי וכאן כל אלף ידידיי\nואחרי שנים אלפיים, סוף לנדודיי\n\nכאן גם אתה איתי וכאן כל אלף ידידיי\nואחרי שנים אלפיים\nאחרי שנים אלפיים\n\nכאן נולדתי, כאן נולדו לי ילדיי\nכאן בניתי את ביתי בשתי ידיי\nכאן גם אתה איתי וכאן כל אלף ידידיי\nואחרי שנים אלפיים, סוף לנדודיי\n\nכאן גם אתה איתי וכאן כל אלף ידידיי\nואחרי שנים אלפיים\nסוף, סוף לנדודיי"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Here",
+      "content": "Here is my home, here I was born\nOn the plain by the sea\nHere are the friends I grew up with\nAnd I have no other place in the world\nI have no other place in the world\n\nHere is my home, here I would play\nIn the lowlands by the mountainside\nHere I drank water from the well\nAnd I planted grass in the desert\nAnd I planted grass in the desert\n\nHere I was born, here my children were born\nHere I built my home with my own two hands\nHere you are also with me and here are all of my thousand friends\nAnd after two thousand years, an end to my wandering\n\nHere I played all my songs\nAnd I walked on a nightly journey\nHere in my youth I defended\nMy own God's little acre\nMy own God's little acre\n\nHere I was born, here my children were born\nHere I built my home with my own two hands\nHere you are also with me and here are all off my thousand friends\nAnd after two thousand years, an end to my wandering\n\nHere\nHere I set my table\nA piece of bread, a fresh flower\nI opened a door to the neighbours\nAnd we'll say \"Ahalan\" to whoever comes\n(\"Ahalan\")\nAnd we'll say \"Ahalan\" to whoever comes\n\nHere I was born, here my children were born\nHere I built my home with my own two hands\nHere you are also with me and here are all of my thousand friends\nAnd after two thousand years, an end to my wandering\n\nHere you are also with me and here are all of my thousand friends\nAnd after two thousand years\nAfter two thousand years\n\nHere I was born, here my children were born\nHere I built my home with my own two hands\nHere you are also with me and here are all of my thousand friends\nAnd after two thousand years an end to my wandering\n\nHere you are also with me and here are all of my thousand friends\nAnd after two thousand yearѕ\nAn end, an end to my wаndering"
+    }
+  ],
+  "bpm": 120,
+  "tone": "B minor",
+  "artistPeople": [
+    "Moshe Datz",
+    "Orna Datz"
+  ],
+  "backings": [
+    "Ellinor Aharon"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Kobi Oshrat",
+  "lyricists": null,
+  "writers": [
+    "Uzi Hitman"
+  ],
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": [
+    "Shaul Adar"
+  ],
+  "spokesperson": "Yitzhak Shim'oni"
+}

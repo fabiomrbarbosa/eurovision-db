@@ -1,0 +1,68 @@
+{
+  "id": 11,
+  "country": "RO",
+  "artist": "Paula Seling & OVI",
+  "song": "Miracle",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/cAMpVodhiS4",
+    "https://www.youtube-nocookie.com/embed/RYfyMkwTLPg",
+    "https://www.youtube-nocookie.com/embed/fo2Bini5JQ0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Miracle",
+      "content": "I don't know if it's right\nBut I've got a feeling\nAnd want to believe this is magical\nIs this what it's like\nCause I'm starting to feel it\nAnd I want to believe it's incredible\n\nIf you only knew all the things I could tell you\nWe could be dancing with stars in the night\n\nIt's so magical, so magical\nSo beautiful, So beautiful\n\nIt's a Miracle! It's a Miracle\nI can see it now\n\nAll the things I see\nI think I see them too\nAll for you and me\nIt's like a dream come true\nIt's so beautiful\nNo one will ever know\nIt's a miracle\n\nNow you know that I'm right\nAnd you got that feeling\nI told you before that it's magical\nYes, it's magical\nNow you know what it's like\nAnd you're starting to feel it\nBut you just can't deny it's incredible\n\nIf I only knew all the things you could tell me\nWe could be dancing with stars in the night\n\nIt's a Miracle! It's a Miracle\nI can see it now\n\nAll the things I see\nI think I see them too\nAll for you and me\nIt's like a dream come true\nIt's so beautiful\nNo one will ever know\nIt'ѕ a mirаcle"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "romanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Miracol",
+      "content": "Nu știu dacă este corect\nDar am un sentiment\nȘi vreau să cred că acest lucru este magic\nEste aceasta ceea ce este ca\nPentru că încep să simt asta\nȘi vreau să cred că este incredibil\n\nDacă ai ști toate lucrurile pe care ți le-aș putea spune\nAm putea dansa cu stele în noapte\n\nEste atât de magic, atât de Magic\nAtât de frumos, atât de frumos\n\nE un miracol! este un miracol\nPot să-l văd acum\n\nToate lucrurile pe care le văd\nCred că le văd și eu\nTotul pentru tine și pentru mine\nEste ca un vis devenit realitate\nEste atât de frumos\nNimeni nu va ști vreodată\nEste un miracol\n\nAcum știi că am dreptate\nȘi ai acel sentiment\nȚi-am mai spus că e magic\nDa, este magic\nAcum știi cum e\nȘi începi să simți asta\nDar nu poți nega că este incredibil\n\nDacă aș ști toate lucrurile pe care mi le-ai putea spune\nAm putea dansa cu stele în noapte\n\nE un miracol! este un miracol\nPot să-l văd acum\n\nToate lucrurile pe care le văd\nCred că le văd și eu\nTotul pentru tine și pentru mine\nEste ca un vis devenit realitate\nEste atât de frumoѕ\nNimeni nu va ști vreodată\nE te un mirаcol"
+    }
+  ],
+  "bpm": 135,
+  "tone": "D minor",
+  "artistPeople": [
+    "Ovidiu Cernăuţeanu",
+    "Paula Seling"
+  ],
+  "backings": [
+    "Julie Lindell",
+    "Line Krogholm",
+    "Mads Storm",
+    "Marcus Only"
+  ],
+  "dancers": null,
+  "stageDirector": "Mattias Carlsson",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Andreas Sjo Engen",
+    "Frida Amundsen",
+    "Kjetil Helgesen",
+    "Marcus Only",
+    "Ovidiu Cernăuţeanu",
+    "Philip Halloun"
+  ],
+  "broadcaster": "TVR",
+  "commentators": [
+    "Bogdan Stănescu"
+  ],
+  "jury": [
+    "Mihai Stoica",
+    "Călin Geambașu",
+    "Mădălin Voicu",
+    "Mirela Voiculescu Fugaru",
+    "Nicoleta Matei"
+  ],
+  "spokesperson": "Sonia Argint-Ionescu"
+}

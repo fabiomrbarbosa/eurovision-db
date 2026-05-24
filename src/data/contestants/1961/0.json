@@ -1,0 +1,61 @@
+{
+  "id": 0,
+  "country": "LU",
+  "artist": "Jean-Claude Pascal",
+  "song": "Nous les amoureux",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/W7jR8W2PNYk",
+    "https://www.youtube-nocookie.com/embed/3okmf1BpBbE",
+    "https://www.youtube-nocookie.com/embed/fFawMvbT9V8",
+    "https://www.youtube-nocookie.com/embed/nzNWfPTQrq8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Nous les amoureux",
+      "content": "Nous, les amoureux – on voudrait nous séparer\nOn voudrait nous empêcher d'être heureux\nNous, les amoureux – il paraît que c'est l'enfer\nQui nous guette ou bien le fer et le feu\n\nC'est vrai, les imbéciles et les méchants\nNous font du mal, nous jouent des tours\nPourtant rien n'est plus évident que l'amour\nNous, les amoureux, nous ne pouvons rien contre eux\nIls sont mille et l'on est deux, les amoureux\n\nMais l'heure va sonner des nuits moins difficiles\nEt je pourrai t'aimer sans qu'on en parle en ville\nC'est promis, c'est écrit\n\nNous les amoureux – le soleil brille pour nous\nEt l'on dort sur les genoux du Bon Dieu\nNous, les amoureux – Il nous a donné le droit\nAu bonheur et à la joie d'être deux\n\nAlors, les sans-amour, les mal-aimés\nIl faudra bien nous acquitter\nVous qui n'avez jamais été condamnés\nNous, les amoureux, nous allons vivre sans vous\nCar le ciel est avec nous, leѕ аmoureux"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": null,
+      "title": "Εμείς οι ερωτευμένοι",
+      "content": "Εμείς, οι ερωτευμένοι-θέλουν να μας χωρίσουν\nΘα ήθελαν να μας αποτρέψουν από το να είμαστε χαρούμενοι\nΕμείς, οι ερωτευμένοι-φαίνεται σαν να είναι κόλαση\nΠου μας παρακολουθεί αλλιώς το σίδερο και τη φωτιά\n\nΕίναι αλήθεια, οι ηλίθιοι και οι κακοί\nΜας βλάπτουν, μας κάνουν άσχημα πράγματα\nΩστόσο τίποτα δεν είναι πιο προφανές από την αγάπη\nΕμείς, οι ερωτευμένοι, δεν μπορούμε να κάνουμε τίποτα εναντίον τους\nΑυτοί είναι χίλιοι και εμείς δύο, οι ερωτευμένοι\n\nΑλλά η ώρα θα χτυπήσει στις λιγότερο δύσκολες νύχτες\nΚαι θα μπορέσω να σε αγαπήσω χωρίς κανείς να συζητήσει για αυτό στην πόλη\nΈχει υποσχεθεί, είναι γραμμένο\n\nΕμείς, οι ερωτευμένοι- ο ήλιος λάμπει για εμάς\nΚαι κοιμόμαστε στα γόνατα του Καλού Κυρίου\nΕμείς, οι ερωτευμένοι- Μας έδωσε το δικαίωμα\nΝα είμαστε ευτυχισμένοι και να είμαστε χαρούμενοι μαζί\n\nΤότε, οι χωρείς αγάπη, οι κακοαγαπημένοι\nΘα είναι απαραίτητο να πληρώσουμε καλά\nΑυτούς που ποτέ δεν καταδικάστηκαν\nΕμείς, οι ερωτευμένοι, πηγαίνουμε να ζήσουμε χωρίς εσάς\nΓιατί ο ουρανός θα είναι μαζί μας, οι ερωτευμένοι"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "We the lovers",
+      "content": "We, the lovers – they want to separate us\nThey would like to prevent us from being happy\nWe, the lovers – it seems that it's hell\nThat watches us or else the iron and the fire\n\nIt's true, the idiots and the evil ones\nHarm us, do bad things to us\nHowever nothing is more obvious than love\nWe, the lovers, we can do nothing against them\nThey are a thousand and we are two, the lovers\n\nBut the hour is going to ring on the least difficult nights\nAnd I could love you without them talking about it downtown\nIt's promised, it's written down\n\nWe, the lovers – the sun shines for us\nAnd we sleep on the knees of the Good Lord\nWe, the lovers – He gave us the right\nTo be happy and to be joyful together\n\nThen, the without-loves, the mis-loved\nIt will be necessary that we pay back\nThose who hаve never been condemned\nWe, the lovers, we're going to live without you\nFor the sky is with us, the loverѕ"
+    }
+  ],
+  "bpm": 126,
+  "tone": "A minor",
+  "artistPeople": [
+    "Jean-Claude Villeminot"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jacques Datin"
+  ],
+  "conductor": "Léo Chauliac",
+  "lyricists": [
+    "Maurice Vidalin"
+  ],
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Unknown"
+}

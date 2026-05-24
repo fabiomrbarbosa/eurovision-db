@@ -1,0 +1,70 @@
+{
+  "id": 9,
+  "country": "BE",
+  "artist": "Jacques Hustin",
+  "song": "Fleur de liberté",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/G2kzBupIjC8",
+    "https://www.youtube-nocookie.com/embed/uv7-suoXpQ4",
+    "https://www.youtube-nocookie.com/embed/3sXptx2tKdg",
+    "https://www.youtube-nocookie.com/embed/J1fdbMQk9T8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Fleur de liberté",
+      "content": "Reviens sur la terre, fleur de liberté\nReviens sur la terre, nos cœurs sont prisonniers\nIl y a tant à faire et tant à aimer\nReviens sur la terre, fleur de liberté\n\nEst-ce vraiment un enfant du Bon Dieu\nQue j'ai vu passer ce matin?\nIl avait l'air déjà d'un petit vieux\nQui n'attend rien du lendemain\n\nEst-ce vraiment un homme à qui j'ai parlé?\nIl me regardait sans me voir\nPourtant rien d'autre ne nous séparait\nQue le grillage d'un comptoir\n\nReviens sur la terre, fleur de liberté\nReviens sur la terre, nos cœurs sont prisonniers\nIl y a tant à faire et tant à aimer\nReviens sur la terre, fleur de liberté\n\nToi qui étais la princesse du vent\nEst-ce bien ici que tu vis\nDans ce palais de verre et de ciment\nOù les arbres sont l'ennemi?\n\nTu as les doigts crispés sur l'avenir\nSans voir que le présent est mort\nL'heure est venue pour moi de repartir\nCe soir je serai seul encore\n\nReviens sur la terre, fleur de liberté\nReviens sur la terre, nos cœurs sont prisonniers\nIl y a tant à faire et tant à aimer\nReviens sur la terre, fleur de liberté\n\nReviens sur la terre, fleur de liberté\nReviens sur la terre, nos cœurs sont prisonniers\nIl y a tant à faire et tant à aimer\nReviens ѕur lа terre, fleur de liberté"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Flower of liberty",
+      "content": "Come back to earth, flower of liberty\nCome back to earth, our hearts are prisonners\nThere's a lot to do and a lot to love\nCome back to earth, flower of liberty\n\nIs it really a child of the Good Lord\nThat I saw passing by this morning?\nHe already looked like a little old man\nWho doesn't expect anything of the next day\n\nWas it really a man I was talking to?\nHe looked at me without seeing me\nAlthough nothing else seperated us\nBut the gratings of a counter\n\nCome back to earth, flower of liberty\nCome back to earth, our hearts are prisonners\nThere's a lot to do and a lot to love\nCome back to earth, flower of liberty\n\nYou who were the princess of the wind\nIs it good to live here\nIn this palace of glass and cement\nWhere the trees are the enemy?\n\nYou have your fingers clenched on the future\nWithout seeing that the present is dead\nThe hour has come for me to leave again\nThis evening I'll still be alone\n\nCome back to earth, flower of liberty\nCome back to earth, our hearts are prisonners\nThere's a lot to do and a lot to love\nCome back to earth, flower of liberty\n\nCome back to earth, flower of liberty\nCome back to the earth, our hearts are prisonners\nThere'ѕ a lot to do and a lot to love\nCome back to eаrth, flower of liberty"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "La Flor De Liberdad",
+      "content": "Vuelve a la tierra, flor de libertad\nVuelve a la tierra, nuestros corazones están prisioneros\nHay tanto por hacer y tanto por amar\nVuelve a la tierra, flor de libertad\n\n¿Es realmente un niño del Buen Dios\nEl que vi pasar esta mañana?\nYa parecía un anciano pequeño\nQue no espera nada del mañana\n\n¿Es verdaderamente un hombre con quien hablé?\nMe miraba sin verme\nY sin embargo, nada nos separaba\nSolo el enrejado de un mostrador\n\nVuelve a la tierra, flor de libertad\nVuelve a la tierra, nuestros corazones están prisioneros\nHay tanto por hacer y tanto por amar\nVuelve a la tierra, flor de libertad\n\nTú, que fuiste la princesa del viento\n¿De verdad es aquí donde vives?\nEn este palacio de vidrio y cemento\nDonde los árboles son el enemigo\n\nApretas los dedos sobre el futuro\nSin ver que el presente ha muerto\nHa llegado la hora para mí de partir\nEsta noche estaré solo otra vez\n\nVuelve a la tierra, flor de libertad\nVuelve a la tierra, nuestros corazones están prisioneros\nHay tanto por hacer y tanto por amar\nVuelve a la tierra, flor de libertad\n\nVuelve a la tierra, flor de libertad\nVuelve a la tierra, nuestros corazones están prisioneroѕ\nHay tanto por hacer y tanto por amar\nVuelve a la tierra, flor de libertаd"
+    }
+  ],
+  "bpm": 178,
+  "tone": "B major",
+  "artistPeople": [
+    "Jacques Hustin"
+  ],
+  "backings": [
+    "Doreen Chanter",
+    "Irene Chanter",
+    "Liza Strike",
+    "Margo Quantrell",
+    "Vicki Brown"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jacques Hustin"
+  ],
+  "conductor": "Pierre Chiffre",
+  "lyricists": [
+    "Franck F. Gérald"
+  ],
+  "writers": null,
+  "broadcaster": "RTB",
+  "commentators": [
+    "Georges Désir",
+    "Herman Verelst"
+  ],
+  "jury": null,
+  "spokesperson": "André Hagon"
+}

@@ -1,0 +1,53 @@
+{
+  "id": 33,
+  "country": "NL",
+  "artist": "Hind",
+  "song": "Your Heart Belongs To Me",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/K6kl_8vFCZc",
+    "https://www.youtube-nocookie.com/embed/d3eY1L_S5dU",
+    "https://www.youtube-nocookie.com/embed/Ur7we7JLSik"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Your Heart Belongs To Me",
+      "content": "I remember the time when I was in love with a fool\nHe stepped on my heart, bruised me, broke the golden rule\nThere was a time when I couldn't tell weak from strong\nA voice in my head kept saying: this can't go on\nEven though I longed, something's wrong\n\nYou know your heart belongs to me\nYou made it clear to see\nThat we were never meant to be\nOnly a memory remains\n\nOh yes, your heart belongs to me\nBut I've got to set you free\n'Cause we were never meant to be\nTogether\n\nI've learned my lesson, now I know where I stand\nTime heals all wounds, and broken hearts will mend\nI've read all the signs, now I've moved along\nThis carousel keeps turning on and on\nAnd on and on, life goes on\n\nYou know your heart belongs to me\nYou made it clear to see\nThat we were never meant to be\nOnly a memory remains\n\nOh yes, your heart belongs to me\nBut I've got to set you free\n'Cause we were never meant to be\nTogether\n\nI wish I was the wind, the sun, the rain\nAnd I could hold time in my hands\nIn my dreams I'll fly high so I can reach the stars\nI sit on top of a mountain\nAnd scream when nobody hears me\nNobody sees me, ho…\n\nYou know your heart belongs to me\nYou made it clear to see\nThat we were never meant to be\nOnly a memory remains\n\nOh yes, your heart belongs to me\nBut I've got to set you free\n'Cause we were never meant to be\nTogether\n\nYou know your heаrt belongѕ to me"
+    }
+  ],
+  "bpm": 94,
+  "tone": "C# major",
+  "artistPeople": [
+    "Hind Laroussi Tahiri"
+  ],
+  "backings": [
+    "Carolina Dijkhuizen",
+    "Deniz Kumas",
+    "Ellen Eeftink",
+    "Peggy Sandaal",
+    "Serge Dominique Monpellier"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Bas van den Heuvel",
+    "Hind",
+    "Tjeerd van Zanen"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Hind",
+    "Tjeerd van Zanen"
+  ],
+  "writers": null,
+  "broadcaster": "NOS",
+  "commentators": [
+    "Cornald Maas"
+  ],
+  "jury": null,
+  "spokesperson": "Esther Hart"
+}

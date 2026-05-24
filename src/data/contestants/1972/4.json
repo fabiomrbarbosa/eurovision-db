@@ -1,0 +1,58 @@
+{
+  "id": 4,
+  "country": "AT",
+  "artist": "The Milestones",
+  "song": "Falter im Wind",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5caNpcR3bGs",
+    "https://www.youtube-nocookie.com/embed/fPJhzgnK8EA",
+    "https://www.youtube-nocookie.com/embed/XB009qcvfxs",
+    "https://www.youtube-nocookie.com/embed/9-wIS9Uv9XI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Falter im Wind",
+      "content": "Bleib' nicht im Wald, Schmetterling\nUnd verflieg' dich nicht bei Nacht\nFalsch ist der Mond, sein Schattenspiel\nIn der Dämmerung ist kein Halt\nBleib' nicht in den Wäldern\nBleib' nicht in den Wäldern\nBleib' nicht in den Wäldern\n\nTanz um die Lichter, Schmetterling\nDeine Farben flammen auf\nTot ist die Nacht, in deinem Tanz\nIst das Leben hell wie Tag\nFall nicht in die Sonne\nFall nicht in die Sonne\nFall nicht in die Sonne\n\nFalter im Wind, wie Zeit, die verrinnt\nWie Sand in der Hand, verweht, verbrannt\nHörst du es nicht? – Ein Flügel zerbricht\nEin Flüstern verspricht Licht\n\nHell ist dein Tag, drum tanze schnell\nEr währt einen Flügelschlag\nTanz um die Lichter, Schmetterling\nBald fällt Abendnebel ein\nFall nicht in die Sonne\nFall nicht in die Sonne\nFall nicht in die Sonne\n\nFalter im Wind, wie Zeit, die verrinnt\nWie Sand in der Hand, verweht, verbrannt\nHörst du es nicht? – Ein Flügel zerbricht\nEin Flüstern verspricht Licht\n\nFalter im Wind, wie Zeit, die verrinnt\nWie Sand in der Hand, verweht, verbrаnnt\nHörst du es nicht? – Ein Flügel zerbricht\nEin Flüstern verѕpricht Licht"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Butterfly in the wind",
+      "content": "Don't stay in the woods, butterfly\nAnd don't fly astray at night\nThe moon is wrong, its shadows\nIn the dawn are not a help\nDon't stay in the woods\nDon't stay in the woods\nDon't stay in the woods\n\nDance around the lights, butterfly\nYour colours flame up\nThe night is dead, in your dance\nLife is bright like the day\nDon't fall into the sun\nDon't fall into the sun\nDon't fall into the sun\n\nButterfly in the wind, like the time passing by\nLike sand in the hand, blown away, burnt\nDon't you hear it? A wing breaks\nA whisper promises the light\n\nYour day is bright, so dance quickly\nIt lasts just a wingbeat\nDance around the lights, butterfly\nSoon the evening fog will come\nDon't fall into the sun\nDon't fall into the sun\nDon't fall into the sun\n\nButterfly in the wind, like the time passing by\nLike sand in the hand, blown away, burnt\nDon't you hear it? A wing breaks\nA whisper promises the light\n\nButterfly in the wind, like the time passing by\nLike sand in the hand, blown away, burnt\nDon't you hear it? A wing breаks\nA whisper promiseѕ the light"
+    }
+  ],
+  "bpm": 94,
+  "tone": "D major",
+  "artistPeople": [
+    "Beatrix Neundlinger",
+    "Christian Kolonovits",
+    "Günther Grosslercher",
+    "Norbert Niedermayer"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Manuel Rigoni",
+    "Richard Schönherz"
+  ],
+  "conductor": "Erich Kleinschuster",
+  "lyricists": [
+    "Heinz Unger"
+  ],
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": [
+    "Ernst Grissemann"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

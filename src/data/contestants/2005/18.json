@@ -1,0 +1,51 @@
+{
+  "id": 18,
+  "country": "SE",
+  "artist": "Martin Stenmarck",
+  "song": "Las Vegas",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/2JZtAqMqn6k",
+    "https://www.youtube-nocookie.com/embed/6UxX2HZuFi4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Las Vegas",
+      "content": "I've got a room here at the Mandalay Bay\nI'll take a shower then I'm on my way\nI'll bring a friend if someone picks a fight\nHere in Las Vegas tonight\n\nIt's close to midnight when I hit The Strip\nThe maiden voyage on my Vegas trip\nThe night is young and everything's all right\nHere in Las Vegas tonight\n\nDancing girls and cabarets\nYou can spend your money in a million ways\nLet's have a ball\nThe winner takes it all\n\nIn Las Vegas, in the neon lights\nYou'll be a star if you do it right\nIn Las Vegas, oh oh oh...\nYou better hold on tight\n\nIn Las Vegas, can't believe your eyes\nYour luck can turn in a throw of a dice\nIn Las Vegas, oh oh oh...\nYou better hold on tight\nHere in Las Vegas tonight\n\nI'm leaving with a million dollar smile\nThe hotel manager can check my file\nFred the limo driver's asking polite:\n\"Leaving Las Vegas tonight?\"\n\nDancing girls and cabarets\nYou can spend your money in a million ways\nLet's have a ball\nThe winner takes it all\n\nIn Las Vegas, in the neon lights\nYou'll be a star if you do it right\nIn Las Vegas, oh oh oh...\nYou better hold on tight\n\nHey, yeah, yeah...\n(In Las Vegas)\nIn Las Vegas\n\nIn Las Vegas, in the neon lights\nYou'll be a star if you do it right\n(In Las Vegas) Oh oh oh...\nYou better hold on tight\n\nIn Las Vegas, can't believe your eyes\nYour luck can turn in a throw of a dice\nIn Las Vegas, oh oh oh...\nYou better hold on tight\nHere in Las Vegаѕ tonight"
+    }
+  ],
+  "bpm": 129,
+  "tone": "Eb minor",
+  "artistPeople": [
+    "Martin Olof Jon Stenmarck"
+  ],
+  "backings": [
+    "Dea Norberg",
+    "Jenny Petersson",
+    "Johan Röhr"
+  ],
+  "dancers": [
+    "Åsa Mirro",
+    "Sandra Linder"
+  ],
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Johan Fransson",
+    "Niklas Edberger",
+    "Tim Larsson",
+    "Tobias Lundgren"
+  ],
+  "broadcaster": "SVT",
+  "commentators": [
+    "Pekka Heino"
+  ],
+  "jury": null,
+  "spokesperson": "Annika Jankell"
+}

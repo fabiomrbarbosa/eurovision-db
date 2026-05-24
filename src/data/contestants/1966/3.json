@@ -1,0 +1,54 @@
+{
+  "id": 3,
+  "country": "BE",
+  "artist": "Tonia",
+  "song": "Un peu de poivre, un peu de sel",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/_eO73QFd5OY",
+    "https://www.youtube-nocookie.com/embed/pS7yrMW--oY",
+    "https://www.youtube-nocookie.com/embed/uzgbP5tEICw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Un peu de poivre, un peu de sel",
+      "content": "Un peu de poivre, un peu de sel\nUn peu d'amour, un peu de miel\nQuand tout cela sera mélangé\nTu pourras dire enfin que c'est arrivé\n\nIl passait près de moi tous les jours\nPour lui je n'existais pas\nIl ne pouvait savoir que mon grand amour\nFleurissait non loin de là\n\nÀ la sorcière de mon quartier\nJ'ai enfin parlé de lui\nElle m'a longtemps, longtemps regardée\nEt voici ce qu'elle m'a dit:\n\n\"Un peu de poivre, un peu de sel\"\n\"Un peu d'amour, un peu de miel\"\n\"Quand tout cela sera mélangé\"\n\"Tu pourras dire enfin que c'est arrivé\"\n\nJ'ai suivi sans plus d'explications\nLes conseils qu'elle m'a donnés\nPour gagner l'amour de ce beau garçon\nJ'ai voulu tout essayer\n\nJ'ai fait acheter une eau-de-vie\nÀ cent vingt-et-un degrés\nEt tout en pensant très fort à lui\nSagement j'ai ajouté\n\nUn peu de poivre, un peu de sel\nUn peu d'amour, un peu de miel\nQuand tout cela fut bien mélangé\nIl arriva ce qui devait arriver\n\nTom topo tom tom tom to tom...\nTom topo tom tom tom to tom...\n\nUn beau jour il est venu me voir\nMaman l'ayant invité\nJe lui ai donné ma tisane à boire\nEt depuis, tout est changé\n\nJe l'aime, il m'aime, nous nous aimons\nComme dans un conte de fées\nPour se faire adorer d'un garçon\nIl suffit de lui donner\n\nUn peu de poivre, un peu de sel\nUn peu d'аmour, un peu de miel\n\nUn peu de poivre, un peu de ѕel"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "A bit of pepper, a bit of salt",
+      "content": "A bit of pepper, a bit of salt\nA bit of love, a bit of honey\nWhen this all will be mixed together\nYou'll finally be able to say that it happened\n\nHe always passed me right under my nose\nI didn't exist for him\nHe couldn't know that my big love\nFlourished not far from him\n\nTo the local sorceress\nI could finally tell about him\nShe looked at me for a long, long time\nAnd this is what she told me\n\n\"A bit of pepper, a bit of salt\"\n\"A bit of love, a bit of honey\"\n\"When this all will be mixed together\"\n\"You'll finally be able to say that it happened\"\n\nI followed with no further explanation\nThe advice she gave me\nTo win the love of this beautiful boy\nI wanted to try everything\n\nI've bought a brandy\nAt one hundred and twenty-one degrees\nAnd strongly thinking about him\nI've added bravely\n\nA bit of pepper, a bit of salt\nA bit of love, a bit of honey\nWhen that all was mixed together\nWhat had to happen, happened\n\nTom topo tom tom tom to tom...\nTom topo tom tom tom to tom...\n\nUpon a beautiful day he came to me\nMy mother invited him\nI gave him my herb tea to drink\nAnd after that, everything changed\n\nI love him, he loves me, we love each other\nAs in a fairy tale\nTo hold a boy dear\nIt's enough to give him\n\nA bit of pepper, a bit of salt\nA bit of love, a bit of honey\n\nA bit of pepper, a bit of ѕаlt"
+    }
+  ],
+  "bpm": 162,
+  "tone": "D major",
+  "artistPeople": [
+    "Arlette Antoine Dominicus"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Paul Quintens"
+  ],
+  "conductor": "Jean Roderes",
+  "lyricists": [
+    "Phil van Cauwenbergh"
+  ],
+  "writers": null,
+  "broadcaster": "RTB",
+  "commentators": [
+    "Herman Verelst",
+    "Paule Herreman"
+  ],
+  "jury": null,
+  "spokesperson": "André Hagon"
+}

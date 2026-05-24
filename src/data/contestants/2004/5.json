@@ -1,0 +1,58 @@
+{
+  "id": 5,
+  "country": "SE",
+  "artist": "Lena Philipsson",
+  "song": "It Hurts",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/na2qDYmm7LM",
+    "https://www.youtube-nocookie.com/embed/yGuvuCbbKw8",
+    "https://www.youtube-nocookie.com/embed/VV1uSMm7H8U",
+    "https://www.youtube-nocookie.com/embed/l41G1YQGM_Q"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "It Hurts",
+      "content": "Nobody but me\nCould know the way I feel\n\nI'm standing on the rooftop\nAnd I'm crying out your name\nI'm looking for an answer\nAnd for somebody to blame\n'Cause even though it's over\nYou linger on my mind, oh\n\nHurts, oh it hurts, really hurts\nIn the middle of the night\nIn the light of the day\nYou know that it hurts\nOh it hurts, really hurts\nAnd I wish I could be stronger\nNo longer afraid\nNobody but me\nCould know the way I feel\nOh it hurts, oh it hurts\n\nI'm trying to forget love\nThe pain I feel inside\nI'm clinging to my pillow\nAnd the tears I cannot hide\nI wish it could be over\nSo I can start anew, oh\n\nHurts, oh it hurts, really hurts\nIn the middle of the night\nIn the light of the day\nYou know that it hurts\nOh it hurts, really hurts\nAnd I wish I could be stronger\nNo longer afraid\nNobody but me\nCould know the way I feel\nOh it hurts, oh\n\nNot easy to remember\nAnd even harder to forget\nWhenever I surrender (whenever I surrender)\nOh, you're always on my mind\n\n(Hurts, oh it hurts, really hurts)\nIn the middle of the night\nIn the light of the day\nYou know that it hurts\nOh it hurts, really hurts\nAnd I wish I could be stronger\nNo longer afraid\nNobody but me\nCould know the wаy I feel\nOh it hurts, ooh it hurts\nI wish I could be stronger\nOh, but it hurtѕ"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Det gör ont",
+      "content": "Och alla omkring\nDom märker ingenting\n\nFinns det något mer att säga?\nSäg finns det nånting mer?\nJag var väl ingen ängel\nJag förnekar inte det\nMen nu när det är över\nSå finns du överallt\n\nOnt, det gör ont, men det går\nDet gör ont en stund på natten\nMen inget på da'n\nDu vet att det gör ont\nDet gör ont, men ändå\nJag har klarat mig rätt länge\nJag börjar bli vän\nOch alla omkring\nDom märker ingenting\nDet gör ont, så ont\n\nHär finns så många minnen\nAllt vi gjort i våra da'r\nFattiga och rika\nDet finns för många minnen kvar\nMen om jag kunde glömma\nDå kunde jag bli fri\n\nOnt, det gör ont, men det går\nDet gör ont en stund på natten\nMen inget på da'n\nDu vet att det gör ont\nDet gör ont, men ändå\nJag har klarat mig rätt länge\nJag börjar bli van\nOch alla omkring\nDom märker ingenting\nDet gör ont\n\nDet sista jag behöver\nÄr flera minnen utav dig\nMen nu när det är över\nSå finns du överallt\n\n(Ont, det gör ont, men det går)\nDet gör ont en stund på natten\nMen inget på da'n\nDu vet att det gör ont\nDet gör ont, men ändå\nJag har klarat mig rätt länge\nJag börjar bli van\nOch alla omkring\nDom märker ingenting\nDet gör ont\nOnt, ѕå ont\nDom märkаr ingenting, men\nDet gör ont"
+    }
+  ],
+  "bpm": 127,
+  "tone": "B major",
+  "artistPeople": [
+    "Maria Magdalena Filipsson"
+  ],
+  "backings": [
+    "Britta Bergström",
+    "Dea Norberg",
+    "Jenny Petersson",
+    "Martin Kagemark",
+    "Micke Blomqvist"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Thomas 'Orup' Eriksson"
+  ],
+  "broadcaster": "SVT",
+  "commentators": [
+    "Pekka Heino"
+  ],
+  "jury": null,
+  "spokesperson": "Jovan Radomir"
+}

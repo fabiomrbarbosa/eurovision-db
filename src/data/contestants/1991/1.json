@@ -1,0 +1,67 @@
+{
+  "id": 1,
+  "country": "FR",
+  "artist": "Amina",
+  "song": "C'est le dernier qui a parlé qui a raison",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/qom6NzhYhnI",
+    "https://www.youtube-nocookie.com/embed/XdrlmMtgqGg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "C'est le dernier qui a parlé qui a raison",
+      "content": "C'est le dernier qui a parlé qui a raison\nDans ta maison\nC'est celle qui m'a donné un nom qui a raison\nDe toute façon\nFille ou garçon, tous ces dictons sont des leçons\nNe dis pas non\nLe monde n'est ni mauvais ni bon, tu tournes pas rond\nC'est sans raison\n\nHouah houah… houah houah…\nHiah hiah… hiah hiah hiah…\nHouah… hiah…\n\nDis-moi au nom de quelle nation tu lèves le ton\nDans ma maison\nNe gémis pas comme un violon sans partition\nC'est une leçon\nLa vérité se cache le front comme un silence\nQui en dit long\nC'est le plus fort qui a parlé qui a raison\nDe toute façon\n\nHouah houah… houah houah…\nHiah hiah… hiah hiah hiah…\nHouah… hiah…\n\nC'est le dernier qui a parlé qui a raison\nDans ta maison\nC'est le dernier qui a parlé qui a raison\nDe toute façon\n\nToutes les saisons font et défont même les passions\nQuelle dérision\nC'est le dernier qui a parlé qui a raison\nSans condition\nComme-ci ou comme-ça\nIci ou là-baѕ\n\nHouah houah… houah houah…\nHiah hiah… hiah hiah hiah…\nHouah… hiah…\n\nHiah hiah… hiah hiah hiah…\nHouаh…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": null,
+      "title": "Είναι ο τελευταίος που μιλά που έχει δίκιο",
+      "content": "Είναι ο τελευταίος που μιλά που έχει δίκιο\nΣτο σπίτι σου\nΕίναι αυτή που μου έδωσε όνομα που έχει δίκιο\nΣε κάθε περίπτωση\nΑγόρι ή κορίτσι, όλα αυτά τα ρητά είναι μαθήματα\nΜη πεις όχι\nΟ κόσμος ούτε καλός ούτε κακός δεν είναι, δε κάνεις κύκλους\nΕίναι χωρίς λόγο\n\nΟυά ουά… ουά ουά…\nΙά ιά… ιά ιά…\nΟυά… ιά…\n\nΠες μου ονοματικά σε ποιο έθνος ανεβάζεις τον τόνο\nΣτο σπίτι μου\nΜη φωνάζεις σαν βιολί δίχως παρτιτούρα\nΕίναι ένα μάθημα\nΗ αλήθεια χώνει το μέτωπό της σαν μια ησυχία\nΑυτό λέει πολλά\nΕίναι ο πιο δυνατός που μιλά που έχει δίκιο\nΣε κάθε περίπτωση\n\nΟυά ουά… ουά ουά…\nΙά ιά… ιά ιά…\nΟυά… ιά…\n\nΕίναι ο τελευταίος που μιλά που έχει δίκιο\nΣτο σπίτι σου\nΕίναι ο τελευταίος που μιλά που έχει δίκιο\nΣε κάθε περίπτωση\n\nΌλες οι εποχές κάνουν και ξεκάνουν ακόμα και τα πάθη\nΤι χλευασμός\nΕίναι ο τελευταίος που μιλά που έχει δίκιο\nΧωρίς εξαίρεση\nΈτσι ή αλλιώς\nΕδώ η εκεί\n\nΟυά ουά… ουά ουά…\nΙά ιά… ιά ιά…\nΟυά… ιά…\n\nΙά ιά… ιά ιά ιά…\nΟυά…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "It's the last to have spoken who is right",
+      "content": "It's the last one who spoke who is right\nIn your house\nIt's the one who gave me a name who is right\nIn any case\nGirl or boy, all those sayings are lessons\nDon't say no\nThe world is neither good nor bad, you don't turn round\nIt's without reason\n\nHuah huah… huah huah…\nHiah hiah… hiah hiah hiah…\nHuah… hiah…\n\nTell me in the name of what county you raise your voice\nIn my house\nDon't scream like a violin without music score\nIt's a lesson\nThe truth is hiding its face like a silence\nThat says a lot\nIt's the strongest one who spoke who is right\nIn any case\n\nHuah huah… huah huah…\nHiah hiah… hiah hiah hiah…\nHuah… hiah…\n\nIt's the last one who spoke who is right\nIn your house\nIt's the last one who spoke who is right\nIn any case\n\nAll the seasons do and undo even passions\nWhat a derision\nIt's the last one who spoke who is right\nWithout any condition\nLike thiѕ or like that\nHere or over there\n\nHuah huah… huah huah…\nHiah hiah… hiah hiah hiah…\nHuah… hiah…\n\nHiah hiah… hiah hiah hiah…\nHuаh…"
+    }
+  ],
+  "bpm": 178,
+  "tone": "C major",
+  "artistPeople": [
+    "Amina Annabi"
+  ],
+  "backings": [
+    "Jean-Jacques Hertz",
+    "Maurice Poto Dudongo",
+    "Tony Allen",
+    "Wasis Diop",
+    "Zouhir Gouja"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Wasis Diop"
+  ],
+  "conductor": "Jérôme Pillement",
+  "lyricists": [
+    "Amina Annabi"
+  ],
+  "writers": null,
+  "broadcaster": "A2F",
+  "commentators": [
+    "Léon Zitrone"
+  ],
+  "jury": null,
+  "spokesperson": "Marie-France Brière"
+}

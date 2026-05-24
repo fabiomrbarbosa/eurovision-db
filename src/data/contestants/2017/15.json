@@ -1,0 +1,67 @@
+{
+  "id": 15,
+  "country": "AT",
+  "artist": "Nathan Trent",
+  "song": "Running On Air",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/gJIjZF5sgzg",
+    "https://www.youtube-nocookie.com/embed/SpPM1V3dqZE",
+    "https://www.youtube-nocookie.com/embed/clltO-wwfRE",
+    "https://www.youtube-nocookie.com/embed/gkGzx3rm9FY",
+    "https://www.youtube-nocookie.com/embed/sccVUNVGVGw",
+    "https://www.youtube-nocookie.com/embed/zW_7_f_L5rA",
+    "https://www.youtube-nocookie.com/embed/SrR1FC-ZRio"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Running On Air",
+      "content": "It's been a long time running\n'Cause I had some things to see\nI had to meet some people\nWho were there to believe in me\n\nI'm taking all that struggle\nReminds me what I'm fighting for\nI'm living it up, I ain't gonna stop\nTill I make that final score\n\nAnd I'll keep running as fast as I can\nI'll keep running\nI won't stop, I won't stop, no no\n\nHey now, if you push me down I'll get up again\nHey now, if you let me drown I'll swim like a champion\nI'm sure there'll be good times, there'll be bad times\nBut I don't care 'cause I'm running on air\n(Running, running) Yeah\n\nGive me a million reasons\nBut my answer stays the same\nYou can try to put me in a box\nBut I'm doing it my own damn way\n\nSee I can stand them talkers\nAll pretending that their lives' a mess\n'Cause whatever you want, whatever you need\nYou gotta get off your…\n\nAnd I'll keep running as fast as I can\nI'll keep running\nI won't stop, I won't stop\n\nHey now, if you push me down I'll get up again\nHey now, if you let me drown I'll swim like a champion\nI'm sure there'll be good times, there'll be bad times\nBut I don't care 'cause I'm running on air\n\nHey, I'm running on air\nRunning, running on air\n(Oh whoa… oh whoa…) Running, running\nNow I don't care\n\nHey now, if you push me down I'll get up again\nHey now, hey now\n\nYeah… (Oh whoa… oh whoa…)\nYou can push me, push me down\n(Oh whoa… oh whoa…) Hey now\nBut I'll get up again\n\nI'm sure there'll be good times, there'll be bad times\nBut I don't care 'cauѕe I'm running on аir"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Fino A Che Volerò",
+      "content": "È già da un po' che corro\nPer veder cosa c'è aldilà\nHo incontrato gente\nChe condivide la mia realtà\n\nPer ogni mio percorso\nUn incrocio ci sarà\nMa la meta ce l'ho, la strada la so\nNulla che mi fermerà\n\nE sto correndo\nPiù svelto che mai\nSto correndo\nUn passo dopo l'altro\n\nEhi now, se mi butti giù mi rialzerò\nEhi now, se mi lasci ad annegare nuoterò\nLo so, ci son tempi belli e brutti\nMa correrò fino a che volerò\n\nNon esiste niente\nChe mi fermi dal avvio\nPuoi cercar di categorizzarmi\nLo faccio come dico io\n\nCi son dei chiacchieroni\nNon ascoltarli mai\nChiunque tu sia, qualunque la scia\nTesta sulle spalle e via\n\nSto correndo\nPiù svelto che mai\nSto correndo\nUn passo dopo l'altro\n\nEhi now, se mi butti giù mi rialzerò\nEhi now, se mi lasci ad annegare nuoterò\nLo so ci son tempi belli e brutti\nMa correrò fino a che volerò\n\nHey, fino a che volerò\nE nell'aria sarò\nCorro, corro\nE salirò\n\nEhi now, se mi butti giù mi rialzerò\nEhi now, ehi now\n\nLo mi rialzeró\nEhi now, nell'aria saliró\nLo so ci ѕon tempi belli e brutti\nMa correrò fino а che volerò"
+    }
+  ],
+  "bpm": 90,
+  "tone": "A major",
+  "artistPeople": [
+    "Nathanaele Koll-Valsassina"
+  ],
+  "backings": [
+    "Artem Murach",
+    "Florian Fitz",
+    "Helena de Maertelaere",
+    "Vincent Bueno"
+  ],
+  "dancers": null,
+  "stageDirector": "Marvin Dietmann",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Bernhard Penzias",
+    "Nathan Trent"
+  ],
+  "broadcaster": "ORF",
+  "commentators": [
+    "Andi Knoll"
+  ],
+  "jury": [
+    "Andreas Zahradnik",
+    "Christian Andreas Ude",
+    "Elly V",
+    "Sasha Saedi",
+    "Zoë Straub"
+  ],
+  "spokesperson": "Kristina Inhof"
+}

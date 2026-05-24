@@ -1,0 +1,52 @@
+{
+  "id": 13,
+  "country": "ES",
+  "artist": "Paloma San Basilio",
+  "song": "La fiesta terminó",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/VOna_jv4L0s",
+    "https://www.youtube-nocookie.com/embed/7D8BxD-yMjI",
+    "https://www.youtube-nocookie.com/embed/VLGbj_Fey5k",
+    "https://www.youtube-nocookie.com/embed/DApDHqguhrg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "La fiesta terminó",
+      "content": "Amor, ¿qué haces por aquí?\nLa fiesta terminó\nDime, ¿a que estás jugando?\nAmor, lo que pasó, pasó\nDijimos se acabó\n¿Qué andas buscando?\n\nAmor, no quiero hacerte mal\nMejor no insistas más\nNo hay magia ya en tus manos\nAmor, perdón por lo de amor\nMe sale sin querer\nTal vez porque te he amado\nY ahora no\n\nLa fiesta terminó\nYa no hay más que niebla entre tú y yo\n¿Para qué echar más leña arder\nSi el fuego se ha apagado ya? Dímelo\n\nAmor, al fin te superé\nY no pienso volver\nDe nuevo a las andadas\nAmor, perdon por lo de amor\nMe sale sin querer\nTal vez porque te he amado\nY ahora no\n\nLa fiesta terminó\nYa no hay más que niebla entre tú y yo\n¿Para qué echar más leña arder\nSi el fuego se ha apagado ya? Dímelo\n\nNo insistas más, la fiesta terminó\nTú y yo ya no somos tú y yo\n¿De qué sirve amarnos sin аmor?\n¿Por qué seguir mintiéndonoѕ?\nDímelo, dímelo"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The party's over",
+      "content": "Love, what are you doing here?\nThe party's over\nTell me, what are you playing?\nLove, what happened, happened\nWe said it's over\nWhat are you looking for?\n\nLove, I don't want to treat you badly\nIt's better not to insist\nThere's no more magic in your hands\nLove, excuse me if I say love\nIt wasn't my intention\nMaybe it's because I loved you\nAnd now I don't\n\nThe party's over\nThere's only a fog between you and me\nWhy throwing more wood to burn\nWhen the fire is already dull? Tell me\n\nLove, I'm finally over you\nAnd I'm not thinking about going back\nAgain to my old tricks\nLove, excuse me if I say love\nIt wasn't my intention\nMaybe it's because I loved you\nAnd now I don't\n\nThe party's over\nThere's only a fog between you and me\nWhy throwing more wood to burn\nWhen the fire is already dull? Tell me\n\nDon't insist anymore, the party's over\nYou and I are no longer you and I\nWhy should we love each other without love?\nWhy ѕhould we keep on lying to eаch other?\nTell me, tell me"
+    }
+  ],
+  "bpm": 80,
+  "tone": "F major",
+  "artistPeople": [
+    "Paloma San Basilio"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Juan Carlos Calderón López De Arroyabe",
+  "lyricists": null,
+  "writers": [
+    "Juan Carlos Calderón"
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "Antonio Gómez"
+  ],
+  "jury": null,
+  "spokesperson": "Matilde Jarrín"
+}

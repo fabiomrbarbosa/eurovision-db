@@ -1,0 +1,71 @@
+{
+  "id": 33,
+  "country": "HR",
+  "artist": "Roko",
+  "song": "The Dream",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/gXT5E8kUgfs",
+    "https://www.youtube-nocookie.com/embed/XH1XfjICYLc",
+    "https://www.youtube-nocookie.com/embed/-mYYWSEAa9s",
+    "https://www.youtube-nocookie.com/embed/fAeNJVv4eVc",
+    "https://www.youtube-nocookie.com/embed/sWpRSYfY7O8",
+    "https://www.youtube-nocookie.com/embed/YttRPqpB_XI",
+    "https://www.youtube-nocookie.com/embed/euZTUPvSt_w"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english",
+        "croatian"
+      ],
+      "displayedLanguages": null,
+      "title": "",
+      "content": "I have a dream\nA dream as beautiful as it is extreme\nI know it's not as crazy as it may seem\nSo I don't ever wanna give up on this dream\n\nOpen your heart\nAnd you'll arrive at where the dream has to start\nTo pull a world together out of the parts\nAnd turn this war into a hopeful work of art\n\nWe have lived the darkest night\nWaiting for the day\nNow the time for us is right\nTo arise and say\n\nI dream of love\nYou dream of love\nAngels of God\nWe all dream of love\n\nI dream of love\nYou dream of love\nAngels of God\nWe all dream of love\n\nSvijetu nisi dužan ti\nNišta donijeti\nJedino ѕi čovjek kad\nMožeš voljeti\n\nKao heroj\nKao heroj\nI moj i tvoj\nLjubav je heroj\n\nKao heroj\nKao heroj\nI moj i tvoj\nLjubаv je heroj"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "",
+      "content": "I have a dream\nA dream as beautiful as it is extreme\nI know it's not as crazy as it may seem\nSo I don't ever wanna give up on this dream\n\nOpen your heart\nAnd you'll arrive at where the dream has to start\nTo pull a world together out of the parts\nAnd turn this war into a hopeful work of art\n\nWe have lived the darkest night\nWaiting for the day\nNow the time for us is right\nTo arise and say\n\nI dream of love\nYou dream of love\nAngels of God\nWe all dream of love\n\nI dream of love\nYou dream of love\nAngels of God\nWe all dream of love\n\nTo the world you don't owe\nAnything (to bring)\nYou are only human when\nYou're able to love\n\nLike a hero\nLike a hero\nBoth yours and mine\nLove is a hero\n\nLike a hero\nLike a hero\nBoth yours and mine\nLove iѕ а hero"
+    }
+  ],
+  "bpm": 114,
+  "tone": "F minor",
+  "artistPeople": [
+    "Roko"
+  ],
+  "backings": [
+    "Jacques Houdek"
+  ],
+  "dancers": [
+    "Diego Siqueira",
+    "Endi Schrötter"
+  ],
+  "stageDirector": "Leo Mujić",
+  "composers": [
+    "Jacques Houdek"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Andrea Čubrić",
+    "Charlie Mason",
+    "Jacques Houdek"
+  ],
+  "writers": null,
+  "broadcaster": "HRT",
+  "commentators": [
+    "Duško Ćurlić"
+  ],
+  "jury": [
+    "Bojan Jambrošić",
+    "Doris Karamatić",
+    "Franka",
+    "Silvestar Glojnarić",
+    "Zlatko Turkalj"
+  ],
+  "spokesperson": "Monika Lelas Halambek"
+}

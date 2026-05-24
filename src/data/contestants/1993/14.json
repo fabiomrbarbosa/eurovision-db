@@ -1,0 +1,70 @@
+{
+  "id": 14,
+  "country": "HR",
+  "artist": "Put",
+  "song": "Don't Ever Cry",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/NqBcDIzfID8",
+    "https://www.youtube-nocookie.com/embed/RWBLGLop6PE",
+    "https://www.youtube-nocookie.com/embed/KS054XROrIs",
+    "https://www.youtube-nocookie.com/embed/uA_SpE5m2Cs",
+    "https://www.youtube-nocookie.com/embed/q_EbkuntFlc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "croatian",
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Don't Ever Cry",
+      "content": "Tisuće snova dalekih, ruža u srcima zaspalih\nLeptira tisuće šarenih, k'o duše nevinih\n\nOsamnaest godina, moga Ivana\nMoli za njega, pjesmo anđela\n\nDon't ever cry, don't ever cry\nNever say goodbye, never say goodbye\nDon't ever cry, don't ever cry\nNever say goodbye, never say goodbye\n\nOsamnaest godina, moga Ivana\nMoli za njega, pjesmo anđela\n\nMir daj nam ti, mir daj nam ti\nNebo ljubavi, nebo ljubavi\nMir daj nam ti, mir daj nam ti\nNebo ljubavi, nebo ljubavi\n\nDon't ever cry, don't ever cry\nNever say goodbye, never say goodbye\nDon't ever cry, don't ever cry\nNever say goodbye, never say goodbye\n\nDon't ever cry, my Croatiаn ѕky"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Ne pleure jamais",
+      "content": "Des milliers de rêves lointains, Rose dans le cœur des endormis\nMille papillons colorés, Comme des âmes innocentes\n\nDix-huit ans de mon Ivan\nPriez pour lui, un chant d'ange\n\nNe pleure jamais, ne pleure jamais\nNe dis jamais au revoir, ne dis jamais au revoir\nNe pleure jamais, ne pleure jamais\nNe dis jamais au revoir, ne dis jamais au revoir\n\nDix-huit ans de mon Ivan\nPriez pour lui, un chant d'ange\n\nDonne-nous la paix, donne-nous la paix\nCiel d'amour, ciel d'amour\nDonne-nous la paix, donne-nous la paix\nCiel d'amour, ciel d'amour\n\nNe pleure jamais, ne pleure jamais\nNe dis jamais au revoir, ne dis jamais au revoir\nNe pleure jamais, ne pleure jamais\nNe dis jamais au revoir, ne dis jamais au revoir\n\nNe pleure jamaiѕ, Mon ciel croаte"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Don't Ever Cry",
+      "content": "Thousands of distant dreams, roses asleep in our hearts\nThousands of colourful butterflies, innocent like souls\n\nMy Ivan is eighteen years old\nPray for him, angels' song\n\nDon't ever cry, don't ever cry\nNever say goodbye, never say goodbye\nDon't ever cry, don't ever cry\nNever say goodbye, never say goodbye\n\nMy Ivan is eighteen years old\nPray for him, angels' song\n\nGive us peace, give us peace\nSky of love, sky of love\nGive us peace, give us peace\nSky of love, sky of love\n\nDon't ever cry. don't ever cry\nNever say goodbye, never say goodbye\nDon't ever cry, don't ever cry\nNever say goodbye, never say goodbye\n\nDon't ever cry, my Croatiаn ѕky"
+    }
+  ],
+  "bpm": 92,
+  "tone": "D major",
+  "artistPeople": [
+    "Anđela Jeličić",
+    "Melita Sedić",
+    "Naim Ajra",
+    "Olja Dešić",
+    "Pater Čučak",
+    "Vivien Galletta"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Andrej Basa"
+  ],
+  "conductor": "Andrej Basa",
+  "lyricists": [
+    "Đorđe Novković"
+  ],
+  "writers": null,
+  "broadcaster": "HRT",
+  "commentators": [
+    "Aco Kostadinov"
+  ],
+  "jury": null,
+  "spokesperson": "Veljko Đuretić"
+}

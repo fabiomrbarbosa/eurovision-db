@@ -1,0 +1,55 @@
+{
+  "id": 3,
+  "country": "EE",
+  "artist": "Ines",
+  "song": "Once In A Lifetime",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/mumDDE7s13o",
+    "https://www.youtube-nocookie.com/embed/_5EqdnXi7AY",
+    "https://www.youtube-nocookie.com/embed/5Tb3aC9BY_E",
+    "https://www.youtube-nocookie.com/embed/HH7aOhclNZk",
+    "https://www.youtube-nocookie.com/embed/J6hpbJYe840",
+    "https://www.youtube-nocookie.com/embed/ZQ8bfhjpbGQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Once In A Lifetime",
+      "content": "I don't wish I could turn back time, I can move the mountains higher than high\nDon't look back, hold on to your spirit, keep moving every minute\n\nI know it seems a little premature to live for the moment, I'm just a girl\nDon't look back, hold on to your spirit, keep moving every minute\n\nWhat you give is what you get - there ain't no regrets\n\nIf you give me wings and reason why then I'll be an angel in your sky\nBecause I'm seventeen only once in a lifetime\nRead my mind\n\nI'm ready, why are you standing still? Are you coming with me? - I know you will\nWe can search the world together, come on, baby, now or never\n\nWhat you give is what you get - there ain't no regrets\n\nIf you give me wings and reason why then I'll be an angel in your sky\nBecause I'm seventeen only once in a lifetime\nRead my mind\n\nIf you give me wings and reason why then I'll be an angel in your sky\nBecause I'm seventeen only once in a lifetime\nRead my mind\n\nI believe there's a better place always somewhere else instead\nI believe the grass is greener if I chase the magic no one else can find\n(The magic no one else can find)\n\nIf you give me wings and reason why then I'll be an angel in your sky\nBecause I'm seventeen only once in a lifetime\nRead my mind\n\nIf you give me wings and reason why then I'll be an angel in your sky\nBecause I'm seventeen only once in a lifetime\nRead my mind\n\nBecause I'm ѕeventeen only once in а lifetime"
+    }
+  ],
+  "bpm": 125,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Eda-Ines Etti"
+  ],
+  "backings": [
+    "Jelena Juzvik",
+    "Kadri 'Maiken' Koppel",
+    "Kaire Vilgats",
+    "Pearu Paulus",
+    "Tanel Padar"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Alar Kotkas",
+    "Ilmar Laisaar",
+    "Pearu Paulus"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Jana Hallas"
+  ],
+  "writers": null,
+  "broadcaster": "ERR",
+  "commentators": [
+    "Marko Reikop"
+  ],
+  "jury": null,
+  "spokesperson": "Evelin Samuel"
+}

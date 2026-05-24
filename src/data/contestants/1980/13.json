@@ -1,0 +1,59 @@
+{
+  "id": 13,
+  "country": "DK",
+  "artist": "Bamses Venner",
+  "song": "Tænker altid på dig",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ZKLyYj5-Yz0",
+    "https://www.youtube-nocookie.com/embed/tVVlqf94qJM",
+    "https://www.youtube-nocookie.com/embed/A9nnftod8zM",
+    "https://www.youtube-nocookie.com/embed/hUFmmc-zD3o",
+    "https://www.youtube-nocookie.com/embed/Rigmgv-nCr4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "danish"
+      ],
+      "displayedLanguages": null,
+      "title": "Tænker altid på dig",
+      "content": "Det er i dag, jeg skal af sted, min ven\nJeg glæder mig til vi skal ses igen\nFor det er her hos dig, jeg har det bedst\nJa, det er dig, jeg elsker allermest\nNår jeg sådan må forlade dig\nVed du så, at jeg…\n\nAltid tænker på dig?\nAt du er lyset for mig, der altid viser vej\n\nJeg ved, du drømmer om\nAt vi en dag ka' hygge os og bare slappe af\nAt vi ka' leve, li'som andre gør\nAt vi ka' få det, som vi havde før\nDet er svært at lave om på mig\nKa' det trøste lidt, at jeg…\n\nAltid tænker på dig?\nAt du er lyset for mig, der altid viser vej\n\nMin ven, jeg håber på, at du trods alt\nVil holde ud, vi har jo sammen valgt\nDet liv, der holder mig så længe væk\nTil tider op til flere døgn i træk\nNår jeg nu har sagt farvel til dig\nHåber jeg, du ved, at jeg…\n\nAltid tænker på dig\nAt du er lyset for mig, der altid viser vej\n\nJeg tænker altid på dig\nFor du er lyset for mig, der аltid viѕer vej"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Always thinking of you",
+      "content": "It's today that I'll be leaving, my friend\nI'm looking forward to when we meet again\nFor it is here with you I feel best\nYes, you're the one I love the most of all\nWhen I have to leave you like this\nDo you know that I'm…\n\nAlways thinking of you?\nThat you're my light, that always shows the way\n\nI know you have a dream\nThat one day we can enjoy ourselves and just relax\nThat we can live, like everybody else does\nThat we can get what we had before\nIt's hard to change me\nCan it comfort you, that I'm…\n\nAlways thinking of you?\nThat you're my light, that always shows the way\n\nMy friend I hope that you after all\nWill hang on, for we've together chosen\nThe life that keeps me away for so long\nSometimes several days running\nWhen I've now said goodbye to you\nI hope, you know, that I'm…\n\nAlways thinking of you\nThat you're my light, that always shows the way\n\nI'm always thinking about you\nFor you're my light, that always showѕ the wаy"
+    }
+  ],
+  "bpm": 91,
+  "tone": "F major",
+  "artistPeople": [
+    "Flemming Duun Jørgensen"
+  ],
+  "backings": [
+    "Arne Østergaard",
+    "Bjarne Gren Jensen",
+    "Mogens Balle"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Bjarne Gren Jensen"
+  ],
+  "conductor": "Allan Botschinsky",
+  "lyricists": [
+    "Flemming Bamse Jørgensen"
+  ],
+  "writers": null,
+  "broadcaster": "DR",
+  "commentators": [
+    "Jørgen de Mylius"
+  ],
+  "jury": null,
+  "spokesperson": "Bent Henius"
+}

@@ -1,0 +1,59 @@
+{
+  "id": 36,
+  "country": "LV",
+  "artist": "PeR",
+  "song": "Here We Go",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/xze_ilAXwWE",
+    "https://www.youtube-nocookie.com/embed/kFho4GEMHgI",
+    "https://www.youtube-nocookie.com/embed/e5PtwOA2IlM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Here We Go",
+      "content": "Here we go, here we go\nSo alive, in the sky we can fly\nHere we go, here we go\nSo alive, in the sky we can fly\n\nLadies and gentlemen, I need a starlight\n'Cause never have I had a day without a fight\nI slide through the darkness, it took me to a height\nOf a lonesome, cold and a never ending night\n\nI'm the man on the moon, call me Andy Kaufman\nThere are demons inside me but I'm-a stomp 'em\nI, I know I can be an unstoppable force\nI try, man, let me take a walk on the bright side\n\nHere we go, here we go\nSo alive, in the sky we can fly\nHere we go, here we go\nSo alive, in the sky we can fly\n\nA lot of thoughts in my head keep pulling me down\nSo many guests in my house, I couldn't notice the sound\nOf the doorbell, telling they're about to come\nI'm surrounded by problems, I got to run\n(But no) I keep pulling myself up\n(But no) I keep pulling myself up\nI'm on a mission to fulfill my vision\nAll day, everyday, never ever, ever give up\n\nHere we go, here we go\nSo alive, in the sky we can fly\n\nHere we go, here we go\nSo alive, in the sky we can fly\nHere we go, here we go\nSo alive, in the ѕky we cаn fly"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Allá vamos",
+      "content": "Allá vamos, allá vamos\nMuy vivos, en el cielo podemos volar\nAllá vamos, allá vamos\nMuy vivos, en el cielo podemos volar\n\nDamas y caballeros, necesito luz estelar\nPorque nunca he vivido un día sin lucha\nMe deslizo entre la oscuridad, y eso me elevó\nA una noche solitaria, fría y sin final\n\nSoy el hombre en la luna, llamadme Andy Kaufman\nLlevo demonios dentro, pero los machacaré\nYo, yo sé que puedo ser una fuerza imparable\nLo intento, tío, déjame caminar por el lado brillante\n\nAllá vamos, allá vamos\nMuy vivos, en el cielo podemos volar\nAllá vamos, allá vamos\nMuy vivos, en el cielo podemos volar\n\nMuchos pensamiento en mi mente me hacen caer\nMuchos invitados en mi casa, y no me fijé en el sonido\nDe la puerta, diciéndome que venían\nMe rodean los problemas, tengo que huir\n(Pero no) Sigo tirando de mí\n(Pero no) Sigo tirando de mí\nMe encuentro en una misión para cumplir mi visión\nTodo el día, todos los días, nunca jamás, jamás abandonaré\n\nAllá vamos, allá vamos\nMuy vivos, en el cielo podemos volar\n\nAllá vamos, allá vamos\nMuy vivos, en el cielo podemos volar\nAllá vamos, allá vamos\nMuy vivos, en el cielo podemoѕ volаr"
+    }
+  ],
+  "bpm": 100,
+  "tone": "F major",
+  "artistPeople": [
+    "Edmunds Rasmanis",
+    "Ralfs Eilands"
+  ],
+  "backings": [
+    "Arturas Burke",
+    "Lauris Valters"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Arturas Burke",
+    "Ralfs Eilands"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Ralfs Eilands"
+  ],
+  "writers": null,
+  "broadcaster": "LTV",
+  "commentators": [
+    "Kārlis Būmeisters",
+    "Valters Frīdenbergs"
+  ],
+  "jury": null,
+  "spokesperson": "Anmary"
+}

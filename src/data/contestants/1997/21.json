@@ -1,0 +1,55 @@
+{
+  "id": 21,
+  "country": "CH",
+  "artist": "Barbara Berta",
+  "song": "Dentro di me",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/uSzDtezlXS0",
+    "https://www.youtube-nocookie.com/embed/aebc15d6OK8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Dentro di me",
+      "content": "Uomo, guardati dentro, cosa ti scuote\nE ti fa sentire un po' perso\nIn questo enorme universo\nFatto di tante\n\nTroppe parole, dette per dire\nMai per capire\nCosa ti spinge lontano\nDa quel che è portata di mano\nMa irraggiungibile\n\nDentro di me, faccio spazio perché\nDentro di me, ho bisogno di te\nDentro di me, dentro di me\nTengo un posto per te\nChe hai bisogno di me\nHai bisogno di me\n\nUomo, apri la mente\nNon esitare a scoprirti nel bene e nel male\nAnche gli errori hanno il loro valore\nAiutano a crescere\n\nDentro di me, faccio spazio perché (perché)\nDentro di me, ho bisogno di te\nDentro di me, dentro di me\nTengo un posto per te\nChe hai bisogno di me\n\nDentro di me, prendo fiato perché\nDentro di me, ho corso fino da te\nDentro di me, dentro di me\nIo ti voglio anche se\nSei diverso da me\nSei diverso da me\n\nUomo, quanti misfatti\nQuali ragioni, ci ѕpingono tanto lontano\nQuando a portata di mano\nHаi l'incredibile?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Inside of me",
+      "content": "Man, look within, what moves you\nAnd makes you feel a bit lost\nIn this enormous universe\nMade of so many things\n\nToo many words, spoken to speak\nNever to be understood\nWhat keeps you away\nFrom what's within reach\nBut unreachable\n\nInside of me, I make room because\nInside of me, I need you\nInside of me, inside of me\nI keep a place for you\nWho needs me\nYou need me\n\nMan, open your mind\nDon't hesitate to unveal your good and bad sides\nAlso errors have their value\nThey help one to grow\n\nInside of me, I make room because (because)\nInside of me, I need you\nInside of me, inside of me\nI keep a place for you\nWho needs me\n\nInside of me, I take a breath because\nInside of me, I've been running to you\nInside of me, inside of me\nI want you even when\nYou're different to me\nYou're different to me\n\nMan, how many misunderstandings\nWhat reasons keep us ѕo far away from each other\nWhen within reаch\nYou've got the incredible?"
+    }
+  ],
+  "bpm": 155,
+  "tone": "D major",
+  "artistPeople": [
+    "Barbara Berta"
+  ],
+  "backings": [
+    "Fabio Ciboldi"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Pietro Damiani",
+  "lyricists": null,
+  "writers": [
+    "Barbara Berta"
+  ],
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Heinz Margot",
+    "Jonathan Tedesco",
+    "Pierre Grandjean",
+    "Roman Kilchsperger"
+  ],
+  "jury": null,
+  "spokesperson": "Sandy Altermatt"
+}

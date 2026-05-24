@@ -1,0 +1,58 @@
+{
+  "id": 7,
+  "country": "NO",
+  "artist": "Lars A. Fredriksen",
+  "song": "Alltid sommer",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/GA07JYQIlJQ",
+    "https://www.youtube-nocookie.com/embed/PVGuSGl6I2o",
+    "https://www.youtube-nocookie.com/embed/EaB86VY-RMY",
+    "https://www.youtube-nocookie.com/embed/adBsRdAEAiY",
+    "https://www.youtube-nocookie.com/embed/pDFOqduTzAg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "norwegian"
+      ],
+      "displayedLanguages": null,
+      "title": "Alltid sommer",
+      "content": "Dine øyne leser jeg som en åpen bok\nVed å leve sammen leser vi ord for ord\n(Det å være nær)\nDet handler om mer enn hva vi to kan se\n(For vi har mer)\nDet vi har, er så mye mer\n\nAlltid evig sommer, sa du\nOg du kom, og du så, og du vant mitt liv\nAlltid evig sommer, sa du\nHva de andre gjør nå betyr ingenting\nEvig varme dager, sa du\nOg rakte hendene ut og sa: Det føles ganske bra\nOh... (Alltid sommer, sa du)\n\nBare jeg kunne si med ord hva du er for meg\nVi lever, leker sammen, mens vi går samme vei\n(Det å elske deg)\nÅr for år, og dag for dag\n(Sammen med deg)\nEn glede som vokser med hvert hjerteslag\n\nAlltid evig sommer, sa du\nOg du kom, og du så, og du vant mitt liv\nAlltid evig sommer, sa du\nHva de andre gjør nå betyr ingenting\nEvig varme dager, sa du\nOg rakte hendene ut og sa: Det føles ganske bra\nOh... alltid sommer, sa du\n\nMin ensomhet forsvant og kjærligheten vant\nSå kom og la oss leve, du sa: Alltid evig sommer'\n\n(Alltid evig sommer, sa du)\nOg du kom, og du så, og du vant mitt liv\nAlltid evig sommer, sa du (Alltid evig sommer)\nHva de andre gjør nå betyr ingenting\nEvig varme dager, sa du\nOg rakte hendene ut og sa: Det føles ganske bra\nOh... alltid sommer, sa du\n(Ooh...) Alltid sommer, ѕа du"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Always summer",
+      "content": "I read your eyes like an open book\nLiving together we read each other word by word\n(To be near you)\nIt's more than just the two of us can see\n(Because we have more)\nWhat we have is so much more\n\nAlways eternal summer, you said\nAnd you came, and you saw, and you won my life\nAlways eternal summer, you said\nWhat the others do now, means nothing\nForever warm days, you said\nAnd reached out your hands and said: It feels quite good\nOh... (Always summer, you said)\n\nIf only I could find the words to tell what you mean to me\nWe live, play together, as we take the same road\n(To love you)\nYear by year, and day by day\n(Together with you)\nOur happiness grows with every heartbeat\n\nAlways eternal summer, you said\nAnd you came, and you saw, and you won my life\nAlways eternal summer, you said\nWhat the others do now, means nothing\nForever warm days, you said\nAnd reached out your hands and said: It feels quite good\nOh... always summer, you said\n\nMy loneliness vanished, and love won\nSo come and let us live, you said: Always eternal summer\n\n(Always eternal summer, you said)\nAnd you came, and you saw, and you won my life\nAlways eternal summer, you said (Always eternal summer)\nWhat the others do now, means nothing\nForever warm days, you said\nAnd reached out your hands and said: It feels quite good\nOh... always summer, you said\n(Ooh...) Always summer, you ѕаid"
+    }
+  ],
+  "bpm": 125,
+  "tone": "A major",
+  "artistPeople": [
+    "Lars Fredriksen"
+  ],
+  "backings": [
+    "Håvard Gryting"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "David Eriksen",
+    "Per-Kristian Ottestad"
+  ],
+  "conductor": "Geir Langslet",
+  "lyricists": [
+    "Linda Andernach Johansen"
+  ],
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "Jostein Pedersen"
+  ],
+  "jury": null,
+  "spokesperson": "Ragnhild Sælthun Fjørtoft"
+}

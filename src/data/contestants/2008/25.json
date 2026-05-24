@@ -1,0 +1,59 @@
+{
+  "id": 25,
+  "country": "MK",
+  "artist": "Tamara, Vrčak & Adrijan",
+  "song": "Let Me Love You",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/1MXMLTSR1Y4",
+    "https://www.youtube-nocookie.com/embed/7qVtoRMi6wU",
+    "https://www.youtube-nocookie.com/embed/LBBo630uAas",
+    "https://www.youtube-nocookie.com/embed/AKXqDoZDcOY",
+    "https://www.youtube-nocookie.com/embed/htisQHnww2s"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Let Me Love You",
+      "content": "Let's go\n\nLet's go, let's go, let's go\nWhat ya gonna do if I let you know\nYou're the only one I've been dreaming for\nI've never felt love like this before\n\nLet's go, let's go, let's go\nWhere the moon is full and the lights are low\nWe can do it so slow, kiss in slo-mo\nUntil dawn breaks, then I ride out solo\n\nYou always knew how to make me cry\nI feel so helpless without you\nI'm starting to lose my mind\nI wanna be with you tonight\n\nThe stars above glow like they're making love\nI'm running under the moonlight\nAlone in the sleepless night\nJust to be right by your side\n\nLet me love you, just let me love you\nUnfold your angel wings\nFly out from my wildest dreams\nLet me love you, just let me love you\nKiss me and let me die\nBefore you tell me goodbye\n\nLet's go, let's go, let's go\nWhat ya gonna do if I let you know\nYou're the only one I've been dreaming for\nI've never felt love like this before\n\nLet's go, let's go, let's go\nWhere the moon is full and the lights are low\nWe can do it so slow, kiss in slo-mo\nUntil dawn breaks, then I ride out solo\n\nYou always knew how to make me cry\nWho needs a smile when my tears\nAre so full of love inside\nAnd they are stronger than my pride\n\nLet me love you, just let me love you\nUnfold your angel wings\nFly out for my wildest dreams\nLet me love you, just let me love you\nKiss me and let me die\nBefore you tell me goodbye\n\nLet me love you, just let me love you\nKisѕ me аnd let me die\nBefore you tell me goodbye"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "macedonian"
+      ],
+      "displayedLanguages": null,
+      "title": "Во име на љубовта",
+      "content": "Како маѓепсан, буден те сонувам\nПолудам сам, а не те ни знам\nКако господар сам во ноќта цар\nКон тебе месечарам\nНад мене блеснала целата вселена\nЈас паѓам на колена во име на љубовта\n\nСама во себе заробена\nБез тебе секоја секунда убива, полека\nА јас не знам каде си\nВо ѕвездена прегратка градот мој заспива\nА јас сум некаде сама во ноќта изгубена\nЧекам да ме спасиш ти\n\nЗнам баш како ти е сам\nВо ноќта кога секоја секунда убива полека\nЗнам баш како ти е сам\nВо ноќта кога паѓаш на колена\nВо име на љубовта\n\nКако маѓепсан, буден те сонувам\nПолудам сам, а не те ни знам\nКако господар сам во ноќта цап\nКон тебе месечарам\nНад мене блеснала целата вселена\nЈас паѓам на колена во име на љубовта\n\nКако по вода да чекорам\nВо мисли тонам кон тебе и будна те сонувам\nНо ноќва ќе те пронајдам\n\nЗнам баш како ти е сам\nВо ноќта кога секоја секунда убива полека\nЗнам баш како ти е сам\nВо ноќта кога паѓаш на колена\nВо име на љубовта\n\n(Знам баш како ти е сам)\n(Во ноќта кога секоја секунда убива полека)\nЗнам баш како ти е сам\nВо ноќта кога паѓаш на колена\nВо име на љубовта"
+    }
+  ],
+  "bpm": 102,
+  "tone": "A minor",
+  "artistPeople": [
+    "Adrian Gaxha",
+    "Tamara Todevska",
+    "Rade Vrčakovski"
+  ],
+  "backings": [
+    "Aleksa Raifović",
+    "Nade Talevska",
+    "Toma Đorđević"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Rade Vrčakovski"
+  ],
+  "broadcaster": "MKRTV",
+  "commentators": [
+    "Milanka Rašik"
+  ],
+  "jury": null,
+  "spokesperson": "Ognen Janeski"
+}

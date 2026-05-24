@@ -1,0 +1,63 @@
+{
+  "id": 2,
+  "country": "MD",
+  "artist": "Sunstroke Project",
+  "song": "Hey Mamma",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/SWaQdHoCvYk",
+    "https://www.youtube-nocookie.com/embed/mvaLAs9cex4",
+    "https://www.youtube-nocookie.com/embed/prqZ8MSAPh4",
+    "https://www.youtube-nocookie.com/embed/QecWkJWB7zI",
+    "https://www.youtube-nocookie.com/embed/pPprtz36QSw",
+    "https://www.youtube-nocookie.com/embed/oc8rfE9u4Z0",
+    "https://www.youtube-nocookie.com/embed/aW2C1qXKxLE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Hey Mamma",
+      "content": "Hey, hey you\nYou won't ever hide what you think of me\nI see your clue\nNo, you worry about me, don't need to be\n\nHey, hey you\nIt's a girl and maybe she'll sleep at home\nBut I steal her alone\n\nAnd I say mamma, mamma, don't be so down\nI'm not that defendant boy\nMamma, mamma, don't be so down\nAll the kids going round and round\n\nMamma, mamma, don't be so mad\nIf you knew me you'd be surprised\nMamma, mamma, don't be so mad\n(She'll be back home till sunrise)\n\nLike the sun in the sea\nShe will disappear tonight with me\nI know we're not anymore\nDo what other cats did before\n\nHey, hey you (Hey you)\nIt's a girl and maybe she'll sleep at home\nBut I steal her alone\n\nAnd I say mamma, mamma, don't be so down\nI'm not that defendent boy\nMamma, mamma, don't be so down\nAll the kids going round and round\n\nMamma, mamma, don't be so mad\nIf you knew me you'd be surprised\nMamma, mamma, don't be so mad\n(She'll be back home till sunrise)\n\n(Mamma, mamma, ma…)\n(Mamma, mamma, ma…) Oh, mamma, mamma, ma…\n(Mamma, mamma, ma…)\n(Mamma, mamma, mamma)\n\n(Mamma, mamma, ma…)\n(Mamma, mamma, ma…) Oh, mamma, mamma, ma…\n(Mamma, mamma, ma…)\n(Mamma, mamma)\n\nAnd I say mamma, mamma, don't be so down\nI'm not that defendent boy\nMamma, mamma, don't be so down\nAll the kids going round and round\n\nMamma, mamma, don't be so mad\nIf you knew me you'd be surprised\nMamma, mamma, don't be so mad\nShe'll be back home till sunriѕe\n\nHey mamma, hey mamma, hey mamma ma…\nHey mamma, hey mamma, hey mamma ma…\nHey mamma, hey mamma, hey mamma ma…\nHey mamma, hey mamma (Hey bababa…)\n\nHey mamma, hey mamma, hey mamma ma…\nHey mamma, hey mamma, hey mamma ma…\nHey mamma mа…"
+    }
+  ],
+  "bpm": 110,
+  "tone": "Bb minor",
+  "artistPeople": [
+    "Sergei Yalovitsky",
+    "Anton Ragoza",
+    "Sergey Stepanov"
+  ],
+  "backings": [
+    "Catarina Sandu",
+    "Dana Markitan",
+    "Helena Abegaz"
+  ],
+  "dancers": null,
+  "stageDirector": "Maru Petrova",
+  "composers": [
+    "Anton Ragoza",
+    "Mihail Cebotarenco",
+    "Sergei Yalovitsky",
+    "Sergey Stepanov"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Alina Galetskaya"
+  ],
+  "writers": null,
+  "broadcaster": "TRM",
+  "commentators": [
+    "Gloria Gorceag"
+  ],
+  "jury": [
+    "Angela Socolov",
+    "Denis Zubov",
+    "Natan",
+    "Nelly Ciobanu",
+    "Valeria Barbas"
+  ],
+  "spokesperson": "Gloria Gorceag"
+}

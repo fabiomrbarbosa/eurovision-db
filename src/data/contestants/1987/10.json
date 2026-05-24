@@ -1,0 +1,60 @@
+{
+  "id": 10,
+  "country": "BE",
+  "artist": "Liliane Saint-Pierre",
+  "song": "Soldiers of Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/6TDwZnx8gKg",
+    "https://www.youtube-nocookie.com/embed/mGzlOjQ4h1k",
+    "https://www.youtube-nocookie.com/embed/elJaP4Is3Bw",
+    "https://www.youtube-nocookie.com/embed/2nS5Zbk0Ros"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "Soldiers of Love",
+      "content": "Een nieuwe dag, een nieuw schandaal\nWe zien geweld op het journaal\nKinderen gooit men in de strijd\nVoor idealen, voor profijt\n\nWe voelen ons schuldig\nMaar drinken een slokje wijn\nJe vraagt je voortdurend af\nWaarmee we bezig zijn\n\nLiefde verjaagt onenigheid\nReinigt je ziel, begraaft de strijd\nGewoon beginnen bij jezelf\nLangzaam naar buiten toe\n\nNeem elkaars handen\nSmeed nou die banden toe\nHoor je die verre kreet?\nGeen mens vraagt dat leed\n\nSoldiers of love – vuur liefde af\nGeen kogels meer, alle wapens neer\nSoldiers of love – vuur liefde af\nDe wapens neer, geen oorlog meer\n\nIk had een droom waarin ik zag\nDe hele wereld met een vlag\nWaarop in 't groot te lezen staat:\nWij willen vrede en geen haat\nUnited we stand, together we will fall\nLeg alle wapens neer, geen oorlog meer\n\nSoldiers of love – vuur liefde af\nGeen kogels meer, alle wapens neer\nSoldiers of love – vuur liefde af\nDe wapens neer, geen oorlog meer\n\nSoldiers of love\n\nSoldiers of love – vuur liefde af\nGeen kogels meer, alle wapens neer\nSoldiers of love – vuur liefde af\nDe wаpens neer, geen oorlog meer\n\nSoldierѕ of love"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Soldiers of Love",
+      "content": "A new day, a new scandal\nWe see violence in the news\nChildren are thrown in the battle\nFor ideals, for profits\n\nWe feel guilty\nBut sip our wine\nYou're asking yourself constantly\nWhat we are doing\n\nLove chases away discord\nPurifies your soul, buries the fighting\nJust start with your inner self\nAnd go slowly to the outside world\n\nTake each other's hands\nCome on, weld those bonds\nDo you hear that distant scream?\nNobody asks for that suffering\n\nSoldiers of love  – fire off love\nNo more bullets, all weapons down\nSoldiers of love  – fire off love\nThe weapons down, no more war\n\nI had a dream where I saw\nThe whole world with a flag\nOn which you could read in big:\nWe want peace and no hatred\nUnited we stand, together we will fall \nLay all weapons down, no more war\n\nSoldiers of love  – fire off love\nNo more bullets, all weapons down\nSoldiers of love  – fire off love\nThe weapons down, no more war\n\nSoldiers of love \n\nSoldiers of love  – fire off love\nNo more bullets, all weapons down\nSoldiers of love  – fire off love\nThe weapons down, no more wаr\n\nSoldierѕ of love"
+    }
+  ],
+  "bpm": 146,
+  "tone": "C minor",
+  "artistPeople": [
+    "Liliane Keuninckx"
+  ],
+  "backings": [
+    "Chris Peeters",
+    "Jan Hautekiet",
+    "Jean Bosco Safari"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Gyuri Spies",
+    "Marc de Coen"
+  ],
+  "conductor": "Freddy Sunder",
+  "lyricists": [
+    "Liliane Keuninckx"
+  ],
+  "writers": null,
+  "broadcaster": "BRT",
+  "commentators": [
+    "Claude Delacroix",
+    "Luc Appermont"
+  ],
+  "jury": null,
+  "spokesperson": "Anne Ploegaerts"
+}

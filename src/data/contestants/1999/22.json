@@ -1,0 +1,70 @@
+{
+  "id": 22,
+  "country": "ES",
+  "artist": "Lydia",
+  "song": "No quiero escuchar",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/bNwZVWBByIA",
+    "https://www.youtube-nocookie.com/embed/Q0cs8nLw4_g"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "No quiero escuchar",
+      "content": "Hace tiempo que ocultas la verdad\nTe traiciona tu tenue ingenuidad al hablar\n¿A quién tratas de engañar?\n\nVi dos sombras saliendo de un portal\nSeguí los pasos cómplice de la oscuridad\nDura realidad, oh yeah\nSentí morir al verla abrazándote\n\nNo, no quiero escuchar\nTu voz susurrar que me has querido\nSé cual es la verdad\nQuise confiar y me has mentido\n\nAhora dices que fue una confusión\nSólo celos, fruto de mí imaginación\nPartiste mi vida en dos\nOh yeah, sentí morir al verla abrazándote\n\nNo, no quiero escuchar\nTu voz susurrar que me has querido\nSé cual es la verdad\nQuise confiar y me has mentido\n\n(No) No\n(No quiero escuchar) No quiero escuchar\n(Tu voz susurrar) Susurrar\n(Que me has querido)\nSé cual es la verdad\nQui se confiar y me has mentido\n\nNo quiero eѕcuchаr"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": null,
+      "title": "אני לא רוצה לשמוע",
+      "content": "זה זמן רב שאת מסתירה את האמת\nהתמימות שלך בוגדת בך כשאת מדברת\nאֶת מי אַתְּ מנסה לרמות?\n\nראיתי שתי צלליות יוצאות מהדלת\nעקבתי אחר צעדיהן, מוסתרת בחשיכה\nמציאות קשה, אכן\nרציתי למות כשראיתי אותה מחבקת אותַךְ\n\nלא, אני לא רוצה לשמוע\nאת קולֵך הלוחש שאת אוהבת אותי\nאני יודעת מהי האמת\nרציתי להאמין, ושיקרתְ לי\n\nעכשיו את אומרת שזה היה בלבול\n\"רק קנאה\", \"תוצרי הדמיון שלי\"\nחציתְ את חיי לשניים\nרציתי למות כשראיתי אותה מחבקת אותך\n\nלא, אני לא רוצה לשמוע\nאת קולך הלוחש שאת אוהבת אותי\nאני יודעת מהי האמת\nרציתי להאמין, ושיקרת לי\n\n(לא), לא\n(אני לא רוצה לשמוע) אני לא רוצה לשמוע\n(את קולך הלוחש) לוחש\n(שאת אוהבת אותי)\nעכשיו אני יודעת מהי האמת\nרציתי להאמין, ושיקרת לי\n\nאני לא רוצה לשמוע"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I don't want to listen",
+      "content": "You've been hiding the truth for a long time\nYour plain naivety betrays you when you speak\nWho are you trying to fool?\n\nI saw two shadows going out of a door\nI followed the steps as an accomplice of the darkness\nHard reality, oh yeah\nI felt like dying when I saw her embracing you\n\nNo, I don't want to listen\nTo your voice whispering that you have loved me\nI know what the truth is\nI trusted in you and you've lied to me\n\nNow you say that it was a confusion\nOnly jealousy, the consequence of my imagination\nBroke my life in two\nOh yeah, I felt like dying when I saw her embracing you\n\nNo, I don't want to listen\nTo your voice whispering that you have loved me\nI know what the truth is\nI trusted in you and you've lied to me\n\n(No) No\n(I don't want to listen) I don't want to listen\n(To your voice whispering) Whispering\n(That you have loved me)\nI know what the truth is\nI trusted in you and you've lied to me\n\nI don't wаnt to liѕten"
+    }
+  ],
+  "bpm": 88,
+  "tone": "C# major",
+  "artistPeople": [
+    "Lydia Rodríguez Fernández"
+  ],
+  "backings": [
+    "Adel Hakki",
+    "Ángel Mora",
+    "Carolina Esteve",
+    "Paz Sacristán"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Alejandro Piqueras Ramírez",
+    "Fernando Rodríguez Fernández"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Adolfo Carmona Zamarreño",
+    "Alejandro Piqueras Ramírez",
+    "Carlos López González",
+    "Fernando Rodríguez Fernández"
+  ],
+  "writers": null,
+  "broadcaster": "TVE",
+  "commentators": [
+    "José Luis Uribarri"
+  ],
+  "jury": null,
+  "spokesperson": "Hugo de Campos"
+}

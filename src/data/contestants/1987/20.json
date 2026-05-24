@@ -1,0 +1,55 @@
+{
+  "id": 20,
+  "country": "LU",
+  "artist": "Plastic Bertrand",
+  "song": "Amour amour",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ATkC7pDcq70",
+    "https://www.youtube-nocookie.com/embed/frCMFyE8ekA",
+    "https://www.youtube-nocookie.com/embed/8J2OePm2BP4",
+    "https://www.youtube-nocookie.com/embed/I7SBC4ApjFk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Amour amour",
+      "content": "Amour, amour\nQu'est-ce que c'est bien quand tu nous tiens\nAmour, amour\nC'est toi, l'plus fort, le plus malin\n\nUn p'tit point rouge à l'horizon\nJ'remonte tout en haut du donjon\nC'est qu'ça avance\nQuelle délivrance – 'vrance\n\nAmène, c'est la bonne direction\nC'est l'heure de r'gonfler les ballons\nJ'suis plein d'ambiance, ouais\nPlein d'ambiance – 'biance\n\nAmour, amour\nQu'est-ce que c'est bien quand tu nous tiens\nAmour, amour\nC'est toi l'plus fort, le plus malin\n\nC'est la panique sur mon radar\nBeauté fatale, avoue c'est louche\nC'est pas mon jour, vendredi treize – treize\nJ'm'approche en douce, sans crier gare\nSûr de mon coup, surtout pas touche\nJ'suis pas à l'aise, elle en a qu'seize – seize\n\nAmour, amour\nQu'est-ce que c'est bien quand tu nous tiens\nAmour, amour\nC'est toi l'plus fort, le plus malin\n\nAmour, amour, quand tu nous tiens\nC'est toi l'cowboy, nous les indiens\nQu'est-ce que t'es dur\nQu'est-ce que t'es chien quand tu nous tiens\n\nSi elle se barre, j'fais tapisserie\nJ'ramasse tous ses petits cailloux\nEt je m'accroche\nQu'est-ce que c'est moche – moche\n\nAmour, amour\nQu'est-ce que c'est bien quand tu nous tiens\nAmour, amour\nC'est toi l'plus fort, le plus malin\n\nAmour, amour\nQu'est-ce que c'est bien quand tu nous tiens\nAmour, amour\nC'est toi l'plus fort, le plus malin\n\nAmour, amour\nQu'est-ce que c'est bien quаnd tu nous tienѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Love love",
+      "content": "Love, love\nHow good it is when you overpower us\nLove, love\nYou're the strongest, the cleverest\n\nA small red dot on the horizon\nI climb all the way up the dungeon again\nAs long as I'm getting somewhere\nWhat a release – 'lease\n\nGo on, it's the right direction\nIt's time to pump up the balloons again\nI'm full of good vibrations, yeah\nGood vibrations – 'brations\n\nLove, love\nHow good it is when you overpower us\nLove, love\nYou're the strongest, the cleverest\n\nMy radar is in panic\nFatal beauty, admit it's weird\nIt's not my day, Friday the thirteenth – thirteenth\nSoftly I come closer, unexpectedly\nSure of my ground, definitely no come-on\nI feel uncomfortable, she's only sixteen – sixteen\n\nLove, love\nHow good it is when you overpower us\nLove, love\nYou're the strongest, the cleverest\n\nLove, love, when you overpower us\nYou're the cowboy, we're the Indians\nHow rough you are\nHow nasty you are when you overpower us\n\nIf she clears off, I step aside\nI pick up all her little pebbles\nAnd I hang on\nThаt's rotten – rotten\n\nLove, love\nHow good it is when you overpower us\nLove, love\nYou're the strongest, the cleverest\n\nLove, love\nHow good it is when you overpower us\nLove, love\nYou're the strongest, the cleverest\n\nLove, love\nHow good it is when you overpower uѕ"
+    }
+  ],
+  "bpm": 143,
+  "tone": "F major",
+  "artistPeople": [
+    "Roger Jouret"
+  ],
+  "backings": [
+    "Patricia Maessen"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Alec Mansion",
+  "lyricists": null,
+  "writers": [
+    "Alec Mansion",
+    "Plastic Bertrand"
+  ],
+  "broadcaster": "CLT",
+  "commentators": [
+    "Valérie Sarn"
+  ],
+  "jury": null,
+  "spokesperson": "Frédérique Ries"
+}

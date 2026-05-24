@@ -1,0 +1,65 @@
+{
+  "id": 9,
+  "country": "CH",
+  "artist": "Carole Vinci",
+  "song": "Vivre",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/tvbJwQGF3wI",
+    "https://www.youtube-nocookie.com/embed/gUs5XU8tP5w",
+    "https://www.youtube-nocookie.com/embed/Djtdohq80mk",
+    "https://www.youtube-nocookie.com/embed/zSEh6crmtUA"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Vivre",
+      "content": "Pourquoi ne pas croire à la belle histoire\nQui fait chanter le cœur et les saisons?\nJe veux tout oublier dans tes bras\nEt tout recommencer avec toi\nPartager les couleurs et les chansons\n\nPourquoi ne pas suivre cette belle histoire?\nPourquoi ne pas sourire au nouveau jour?\nNous nous évaderons, mon amour\nEt nous retrouverons la chanson\nQue nous vivrons enfin à l'unisson\n\nVivre, nous allons vivre un million de bonheurs\nPour traverser les heures comme des oiseaux libres\nVivre, je veux le vivre, ce rêve musical\nPour cueillir les étoiles de l'amour\n\nPourquoi ne pas croire à la belle histoire\nQui fait chanter le cœur et le printemps?\nMa vie a commencé avec toi\nLe soleil s'est levé dans la joie\nTu m'as fait retrouver mon cœur d'enfant\n\nVivre, je veux le vivre, ce rêve musical\nPour cueillir les étoiles de l'amour\nVivre, nous аllons vivre\nEt renverser les heures\nPour cueillir les étoileѕ du bonheur"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "To live",
+      "content": "Why not believe in the beautiful story\nThat makes the hearts and seasons sing?\nI want to forget everything in your arms\nAnd start it all again with you\nShare the colours and the songs\n\nWhy not follow that beautiful story?\nWhy not smile at the new day?\nWe will escape my love\nAnd we will find again the song\nSo that we will live finally in harmony\n\nTo live, we will be living a million joys\nTo pass the hours like free birds\nTo live, I want to live this musical dream\nTo steal the stars of love\n\nWhy not believe in the beautiful story\nThat makes the heart and the spring sing?\nMy life has started with you\nThe sun rose in happiness\nYou made me find again my heart of a child\n\nTo live, I want to live, this musical dream\nTo steal the stars of love\nTo live, we will be living\nAnd turn back the hours\nTo steal the stars of hаppinesѕ"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Vivre, vivre heißt leben",
+      "content": "Die Tage der Liebe sind glücklich und schön\nIch will sie bald erleben, erleben mit dir\nWarum muss man sich denn nur streiten\nSorgen, die keiner will, bereiten?\nDafür ist doch die Zeit niemals gedacht\n\nMit dir wünsch' ich mir nur glücklich zu sein\nJeden Tag, der beginnt, nur noch mit dir\nNiemand vermag uns dann zu trennen\nDenn wir werden uns nur verwöhnen\nDamit wir es dann fühlen, was vivre heißt\n\nVivre, vivre heißt leben, frei wie Vögel im Wind\nLeben heißt sich vertrauen und auf Liebe bauen\nVivre heißt glücklich leben wie vor Jahren als Kind\nOhne Raum, ohne Grenzen, wie der Wind\n\nIch sehe die Träne auf deinem Gesicht\nDie macht mich so traurig, ich möcht' das nicht\nWarum muss man sich denn nur streiten\nSorgen, die keiner will, bereiten?\nDafür ist doch die Zeit niemals gedacht\n\nVivre, ich will ihn leben – diesen Trаum mit Musik\nJede Stunde genießen, die eѕ gibt\nVivre, vivre heißt leben, leben will ich mit dir\nKomm und reich mir die Hände, leb mit mir"
+    }
+  ],
+  "bpm": 135,
+  "tone": "E major",
+  "artistPeople": [
+    "Carole Vinci"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Alain Morisod"
+  ],
+  "conductor": "Daniel Janin",
+  "lyricists": [
+    "Pierre Alain"
+  ],
+  "writers": null,
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Georges Hardy",
+    "Giovanni Bertini",
+    "Theodor Haller"
+  ],
+  "jury": null,
+  "spokesperson": "Michel Stocker"
+}

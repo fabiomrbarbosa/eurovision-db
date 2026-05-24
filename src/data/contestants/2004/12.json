@@ -1,0 +1,53 @@
+{
+  "id": 12,
+  "country": "HR",
+  "artist": "Ivan Mikulic",
+  "song": "You Are The Only One",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/WnuBcWHRMjY",
+    "https://www.youtube-nocookie.com/embed/qomCjt4tWso",
+    "https://www.youtube-nocookie.com/embed/4xaOgkSf6Ok",
+    "https://www.youtube-nocookie.com/embed/LECnsKwXEY8",
+    "https://www.youtube-nocookie.com/embed/2P4vmPSuCM4",
+    "https://www.youtube-nocookie.com/embed/7rk35Efe9gg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "You Are The Only One",
+      "content": "Once again just hold me, let me feel you breathe\nSoftly kiss me on my face, love is all I need\nLonely moments, years, nothing before you\nFinally you're here, our love is true\n\nHold me once again, my dear, let your passion take me\nIn my heart there's harmony when you're close to me\nEven in my dreams, I really need to feel you\nForever we'll be one, our love is true\n\nYou are the only one, our love is timeless\nWhen you are by my side, I'm truly blessed with…\nWith only happiness\nI have got someone, someone of my own\nA part of me who lives for me\nWho would die for me\n\nHold me once again, my dear, let your passion take me\nIn my heart there's harmony when you're close to me\nEven in my dreams, I really need to feel you\nForever we'll be one, our love is true\n\nYou are the only one, our love is timeless\nWhen you are by my side, I'm truly blessed with…\nWith only happiness\nI have got someone, someone of my own\nA part of me who lives for me\nWho would die for me\n\nYou are the only one (Our love is timeless)\n(When you are) by my side, I'm truly blessed with…\nWith only happiness\nI have got someone of my own\nA part of me who lives for me\nWho would die for me\n\nA pаrt of me who liveѕ for me\nWho would die for me"
+    }
+  ],
+  "bpm": 107,
+  "tone": "E major",
+  "artistPeople": [
+    "Ivan Mikulić"
+  ],
+  "backings": [
+    "Daria Hodnik",
+    "Dragan Brnas-Fudo",
+    "Ivana Čabraja",
+    "Vladimir Pavelić-Bubi"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ivan Mikulić",
+    "Vedran Ostojić"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Duško Gruborović"
+  ],
+  "writers": null,
+  "broadcaster": "HRT",
+  "commentators": [
+    "Aco Kostadinov"
+  ],
+  "jury": null,
+  "spokesperson": "Barbara Kolar"
+}

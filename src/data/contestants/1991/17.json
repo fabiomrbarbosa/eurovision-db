@@ -1,0 +1,61 @@
+{
+  "id": 17,
+  "country": "DE",
+  "artist": "Atlantis 2000",
+  "song": "Dieser Traum darf niemals sterben",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/GyOOxDtY6jg",
+    "https://www.youtube-nocookie.com/embed/cu_e3Px8rv8",
+    "https://www.youtube-nocookie.com/embed/hPtD1XPXxIw",
+    "https://www.youtube-nocookie.com/embed/nHhSUq5nfAU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Dieser Traum darf niemals sterben",
+      "content": "Und sie lehrten uns zu kämpfen\nUnd wir lernten zu verlieren\nAuf der Suche nach der Freiheit\nLiessen wir uns oft verführen\n\nWas sie uns erzählten\nAlles haben wir geglaubt\nWarn auch viele Worte\nImmer nur auf Sand gebaut\n\nDoch die Zeit der Lügen, irgendwann ist sie vorbei\nWenn es keinen Hass mehr gibt, sind wir für immer frei\n\nDieser Traum darf niemals sterben\nDieser Traum darf nie vergehen\nVieles muss noch anders werden\nUnd noch so vieles muss geschehen\n\nDieser Traum darf niemals sterben\nUnd ein Wunder wird geschehen\nEinmal siegt die Liebe\nUnd unser Traum wird einmal in Erfüllung gehen\n\nAuf dem Weg zu neuen Ufern\nWurden viele Wünsche wahr\nDoch wir greifen nach den Sternen\nUnd vergessen die Gefahr\n\nNiemand sieht die Schatten\nDie uns folgen in der Nacht\nEiner gibt die Karten\nUnd wir sind in seiner Macht\n\nDoch die Zeit der Tränen, irgendwann ist sie vorbei\nWenn es keine Angst mehr gibt, sind wir für immer frei\n\nDieser Traum darf niemals sterben\nDieser Traum darf nie vergehen\nVieles muss noch anders werden\nUnd noch so vieles muss geschehen\n\nDieser Traum darf niemals sterben\nUnd ein Wunder wird geschehen\nEinmal siegt die Liebe\nUnd unѕer Traum wird einmаl in Erfüllung gehen"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "This dream must never die",
+      "content": "And they taught us to fight\nAnd we learnt to lose\nIn the search for freedom\nWe often let ourselves be seduced\n\nWhatever they told us\nWe believed in it all\nAlthough many words\nWere built of sand\n\nBut the time for lies will have to come to an end\nWhen there's no more hate, we will be forever free\n\nThis dream must never die\nThis dream must never disappear\nMany things must change\nAnd so much must happen\n\nThis dream must never die\nAnd a miracle will happen\nOnce love triumphs\nAnd our dream will come true\n\nOn the way to the future\nMany wishes will come true\nBut we reach for the stars\nAnd forget the danger\n\nNobody sees the shadow\nFollowing us at night\nSomeone deals the cards\nAnd we are in his power\n\nBut the time for tears will have to come to an end\nWhen there is no more fear, we will be forever free\n\nThis dream must never die\nThis dream must never disappear\nMany things must change\nAnd so much must happen\n\nThis dream must never die\nAnd a miracle will happen\nOnce love triumphѕ\nAnd our dreаm will come true"
+    }
+  ],
+  "bpm": 148,
+  "tone": "D major",
+  "artistPeople": [
+    "Alfons Weindorf",
+    "Clemens Weindorf",
+    "Eberhard Wilhelm",
+    "Helmut Frey",
+    "Jutta Niedhardt",
+    "Klaus Pröpper"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Alfons Weindorf"
+  ],
+  "conductor": "Herman Weindorf",
+  "lyricists": [
+    "Helmut Frey"
+  ],
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Max Schautzer"
+  ],
+  "jury": [
+    "Jürgen Jürgens"
+  ],
+  "spokesperson": "Christian Eckhardt"
+}

@@ -1,0 +1,62 @@
+{
+  "id": 7,
+  "country": "IT",
+  "artist": "Franca Raimondi",
+  "song": "Aprite le finestre",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/OuVmJmW-8wo",
+    "https://www.youtube-nocookie.com/embed/Jv_HLb3neiU",
+    "https://www.youtube-nocookie.com/embed/3IylriU5YI4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Aprite le finestre",
+      "content": "La prima rosa rossa è già sbocciata\nE nascon timide le viole mammole\nOrmai, la prima rondine è tornata:\nNel cielo limpido comincia a volteggiar\nIl tempo bello viene ad annunciar\n\nAprite le finestre al nuovo sole\nÈ primavera, è primavera\nLasciate entrare un poco d'aria pura\nCon il profumo dei giardini e i prati in fior\n\nAprite le finestre ai nuovi sogni\nBambine belle, innamorate\nÈ forse il più bel sogno che sognate\nSarà domani la felicità:\n\nNel cielo fra le nuvole d'argento\nLa luna ha già fissato appuntamento\nAprite le finestre al nuovo sole\nÈ primavera, festa dell'amor\n\nLa la la la la la la la la la la\nAprite le finestre al nuovo sol\n\nSul davanzale un piccolo usignolo\nDall'ali tenere, le piume morbide\nHa già spiccato il timido suo volo\nE contro i vetri ha cominciato a picchiettar\nIl suo più bel messaggio vuol portar:\n\nÈ primavera, è primavera\n\nAprite le finestre ai nuovi sogni\nAlle speranze, all'illusione\nLasciate entrare l'ultima canzone\nChe dolcemente scenderà nel cuor\n\nNel cielo fra le nuvole d'argento\nLa luna ha già fissato appuntamento\nAprite le finestre al nuovo sole\nÈ primavera, festa dell'amor\n\nLa la la la la la la la la la la\nAprite le fineѕtra al primo аmor"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Open your windows",
+      "content": "The first red rose has already blossomed\nAnd sweet-smelling violets shyly come up\nThe first swallow is back by now\nIt's starting to whirl in the clear sky\nIt comes to announce nice weather\n\nOpen your windows to the newly born sun\nIt's spring, it's spring\nLet a little fresh air in\nWith the smell of gardens and flowery meadows\n\nOpen your windows to new dreams\nBeautiful little girls in love\nIt's maybe the most beautiful dream you dream\nTomorrow it will be happiness\n\nIn the sky, among the silver clouds\nThe moon has already set a date\nOpen your windows to the newly born sun\nIt's spring, the festival of love\n\nLa la la la la la la la la la la\nOpen your windows to the newly born sun\n\nOn the window-sill a small nightingale\nWith tender wings and soft feathers\nHas already shyly flown up\nAnd it's started tapping on the glass\nIt wants to bring its most beautiful message:\n\nIt's spring, it's spring\n\nOpen your windows to new dreams\nTo hope, to illusion\nLet the last song in\nIt will softly go down into your heart\n\nIn the sky, among the silver clouds\nThe moon has already set a date\nOpen your windows to the new sun\nIt's spring, the festival of love\n\nLa la la la la la la la la la lа\nOpen your windows to the firѕt love"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Откройте окна",
+      "content": "Первая красная роза уже расцвела\nИ робкие наскоки фиалок\nВот уже и первая ласточка вернулась:\nВ чистом небе она начинает порхать\nНаступает хорошая погода\n\nОткройте окна навстречу новому солнцу\nЭто весна, это весна\nВпустите немного чистого воздуха\nС ароматом цветущих садов и лугов\n\nОткройте окна для новых мечтаний\nКрасивые девушки, влюбленные\nВозможно, самый прекрасный сон, который вам снится\nБудет завтрашним счастьем\n\nВ небе среди серебристых облаков\nЛуна уже назначила встречу\nОткройте окна навстречу новому солнцу\nВесна, праздник любви\n\nЛа-ла-ла-ла-ла-ла-ла\nОткройте окна навстречу новому солнцу\n\nНа подоконнике сидит соловей\nС нежными крыльями, мягкими перьями\nУже совершил свой робкий полет\nИ о стекло он начал биться\nОн хочет передать свое самое прекрасное послание:\n\nВесна, весна\n\nОткройте свои окна для новых мечтаний\nДля надежд, для иллюзий\nВпустите последнюю песню\nКоторая будет сладко звучать\n\nВ небе среди серебряных облаков\nЛуна уже назначила встречу\nОткройте окна для нового солнца\nВесна, праздник любви\n\nЛа-ла-ла-ла-ла-ла-ла\nОткройте окна навстречу первой любви"
+    }
+  ],
+  "bpm": 143,
+  "tone": "D major",
+  "artistPeople": [
+    "Franca Raimondi"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Virgilio Panzuti"
+  ],
+  "conductor": "Gian Stellari",
+  "lyricists": [
+    "Pinchi"
+  ],
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Bianca Maria Piccinino"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1,
+  "country": "DE",
+  "artist": "Wind",
+  "song": "Laß die Sonne in dein Herz",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/yPPLLYKMZPc",
+    "https://www.youtube-nocookie.com/embed/tSmb6tgg9gU",
+    "https://www.youtube-nocookie.com/embed/lLKsnjZoKj4",
+    "https://www.youtube-nocookie.com/embed/uRPF_63s3DY",
+    "https://www.youtube-nocookie.com/embed/Jt7ylxet3Xk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Laß die Sonne in dein Herz",
+      "content": "Lass die Sonne in dein Herz\nSchick die Sehnsucht himmelwärts\nGib dem Traum ein bisschen Freiheit\nLass die Sonne in dein Herz\n\nManchmal bist du traurig und weisst nicht warum\nTausend kleine Kleinigkeiten machen dich ganz stumm\nDu hast fast vergessen wie das ist, ein Mensch zu sein\nDoch du bist nicht allein\n\nLass die Sonne in dein Herz\nSchick die Sehnsucht himmelwärts\nGib dem Traum ein bisschen Freiheit\nLass die Sonne in dein Herz\n\nManchmal in den Nächten macht der Zorn dich blind\nUnd Gefühle sterben wie ein Kerzenlicht im Wind\nUnd der Mut vergeht dir, denn die Angst dringt in dich ein\nDoch du bist nicht allein\n\nLass die Sonne in dein Herz\nSchick die Sehnsucht himmelwärts\nGib dem Traum ein bisschen Freiheit\nLass die Sonne in dein Herz\n\nDu musst an dich glauben, Mitleid brauchst du keins\nUnd du musst dein Leben lieben, denn du hast nur eins\nNiemals mehr im Schatten stehen, geh ins Licht hinein\nDu bist nicht allein\n\nLass die Sonne in dein Herz\nSchick die Sehnsucht himmelwärts\nGeh ins Licht mit offnen Armen\nLass die Sonne in dein Herz\n\nLass die Sonne in dein Herz\nSchick die Sehnsucht himmelwärts\nGib dem Traum ein bisschen Freiheit\nLass die Sonne, lass die Sonne\nLаsѕ die Sonne in dein Herz"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Let the sun into your heart",
+      "content": "Let the sun into your heart\nSend your longing to heaven\nGive your dreams a little freedom\nLet the sun into your heart\n\nSometimes you feel sad and you don't know why\nThousands of little reasons are making you dumb\nYou nearly forgot what it's like to be a human being\nBut you are not alone\n\nLet the sun into your heart\nSend your longing to heaven\nGive your dreams a little freedom\nLet the sun into your heart\n\nSometimes in the nights anger makes you blind\nAnd feelings die like a candlelight in the wind\nAnd you are losing courage, because fear comes over you\nBut you are not alone\n\nLet the sun into your heart\nSend your longing to heaven\nGive your dreams a little freedom\nLet the sun into your heart\n\nYou have to believe in yourself, you don't need pity\nAnd you have to love your life, because you only have one\nNever stand in the shadow again, go into the light\nYou are not alone\n\nLet the sun into your heart\nSend your longing to heaven\nGo into the light with open arms\nLet the sun into your heart\n\nLet the sun into your heart\nSend your longing to heaven\nGive your dreams a little freedom\nLet the sun, let the sun\nLet the ѕun into your heаrt"
+    }
+  ],
+  "bpm": 93,
+  "tone": "F# major",
+  "artistPeople": [
+    "Alexander Heiler",
+    "Andi Lebbing",
+    "Christiane von Kutzsenbach",
+    "Petra Scheeser",
+    "Sami Kalifa"
+  ],
+  "backings": [
+    "Robert Pilatus"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Ralph Siegel"
+  ],
+  "conductor": "Laszlo Bencker",
+  "lyricists": [
+    "Gunter Johansen"
+  ],
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Christoph Deumling",
+    "Lotti Ohnesorge"
+  ],
+  "jury": null,
+  "spokesperson": "Kerstin Schweighöfer"
+}

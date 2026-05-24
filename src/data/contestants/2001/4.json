@@ -1,0 +1,53 @@
+{
+  "id": 4,
+  "country": "SE",
+  "artist": "Friends",
+  "song": "Listen To Your Heartbeat",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/xR4BFQYFzMU",
+    "https://www.youtube-nocookie.com/embed/7Nut0zMnNTw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Listen to your heartbeat",
+      "content": "I wanna know what you feel inside\nIs something wrong? Why did you leave last night?\nIs it all just a game? – Oh… tell me why we can't be lovers\n\nI do believe in the two of us\nThat you and me – we are the only ones\nAnd we were meant to be true, so tell me why we can't be lovers\n\nHow could I be such a fool\nI thought I already knew it all, but I know\nI was totally wrong\n\nListen to your heartbeat – it will take you higher\nFollow your emotions – I know you'll get stronger\nListen to your heartbeat – the feeling will guide you\nHold on to devotion – I know it's inside you\n\nHow will I know if you're fooling me?\nMaybe I'm wrong, but it seems to be\nLike it's all just a game, and I just want us to be lovers\n\nWe had it all in our hands\nJust like those all happy ends\nI still don't know why, but we lost it somehow\n\nListen to your heartbeat – it will take you higher\nFollow your emotions – I know you'll get stronger\nListen to your heartbeat – the feeling will guide you\nHold on to devotion – I know it's inside you\n\nOne more chance to make a try\nNothing left to do for you and I\n\nListen to your heartbeat – it will take you higher\nFollow your emotions – I know you'll get stronger\nListen to your heartbeat – the feeling will guide you\nHold on to devotion – I know it's inside you\n\nLiѕten to your heartbeаt"
+    }
+  ],
+  "bpm": 139,
+  "tone": "E major",
+  "artistPeople": [
+    "Kim Kärnfalk",
+    "Kristian Hermanson",
+    "Nina Karin Elise Inhammar",
+    "Stefan Mats Erik Brunzell",
+    "Tony Kristian Erland Haglund"
+  ],
+  "backings": [
+    "Jaana Vähämäki"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Daniël Ditmar",
+    "Henrik Sethsson",
+    "John Terra",
+    "Thomas G:son"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Henrik Sethsson",
+    "Thomas G:son"
+  ],
+  "writers": null,
+  "broadcaster": "SVT",
+  "commentators": [
+    "Henrik Olsson"
+  ],
+  "jury": null,
+  "spokesperson": "Josefine Sundström"
+}

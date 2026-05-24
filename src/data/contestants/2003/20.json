@@ -1,0 +1,46 @@
+{
+  "id": 20,
+  "country": "EE",
+  "artist": "Ruffus",
+  "song": "Eighties Coming Back",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/pHGmKw5QOb8",
+    "https://www.youtube-nocookie.com/embed/DGQHyZrdyI0",
+    "https://www.youtube-nocookie.com/embed/bjdt4A7o2eA"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Eighties coming back",
+      "content": "You thought you had it coming\nBut now you really, really just don't know\nIt seems you make a deal far too big outta this\n\nAha, you thought that you'd done it\nYeah, you thought that you had heard it all\nBut the state of things is putting you down now\nJust because, whoah…\n\nYou know they say it's just the eighties coming back\nCan you feel it's the eighties coming back?\nYeah, I know it's just the eighties coming\nEighties coming, eighties coming\nEighties coming back\n\nYou said let's do it\nLet's take it out and dance all night\nBut those deep synthesizer sounds freak you out\nWhoah…\n\nAnd now you wake up in the middle of the night\nIn terror, all you do is cry\nCold sweat, a cup of tea, no nothing seems to help you\nThrough the night, my God\n\nNow, it feels just like the eighties coming back\nCan you feel it's the eighties coming back?\nYeah, I know it's just the eighties coming\nEighties coming, eighties coming\nEighties coming back\n\nYeah, you thought you had it coming\nBut now it looks like you didn't know this\nBut everybody's wearing their hair\nThe way you did fifteen years ago\nAnd it makes you wanna cry\n\nOh, it feels just like the eighties coming back\nCan you feel it? It's the eighties coming back\nYeah, I know it's just the eighties coming\nEighties coming, eighties coming\nEightieѕ coming bаck"
+    }
+  ],
+  "bpm": 131,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Ivo Etti",
+    "Jaan Pehk",
+    "Margus Tohver",
+    "Siim Mäesalu",
+    "Vaiko Eplik"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Vaiko Eplik"
+  ],
+  "broadcaster": "ERR",
+  "commentators": [
+    "Marko Reikop"
+  ],
+  "jury": null,
+  "spokesperson": "Ines"
+}

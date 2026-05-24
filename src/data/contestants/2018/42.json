@@ -1,0 +1,76 @@
+{
+  "id": 42,
+  "country": "IS",
+  "artist": "Ari Ólafsson",
+  "song": "Our Choice",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/RQytWeg9CzE",
+    "https://www.youtube-nocookie.com/embed/g7Fm3D2jby8",
+    "https://www.youtube-nocookie.com/embed/4Z_QQGCaoRs",
+    "https://www.youtube-nocookie.com/embed/qGNr1bWyg9g",
+    "https://www.youtube-nocookie.com/embed/zpI8yjxITX0",
+    "https://www.youtube-nocookie.com/embed/vmiU5-DsJVE",
+    "https://www.youtube-nocookie.com/embed/ZjMPpVJnCSc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Our Choice",
+      "content": "All the faces you see on your way\nHave a story they could tell\nTiny traces of life's joy and sorrow\nWhy can't we treat each other well\n\nWe all have a choice we can make\nThere's always a choice we can make\nTo help and to heal in different ways\nToo many are dying in vain\nTogether we could ease the pain\nIf somehow we could ease the pain\n\nIn every single language\nThere's a word for love and for blame\nDifferent voices, cultures and people and places\nInside we're all the same\n\nWe all have a choice we can make\nThere's always a choice we can make\nTo help and to heal in different ways\nToo many are dying in vain\nTogether we could ease the pain\nIf somehow we could ease the pain\n\nWe've only got each other now\nDon't walk away and play pretend\nIt might as well be you\nWho's suffering tonight\n\nWe all have a choice we can make\nThere's always a choice we can make\nTo help and to heal in different ways\nToo many are dying in vain\nTogether we could ease the pain\nIf somehow we could eaѕe the pain\nTogether we could make a chаnge"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Nossa Escolha",
+      "content": "Todos os rostos que você viu em seu caminho\nTêm uma história que podem contar\nPequenos traços de alegria e tristeza da vida\nPor que não podemos nos tratar bem?\n\nTodos nós temos uma escolha que podemos fazer\nSempre há uma escolha que podemos fazer\nPara ajudar a curar de maneiras diferentes\nMuitos estão morrendo por nada\nJuntos, nós poderíamos aliviar essa dor\nSe de alguma forma nós pudéssemos aliviar essa dor\n\nEm cada língua\nHá uma palavra para amor e para culpa\nDiferentes vozes, culturas, pessoas e lugares\nPor dentro somos todos iguais\n\nTodos nós temos uma escolha que podemos fazer\nSempre há uma escolha que podemos fazer\nPara ajudar a curar de maneiras diferentes\nMuitos estão morrendo por nada\nJuntos, nós poderíamos aliviar essa dor\nSe de alguma forma nós pudéssemos aliviar essa dor\n\nNós só temos um ao outro agora\nNão vá embora e finja\nQue pode muito bem ser você\nQuem está sofrendo esta noite\n\nTodos nós temos uma escolha que podemos fazer\nSempre há uma escolha que podemos fazer\nPara ajudar a curar de maneiras diferentes\nMuitos estão morrendo por nada\nJuntos, nós poderíamos aliviar essa dor\nSe de alguma forma nós pudéssemos aliviar essa dor\nJuntos, poderíamoѕ fazer uma mudançа"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "icelandic"
+      ],
+      "displayedLanguages": null,
+      "title": "Heim",
+      "content": "Í augum þeirra sem mæta mér\nLeynist mósaík minninga\nÓteljandi myndir af gleði og sorgum\nAf þeim aðeins lítil brot þú sérð\n\nÉg leita að leiðinni heim\nVið leitum að leiðinni heim\nÞað heyja allir sálarstríð\nÍ einmanaleikans byl\nVið getum öll hjálpað til\nÞá lifnar þitt hjarta við\n\nÁ hlýrri sumarnóttu\nFagurt brosið dáleiddi mig\nAugun full af skilningi, ástríðu og ótta\nÓtta við að finna aftur til\n\nÉg leita að leiðinni heim\nVið leitum að leiðinni heim\nÞað heyja allir sálarstríð\nÍ einmanaleikans byl\nVið gætum öll hjálpað til\nÞá lifnar kannski hjartað við\n\nEf gæfan blæs okkur í hag\nÉg læt sem ekkert vont sé að\nEn stundum dimmir hratt\nOg myrkrið hylur dag\n\nÉg leita að leiðinni heim\nVið leitum að leiðinni heim\nÞað heyja allir sálarstríð\nÍ einmanaleikans byl\nVið getum öll hjálpað til\nÞá lifnar kulið hjarta við\nVið ѕaman gætum hjálpаð til"
+    }
+  ],
+  "bpm": 130,
+  "tone": "B major",
+  "artistPeople": [
+    "Ari Ólafsson"
+  ],
+  "backings": [
+    "Arna Rún Ómarsdóttir",
+    "Erla Stefánsdóttir",
+    "Gunnar Leó Pálsson",
+    "Vignir Snær Vigfússon",
+    "Þórunn Erna Clausen"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Þórunn Erna Clausen"
+  ],
+  "broadcaster": "RÚV",
+  "commentators": [
+    "Gísli Marteinn Baldursson"
+  ],
+  "jury": [
+    "Erla Jónatans",
+    "Hannes Heimir Friðbjarnarson",
+    "Hlynur Ben",
+    "Jón Rafnsson",
+    "Védís Hervör"
+  ],
+  "spokesperson": "Edda Sif Pálsdóttir"
+}

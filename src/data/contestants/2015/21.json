@@ -1,0 +1,53 @@
+{
+  "id": 21,
+  "country": "CY",
+  "artist": "John Karayiannis",
+  "song": "One Thing I Should Have Done",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/RUNEoMBLGc8",
+    "https://www.youtube-nocookie.com/embed/tXU2Hehc4wY",
+    "https://www.youtube-nocookie.com/embed/r7qMNtK9uM8",
+    "https://www.youtube-nocookie.com/embed/fE7pBVqSjdU",
+    "https://www.youtube-nocookie.com/embed/goNCXtHQ9nM",
+    "https://www.youtube-nocookie.com/embed/hLYx4dSSzMw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "One Thing I Should Have Done",
+      "content": "Tonight the rain is falling\nI'm feeling cold\nAnd I'm mad, off my mind without you\n\nMy head is spinning like a top\nBack to the time we had a lot\nGoing on\n\nNow my world lies shattered\nHow quickly life can change\n\nI always did everything for you\nI gave you my heart\nYou gave me yours, too\nYou make me feel I was really someone\nBut there's one thing I should have done\n\nOne day you think you'll have it all\nNext you're staring at the wall\nIn a dream\n\nThe road that once was paved\nWith gold's turned a rusty shade\nOf all the saddest colours in the world\n\nNow, my life's in tatters\nHow quickly it all can change\n\nI always did everything for you\nI gave you my heart\nYou gave me yours, too\nYou've made me feel I was really someone\nBut there's one thing I should have done\n\nI should have been there for you\nI should have been there for you\nI should have been there for you\nI should have been there\nI didn't do everything for you\nBut I tried so hard and that's the truth\n\nI'd make you feel you were really someone\nBut there's one thing I should have done\nI merely did everything for you\nI broke your heart, now mine's broken, too\nIn your hour of need I didn't come\nThat's the one thing I ѕhould hаve done"
+    }
+  ],
+  "bpm": 180,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Giannis Karagiannis (Γιάννης Καραγιάννης)"
+  ],
+  "backings": [
+    "Christopher Madin"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Mike Connaris"
+  ],
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Melina Karageorgiou"
+  ],
+  "jury": [
+    "Andreas Giortsios",
+    "Argyro Christodoulidou",
+    "Elias Antoniades",
+    "Gore Melian",
+    "Stella Stylianou"
+  ],
+  "spokesperson": "Loukas Hamatsos"
+}

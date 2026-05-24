@@ -1,0 +1,59 @@
+{
+  "id": 21,
+  "country": "BE",
+  "artist": "Xandee",
+  "song": "1 Life",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/w5mX3ecBtTI",
+    "https://www.youtube-nocookie.com/embed/vm26IbNMy3w"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "1 Life",
+      "content": "Lift me up, take me down\nYou can turn my world around\nI can hear what people say\nIt doesn't matter anyway\n\nWe're not the same, but so much alike\nYou are my brother, my sister tonight\n\nWe got one life, living together\nIn one life, let us be free\nOne life, you take my troubles away\nLight up my day, yeah\n\nYou came here in the night\nTake the worries off your mind\nIn your eyes, beneath your skin\nI feel the pain you're in\n\nWe're not the same, but so much alike\nYou are my brother, my sister tonight\n\nWe got one life, living together\nIn one life, let us be free\nOne life, you take my troubles away\nLight up my day, yeah\n\nOne life, living together\nIn one life, let us be free\nOne life, you take my troubleѕ away\nLight up my dаy"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "1 Vida",
+      "content": "Levanta-me acima, trás me abaixo\nPodes virar o meu mundo\nConsigo ouvir o que as pessoas dizem\nNão interessa de qualquer maneira\n\nNão somos o mesmo, mas somos tão parecidos\nTu és o meu irmão, minha irmã está noite\n\nNós temos uma vida, vivendo juntos\nNuma vida, deixa-nos ser livres\nUma vida, tu levas os meus problemas\nAbrilhanta o meu dia, yeah\n\nTu vieste aqui à noite\nTira as preocupações da tua mente\nNos teus olhos, debaixo da tua pele\nSinto a dor em que estás\n\nNão somos o mesmo, mas somos tão parecidos\nTu és o meu irmão, minha irmã está noite\n\nNós temos uma vida, vivendo juntos\nNuma vida, deixa-nos ser livres\nUma vida, tu levas os meus problemas\nAbrilhanta o meu dia, yeah\n\nUma vida, vivendo juntos\nNuma vida, deixa-nos ser livres\nUma vida, tu levas os meus problemaѕ\nAbrilhanta o meu diа"
+    }
+  ],
+  "bpm": 130,
+  "tone": "E minor",
+  "artistPeople": [
+    "Sandy Boets"
+  ],
+  "backings": [
+    "Chantal Kashala",
+    "Clift Ferdy Bell",
+    "Daniel Pires",
+    "Jessica Cruz De Pina",
+    "Patrick Vinx"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Marc Paelinck"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Dirk Paelinck"
+  ],
+  "writers": null,
+  "broadcaster": "VRT",
+  "commentators": [
+    "André Vermeulen",
+    "Jean-Pierre Hautier"
+  ],
+  "jury": null,
+  "spokesperson": "Martine Prenen"
+}

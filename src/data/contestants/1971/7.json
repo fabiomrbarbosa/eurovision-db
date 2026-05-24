@@ -1,0 +1,54 @@
+{
+  "id": 7,
+  "country": "FI",
+  "artist": "Markku Aro and Koivisto Sisters",
+  "song": "Tie uuteen päivään",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/V_11CcVeSH0",
+    "https://www.youtube-nocookie.com/embed/t-maurT2w2s",
+    "https://www.youtube-nocookie.com/embed/0BcDwH4_k90"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Tie uuteen päivään",
+      "content": "On pala maata ja pala vettä\nJa pala tulta polttavaa\nOn ihmismieli ja paha kieli\nEi tahdo tulta sammutta\n\nTuo kaikki meidät uuteen päivään johtaa\nNyt onko syytä surra tulevaa?\nKun muita tiellä kulkevia kohtaa\nJa kaikki on niin mukavaa\n\nNyt sinne uuteen päivään kaikki kulkee\nJa toiset näyttää mistä löytyy tie\nJos kerran silmät huomiselta sulkee\nTie helppo mukanaan jo vie\n\nMaailma valmis jo on\nTieto muutumaton nyt ohjailee\nAika niin mittaamaton\nMeitä palveltuaan joku loppunut on?\n\nKun yksi ottaa ja toinen antaa\nJa kolmas huutaa janoissaan\nEt tunne heitä ei hekään meitä\nJa samaa tietä kuljetaan\n\nTuo kaikki meidät uuteen päivään johtaa\nNyt onko syytä surra tulevaa?\nKun muita tiellä kulkevia kohtaa\nJa kaikki on niin mukavaa\n\nNyt sinne uuteen päivään kaikki kulkee\nJa toiset näyttää mistä löytyy tie\nJos kerran silmät huomiselta sulkee\nTie helppo mukanaan jo vie\n\nNyt sinne uuteen päivään kaikki kulkee\nJa toiset näyttää mistä löytyy tie\nJos kerran silmät huomiselta ѕulkee\nTie helppo mukanaаn jo vie"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Way to a new day",
+      "content": "There's a piece of land and a piece of water\nAnd a piece of burning fire\nThere's a human mind and bad tongue\nDoesn't want to put out the fire\n\nAll that will lead us to a new day\nIs there a reason to worry for the future now?\nWhen you meet other people on the way\nAnd everything is so nice\n\nNow everyone goes there to the new day\nAnd others show, where you can find the way\nIf you once close your eyes from tomorrow\nThe easy road takes you along\n\nThe world is now ready\nThe unchanging knowledge is now guiding\nThe time, so immeasurable\nHas it already ended after serving us?\n\nWhen one takes, and another one gives\nAnd a third one shouts thirsty\nYou don't know them, they don't know us\nAnd we go the same way\n\nAll that will lead us to a new day\nIs there a reason to worry for the future now?\nWhen you meet other people on the way\nAnd everything is so nice\n\nNow everyone goes there to the new day\nAnd others show, where you can find the way\nIf you once close your eyes from tomorrow\nThe easy road takes you along\n\nNow everyone goes there to the new day\nAnd others show, where you can find the way\nIf you once close your eyes from tomorrow\nThe easy road takeѕ you аlong"
+    }
+  ],
+  "bpm": 77,
+  "tone": "D minor",
+  "artistPeople": [
+    "Markku Puputti"
+  ],
+  "backings": [
+    "Anja Koivisto",
+    "Anneli Koivisto"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Ossi Runne",
+  "lyricists": null,
+  "writers": [
+    "Rauno Lehtinen"
+  ],
+  "broadcaster": "YLE",
+  "commentators": [
+    "Heikki Seppälä"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

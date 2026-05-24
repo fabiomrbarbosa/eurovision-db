@@ -1,0 +1,58 @@
+{
+  "id": 32,
+  "country": "NL",
+  "artist": "Trijntje Oosterhuis",
+  "song": "Walk Along",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/O_fs4SPGyF0",
+    "https://www.youtube-nocookie.com/embed/eSZwKW3RqT0",
+    "https://www.youtube-nocookie.com/embed/_W2jgj8ijdA",
+    "https://www.youtube-nocookie.com/embed/WA_9UZKgz0I",
+    "https://www.youtube-nocookie.com/embed/sEBeLw2xO_I"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "",
+      "content": "I open up my heart to you\nI cry for your attention\nStill you haven't seen it yet\nYou only see me as a friend\nBut I wish you were waiting\nWith roses at sunset\nWhy? why-y-y, why-y-y-y?\nWon't you walk along, walk along\nBaby\nWhy? why-y-y, why-y-y-y?\nWon't you walk along, walk along\nBaby\n\nGentle smile passing your way\nIt's not that I don't try\nBut you don't even notice me here\nIn another time and place,\nAnother lifetime maybe\nIf only for a little while\nWhy? why-y-y, why-y-y-y?\nWon't you walk along, walk along\nBaby\nWhy? why-y-y, why-y-y-y?\nWon't you walk along, walk along\nBaby\n\nI don't seem to get you\nTo look at me one time\nWon't you walk along, walk along\nBaby, this is not a little cruѕh\nDon't wanna wait in line\nWon't you walk along, walk along\nBaby!\n\nUuh uuh\nUuh uuh\nI love you, I love you baby\nUuh uuh\nUuh uuh\nIf only for a little while\n\nWhy? why-y-y, why-y-y-y?\nWon't you walk along, walk along\nBaby\nWhy? why-y-y, why-y-y-y?\nWon't you walk along, walk along\nBaby\nWhy? Why-y-y, why-y-y-y?\nI love you, I love you baby\nWhy? Why-y-y, why-y-y-y?\nWon't you walk along, walk along bаby"
+    }
+  ],
+  "bpm": 86,
+  "tone": "F# major",
+  "artistPeople": [
+    "Judith Katrijntje Oosterhuis"
+  ],
+  "backings": [
+    "Jenny Lane",
+    "Lesley van der Aa",
+    "Michelle Oudeman",
+    "Patt Riley"
+  ],
+  "dancers": null,
+  "stageDirector": "Hans Pannecoucke",
+  "composers": [
+    "Tobias Karlsson"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Anouk Teeuwe"
+  ],
+  "writers": null,
+  "broadcaster": "AVROTROS",
+  "commentators": [
+    "Cornald Maas",
+    "Jan Smit"
+  ],
+  "jury": [
+    "Carolina Dijkhuizen",
+    "Dominique Rijpma",
+    "Florent Luyckx",
+    "Gijs Staverman",
+    "Maurice Wijnen"
+  ],
+  "spokesperson": "Edsilia Rombley"
+}

@@ -1,0 +1,72 @@
+{
+  "id": 38,
+  "country": "FI",
+  "artist": "Darude feat. Sebastian Rejman",
+  "song": "Look Away",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/VSPhIwOJfRs",
+    "https://www.youtube-nocookie.com/embed/B5hBZC-SIsE",
+    "https://www.youtube-nocookie.com/embed/d4DPGAJhSac",
+    "https://www.youtube-nocookie.com/embed/xJNBlunLhOE",
+    "https://www.youtube-nocookie.com/embed/uxSt5pwHCH8",
+    "https://www.youtube-nocookie.com/embed/lVNu_6X8arI",
+    "https://www.youtube-nocookie.com/embed/-2LpaBLZPc4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Look Away",
+      "content": "There's something you should know\nThat I can't sing a love song anymore\nThere's something going on\nAnd I can't turn my back on it anymore\n\nHow can we go to sleep at night\nAnd lay there in our beds\nWhen we know what's going on\nWith the world today\n\nIs it in my head?\nAm I the only one?\nIs it in my head?\nWhere the war has just begun?\n\nWe look away\nLook away, look away, look away, hey\nLook away, look away, look away, look away\nNo-o-o\n\nIs it in my head?\nIs it in my head?\nLook away look away, hey\nNo-o-o\n\nThere's something in the air at night\nThat feels so different\nAnd I don't understand\nI didn't see this one coming\n\nHow can we go to sleep at night\nAnd lay there in our beds\nWhen we know what's going on\nWith the world today\n\nIs it in my head?\nAm I the only one?\nIs it in my head?\nWhere the war has just begun?\n\nWe look away\nLook away, look away, look away, hey\nLook away, look away, look away, look away\n\nIs it in my head?\nAm I the only one?\nIs it in my head?\nWhere the war has juѕt begun?\n\nWe look away\nLook away, look away, look away, hey\nLook away, look away, look away, look awаy, hey\nNo-o-o"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Отворачиваемся",
+      "content": "Ты кое-что должна знать\nЯ больше не могу петь о любви\nПока что-то происходит\nЯ не могу закрыть на это глаза\n\nКак мы можем спать ночью\nЛежа в своих кроватях?\nКогда мы знаем\nЧто происходит с миром\n\nМожет это только в моей голове?\nМожет я один такой?\nТолько в моей голове?\nГде началась война\n\nМы отворачиваемся\nОтворачиваемся, отворачиваемся, отворачиваемся, хей\nОтворачиваемся, отворачиваемся, отворачиваемся, отворачиваемся\nНет\n\nЭто только в моей голове?\nЭто только в моей голове?\nОтворачиваемся, отворачиваемся, хей\nНет\n\nЧто-то витает в воздухе по ночам\nЧувства противоречивы\nИ я не понимаю\nПричин происходящего\n\nКак мы можем спать ночью\nЛежа в своих кроватях?\nКогда мы знаем\nЧто происходит с миром\n\nМожет это только в моей голове?\nМожет я один такой?\nТолько в моей голове?\nГде началась война\n\nМы отворачиваемся\nОтворачиваемся, отворачиваемся, отворачиваемся, хей\nОтворачиваемся, отворачиваемся, отворачиваемся, отворачиваемся\n\nМожет это только в моей голове?\nМожет я один такой?\nТолько в моей голове?\nГде началась война\n\nМы отворачиваемся\nОтворачиваемся, отворачиваемся, отворачиваемся, хей\nОтворачиваемся, отворачиваемся, отворачиваемся, отворачиваемся\nНет"
+    }
+  ],
+  "bpm": 126,
+  "tone": "Bb minor",
+  "artistPeople": [
+    "Toni-Ville Henrik Virtanen",
+    "Sebastian Rejman"
+  ],
+  "backings": [
+    "Heini Ikonen",
+    "Matti Leino",
+    "Petri Somer"
+  ],
+  "dancers": [
+    "Etel Röhr"
+  ],
+  "stageDirector": "Reija Wäre",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Ville Virtanen",
+    "Sebastian Rejman"
+  ],
+  "broadcaster": "YLE",
+  "commentators": [
+    "Eva Frantz",
+    "Johan Lindroos",
+    "Krista Siegfrids",
+    "Mikko Silvennoinen"
+  ],
+  "jury": [
+    "Eva Louhivuori",
+    "Janne Hyöty",
+    "Lasse Wikman",
+    "Samuli Sirviö",
+    "Susanna Vainiola"
+  ],
+  "spokesperson": "Christoffer Strandberg"
+}

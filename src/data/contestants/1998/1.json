@@ -1,0 +1,49 @@
+{
+  "id": 1,
+  "country": "GB",
+  "artist": "Imaani",
+  "song": "Where Are You?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/z745-juFlck",
+    "https://www.youtube-nocookie.com/embed/ogkXVUMIBZk",
+    "https://www.youtube-nocookie.com/embed/RPNncLEoaP4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Where Are You?",
+      "content": "I see your picture in a frame\nI see a face without a name\nRiding alone on an empty train\nWhere are you?\n\nI live in a house of broken hearts\nLeaves are falling in the park\nEvery day is a question mark\nWhere are you?\n\nI would drive through the rain (to find you)\nWalk a desert plain (behind you)\nYou could unlock these chains (I'm tied to)\nWhere are you now?\n\nThrough the storm I call your name (to guide you)\nLove could be the flame (beside you)\nIf you unlock these chains (I'm tied to)\nWhere are you now?\n\nLying in my room at night\nSilhouettes are dressed in white\nWaiting for the morning light\nWhere are you?\n\nEach day you will live and learn\nAs the wheels of heaven turn\nFor you my candle burns\nWhere are you?\n\nI would drive through the rain (to find you)\nWalk a desert plain (behind you)\nYou could unlock these chains (I'm tied to)\nWhere are you now?\n\nThrough the storm I call your name (to guide you)\nLove could be the flame (beside you)\nIf you unlock these chains (I'm tied to)\nWhere are you now?\n\n(So near) so near\n(So far) so far\nOut there I can almost touch you\nYou're here in my mind all the time\nWhere are you now?\n\n(I would drive through the rain) to find you\n(Walk a desert plain behind you)\nYou could unlock these chains (I'm tied to)\nWhere are you now?\n\nThrough the storm (I call your name to guide you)\nLove could be the flame (beside you)\nIf you unlock these chains (I'm tied to)\nWhere are you?\nWhere are you now?\n\n(I would drive through the rain to find you)\n(Walk a desert plain behind you)\nIf you unlock these chains (I'm tied to)\nWhere are you now?\n\nThrough the storm (I call your name to guide you)\nLove could be the flame (beside you)\n(If you unlock these chаinѕ)"
+    }
+  ],
+  "bpm": 126,
+  "tone": "G minor",
+  "artistPeople": [
+    "Melanie Crosdale"
+  ],
+  "backings": [
+    "Unknown",
+    "Unknown",
+    "Unknown",
+    "Unknown"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "James McMillan",
+  "lyricists": null,
+  "writers": [
+    "Phil Manikiza",
+    "Scott English",
+    "Simon Stirling"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Terry Wogan"
+  ],
+  "jury": null,
+  "spokesperson": "Ken Bruce"
+}

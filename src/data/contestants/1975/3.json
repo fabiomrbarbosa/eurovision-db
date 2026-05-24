@@ -1,0 +1,55 @@
+{
+  "id": 3,
+  "country": "FR",
+  "artist": "Nicole Rieu",
+  "song": "Et bonjour à toi l'artiste",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/exd-6ev_Ja4",
+    "https://www.youtube-nocookie.com/embed/oIjJ3naODZs",
+    "https://www.youtube-nocookie.com/embed/LLnQnyEWr4c",
+    "https://www.youtube-nocookie.com/embed/_Izz1aoxjm0",
+    "https://www.youtube-nocookie.com/embed/DwQfbJw2a2Y",
+    "https://www.youtube-nocookie.com/embed/eWqBQgCbA0M"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Et bonjour à toi l'artiste",
+      "content": "Et bonjour à toi, l'artiste de n'importe où\nQui fait les jours gais ou tristes, toi qui changes tout\nTu nous offres la musique comme un cadeau\nToi, le magicien des temps nouveaux\n\nEt bonjour à toi, le peintre de la lumière\nQui connaît toutes les teintes de l'univers\nTu vas faire de l'an deux mille un millénaire\nLe plus beau de l'histoire de la terre\n\n(Il est temps) d'acheter des couleurs\n(Il est temps) de te mettre au labeur\n(Il est temps) Toi, le compositeur\nDe te donner de tout ton cœur\n\n(Il est temps) Et si tu commençais\n(Maintenant) Demain tout serait prêt\n(Il est temps) Tu fais ce qui te plaît\nPrends tout ton temps\n(Mais ne le prends pas trop, s'il te plaît)\n\nEt bonjour à toi, l'artiste, le grand auteur\nLe brillant illusioniste, le célèbre acteur\nTu vas nous changer le monde, tu vas chanter\nPour nous faire oublier le passé\n\n(Il est temps) d'acheter des couleurs\n(Il est temps) de te mettre au labeur\n(Il est temps) Toi, le compositeur\nDe te donner de tout ton cœur\n\n(Il est temps) Et si tu commençais\n(Maintenant) Demain tout serait prêt\n(Il est temps) Tu fais ce qui te plaît\nPrends tout ton temps\nPrends tout ton temps\n\n(Il est temps) d'acheter des couleurs\n(Il est temps) de te mettre au labeur\n(Il est temps) Toi, le compositeur\nDe te donner de tout ton cœur\n\n(Il est temps) Et si tu commençais\n(Maintenant) Demain tout serait prêt\n(Il est temps) Tu fais ce qui te plaît\nPrends tout ton temps\n\n(Il est temps) d'acheter des couleurs\n(Il est temps) de te mettre au lаbeur\n(Il est temps) Toi, le compositeur\nDe te donner de tout ton cœur\n\n(Il est tempѕ)"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "And a good day to you artist",
+      "content": "And a good day to you, artist from no matter where\nWho makes the days happy or sad, you who changes all\nYou offer us music like a present\nYou, magician of the new times\n\nAnd good morning to you, painter of the light\nWho knows all the colours of the universe\nYou're going to make from the year two thousand\nThe most beautiful millennium in the world's history\n\n(It's time) to buy colours\n(It's time) to begin the work\n(It's time) You, the composer\nTo give all your heart\n\n(It's time) And if you begin\n(Now) Tomorrow it'll be ready\n(It's time) You do what you want\nTake all your time\n(But don't take too much, please)\n\nAnd good morning to you, artist, the great author\nThe brilliant illusionist, the famous actor\nYou're going to change the world for us, you're going to sing\nTo make us forget the past\n\n(It's time) to buy colours\n(It's time) to begin the work\n(It's time) You, the composer\nTo give all your heart\n\n(It's time) And if you begin\n(Now) Tomorrow it'll be ready\n(It's time) You do what you want\nTake all your time\n(But don't take too much, please)\n\n(It's time) to buy colours\n(It's time) to begin the work\n(It's time) You, the composer\nTo give all your heart\n\n(It's time) And if you begin\n(Now) Tomorrow it'll be ready\n(It's time) You do what you want\nTake all your time\n\n(It's time) to buy colours\n(It's time) to begin the work\n(It's time) You, the composer\nTo give all your heаrt\n\n(It'ѕ time)"
+    }
+  ],
+  "bpm": 140,
+  "tone": "D major",
+  "artistPeople": [
+    "Nicole Rieu"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Jean Musy",
+  "lyricists": null,
+  "writers": [
+    "Jaff Barnel",
+    "Pierre Delanoë"
+  ],
+  "broadcaster": "TF1",
+  "commentators": [
+    "Georges de Caunes"
+  ],
+  "jury": null,
+  "spokesperson": "Michel Drucker"
+}

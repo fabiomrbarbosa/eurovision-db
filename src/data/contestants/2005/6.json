@@ -1,0 +1,60 @@
+{
+  "id": 6,
+  "country": "CS",
+  "artist": "No Name",
+  "song": "Zauvijek Moja",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/elqvzo8Qe4Q",
+    "https://www.youtube-nocookie.com/embed/Dn6Hy5XucJs"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "montenegrin"
+      ],
+      "displayedLanguages": null,
+      "title": "Zauvijek moja",
+      "content": "Tamo, ljubavi, gdje zvone zvona\nTi ćeš zauvijek bit' samo moja\nTamo gdje i rijeka ljubi more\nDo zore\nZauvijek\n\nTamo visoko, 'za brda ona\nTamo gdje je stara kuća moja\nTamo ću sa tobom, željo moja\nOstati\n\nTamo, ljubavi, gdje zvone zvona\nTi ćeš zauvijek bit' samo moja\nTamo gdje i rijeka ljubi more\nDo zore\n\nTamo visoko, 'za brda ona\nTamo gdje je stara kuća moja\nTamo ću sa tobom, željo moja\nOstati\n\nTi si mi dušu ranila\nLjepotom me opila\n\nTamo, ljubavi, gdje zvone zvona\nTi ćeš zauvijek bit' samo moja\nTamo gdje i rijeka ljubi more\nDo zore\n\nTamo visoko, 'za brda ona\nTamo gdje je stara kuća moja\nTamo ću sa tobom, željo moja\nOѕtati\nZаuvijek"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Forever mine",
+      "content": "There, love, where the bells toll\nYou will forever be mine alone\nThere, where the river kisses the sea\nTill dawn\nForever\n\nHigh up there, behind that hill\nWhere my old house stands\nI will be with you, my desire\nStay there\n\nThere, love, where the bells toll\nYou will forever be mine alone\nThere, where the river kisses the sea\nTill dawn\n\nHigh up there, behind that hill\nWhere my old house stands\nI will be with you, my desire\nStay there\n\nYou've wounded my soul\nHypnotised me with beauty\n\nThere, love, where the bells toll\nYou will forever be mine alone\nThere, where the river kisses the sea\nTill dawn\n\nHigh up there, behind that hill\nWhere my old house stands\nI will be with you, my deѕire\nStаy there\nForever"
+    }
+  ],
+  "bpm": 98,
+  "tone": "Bb minor",
+  "artistPeople": [
+    "Bojan Jovović",
+    "Branko Nedović",
+    "Danijel Alibabić",
+    "Dragoljub Purlija",
+    "Marko Perić",
+    "Marko Prentić"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Slaven Knezović"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Milan Perić"
+  ],
+  "writers": null,
+  "broadcaster": "TVCG",
+  "commentators": [
+    "Danijel Popović",
+    "Dražen Bauković",
+    "Duška Vučinić-Lučić",
+    "Tamara Ivanković"
+  ],
+  "jury": null,
+  "spokesperson": "Nina Radulović"
+}

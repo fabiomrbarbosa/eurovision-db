@@ -1,0 +1,59 @@
+{
+  "id": 10,
+  "country": "FR",
+  "artist": "Profil",
+  "song": "Hé, hé m'sieurs dames",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/r7Fb-rmoGoo",
+    "https://www.youtube-nocookie.com/embed/X0I0lQsK6GA",
+    "https://www.youtube-nocookie.com/embed/WkBentq3beo",
+    "https://www.youtube-nocookie.com/embed/DwfEC80Bdso"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Hé, hé m'sieurs dames",
+      "content": "Dududu dududu… dududu dududu dudu…\nHé, hé, m'sieurs, dames\nSi on chantait toute la nuit\nPour rire et faire peur aux ennuis\nC'est fête aujourd'hui\n\nHé, hé, m'sieurs, dames\nOn va s'balader sur la gamme\nLe cœur empli de notes en flammes\nPour chauffer nos âmes\n\nOn va chanter, hé, hé, m'sieurs, dames\nOn va danser, hé, hé, m'sieurs, dames\nChacun se dévoile, ce soir c'est le bal\nC'est le carnaval, le carnaval\n\nDududu dududu… dududu dududu dudu…\nHé, hé, m'sieurs, dames\nDehors dans la nuit qui scintille\nIl y a tous les lampions qui brillent\nDans les yeux des filles\n\nHé, hé, m'sieurs, dames\nOn a le droit d'être un peu fou\nRiez nez-à-nez, joue-à-joue\nMoquez-vous de tout\n\nOn va chanter, hé, hé, m'sieurs, dames\nOn va danser, hé, hé, m'sieurs, dames\nFaire ce qu'il nous plaît, ce soir c'est le bal\nC'est le carnaval, le carnaval\n\nDududu dududu… dududu dududu dudu…\nHé, hé, m'sieurs, dames\nCe soir l'argent est interdit\nOn jette la monnaie, les billets\nComme des confettis\n\nHé, hé, m'sieurs, dames\nFinie la peur des lendemains\nEt tous pour longtemps on sera bien\nLa main dans la main\n\nOn va chanter, hé, hé, m'sieurs, dames\nOn va danser, hé, hé, m'sieurs, dames\nVivre enfin not' vie, ce soir c'est le bal\nC'est le carnaval, le carnaval\n\nHé, hé, m'sieurs, dames\nOn va chanter, hé, hé, m'sieurs, dames\nVivre enfin not' vie, ce soir c'est le bal\nC'est le carnaval, le carnaval\n\nHé hé, m'sieurs, dames\nOn va danser, hé hé, m'sieurs, dames\nVivre enfin not' vie, ce soir c'est le bal\nC'eѕt le carnaval, le carnavаl\n\nDududu dududu dudu…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Hey hey gentlemen ladies",
+      "content": "Dududu dududu… dududu dududu dudu…\nHey, hey, gentlemen, ladies\nIf we sang the whole night long\nTo laugh and to scare our cares away\nIt's party today\n\nHey, hey, gentlemen, ladies\nWe go for a walk on the music scale\nOur heart filled with notes in flames\nTo warm up our souls\n\nWe'll sing, hey, hey, gentlemen, ladies\nWe'll dance, hey, hey, gentlemen, ladies\nEveryone unveils himself, tonight it's the ball\nIt's the carnival, the carnival\n\nDududu dududu… dududu dududu dudu…\nHey, hey, gentlemen, ladies\nOutside in the twinkling night\nAll the lamps are shining\nIn the eyes of the girls\n\nHey, hey, gentlemen, ladies\nWe have the right to be a little crazy\nLaugh nose to nose, cheek to cheek\nMock everything\n\nWe'll sing, hey, hey, gentlemen, ladies\nWe'll dance, hey, hey, gentlemen, ladies\nDo what pleases us, tonight it's the ball\nIt's the carnival, the carnival\n\nDududu dududu… dududu dududu dudu…\nHey, hey, gentlemen, ladies\nTonight money is forbidden\nWe throw coins and notes\nLike confetti\n\nHey, hey, gentlemen, ladies\nThe fear for tomorrow is gone\nAnd we'll be feeling good for a long time\nHand in hand\n\nWe'll sing, hey, hey, gentlemen, ladies\nWe'll dance, hey, hey, gentlemen, ladies\nFinally we're living our life, tonight it's the ball\nIt's the carnival, the carnival\n\nHey, hey, gentlemen, ladies\nWe'll sing, hey, hey, gentlemen, ladies\nFinally we're living our life, tonight it's the ball\nIt's the carnival, the carnival\n\nHey hey, gentlemen, ladies\nWe'll dance, hey hey, gentlemen, ladies\nFinally we're living our life, tonight it's the ball\nIt'ѕ the carnival, the carnivаl\n\nDududu dududu dudu…"
+    }
+  ],
+  "bpm": 165,
+  "tone": "Eb minor",
+  "artistPeople": [
+    "Francis Rignault",
+    "Jean-Claude Corbel",
+    "Jean-Pierre Izbinski",
+    "Martine Bauer",
+    "Martine Havet"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Sylvano Santorio"
+  ],
+  "conductor": "Sylvano Santorio",
+  "lyricists": [
+    "Richard de Bordeaux",
+    "Richard Joffo"
+  ],
+  "writers": null,
+  "broadcaster": "TF1",
+  "commentators": [
+    "Patrick Sabatier"
+  ],
+  "jury": null,
+  "spokesperson": "Fabienne Égal"
+}

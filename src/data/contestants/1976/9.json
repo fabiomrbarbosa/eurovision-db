@@ -1,0 +1,45 @@
+{
+  "id": 9,
+  "country": "IE",
+  "artist": "Red Hurley",
+  "song": "When",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/yhOwK6ztiBY",
+    "https://www.youtube-nocookie.com/embed/ZfngmRzGrGg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "When",
+      "content": "When the days of wine are gone\nAnd all the nights are long\nThen all my thoughts run on to you\n\nWhen the lonely silence calls\nWhen I walk through empty halls\nThen all my thoughts run on to you\n\nAnd when they linger for a while\nYou come and touch me with your tender smile\n\nAnd when your love was all my world\nMy days, my life – you were\nThen all the songs were songs of you\n\nI tasted well of sweet success\nNothing touched me that was second best\n\nOh, but then I turned and you were gone\nTo someone else's song\nAnd now I'm going back to when\nI loved you now and then\n\nWhen the story now is told\nAnd all my love unfolds\nI've lost my very soul to you\n\nYour love was written in the sky\nBut at the time, I never looked so high\n\nDarlin', when will you come back to me?\nReleаse me, ѕet me free\nWhen? Oh... when?"
+    }
+  ],
+  "bpm": 153,
+  "tone": "A major",
+  "artistPeople": [
+    "Vincent Hurley"
+  ],
+  "backings": [
+    "Lola Kerr",
+    "Nicola Kerr",
+    "Pat Reilly"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Noel Kelehan",
+  "lyricists": null,
+  "writers": [
+    "Brendan J. Graham"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Mike Murphy"
+  ],
+  "jury": null,
+  "spokesperson": "Brendan Balfe"
+}

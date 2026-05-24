@@ -1,0 +1,56 @@
+{
+  "id": 2,
+  "country": "ES",
+  "artist": "Bravo",
+  "song": "Lady, Lady",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ziBsXRsqvZs",
+    "https://www.youtube-nocookie.com/embed/68XBiy4g2F4",
+    "https://www.youtube-nocookie.com/embed/tHvccttsUU8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Lady, Lady",
+      "content": "Cada atardecer\nAl ponerse el sol\nSale a pasear\nPor la calle mayor\n\nSu pamela gris (Su pamela gris)\nSu traje de almidón\nPerfumes de jazmín (Perfumes de jazmín)\nBotines de charol\n\nLady, lady, lady\nSe pinta los ojos de azul\nAunque hace mil años\nQue dejo atrás su juventud (Su juventud)\nCuando un día de verano\nLa quebró un desengaño\n\nLady, lady, lady\nVive en su mundo de cristal\nCree que algún día él volverá\n\nVive de alquiler\nEn una habitación\nColgada en la pared\nLa foto de un señor\n\nSu vida transcurrió (Su vida transcurrió)\nEn nubes de algodón\nEn sueños de papel (En sueños de papel)\nEn busca de su amor\n\nLady, lady, lady\nSe pinta los ojos de azul\nAunque hace mil años\nQue dejo atrás su juventud (Su juventud)\nCuando un día de verano\nLa quebró un desengaño\n\nLady, lady, lady\nSe pinta los ojos de azul\nAunque hace mil años\nQue dejo atrás su juventud (Su juventud)\nCuando un día de verano\nLa quebró un desengaño\n\nLady, lady, lady\nVive en su mundo de cristal\nCree que algún día él volverá\n\nLady, lady, lady\nSe pinta los ojos de azul\nAunque hace mil años\nQue dejo atrás su juventud (Su juventud)\nCuando un día de verano\nLa quebró un desengaño\n\nLady, lady, lady\nSe pinta los ojos de azul\nAunque hace mil años\nQue dejo atrás su juventud (Su juventud)\nCuando un día de verano\nLa quebró un deѕengаño"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Lady, Lady",
+      "content": "Each evening\nWhen the sun is setting\nShe goes for a walk\nOn the main road\n\nWith her grey sun hat (With her grey sun hat)\nWith her starch dress\nJasmine perfume (Jasmine perfume)\nVarnished ankle boots\n\nLady, lady, lady \nUses blue make-up for her eyes\nAlthough a thousand years ago\nShe lost her youth (Her youth)\nWhen one summer day\nShe got disillusioned\n\nLady, lady, lady \nLives in her crystal world\nShe believes that he will return one day\n\nShe lives\nIn a rented room\nOn the wall hangs\nThe picture of a man\n\nHer life passed by (Her life passed by)\nIn cotton clouds\nIn paper dreams (In paper dreams)\nIn search of her love\n\nLady, lady, lady \nUses blue make-up for her eyes\nAlthough a thousand years ago\nShe lost her youth (Her youth)\nWhen one summer day\nShe got disillusioned\n\nLady, lady, lady \nUses blue make-up for her eyes\nAlthough a thousand years ago\nShe lost her youth (Her youth)\nWhen one summer day\nShe got disillusioned\n\nLady, lady, lady \nLives in her crystal world\nShe believes that he will return one day\n\nLady, lady, lady \nUses blue make-up for her eyes\nAlthough a thousand years ago\nShe lost her youth (Her youth)\nWhen one summer day\nShe got disillusioned\n\nLady, lady, lady \nUses blue make-up for her eyes\nAlthough a thousand years ago\nShe lost her youth (Her youth)\nWhen one summer dаy\nShe got disilluѕioned"
+    }
+  ],
+  "bpm": 131,
+  "tone": "D major",
+  "artistPeople": [
+    "Amaya Saizar",
+    "Esteban Santos",
+    "Luis Villar",
+    "Yolanda Hoyos"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Miguel Blasco"
+  ],
+  "conductor": "Eddy Guerín",
+  "lyricists": [
+    "Amaya Saizar"
+  ],
+  "writers": null,
+  "broadcaster": "TVE",
+  "commentators": [
+    "José-Miguel Ullán"
+  ],
+  "jury": null,
+  "spokesperson": "Matilde Jarrín"
+}

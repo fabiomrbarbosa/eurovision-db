@@ -1,0 +1,62 @@
+{
+  "id": 1,
+  "country": "DK",
+  "artist": "Rollo & King",
+  "song": "Never Ever Let You Go",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/3SW8MohKPPM",
+    "https://www.youtube-nocookie.com/embed/oONF6oxNRDY",
+    "https://www.youtube-nocookie.com/embed/sehN63M7lt4",
+    "https://www.youtube-nocookie.com/embed/J-FPVn8ZxJo"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Never Ever Let You Go",
+      "content": "I'll never ever let you go…\n\nEach morning I wake up alone\nFor too long I've been on my own\nYou seem to fill my heart and mind\nThe greatest love that I could find\nLove that I could find\n\nI'll never ever let you go\nThough you hurt my feelings\nYou bring back memories all the time\nI'll never ever be the same\nSince you left me lonely\nSo please come back to me again\n\nThese last days I've been down and blue\nI wonder if you miss me too\nI think about you all the time\nAnd keep on waitin' for a sign\nWaitin' for a sign\n\nI'll never ever let you go\nThough you hurt my feelings\nYou bring back memories all the time\nI'll never ever be the same\nSince you left me lonely\nSo please come back to me again\n\nI cry out your name\nI'm sick and tired of this game\nOo… baby, kiss me\nI think this love was meant to be\nLove was meant to be, yeah\n\nI'll never ever let you go\nThough you hurt my feelings\nYou bring back memories all the time\nI'll never ever be the same\nSince you left me lonely\nSo please come back to me again\n\nI'll never ever let you go\n\nI'll never ever let you go\nThough you hurt my feelings\nYou bring back memories all the time\nI'll never ever be the same\nSince you left me lonely\nSo pleaѕe come back to me agаin\n\nI'll never ever let you go"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "danish"
+      ],
+      "displayedLanguages": null,
+      "title": "Der står et billede af dig på mit bord",
+      "content": "Der står et billed' af dig på mit…\n\nHvornår får jeg mon din besked?\nEr din pc'er gået ned?\nNu sidder jeg og chatter med mig selv\nOg be'r dig om at lege med\nOm at lege med\n\nDer står et billed' af dig på mit bord\nOg det vækker minder\nFor du er den som jeg vil ha'\nMeget mere end du sikkert ved\nDu' en man aldrig glemmer\nFor du har lige brændt mig af\n\nNu sidder han med hovedet let på skrå\nOg prøver på at lade tiden gå\nOg min egen selvbiografi\nVar det der gjorde det forbi\nGjorde det forbi\n\nDer står et billed' af dig på mit bord\nOg det vækker minder\nFor du er den som jeg vil ha'\nMeget mere end du sikkert ved\nDu' en man aldrig glemmer\nFor du har lige brændt mig af\n\nAlene, forladt\nJeg tænker på dig dag og nat\nEt ønske, et håb\nAt du vil trykke på Delete-Ctrl\n\nDer står et billed' af dig på mit bord\nOg det vækker minder\nFor du er den som jeg vil ha'\nMeget mere end du sikkert ved\nDu' en man aldrig glemmer\nFor du har lige brændt mig af\n\nDer står et billede af dig på mit…\n\nDer står et billed' af dig på mit bord\nOg det vækker minder\nFor du er den som jeg vil ha'\nMeget mere end du sikkert ved\nDu' en man aldrig glemmer\nFor du har lige brændt mig af\n\nDer ѕtår et billede аf dig på mit bord"
+    }
+  ],
+  "bpm": 108,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Signe Svendsen",
+    "Søren Poppe",
+    "Stefan Teilmann Laub Nielsen"
+  ],
+  "backings": [
+    "Jarno Varsted",
+    "Johnny Jørgensen",
+    "Lei Moe"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Søren Poppe"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Stefan Teilmann Laub Nielsen",
+    "Thomas Brekling"
+  ],
+  "writers": null,
+  "broadcaster": "DR",
+  "commentators": [
+    "Hans Otto Bisgaard",
+    "Hilda Heick"
+  ],
+  "jury": null,
+  "spokesperson": "Gry Johansen"
+}

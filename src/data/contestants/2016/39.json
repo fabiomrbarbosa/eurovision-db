@@ -1,0 +1,68 @@
+{
+  "id": 39,
+  "country": "MD",
+  "artist": "Lidia Isac",
+  "song": "Falling Stars",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/LlhV-E6leTI",
+    "https://www.youtube-nocookie.com/embed/wXcDKy97BHk",
+    "https://www.youtube-nocookie.com/embed/1o4yNoXLcuI",
+    "https://www.youtube-nocookie.com/embed/YXmYHiHfoy0",
+    "https://www.youtube-nocookie.com/embed/9U7vma7QC4g",
+    "https://www.youtube-nocookie.com/embed/CoywHrxRST4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Falling Stars",
+      "content": "Lost in time, you're miles away\nI try to speak or make a sound\nThe dark's around me when you go\n\nThe dream we had disappeared\nStill I believe, I'm holding on\nI didn't mean to let you go\n\nWe could be the greatest falling\nThe brightest falling stars\n\nThe sky is tumbling\nIt's coming down, coming down\nThe wildest fire\nIs burning out, out\n\nIt'll have all turned us to pieces\nAll of our love turned into dust\nWe're the brightest falling stars\n\nFlashing lights, I close my eyes\nI let the sunlight comfort me\nWhen all that's left are memories\nWe could be the brightest falling stars\n\nThe sky is tumbling\nIt's coming down, coming down\nThe wildest fire\nIs burning out, out\n\nIt'll have all turned us to pieces\nAll of our love turned into dust\nWe're the brightest falling stars\n(The brightest falling stars)\n\nThe thought of us will disappear\nStill I believe, I'm holding on\n\nThe sky is tumbling\nIt's coming down, coming down\nThe wildest fire\nIs burning out, out\n\nIt'll have all turned us to pieces\nAll of our love turned into dust\nWe're the brightest falling stаrѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "romanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Stele Căzătoare",
+      "content": "Pierdut in timp, tu esti la mile distante\nIncerc sa vorbesc sau sa fac zgomot\nIntunericul ma incercuieste când tu pleci\n\nVisul pe care l-am avut a disparut\nIna cred, inca ma tin\nNu voiam sa pleci\n\nAm putea fi cele mai frumoase stele cazatoare\nCele mai stralucitoare stele cazatoare\n\nCerul cade\nVine in jos, in jos\nFocul cel mai viu\nSe stinge, se stinge\n\nToate acestea ne-au transformat in bucati\nToata iubirea noastra s-a transformat in praf\nSuntem cele mai stralucitoare stele cazatoare\n\nLumini intermitente, imi inchid ochii\nLas soarele sa ma consoleze\nCele care raman, sunt amintirile\nAm putea fi cele mai stralucitoare stele cazatoare\n\nCerul cade\nVine in jos, in jos\nFocul cel mai viu\nSe stinge, se stinge\n\nToate acestea ne-au transformat in bucati\nToata iubirea noastra s-a transformat in praf\nSuntem cele mai stralucitoare stele cazatoare\n(Stelele cazatoare cele mai stralucitoare)\n\nGândul din noi va disparea\nIn acest timp, inca cred ca ma tin\n\nCerul cade\nVine in jos, in jos\nFocul cel mai viu\nSe stinge, se stinge\n\nToate acestea ne-au transformat in bucati\nToata iubirea noastra s-a transformat in praf\nSuntem cele mai stralucitoare ѕtele cazatoаre"
+    }
+  ],
+  "bpm": 126,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Lidia Isac"
+  ],
+  "backings": [
+    "Ellen Berg Tollbom",
+    "Gabriel Alares"
+  ],
+  "dancers": [
+    "Iuri Rîbac"
+  ],
+  "stageDirector": "Maru Petrova",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Ellen Berg",
+    "Gabriel Alares",
+    "Leonid Gutkin",
+    "Sebastian Lestapier"
+  ],
+  "broadcaster": "TRM",
+  "commentators": [
+    "Gloria Gorceag"
+  ],
+  "jury": [
+    "Adriano Marian",
+    "Georgeta Voinovan",
+    "Ion Brătescu",
+    "Iurie Mahovici",
+    "Lidia Scarlat"
+  ],
+  "spokesperson": "Olivia Furtună"
+}

@@ -1,0 +1,50 @@
+{
+  "id": 18,
+  "country": "IE",
+  "artist": "Jedward",
+  "song": "Waterline",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/e1cuimKLNpU",
+    "https://www.youtube-nocookie.com/embed/nXS7SLY6esY",
+    "https://www.youtube-nocookie.com/embed/O_9QaVC-NKw",
+    "https://www.youtube-nocookie.com/embed/Ni133caQ9Dw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Waterline",
+      "content": "Floodgates, can't wait\nHere she comes, shut 'em fast, better shut 'em fast\nToo late, swept away\nFeel the rush after the fact\n\nComing up beneath me\nNever been in love so deeply before\n\nI am close to the water line\nI thought that I'd been over my head for the last time\nI'm so close to the water line\nAnd the way I'm loving her now\nI know this is bound to go down as the big one\n\nWhistle blast, lights flash\nThrow a rope, grab a hold, feel the undertow\nShe laughs, waves crash\nWhat's the use? I can't let her go\n\nComing up beneath me\nNever been in love so deeply before\n\nI am close to the water line\nI thought that I'd been over my head for the last time\nI'm so close to the water line\nAnd the way I'm loving her now\nI know this is bound to go down as the big one\n\nFloodgates, can't wait\nHere she comes, shut 'em fast\nBetter shut 'em fast\nToo late, swept away\nFeel the rush\n\nI am close to the water line\nAnd the way I'm loving her now\nI know this is bound to go down as the one\n\nI am close to the water line\nI thought that I'd been over my head for the last time\nI'm so close to the water line\nAnd the way I'm loving her now\nI know this is bound to go down аѕ the big one"
+    }
+  ],
+  "bpm": 144,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Edward Peter Anthony Kevin Patrick Grimes",
+    "John Paul Henry Daniel Richard Grimes"
+  ],
+  "backings": [
+    "Claire O'Malley",
+    "Julian Edwards",
+    "Leanne Moore",
+    "Shane Creevey"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Nick Jarl",
+    "Sharon Vaughn"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Marty Whelan"
+  ],
+  "jury": null,
+  "spokesperson": "Gráinne Seoige"
+}

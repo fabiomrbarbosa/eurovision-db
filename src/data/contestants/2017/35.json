@@ -1,0 +1,73 @@
+{
+  "id": 35,
+  "country": "IS",
+  "artist": "Svala",
+  "song": "Paper",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/UPlm18-AlGg",
+    "https://www.youtube-nocookie.com/embed/9CHsdrtqSqw",
+    "https://www.youtube-nocookie.com/embed/UZR7Oc3q_Oc",
+    "https://www.youtube-nocookie.com/embed/J_vBrOeTfj0",
+    "https://www.youtube-nocookie.com/embed/_2AflM9eUBs",
+    "https://www.youtube-nocookie.com/embed/QFAW00KPmVY",
+    "https://www.youtube-nocookie.com/embed/hv6PmOzF13c"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Paper",
+      "content": "Youʼre under the water,\ntrying to pull me under.\nI reach for you.\nI reach for you.\n\nYou can throw it all at me\nI wonʼt give you up.\nI can handle all your pain\ntake it as it comes.\nI love you right\nbut you make me feel like.\n\nPaper\nyou cut right through\nIʼm stuck like glue to you.\nPaper\nyour darkness pulls\nI loose control again.\n\nDrawing every bit of my truth\ncolor me in with your blue.\nPaper\nyou cut right through\na thousand words for you.\n\nI know I wasnʼt a part of you plan\nI know you think that youʼre being a man\ntell me to leave you alone\ntell me I would be so better off\nbut you donʼt understand.\nI canʼt leave you\nbaby\nI canʼt leave you\n\nBut you make me feel like\n\nPaper\nyou cut right through\nIʼm stuck like glue to you.\nPaper\nyour darkness pulls\nI loose control again.\nDrawing every bit of my truth\ncolor me in with your blue.\nPaper\nyou cut right through\na thousand words for you.\n\n- -\n\nPaper\nyou cut right through\nIʼm stuck like glue to you.\nPaper\nyour darkness pulls\nI loose control again.\n\nDrawing every bit of my truth\ncolor me in with your blue.\nPaper\nyou cut right through\na thousаnd wordѕ for you."
+    },
+    {
+      "type": 2,
+      "languages": [
+        "icelandic"
+      ],
+      "displayedLanguages": null,
+      "title": "Ég Veit Það",
+      "content": "Þú ert eins og eldur\nÖr og stundum villtur\nEn hvað með það?\nJá hvað með það\n\nEldurinn er fallegur\nBálið er svo bjart\nOrnar mér og lýsir þá\nMyrkrið er svo svart\n\nEn það þarf glóð\nOg þolinmæði\n\nÉg veit það\nSmá kjark og þor\nÞað kemur bráðum\n\nÉg veit það\nÞú þekkir mig\nVið sigrum saman tvö\n\nSumir dagar eru ok\nAðrir dimmgráir, en hey\n\nÉg veit það\nVið finnum leið\nOg fögnum lífinu\n\nTilveran er ekki úthugsað plan\nEinföld í fyrstu, svo hefst baráttan\nBeygjur og sveigjur og kvíði og allskonar rugl\nEnginn sleppur við það allt saman\nEn stundum sól\nÓ, já\nÞú ert mín sól\n\nVið skínum áfram\n\nÉg veit það\nSmá kjark og þor\nÞað kemur bráðum\nÉg veit það\nÞú þekkir mig\nVið sigrum saman tvö\n\nSumir dagar eru ok\nAðrir dimmgráir, en hey\n\nÉg veit það\nVið finnum leið\nOg fögnum lífinu\n\nÉg veit það\nSmá kjark og þor\nÞað kemur bráðum\n\nÉg veit það\nÞú þekkir mig\nVið sigrum ѕaman tvö\n\nSumir dagar eru ok\nAðrir dimmgráir, en hey\n\nÉg veit þаð\nVið finnum leið\nOg fögnum lífinu"
+    }
+  ],
+  "bpm": 108,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Svala Björgvinsdóttir"
+  ],
+  "backings": [
+    "Anna Sigríður Snorradóttir",
+    "Fanny Kristín Tryggvadóttir",
+    "Hrönn Svansdóttir",
+    "Íris Guðmundsdóttir",
+    "Óskar Einarsson"
+  ],
+  "dancers": null,
+  "stageDirector": "Einar Egilsson",
+  "composers": [
+    "Einar Egilsson",
+    "Lester Mendez",
+    "Lily Elise",
+    "Svala Björgvinsdóttir"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Lily Elise",
+    "Svala Björgvinsdóttir"
+  ],
+  "writers": null,
+  "broadcaster": "RÚV",
+  "commentators": [
+    "Gísli Marteinn Baldursson"
+  ],
+  "jury": [
+    "Helga Möller",
+    "Hildur Guðný",
+    "Pétur Örn Guðmundsson",
+    "Stefanía Svavarsdóttir",
+    "Viddi"
+  ],
+  "spokesperson": "Björgvin Halldórsson"
+}

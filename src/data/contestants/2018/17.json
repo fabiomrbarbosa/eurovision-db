@@ -1,0 +1,61 @@
+{
+  "id": 17,
+  "country": "NL",
+  "artist": "Waylon",
+  "song": "Outlaw In 'Em",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/p7jHz5asMs8",
+    "https://www.youtube-nocookie.com/embed/hsm98vYn4DI",
+    "https://www.youtube-nocookie.com/embed/BtPKKWgNR9g",
+    "https://www.youtube-nocookie.com/embed/GN7xRnsVWPo",
+    "https://www.youtube-nocookie.com/embed/SzpujDSrxdA",
+    "https://www.youtube-nocookie.com/embed/kO5PecEt14Q"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Outlaw In 'Em",
+      "content": "It's a fine, fine line\nBetween whiskey and water into wine\nIt's a long way home\nWhen you're down and out and out here on your own\nIt don't matter who you are when it's time to lock and load\n\nEverybody's got a little outlaw in 'em\nChrome piece hidin' in their blacked out denim\nHeartbeat beatin' to rock 'n' roll rhythm, yeah\nEverybody's got a couple scarred up knuckles\nBlood on their boots and their back-off buckle\nDiamondback rattle with a quick strike venom\nEverybody's got a little outlaw in 'em\n\nWhen they knock you to the ground\nYou ain't gonna let nobody keep you down\nAnd when your back's against the wall\nThat's when you gotta learn to stand up tall\nThat rebel fight inside of you has been there all along\n\nEverybody's got a little outlaw in 'em\nChrome piece hidin' in their blacked out denim\nHeartbeat beatin' to rock 'n' roll rhythm, yeah\nEverybody's got a couple scarred up knuckles\nBlood on their boots and their back-off buckle\nDiamondback rattle with a quick strike venom\nEverybody's got a little outlaw in 'em yeah\n\nEverybody's got a little outlaw in 'em\nChrome piece hidin' in their blacked out denim\nHeartbeat beatin' to rock 'n' roll rhythm yeah\nUh\n\nEverybody's got a little front-man swagger\nStone cold rollin' like a young Mick Jagger\nA new tattoo that you can't keep hidden\nEverybody's got a little outlaw in 'em yeah\nOh\n\nI said, everybody'ѕ got a little outlаw in 'em, oh"
+    }
+  ],
+  "bpm": 87,
+  "tone": "E major",
+  "artistPeople": [
+    "Willem Bijkerk"
+  ],
+  "backings": [
+    "Justin Pieplenbosch"
+  ],
+  "dancers": [
+    "Brandon Likiyo",
+    "Pierre Anganda",
+    "Pieter Likiyo",
+    "Roger Makadi"
+  ],
+  "stageDirector": "Hans Pannecoucke",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Ilya Toshinskiy",
+    "Jim Beaver",
+    "Waylon"
+  ],
+  "broadcaster": "AVROTROS",
+  "commentators": [
+    "Cornald Maas",
+    "Jan Smit"
+  ],
+  "jury": [
+    "Arno Krabman",
+    "Lesley Joanna van der Aa",
+    "Rick Vol",
+    "Robert Ester",
+    "Sharon den Adel"
+  ],
+  "spokesperson": "Amy Vol, Lisa Vol, Shelley Vol"
+}

@@ -1,0 +1,67 @@
+{
+  "id": 2,
+  "country": "CH",
+  "artist": "Lys Assia",
+  "song": "Das alte Karussell",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/lVpf8uzHnX0",
+    "https://www.youtube-nocookie.com/embed/l9Hli6h3k9s",
+    "https://www.youtube-nocookie.com/embed/-Xe4s007EnI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Das alte Karussell",
+      "content": "Das alte Karussell\nDas geht nicht mehr so schnell\nDie Pferdchen und die Wagen\nDie woll'n nicht von der Stell'\n\nDa hilft auch kein flattiern\nUnd auch kein neu Lattiern\nDa hilft nur noch das Eine:\nMan muss es einmal schmiern\n\nUnd auch das alte Orgelspiel\nDas piepst wie eine Maus\nVon Zeit zu Zeit wird's ihm zu viel\nDann setzt es einfach aus\n\nDas alte Karussell\nDas geht nicht mehr so schnell\nDie Pferdchen und die Wagen\nDie woll'n nicht von der Stell'\n\nDie Kleinen und Großen\nSie ziehen und stoßen\nUnd so geht es im Kreise herum\n\nDie Pferdchen, die traben\nUnd ziehn an den Wagen\nUnd die Orgel, die wird wieder jung\n\nEin komischer Gesell'\nDieses alte Karussell\nVon unten bis oben ist alles verschoben\nDoch im Kreis geht es doch noch herum\n\nDas alte Karussell\nDas geht nicht mehr so schnell\nDie Pferdchen und die Wagen\nDie woll'n nicht von der Stell'\n\nDas alte Karussell, oo…\nDas alte Kаrusѕell"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The old carousel",
+      "content": "The old carousel\nIt doesn't go as fast anymore\nThe ponies and the wagons\nThey don't want to get going\n\nFlattering doesn't help either\nAnd neither does putting up new boards\nThere is only one thing that does help:\nOnce in a while it has to be greased\n\nAnd also the old organ\nIt squeaks like a mouse\nAnd sometimes it can't take it anymore\nThen it just turns off\n\nThe old carousel\nIt doesn't go as fast anymore\nThe ponies and the wagons\nThey don't want to get going\n\nThe small ones and the large ones\nThey pull and push\nAnd that way it goes round in circles\n\nThe ponies are trotting\nAnd pulling on the wagons\nAnd the organ is getting young again\n\nA funny thing\nThis old carousel\nFrom down to above everything is shifted\nBut it still goes round in a circle\n\nThe old carousel\nIt doesn't go as fast anymore\nThe ponies and the wagons\nThey don't want to get going\n\nThe old carousel, ooh…\nThe old cаrouѕel"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Старая карусель",
+      "content": "Старая карусель\nОна больше не едет так быстро\nЛошади и кареты\nОни не хотят покидать это место\n\nНикакие уговоры не помогут\nИ никакие новые решетки\nОстается только одно:\nНужно смазать ее один раз\n\nИ старый орган играет\nОн пищит, как мышь\nВремя от времени это становится слишком\nТогда он просто останавливается\n\nСтарая карусель\nОна больше не едет так быстро\nЛошади и кареты\nОни не хотят покидать это место\n\nМаленькие и большие\nОни тянут и толкают\nИ так они едут по кругу\n\nМаленькие лошадки рысят\nИ тянут повозку\nИ орган снова становится молодым\n\nВеселый парень\nЭта старая карусель\nВсе сдвинуто снизу вверх\nНо она все равно крутится и крутится\n\nСтарая карусель\nОна больше не едет так быстро\nЛошади и кареты\nОни не хотят покидать это место\n\nСтарая карусель, ооо…\nСтарая карусель"
+    }
+  ],
+  "bpm": 104,
+  "tone": "C major",
+  "artistPeople": [
+    "Rosa Mina Schärer"
+  ],
+  "backings": [
+    "Anita Traversi",
+    "Athos Beretta",
+    "Carmen Tumiati",
+    "Luciano Rezzonico",
+    "Silvano Beretta"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Fernando Paggi",
+  "lyricists": null,
+  "writers": [
+    "Fernando Paggi",
+    "George Betz-Stahl"
+  ],
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Georges Hardy"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

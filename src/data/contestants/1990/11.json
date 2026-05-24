@@ -1,0 +1,65 @@
+{
+  "id": 11,
+  "country": "BE",
+  "artist": "Philippe Lafontaine",
+  "song": "Macédomienne",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/zDBo1S0ZDnQ",
+    "https://www.youtube-nocookie.com/embed/kwf7V8ZsJI0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Macédomienne",
+      "content": "Quand elle pleure, c'est toute l'Adriatique\nQui se déchaîne dans ses yeux\nQuand elle dort, c'est pas très loin d'Ohrid\nElle fait des rêves au bord de beaux lacs tout bleus\nJe la revois, petite fille aux pieds nus\nDe la pluie dans ses cheveux\nDans sa maison, au sol en terre battue\nElle a laissé les illusions de tous ses jeux\n\nQu'elle veut rien qu'à elle\nA le charme des Macédomiennes\nC'est vital que je l'aime, que j'y tienne\nQuoique vous fassiez, quoique vous pensiez\nMais elle est plus belle\nCeux qui s'en défient qu'ils y viennent\nIls verront combien j'y gagne et qu'elle est mienne\nVous pouvez crier, vous pouvez pleurer, vous pouvez rire\nSurtout pas d'elle\n\nQuand elle se couche, c'est sur fond de colline\nQu'elle fait de mon corps ce qu'elle veut\nC'est un tournesol émigré dans la vigne\nAu cœur aride et qui fait flamme de tout feu\nUn cri tzigane caché dans ses murmures\nElle vit l'amour sans désaveu\nQuand elle se bat du haut de ses blessures\nElle fait semblant de tout\nElle fait la nique aux dieux\n\nTrop ont envie d'elle\nA le charme des Macédomiennes\nC'est vital que je l'aime, que j'y tienne\nQuoique vous fassiez, quoique vous pensiez\nMais elle est plus belle\nEt ceux qui s'en défient qu'ils y viennent\nIls verront combien j'y gagne et qu'elle est mienne\nVous pouvez crier, vous pouvez pleurer, vous pouvez rire\nSurtout pаѕ d'elle"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "macedonian"
+      ],
+      "displayedLanguages": null,
+      "title": "Македонка",
+      "content": "Кога плаче, тоа е Целото Јадранско Море\nТоа дивее во нејзините очи\nКога спие, не е многу далеку Од Охрид\nТаа сонува на брегот на прекрасните сини езера\nЈа гледам повторно, мало босоного девојче\nДожд во косата\nВо неговата куќа, на нечистотија\nТаа ги остави илузиите на сите нејзини игри\n\nДека таа не сака ништо друго освен неа\nГо има шармот на македонските жени\nОд витално значење е да го сакам, да се држам до тоа\nШто и да правиш, што и да мислиш\nНо таа е поубава\nОние кои се пркосат дека доаѓаат таму\nТие ќе видат колку заработувам таму и дека е мое\nМожеш да врескаш, можеш да плачеш, можеш да се смееш\nОсобено не од неа\n\nКога оди во кревет, тоа е на позадината на еден рид\nДека таа го прави од моето тело она што го сака\nТоа е сончоглед емигриран во лозјето\nСо суво срце и пламен од целиот оган\nЦигански плач скриен во нејзините шепоти\nТаа живее љубов без непочитување\nКога се бори од врвот на раните\nТаа се преправа сѐ\nТаа гиuc боговите\n\nПремногу ја сакаат\nГо има шармот на македонските жени\nОд витално значење е да го сакам, да се држам до тоа\nШто и да правиш, што и да мислиш\nНо таа е поубава\nИ оние кои се пркосат дека доаѓаат таму\nТие ќе видат колку заработувам таму и дека е мое\nМожеш да врескаш, можеш да плачеш, можеш да се смееш\nОсобено не од неа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "My Macedonian woman",
+      "content": "When she cries, it's the whole Adriatic\nWhich floods her eyes\nWhen she sleeps, it's not far from Ohrid\nShe dreams on the edge of beautiful blue lakes\nI see her again, a little girl on bare feet\nWith rain in her hair\nIn her house, on the earthen floor\nShe has left the illusions of all her games\n\nWhich she wants to keep to herself\nShe has the charm of Macedonian women\nIt's vital that I love her, that I hold her\nWhatever you may do or think\nBut she is more beautiful\nThose who don't believe me, let them come\nThey will see how much I have and that she is mine\nYou can shout, you can cry, you can laugh\nBut certainly not at her\n\nWhen she sleeps, it's at the bottom of the hill\nThat she does with my body what she wants to\nIt's a sunflower that is emigrated into the vines\nWith a heart of stone, and making flames of a fire\nA gipsy cry hidden in her murmurs\nShe lives love without denial\nWhen she fights from the top of her wounds\nShe pretends everything\nShe mocks the gods\n\nToo many desire her\nShe has the charm of Macedonian women\nIt's vital that I love her, that I hold her\nWhatever you may do or think\nBut she is more beautiful\nThose who don't believe me let them come\nThey will see how much I have and that she is mine\nYou can ѕhout, you can cry, you can laugh\nBut certainly not аt her"
+    }
+  ],
+  "bpm": 127,
+  "tone": "A minor",
+  "artistPeople": [
+    "Philippe Lafontaine"
+  ],
+  "backings": [
+    "Barry Mc Neese",
+    "Christophe Vervoort",
+    "Philippe 'Moby' Mobers",
+    "Pierre Van Dormael"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Rony Brack",
+  "lyricists": null,
+  "writers": [
+    "Philippe Lafontaine"
+  ],
+  "broadcaster": "RTBF",
+  "commentators": [
+    "Claude Delacroix",
+    "Luc Appermont"
+  ],
+  "jury": null,
+  "spokesperson": "Jacques Olivier"
+}

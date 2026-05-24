@@ -1,0 +1,84 @@
+{
+  "id": 32,
+  "country": "GE",
+  "artist": "Oto Nemsadze",
+  "song": "Keep on Going",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vu4nHsaAJwU",
+    "https://www.youtube-nocookie.com/embed/QCOMCqOXmUo",
+    "https://www.youtube-nocookie.com/embed/pwq9XBnXKAM",
+    "https://www.youtube-nocookie.com/embed/BoOvVqtZyus",
+    "https://www.youtube-nocookie.com/embed/G0w4_0N9fUs",
+    "https://www.youtube-nocookie.com/embed/LkijLt3EwrM",
+    "https://www.youtube-nocookie.com/embed/_T9XyUWgl9c"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "georgian"
+      ],
+      "displayedLanguages": [
+        "kartuli"
+      ],
+      "title": "Sul Tsin Iare",
+      "content": "Sul tsin iare,\nBevri iare,\nEdzebe, ipove, iare, iare\nSadghats mgherian,\nGulit mgherian,\nMavtulebia,\nMgherian,\nIarebia,\nMaints mgherian\n\nVaarada varada, varada rada hee\nVaarada varada, varada rada hee\nIare,\nModzebni,\nDakargul simgherebs,\nKhma rom miatsvdino,\nMteli khmit imghere\n\nSul tsin iare,\nGulit iare,\nIarebia,\nIare,\nAm mavtulebzets gadaiare\nVarados mgherian,\nMamebi,\nShvilebi,\nAatsqvet chonguri,\nChven ar davishlebit\n\nIare gulit da zghva gadaiare,\nSimgherit vushushebt ertmanets iarebs\n\nVaarada varada, (vaarada varada)\nVaarada varada, varada rada heee (simarada varada)\nVaarada varada, varada radaaaa\n\nIaare gulit da zghva gadaiaree,\nSimgherit vushushebt ertmanets iаrebѕ"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "georgian"
+      ],
+      "displayedLanguages": [
+        "ქართული"
+      ],
+      "title": "სულ წინ იარე",
+      "content": "სულ წინ იარე,\nბევრი იარე,\nეძებე, იპოვე, იარე, იარე\nსადღაც მღერიან,\nგულით მღერიან,\nმავთულებია,\nმღერიან,\nიარებია,\nმაინც მღერიან\n\nვაარადა ვარადა, ვარადა რადა ჰეე\nვაარადა ვარადა, ვარადა რადა ჰეე\nიარე,\nმოძებნი,\nდაკარგულ სიმღერებს,\nხმა რომ მიაწვდინო,\nმთელი ხმით იმღერე\n\nსულ წინ იარე,\nგულით იარე,\nიარებია,\nიარე,\nამ მავთულებზეც გადაიარე\nვარადოს მღერიან,\nმამები,\nშვილები,\nააწყვეთ ჩონგური,\nჩვენ არ დავიშლებით\n\nიარე გულით და ზღვა გადაიარე,\nსიმღერით ვუშუშებთ ერთმანეთს იარებს\n\nვაარადა ვარადა, (ვაარადა ვარადა)\nვაარადა ვარადა, ვარადა რადა ჰეეე (სიმარადა ვარადა)\nვაარადა ვარადა, ვარადა რადაააა\n\nიაარე გულით და ზღვა გადაიარეე,\nსიმღერით ვუშუშებთ ერთმანეთს იარებს"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Keep on Going",
+      "content": "Go ahead,\nwalk a lot,\nsearch, find, walk, walk,\nsomewhere someone is singing,\nsinging from the heart,\nbehind the barbed wire,\nsinging,\nwounded,\nbut still singing\n\nVaarada varada, varada rada hee\nVaarada varada, varada rada hee\ngo,\nand you will find,\nthe missed songs,\nsing at the top of your voice,\nto bring them your voice,\n\ngo ahead,\nfollow your heart,\nwounds,\ngo,\ncross that barbed wire,\nsing varado,\nfathers,\nchildren,\nset a chonguri,\nwe will not split up,\n\nfollow your heart and walk across the sea,\nwe heal each other's wounds with singing,\n\nVaarada varada, (vaarada varada)\nVaarada varada, varada rada heee (simarada varada)\nVaarada varada, varada radaaaa\n\nfollow your heart and walk across the sea\nwe heal eаch other's wounds with ѕinging"
+    }
+  ],
+  "bpm": 120,
+  "tone": "B minor",
+  "artistPeople": [
+    "Oto Nemsadze"
+  ],
+  "backings": [
+    "Dato Tsintsadze",
+    "Giga Chigogidze",
+    "Giorgi Kananadze",
+    "Mikheil Javakhishvili",
+    "Spartak Sharikadze"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Roman Giorgadze"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Diana Giorgadze"
+  ],
+  "writers": null,
+  "broadcaster": "GPB",
+  "commentators": [
+    "George Abashidze",
+    "Helen Kalandadze",
+    "Nodiko Tatishvili"
+  ],
+  "jury": [
+    "Boris Shkhiani",
+    "Jojo",
+    "Khatuna Koberidze",
+    "Lado",
+    "Mariam Mariko Lezhava"
+  ],
+  "spokesperson": "George Abashidze"
+}

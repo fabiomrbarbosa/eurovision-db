@@ -1,0 +1,72 @@
+{
+  "id": 24,
+  "country": "GB",
+  "artist": "Josh",
+  "song": "That Sounds Good To Me",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/fR7l2xC4cOY",
+    "https://www.youtube-nocookie.com/embed/InTgD_9DB3I",
+    "https://www.youtube-nocookie.com/embed/b8363R9XbGY",
+    "https://www.youtube-nocookie.com/embed/wlUGdYXB5T8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "That Sounds Good To Me",
+      "content": "How do I begin to imagine\nAll the happy faces I'd like to see?\nThe final destination\nWith sounds of celebration\nIf I could find the opportunity\n\nSo I wonder, who can I turn to?\nWho can make these wishes and dreams come true?\nAnd with you there beside me\nAnd loving hands to guide me\nAnything is possible to do\n\nSo if you bring the sunshine\nI'll bring the good times\nJust add your laughter\nIt's happy ever after\nI don't know about you\nBut that sounds good to me\n\nI can feel it coming together\nAll the loving working so very well\nThere's nothing left to do now\nI'm gonna see it through now\nAnd we can let the future write itself\n\nSo if you bring the sunshine\nI'll bring the good times\nJust add your laughter\nIt's happy ever after\nI don't know about you\nBut that sounds good to me\n\nWhoa… (Oh whoa whoa yeah…)\n\nYou bring the sunshine\nI'll bring the good times\nJust add your laughter\nIt's happy ever after\nI don't know about you\nBut that sounds good to me\n\nI don't know about you\nBut that sounds good to me\n\nThаt soundѕ good to me"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": null,
+      "title": "זה טוב מבחינתי",
+      "content": "איך אתחיל לדמיין\nאת כל הפרצופים השמחים שארצה לראות?\nהיעד הסופי\nוקולות החגיגה\nלו יכֹלתי למצוא הזדמנות\n\nאז אני שואל אל מי אוכל לפנות?\nמי יכול להגשים את המשאלות והחלומות האלו\nואיתכם לצידי\nוידיים אוהבות שינחו אותי\nאפשר לעשות הכל\n\nאז אם אתם מביאים את אור השמש\nאני אביא את הכיף\nרק תוסיפו את צחוקכם\nוזה אושר עד עצם היום הזה\nאנ'לא יודע מה אתכם\nאבל זה טוב מבחינתי\n\nאני מרגיש שהכל מתחבר\nכל האהבה פועלת כל כך טוב\nולא נשאר עוד מה לעשות\nנראה מה יצא עכשיו\nוניתן לעתיד לכתוב את עצמו\n\nאתם מביאים את אור השמש\nאני אביא את הכיף\nרק תוסיפו את צחוקכם\nוזה אושר עד עצם היום הזה\nאנ'לא יודע מה אתכם\nאבל זה טוב מבחינתי\n\nהו…\n\nאתם מביאים את אור השמש\nאני אביא את הכיף\nרק תוסיפו את צחוקכם\nוזה אושר עד עצם היום הזה\nאנ'לא יודע מה אתכם\nאבל זה טוב מבחינתי\n\nאנ'לא יודע מה אתכם\nאבל זה טוב מבחינתי\n\nזה טוב מבחינתי"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Мне Приятно Это Слышать",
+      "content": "Как бы мне вообразить счастливые лица, которые хочу увидеть?\nКонечный пункт назначения\nЗвуки веселья\nЕсли бы я мог найти возможность\n\nПотому я спрашиваю себя, к кому мне обратиться?\nКто воплотит в реальность эти желания и мечты?\nКогда ты рядом и твои любящие руки направляют меня\nНе существует ничего невозможного\n\nЕсли ты подаришь солнечный свет\nЯ подарю добрые времена\nПросто добавь смеха\nИ тогда будем жить долго и счастливо\nНе знаю как тебе, но мне приятно это слышать\n\nЯ чувствую, как всё сходится\nЛюбовь хорошо поработала\nТеперь нечего больше делать\nСейчас всё прояснится\nПусть будущее выправится само\n\nЕсли ты подаришь солнечный свет\nЯ подарю добрые времена\nПросто добавь смеха\nИ тогда будем жить долго и счастливо\nНе знаю как тебе, но мне приятно это слышать\n\nЕсли ты подаришь солнечный свет\nЯ подарю добрые времена\nПросто добавь смеха\nИ тогда будем жить долго и счастливо\nНе знаю как тебе, но мне приятно это слышать\nНе знаю как тебе, но мне приятно это слышать\n\nМне приятно это слышать"
+    }
+  ],
+  "bpm": 126,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Josh Dubovie"
+  ],
+  "backings": [
+    "Joanna Breheny",
+    "Kirsten Joy",
+    "Suzanne Carley"
+  ],
+  "dancers": [
+    "Ciarán Connolly",
+    "Filippo Calvagno"
+  ],
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Mike Stock",
+    "Pete Waterman",
+    "Steve Crosby"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Graham Norton",
+    "Paddy O'Connell",
+    "Sarah Cawood"
+  ],
+  "jury": null,
+  "spokesperson": "Scott Mills"
+}

@@ -1,0 +1,66 @@
+{
+  "id": 12,
+  "country": "EE",
+  "artist": "Stefan",
+  "song": "Hope",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/GdTpQmMem8U",
+    "https://www.youtube-nocookie.com/embed/bKhSlSx00-I",
+    "https://www.youtube-nocookie.com/embed/L93yMhrJy64",
+    "https://www.youtube-nocookie.com/embed/ii4Z5SCzBhM",
+    "https://www.youtube-nocookie.com/embed/yDGlnEUqm7A",
+    "https://www.youtube-nocookie.com/embed/tE2KYttAHWA",
+    "https://www.youtube-nocookie.com/embed/Gn4ay_K0ye4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Hope",
+      "content": "We let them tell us what to do\nWhy why why\nWe live to die for worthy things\nOh ya ya ya\n\nWe promised we would never lose our pride\nYour word's worth nothing if you lie\nWe're standing tall and looking up, our Father would be proud\nAnd I'm happy to be working my own ground\n\nWe'll be the last ones breathing here\n\nHey sing your heart out boy\nFor all the people great and small\nOh, when all else is lost\nThe future still remains our own\n\nWe're taught that we were born to lose\nBut why why why\nDon't waste your breath, it's time to choose\nOh ya ya ya\n\nWe promised we would never lose our pride\nEveryday they try to turn that into lies\nWe're standing tall and looking up, our Father would be proud\nAnd I'm happy to be working my own ground\n\nI said\nHey sing your heart out boy\nFor all the people great and small\nOh, when all else is lost\nThe future still remains our own\n\nI hope I hope I hope\nI hope I hope\nI hope I hope I hope\nI hope I hope\n\nWe let them tell us what to do\nWhy why why\nWe live to die for worthy things\nOh ya ya ya\nNo matter what they try, tearing up our lives\nI know we will always rise\n\nI said\nHey sing your heart out boy\nFor all the people great and small\nOh, when all else is lost\nThe future still remains our own\n\nI hope I hope I hope\nI hope I hope\nI hope I hope I hope\n\nThe future still remаinѕ our own\n\nI hope I hope I hope\nI hope I hope\nI hope I hope I hope\nI hope I hope I hope"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Esperança",
+      "content": "Deixamos eles dizerem-nos o que fazer\nPor quê? Por quê? Por quê?\nVivemos para morrer por coisas dignas\nOh sim, sim, sim\n\nPrometemos que nunca perderíamos nosso orgulho\nTuas palavras valem nada se mentir\nEstamos de pé e olhando para cima, nosso Pai ficaria orgulhoso\nE estou feliz por trabalhar em minha própria terra\n\nSeremos os últimos respirando aqui\n\nEi, cante com todo o seu coração garoto\nPor todas as pessoas grandes e pequenas\nOh, quando todo o resto perdido está\nO futuro continua a ser nosso\n\nSomos ensinados que nascemos para perder\nMas por quê? Por quê? Por quê?\nNão desperdice seu fôlego, é hora de escolher\nOh sim, sim, sim\n\nPrometemos que nunca perderíamos nosso orgulho\nTodos os dias eles tentam tornar isso em mentiras\nEstamos de pé e olhando para cima, nosso Pai ficaria orgulhoso\nE estou feliz por trabalhar em minha própria terra\n\nEu digo\nEi, cante com todo o seu coração garoto\nPor todas as pessoas grandes e pequenas\nOh, quando todo o resto perdido está\nO futuro continua a ser nosso\n\nEspero, espero, espero\nEspero, espero\nEspero, espero, espero\nEspero, espero\n\nDeixamos eles dizerem-nos o que fazer\nPor quê? Por quê? Por quê?\nVivemos para morrer por coisas dignas\nOh sim, sim, sim\nNão importa o que eles tentem, destruindo nossas vidas\nEu sei que sempre nos ergueremos\n\nEu digo\nEi, cante com todo o seu coração garoto\nPor todas as pessoas grandes e pequenas\nOh, quando todo o resto perdido está\nO futuro continua a ser nosso\n\nEspero, espero, espero\nEspero, espero\nEspero, espero, espero\n\nO futuro continua а ser nosso\n\nEspero, espero, espero\nEspero, espero\nEspero, espero, espero\nEspero, espero, eѕpero"
+    }
+  ],
+  "bpm": 123,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Stefan Airapetjan"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Jaagup Tuisk",
+  "composers": [
+    "Karl-Ander Reismann",
+    "Stefan Airapetjan"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Stefan Airapetjan"
+  ],
+  "writers": null,
+  "broadcaster": "ERR",
+  "commentators": [
+    "Aleksandr Hobotov",
+    "Julia Kalenda",
+    "Marko Reikop"
+  ],
+  "jury": [
+    "Karl Killing",
+    "Liina Ariadne Pedanik",
+    "Maian-Anna Kärmas",
+    "Sven Lõhmus",
+    "Toomas Olljum"
+  ],
+  "spokesperson": "Tanel Padar"
+}

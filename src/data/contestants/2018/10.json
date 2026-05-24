@@ -1,0 +1,82 @@
+{
+  "id": 10,
+  "country": "AL",
+  "artist": "Eugent Bushpepa",
+  "song": "Mall",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/uyl1b1fVmdU",
+    "https://www.youtube-nocookie.com/embed/E7t4mu0tmWc",
+    "https://www.youtube-nocookie.com/embed/VbNFep0qyck",
+    "https://www.youtube-nocookie.com/embed/kNwkCFmjNx4",
+    "https://www.youtube-nocookie.com/embed/DeKWkHW23g8",
+    "https://www.youtube-nocookie.com/embed/9uUkqioJXMc",
+    "https://www.youtube-nocookie.com/embed/pkluKWNEv-g"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "albanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Mall",
+      "content": "Një pritje e gjatë, e ëmbël e zjarrtë\nCa hapa trokasin si zemër këtë natë\nUnë ndjek ritmin e saj\nDy duar që zgjaten përpijnë në ngrohtësi\nKy mall që të djeg nuk njeh kufi as largësi\n\nAsgjë në këtë botë nuk mund ta shprehë dot ndjesinë\nKur zemrat bashkohen dhe prapë rrahin si një\n\nDua të hesht në këtë natë i shtrirë në këtë shtrat\nKu ëndrrat hyjnore shërojnë çdo plagë\nTë shoh portretin e saj\nMomentet kalojnë, sekondat nuk falin\nOrët pasojnë por ndjenjën se ndalin, jo\n\nSi më magji hëna shikimet përpin\nMë sjell vegimin tënd\n\nLot i patharë ndriçojë këtë natë\nSonte kumbo prej shpirtit pa fjalë\nVetëm një çast dhimbja të më ndalë\nKy lot i patharë një ditë do shterojë\nNga puthjet e zjarrta që ëndërroi\nNë atë çast dhimbja do ndalojë\n\nE ëmbël kjo jetë por nuk njeh kufi\nHërë na përkëdhel, hërë na krijon largësi\nTy të kam larg\nMë bën të luftoj kur fuqitë kanë shteruar\nTë ëndërroj edhe kur zgjuar jam\n\nSi më magji hëna shikimet përpin\nSytë tanë puqën sërish edhe pse është fantazi\nJetën do ta fal ty\n\nLot i patharë ndriçojë këtë natë\nSonte kumbo prej shpirtit pa fjalë\nVetëm një çast dhimbja të më ndalë\nKy lot i patharë një ditë do shterojë\nNga puthjet e zjarrta që ëndërroi\nNë atë çaѕt dhimbja do ndаlojë"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": null,
+      "title": "געגועים",
+      "content": "המתנה ארוכה, ולוהטת\nכמה צעדים פועמים כמו לב הלילה\nאני עוקב אחר הקצב שלה\nשתי ידיים שמדריכות מרגישות את החום\nהכמיהה הזו הבוערת לא יודעת גבולות ולא מרחק\n\nשום דבר בעולם הזה לא יכול להסביר את ההרגשה הזו\nכששני לבבות מתאחדים ופועמים כמו אחד\n\nאני רוצה להשתיק הלילה שכבתי במיטה הזו\nשבו החלומות האלוהיים מרפאים כל פצע\nלראות את הדיוקן שלה\nרגעים חולפים, שניות לא סולחים\nשעות עוברות אבל הם לא יכולים לעצור את ההרגשה, לא\n\nכמו בקסם, הירח מביט במבטינו\nזה מביא לי את החזון שלך\n\nדמעה לא מיובשת, האיר את הלילה הזה\nלהדהד היום מהנשמה הדוממת\nרק רגע הכאב עוצר אותי\nהדמעה הלא מיובשת הזו תתנקז יום אחד\nמהנשיקות הלוהטות שהוא חלם\nבאותו רגע הכאב יפסיק\n\nהחיים האלה מתוקים, אבל הם לא יודעים גבולות\nלפעמים זה מלטף אותנו, לפעמים זה מפריד בינינו\nיש לי אותך רחוק\nאתה גורם לי להילחם כשהכוחות שלי נפטרו\nאני חולם עליך גם כשאני ער\n\nכמו בקסם, הירח מביט במבטינו\nהעיניים שלנו נפגשות שוב, למרות שזו פנטזיה\nאני אתן את חיי לך\n\nדמעה לא מיובשת, האיר את הלילה הזה\nלהדהד היום מהנשמה הדוממת\nרק רגע הכאב עוצר אותי\nהדמעה הלא מיובשת הזו תתנקז יום אחד\nמהנשיקות הלוהטות שהוא חלם\nבאותו רגע הכאב ייפסק"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Yearning",
+      "content": "A long wait, and fiery\nA few steps beat like a heart tonight\nI follow her rhythm\nTwo hands that guide feel the warmth\nThis yearning that burns doesn't know boundaries nor distance\n\nNothing in this world can explain this feeling\nWhen two hearts unite and beat like one\n\nI want to hush tonight lay in this bed\nWhere the divine dreams heal every wound\nTo see her portrait\nMoments pass by, seconds don't forgive\nHours go but they can't stop the feeling, no\n\nAs by magic, the moon gazes our stares\nIt brings me your vision\n\nUndried tear, enlighten this night\nResound today from the silent soul\nJust a moment the pain stops me\nThis undried tear will drain one day\nFrom the fiery kisses it dreamed\nAt that moment the pain will stop\n\nSweet this life, but it knows no boundaries\nSometimes it caresses us, sometimes it separates us\nI have you far away\nYou make me fight when my powers have given out\nI dream of you even when I am awake\n\nAs by magic, the moon gazes our stares\nOur eyes meet again, even though it is a fantasy\nI will give my life to you\n\nUndried tear, enlighten this night\nResound today from the silent soul\nJust a moment the pain stops me\nThis undried tear will drain one day\nFrom the fiery kisses it dreamed\nAt that moment the pаin will ѕtop"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Längtan",
+      "content": "En lång väntan, och eldig\nNågra få steg slår som ett hjärta ikväll\nJag följer hennes rytm\nTvå händer som vägleder känner värmen\nDenna längtan som brinner vet varken gränser eller avstånd\n\nInget i världen kan förklara denna känsla\nNär två hjärtan förenar sig och slår som ett\n\nJag vill hyssja ikväll ligg i den här sängen\nDär de gudomliga drömmarna helar varje sår\nAtt se hennes porträtt\nStunder passerar, sekunder förlåter inte\nTimmar går men de kan inte stoppa känslan, nej\n\nSom av magi ser månen våra blickar\nDen ger mig din vision\n\nOtorkade tår, lys upp den här natten\nSkalla idag från den tysta själen\nBara för en stund stoppar smärtan mig\nDen här otorkade tåren kommer drunkna en dag\nI de eldiga kyssarna den drömde om\nI den stunden kommer smärtan sluta\n\nDet här livet är ljuvt, men det vet inga gränser\nIbland smeker det oss, ibland separerar det oss\nJag har dig långt bort\nDu får mig att kämpa när mina krafter har gett upp\nJag drömmer om dig även när jag är vaken\n\nSom av magi ser månen våra blickar\nVåra ögon möts igen, även om det bara är en fantasi\nJag ska ge mitt liv till dig\n\nOtorkade tår, lys upp den här natten\nSkalla idag från den tysta själen\nBara för en stund stoppar smärtan mig\nDen här otorkade tåren kommer drunkna en dag\nI de eldiga kyssarna den drömde om\nI den stunden kommer smärtan ѕlutа"
+    }
+  ],
+  "bpm": 127,
+  "tone": "E major",
+  "artistPeople": [
+    "Gent Bushpepa"
+  ],
+  "backings": [
+    "Erinda Agolli",
+    "Greta Radovani"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Eugent Bushpepa"
+  ],
+  "conductor": null,
+  "lyricists": null,
+  "writers": null,
+  "broadcaster": "RTSH",
+  "commentators": [
+    "Andri Xhahu"
+  ],
+  "jury": [
+    "Ben Andoni",
+    "Bojken Lako",
+    "Elton Deda",
+    "Kamela Islamaj",
+    "Rosela Gjylbegu"
+  ],
+  "spokesperson": "Andri Xhahu"
+}

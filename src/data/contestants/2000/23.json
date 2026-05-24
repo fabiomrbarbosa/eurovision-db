@@ -1,0 +1,55 @@
+{
+  "id": 23,
+  "country": "BE",
+  "artist": "Nathalie Sorce",
+  "song": "Envie de vivre",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/2dB2s0N359E",
+    "https://www.youtube-nocookie.com/embed/yamvBCVxVXo",
+    "https://www.youtube-nocookie.com/embed/MjLBHstbFlo",
+    "https://www.youtube-nocookie.com/embed/P36EuGi3nUU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Envie de vivre",
+      "content": "Comment vivre sans amour?\nComment vivre sans amour?\nComment vivre l'envie de vivre?\n\nAu delà des pensées, au delà de l'amour\nIl nous faut partager bien autre chose chaque jour\nSous les foudres du temps en colère depuis deux mille ans\nCe qui reste debout, ce n'est pas nous\n\nEntre le bien, le mal, bien d'autres sentiments\nSuivent la seule étoile à la gloire du Dieu vivant\nA travers les passions et défiant toutes les saisons\nCe qui reste debout ce n'est pas nous, mais\n\nL'envie de vivre pour l'eternité\nL'envie de vivre nous a dépassés\nL'envie de vivre restera gravée\nComme dans un livre qu'on a oublié\n\nMais on ne peut survivre dans un monde sans amour\nLes portes de la vie en auront besoin chaque jour\nComment pourrait-on voir un sourire dans chaque regard\nSi la case départ est dénuée de tout espoir?\n\nAlors je veux vivre, vivre pour donner\nL'envie de vivre et l'envie d'aimer\n\nL'envie de vivre pour l'eternité\nL'envie de vivre nous a dépassés\nL'envie de vivre restera gravée\nComme dans un livre qu'on a retrouvé\n\nComment vivre sans amour?\nComment vivre sanѕ аmour?\nComment vivre l'envie de vivre?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The wish to live",
+      "content": "How to live without love?\nHow to live without love?\nHow to live the wish to live?\n\nBeyond thoughts, beyond love\nWe have to share far more every day\nUnder the wrath of time furious for 2000 years\nWhat's left standing, it's not us\n\nBetween good and bad, lots of other feelings\nFollowing the only star to the glory of the living God\nThrough the passions and distrusting all seasons\nWhat's left standing, it's not us, but\n\nThe wish to live for eternity\nThe wish to live passed us by\nThe wish to live will remain engraved\nLike in a book we have forgotten about.\n\nBut we can't survive in a world without love\nThe gates of life will need it every day\nHow could we see a smile in every look\nIf square one is devoid of any hope?\n\nSo I want to live, live to give\nThe wish to live and the wish to love\n\nThe wish to live for eternity\nThe wish to live passed us by\nThe wish to live will remain engraved\nLike in a book we have discovered agаin\n\nHow to live without love?\nHow to live without love?\nHow to live the wiѕh to live?"
+    }
+  ],
+  "bpm": 115,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Nathalie Sorce"
+  ],
+  "backings": [
+    "Mirella Baglio"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Silvio Pezzuto"
+  ],
+  "broadcaster": "RTBF",
+  "commentators": [
+    "André Vermeulen",
+    "Jean-Pierre Hautier"
+  ],
+  "jury": null,
+  "spokesperson": "Thomas Van Hamme"
+}

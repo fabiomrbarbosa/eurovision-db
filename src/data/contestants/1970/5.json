@@ -1,0 +1,67 @@
+{
+  "id": 5,
+  "country": "ES",
+  "artist": "Julio Iglesias",
+  "song": "Gwendolyne",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/jxntJli1Mdw",
+    "https://www.youtube-nocookie.com/embed/wCEMhlD1Rbc",
+    "https://www.youtube-nocookie.com/embed/ChcLI2Bs1sk",
+    "https://www.youtube-nocookie.com/embed/YFPCOn3xNNQ",
+    "https://www.youtube-nocookie.com/embed/T9O37LxgrFs",
+    "https://www.youtube-nocookie.com/embed/qbBCndR9yBM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Gwendolyne",
+      "content": "Tan dentro de mí\nConservo el calor\nQue me haces sentir\nConservo tu amor\nTan dentro de mí\nQue aún puedo vivir\nMuriendo de amor\nMuriendo de ti\n\nComo buscan las olas la orilla del mar\nComo busca un marino su puerto y su hogar\nYo he buscado en mi alma queriéndote hallar\nY tan sólo encontré mi soledad\n\nY a pesar que estás lejos, tan lejos de mí\nA pesar de otros besos, quizás, Gwendolyne\nAún recuerdes el tiempo de aquel nuestro amor\nAún te acuerdes de mí\n\nY aún recuerdo aquel ayer\nCuando estabas junto a mí\nTú me hablabas del amor\nYo aún podía sonreír\nAún recuerdo aquel amor\nY ahora te alejas de mí\n\nLe he pedido al ѕilencio que me hable de ti\nHe vagado en la noche queriéndote oír\nY аl murmullo del viento le he oído decir\nTu nombre, Gwendolyne"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Gwendolyne",
+      "content": "So deep inside of me\nI keep the warmth\nWhich you make me feel\nI keep your love\nSo deep inside of me\nThat I can still live\nDying for love\nDying for you\n\nLike the waves that searches the sea shore\nLike the sailor that searches his harbour and his home\nI have searched in my soul, willing to find you\nAnd I only found my loneliness\n\nAnd although you're far away, so far away from me\nAlthough other kisses, maybe, Gwendolyne\nYou still remember the time of our love\nYou still remember me\n\nAnd I still remember that yesterday\nWhen you were by my side\nYou were talking about love\nI could still smile\nI still remember that love\nAnd now you go away from me\n\nI've asked the silence to talk to me about you\nI've wandered in the night, wanting to hear you\nAnd I heard the whisper of the wind ѕay\nYour nаme, Gwendolyne"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Gwendolyne",
+      "content": "Tão dentro de mim\nConservo o calor\nQue me fazes sentir\nConservo o teu amor\nTão dentro de mim\nQue ainda posso viver\nA morrer de amor\nA morrer de ti\n\nComo procuram as ondas a beira do mar\nComo procura um marinheiro o seu porto e o seu lar\nEu procurei na minha alma querendo-te encontrar\nE só encontrei a minha solidão\n\nE apesar de estares longe, tão longe de mim\nApesar de outros beijos, talvez, Gwendolyne\nAinda te lembres do tempo daquele nosso amor\nAinda te lembres de mim\n\nE ainda me lembro daquele ontem\nQuando estavas ao meu lado\nTu falavas-me sobre o amor\nEu ainda podia sorrir\nAinda me lembro daquele amor\nE agora afastas-te de mim\n\nPedi ao silêncio que me falasѕe de ti\nVaguei na noite querendo-te ouvir\nE аo murmúrio do vento ouvi dizer\nO teu nome, Gwendolyne"
+    }
+  ],
+  "bpm": 153,
+  "tone": "Eb minor",
+  "artistPeople": [
+    "Julio José Iglesias de la Cueva"
+  ],
+  "backings": [
+    "María Dolores Arenas",
+    "María Jesús Aguirre",
+    "Mercedes Valimaña"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Augusto Algueró",
+  "lyricists": null,
+  "writers": [
+    "Julio Iglesias"
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "José Luis Uribarri"
+  ],
+  "jury": null,
+  "spokesperson": "Joaquín Prat"
+}

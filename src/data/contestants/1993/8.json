@@ -1,0 +1,71 @@
+{
+  "id": 8,
+  "country": "GR",
+  "artist": "Kaiti Garbi",
+  "song": "Ellada, hora tu fotos",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/PzuHYDrn-kY",
+    "https://www.youtube-nocookie.com/embed/1wWJqe2WIUw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ellinika"
+      ],
+      "title": "Ellada, hora tu fotos",
+      "content": "Ellatha, hora tu fotos, tu kosmu, arhi ke yirismos\nTopos pu thialexe o Theos, kati trehi, pera vrehi\nErhete thiskolos keros, ke su fonazi o uranos\nKatse skepsu, loyikepsu\n\nTi mia mas pezun, rok tin ali tsifteteli\nPethia tu Platona ke tu Aristoteli\nMas xeyelane me sekleti ke meraki\nPnevma athanato se troi to saraki\n\nTi mia mas pezun, rok tin ali tsifteteli\nPethia tu Platona ke tu Aristoteli\nMas xeyelane me sekleti ke meraki\nPnevma athanato se troi to saraki\n\nElatha, hora tu fotos, polemistis irinikos\nKan' alo ena vima bros, yia prohora irthe i ora\nIse tu kosmu to krasi, ki as mi to xeris ute esi\nKatse vres ta ke evga pes ta\n\nTi mia mas pezun, rok tin ali tsifteteli\nPethia tu Platona ke tu Aristoteli\nMas xeyelane me sekleti ke meraki\nPnevma athanato se troi to saraki\n\nTi mia mas pezun, rok tin ali tsifteteli\nPethia tu Platona ke tu Aristoteli\nMas xeyelane me sekleti ke meraki\nPnevma athanato se troi to saraki\n\nTi mia mas pezun, rok tin ali tsifteteli\nPethia tu Platonа ke tu Ariѕtoteli"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ελληνικά"
+      ],
+      "title": "Ελλάδα, χώρα του φωτός",
+      "content": "Ελλάδα, χώρα του φωτός, του κόσμου, αρχή και γυρισμός\nΤόπος που διάλεξε ο Θεός, κάτι τρέχει, πέρα βρέχει\nΈρχεται δύσκολος καιρός, και σου φωνάζει ο ουρανός\nΚάτσε σκέψου, λογικέψου\n\nΤη μια μας παίζουν, ροκ την άλλη τσιφτετέλι\nΠαιδιά του Πλάτωνα και του Αριστοτέλη\nΜας ξεγελάνε με σεκλέτι και μεράκι\nΠνεύμα αθάνατο σε τρώει το σαράκι\n\nΤη μια μας παίζουν, ροκ την άλλη τσιφτετέλι\nΠαιδιά του Πλάτωνα και του Αριστοτέλη\nΜας ξεγελάνε με σεκλέτι και μεράκι\nΠνεύμα αθάνατο σε τρώει το σαράκι\n\nΕλλάδα, χώρα του φωτός, πολεμιστής ειρηνικός\nΚάν' άλλο ένα βήμα μπρος, για προχώρα ήρθε η ώρα\nΕίσαι του κόσμου το κρασί, κι ας μην το ξέρεις ούτε εσύ\nΚάτσε βρες τα κι έβγα πες τα\n\nΤη μια μας παίζουν, ροκ την άλλη τσιφτετέλι\nΠαιδιά του Πλάτωνα και του Αριστοτέλη\nΜας ξεγελάνε με σεκλέτι και μεράκι\nΠνεύμα αθάνατο σε τρώει το σαράκι\n\nΤη μια μας παίζουν, ροκ την άλλη τσιφτετέλι\nΠαιδιά του Πλάτωνα και του Αριστοτέλη\nΜας ξεγελάνε με σεκλέτι και μεράκι\nΠνεύμα αθάνατο σε τρώει το σαράκι\n\nΤη μια μας παίζουν ροκ την άλλη τσιφτετέλι\nΠαιδιά του Πλάτωνα και του Αριστοτέλη"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Greece, country of light",
+      "content": "Greece, country of light, the world's beginning and comeback\nA place chosen by God, something's going on, you don't give a damn\nDifficult times are coming, and the sky is shouting to you\nSit down and think, get to your senses\n\nOne time they play us rock music and the other tsifteteli\nChildren of Plato and Aristotle\nThey trick us with sadness and taste\nOh immortal spirit, cankers are destroying you\n\nOne time they play us rock music and the other tsifteteli\nChildren of Plato and Aristotle\nThey trick us with sadness and taste\nOh immortal spirit, cankers are destroying you\n\nGreece, country of light, peaceful fighter\nMake another move to the from, go forward, it's time\nYou are the world's wine, even if you don't know it\nSit down and figure it out and stand up and tell it\n\nOne time they play us rock music and the other tsifteteli\nChildren of Plato and Aristotle\nThey trick us with sadness and taste\nOh immortal spirit, cankers are destroying you\n\nOne time they play us rock music and the other tsifteteli\nChildren of Plato and Aristotle\nThey trick us with sadness and taste\nOh immortal spirit, cankers are destroying you\n\nOne time they play us rock music and the other tsifteteli\nChildren of Plato аnd Ariѕtotle"
+    }
+  ],
+  "bpm": 115,
+  "tone": "D minor",
+  "artistPeople": [
+    "Keti Garbi"
+  ],
+  "backings": [
+    "Nikos Terzis",
+    "Stelios Zachariou",
+    "Victoria Halkiti"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Haris Andreadis",
+  "lyricists": null,
+  "writers": [
+    "Dimosthenis Stringlis"
+  ],
+  "broadcaster": "ERT",
+  "commentators": [
+    "Dafni Bokota"
+  ],
+  "jury": [
+    "Bessy Argyraki",
+    "Pascalis Arvanitidis",
+    "Yiorgis Carellois"
+  ],
+  "spokesperson": "Fotini Giannoulatou"
+}

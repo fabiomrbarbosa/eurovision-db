@@ -1,0 +1,69 @@
+{
+  "id": 16,
+  "country": "MK",
+  "artist": "Martin Vučić",
+  "song": "Make My Day",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/wPiEpyPdto8",
+    "https://www.youtube-nocookie.com/embed/mwTd-UlvX4M",
+    "https://www.youtube-nocookie.com/embed/J-2iRtiHMTk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Make My Day",
+      "content": "Ley lala ley la… lala ley lala ley la…\nLala ley lala ley la… lala ley lalala…\nLey lala ley la… lala ley lala ley la…\nLala ley lala ley la… lala ley lalala…\n\nDay after day, time after time\nYou just try to make me cry\nHand in your hand, tears in my eyes\nI pretend you make me fly\n\nBut honestly, it's plain to see\nI'm not the man to be\nYour cuddly toy, I am the boy\nWho will break up with you to be free\n\nMake my day, get away\nTake it all, baby, please go\nTry to play another way\nOr I will find another love\n\nLey lala ley la… lala ley lala ley la…\nLala ley lala ley la… lala ley lalala…\n\nDay after day, time after time\nYou just try to make me cry\nBut don't you see that I am the boy\nWho will break up with you to be free?\n\nMake my day, get away\nTake it all, baby, please go\nTry to play another way\nOr I will find another love\n(Make my day) Shake it now, baby\n\nMake my day, get away\nTake it all, baby, please go\nTry to play another way\nOr I will find another love\n\nMake my day, get away\nTake it all, baby, pleaѕe go\nTry to play another way\nOr I will find another love\n\nMake my dаy"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "macedonian"
+      ],
+      "displayedLanguages": [
+        "македонски"
+      ],
+      "title": "Ти Си Сон",
+      "content": "Преполн локал, тугја за жал\nЦела си ко од порцелан\nПесни без нас, раце ко мраз\nМорам да те имам јас\n\nОд ѕвездите збунети\nГо земам твојот број\nПишувам порака\nВлези во животот мој\n\nТи си сон, сонот мој\nГледам како те гали\nНе сум бог ни херој\nНа срце фитил запали\n\nЛеј лала леј ла… лала леј лала леј ла… Ley lala ley la… lala ley lala ley la…\nЛала леј лала леј ла… лала леј лалала… Lala ley lala ley la… lala ley lalalа…\n\nПреполн локал, тугја за жал\nЦела си ко од порцелан\nНикаде не бржам\nМожам и сакам и знам\n\nТи си сон, сонот мој\nГледам како те гали\nНе сум бог ни херој\nНа срце фитил запали\n\nТи си сон, сонот мој\nГледам како те гали\nНе сум бог ни херој\nНа срце фитил запали\n\nТи си сон, сонот мој\nГледам како те гали\nНе сум бог ни херој\nНа срце фитил запали\n\nТи си сонот мој"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "macedonian"
+      ],
+      "displayedLanguages": [
+        "makedonski"
+      ],
+      "title": "Ti si son",
+      "content": "Prepoln lokal, tugja za žal\nCela si ko od porcelan\nPesni bez nas, race ko mraz\nMoram da te imam jas\n\nOd dzvezdite zbuneti\nGo zemam tvojot broj\nPišuvam poraka\nVlezi vo životot moj\n\nTi si son, sonot moj\nGledam kako te gali\nNe sum bog ni heroj\nNa srce fitil zapali\n\nLej lala lej la… lala lej lala lej la… Ley lala ley la… lala ley lala ley la…\nLala lej lala lej la… lala lej lalala… Lala ley lala ley la… lala ley lalala…\n\nPrepoln lokal, tugja za žal\nCela si ko od porcelan\nNikade ne bržam\nMožam i sakam i znam\n\nTi si son, sonot moj\nGledam kako te gali\nNe sum bog ni heroj\nNa srce fitil zapali\n\nTi si son, sonot moj\nGledam kako te gali\nNe sum bog ni heroj\nNa srce fitil zapali\n\nTi si son, sonot moj\nGledam kako te gali\nNe sum bog ni heroj\nNa srce fitil zapаli\n\nTi si ѕonot moj"
+    }
+  ],
+  "bpm": 120,
+  "tone": "C# minor",
+  "artistPeople": [
+    "Martin Vučić"
+  ],
+  "backings": [
+    "Gjoko Taneski",
+    "Vlatko Ilievski"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Dragan Vučić"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Branka Kostić"
+  ],
+  "writers": null,
+  "broadcaster": "MKRTV",
+  "commentators": [
+    "Ivan Mircevski"
+  ],
+  "jury": null,
+  "spokesperson": "Karolina Gočeva"
+}

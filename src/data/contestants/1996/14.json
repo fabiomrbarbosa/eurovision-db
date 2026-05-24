@@ -1,0 +1,54 @@
+{
+  "id": 14,
+  "country": "PL",
+  "artist": "Kasia Kowalska",
+  "song": "Chcę znać swój grzech",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/UqC45z6r3xU",
+    "https://www.youtube-nocookie.com/embed/QB7KyZryRIY"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "polish"
+      ],
+      "displayedLanguages": null,
+      "title": "Chcę znać swój grzech",
+      "content": "Zobacz, jak to wszystko zmienia mnie\nCzuję, jak mym życiem rządzi lęk\nW każdą noc, kiedy pytam\nZnów ukrywasz twarz\nCzy naprawdę tak muszę żyć?\n\nZabierz tam, gdzie nikt nie znajdzie mnie\nPo tym, jak przyrzeknę kochać cię\nW każdą noc, kiedy pragnę\nZnów zakrywasz twarz\nCzy naprawdę tak miało być?\n\nJeśli tak\nZanim skarzesz mnie\nChcę znać swój grzech\nTen jeden raz\nZanim stracę cię\nChcę znać swój grzech\n\nW każdą noc, kiedy pragnę\nZnów ukrywasz twarz\nTak okazać coś trudno ci\n\nTak, tak, cokolwiek dać\n(Zanim skarzesz mnie)\n(Chcę znać swój grzech)\nTen jeden raz\nZanim skarzesz mnie\nChcę znać swój grzech\n\nTen jeden raz\nZanim skarzesz mnie\nChcę znać swój grzech, je, je...\nOstatni raz\nZanim stracę cię\nChcę znаć ѕwój grzech\n\nSwój grzech"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I want to know my sin",
+      "content": "Look, how everything changes\nI feel that fear rules my life\nEvery night, when I want to ask you something\nYou hide your face again\nDo I have to live like this?\n\nTake me where nobody will find me\nThen I'll promise to love you\nEvery night, when I want you\nYou hide your face again\nWas it meant to be like this?\n\nIf so\nBefore you hurt me\nI want to know my sin\nOnly once\nBefore I lose you\nI want to know my sin\n\nEvery night, when I want you\nYou hide your face again\nIt's very hard for you to show it to me\n\nYes, yes, give me something\n(Before you hurt me)\n(I want to know my sin)\nOnly once\nBefore you hurt me\nI want to know my sin\n\nOnly once\nBefore you hurt me\nI want to know my sin\nThe last time\nBefore I lose you\nI wаnt to know my sin\n\nMy ѕin"
+    }
+  ],
+  "bpm": 155,
+  "tone": "F# minor",
+  "artistPeople": [
+    "Kasia Kowalska"
+  ],
+  "backings": [
+    "Dorota Miśkiewicz"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Robert Amirian"
+  ],
+  "conductor": "Wieslaw Pieregorólka",
+  "lyricists": [
+    "Kasia Kowalska"
+  ],
+  "writers": null,
+  "broadcaster": "TVP",
+  "commentators": [
+    "Dorota Osman"
+  ],
+  "jury": null,
+  "spokesperson": "Jan Chojnacki"
+}

@@ -1,0 +1,64 @@
+{
+  "id": 10,
+  "country": "NL",
+  "artist": "Douwe Bob",
+  "song": "Slow Down",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/PwF9DI89q1w",
+    "https://www.youtube-nocookie.com/embed/vytgHD2pqyk",
+    "https://www.youtube-nocookie.com/embed/ffVDyQbUstY",
+    "https://www.youtube-nocookie.com/embed/ht4ECv6b8OQ",
+    "https://www.youtube-nocookie.com/embed/0oMUudm-pgU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "",
+      "content": "I'm going nowhere and I'm going fast\nI should find a place to go and rest\nI should find a place to lay my head tonight\n\nEvery morning there's another start\nEvery morning hits so hard\nGuess I'm running scared, guess I'm running on empty\n\nMister, can you help me?\n'Cause it seems I've been led astray\nI keep searching for an answer, for a way\nWon't you help me?\n\nYou gotta slow down, brother\nSlow down, brother\nSlow down if you can't go on\n\nSlow down, brother\nSlow down, brother\nSlow down if you can't go on\n\nDo you think I'll ever learn?\nI used to be without concern\nNow all I ever do don't seem to free me\n\nMister, can you help me?\n'Cause it seems I've been led astray\nI keep searching for an answer today\nWon't you help me?\n\nYou gotta ѕlow down, brother\nSlow down, brother\nSlow down if you can't go on\n\nSlow down, brother\nSlow down, brother\nSlow down if you can't go on\n\nSlow down, brother\nSlow down, brother\nSlow down if you can't go on\n\nSlow down, brother\nSlow down, brother\nSlow down if you can't go on\n\nSlow down, brother\nSlow down, brother\nSlow down if you can't go on\n\nSlow down, brother\nSlow down, brother\nSlow down if you cаn't go on"
+    }
+  ],
+  "bpm": 124,
+  "tone": "E minor",
+  "artistPeople": [
+    "Douwe Bob Posthuma"
+  ],
+  "backings": [
+    "Jan-Peter Hoekstra",
+    "Jeroen Overman",
+    "Matthijs van Duijvenbode",
+    "Stijn van Dalen",
+    "Thijs Boontjes"
+  ],
+  "dancers": null,
+  "stageDirector": "Hans Pannecoucke",
+  "composers": [
+    "Douwe Bob Posthuma",
+    "Jan Peter Hoekstra",
+    "Jeroen Overman",
+    "Matthijs van Duijvenbode"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Douwe Bob Posthuma",
+    "Jan Peter Hoekstra",
+    "Jeroen Overman"
+  ],
+  "writers": null,
+  "broadcaster": "AVROTROS",
+  "commentators": [
+    "Cornald Maas",
+    "Jan Smit"
+  ],
+  "jury": [
+    "Holger Schwedt",
+    "Jennie Lena",
+    "Marga Bult",
+    "Ruud de Wild",
+    "Setske Mostaert"
+  ],
+  "spokesperson": "Trijntje Oosterhuis"
+}

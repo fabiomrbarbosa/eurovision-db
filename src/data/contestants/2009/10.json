@@ -1,0 +1,79 @@
+{
+  "id": 10,
+  "country": "RU",
+  "artist": "Anastasia Prikhodko",
+  "song": "Mamo",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vxZGknFxE58",
+    "https://www.youtube-nocookie.com/embed/MtIddzCgMn0",
+    "https://www.youtube-nocookie.com/embed/vZbHXZtm9Ck"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "russian",
+        "ukrainian"
+      ],
+      "displayedLanguages": [
+        "русский",
+        "українська"
+      ],
+      "title": "Мамо",
+      "content": "Вышел из тени вновь, мой враг, моя любовь\nНеизбежна моя доля, сколько сердце ни готовь\nНо, прежде чем уйти, колечком золотым\nОбручил меня с собою и от чар не защитил\nИ на волю мою душу не пустил\n\nМамо, а ти ж мені казала як не жадай\nМамо, а я ж тоді не знала де ж та біда\nМамо, а ти ж мені казала час як вода\nМамо, мамо, мамо, любов – біда\n\nБрошу мечту свою и об пол разобью\nКак сломал ты мою долю и оставил на краю\nЯ дождём девичьи слезы разолью\n\nМама, а ты же мне сказала, не ожидай\nМама, а я ж тогда не знала, где ж та беда\nМама, а ты же мне сказала, время – вода\nМама, мама, мама, любовь – беда\n\nМамо, а я ж тоді не знала де ж та біда\nМамо, а ти ж мені казала час як вода\nМамо, мамо, мамо, любов – біда"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "russian",
+        "ukrainian"
+      ],
+      "displayedLanguages": [
+        "russkiy",
+        "ukrayinska"
+      ],
+      "title": "Mamo",
+      "content": "Višel iz tenji vnov, moj vrag – maja ljubov\nNjejizbježna maja dolja, skoljka sertse nji gatov\nNo, preždje čem ujti, kalječkom zalatim\nAbručil menja s saboju i at čar nje zašitil\nI na volju maju dušu nje pustil\n\nMamo, a ty zh menі kazala yak ne zhadai\nMamo, a ya zh todі ne znala de zh ta bіda\nMamo, a ty zh menі kazala chas yak voda\nMamo, mamo, mamo, liubov – bіda\n\nBrošu mečtu svaju i ab pol razabju\nKak slamal ti maju dolju i astavjil na kraju\nJa daždjom djevjiči sljozi razalju\n\nMama, a ti že mnje skazala, nje ažidaj\nMama, a ja ž tagda nje znala, gdje ž ta bjeda\nMama, a ti že mnje skazala, vrjema – vada\nMama, mama, mama, ljubov – bjeda\n\nMamo, a ya zh todі ne znala de zh ta bіda\nMamo, a ty zh menі kazala chaѕ yak voda\nMamo, mamo, mamo, liubov – bіdа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Mum",
+      "content": "Out of the shadows once again, my enemy, my love\nInevitable is my destiny, no matter how much you're prepared\nBut before you left, with golden ring\nYou engaged to me and didn't save me from sorcery\nAnd didn't let my soul be free\n\nMum, and you've been telling me not to desire\nMum, and at that time I didn't know where trouble was\nMum, and you've been telling me that time is like water\nMum, Mum, Mum, love is trouble\n\nI will throw away my dream and crush it on the floor\nHow you've broken my destiny and left it on the side\nI will pour out girl's tears like rain\n\nMum, and you've been telling me not to desire\nMum, and at that time I didn't know where trouble was\nMum, and you've been telling me that time is like water\nMum, Mum, Mum, love is trouble\n\nMum, and at that time I didn't know where trouble is\nMum, and you've been telling me that time is like wаter\nMum, Mum, Mum, love iѕ trouble"
+    }
+  ],
+  "bpm": 130,
+  "tone": "D minor",
+  "artistPeople": [
+    "Anastasiya Konstantynivna Prykhodko"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Konstantin Meladze"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Diana Golde",
+    "Konstantin Meladze"
+  ],
+  "writers": null,
+  "broadcaster": "C1R",
+  "commentators": [
+    "Aleksey Manuylov",
+    "Philipp Kirkorov",
+    "Yana Churikova"
+  ],
+  "jury": [
+    "Alexander Lunev",
+    "Elena Kipper",
+    "Igor Matvienko",
+    "Tamara Gverdtsiteli",
+    "Maria Katz"
+  ],
+  "spokesperson": "Ingeborga Dapkunaite"
+}

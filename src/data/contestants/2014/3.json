@@ -1,0 +1,62 @@
+{
+  "id": 3,
+  "country": "AM",
+  "artist": "Aram MP3",
+  "song": "Not Alone",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/oj0oOV-2fRQ",
+    "https://www.youtube-nocookie.com/embed/ChkJpnOgIwQ",
+    "https://www.youtube-nocookie.com/embed/mUt_A_9YxNI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Not Alone",
+      "content": "You're all alone, you're all alone\nNo shoulder wants you to lean on\nYou thought this world was too cold\nAnd you've made up\nA whole new world\n\nDon't cry, don't cry little bird\nThough you are scared and you're hurt\nYou're gonna wake up\nIt's only a dream\nAnd why do dreams make people scream\n\nYou're not alone\nYou're not alone\nYou're not alone\nYou're not alone\nYou're not alone\nYou're not alone\n\nWhat if it's only one kiss\nThat turns all seeds into trees\nThe strongest wind into breeze\nEnter all doors without keys\n\nWhat if it's only one kiss\nThat turns all seeds into trees\nThe strongest wind into breeze\nWhat if it's all in one kisѕ\n\nYou're not alone\nYou're not аlone"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Inte Ensam",
+      "content": "Du är helt ensam, du är helt ensam\nIngen axel vill att du ska luta dig mot\nDu trodde att denna värld var för kall\nOch du har gjort\nEn helt ny värld\n\nGråt inte, gråt inte lilla fågel\nÄven om du är rädd och sårad\nDu kommer att vakna\nDet är bara en dröm\nOch varför får drömmar personer att skrika\n\nDu är inte ensam\nDu är inte ensam\nDu är inte ensam\nDu är inte ensam\nDu är inte ensam\nDu är inte ensam\n\nTänk om det är bara en kyss\nSom förvandlar alla frön till träd\nDen starkaste vind till bris\nGår in i alla dörrar utan nycklar\n\nTänk om det är bara en kyss\nSom förvandlar alla frön till träd\nDen starkaste vind till bris\nTänk om det är allt i en kyss\n\nDu är inte ensam\nDu är inte enѕаm"
+    }
+  ],
+  "bpm": 140,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Aram Sargsyan (Արամ Սարգսյան)"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Aram Sargsyan"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Garik Papoyan"
+  ],
+  "writers": null,
+  "broadcaster": "AMPTV",
+  "commentators": [
+    "Anna Avanesyan",
+    "Arevik Udumyan",
+    "Erik Antaranyan",
+    "Tigran Danielyan"
+  ],
+  "jury": [
+    "Anush Arshakyan",
+    "Arman Davtyan",
+    "Asatur Asatryan",
+    "Avet Barseghyan",
+    "Inga Arshakyan"
+  ],
+  "spokesperson": "Anna Avanesyan"
+}

@@ -1,0 +1,61 @@
+{
+  "id": 20,
+  "country": "FI",
+  "artist": "The Rasmus",
+  "song": "Jezebel",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/LSi9nfr65FE",
+    "https://www.youtube-nocookie.com/embed/IwHijzdNN2A",
+    "https://www.youtube-nocookie.com/embed/HT786cosYoQ",
+    "https://www.youtube-nocookie.com/embed/XtMfCf3vFbc",
+    "https://www.youtube-nocookie.com/embed/m33Gzhd5Yfw",
+    "https://www.youtube-nocookie.com/embed/oTm4fgYIWGI",
+    "https://www.youtube-nocookie.com/embed/iISZzme2Sr0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Jezebel",
+      "content": "Midnight, it's time to put your face on\nGame set, a killer shark in heels\nI'm just the first shot on your hit list\nHigh kicks, a predator on wheels\nWoke up with bruises on my body\nHands tied, like Jesus on the cross\nYour name's in lipstick on the mirror\n\nJezebel\nI don't know how you got in my blood\nWas it the dangerous things you do?\nYou always wanted to be a star\nJezebel\nIf you're the hunter then I'm the prey\nYou lick your lips as you walk away\nYour final kiss is to leave a scar\nOn a heart\nJezebel\n\nAt night you turn into a tiger\nA girl who looks like she's a boy\nThe world's most ultimate survivor\n\nJezebel\nI don't know how you got in my blood\nWas it the dangerous things you do?\nYou always wanted to be a star\nJezebel\nIf you're the hunter then I'm the prey\nYou lick your lips as you walk away\nYour final kiss is to leave a scar\nOn a heart\n\nSunrise, you crawl under the covers\nSleep tight until the dying sun\nTonight you'll catch another lover\nJezebel\n\nJezebel\nI don't know how you got in my blood\nWas it the dangerous things you do?\nYou always wanted to be a star\nJezebel\nIf you're the hunter then I'm the prey\nYou lick your lips as you walk away\nYour final kiss is to leave a ѕcar\nOn a heаrt\n\nJezebel\nJezebel\nJezebel"
+    }
+  ],
+  "bpm": 116,
+  "tone": "E major",
+  "artistPeople": [
+    "Aki Hakala",
+    "Eero Heinonen",
+    "Emilia Suhonen",
+    "Lauri Ylönen"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Fredrik Rydman, Reija Wäre",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Desmond Child",
+    "Lauri Ylönen"
+  ],
+  "broadcaster": "YLE",
+  "commentators": [
+    "Aslak Paltto",
+    "Eva Frantz",
+    "Heli Huovinen",
+    "Johan Lindroos",
+    "Levan Tvaltvadze",
+    "Mikko Silvennoinen"
+  ],
+  "jury": [
+    "Amie Borgar",
+    "Haza Hajipoori",
+    "Juuso Määttänen",
+    "Riku",
+    "Tiina Susanna Vainikainen"
+  ],
+  "spokesperson": "Aksel Kankaanranta"
+}

@@ -1,0 +1,67 @@
+{
+  "id": 14,
+  "country": "NO",
+  "artist": "Alexander Rybak",
+  "song": "That's How You Write a Song",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/N17BdRwOvBA",
+    "https://www.youtube-nocookie.com/embed/Mvxni-WcD9A",
+    "https://www.youtube-nocookie.com/embed/BrKpMOy02-c",
+    "https://www.youtube-nocookie.com/embed/LbXGVNYqXgI",
+    "https://www.youtube-nocookie.com/embed/w818_5r83yI",
+    "https://www.youtube-nocookie.com/embed/czBZ9ms9L0A",
+    "https://www.youtube-nocookie.com/embed/6bqjUjrP4Oc"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "That's How You Write a Song",
+      "content": "If you got a minute\nGet down your idea\nIt might do wonders\nMaybe disappear\nWho knows\nJust get it down and nothing can go wrong\nGo find your rhythm\nThat's how you write a song\n\nEnjoy the small things\nWith time they will get big\nGotta find your mission\nA mission to pursue\nYou know you got a talent, what ever it may be\nSo work your magic\nAnd sing along with me\n\nStep one\nBelieve in it and sing it all day long\nStep two\nJust roll with it\nThat's how you write a song\n\nSing: Shoo-bee-doo-bee dab dab\n(Shoo-bee-doo-bee dab dab)\nSha-ba-da-da hey\n(Sha-ba-da-da hey)\nSay: All day long (All day long)\nAnd that's how you write a song\n<span class=\"lyrics_mark\" data-mark=\"r3vb7x2ech\">Scoo-bee-doo-bee bap bap\n(Scoo-bee-doo-bee bap bap)\nBoogie boogie woogie\n(Boogie boogie woogie)</span>\nSay: All day long (All day long)\nSee, that's how you write a song\n\nStep one\nBelieve in it and sing it all day long\nStep two\nJust roll with it\nThat's how you write a song\n\nStep one\nBelieve in it and sing it all day long\nStep two\nJust roll with it\nThat's how you write a song\n\nStep one\nBelieve in it and sing it all day long\nStep two\nJust roll with it\nThat's how you write a song\n\nStep one\nBelieve in it and sing it all day long\nStep two\nJust roll with it\nThat's how you write a song\n\nStep one\nBelieve in it and sing it all day long\nStep two\nJust roll with it and that's how you write a song\nSee that's how you write a song and\nThat's how you write а ѕong"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Así es cómo escribes una canción",
+      "content": "Si tienes un minuto\nPon en marcha tu idea\nSi te lo preguntas\nTal vez desaparecerá\nQuién sabe\nSolo hazlo y nada puede salir mal\nEncuentra tu ritmo\nAsí es como escribes una canción\n\nDisfruta las cosas pequeñas\nCon el tiempo se hacen grandes\nEncuentra tu misión\nUna misión que proseguir\nSabes que tienes un talento, ¿que podría ser?\nEntonces haz tu magia\nY canta conmigo\n\nPaso uno\nCree en ello y cántalo todo el día\nPaso dos\nSolo sigue con ello\nAsí es cómo escribes una canción\n\nCanta: Shoo-bee-doo-bee dab dab\n(Shoo-bee-doo-bee dab dab)\nSha-ba-da-da hey\n(Sha-ba-da-da hey)\nDi: Todo el día (Todo el dia)\nY así es como escribes una canción\nScoo-bee-doo-bee bap bap\n(Scoo-bee-doo-bee bap bap)\nBoogie boogie woogie\n(Boogie boogie woogie)\nDi: Todo el día (Todo el día)\n¿Ves?, así es cómo se escribe una canción\n\nPaso uno\nCree en ello y cántalo todo el día\nPaso dos\nSolo sigue con ello\nAsí es cómo escribes una canción\n\nPaso uno\nCree en ello y cántalo todo el día\nPaso dos\nSolo sigue con ello\nAsí es cómo escribes una canción\n\nPaso uno\nCree en ello y cántalo todo el día\nPaso dos\nSolo sigue con ello\nAsí es cómo escribes una canción\n\nPaso uno\nCree en ello y cántalo todo el día\nPaso dos\nSolo sigue con ello\nAsí es cómo escribes una canción\n\nPaso uno\nCree en ello y cántalo todo el día\nPaso dos\nSolo sigue con ello y así es cómo escribes una canción\n¿Ves?, así es cómo escribes una canción y\nAsí es como escribeѕ una cаnción"
+    }
+  ],
+  "bpm": 104,
+  "tone": "F minor",
+  "artistPeople": [
+    "Alexander Rybak"
+  ],
+  "backings": [
+    "Alvaro Estrella",
+    "Frode Vassel",
+    "Jens Jeffry Trinidad",
+    "Lene Kokai Flage",
+    "Lisa Børud"
+  ],
+  "dancers": null,
+  "stageDirector": "Mattias Carlsson",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Alexander Rybak"
+  ],
+  "broadcaster": "NRK",
+  "commentators": [
+    "Olav Viksmo-Slettan"
+  ],
+  "jury": [
+    "Andre Bravo",
+    "Guri Schanke",
+    "Hanne Kristine Haugsand",
+    "Ingeborg Walther",
+    "Spira"
+  ],
+  "spokesperson": "Aleksander Walmann, JOWST"
+}

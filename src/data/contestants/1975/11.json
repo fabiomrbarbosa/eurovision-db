@@ -1,0 +1,44 @@
+{
+  "id": 11,
+  "country": "MT",
+  "artist": "Renato",
+  "song": "Singing This Song",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/VbhlDCqGDS0",
+    "https://www.youtube-nocookie.com/embed/FcY6-cvAcTY",
+    "https://www.youtube-nocookie.com/embed/-3R1cjM5Nas"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Singing This Song",
+      "content": "If things shouldn't go right, your stars are not twinkling so bright\nDon't cry, for what's the use to be counting your blues?\nJust say you had a date and your friend turned out to be late\nCheer up, think it's a boon, go on, whistle a tune\n\nNothing will change what had to be done, it just happened to be\nPack your troubles and make fun, you'll enjoy it, you'll see\n\nSo do listen to me, whatever your trouble may be\nJoin in and come along with a smile and a song\n\nIt's good to understand that the world is not at its end\nForget what beats you inside, keep it out of your mind\n\nNothing will change what had to be done, it just happened to be\nPack your troubles and make fun, you'll enjoy it, you'll see\n\nSure love not to be hurt, we were born to live on this Earth\nSo when something goes wrong, join in singing this song\n\nSure love not to be hurt, we were born to live on this Eаrth\nSo when something goes wrong, join in singing this song\n\nJoin in singing this ѕong"
+    }
+  ],
+  "bpm": 113,
+  "tone": "A minor",
+  "artistPeople": [
+    "Renato Micallef"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Sammy Galea"
+  ],
+  "conductor": "Vince Tempera Grima",
+  "lyricists": [
+    "M. Iris Mifsud"
+  ],
+  "writers": null,
+  "broadcaster": "MBA",
+  "commentators": [
+    "Norman Hamilton"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

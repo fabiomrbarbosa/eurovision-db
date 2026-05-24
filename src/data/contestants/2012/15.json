@@ -1,0 +1,53 @@
+{
+  "id": 15,
+  "country": "CY",
+  "artist": "Ivi Adamou",
+  "song": "La La Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ex133UhxB64",
+    "https://www.youtube-nocookie.com/embed/MtMHBXO_n48",
+    "https://www.youtube-nocookie.com/embed/Pedf_OQmcmI",
+    "https://www.youtube-nocookie.com/embed/LB-q9EZGcTk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "La la love",
+      "content": "Lala… lala lala lalala… lala lala lala love\nLala… lala lala lalala… lala lalala love\n\nLove the way you fill me up with life\nBaby, we can break the speed of light\nNothing to fear when you are near\nJust gimme more\n\nReaching for the sky, I'm aiming high\nClose my eyes and then it's almost like you fly\nUp in the air, let's take it there\nNever let go\n\nOh… feel the energy between you and me, baby it's so right\nOh… I feel the energy just taking over me, over me\n\nHow I've been waiting for this\nLala… lala lala lalala… lala lala lala love\nOh I've been waiting for this\nLala… lala lala lalala… lala lala lala love\n\nFrom Paris to LA over the night\nAll around the world, just you and I\nNothing to fear, when you are near\nWe're on a roll\n\nAnd we do it again\nNo stop, no end\nOut of control\n\nOh… feel the energy between you and me, baby it's so right\nOh… I feel the energy just taking over me, over me\n\nHow I've been waiting for this\nLala… lala lala lalala… lala lala lala love\nOh I've been waiting for this\nLala… lala lala lalala… lala lala lala love\n\nNothing to fear, when you are near\n\nOh… I feel the energy between you and me, baby it's so right\nOh… I feel the energy just taking over me, over me\n\nHow I've been waiting for this\nLala… lala lala lalala… lala lala lala love\nLala… lala lala lalala… lala lala lala love\nOh I've been waiting for thiѕ\nLala… lala lala lalala… lala lala lalа love"
+    }
+  ],
+  "bpm": 131,
+  "tone": "A major",
+  "artistPeople": [
+    "Ivi Adamou"
+  ],
+  "backings": [
+    "Björn Djupström",
+    "Victoria Taylor",
+    "Wiveca Hartmann Knudsen"
+  ],
+  "dancers": [
+    "Olga Pilaki",
+    "Tatiana Dimitriadou"
+  ],
+  "stageDirector": "Apollon Papatheoharis",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Alex Papaconstantinou",
+    "Alexandra Zakka",
+    "Björn Djupström",
+    "Viktor Svensson"
+  ],
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Melina Karageorgiou"
+  ],
+  "jury": null,
+  "spokesperson": "Loukas Hamatsos"
+}

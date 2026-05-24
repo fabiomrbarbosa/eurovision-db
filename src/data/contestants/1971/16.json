@@ -1,0 +1,52 @@
+{
+  "id": 16,
+  "country": "NO",
+  "artist": "Hanne Krogh",
+  "song": "Lykken er...",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/EkPyjhT2Yy4",
+    "https://www.youtube-nocookie.com/embed/uQDk5eZXo-U",
+    "https://www.youtube-nocookie.com/embed/XASPuA7Hq74",
+    "https://www.youtube-nocookie.com/embed/is4iQ3QEKzQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "norwegian"
+      ],
+      "displayedLanguages": null,
+      "title": "Lykken er...",
+      "content": "Lykken finnes på vår jord, bare ikke der du tror\nDen er ikke penger i banken, tiger på tanken\nLykken er alt du vil\n\nLykken er et spann med sand i en liten barnehand\nLykken er en hilsen fra gjengen, frokost på sengen\nLykken er sild i dill\n\nOm du ser deg omkring, tusen ting\nKan gi deg litt av lykken du vil nå\nJa, den finnes der hvor du er\nDet er jo bare deg den venter på\n\nLykken er en gammel hatt\nSom din beste venn har hatt\nLykken er en time på badet, varm sjokolade\nLykken er ditt og datt\n\nLykken er krystallklart vann\nFingrene i solvarm sand\nÅ få rusle barbent i gresset uten adresse\nLykken er deg og meg\n\nLykken er å være russ\nOg å nå den siste buss\nLykken er blant trærne i parken, hjerter i barken\nLykken er sus og dus\n\nOm du synger en sang, prøv en gang\nÅ late som om den er lagd til deg\nPrøv med denne her, lykken er\nJo noe som du søker på din vei\n\nLykken er en melketann i et lite glass med vann\nÅ få litt tilbake på skatten, slippe inn katten\nLykken er dann og vann\n\nLykken er jo som en vind, som et solstreif i ditt sinn\nLykken er hva sangen forteller, små bagateller\nLykken er din og min\n\nLykken er jo som en vind, som et solstreif i ditt sinn\nLykken er hva sangen forteller, ѕmå bagаteller\nLykken er din og min"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Happiness is...",
+      "content": "There is happiness on earth, just not where you expect\nIt's not money in the bank, a tiger in your petrol-tank\nHappiness is all you wish for\n\nHappiness is a bucket of sand in the small hand of a child\nHappiness is a greeting from the gang, breakfast in bed\nHappiness is herring in dill\n\nIf you look around, a thousand things\nWill give you some of the happiness you seek\nYes, it exists where you are\nIt's only you it's waiting for\n\nHappiness is an old hat\nWhich used to belong to your best friend\nHappiness is an hour in the bath, warm chocolate\nHappiness is this and that\n\nHappiness is crystal clear water\nYour fingers in sand hot from the sun\nWalking barefoot in the grass, with no address\nHappiness is you and me\n\nHappiness is to celebrate the end of high school\nAnd to catch the last bus\nHappiness is among the trees in the park, hearts on a tree-bark\nHappiness is living it up\n\nIf you sing a song, try for once\nTo pretend it was written to you\nTry this one, happiness is\nAfter all, something you seek along the way\n\nHappiness is a milk tooth, in a small glass of water\nGetting tax money back, letting in the cat\nHappiness is such and so\n\nHappiness is like a wind, like a sunbeam in your heart\nHappiness is the content of the song, small details\nHappiness is yours and mine\n\nHappiness is like a wind, like a sunbeam in your heart\nHappiness is the content of the song, small details\nHappiness is yourѕ аnd mine"
+    }
+  ],
+  "bpm": 126,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Hanne Krogh Sundbø"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Arne Joachim Bendiksen",
+  "lyricists": null,
+  "writers": [
+    "Arne Bendiksen"
+  ],
+  "broadcaster": "NRK",
+  "commentators": [
+    "Sverre Christophersen"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

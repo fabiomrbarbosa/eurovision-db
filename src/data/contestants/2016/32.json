@@ -1,0 +1,58 @@
+{
+  "id": 32,
+  "country": "SI",
+  "artist": "ManuElla",
+  "song": "Blue and Red",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ulI3F1T82is",
+    "https://www.youtube-nocookie.com/embed/4K4h4AzLFgU",
+    "https://www.youtube-nocookie.com/embed/yhrIqWZI6TM",
+    "https://www.youtube-nocookie.com/embed/_N2D_WYjYlo",
+    "https://www.youtube-nocookie.com/embed/QnwpBA2KJ-w"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Blue and Red",
+      "content": "Blue and red\nLike I'm watching you and me\nEvery little thing you said\nLed me to fall in love with you\n\nThen you tried to fix me and I wasn't strong\nBut you were not a composer, I am not your song\nStrange chords, different words\n\nHow can I mix red and blue together?\nBeautiful things in stormy weather\n\nAlive, alive, alive\n'Cause blue is blue and red is red\nOur past is fading in my head\nNow the colour doesn't matter\nYou feel blue and and I am better\n\nNow I'm changed\nNow I'm stronger than before\nYou're never touching me no more\nI'm okay, I'll find my way\n\nHow can I mix red and blue together?\nBeautiful things in stormy weather\n\nAlive, alive, alive\n'Cause blue is blue and red is red\nOur past is fading in my head\nNow the colour doesn't matter\nYou feel blue and and I am better\n\n(Blue is blue and red is red)\n(Now the colour doesn't matter)\n\nAlive, alive, alive\n(Beautiful things in ѕtormy weather)\nAlive, alive, аlive"
+    }
+  ],
+  "bpm": 145,
+  "tone": "B minor",
+  "artistPeople": [
+    "Manuela Brečko"
+  ],
+  "backings": [
+    "Karin Zemljič",
+    "Lea Sirk",
+    "Marjan Hvala",
+    "Mitja Bobič"
+  ],
+  "dancers": null,
+  "stageDirector": "Nejc Levstik",
+  "composers": [
+    "Manuela Brečko",
+    "Marjan Hvala"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Leon Oblak"
+  ],
+  "writers": null,
+  "broadcaster": "RTVSLO",
+  "commentators": [
+    "Andrej Hofer"
+  ],
+  "jury": [
+    "Clemens",
+    "Eva Hren",
+    "Marjetka Vovk",
+    "Tadej Košir",
+    "Urša Vlašič"
+  ],
+  "spokesperson": "Marjetka Vovk"
+}

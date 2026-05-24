@@ -1,0 +1,73 @@
+{
+  "id": 29,
+  "country": "PL",
+  "artist": "Marcin Mroziński",
+  "song": "Legenda",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/VmEUURZXUlE",
+    "https://www.youtube-nocookie.com/embed/BrE85gJsioM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "polish",
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Legenda",
+      "content": "Za lasem, za górą\nŻył raz rycerz Pawie Pióro\n\nEvery day I think about tomorrow\nWanna see my princess much closer\nI've decided never feeling sorrow\nI will share my heart when I find her\n\nI'll be forever, ever and ever\nFeeling this love till the day when I die\nBeing together, even no matter\nYou didn't want me to be by your side\n\nZ zamku porwał pannę\nPogoń dała skutki marne\n\nLovely princess, I am here to save you\nTake my hand and say that you love me\nIf you ever say it, even lying\nI will let you fly like a bird – free\n\nI'll be forever, ever and ever\nFeeling this love till the day when I die\nBeing together, even no matter\nYou didn't want me to be by your side\n\nI'll be forever, ever and ever\nFeeling this love till the day when I die\nBeing together, even no matter\nYou didn't want me to be by your side\n\n(I'll be forever, ever and ever) I'll be forever…\n(Feeling this love till the day when I die)\n(Being together even no matter) Forever\n(You didn't want me to be by your side) You didn't want me by…\n\n(Morał z tego taki jest że)\n(Nie spodobał się rycerz jej) Till the day I die…\n(Nie spodobаł ѕię rycerz jej)"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The legend",
+      "content": "Over the forest, over the mountain\nThere once lived a knight called Peacock Feather\n\nEvery day I think about tomorrow\nWanna see my princess much closer\nI've decided never feeling sorrow\nI will share my heart when I find her\n\nI'll be forever, ever and ever\nFeeling this love till the day when I die\nBeing together, even no matter\nYou didn't want me to be by your side\n\nHe kidnapped a girl from the castle\nThe chase after him was in vain\n\nLovely princess, I am here to save you\nTake my hand and say that you love me\nIf you ever say it, even lying\nI will let you fly like a bird – free\n\nI'll be forever, ever and ever\nFeeling this love till the day when I die\nBeing together, even no matter\nYou didn't want me to be by your side\n\nI'll be forever, ever and ever\nFeeling this love till the day when I die\nBeing together, even no matter\nYou didn't want me to be by your side\n\n(I'll be forever, ever and ever) I'll be forever…\n(Feeling this love till the day when I die)\n(Being together even no matter) Forever\n(You didn't want me to be by your side) You didn't want me by…\n\n(The moral of this iѕ that)\n(She didn't like the knight) Till the dаy I die…\n(She didn't like the knight)"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Легенда",
+      "content": "За лесами, за горами\nЖил однажды рыцарь Павлинье Перо…\n\nКаждый день я думаю о завтрашнем\nВот бы взглянуть на принцессу поближе\nЯ выбрал не скорбеть\nИ поделиться с ней своим сердцем, когда найду ее\n\nЯ навсегда и во веки веков\nБуду чувствовать эту любовь, пока не умру\nМы будем вместе и неважно\nЧто ты не любишь меня\n\nИз замка вместе сбежали они\nПогоня была безуспешна\n\nЛюбимая принцесса, я здесь, чтобы спасти тебя\nВозьми меня за руку и скажи, что любишь меня\nДаже если ты соврешь мне\nЯ отпущу тебя, как птицу из рук\n\nЯ навсегда и во веки веков\nБуду чувствовать эту любовь, пока не умру\nМы будем вместе и неважно\nЧто ты не любишь меня\n\nЯ навсегда и во веки веков\nБуду чувствовать эту любовь, пока не умру\nМы будем вместе и неважно\nЧто ты не любишь меня\n\n(Я навсегда и во веки веков) Навсегда…\n(Буду чувствовать эту любовь, пока не умру!)\n(Мы будем вместе и неважно,) Навсегда\n(Что ты не любишь меня) Ты не любишь…\n\n(Мораль сей басни такова)\n(Не любила рыцаря она) Пока не умру…\n(Не любила рыцаря она)"
+    }
+  ],
+  "bpm": 112,
+  "tone": "E major",
+  "artistPeople": [
+    "Marcin Mroziński"
+  ],
+  "backings": [
+    "Małgorzata 'Malgosia' Czaczkowska",
+    "Mirella Kostrzewa",
+    "Oliwia Kukułka",
+    "Weronika Bochat-Piotrowska"
+  ],
+  "dancers": null,
+  "stageDirector": "Dariusz Lewandowski",
+  "composers": [
+    "Marcin Nierubiec"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Marcin Mroziński"
+  ],
+  "writers": null,
+  "broadcaster": "TVP",
+  "commentators": [
+    "Artur Orzech"
+  ],
+  "jury": [
+    "Krystyna Prońko",
+    "Marek Kościkiewicz",
+    "Maria Szabłowska",
+    "Michał Grymuza",
+    "Zuzanna Łapicka"
+  ],
+  "spokesperson": "Aleksandra Rosiak"
+}

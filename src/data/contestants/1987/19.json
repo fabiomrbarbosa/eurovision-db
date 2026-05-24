@@ -1,0 +1,53 @@
+{
+  "id": 19,
+  "country": "AT",
+  "artist": "Gary Lux",
+  "song": "Nur noch Gefühl",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/UZkC8cq2BOE",
+    "https://www.youtube-nocookie.com/embed/WNesFvRbAH0",
+    "https://www.youtube-nocookie.com/embed/uHJ7pHF1sVw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Nur noch Gefühl",
+      "content": "Halt dich fest an mir, wenn du den Mut verlierst\nIch will zärtlich sein, dass du nicht frierst\nDu bist wie ein Kind, das ich behüten will\nWas mit uns beginnt, ist nur noch Gefühl\n\nAuch du hast das Feuer oft berührt\nBist d'ran verbrannt, hast dich nur darin verirrt\n\nUnser Feuer brennt, langsam und still\nDenn es gibt für uns nur noch Gefühl\n\nUnd nie mehr diese Leere spür'n\nNur noch Gefühl und nie mehr\nDiese Liebe auf Zeit, in Einsamkeit\nNur noch Gefühl\n\nKomm' ganz nah zu mir, weil ich dich spüren will\nUnd ich gebe dir nur noch Gefühl\n\nSoviel du willѕt, nur noch Gefühl\nSoviel ich hаb', nur noch Gefühl\nNur noch Gefühl"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Only feelings",
+      "content": "Hold me tight, when you lose courage\nI want to be tender, so you don't have to freeze\nYou're like a child, that I want to protect\nAt the beginning, we only have feelings\n\nAlso, you've often touched the fire\nYou've burned yourself on it, you only got lost in it\n\nOur fire burns, slowly and quietly\nBecause for us, only feelings exist\n\nAnd we'll never feel this emptiness again\nOnly feelings, and nothing more\nThis love for a time, in loneliness\nAre only feelings\n\nCome closer to me, because I want to feel you\nAnd I only give you feelings\n\nAs much as you want, only feelings\nAs much as I hаve, only feelings\nOnly feelingѕ"
+    }
+  ],
+  "bpm": 116,
+  "tone": "C# major",
+  "artistPeople": [
+    "Gerhard Lux"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Kenneth Westmore"
+  ],
+  "conductor": "Richard Österreicher",
+  "lyricists": [
+    "Stefanie Werger"
+  ],
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": [
+    "Ernst Grissemann"
+  ],
+  "jury": null,
+  "spokesperson": "Tilia Herold"
+}

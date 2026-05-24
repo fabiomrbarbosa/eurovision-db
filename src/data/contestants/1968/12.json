@@ -1,0 +1,64 @@
+{
+  "id": 12,
+  "country": "AT",
+  "artist": "Karel Gott",
+  "song": "Tausend Fenster",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/9sAPi8SCJgo",
+    "https://www.youtube-nocookie.com/embed/F2o3e8qvn-0",
+    "https://www.youtube-nocookie.com/embed/gpg8YwuG5AA",
+    "https://www.youtube-nocookie.com/embed/wzs1akXOUmY",
+    "https://www.youtube-nocookie.com/embed/G_weyW2NR_Q"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Tausend Fenster",
+      "content": "Nun trägt schon die Stadt ihr Abendkleid\nEin Lichtermeer in der Dunkelheit\nDie große Einsamkeit tritt in jedes Haus um diese Zeit\n\nWie auf kleinen Inseln leben wir\nDu weißt nicht mal, wer wohnt neben dir\nIhr alle kennt euch nicht\nIn der gleichen Welt von Lärm und Licht\n\nViele tausend Fenster leuchten hell in dieser Stadt\nUnd du fragst dich: Wer mag wohl dahinter sein?\nViele tausend Fenster sagen stumm: Hier lebt noch wer\nGrad' wie du so einsam und allein\n\nKann da drüben das der Mensch nicht sein\nVon dem du träumst, schon jahraus jahrein?\nDer dein Zuhause wär?\nDoch dich trennt von ihm ein Häusermeer\n\nMorgen ist dein Herz genauso leer\nDann hoffst du auch noch genauso sehr\nNicht so allein zu sein\nIn der grauen Welt aus Stahl und Stein\n\nViele tausend Fenster leuchten hell in dieser Stadt\nUnd du fragst dich: Wer mag wohl dahinter sein?\nViele tausend Fenster sagen stumm: Hier lebt noch wer\nGrad' wie du so einѕam und аllein"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Thousands of windows",
+      "content": "Now the city wears an evening dress\nA sea of lights in the darkness\nThe loneliness enters in every house at this time\n\nWe live like we're on little islands\nYou even don't know who lives next to you\nYou all, you don't know each other\nIn the same world of noise and lights\n\nMany thousands of windows shine bright in this city\nAnd you ask yourself: Who might be behind them?\nMany thousands of windows say silently: here still lives somebody\nAs lonesome and alone as you\n\nCould that human over there be the one\nOf whom you are dreaming year after year?\nWho might be your home?\nBut you are seperated from him by a sea of houses\n\nTomorrow your heart is still empty\nThen you are still hoping\nThat you are not alone\nIn this grey world of steel and stone\n\nMany thousands of windows shine bright in this city\nAnd you ask yourself: who might be behind them?\nMany thousands of windows say silently: Here still lives somebody\nAs lonesome and alone аѕ you"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "czech"
+      ],
+      "displayedLanguages": null,
+      "title": "Vítám vítr v údolí",
+      "content": "Zas byl suchý rok a málo dal\nA bůhvíčím, že déšť nepadal\nNáš lán se žárem vzňal\nA tak zpívám žal u ohně dál\n\nPouhý rok byl suchý a chléb nám vzal\nA bůh jen ví, jak nás uchoval\nVšak v dáli oblak stál\nA teď houstne nám na nebi dál\n\nA tak vítám vítr, vítám zpátky v údolí\nJen ať fouká, dlouho fouká, zkrátka dál\nAno, vítám vítr, vítám náhlý z nebe dar\nTam kde pouze úhor byl a žár\n\nTam, kde suchý rok nám úsměv vzal\nA lásku nám tak odepsal\nKde lán se žárem vzňal\nKde bych zpíval žal u ohně dál\n\nSucho na dně řek a v studnách kal\nA bůh jen ví, jak nás uchoval\nVšak v dáli oblak stál\nA teď houѕtne nám na nebi dál\n\nA tak vítám vítr, vítám zpátky v údolí\nJen ať fouká, dlouho fouká, zkrátka dál\nAno, vítám vítr, vítám náhlý z nebe dar\nTam kde pouze úhor byl а žár"
+    }
+  ],
+  "bpm": 111,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Karel Gott"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Udo Jürgens"
+  ],
+  "conductor": "Robert Opratko",
+  "lyricists": [
+    "Walter Brandin"
+  ],
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": [
+    "Willy Kralik"
+  ],
+  "jury": null,
+  "spokesperson": "Walter Richard Langer"
+}

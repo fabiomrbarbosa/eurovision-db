@@ -1,0 +1,46 @@
+{
+  "id": 5,
+  "country": "GB",
+  "artist": "Emma",
+  "song": "Give A Little Love Back To The World",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ObKX1lmFebI",
+    "https://www.youtube-nocookie.com/embed/e-t3W9f3So8",
+    "https://www.youtube-nocookie.com/embed/Z_wcbEe0y_g",
+    "https://www.youtube-nocookie.com/embed/15052c-LUH4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Give A Little Love Back To The World",
+      "content": "We've come so far on this great planet\nWe should be proud of all the great things we've achieved\nBut in our search for life's great knowledge\nWe go on takin' out and never plant new seeds\n\nGive a little love back to the world\nWe can't go on takin' out forever\nGive a little love back to the world\nWe still got time, let's do it together\nGive a little love back to the world\n\nWe've got to stop, think of tomorrow\nOne day our children may have nothing left to share\nLet's do it now, then in the future\nThey will look back at us with pride and know we cared\n\nGive a little love back to the world\nWe can't go on takin' out forever\nGive a little love back to the world\nWe still got time, let's do it together\n\nWe got no time to hesitate\nTomorrow it may be too late\n\nGive a little love back to the world\nWe can't go on takin' out forever\nGive a little love back to the world\nWe still got time, let's do it together\n\nWe ѕtill got time, we can do it together\nGive a little love back to the world\n(Give a little love bаck) to the world"
+    }
+  ],
+  "bpm": 156,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Emma Booth"
+  ],
+  "backings": [
+    "Miriam Stockley",
+    "Sam Blue"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Alyn Ainsworth",
+  "lyricists": null,
+  "writers": [
+    "Paul Curtis"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Terry Wogan"
+  ],
+  "jury": null,
+  "spokesperson": "Colin Berry"
+}

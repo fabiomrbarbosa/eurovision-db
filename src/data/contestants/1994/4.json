@@ -1,0 +1,50 @@
+{
+  "id": 4,
+  "country": "MT",
+  "artist": "Moira Stafrace & Christopher Scicluna",
+  "song": "More Than Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/sM-w1kGT19k",
+    "https://www.youtube-nocookie.com/embed/Rgiea8SyuGM",
+    "https://www.youtube-nocookie.com/embed/5LRwcjswTFo"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "More Than Love",
+      "content": "Swiftly movin' on\nThe days I see\nOften ask myself\nWhat I really wanna be\n\nTo dream of an aim\nTo reach it with fame\nNot easy to say\nThere's will, there's a way\n\nMore than love\nWhat music gives to me\nBody and soul\nLive in reality\n\nGlistening on a star\nOf promises and dreams\nSome take me for a laugh\nBut they don't know what it means\n\nTo tell you the truth\nI'll never change my youth\nNot easy to say\nThere's will, there's a way\n\nMore than love\nWhat music gives to me\nBody and soul\nLivin' in harmony\n\nMore than love\n(Please, God, hear me now)\nWhat music gives to me\n(You gotta help me, you gotta help me)\nBody and soul\nLive in reality\n(Ho, ho)\n\nMore than love\n(Please, God)\nWhat music gives to me\n(You gotta help me, yeah)\nBody and soul\nThere for eternity\n\nThis life iѕ what I own\nGotta make it through\nI'm liftin' up my heаrt\nAnd I'm givin' it to you"
+    }
+  ],
+  "bpm": 104,
+  "tone": "G major",
+  "artistPeople": [
+    "Christopher Scicluna",
+    "Moira Stafrace"
+  ],
+  "backings": [
+    "Han van Eijk",
+    "Patricia Roe",
+    "Rob Burke",
+    "Valerie Roe"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Christopher Scicluna"
+  ],
+  "conductor": "Anthony Chircop",
+  "lyricists": [
+    "Moira Stafrace"
+  ],
+  "writers": null,
+  "broadcaster": "PBM",
+  "commentators": [
+    "Charles Arrigo"
+  ],
+  "jury": null,
+  "spokesperson": "John Demanuele"
+}

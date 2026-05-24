@@ -1,0 +1,59 @@
+{
+  "id": 21,
+  "country": "AT",
+  "artist": "Thomas Forstner",
+  "song": "Venedig im Regen",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/jac9y6-9pPo",
+    "https://www.youtube-nocookie.com/embed/VO9AvJJbxP8",
+    "https://www.youtube-nocookie.com/embed/D6NwDA_fPog",
+    "https://www.youtube-nocookie.com/embed/hrAQUdeswJ0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Venedig im Regen",
+      "content": "Lichter im Regen, ich hab' dich gesehen\nEin Lächeln wie sanfte Magie\nVerzaubert, erfroren, ganz in dir verloren\nGefühle so tief wie die Nacht\n\nStilles Begreifen und Sehnsucht nach mehr\nZärtliche Augen, will dir gehör'n\n\nVenedig im Regen\nLass uns diese Nacht einfach träumen (Träumen...)\nVenedig im Regen\nBis ans Ende der Nacht einfach träumen\n\nDein Atem ganz leicht, an meiner Schulter vergraben\nDein Zauber ganz tief in mir\nErfühlen, erahnen, von dir fortgetragen\nBei dir sein und doch nicht hier\n\nStilles Begreifen und Sehnsucht nach mehr\nZu zärtliche Augen, will dir gehör'n\n\nVenedig im Regen\nLass uns diese Nacht einfach träumen (Träumen...)\nVenedig im Regen\nBis ans Ende der Nacht einfach träumen\n\nVenedig im Regen\n(Lass uns diese Nacht) einfach träumen (Träumen...)\nVenedig im Regen\nBis ans Ende der Nacht einfach träumen\n\nVenedig im Regen\n(Lass uns dieѕe Nacht) einfаch träumen\nTräumen"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Venice in the rain",
+      "content": "Lights in the rain, I've seen you\nA smile like soft magic\nEnchanted, frozen, completely lost in you\nFeelings as deep as the night\n\nSilent realization, and longing for more\nTender eyes, I want to belong to you\n\nVenice in the rain\nLet us this night simply dream\nVenice in the rain\nTo the end of the night simply dream\n\nYour light breath, buried in my shoulder\nYour magic deep down in me\nFelt, sensed, carried away from you\nTo be by you and yet not here\n\nSilent realization, and longing for more\nTender eyes, I want to belong to you\n\nVenice in the rain\nLet us this night simply dream\nVenice in the rain\nTo the end of the night simply dream\n\nVenice in the rain\n(Let us this night) simply dream\nVenice in the rain\nTo the end of the night simply dream\n\nVenice in the rain\n(Let us this night) ѕimply dream\nDreаm"
+    }
+  ],
+  "bpm": 95,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Thomas Forstner"
+  ],
+  "backings": [
+    "Ines Reiger",
+    "Kathy Sampson",
+    "Stephan Gleixner",
+    "Willi Dussmann"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Richard Österreicher",
+  "lyricists": null,
+  "writers": [
+    "Hubert Moser",
+    "Robby Musenbichler",
+    "Wolfgang Eltner"
+  ],
+  "broadcaster": "ORF",
+  "commentators": [
+    "Herbert Dobrovolny"
+  ],
+  "jury": null,
+  "spokesperson": "Gabriele Haring"
+}

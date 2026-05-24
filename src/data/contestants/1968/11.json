@@ -1,0 +1,55 @@
+{
+  "id": 11,
+  "country": "LU",
+  "artist": "Chris Baldo & Sophie Garel",
+  "song": "Nous vivrons d'amour",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/K1opU8M6T6c",
+    "https://www.youtube-nocookie.com/embed/Gf34pP9Dh8s",
+    "https://www.youtube-nocookie.com/embed/YDh7geAnFAA",
+    "https://www.youtube-nocookie.com/embed/pTG31IDN1rw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Nous vivrons d'amour",
+      "content": "À se tromper pour tromper l'ennui\nLe temps d'aimer et des ciels de pluie\nDes fleurs fanées ou des cœurs flétris\nOn voit trop ça dans la vie\n\nMais toi et moi, nous vivrons d'amour\nSans faire un pas vers quelques détours\nOui, toi et moi, nous vivrons d'amour\nHeureux jusqu'au dernier jour\n\nJe lis ma vie au fond de tes yeux\nEt je m'y vois toujours plus heureux\nJe sais que d'autres ont connu ces joies\nEt pleuré plus d'une fois\n\nMais toi et moi, nous vivrons d'amour\nSans faire un pas vers quelques détours\nOui, toi et moi, nous vivrons d'amour\nHeureux jusqu'au dernier jour\n\nOui, toi et moi, nous vivrons d'amour\nOn a le droit de s'aimer toujours\nOn a le droit de croire à l'amour\nNous deux, jusqu'au dernier jour\n\nOui, toi et moi, nous vivrons d'amour\nOn a le droit de s'аimer toujourѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "We'll live on love",
+      "content": "By being wrong to chase away boredom\nThe time of loving and of skies of rain\nWithered flowers or faded hearts\nWe see too many of those in life\n\nBut you and me, we'll live on love\nWithout making a step to a few detours\nYes, you and me, we'll live on love\nHappy until the last day\n\nI read my life in the depth of your eyes\nAnd there I see myself always happier\nI know that others have known these joys\nAnd have cried more than once\n\nBut you and me, we'll live on love\nWithout making a step towards a few detours\nYes, you and me, we'll live on love\nHappy until the last day\n\nYes, you and me, we'll live on love\nWe have the right to always love each other\nWe have the right to believe in love\nBoth of us, until the last day\n\nYes, you and me, we'll live on love\nWe have the right to alwayѕ love eаch other"
+    }
+  ],
+  "bpm": 84,
+  "tone": "F major",
+  "artistPeople": [
+    "Chris Baldo",
+    "Sophie Garel"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Carlos Leresche"
+  ],
+  "conductor": "André Borly",
+  "lyricists": [
+    "Jacques Demarny"
+  ],
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": [
+    "Jacques Navadic"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

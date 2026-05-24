@@ -1,0 +1,78 @@
+{
+  "id": 29,
+  "country": "MD",
+  "artist": "Anna Odobescu",
+  "song": "Stay",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-mo207V5Z2o",
+    "https://www.youtube-nocookie.com/embed/p3OC8qhZBWQ",
+    "https://www.youtube-nocookie.com/embed/areV6tnq3po",
+    "https://www.youtube-nocookie.com/embed/ZIYghHE-9R0",
+    "https://www.youtube-nocookie.com/embed/OOnPFsjkhbs",
+    "https://www.youtube-nocookie.com/embed/X3RauAppvCQ",
+    "https://www.youtube-nocookie.com/embed/dv1eBFZ-p5E"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Stay",
+      "content": "Hold on\nEven with the wind we'll make it\nBe strong\nKeep the fire burning inside\nGo on as I breathe in you\nLook into my eyes\nFly me high\nRight up in the sky\n\nStay\nUntil I find a way to be together\nForever's here to stay\nNo matter what they say\nIt's now or never\nIt's forever\n\nThis time\nWe can try to keep our story\nThis crime\nWe can stop from breaking apart\nNo rhyme\nIs a match for you\n\nNever let me down\nIf I fall\nI'm nothing at all\n\nStay\nUntil I find a way to be together\nForever's here to stay\nNo matter what they say\nIt's now or never\nIt's forever\n\nWhen you come stand beside me\nThe earth is moving fast\n\nStay\nStay\nOh …\nOh …\nStay, stay\nOh …\nOh\n\nStay\nUntil I find a way to be together\nForever's here to stay\nNo matter what they sаy\nIt's now or never\nIt'ѕ forever"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "romanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Rămâne",
+      "content": "Atarna\nChiar dacă bate vântul\nFii puternic\nPăstrează focul înăuntru\nMergeți în timp ce respir cu voi\nPriveşte-mă\nZboară cu mine sus\nChiar pe cer\n\nRămâne\nPână când voi găsi o cale de a fi împreună\nRămâi aici pentru totdeauna\nIndiferent ce spun ei\nAcum sau niciodată\nVeşnic\n\nDe data aceasta\nPutem încerca să ne salvăm istoria\nEste o crimă\nNe putem opri fisura\nFără îndoială\nŢi se potriveşte\n\nPăstrează-mă\nDacă cad\nEu sunt nimeni\n\nRămâne\nPână când voi găsi o cale de a fi împreună\nRămâi aici pentru totdeauna\nIndiferent ce spun ei\nAcum sau niciodată\nVeşnic\n\nCând vii, stai deoparte\nPământul se învârte\n\nRămâne\nRămâne\nOh-oh…\nOh-oh…\nRămâne, rămâne\nOh-oh…\nOh-oh…\n\nRămâne\nPână când voi găsi o cale de a fi împreună\nRămâi aici pentru totdeauna\nIndiferent ce spun ei\nAcum ѕau niciodаtă\nVeşnic"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Останься",
+      "content": "Держись\nДаже если ветер дует на нас\nБудь сильным\nДержи этот огонь внутри\nИди, пока я дышу с тобой\nПосмотри на меня\nЛетим со мной ввысь\nПрямо на небеса\n\nОстанься\nПока я не найду путь быть вместе\nНавсегда останься здесь\nНеважно, что они говорят\nСейчас или никогда\nНавсегда\n\nВ этот раз\nМы можем попытаться сохранить нашу историю\nЭто преступление\nМы можем остановить наш разлом\nБез лишних слов\nЭто идет тебе\n\nНе отпускай меня\nЕсли я падаю\nЯ - никто\n\nОстанься\nПока я не найду путь быть вместе\nНавсегда останься здесь\nНеважно, что они говорят\nСейчас или никогда\nНавсегда\n\nКогда ты придешь, встань рядом\nЗемля кружится быстро\n\nОстанься\nОстанься\nО-о-о…\nО-о-о…\nОстанься, останься\nО-о-о…\nО-о-о…\n\nОстанься\nПока я не найду путь быть вместе\nНавсегда останься здесь\nНеважно, что они говорят\nСейчас или никогда\nНавсегда"
+    }
+  ],
+  "bpm": 155,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Anna Odobescu"
+  ],
+  "backings": [
+    "Andreea Portarescu",
+    "Andrei Ștefăneț",
+    "Mihaela Andrei"
+  ],
+  "dancers": null,
+  "stageDirector": "Kseniya Simonova",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Georgios Kalpakidis",
+    "Jeppe Reil",
+    "Maria Broberg",
+    "Thomas Reil"
+  ],
+  "broadcaster": "TRM",
+  "commentators": [
+    "Daniela Crudu",
+    "Doina Stimpovschi"
+  ],
+  "jury": [
+    "Corneliu Botgros",
+    "Geta Burlacu",
+    "Igor Munteanu",
+    "Otilia Lozovanu",
+    "Vasile Olaru"
+  ],
+  "spokesperson": "Doina Stimpovschi"
+}

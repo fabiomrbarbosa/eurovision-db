@@ -1,0 +1,389 @@
+{
+  "id": 35,
+  "country": "ME",
+  "artist": "Nina Žižić",
+  "song": "Dobrodošli",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/QxpOxioeZJw",
+    "https://www.youtube-nocookie.com/embed/ydMkpaB0CWk",
+    "https://www.youtube-nocookie.com/embed/Q-mHdlAaOV0",
+    "https://www.youtube-nocookie.com/embed/_zs0yq39aFA",
+    "https://www.youtube-nocookie.com/embed/-E9O8oskzFA",
+    "https://www.youtube-nocookie.com/embed/L9MNHACTvT0",
+    "https://www.youtube-nocookie.com/embed/HIniFViPpLA"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "montenegrin"
+      ],
+      "displayedLanguages": null,
+      "title": "Dobrodošli",
+      "content": "Budi se noć koja je kriva\nUmorne oči trlja bez stida\nHoće li doć il' će da sniva\nZora rujna rane da vida?\nGdje su sad svi? Iza su medja\nPletu vijenac od cvijeca\n\nNasmij se, izdrži sve, proći će\nIzdrži sve, proći će, nasmij se\nProći će, nasmij se, izdrži sve\nNestaće, prestaće. A kada će?\n\nDobrodošli meni vi\nNa predstavu\nO ljubavi\n\nKako si ti, da li si dobro?\nGdje su sad svi čisti pred Bogom?\nKo da su nijemi, Stoje bez riječi\nOni što tu su u zlu i u sreći\n\nLica su im crvena\nTugom krpljena\nA ko mi je kriv\n\nNasmij se, izdrži sve, proći će\nIzdrži sve, proćiće, nasmij se\nProći će, nasmij se, izdrži sve\nNestaće, prestaće. A kada će?\n\nDobrodošli meni vi\nU hotel mojih slabosti\nDobrodošli meni svi\nNa predstavu\nO ljubavi\n\nIzdrži sve, nasmij se\nIzdrži sve, nasmij se\nNestaće, preѕtaće, a kadа će?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "arabic"
+      ],
+      "displayedLanguages": null,
+      "title": "مرحبًا",
+      "content": "يستيقظ الليل المذنب\nيفرك عينيه المتعبتين دون خجل\nهل سيأتي أم سيحلم؟\nيشرق الفجر الأحمر ليرى الجروح\nأين الجميع الآن؟ خلف الحدود\nمع إكليل من الزهور\n\nابتسم، تحمل كل شيء، سوف يمر\nتحمل كل شيء، سوف يمر، ابتسم\nسوف يمر، ابتسم، تحمل كل شيء\nسوف يختفي، سوف يتوقف. ولاكن متى؟\n\nمرحبًا بك\nالى عرضٍ\nعن الحب\n\nكيف حالك، هل أنت بخير؟\nأين أصبح الجميع طاهرين أمام الله؟\nكأنهم صامتون، يقفون بلا كلام\nأولئك الذين هم هنا في الشر وفي الخير\n\nوجوههم حمراء\nبالحزن مرقع\nومن هو المسؤول؟\n\nابتسم، تحمل كل شيء، سوف يمر\nتحمل كل شيء، سوف يمر، ابتسم\nسوف يمر، ابتسم، تحمل كل شيء\nسوف يختفي، سوف يتوقف. ولاكن متى؟\n\nمرحبًا بك\nإلى فندق ضعفي\nمرحبًا بكم جميعًا\nالى عرضٍ\nعن الحب\n\nتحمل كل شيء، ابتسم\nتحمل كل شيء، ابتسم\nسوف يختفي، سوف يتوقف، ولاكن متى؟"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "norwegian"
+      ],
+      "displayedLanguages": null,
+      "title": "Velkommen",
+      "content": "Natten våkner, skyldig\nGnir sine trette øyne uten skam\nLurer på om morgengryet vil komme\nFor å helbrede sår\nHvor er alle?\nBak skyggene, med en krans av blomster\n\nSmil, uthold alt, det vil gå over\nUthold alt, det vil gå over, smil\nDet vil gå over, smil, uthold alt\nDet vil forsvinne, stoppe, men når?\n\nVelkommen\nTil mitt show\nOm kjærlighet\n\nHvordan har du det? Er du i orden?\nHvor er alle de rene foran Gud?\nSom om de er stumme, står uten ord\nDe som er her i ondskap og i lykke\n\nAnsiktene deres er røde\nLappet med sorg\nOg hvem har skylden?\n\nSmil, uthold alt, det vil gå over\nUthold alt, det vil gå over, smil\nDet vil gå over, smil, uthold alt\nDet vil forsvinne, stoppe, men når?\n\nVelkommen\nTil mitt hotell av svakheter\nVelkommen, alle sammen\nTil showet\nOm kjærlighet\n\nUthold аlt, smil\nDet vil forsvinne, stoppe, men når?\nDet vil ѕtoppe, men når?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": null,
+      "title": "ברוך הבא",
+      "content": "הלילה שנושא את האשמה מתעורר\nשפשף ללא בושה את עיניו העייפות\nהאם הוא יגיע או שהוא ישן?\nהזריחה האדומה באה לראות את הפצעים\nאיפה כולם עכשיו? מאחורי הגבול\nסורגים זר פרחים\n\nחייך, התמודד עם הכל, זה יעבור\nהתמודד עם הכל, זה יעבור, חייך\nזה יעבור, חייך, התמודד עם הכל\nזה ייעלם, זה יפסק, אבל מתי זה יקרה?\n\nברוך הבא לך\nלמופע\nעל אהבה\n\nמה שלומך, הכל בסדר?\nאיפה כל אלה שהם טהורים לפני אלוהים?\nכאילו הם אילמים, עומדים ללא מילים\nהאלה שנמצאים בזמנים טובים ורעים\n\nהפנים שלהם אדומות\nעם כתמים של עצב\nומי אשם?\n\nחייך, התמודד עם הכל, זה יעבור\nהתמודד עם הכל, זה יעבור, חייך\nזה יעבור, חייך, התמודד עם הכל\nזה ייעלם, זה יפסק, אבל מתי זה יקרה?\n\nברוך הבא אליך\nלמלון של חולשותיי\nברוך הבא לכולכם\nלמופע\nעל אהבה\n\nחייך, התמודד עם הכל, זה יעבור\nזה יעבור, חייך, התמודד עם הכל\nזה ייעלם, זה יפסק, אבל מתי זה יקרה?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "slovak"
+      ],
+      "displayedLanguages": null,
+      "title": "Vítajte",
+      "content": "Zobúdza sa noc, ktorá nesie vinu\nUnavené oči si utiera bez hanby\nPríde, alebo bude spať?\nPríde červené svitanie a uvidí rany\nKde sú teraz všetci? Za hranicou\nA pletú veniec z kvetín\n\nUsmej sa, pretrp to, všetko prejde\nPretrp to, všetko prejde, usmej sa\nVšetko prejde, usmej sa, pretrp to\nZmizne to, všetko to prejde, ale kedy?\n\nVítajte\nNa predstavení\nO láske\n\nAko sa máš? Si v pohode?\nKde sú teraz všetci, ktorí sú čistí pred bohom?\nStoja bez rečí, ako keby boli nemý\nTí, ktorí sú tu aj v dobrom aj v zlom\n\nIch tváre sa červenajú\nZahltnené smútkom\nA koho je to vina?\n\nUsmej sa, pretrp to, všetko prejde\nPretrp to, všetko prejde, usmej sa\nVšetko prejde, usmej sa, pretrp to\nZmizne to, všetko to prejde, ale kedy?\n\nVítajte\nV hoteli mojich slabostí\nVšetkých váš vítam\nNa predstavení\nO láske\n\nPretrp to, usmej sa\nPretrp to, usmej ѕa\nZmizne to, všetko to prejde, аle kedy?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "romanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Bun venit",
+      "content": "Noaptea vinovată se trezește\nÎși freacă fără rușine ochii obosiți\nVa veni sau visează?\nZorii lui septembrie sunt pe cale să se arate\nUnde sunt toți acum? Dincolo de hotar\nApoi o coroană de flori\n\nZâmbește, acceptă tot, va trece\nAcceptă tot, va trece, zâmbește\nVa trece, zâmbește, îndură tot\nDispare, se oprește, și când?\n\nBun venit la mine, tu\nPentru spectacol\nPentru dragoste\n\nCe mai faci? Ești bine?\nUnde sunt toți, curați înaintea lui Dumnezeu?\nDe parcă ar fi muți, stau fără grai\nCei care sunt acolo, la bine și la rău\n\nFețele lor sunt roșii\nÎn fața tristeții\nȘi cine este de vină?\n\nZâmbește, acceptă tot, va trece\nAcceptă tot, va trece, zâmbește\nVa trece, zâmbește, îndură tot\nDispare, se oprește, și când?\n\nBun venit la mine, tu\nLa hotelul slăbiciunilor mele\nBun venit la mine, toți\nPentru spectacol\nPentru dragoste\n\nÎndură tot, zâmbește\nÎndură tot, zâmbește\nDispаre, ѕe oprește, și când?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "czech"
+      ],
+      "displayedLanguages": null,
+      "title": "Vítejte",
+      "content": "Budí se noc, která má vinu\nUnavené oči si tře bez studu\nPřijde, nebo bude spát?\nPřijde červené svítání a uvidí rány\nKde jsou teď všichni? Za hranicí\nA pletou věnec z květin\n\nUsměj se, udrž se, vše přejde\nUdrž se, vše přejde, usměj se\nVše přejde, usměj se, udrž se\nZmizí to a vše přestane, ale kdy?\n\nVítejte všichni\nNa představení\nO lásce\n\nJak se máš? Je ti dobře?\nKde jsou všichni ti, kteří jsou čistí před bohem?\nJako by byli němí, stojí bez řeči\nTi co tam jsou v časech dobrých i zlých\n\nJejich obličeje jsou červené\nZáplatované smutkem\nA čí je to vina?\n\nUsměj se, udrž se, vše přejde\nUdrž se, vše přejde, usměj se\nVše přejde, usměj se, udrž se\nZmizí to a vše přestane, ale kdy?\n\nVítejte všichni\nV hotelu mých slabostí\nVítám vás všechny\nNa představení\nO lásce\n\nUdrž se, usměj se, vše přejde\nUdrž se, usměj se\nZmizí to a vše přeѕtane, аle kdy?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "irish"
+      ],
+      "displayedLanguages": null,
+      "title": "Fáilte",
+      "content": "Dúisíonn an oíche atá le milleán\nCuimil gan náire a súile tuirseach\nAn dtiocfaidh sé nó an gcodladh é?\nTagann breacadh an lae dearg chun na créachtaí a fheiceáil\nCá bhfuil gach duine anois? Taobh thiar den teorainn\nCniotáil bláthfhleasc bláthanna\n\nAoibh gháire, mairfidh gach rud, pasfaidh sé\nLean gach rud, beidh sé pas a fháil, aoibh gháire\nBeidh sé pas, aoibh gháire, mairfidh gach rud\nImeoidh sé, stopfaidh sé, ach cathain a bheidh sé?\n\nCuirim fáilte romhat\nChun an dráma\nMaidir le grá\n\nConas atá tú, an bhfuil tú ceart go leor?\nCá bhfuil na daoine sin go léir glan os comhair Dé anois?\nAmhail is go bhfuil siad balbh, seasann siad gan urlabhra\nIad siúd atá ann in amanna maithe agus olc\n\nTá a n-aghaidh dearg\nPatched le brón\nAgus cé atá an milleán?\n\nAoibh gháire, mairfidh gach rud, pasfaidh sé\nLean gach rud, beidh sé pas a fháil, aoibh gháire\nBeidh sé pas, aoibh gháire, mairfidh gach rud\nImeoidh sé, stopfaidh sé, ach cathain a bheidh sé?\n\nCuirim fáilte romhat\nGo dtí an t-óstán de mo laigí\nCuirim fáilte romhat go léir\nChun an dráma\nMaidir le grá\n\nMaireann gach rud, beidh sé pas, aoibh gháire\nImeoidh sé, stopfaidh sé, ach cathain a bheidh sé?\nStopfaidh sé, ach cathain а bheidh ѕé?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "azerbaijani"
+      ],
+      "displayedLanguages": null,
+      "title": "Xoş gəldin",
+      "content": "Gecənin səhvində oyandı dünya\nYorğun gözlər utancsız baxışla dolub\nGörəsən, gələcəkmi, ya xəyalda qalar?\nŞəfəq al, yaralara məlhəm olacaq\nHanı indi hamı? Meşədən o yanda\nGüllərdən hörülmüş bir tac başlarında\n\nGülümsə, döz, hər şey ötüb keçəcək\nDöz, hər şey ötüb keçəcək, gülümsə\nBitəcək, yox olacaq, döz\nAmma nə vaxt, bilən varmı?\n\nXoş gəldiniz, siz mənə\nMəhəbbətin\nSəhnəsinə\n\nNecəsən? Yaxşısanmı, dostum?\nHanı indi hamı? Təmiz ürəklər hardadır?\nSözlər boğazda düyünlənib qalıb\nPis gündə, yaxşı gündə yanında olanlar\n\nÜzlər solğun\nKədərdən tikilib sanki\nBəs mənim günahkarım kimdir axı?\n\nGülümsə, döz, hər şey ötüb keçəcək\nDöz, hər şey ötüb keçəcək, gülümsə\nBitəcək, yox olacaq, döz\nAmma nə vaxt, bilən varmı?\n\nXoş gəldiniz, siz mənə\nZəifliklərim sarayına\nXoş gəldiniz, hamınız\nMəhəbbət dolu\nSəhnəyə\n\nDöz, hər şey ötüb keçəcək, gülümsə\nDöz, hər şey ötüb keçəcək, gülümѕə\nBitəcək, dayanacaq, amma nə vаxt?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Bienvenue",
+      "content": "La nuit coupable se réveille\nSans honte elle frotte ses yeux fatigués\nViendra-t-elle ou rêvera-t-elle ?\nL'aube automnale se lève pour voir les blessures\nOù est tout le monde maintenant ? Derrière la frontière\nÀ fabriquer une couronne de fleurs\n\nSouris, endure tout, ça ira\nEndure tout, ça ira, souris\nÇa ira, souris, supporte tout\nCela disparaîtra, cela s'arrêtera, mais quand ?\n\nBienvenue à toi\nAu spectacle\nSur l'amour\n\nComment vas-tu ? Tu vas bien ?\nOù sont tous les purs devant Dieu ?\nComme s'ils étaient muets, ils restent sans voix\nCeux qui sont là dans le bien et dans le mal\n\nLeurs visages sont rouges\nParsemés de tristesse\nEt qui blâmer ?\n\nSouris, endure tout, ça ira\nEndure tout, ça ira, souris\nÇa ira, souris, supporte tout\nCela disparaîtra, cela s'arrêtera, mais quand ?\n\nBienvenue à toi\nA l'hôtel de mes faiblesses\nBienvenue à vous tous\nAu spectacle\nSur l'amour\n\nEndure tout, ça ira, souris\nCela disparaîtra, cela s'arrêtera, mais quand ?\nCela s'arrêtera, maiѕ quаnd ?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "indonesian"
+      ],
+      "displayedLanguages": null,
+      "title": "Selamat Datang",
+      "content": "Bangun di malam yang salah\nMengusap tanpa malu matanya yang lelah\nApakah itu akan datang atau akan tidur?\nFajar merah datang melihat luka\nDi mana semua orang sekarang? Di belakang perbatasan\nMerajut karangan bunga\n\nTersenyumlah, hadapi semuanya, itu akan berlalu\nHadapi semuanya, itu akan berlalu, tersenyumlah\nItu akan berlalu, Tersenyumlah, hadapi semuanya\nItu akan menghilang, itu akan berhenti, tapi kapan?\n\nSelamat datang untukmu\nDi pertunjukan\nTentang cinta\n\nApa kabar, kamu baik-baik?\nDi mana semua orang yang murni dihadapan Tuhan?\nSeolah-olah mereka bisu, mereka berdiri terdiam\nMereka yang ada di saat baik dan buruk\n\nWajah mereka merah\nDiliputi kesedihan\nDan siapa yang harus disalahkan\n\nTersenyumlah, hadapi semuanya, itu akan berlalu\nHadapi semuanya, itu akan berlalu, tersenyumlah\nItu akan berlalu, Tersenyumlah, hadapi semuanya\nItu akan menghilang, itu akan berhenti, tapi kapan?\n\nSelamat datang untukmu\nDi penginapan kelemahan-kelemahanku\nSelamat datang semuanya\nDi pertunjukan\nTentang cinta\n\nTahan semuanya, buat wajahmu tersenyum\nTahan semuanya, buat wajahmu terѕenyum\nItu akan hilang, itu akan pergi. Ya, tapi kapаn?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": null,
+      "title": "Καλοσώρισμα",
+      "content": "Η νύχτα που φταίει ξυπνάει\nΤρίβει ξεδιάντροπα τα κουρασμένα μάτια του\nΘα έρθει ή θα κοιμηθεί;\nΗ κόκκινη αυγή έρχεται να δει τις πληγές\nΠού είναι όλοι τώρα; Πίσω από τα σύνορα\nΠλέκοντας στεφάνι από λουλούδια\n\nΧαμογέλα, άντεξε τα πάντα θα περάσουν\nΆντεξε τα πάντα, θα περάσει, χαμογέλα\nΘα περάσει, θα χαμογελάσει, θα αντέξει τα πάντα\nΘα εξαφανιστεί, θα σταματήσει, αλλά πότε θα γίνει;\n\nΚαλώς ήρθατε\nΓια την παράσταση\nΠερί αγάπης\n\nΠώς είσαι, είσαι καλά;\nΠού είναι όλοι αυτοί που είναι αγνοί ενώπιον του Θεού;\nΣαν να είναι βουβοί, στέκονται αμίλητοι\nΑυτοί που είναι εκεί σε καλές και κακές στιγμές\n\nΤα πρόσωπά τους είναι κόκκινα\nΜπαλωμένο από θλίψη\nΚαι ποιος φταίει;\n\nΧαμογέλα, άντεξε τα πάντα θα περάσουν\nΆντεξε τα πάντα, θα περάσει, χαμογέλα\nΘα περάσει, θα χαμογελάσει, θα αντέξει τα πάντα\nΘα εξαφανιστεί, θα σταματήσει, αλλά πότε θα γίνει;\n\nΚαλώς ήρθατε\nΣτο ξενοδοχείο των αδυναμιών μου\nΚαλώς ήρθατε σε όλους σας\nΓια την παράσταση\nΠερί αγάπης\n\nΆντεξε τα πάντα, χαμογέλα, θα περάσει\nΘα εξαφανιστεί, θα σταματήσει, αλλά πότε θα γίνει;\nΘα σταματήσει, αλλά πότε θα σταματήσει;"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "lithuanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Sveiki atvykę",
+      "content": "Naktis, kuri yra kaltė, bunda\nPavargusios akys trina be gėdos\nAr ateis, ar sapnuos\nRūdnasis aušra anksti išgydys?\nKur dabar visi? Už medžio\nA pynas iš gėlių\n\nŠypsokis, iškentėk viską, praeis\nIškentėk viską, praeis, šypsokis\nPraeis, šypsokis, iškentėk viską\nDings, nustos. O kada?\n\nSveiki atvykę pas mane\nĮ spektaklį\nApie meilę\n\nKaip tu, ar gerai?\nKur dabar visi švarūs prieš Dievą?\nAtrodo, kad jie nebylūs, stovi be žodžių\nTie, kurie čia yra tiek blogai, tiek gerai\n\nJų veidai raudoni\nLiūdesiu sušalę\nO kas man kaltas\n\nŠypsokis, iškentėk viską, praeis\nIškentėk viską, praeis, šypsokis\nPraeis, šypsokis, iškentėk viską\nDings, nustos. O kada?\n\nSveiki atvykę pas mane\nĮ mano silpnybių viešbutį\nSveiki atvykę visi\nĮ spektaklį\nApie meilę\n\nIškentėk viską, šypsokis\nIškentėk viską, šypsokis\nDings, nustoѕ, o kadа?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "tagalog"
+      ],
+      "displayedLanguages": null,
+      "title": "Maligayang Pagdating",
+      "content": "Nagising ang gabing sinisisi\nAt hinaplos ang mga mata\nDarating ba ito o pangarap lamang?\nAng pulang bukang-liwayway ay umilaw sa mga sugat\nNasaan na ang lahat ngayon? Nagtatago sa likod\nNaghahabi ng korona ng mga bulaklak\n\nNgumiti ka, tiisin mo, ito'y lilipas\nTiisin mo, ito'y lilipas, ngumiti ka\nIto'y lilipas, ngumiti ka, tiisin mo\nMawawala rin ito, ngunit kailan?\n\nMaligayang pagdating\nSa palabas\nTungkol sa pag-ibig\n\nKamusta ka, ayos ka lang ba?\nNasaan ang lahat ng malinis sa harap ng Diyos?\nTulad ng mga pipi, tumayo ng walang salita\nSa magagandang panahon at masama\n\nPulang-pula ang kanilang mukha\nPunong-puno ng lungkot\nSino ang dapat sisihin?\n\nNgumiti ka, tiisin mo, ito'y lilipas\nTiisin mo, ito'y lilipas, ngumiti ka\nIto'y lilipas, ngumiti ka, tiisin mo\nMawawala rin ito, ngunit kailan?\n\nMaligayang pagdating\nSa bahay-panuluyan ng aking mga kahinaan\nMaligayang pagdating\nSa palabas\nTungkol sa pag-ibig\n\nTiisin mo, ngumiti ka\nTiiѕin mo, ngumiti ka\nMawawala rin ito, ngunit kailаn?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Welcome",
+      "content": "Slowly creeps in the night that bears all the blame\nShamelessly wiping the tired eyes away\nIs the ruddy dawn coming at all, or is it just dreaming\nTo put balm on the wounds\nWhere's everyone now? They are behind the walls\nBraiding flowery wreaths\n\nPut a smile on your face, endure it all, it'll pass\nEndure it all, it'll pass, put a smile on your face\nIt'll pass, put a smile on your face, endure it all\nIt'll disappear, it'll be gone. Yeah, but when?\n\nWelcome, ye all\nTo this staging\nOf love\n\nHow are you hon, are you alright?\nWhere's everyone now, is their conscience clean before God?\nThey just stand here speechlessly, as if mute\nThe same ones that should be here in both good and evil\n\nTheir faces are blushing\nPatched up with sadness\nStill, nobody's fault but my own\n\nPut a smile on your face, endure it all, it'll pass\nEndure it all, it'll pass, put a smile on your face\nIt'll pass, put a smile on your face, endure it all\nIt'll disappear, it'll be gone. Yeah, but when?\n\nWelcome ye all\nTo the hotel of my weaknesses\nWelcome, ye all\nTo this staging\nOf love\n\nEndure it all, put a smile on your face\nEndure it all, put a smile on your face\nIt'll diѕappear, it'll be gone. Yeаh, but when?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "ukrainian"
+      ],
+      "displayedLanguages": null,
+      "title": "Вітаю",
+      "content": "Прокидається ніч, що винна\nЇї втомлені очі безсоромно скиглять\nЧи прийде, чи засне?\nЧервоний світанок бачить рани\nДе всі поділися? За кордоном\nПлету вінок з квітів\n\nПосміхнись, тримайся, все пройде\nТримайся, все пройде, посміхнися\nЦе пройде, ти посміхнешся, ти витримаєш\nЦе пройде, це припиниться, але коли?\n\nВітаю вас\nНа шоу\nПро кохання\n\nЯк ти? У тебе все гаразд?\nДе ви всі чисті перед Богом?\nЯк німі, стоять безмовні\nТі, хто тут в горі і в радості\n\nЇхні обличчя червоні\nЗмиті від смутку\nІ хто винен?\n\nПосміхнись, тримайся, все пройде\nТримайся, все пройде, посміхнися\nЦе пройде, ти посміхнешся, ти витримаєш\nЦе пройде, це припиниться, але коли?\n\nВітаю вас\nДо готелю моїх слабкостей\nВітаю вас\nНа шоу\nПро кохання\n\nТримайся, посміхнись\nТримайся, посміхнись\nЦе пройде, це припиниться, але коли?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "belarusian"
+      ],
+      "displayedLanguages": null,
+      "title": "Сардэчна Запрашаем",
+      "content": "Вінаватая ноч прачынаецца\nБессаромна трэ свае стомленыя вочы\nЦі прыйдзе яна ці будзе спаць?\nЧырвоны світанак прыходзіць, каб убачыць раны\nДзе ж усе зараз? Яны за мяжой\nВяжуць вянок з кветак\n\nУсміхніся, ператрывай усё, яно пройдзе\nЦярпі ўсё, яно пройдзе, усміхніся\nЯно пройдзе, усміхніся, ператрывай усё гэта\nЯно знікне, яно спыніцца, але калі?\n\nСардэчна запрашаем да мяне, ты\nНа шоу\nАб каханні\n\nЯк ты? Ці ўсё добра?\nДзе ж усе тыя, хто чысты перад Богам?\nНібы нямыя, яны стаялі ў здранцвенні\nТыя, хто там і ў зле, і ў шчасці\n\nІх твары чырвоныя\nЗаплямлены смуткам\nІ хто ў гэтым вінаваты?\n\nУсміхніся, ператрывай усё, яно пройдзе\nЦярпі ўсё, яно пройдзе, усміхніся\nЯно пройдзе, усміхніся, ператрывай усё гэта\nЯно знікне, яно спыніцца, але калі?\n\nСардэчна запрашаем да мяне, ты\nУ гатэль маіх слабасцяў\nСардэчна запрашаем да мяне, усе вы\nНа шоу\nАб каханні\n\nЦярпі ўсё, усміхніся\nЦярпі ўсё, усміхніся ж\nЯно знікне, яно спыніцца, але калі?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Benvenuto",
+      "content": "Si sveglia la notte che è colpevole\nSi strofina gli occhi stanchi senza vergogna\nArriverà o sognerà\nL'alba rossastra sorge per vedere\nDove sono tutti ora? Oltre il confine\nIntrecciando una corona di fiori\n\nSorridi, sopporta tutto, passerà\nSopporta tutto, passerà, sorridi\nPasserà, sorridi, sopporta tutto\nScomparirà, si fermerà, ma quando?\n\nBenvenuto a me, tu\nAllo spettacolo\nSull'amore\n\nCome stai? Stai bene?\nDove sono tutti i puri davanti a Dio?\nCome se fossero muti, restano senza parole\nLoro che stanno qui nel male e nel bene\n\nI loro volti sono rossi\nMacchiati di tristezza\nE di chi è la colpa?\n\nSorridi, sopporta tutto, passerà\nSopporta tutto, passerà, sorridi\nPasserà, sorridi, sopporta tutto\nScomparirà, si fermerà, ma quando?\n\nBenvenuto a me, tu\nAll'hotel della mia debolezza\nBenvenuti tutti voi\nAllo spettacolo\nSull'amore\n\nSopporta tutto, sorridi\nSopporta tutto, sorridi\nScomparirà, ѕi fermerà, ma quаndo?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "serbian"
+      ],
+      "displayedLanguages": null,
+      "title": "Dobro došli",
+      "content": "Budi se noć, koja je kriva\nUmorne oči trlja bez stida\nHoće li doći ili će da sniva?\nZora rujna rane da vida\nGde su sad svi? Iza sumeđa\nPretom venac od cveća\n\nNasmej se, izdrži sve, proći će\nIzdrži sve, proći će, nasmej se\nProći će, nasmej se, izdrži sve\nNestaće, prestaće, a kada će?\n\nDobro došli meni vi\nNa predstavu\nO ljubavi\n\nKako si ti? Da li si dobro?\nGde su sad svi čisti pred Bogom?\nKo da su nemi, stoje bez reči\nOni što tu su u zlu i u sreći\n\nLica su im crvena\nTugom krpljena\nA ko mi je kriv?\n\nNasmej se, izdrži sve, proći će\nIzdrži sve, proći će, nasmej se\nProći će, nasmej se, izdrži sve\nNestaće, prestaće, a kada će?\n\nDobro došli meni vi\nU hotel mojih slabosti\nDobro došli meni svi\nNa predstavu\nO ljubavi\n\nIzdrži sve, nasmej se\nIzdrži sve, nasmej se\nNestaće, preѕtaće, a kadа će?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "breton"
+      ],
+      "displayedLanguages": null,
+      "title": "Degemer mat",
+      "content": "Emañ o tihuniñ an noz fazius\nHep kaout mezh e tibikouz ganti he daoulagad\nDont a raio pe huñvreal a raio?\nDa welet ar gloazioù e teu ar gouloù-deiz ruz\nPelec'h emañ an holl dud bremañ? A-dreñv an harz\nO stammat ur c'harlantez-bleunioù\n\nMousc'hoarzh, gouzañv, gwelloc'h 'vo\nGouzañv, gwelloc'h 'vo, mousc'hoarzh\nGwelloc'h 'vo, mousc'hoarzh, gouzañv\nSteuziañ a raio, harzhal a raio, peur avat?\n\nDegemer mat dit\nE gouel\nAr garantez\n\nMont a ra ganit, mat eo an traoù?\nPelec'h emañ ar re diberc'hedus a-dal da Zoue?\nNe lavar ket ger ebet, evel ma oant mut, war o sav\nAr re a chom pa vez mat pe fall ar jeu\n\nRuz o dremmoù\nDremmoù glac'haret dezho\nHa piv eo kiriek?\n\nMousc'hoarzh, gouzañv, gwelloc'h 'vo\nGouzañv, gwelloc'h 'vo, mousc'hoarzh\nGwelloc'h 'vo, mousc'hoarzh, gouzañv\nSteuziañ a raio, harzhal a raio, peur avat?\n\nDegemer mat dit\nE ti ma falladennoù\nDegemer mat deoc'h all\nE gouel\nAr garantez\n\nGouzañv, mousc'hoarzh\nGouzañv, mouѕc'hoarzh\nSteuziañ a raio, harzhal a raio, peur avаt?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "bulgarian"
+      ],
+      "displayedLanguages": null,
+      "title": "Добре дошли",
+      "content": "Събужда се нощта, която е виновна\nУморените очи си безсрамно нърка\nЩе дойде ли или ще спи?\nЧервена зора раните вижда\nКъде са всички? Зад границата\nПлетейки корона от цветя\n\nУсмихни се, издържи, всичко ще мине\nИздържи, всичко ще мине, усмихни се\nЩе мине, ще се усмихнеш, ще издържиш\nЩе изчезне, ще спре, но кога?\n\nДобре дошли\nНа представлението\nЗа любовта\n\nКак си ти? Добре ли си?\nКъде са всички чисти пред Бога?\nКато неми, стоят без думи\nОнези, които са тук в зло и в щастие\n\nЛицата им са червени\nПлеснати от тъга\nИ кой е виновен?\n\nУсмихни се, издържи, всичко ще мине\nИздържи, всичко ще мине, усмихни се\nЩе мине, ще се усмихнеш, ще издържиш\nЩе изчезне, ще спре, но кога?\n\nДобре дошли\nВ хотела на слабостите ми\nДобре дошли при мен всички\nНа представлението\nЗа любовта\n\nИздържи, усмихни се\nИздържи, усмихни се\nЩе изчезне, ще спре, но кога?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "albanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Mirë se erdhet",
+      "content": "Zgjohet nata, e padrejtë dhe e rëndë\nFërkon sytë e lodhur, pa turp, pa mëdyshje\nA do të vijë agimi, apo do të mbetet në ëndrra?\nA do të vijë agimi për t'i shëruar plagët?\nKu janë të gjithë? Pas mjegullës gri\nKurorë lulesh të harruara mbi koka të ulura\n\nBuzëqesh, përballoje, do të kalojë\nPërballoje, do të kalojë, buzëqesh\nDo të kalojë, buzëqesh, duro gjithçka\nDo të ikë, do të ndalet – por kur do të ndodhë?\n\nMirë se erdhët të gjithë ju\nNë skenën time\nTë dashurisë\n\nSi je ti? A je mirë?\nKu janë të gjithë, të pastër përpara Zotit?\nSi të ishin të heshtur, qëndrojnë pa fjalë\nEdhe ata që janë këtu, në të keqen e në të mirën\n\nFytyrat e tyre janë të kuqe\nMe trishtim të qepura\nPor kush është fajtor?\n\nBuzëqesh, përballoje, do të kalojë\nPërballoje, do të kalojë, buzëqesh\nDo të kalojë, buzëqesh, duro gjithçka\nDo të ikë, do të ndalet – por kur do të ndodhë?\n\nMirë se erdhët të gjithë ju\nNë hotelin e dobësive të mia\nMirë se erdhët të gjithë\nNë skenën\nTë dashurisë\n\nPërballoje gjithçka, buzëqesh\nPërballoje gjithçka, buzëqeѕh\nDo të ikë, do të ndаlet – por kur do të ndodhë?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "danish"
+      ],
+      "displayedLanguages": null,
+      "title": "Velkommen",
+      "content": "Den skyldige nat vågner\nGnider skamløst sine trætte øjne\nVil han komme eller drømmer han?\nSeptembers daggry er ved at blive set\nHvor er alle nu? Ud over grænsen\nSår en krans a blomster\n\nSmil, tag det hele, det vil gå over\nTag det hele, det vil gå over, smil\nDet vil gå over, smil, tål det hele\nDet vil forsvinde, stoppe, men hvornår?\n\nJeg hilser dig velkommen\nTil showet\nOm kærlighed\n\nHvordan har du det, er du okay?\nHvor er alle de rene foran Gud?\nSom var de stumme, står de tavse\nDem som er der i godt og ondt\n\nDeres ansigter er røde\nKonfronteret med sorg\nOg hvem kan bebrejdes?\n\nSmil, tag det hele, det vil gå over\nTag det hele, det vil gå over, smil\nDet vil gå over, smil, tål det hele\nDet vil forsvinde, stoppe, men hvornår?\n\nJeg hilser dig velkommen\nTil min svagheds hotel\nVelkommen til alle\nTil showet\nOm kærlighed\n\nTаg det hele, det vil gå over, smil\nDet vil forsvinde, stoppe, men hvornår?\nDet vil ѕtoppe, men hvornår?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Tervetuloa",
+      "content": "Yö, joka on syyllinen, herää\nHän hieroo häpeämättä väsyneitä silmiään\nTuleeko hän vai haaveileeko?\nSyyskuun aamunkoitto koittaa nähdä\nMissä kaikki ovat nyt? Rajan takana\nSitten seppele kukkasista\n\nHymyile, kestä kaikki, se menee ohi\nKestä kaikki, se menee ohi, hymyile\nSe menee ohi, hymyile, kestä kaikki\nSe katoaa, se pysähtyy ja milloin?\n\nTervetuloa luokseni sinä\nEsitykseen\nRakkaudesta\n\nKuinka voit? Oletko kunnossa?\nMissä he kaikki ovat puhtaita Jumalan edessä?\nIkään kuin he olisivat mykkiä, he seisovat sanattomina\nNe, jotka ovat siellä pahassa ja onnessa\n\nHeidän kasvonsa ovat punaiset\nKohtattu surusta\nJa kuka on syyllinen?\n\nHymyile, kestä kaikki, se menee ohi\nKestä kaikki, se menee ohi, hymyile\nSe menee ohi, hymyile, kestä kaikki\nSe katoaa, se pysähtyy ja milloin?\n\nTervetuloa luokseni sinä\nHeikkouksieni hotelliin\nTervetuloa luokseni, kaikki\nEsitykseen\nRakkaudesta\n\nKestä kaikki, hymyile\nKestä kaikki, hymyile\nSe katoaa, pyѕähtyy jа milloin?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "thai"
+      ],
+      "displayedLanguages": null,
+      "title": "ยินดีต้อนรับ",
+      "content": "คืนตื่นขึ้นมา ความผิดอยู่ที่ใคร\nดวงตาล้าๆ ถูกเช็ดไปอย่างไร้ยางอาย\nเธอจะมาไหม หรือฝันไปอีกไกล?\nรุ่งอรุณสีแดงจะปลอบแผลใจ\nตอนนี้ทุกคนอยู่ไหน? ซ่อนตัวหลังม่านมืด\nมงกุฎดอกไม้คล้องเธอไว้เถิด\n\nยิ้มเข้าไว้ อดทนไว้ เดี๋ยวมันก็ผ่านไป\nอดทนไว้ เดี๋ยวมันก็ผ่านไป ยิ้มเข้าไว้\nมันจะผ่านไป ยิ้มเข้าไว้ อดทนไว้\nมันจะหายไป จะจบลงไป แต่เมื่อไหร่?\n\nยินดีต้อนรับทุกคน\nสู่การแสดง\nของความรักนี้\n\nเป็นอย่างไรบ้าง? เธอยังดีอยู่ไหม?\nตอนนี้ทุกคนที่บริสุทธิ์อยู่ที่ใด?\nราวกับต้องคำสาป เงียบงันไร้เสียงใด\nคนที่อยู่ตรงนี้ ไม่ว่าสุขหรือทุกข์ใจ\n\nใบหน้าพวกเขาแดงก่ำ\nเย็บปะความเศร้าในแววตา\nแต่ใครกันที่ทำร้ายฉัน?\n\nยิ้มเข้าไว้ อดทนไว้ เดี๋ยวมันก็ผ่านไป\nอดทนไว้ เดี๋ยวมันก็ผ่านไป ยิ้มเข้าไว้\nมันจะผ่านไป ยิ้มเข้าไว้ อดทนไว้\nมันจะหายไป จะจบลงไป แต่เมื่อไหร่?\n\nยินดีต้อนรับทุกคน\nสู่โรงแรมแห่งความอ่อนแอของฉัน\nยินดีต้อนรับทุกคน\nสู่การแสดง\nของความรักนี้\n\nอดทนไว้ ยิ้มเข้าไว้\nอดทนไว้ ยิ้มเข้าไว้\nมันจะหายไป จะจบลงไป แต่เมื่อไหร่?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "catalan"
+      ],
+      "displayedLanguages": null,
+      "title": "Benvingut",
+      "content": "La nit culpable es desperta\nEs frega els seus ulls cansats sense vergonya\nVindrà o dormirà?\nL'alba vermella ve a veure les ferides\nOn està tothom ara? Darrere la frontera\nCosint una corona de flors\n\nSomriu, aguanta-ho tot, passarà\nAguanta-ho tot, passarà, somriu\nPassarà, somriu, aguanta-ho tot\nDesapareixerà, pararà, però quan?\n\nEts benvingut\nA l'espectacle\nSobre l'amor\n\nCom estàs? Estàs bé?\nOn són tots els que són purs davant de Déu?\nCom si fossin muts, s'han quedat sense paraules\nEls que hi són en els bons i els mals temps\n\nLes seves cares estan vermelles\nApedaçades amb tristesa\nI qui té la culpa?\n\nSomriu, aguanta-ho tot, passarà\nAguanta-ho tot, passarà, somriu\nPassarà, somriu, aguanta-ho tot\nDesapareixerà, pararà, però quan?\n\nEts benvingut\nA l'hotel de les meves debilitats\nSou benvinguts\nA l'espectacle\nSobre l'amor\n\nAguanta-ho tot, somriu\nAguanta-ho tot, somriu\nDeѕapareixerà, pararà, però quаn?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "Welkom",
+      "content": "De nacht die de schuld draagt wordt wakker\nWrijft schaamteloos in zijn vermoeide ogen\nZal hij komen of zal hij slapen?\nRode dageraad komt om de wonden te zien\nWaar is iedereen nu? Achter de grens\nBreit een krans van bloemen\n\nGlimlach, verdraag alles, het zal voorbijgaan\nVerdraag alles, het zal voorbijgaan, glimlach\nHet zal voorbijgaan, glimlach, verdraag alles\nHet zal verdwijnen, het zal stoppen, maar wanneer zal het?\n\nWelkom bij jou\nNaar de show\nOver liefde\n\nHoe gaat het met je, gaat het goed met je?\nWaar zijn al diegenen die puur zijn voor God?\nAlsof ze stom zijn, staan ze sprakeloos\nDegenen die er zijn in goede en slechte tijden\n\nHun gezichten zijn rood\nGevlekt met verdriet\nEn wie is de schuld?\n\nGlimlach, verdraag alles, het zal voorbijgaan\nVerdraag alles, het zal voorbijgaan, glimlach\nHet zal voorbijgaan, glimlach, verdraag alles\nHet zal verdwijnen, het zal stoppen, maar wanneer zal het?\n\nWelkom bij jou\nIn het hotel van mijn zwakheden\nWelkom bij jullie allemaal\nIn de show\nOver liefde\n\nVerdraag alles, glimlach, het zal voorbijgaan\nHet zal verdwijnen, het zal stoppen, maar wanneer zal het?\nHet zal ѕtoppen, maar wanneer zаl het?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Välkommen",
+      "content": "Den skyldiga natten vaknar\nGnider sina ögon utan skam\nKommer det eller ska det sova?\nRöd gryning kommer för att se såren\nVar är alla nu? Bakom gränsen\nStickar en blomsterkrans\n\nLe, tål allting, det går över\nTål allting, det går över, le\nDet går över, le, tål allting\nDet kommer försvinna, det kommer sluta, men när?\n\nJag hälsar dig välkommen\nTill pjäsen\nOm kärlek\n\nHur går det, är du okej?\nVar är nu alla de rena framför Gud?\nSom om de är stumma, de står mållösa\nDe som är där i gott och ont\n\nDeras ansikten är röda\nPlåstrade med sorg\nOch vem bär skulden?\n\nLe, tål allting, det går över\nTål allting, det går över, le\nDet går över, le, tål allting\nDet kommer försvinna, det kommer sluta, men när?\n\nJag hälsar dig välkommen\nTill mina svagheters hotell\nJag hälsar er alla välkomna\nTill pjäsen\nOm kärlek\n\nTål allting, det går över, le\nDet kommer försvinna, det kommer sluta, men när?\nDet kommer ѕlutа, men när?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Добро пожаловать",
+      "content": "Просыпается ночь, во всём виновная\nУставшие глаза отираются без стыда\nПридёт ли он или будет дремать?\nАлый рассвет, заживляющий раны\nГде же сейчас все? За межой\nПлетут венок из цветов\n\nУлыбнись, потерпи, всё это пройдёт\nПотерпи, всё это пройдёт, улыбнись\nЭто пройдёт, улыбнись, потерпи\nИсчезнет, прекратится, а когда же?\n\nДобро пожаловать ко мне\nНа представление\nО любви\n\nКак ты? Всё ли хорошо?\nГде же сейчас все те, что чисты перед Богом?\nКак будто немые, стоят без слов\nТе, кто здесь, и в горе, и в радости\n\nЛица у них красны\nСлезами залиты\nИ кто виноват?\n\nУлыбнись, потерпи, всё это пройдёт\nПотерпи, всё это пройдёт, улыбнись\nЭто пройдёт, улыбнись, потерпи\nИсчезнет, прекратится, а когда же?\n\nДобро пожаловать ко мне\nВ отель моих слабостей\nВсем добро пожаловать ко мне\nНа представление\nО любви\n\nПотерпи, улыбнись\nПотерпи, улыбнись\nИсчезнет, прекратится, а когда же?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "turkish"
+      ],
+      "displayedLanguages": null,
+      "title": "Hoş geldin",
+      "content": "Suçlu olan gece uyanır\nUtanmadan yorgun gözlerini ovuşturuyor\nGelecek mi yoksa rüya mı görecek?\nEylül şafağı görmek için doğar\nHerkes şimdi nerede?Sınırın arkasında\nSonra bir çiçek çelengi\n\nGülümse,her şeye katlan,geçecek\nDayan her şeye,geçer,gülümse\nGeçecek,gülümse,her şeye katlan\nOrtadan kaybolacak,duracak ve ne zaman bitecek?\n\nHoş geldin bana\nGösteriye\nAşk hakkında\n\nNasılsın iyi misin\nTanrı'nın önünde hepsi nerede temiz?\nDilsizmiş gibi suskun duruyorlar\nKötülükte de mutlulukta da orada olanlar\n\nYüzleri kırmızı\nHüzünle yamalı\nPeki kim suçlanacak?\n\nGülümse,her şeye katlan,geçecek\nDayan her şeye,geçer,gülümse\nGeçecek,gülümse,her şeye katlan\nOrtadan kaybolacak,duracak ve ne zaman bitecek?\n\nHoş geldin bana\nZayıf yönlerimin oteline\nBana hoş geldiniz millet\nGösteriye\nAşk hakkında\n\nHer şeye katlan,gülümse\nHer şeye katlan,gülümѕe\nOrtadan kaybolacak,duracak ve ne zamаn bitecek?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "maltese"
+      ],
+      "displayedLanguages": null,
+      "title": "Merħba",
+      "content": "It-tort tal-lejl inqum\nBla mistħija ngħorok għajnejh għajjenin\nSe jiġi jew se jorqod?\nIż-żerniq ħamrani jasal biex nara l-feriti\nFejn hu kulħadd issa? Wara l-fruntieri\nJinseġ kuruna tal-fjuri\n\nTbissem, aċċetta kollox, kollox jgħaddi\nAċċetta kollox, kollox jgħaddi, tbissem\nKollox jgħaddi, tbissem, aċċetta kollox\nSe jisparixxi, se jintemm, imma meta se jkun?\n\nMerħba lilek\nGħall-wirja\nDwar l-imħabba\n\nKif int, kollox sew?\nFejn huma dawk kollha li huma safja quddiem Alla?\nBħallikieku huma muti, jibqgħu bla kliem\nDawk li qegħdin hemm fi żminijiet tajbin u ħżiena\n\nL-uċuħ tagħhom ħomor\nImtebba' bid-dwejjaq\nU ta' min hu t-tort?\n\nTbissem, aċċetta kollox, kollox jgħaddi\nAċċetta kollox, kollox jgħaddi, tbissem\nKollox jgħaddi, tbissem, aċċetta kollox\nSe jisparixxi, se jintemm, imma meta se jkun?\n\nMerħba lilek\nGħal-lukanda tad-dgħufijiet tiegħi\nMerħba lilkom ilkoll\nGħall-wirja\nDwar l-imħabba\n\nAċċetta kollox, tbissem, kollox jgħaddi\nSe jisparixxi, se jintemm, imma meta se jkun?\nSe jintemm, imma metа ѕe jkun?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Willkommen",
+      "content": "Die Nacht erwacht, die schuldige\nReibt müde Augen ohne Scham\nWird sie kommen oder träumen?\nDie rötliche Morgendämmerung heilt die Wunden\nWo sind jetzt alle? Hinter dem Schatten\nMit einem Kranz aus Blumen\n\nLächle, halte durch, es wird vorbeigehen\nHalte durch, es wird vorbeigehen, lächle\nEs wird vorbeigehen, lächle, halte durch\nEs wird verschwinden, es wird aufhören, aber wann?\n\nWillkommen bei mir\nZu einer Aufführung\nÜber die Liebe\n\nWie geht es dir? Geht es dir gut?\nWo sind jetzt alle, rein vor Gott?\nAls wären sie stumm, sie stehen wortlos da\nDiejenigen, die im Unglück und im Glück hier sind\n\nIhre Gesichter sind rot\nVon Trauer geflickt\nAber wer ist schuld?\n\nLächle, halte durch, es wird vorbeigehen\nHalte durch, es wird vorbeigehen, lächle\nEs wird vorbeigehen, lächle, halte durch\nEs wird verschwinden, es wird aufhören, aber wann?\n\nWillkommen bei mir\nIn das Hotel meiner Schwächen\nWillkommen bei mir, alle\nZu einer Aufführung\nÜber die Liebe\n\nHalte durch, lächle\nHalte durch, lächle\nEs wird verschwinden, eѕ wird aufhören, aber wаnn?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Bem-vindo",
+      "content": "A noite, que é a culpada, acorda\nEsfrega sem vergonha os olhos cansados\nVirá ou dormirá?\nA aurora vermelha vem ver as feridas\nOnde estão todos agora? Atrás da fronteira\nTricotando uma coroa de flores\n\nSorri, suporta tudo, vai passar\nTudo suporta, tudo passa, sorri\nVai passar, sorri, suporta tudo\nVai desaparecer, vai parar, mas quando é que vai?\n\nBem-vindo a si\nAo espetáculo\nSobre o amor\n\nComo estás, estás bem?\nOnde estão todos aqueles que são puros perante Deus?\nComo se estivessem mudos, ficam sem palavras\nAqueles que estão lá nos bons e maus momentos\n\nOs seus rostos estão vermelhos\nCom manchas de tristeza\nE quem é o culpado?\n\nSorri, suporta tudo, vai passar\nTudo suporta, tudo passa, sorri\nVai passar, sorri, suporta tudo\nVai desaparecer, vai parar, mas quando é que vai?\n\nBem-vindo a ti\nAo hotel das minhas fraquezas\nBem-vindos a todos vós\nAo espetáculo\nSobre o amor\n\nSuporta tudo, sorri, vai passar\nVai desaparecer, vai parar, mas quando é que vai parar?\nVai parar, maѕ quаndo?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Bienvenido",
+      "content": "La noche culpable se despierta\nSe frota los ojos cansados sin pudor\n¿Vendrá y soñará?\nLa aurora de septiembre amanece para ver\n¿Dónde están todos ahora? Detrás de la frontera\nLuego una corona de flores\n\nSonríe, tómalo todo, pasará\nAguanta todo, pasará, sonríe\nPasará, sonríe, sopórtalo todo\nDesaparecerá, parará y ¿cuándo?\n\nBienvenido a mi, tu\nAl espectáculo\nSobre el amor\n\nCómo estás ¿estás bien?\n¿Dónde están todos limpios delante de Dios?\nComo si estuvieran mudos, se quedaron sin palabras\nLos que están ahí en el mal y en la felicidad\n\nSus caras estan rojas\nParcheado de tristeza\n¿Y quién tiene la culpa?\n\nSonríe, tómalo todo, pasará\nAguanta todo, pasará, sonríe\nPasará, sonríe, sopórtalo todo\nDesaparecerá, parará y ¿cuándo?\n\nBienvenido a mi, tu\nAl hotel de mis debilidades\nBienvenidos a mi, todos\nAl espectáculo\nSobre el amor\n\nAguanta todo, sonríe\nAguanta todo, sonríe\nDeѕaparecerá, parаrá y ¿cuándo?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "hungarian"
+      ],
+      "displayedLanguages": null,
+      "title": "Üdvözöllek",
+      "content": "Felébred az éj, amely mindenért felelős\nFáradt szemeit szégyentelenül dörzsöli\nEljön-e végül, vagy csak álmodik?\nA hajnal bíbor színei sebeket gyógyítanak\nHol vannak most mind? Az erdőn túl\nVirágkoszorút fonva várakoznak\n\nMosolyogj, tarts ki – ez is elmúlik\nTarts ki, mosolyogj – egyszer vége lesz\nEl fog múlni, mosolyogj, tarts ki\nEltűnik, megszűnik – de vajon mikor?\n\nÜdvözöllek titeket\nEzen az előadáson\nA szeretetről szólva\n\nHogy vagy most? Jól érzed magad?\nHol vannak mind, akik tiszták Isten előtt?\nMint némák, szavak nélkül állnak\nAkik hűségesek jóban és rosszban\n\nArcuk vörös\nBánat foltozta\nDe ki lehet ezért a hibás?\n\nMosolyogj, tarts ki – ez is elmúlik\nTarts ki, mosolyogj – egyszer vége lesz\nEl fog múlni, mosolyogj, tarts ki\nEltűnik, megszűnik – de vajon mikor?\n\nÜdvözöllek titeket\nGyengeségeim szállodájában\nÜdvözöllek mindannyiótokat\nEzen az előadáson\nA szeretetről szólva\n\nTarts ki, mosolyogj\nTаrts ki, mosolyogj\nEltűnik, megѕzűnik – de mikor?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "chinese"
+      ],
+      "displayedLanguages": null,
+      "title": "歡迎",
+      "content": "罪惡的夜晚漸漸醒過來\n無恥地揉著疲憊的雙眼\n它會到來　或墮入夢鄉？\n深紅的黎明會治癒傷口\n大家去了哪？在那天際線後方\n正在將鮮花編織成花圈\n\n微笑　忍受一切　會過去的\n忍受一切　會過去的　微笑\n會過去的　微笑　忍受一切\n會逝去的　會停止的　但會是何時？\n\n歡迎來到我身邊\n來到這一場\n關於愛的秀\n\n你過得如何？一切都還好嗎？\n上帝面前純正的人們去了哪？\n如同被噤聲般　無語地站著\n那存於邪惡與歡喜中的人們\n\n他們面色通紅\n以悲傷為縫補\n那又該怪誰呢？\n\n微笑　忍受一切　會過去的\n忍受一切　會過去的　微笑\n會過去的　微笑　忍受一切\n會逝去的　會停止的　但會是何時？\n\n歡迎來到我身邊\n來到我弱點的旅店\n歡迎你們所有人\n來到這一場\n關於愛的秀\n\n忍受一切　微笑\n忍受一切　微笑\n會逝去的　會停止的　但會是何時？"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "polish"
+      ],
+      "displayedLanguages": null,
+      "title": "Witam",
+      "content": "Budzi się noc, która jest winna\nZmęczone oczy przeciera bezwstydnie\nCzy przyjdzie, czy będzie nadal śniła?\nŚwit września wschodzi, aby zobaczyć\nGdzie wszyscy teraz są? Za ścianą\nTkają wieniec z kwiatów\n\nUśmiechnij się, wytrzymaj wszystko, to minie\nWytrzymaj wszystko, to przejdzie, uśmiechaj się\nTo minie, uśmiechnij się, wytrzymaj wszystko\nZniknie, przestanie, ale kiedy?\n\nWitam ciebie u mnie\nNa przedstawieniu\nO miłości\n\nJak się masz, Czy wszystko w porządku?\nGdzie są oni wszyscy, czyści przed Bogiem?\nJakby niemi, stoją bez słów\nCi, którzy są tu w złu i w szczęściu\n\nIch twarze są czerwone\nPołatane smutkiem\nA kto jest winien?\n\nUśmiechnij się, wytrzymaj wszystko, to minie\nWytrzymaj wszystko, to przejdzie, uśmiechaj się\nTo minie, uśmiechnij się, znoś to wszystko\nZniknie, przestanie, ale kiedy?\n\nWitam Cię u mnie\nW hotelu moich słabości\nWitam Was wszystkich u mnie\nNa przedstawieniu\nO miłości\n\nZnoś wszystko, uśmiechaj się\nZnoś wszystko, uśmiechaj się\nZniknie, przeѕtanie аle kiedy?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "latvian"
+      ],
+      "displayedLanguages": null,
+      "title": "Laipni lūdzam",
+      "content": "Nakts, kas ir vainīga, mostas\nNekaunīgi berzē savas nogurušās acis\nAtnāks vai gulēs?\nSarkanā rītausma nāk, lai redzētu brūces\nKur tagad visi ir? Aiz robežas\nAda ziedu vainagu\n\nPasmaidi, izturi visu, tas pāries\nIzturi visu, tas pāries, pasmaidi\nTas pāries, pasmaidi, visu izturēsi\nPazudīs, apstāsies, bet kad tad?\n\nLaipni lūdzam\nUz izrādi\nPar mīlestību\n\nKā tev iet, vai tev viss kārtībā?\nKur ir visi tie, kas ir šķīsti Dieva priekšā?\nIt kā mēmi stāv bez vārdiem\nTie, kas tur ir gan labos, gan sliktajos laikos\n\nViņu sejas ir sarkanas\nSkumjas aizlāpītas\nUn kurš vainīgs?\n\nPasmaidi, izturi visu, tas pāries\nIzturi visu, tas pāries, pasmaidi\nTas pāries, pasmaidi, visu izturēsi\nPazudīs, apstāsies, bet kad tad?\n\nLaipni lūdzam\nUz manu vājo vietu viesnīcu\nLaipni lūdzam jūs visus\nUz izrādi\nPar mīlestību\n\nIzturi visu, smaidi\nIzturi visu, smaidi\nTas pazudīs, apstāsies, bet kad tаs beigsieѕ?"
+    }
+  ],
+  "bpm": 82,
+  "tone": "D minor",
+  "artistPeople": [
+    "Nina Žižić"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Aleksandar Maričić, Boris Subotić, Dalibor Ivanković",
+  "composers": [
+    "Boris Subotić",
+    "Darko Dimitrov"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Boris Subotić",
+    "Violeta Mihajlovska"
+  ],
+  "writers": null,
+  "broadcaster": "RTCG",
+  "commentators": [
+    "Dražen Bauković"
+  ],
+  "jury": [
+    "Bojana Nenezić",
+    "Gavrilo Radunović",
+    "Jelena Bozović",
+    "Marija Bozović",
+    "Željko Vukčević"
+  ],
+  "spokesperson": "Marko Vukčević"
+}

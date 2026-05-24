@@ -1,0 +1,67 @@
+{
+  "id": 41,
+  "country": "EE",
+  "artist": "Jüri Pootsmann",
+  "song": "Play",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/g0-j0Eh8VNA",
+    "https://www.youtube-nocookie.com/embed/A8oilbtQptQ",
+    "https://www.youtube-nocookie.com/embed/3Q-2UL9QrP8",
+    "https://www.youtube-nocookie.com/embed/XqXovUS-ZJc",
+    "https://www.youtube-nocookie.com/embed/fUq8TAweZnw",
+    "https://www.youtube-nocookie.com/embed/XiqProXCLiw",
+    "https://www.youtube-nocookie.com/embed/U-NiUBLDOi4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Play",
+      "content": "It's getting late and be that as it may\nI turn to you, I turn to you\nWe might seem so obvious to me\nBut not to you, not to you\n\nWe ain't got all night\nTo find out what is right\nSo let's go undecided till we know\n\nThe only way to go\nIs let your feelings show\nSee all your walls come down\n\nAnd just hit play\n'Cause that's the only way\nTo find out if it's love\nThat we're fallin', we're fallin' into\n\nI didn't know what to do\nBut now I'm good as new\n'Cause I'm stronger, much stronger with you\n\nSome might say it's an ordinary day\nBut not for me, not for me\nIf you feel your senses disagree\nBear with me, bear with me\n\nWe ain't got all night\nTo find out what is right\nSo let's go undecided till we know\n\nIt's the only way to see\nIf we were meant to be\nLet all your walls come down\n\nAnd just hit play\n'Cause that's the only way\nTo find out if it's love\nThat we're fallin', we're fallin' into\n\nI didn't know what to do\nBut now I'm good as new\n'Cause I'm stronger, much stronger with you\n\nSome might say it's an ordinary day\nBut not for me, not for me\n\nAnd I hit play\n('Cause that's the only way)\n(To find out) If it's love\nWe're fallin' into, into\n\nI didn't know what to do\nBut now I'm good as new\n'Cаuse I'm stronger, much ѕtronger with you"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "estonian"
+      ],
+      "displayedLanguages": null,
+      "title": "Läks",
+      "content": "Kell on palju ja olgu, kuidas on\nMa pöördun sinu poole, pöördun sinu poole\nMeie oleme minu jaoks nii ilmselge\nAga mitte sinu jaoks, mitte sinu jaoks\n\nMeil pole tervet ööd\nEt aru saada, mis on õige\nNii, et jääme otsuseta, kuniks me teame\n\nAinus viis edasi\nOn oma tundeid näidata\nNäha kõiki sinu seinu maha kukkumas\n\nJa lihtsalt vajuta \"läks\"\nSest see on ainus viis\nAru saada, kas see on armastus\nMillesse me langeme, me langeme\n\nMa ei teadnud, mida teha\nAga nüüd olen ma nagu uus\nSest ma olen tugevam, sinuga palju tugevam\n\nMõned ütlevad, et on tavaline päev\nKuid mitte minu jaoks, mitte minu jaoks\nKui sa tunned, et su meeled keelduvad\nKuula mind ära, kuula mind ära\n\nMeil pole tervet ööd\nEt aru saada, mis on õige\nNii, et jääme otsuseta, kuniks me teame\n\nAinus viis edasi\nOn oma tundeid näidata\nNäha kõiki sinu seinu maha kukkumas\n\nJa lihtsalt vajuta \"läks\"\nSest see on ainus viis\nAru saada, kas see on armastus\nMillesse me langeme, me langeme\n\nMa ei teadnud, mida teha\nAga nüüd olen ma nagu uus\nSest ma olen tugevam, sinuga palju tugevam\n\nMõned ütlevad, et on tavaline päev\nKuid mitte minu jaoks, mitte minu jaoks\n\nJa ma vajutan \"läks\"\n(Sest see on ainus viis)\n(Aru saada) kas see on armastus\nMillesse me langeme\n\nMa ei teadnud, mida teha\nAga nüüd olen ma nagu uus\nSest ma olen tugevam, ѕinuga palju tugevаm"
+    }
+  ],
+  "bpm": 90,
+  "tone": "A minor",
+  "artistPeople": [
+    "Jüri Pootsmann"
+  ],
+  "backings": [
+    "Dagmar Oja",
+    "Kaire Vilgats",
+    "Silver Laas"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Fred Krieger",
+    "Stig Rästa",
+    "Vallo Kikas"
+  ],
+  "broadcaster": "ERR",
+  "commentators": [
+    "Marko Reikop"
+  ],
+  "jury": [
+    "Els Himma",
+    "Hanna Parman",
+    "Kadri Koppel",
+    "Priit Pajusaar",
+    "Taavi Paomets"
+  ],
+  "spokesperson": "Daniel Levi Viinalass"
+}

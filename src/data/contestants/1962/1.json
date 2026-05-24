@@ -1,0 +1,52 @@
+{
+  "id": 1,
+  "country": "MC",
+  "artist": "François Deguelt",
+  "song": "Dis rien",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Qeyse4ot0h0",
+    "https://www.youtube-nocookie.com/embed/UbRefhOsVJI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Dis rien",
+      "content": "Dis rien, dis rien, on s'aime\nC'est ça le vrai poème\nEt je me sens si bien\nMon corps noyé au tien\n\nJe suis comme dans une vague\nOù mon bonheur divague\nC'est si profond, profond\nJe me sens couler au fond\n\nDis rien, les mots sont bêtes\nQuand on n'est pas poète\nCe sont des bulles qui crèvent\nLes mots, ça tue les rêves\n\nMes mains jouent sur ta robe\nRien de toi ne se dérobe\nDans mes deux bras fermés\nLaisse-moi, laisse-moi t'aimer\n\nDis rien, dis rien, mon âme\nTes yeux ont comme une flamme\nLes mots sont tous les mêmes\nDis rien, dis rien, je t'aime\n\nJe ne sais plus où nous sommes\nTu es femme et moi - un homme\nEt si l'on meurt de çа\nJe veux mourir cent fois\nCent fois, cent fois\nCent foiѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Say nothing",
+      "content": "Say nothing, say nothing, we love each other\nThat's the true poem\nAnd I'm feeling so well\nMy body drowning in yours\n\nI'm as in a wave\nWhere my happiness roams\nIt's so profound, profound\nI feel myself streaming in the depths\n\nSay nothing, words are silly\nFor someone who isn't a poet\nThey're bubbles that blow\nThe words, it kills the dreams\n\nMy hands play on your dress\nNothing of you is revealed\nIn my two closed arms\nLet me, let me love you\n\nSay nothing, say nothing, my soul\nYour eyes possess it like a flame\nThe words are all the same\nSay nothing, say nothing, I love you\n\nI don't know anymore where we are\nYou are a woman and I - a man\nAnd if one dies of that\nI want to die a hundred times\nA hundred times, а hundred times\nA hundred timeѕ"
+    }
+  ],
+  "bpm": 78,
+  "tone": "A major",
+  "artistPeople": [
+    "Louis Deghelt"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Henri Salvador"
+  ],
+  "conductor": "Raymond Lefèvre",
+  "lyricists": [
+    "René Rouzaud"
+  ],
+  "writers": null,
+  "broadcaster": "TMC",
+  "commentators": [
+    "Pierre Tchernia"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

@@ -1,0 +1,59 @@
+{
+  "id": 34,
+  "country": "MK",
+  "artist": "Jana Burčeska",
+  "song": "Dance Alone",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/XvIbLOOWfYI",
+    "https://www.youtube-nocookie.com/embed/Ddo8n_8pKrQ",
+    "https://www.youtube-nocookie.com/embed/IDbXvU622D0",
+    "https://www.youtube-nocookie.com/embed/Im6enLHTCck",
+    "https://www.youtube-nocookie.com/embed/8njm6iLMlYI",
+    "https://www.youtube-nocookie.com/embed/mf7joMX9yEA"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Dance Alone",
+      "content": "Take out my hair, wash off my makeup\nIt's gonna be a one man show\nI gotta feel good, infatuation\nAnd I'm the only one who knows\n\nI will dance alone\nWherever I am, the rhythm follows\nI will dance alone\nI'm lost in the sound of no tomorrow\n\nI let the pavement be my catwalk\nOh bring the fire on, feel the heat\nAnd all I need to keep on moving\nIs the sound of my heartbeat\n\nI will dance alone\nWherever I am, the rhythm follows\nI will dance alone\nI'm lost in the sound of no tomorrow\nI let it go\nI, I, I let it go, wild\nI let it go\nI, I, I let it go\nI will dance alone\nWherever I am, the rhythm follows\n\nTake me to places that I've never been\nShow me the faces that I've never seen\n\nI will dance alone\nWherever I am, the rhythm follows\nI will dance alone\nI'm lost in the sound of no tomorrow\nI will dance alone\nI let it go\nI, I, I let it go, wild\nI let it go\nI, I, I let it go, wild\nI let it go\nI, I, I let it go, wild\nI let it go\nI, I, I let it go, wild\n\nI'll be dаncing on my own\nWishing you could hold me cloѕe"
+    }
+  ],
+  "bpm": 120,
+  "tone": "C# minor",
+  "artistPeople": [
+    "Jana Burčeska"
+  ],
+  "backings": [
+    "Katya Krusteva",
+    "Krustina Kokorska",
+    "Milena Tzanova",
+    "Valentina Dimitrova"
+  ],
+  "dancers": null,
+  "stageDirector": "Ambra Succi",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Alex Omar",
+    "Borislav Milanov",
+    "Florence A.",
+    "Joacim Persson"
+  ],
+  "broadcaster": "MKRTV",
+  "commentators": [
+    "Karolina Petkovska"
+  ],
+  "jury": [
+    "Antonia Gigovska",
+    "Kalina Velkovska",
+    "Marko Mark",
+    "Sasho Mase",
+    "Silvi"
+  ],
+  "spokesperson": "Ilija Grujoski"
+}

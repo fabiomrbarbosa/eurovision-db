@@ -1,0 +1,59 @@
+{
+  "id": 30,
+  "country": "LV",
+  "artist": "Fomins & Kleins",
+  "song": "Dziesma par laimi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/r-wTd_9IThc",
+    "https://www.youtube-nocookie.com/embed/uni7fOO1ryU",
+    "https://www.youtube-nocookie.com/embed/fMO0QBczh2A"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "latvian"
+      ],
+      "displayedLanguages": null,
+      "title": "Dziesma par laimi",
+      "content": "Nana, nana nanana\nNana nanana nana\n\nKad nav vairs nekā, es domāju tā\nMan paliek vēl dziesma ko nodziedāt tev\nPar laimi, ko liet, Par ceļu, ko iet\nKā vilcieni projām pa metāla sliedēm\n\nUz tālajām pieturām Ziemeļpolā\nKur brīvība dzīvo, bet vairāk nekā\nIk reizi, kad tālumā brīnumu jūt\nEs vēlos vēl tuvāk tev būt\n\nNekā, kad nav vairs nekā\nEs vēlos tev nodziedāt dziesmu par laimi\nKas nāk, kas negaidot nāk\nUn paņem aiz rokas mūs\nDziesma par laimi, kas būs\n\nKad nav vairs nekā, es domāju tā\nMan paliek vēl debesīs skrejošais vējš\nUn saule, kas riet, tālie ceļi ko iet\nPār septiņiem kalniem un deviņām jūrām\n\nUz siltajām zemēm kā gājputni jau\nTur viss ir kā sapnī, bet tevis tur nav\nIk reizi, kad tālumā brīnumu jūt\nEs vēlos vēl tuvāk tev būt\n\nNekā, kad nav vairs nekā\nEs vēlos tev nodziedāt dziesmu par laimi\nKas nāk, kas negaidot nāk\nUn paņem aiz rokas mūs\nDziesma par laimi, kas būs\n\nHey...\n\nNana, nana nanana\nNana nanana nana\nNana nanana nana\nNanana nana, nanana nana nana\n\nNekā, kad nav vairs nekā\nEs vēlos tev nodziedāt dziesmu par laimi\nKas nāk, kas negaidot nāk\nUn paņem aiz rokas mūs\nDziesma par laimi, kas būs\n\nNekā, kad nav vairs nekā\nEs vēlos tev nodziedāt dziesmu par laimi\nKas nāk, kas negaidot nāk\nUn paņem aiz rokas mūs\nDziesma kas būs\nDziesma par laimi, kаs būѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "A song about happiness",
+      "content": "Nana, nana nanana\nNana nanana nana\n\nWhen there is nothing else, I think that\nI still have a song I can sing to you\nAbout happiness we feel, about a road that goes\nLike a train on metal rails\n\nTo faraway stations on the North Pole\nWhere freedom lives, and nothing else\nEach time when I feel miracles in the distance\nI want to be closer to you\n\nNothing, when there is nothing else\nI want to sing you a song about happiness\nThat comes, that comes unexpectedly\nAnd takes us by the hand\nA song about happiness to come\n\nWhen there is nothing else, I think that\nI still have the wind that runs up to the sky\nAnd the sun that rises, faraway roads that cross\nSeven mountains and nine seas\n\nTo warmer lands like birds of passage\nThere everything is just like in a dream, but you are not there\nEach time when I feel miracles in the distance\nI want to be closer to you\n\nNothing, when there is nothing else\nI want to sing you a song about happiness\nThat comes, that comes unexpectedly\nAnd takes us by the hand\nA song about happiness to come\n\nHey...\n\nNana, nana nanana\nNana nanana nana\nNana nanana nana\nNanana nana, nanana nana nana\n\nNothing, when there is nothing else\nI want to sing you a song about happiness\nThat comes, that comes unexpectedly\nAnd takes us by the hand\nA song about happiness to come\n\nNothing, when there is nothing else\nI want to sing you a song about happiness\nThat comes, that comes unexpectedly\nAnd takes us by the hand\nA song to come\nA song about hаppinesѕ to come"
+    }
+  ],
+  "bpm": 105,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Ivo Fomins",
+    "Tomass Kleins"
+  ],
+  "backings": [
+    "Egils Mežs",
+    "Jānis Lūsēns Jr",
+    "Nelli Bubujanca",
+    "Valerijs Inutins"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Tomass Kleins"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Guntars Račs"
+  ],
+  "writers": null,
+  "broadcaster": "LTV",
+  "commentators": [
+    "Kārlis Streips"
+  ],
+  "jury": null,
+  "spokesperson": "Lauris Reiniks"
+}

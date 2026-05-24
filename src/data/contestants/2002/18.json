@@ -1,0 +1,68 @@
+{
+  "id": 18,
+  "country": "MK",
+  "artist": "Karolina",
+  "song": "Od Nas Zavisi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/mImHt3wyg38",
+    "https://www.youtube-nocookie.com/embed/jM07RkQ3HF0",
+    "https://www.youtube-nocookie.com/embed/NO8NkX_Oz8Q",
+    "https://www.youtube-nocookie.com/embed/4g25h6dHgOs",
+    "https://www.youtube-nocookie.com/embed/jKbP8h7Tmkg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "macedonian"
+      ],
+      "displayedLanguages": [
+        "македонски"
+      ],
+      "title": "Од нас зависи",
+      "content": "Ветар ми носи спомени од едно време\nШто се чини толку далечно\nНо сега се смени, се изгуби сјај\n\nСнегот што вее во мене грее стара љубов\nШто ми дава желба за живот\nНо пак ќе се сврти тркалото, знам\n\nАјде пробај, замисли си за миг\nЕдно место, едно парче земја на југ\nМоже за тебе да биде рај\nТоа, знај, од нас зависи\n\nСега сме сите на исто место ова време\nШто се чини толку нејасно\nНо пак ќе се сврти тркалото, знам\nНели?\n\nЗамисли си за миг\nЕдно место, едно парче земја на југ\nМоже за тебе да биде рај\n(Тоа) Знај, од нас зависи\n\nАјде пробај, замисли си за миг\nЕдно место, едно парче земја на југ\n(Може за тебе да биде рај)\nТоа, знај, од нас зависи\n\nАјде пробај, замисли си за миг\nЕдно место, едно парче земја на југ\nМоже за тебе да биде рај\nТоа, знај, од нас зависи"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "macedonian"
+      ],
+      "displayedLanguages": [
+        "makedonski"
+      ],
+      "title": "Od Nas Zavisi",
+      "content": "Vetar mi nosi spomeni od edno vreme\nŠto se čini tolku dalečno\nNo sega se smeni, se izgubi sjaj\n\nSnegot što vee vo mene gree stara ljubov\nŠto mi dava želba za život\nNo pak kje se svrti trkaloto, znam\n\nAjde probaj, zamisli si za mig\nEdno mesto, edno parče zemja na jug\nMože za tebe da bide raj\nToa, znaj, od nas zavisi\n\nSega sme site na isto mesto ova vreme\nŠto se čini tolku nejasno\nNo pak kje se svrti trkaloto, znam\nNeli?\n\nZamisli si za mig\nEdno mesto, edno parče zemja na jug\nMože za tebe da bide raj\n(Toa) Znaj, od nas zavisi\n\nAjde probaj, zamisli si za mig\nEdno mesto, edno parče zemja na jug\n(Može za tebe da bide raj)\nToa, znaj, od nas zavisi\n\nAjde probaj, zamisli si za mig\nEdno mesto, edno parče zemja na jug\nMože za tebe da bide raj\nToa, znaj, od nas zаviѕi"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "It depends on us",
+      "content": "The wind carries memories of a time\nThat seems so far away\nBut now it's changed, now it has lost its shine\n\nThe falling snow reminds me of an old love\nThat gives me the will to go on\nBut the wheel of fortune will roll again, I know\n\nTry to imagine, even for a moment\nA place, a piece of land in the south\nIt could be paradise for you\nBut that, you know, depends on us\n\nNow we are all gathered at one same place in this time\nThat seems so unsecure\nBut the wheel of fortune will spin again, I know\nWon't it?\n\nEven for a moment\nA place, a piece of land in the south\nIt could be paradise for you\n(But that) You know, depends on us\n\nTry to imagine, ever for a moment\nA place, a piece of land in the south\n(It could be paradise for you)\nBut that, you know, depends on us\n\nTry to imagine, even for a moment\nA place, a piece of land in the south\nIt could be paradise for you\nBut thаt, you know, depends on uѕ"
+    }
+  ],
+  "bpm": 75,
+  "tone": "D major",
+  "artistPeople": [
+    "Karolina Gočeva"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Nikola Perevski"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Vladimir Krstevski"
+  ],
+  "writers": null,
+  "broadcaster": "MKRTV",
+  "commentators": [
+    "Milanka Rašik"
+  ],
+  "jury": null,
+  "spokesperson": "Biljana Debarlieva"
+}

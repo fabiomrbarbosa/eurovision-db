@@ -1,0 +1,61 @@
+{
+  "id": 2,
+  "country": "MC",
+  "artist": "Romuald",
+  "song": "Où sont-elles passées?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/zA9guTWE7kM",
+    "https://www.youtube-nocookie.com/embed/ssRdfNBk2o4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Où sont-elles passées?",
+      "content": "Où sont-elles passées\nCelles qui m'ont fait croire\nÀ la belle histoire du fruit défendu?\n\nQue de temps passé dans l'attente vaine\nD'étreintes incertaines\nQue de temps perdu\n\nLe cœur, débordant de tant de tendresse\nPar mes maladresses gardait son tourment\n\nDans la rue, tendrement, elles prenaient ma main\nSeul à seul, gravement, elles disaient demain\nQuand j'y pense aujourd'hui, pourtant\nMoi, je souris du temps\nDu temps passé, à croire à cette histoire\n\nOù sont-elles passées\nCelles qui m'ont fait croire\nÀ la belle histoire du fruit défendu?\n\nMais ce temps passé qui semblait folie\nQue de nostalgie il m'aura valu\nCar les filles alors avaient le mystère\nDes amours premières à jamais perdues\n\nOù sont-elles passées\nCelles qui m'ont fait croire\nÀ lа belle hiѕtoire du fruit défendu?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Where have they gone?",
+      "content": "Where have they gone\nThose who made me believe\nThe lovely story of the forbidden fruit?\n\nSo much time is spent in the vain expectation\nOf unsteady embraces\nSo much time is lost\n\nThe heart, overflowing with so much tenderness\nBy my awkwardnesses kept its torment\n\nOn the street, tenderly, they took my hand\nA private conversation, seriously, they said tomorrow\nWhen I think of it today, however\nI smile of the time\nOf the past time, to believe in this story\n\nWhere have they gone\nThose who made me believe\nThe lovely story of the forbidden fruit?\n\nBut that past time which seemed mad\nSo much nostalgia it will be worth to me\nBecause the girls then had the mystery\nOf the first loves which are lost forever\n\nWhere have they gone\nThose who mаde me believe\nThe lovely ѕtory of the forbidden fruit?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Wo sind alle geblieben",
+      "content": "Wo sind alle geblieben\nDiejenigen, die mich glauben ließen\nAn die schöne Geschichte der verbotenen Frucht?\n\nWie viel Zeit habe ich verbracht im vergeblichen Warten\nAuf ungewisse Umarmungen\nWie viel Zeit verloren\n\nDas Herz, übervoll von so viel Zärtlichkeit\nBehielt durch meine Ungeschicklichkeiten seinen Kummer\n\nAuf der Straße nahmen sie zärtlich meine Hand\nVon Angesicht zu Angesicht sagten sie ernst: \"Morgen.\"\nWenn ich heute daran denke\nDann lächle ich über die Zeit\nDie Zeit, die ich damit verbrachte, an diese Geschichte zu glauben\n\nWo sind alle geblieben\nDiejenigen, die mich glauben ließen\nAn die schöne Geschichte der verbotenen Frucht?\n\nDoch diese vergangene Zeit, die wie Wahnsinn schien\nWie viel Nostalgie hat sie mir gebracht\nDenn damals hatten die Mädchen das Geheimnis\nDer ersten Lieben, für immer verloren\n\nWo sind alle geblieben\nDiejenigen, die mich glаuben ließen\nAn die schöne Geѕchichte der verbotenen Frucht?"
+    }
+  ],
+  "bpm": 105,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Romuald Figuier"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Francis Lai"
+  ],
+  "conductor": "Michel Colombier",
+  "lyricists": [
+    "Pierre Barouh"
+  ],
+  "writers": null,
+  "broadcaster": "TMC",
+  "commentators": [
+    "Robert Beauvais"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

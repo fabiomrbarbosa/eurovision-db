@@ -1,0 +1,76 @@
+{
+  "id": 22,
+  "country": "IS",
+  "artist": "Systur",
+  "song": "Með hækkandi sól",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/G71c48O3j-s",
+    "https://www.youtube-nocookie.com/embed/tx__3r5uKRo",
+    "https://www.youtube-nocookie.com/embed/vk9D10EyxHA",
+    "https://www.youtube-nocookie.com/embed/teWrHen_AXc",
+    "https://www.youtube-nocookie.com/embed/ZTrG3XRSyes",
+    "https://www.youtube-nocookie.com/embed/oksa3ot_V50",
+    "https://www.youtube-nocookie.com/embed/JJ-UZRfMHXU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "icelandic"
+      ],
+      "displayedLanguages": null,
+      "title": "Með hækkandi sól",
+      "content": "Öldurót í hljóðri sál\nÞrautin þung umvafin sorgarsárum\nÞrá sem laðar, brennur sem bál\nLiggur í leyni – leyndarmál – þei þei\n\nÍ ljósaskiptum fær að sjá\nFegurð í frelsi sem þokast nær\nÞó næturhúmið skelli á\nOg ósögð orð, hugan þjá – þei þei\n\nÍ dimmum vetri – hækkar sól\nBræðir hjartans klakabönd – svo hlý\nÍ dimmum vetri – vorið væna\nVermir þitt vænghaf á ný\n\nSkammdegisskuggar sækja að\nBærast létt með hverjum andardrættir\nSyngur í brjósti lítið lag\nBreiðir úr sér og andvarpar – þei þei\n\nÍ dimmum vetri – hækkar sól\nBræðir hjartans klakabönd – svo hlý\nÍ dimmum vetri – vorið væna\nVermir þitt vænghaf á ný\n\nOg hún tekst á flug\nSvífur að hæstu hæðum\nOg færist nær því\nAð finna innri ró\n\nÍ dimmum vetri – hækkar sól\nBræðir hjartans klakabönd – ѕvo hlý\nÍ dimmum vetri – vorið væna\nVermir þitt vænghаf á ný"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "romanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Cu Răsăritul Soarelui",
+      "content": "Un tremur într-o suflet liniștită\nPuzzle-ul învelit greu în durere\nDorința care atrage, arde ca un foc de tabără\nZăcând în secret - secret - tu tu\n\nÎn lumina schimbării se poate vedea\nFrumusețea în libertate care se apropie\nChiar dacă noaptea se apropie\nȘi cuvintele nespuse, mintea suferă - tu tu\n\nÎn iarna întunecată - soarele răsare\nTopind gheața din inimă - atât de cald\nÎntr-o iarnă întunecată - primăvara este binevenită\nÎți încălzește din nou aripile\n\nUmbrele dimineții se apropie\nSe mișcă ușor odată cu fiecare respirație\nCântă o mică melodie în pieptul său\nSe răspândește și suspină - ei ei\n\nÎn iarna întunecată - soarele răsare\nTopind gheața din inimă - atât de cald\nÎntr-o iarnă întunecată - primăvara este binevenită\nÎți încălzește din nou aripile\n\nȘi ea reușește să zboare\nSe înalță la cele mai înalte culmi\nȘi se apropie tot mai mult de asta\nGăsind pacea interioară\n\nÎn iarna întunecată - soarele răsare\nTopind gheața din inimă - atât de cald\nÎntr-o iarnă întunecată - primăvara eѕte binevenită\nÎți încălzește din nou аripile"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "With the Rising Sun",
+      "content": "Heavy waves in a quiet soul\nThe heavy challenge wrapped in grief\nDesire that attracts, burns like a bonfire\nLays in secret - a secret - there there\n\nIn the light change you can see\nBeauty in freedom that moves closer\nEven though the night is coming\nAnd unspoken words, plague the mind - there there\n\nIn the dark winter – the sun rises\nMelts the ice of the heart - so warm\nIn a dark winter - the dear spring\nWarms your wings once more\n\nShadows of the long nights approach\nMove lightly with each breath\nSings a little song in his chest\nSpreads out and sighs - there there\n\nIn the dark winter – the sun rises\nMelts the ice of the heart - so warm\nIn a dark winter - the dear spring\nWarms your wings once more\n\nAnd she manages to fly\nSoars to the highest heights\nAnd gets closer to\nFinding inner peace\n\nIn the dark winter – the sun rises\nMelts the ice of the heart - so warm\nIn a dark winter - the dear spring\nWаrms your wingѕ once more"
+    }
+  ],
+  "bpm": 100,
+  "tone": "D minor",
+  "artistPeople": [
+    "Elín Eyþórsdóttir",
+    "Elísabet Eyþórsdóttir",
+    "Sigríður Eyþórsdóttir"
+  ],
+  "backings": [
+    "Eyþór Ingi Eyþórsson",
+    "Gísli Gunnar Didriksen",
+    "Zoe-Ruth Erwin"
+  ],
+  "dancers": null,
+  "stageDirector": "Lee Proud",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Lovísa Elísabet Sigrúnardóttir"
+  ],
+  "broadcaster": "RÚV",
+  "commentators": [
+    "Gísli Marteinn Baldursson"
+  ],
+  "jury": [
+    "Erna",
+    "Kristján Gíslason",
+    "Lydía Grétarsdóttir",
+    "Sóley",
+    "Stefán Hjörleifsson"
+  ],
+  "spokesperson": "Árný Fjóla Ásmundsdóttir"
+}

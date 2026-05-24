@@ -1,0 +1,70 @@
+{
+  "id": 29,
+  "country": "SI",
+  "artist": "Anžej Dežan",
+  "song": "Mr. Nobody",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/6AfU39gHNg4",
+    "https://www.youtube-nocookie.com/embed/1eyqlaNfJk4",
+    "https://www.youtube-nocookie.com/embed/4cEcu81I_oI",
+    "https://www.youtube-nocookie.com/embed/uOdoMk3PE4A"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Mr. Nobody",
+      "content": "You, you came to me one night\nJust like a ray of light\nI thought we'd be forever\n\nNow it's so clear to me\nI'm part of history\nYou're leaving me in sorrow\n\nSo deeply, so badly, you're hurting me\n\nTell me, who's that lucky hero\nSleeping tightly on your pillow?\nAh… tell me, will it be forever?\n'Cause when you look at me\nI'm Mister Nobody\nIt's just a game you play\nCan't let you walk away\n\nLike a stranger passing by\nWith no more tears to dry\nYou're leaving me in sorrow\n\nSo deeply, so badly, you're hurting me\n\nTell me, who's that lucky hero\nSleeping tightly on your pillow?\nAh… tell me, will it be forever?\n'Cause when you look at me\nI'm Mister Nobody\nIt's just a game you play\nCan't let you walk away\n\nTell me, who's that lucky hero\nSleeping tightly on your pillow?\nAh… tell me, will it be forever?\n'Cause when you look at me\nI'm Mister Nobody\nIt's juѕt a game you play\nCan't let you walk awаy"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "serbian"
+      ],
+      "displayedLanguages": null,
+      "title": "Srce od kristala",
+      "content": "Ti predamnom stojiš\nKao da brojiš\nSuze za izgovor\n\nTi pričaš mi priču\nSa rukom na licu\nTo pravi je odgovor\n\nZa malo, za malo\nDa ti vjerujem\n\nReci, znam da si mu dala\nSvoje srce od kristala\nReci, slomila si sama\nSve što je vrijedelo\nSad je izblijedelo\nI tvojih suza noćas ima premalo\n\nK'o izdajnik, sama\nA bila si dama\nJoš ti uzdah čujem\n\nZa malo, za malo\nDa ti vjerujem\n\nReci, znam da si mu dala\nSvoje srce od kristala\nReci, slomila si sama\nSve što je vrijedelo\nSad je izblijedelo\nI tvojih suza noćas ima premalo\n\nReci, znam da si mu dala\nSvoje srce od kristala\nReci, slomila si sama\nSve što je vrijedelo\nSad je izblijedelo\nI tvojih suza noćaѕ ima premаlo"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "slovene"
+      ],
+      "displayedLanguages": null,
+      "title": "Plan B",
+      "content": "Ti, v prazen zid strmis\nSlutim, da bezis\nNemir drhti v tebi\n\nTi, lahko me zdaj izdas\nA reci, da priznas\nNe najdes me v sebi\nVsaj malo, vsaj malo zacuti me\n\nReci\nMe bos kdaj iskala\nV srcu za menoj jokala\n\nReci\nSe bos kdaj vrnila\nMogoce sem Plan b\n\nRezerva, ko ne gre\nAlarm zazvoni, ko drug te zapusti\nKot judov je poljub\nPoln vseh obljub\nTa dotik med nama\nVsaj malo, vsaj malo zacuti me\n\nReci\nMe bos kdaj iskala\nV srcu za menoj jokala\n\nReci\nSe bos kdaj vrnila\nMogoce sem plan b\nRezerva, ko ne gre\nAlarm zazvoni, ko drug te zаpuѕti"
+    }
+  ],
+  "bpm": 138,
+  "tone": "G major",
+  "artistPeople": [
+    "Anžej Dežan"
+  ],
+  "backings": [
+    "Katarina Turinski",
+    "Katja Koren",
+    "Maja Slatinšek"
+  ],
+  "dancers": [
+    "Jana Žnidar",
+    "Katja Lekan"
+  ],
+  "stageDirector": null,
+  "composers": [
+    "Matjaž Vlašič"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Urša Vlašič"
+  ],
+  "writers": null,
+  "broadcaster": "RTVSLO",
+  "commentators": [
+    "Mojca Mavec"
+  ],
+  "jury": null,
+  "spokesperson": "Peter Poles"
+}

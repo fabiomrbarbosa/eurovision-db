@@ -1,0 +1,71 @@
+{
+  "id": 4,
+  "country": "BG",
+  "artist": "Elitsa Todorova & Stoyan Yankulov",
+  "song": "Water",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/CVO3mEj8Udo",
+    "https://www.youtube-nocookie.com/embed/NauYzMInRYA",
+    "https://www.youtube-nocookie.com/embed/kjqOGtPyFNw",
+    "https://www.youtube-nocookie.com/embed/N1ZJmambhSo",
+    "https://www.youtube-nocookie.com/embed/Jrexkp_41BU"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "bulgarian"
+      ],
+      "displayedLanguages": [
+        "bulgarski"
+      ],
+      "title": "Voda",
+      "content": "More, malka mome, ij…\n\nMore, more, pee, ij…\nMore, Mitra pee na rekata\nMitre le, ij… Mitre le\nMore, na rekata, do gorata\nMitre le, ij… Mitre le\n\nMore, jozdol ide, ludo mlado\nMitre le, ij… Mitre le\nMore, ludo mlado, konče vodi\nMitre le, ij… Mitre le\n\nMore, more, pee\nMore, more, ij…\nMitre le\nEno ho, ho, ho…\nAaa…\n\nMore, ludo mlado, konče jazdi\nMitre le, ij… Mitre le\nMore, konče jazdi, moma ljubi\nMitre le, ij… Mitre le\n\nTara-du-da…\n\nTara-du-daj du-dara dara-du-da… (Hej…)\nTara-du-daj du-dara dara-du-da…\nTara-du-daj du-dara dara-du-da… (Hej, hej…)\nTara-du-daj du-dara dara-du-da…\n\nTara-du-daj du-dara dara-du-da… (Hej…)\nTara-du-daj du-dara dara-du-da… (Hej, hej…)\nTara-du-daj du-dara dara-du-da… (Hej…)\nTara-du-daj du-dara dara-du-dа…"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "bulgarian"
+      ],
+      "displayedLanguages": [
+        "български"
+      ],
+      "title": "Вода",
+      "content": "Море, малка моме, ий…\n\nМоре, море, пее, ий…\nМоре, Митра пее на реката\nМитре ле, ий… Митре ле\nМоре, на реката, до гората\nМитре ле, ий… Митре ле\n\nМоре, йоздол иде, лудо младо\nМитре ле, ий… Митре ле\nМоре, лудо младо, конче води\nМитре ле, ий… Митре ле\n\nМоре, море, пее\nМоре, море, ий…\nМитре ле\nЕно хо, хо, хо…\nАаа…\n\nМоре, лудо младо, конче язди\nМитре ле, ий… Митре ле\nМоре, конче язди, мома люби\nМитре ле, ий… Митре ле\n\nТара-ду-да…\n\nТара-ду-дай ду-дара дара-ду-да… (Хей…)\nТара-ду-дай ду-дара дара-ду-да…\nТара-ду-дай ду-дара дара-ду-да… (Хей, хей…)\nТара-ду-дай ду-дара дара-ду-да…\n\nТара-ду-дай ду-дара дара-ду-да… (Хей…)\nТара-ду-дай ду-дара дара-ду-да… (Хей, хей…)\nТара-ду-дай ду-дара дара-ду-да… (Хей…)\nТара-ду-дай ду-дара дара-ду-да…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Water",
+      "content": "Lo, a young lass, eeh…\n\nLo, lo, she sings, eeh…\nLo, Mitra sings by the river\nOh Mitra, eeh.. oh Mitra\nLo, by the river, beyond the forest\nOh Mitra, eeh… oh Mitra\n\nLo, coming from the village, a reckless lad\nOh Mitra, eeh… oh Mitra\nLo, a reckless lad, leading a pony\nOh Mitra, eeh… oh Mitra\n\nLo, lo, she sings\nLo, lo, eeh…\nOh Mitra\nEno ho… ho… ho…\nAh… ah… ah…\n\nLo, a reckless lad, riding his pony\nOh Mitra, eeh… oh Mitra\nLo, riding his pony, loving his lasѕ\nOh Mitra, eeh… oh Mitra\n\nTara-doo-da dai-doo-dara dara-doo-da, oh Mitra\n\nTara-doo-dai doo-dara dara-doo-da… (Hey…)\nTara-doo-dai doo-dara dara-doo-da…\nTara-doo-dai doo-dara dara-doo-da… (Hey, hey…)\nTara-doo-dai doo-dara dara-doo-da…\n\nTara-doo-dai doo-dara dara-doo-da… (Hey…)\nTara-doo-dai doo-dara dara-doo-da… (Hey, hey…)\nTara-doo-dai doo-dara dara-doo-da… (Hey…)\nTara-doo-dai doo-dara dara-doo-dа…"
+    }
+  ],
+  "bpm": 137,
+  "tone": "Bb minor",
+  "artistPeople": [
+    "Elitsa Todorova",
+    "Stoyan Yankoulov"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Elitsa Todorova",
+    "Stoyan Yankoulov"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Elitsa Todorova"
+  ],
+  "writers": null,
+  "broadcaster": "BNT",
+  "commentators": [
+    "Elena Rosberg",
+    "Georgi Kushvaliev"
+  ],
+  "jury": null,
+  "spokesperson": "Mira Dobreva"
+}

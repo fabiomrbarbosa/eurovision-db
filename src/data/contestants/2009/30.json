@@ -1,0 +1,48 @@
+{
+  "id": 30,
+  "country": "CY",
+  "artist": "Christina Metaxa",
+  "song": "Firefly",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/NeYGROG0mZc",
+    "https://www.youtube-nocookie.com/embed/tSc9ftJ-_TA",
+    "https://www.youtube-nocookie.com/embed/KsDwwEGD4nM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Firefly",
+      "content": "It's the question that drives us\nWhere we must go\nIt's the unknown that drives from us\nWhat we want most\nBut the firefly sits in the corner and rests\n\nAnd it won't care if you stare\nBut believe me, it's best to let go\nDon't just go with the flow\n\nAnd the firefly comes to you\nSits on your finger\nIt shudders and shakes\nBut she wants you to go with her now\nFollow her out there\n\nThe firefly, spreading her wings open wide\nThinks the sky will come crashing down, fall to her side\nShe's afraid, but her fears slowly fade\n\nSo fly with the firefly\nFly side by side\nEscaping the chains that held you from life\nDon't look down\nYou're over the edge\n\nJump, take the leap of faith\nJump, take the leap of faith\n\nIt's the question that drives us\nTo where we must go\nIt's the unknown that drives from us\nWhat we want most\nBut the firefly sits in the corner and rests\n\n(It's the question that drives us)\n(To where we must go)\n(It's the unknown that drives from us)\n(What we want most) Don't just go with the flow\n(But the firefly sits in the corner and rests)\n\nIt's the question that drives us\nTo where we must go\nIt's the unknown that drives from us\nWhat we want most\nBut the firefly sits in the corner and rests\n\n(It's the question that drives us)\n(To where we must go)\n(It's the unknown that drives from us)\n(What we want most) Don't just go with the flow\n(But the firefly sits in the corner аnd restѕ)\n\nJump"
+    }
+  ],
+  "bpm": 102,
+  "tone": "F# major",
+  "artistPeople": [
+    "Christina Metaxa"
+  ],
+  "backings": [
+    "Anna-Karin Eliades",
+    "Chris Charalambides",
+    "Nikolas Metaxas",
+    "Riana Athanasiou",
+    "Richard Hall"
+  ],
+  "dancers": null,
+  "stageDirector": "Fotis Nikolaou",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Nikolas Metaxas"
+  ],
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Melina Karageorgiou"
+  ],
+  "jury": null,
+  "spokesperson": "Sophia Paraskeva"
+}

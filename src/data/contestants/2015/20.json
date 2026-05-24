@@ -1,0 +1,63 @@
+{
+  "id": 20,
+  "country": "ES",
+  "artist": "Edurne",
+  "song": "Amanecer",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/NsMiJJlElAY",
+    "https://www.youtube-nocookie.com/embed/l9KWjZ4rLmE",
+    "https://www.youtube-nocookie.com/embed/vScKMhkqdR8",
+    "https://www.youtube-nocookie.com/embed/lo54opM8Eg8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Amanecer",
+      "content": "Se fue sin saber\nQue yo sí lo amé\nSe fue sin creer en mí\n\nPerdí la razón\nSangré tanto amor\nQue aún, hoy siento el vacío\nMe lleva contigo\n\nI-ehh i-ehh ohh\nI-ehh i-ehh ohh\nMi corazón\nMe susurró\nA mí no vuelvas sin su amor\n\nCamino al ayer\nAllá donde estés\nHoy reto al olvido\n\nSe fue sin saber\nQue yo no me rindo\n\nI-ehh i-ehh ohh\nI-ehh i-ehh ohh\nMi corazón\nMe susurró\nA mí no vuelvas sin su amor\n\nI-ehh i-ehh ohh\nI-ehh i-ehh ohh\nDevuélveme\nEl alma en pie\nDevuélveme el amanecer\n\nHoy vuelves conmigo\n\nI-ehh i-ehh ohh\nI-ehh i-ehh ohh\nMi corazón\nMe susurró\nA mí no vuelvas sin ѕu amor\n\nI-ehh i-ehh ohh\nI-ehh i-ehh ohh\nDevuélveme\nEl alma en pie\nDevuélveme el amаnecer\n\nI-ehh i-ehh ohh"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Dawn",
+      "content": "He left without knowing\nThat I really love him\nHe left without believing in me\n\nI lost my mind\nI bled so much love\nStill, today I feel the empty\nIt takes me along\n\nI-ehh i-ehh ohh\nI-ehh i-ehh ohh\nmy heart\nwhispered\nDon't come back to me without his love\n\nRoad to Yesterday\nWherever you are\nToday I challenge the oblivion\n\nHe left without knowing\nthat I'm not giving up\n\nI-ehh i-ehh ohh\nI-ehh i-ehh ohh\nmy heart\nHe whispered\nNot me again without your love\n\nI-ehh i-ehh ohh\nI-ehh i-ehh ohh\nBring it me back\nThe soul stands\nRestore to me dawn\n\nYou come back to me\n\nI-ehh i-ehh ohh\nI-ehh i-ehh ohh\nmy heart\nHe whispered\nNot me again without your love\n\nI-ehh i-ehh ohh\nI-ehh i-ehh ohh\nBring it me back\nThe soul stands\nReѕtore to me dаwn\n\nI-ehh i-ehh ohh"
+    }
+  ],
+  "bpm": 126,
+  "tone": "Eb minor",
+  "artistPeople": [
+    "Edurne García Almagro"
+  ],
+  "backings": null,
+  "dancers": [
+    "Giuseppe di Bella"
+  ],
+  "stageDirector": "Tinet Rubira",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Peter Boström",
+    "Thomas G:son",
+    "Tony Sánchez-Ohlsson"
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "José María Íñigo",
+    "Julia Varela"
+  ],
+  "jury": [
+    "Daniel Diges",
+    "Jacobo Calderon",
+    "Pastora Soler",
+    "Rosa",
+    "Ruth Lorenzo"
+  ],
+  "spokesperson": "Lara Siscar"
+}

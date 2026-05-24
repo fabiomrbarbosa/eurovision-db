@@ -1,0 +1,66 @@
+{
+  "id": 13,
+  "country": "PL",
+  "artist": "Donatan & Cleo",
+  "song": "My Słowianie - We Are Slavic",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/VJ920cN2HmA",
+    "https://www.youtube-nocookie.com/embed/q8J3GAg5zaI",
+    "https://www.youtube-nocookie.com/embed/BQp7z8yYZUI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "polish",
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "My Słowianie",
+      "content": "My Słowianie wiemy jak nasze na nas działa\nLubimy jak poruszasz tym co mama w genach dała\nTo jest ta gorąca krew, to jest nasz słowiański zew\nMy Słowianki wiemy jak użyć mowy ciała\nWiemy jak poruszać tym co mama w genach dała\nTo jest ta słowiańska krew, to jest ta uroda i wdzięk\n\nMamy to czego nie ma nikt inny\nCenimy ten naturalny kształt\nWódeczka lepsza niż whisky i jiny\nNajlepsze u nas cokolwiek byś chciał\nTu na swojskiej śmietanie chowane\nDelikatne, rumiane jak chleb\nNie ma lepszych od naszych słowianek\nTen kto widział i próbował ten wie\n\nMy Słowianie wiemy jak nasze na nas działa\nLubimy jak poruszasz tym co mama w genach dała\nTo jest ta gorąca krew, to jest nasz słowiański zew\nMy Słowianki wiemy jak użyć mowy ciała\nWiemy jak poruszać tym co mama w genach dała\nTo jest ta słowiańska krew, to jest ta uroda i wdzięk\n\nThis special thing we have in our genes\nMakes us proud of our natural shapes\nOn Our lands you have everything you need\nSo pour the Vodka straight, no need to mix.\nCream and butter taste so good\nWe will prepare for you delicious food\nOur beauty is famous all over the world\nYou gotta see it for yourself and then You will know\n\nWe're Slavic girls, we know how to use our charming beauty\nNow shake what your mama gave ya!\nClap your hands to this music\nThis is our nature, This is our call\nThis iѕ our hot Slаvic blood"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "We Are Slavic",
+      "content": "We are Slavic, we know how it is\nWe like to shake what mama in the genes gave us\nThis is the hot blood, this is our Slavic call\nWe're Slavic girls, we know how to use our charming beauty\nNow shake what your mama gave ya!\nThis is the Slavic blood, this is the beauty and grace\n\nWe have what no one else\nWe like that natural shape\nVodka is better than whisky and gin\nThe best in us whatever you want\nGirls grown up on country cream\nFresh as Polish bread\nNo better than our Slavic girls\nWhose seen and tried he knows!\n\nWe are Slavic, we know how it is\nWe like to shake what mama in the genes gave us\nThis is the hot blood, this is our Slavic call\nWe're Slavic girls, we know how to use our charming beauty\nNow shake what your mama gave ya!\nThis is the Slavic blood, this is the beauty and grace\n\nThis special thing we have in our genes\nMakes us proud of our natural shapes\nOn Our lands you have everything you need\nSo pour the Vodka straight, no need to mix.\nCream and butter taste so good\nWe will prepare for you delicious food\nOur beauty is famous all over the world\nYou gotta see it for yourself and then You will know\n\nWe're Slavic girls, we know how to use our charming beauty\nNow shake what your mama gave ya!\nClap your hands to this music\nThis is our nature, This is our call\nThis iѕ our hot Slаvic blood"
+    }
+  ],
+  "bpm": 156,
+  "tone": "A minor",
+  "artistPeople": [
+    "Joanna Klepko"
+  ],
+  "backings": [
+    "Alesia Turonak",
+    "Anna Łapińska",
+    "Sylwia Klan"
+  ],
+  "dancers": [
+    "Ola Ciupa",
+    "Paula Tomala"
+  ],
+  "stageDirector": "Mikołaj Dobrowolski",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Cleo",
+    "Donatan"
+  ],
+  "broadcaster": "TVP",
+  "commentators": [
+    "Artur Orzech"
+  ],
+  "jury": [
+    "Dorota Szpetkowska",
+    "Krzysztof Kasowski",
+    "Magdalena Tul",
+    "Mietek Szcześniak",
+    "Paweł Sztompke"
+  ],
+  "spokesperson": "Paulina Chylewska"
+}

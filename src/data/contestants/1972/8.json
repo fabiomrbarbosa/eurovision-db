@@ -1,0 +1,56 @@
+{
+  "id": 8,
+  "country": "YU",
+  "artist": "Tereza",
+  "song": "Muzika i ti",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/ns24mfDkgWA",
+    "https://www.youtube-nocookie.com/embed/ELQZOZglYl0",
+    "https://www.youtube-nocookie.com/embed/n6OwpI8Awsw",
+    "https://www.youtube-nocookie.com/embed/ttMPRY0R1dw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "croatian"
+      ],
+      "displayedLanguages": null,
+      "title": "Muzika i ti",
+      "content": "Svoj svijet svatko gradi sam\nSvoj san svatko sniva sam\nSvoj put koji vodi ljubavi\nKoji vodi sreći toj, svatko traži sam\n\nMuzika i ti, to je onaj svijet\nU kojem sreću nađoh ja\nMuzika i ti, to je onaj svijet\nU kojem sunce vječno sja\nK'o divna vizija iz sna\nKojoj sretna predajem se sva\nMuzika i ti, muzika i ti\nI himna jedne vječne ljubavi\n\nTaj dan jednom mora doć'\nTvoj dan, tvoja sretna noć\nI bol koju sobom nosiš ti\nU dubini srca svog, jednom mora proć'\n\nMuzika i ti, to je onaj svijet\nU kojem sreću nađoh ja\nMuzika i ti, to je onaj svijet\nU kojem sunce vječno sja\nK'o divna vizija iz sna\nKojoj sretna predajem se ѕva\nMuzika i ti, muzika i ti\nI himna jedne vječne ljubavi\n\nMuzika i ti, muzika i ti\nI himna jedne vječne ljubаvi"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Music and you",
+      "content": "Everyone builds themselves their own world\nEveryone dreams themselves their own dream\nTheir own road that leads to love\nThat leads to happiness, everyone finds themselves\n\nMusic and you, that's the world\nIn which I found happiness\nMusic and you, that's the world\nIn which the sun always shines\nLike a beautiful vision from a dream\nI surrender to it completely\nMusic and you, music and you\nAnd an anthem of an eternal love\n\nThat day has to come\nYour day, your happy night\nAnd the pain which you hold\nIn the depths of your heart, has to go\n\nMusic and you, that's the world\nIn which I found happiness\nMusic and you, that's the world\nIn which the sun always shines\nLike a beautiful vision from a dream\nI surrender to it completely\nMusic and you, music and you\nAnd an anthem of an eternal love\n\nMusic and you, muѕic and you\nAnd an anthem of an eternаl love"
+    }
+  ],
+  "bpm": 108,
+  "tone": "F major",
+  "artistPeople": [
+    "Téréza"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Nikica Kalogjera"
+  ],
+  "conductor": "Nikica Kalogjera",
+  "lyricists": [
+    "Ivan Krajač"
+  ],
+  "writers": null,
+  "broadcaster": "JRT",
+  "commentators": [
+    "Milovan Ilić",
+    "Oliver Mlakar",
+    "Tomaž Terček"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

@@ -1,0 +1,58 @@
+{
+  "id": 14,
+  "country": "FI",
+  "artist": "Kari Kuivalainen",
+  "song": "Päivä kahden ihmisen",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/fOEmzo4UxhI",
+    "https://www.youtube-nocookie.com/embed/qboH7vORGOQ",
+    "https://www.youtube-nocookie.com/embed/U-laGTiz10A",
+    "https://www.youtube-nocookie.com/embed/h7qEbuolgog"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Päivä kahden ihmisen",
+      "content": "Yli vuorien\nTaakse merien\nMieli mennyt karkoittaa\nPieni ihminen on suuri jälkeen sen\nKun alun uuden luoda saa\n\nEn unta saa\nAamuun seuraavaan\nValvon, mietin\nMiksen löytää voi\nEn maailmaa tahdo suurempaa\nVain yhden päivän\nYhden huomisen\nKoskaan sano en the end\n\nValot kaupungin\nKaiut musiikin\nSurun seittiin jäädä saa\nPaljon menetin\nSua etsin vieläkin\nKuin kadonnutta maailmaa\n\nEn unta saa\nAamuun seuraavaan\nValvon, mietin\nMiksen löytää voi\nEn maailmaa tahdo suurempaa\nVain yhden päivän\nYhden huomisen\nKoskaan sano en the end\n\nEn unta saa\nAamuun seuraavaan\nValvon, mietin\nMiksen löytää voi\nEn maailmaa tahdo suurempaa\nVain yhden päivän\nYhden huomisen\nKoskaan ѕаno en the end"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Day of two people",
+      "content": "Over the mountains\nBeyond the seas\nMy mind banishes the past\nA little boy is a grown person\nAfter he can create a new beginning\n\nI can't sleep\nTill the next morning\nI'm awake\nAnd wondering why I can't find\nI don't want a bigger world\nJust one day\nOne tomorrow\nI will never say the end\n\nThe city lights\nThe echo of music\nThey stay in the foggy web\nI have lost so much\nI'm still looking for you\nLike a world that has disappeared\n\nI can't sleep\nTill the next morning\nI'm awake\nAnd wondering why I can't find\nI don't want a bigger world\nJust one day\nOne tomorrow\nI will never say the end\n\nI can't sleep\nTill the next morning\nI'm awake\nAnd wondering why I can't find\nI don't want a bigger world\nJust one day\nOne tomorrow\nI will never ѕаy the end"
+    }
+  ],
+  "bpm": 143,
+  "tone": "D major",
+  "artistPeople": [
+    "Kari Ilmari Kuivalainen"
+  ],
+  "backings": [
+    "Anita Pajunen",
+    "Jokke Seppälä",
+    "Kati Bergman",
+    "Rele Kosunen"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Ossi Runne",
+  "lyricists": null,
+  "writers": [
+    "Kari Kuivalainen"
+  ],
+  "broadcaster": "YLE",
+  "commentators": [
+    "Heikki Harma",
+    "Kari Lumikero"
+  ],
+  "jury": null,
+  "spokesperson": "Solveig Herlin"
+}

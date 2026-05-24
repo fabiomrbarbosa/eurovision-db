@@ -1,0 +1,60 @@
+{
+  "id": 18,
+  "country": "IS",
+  "artist": "Daði & Gagnamagnið",
+  "song": "Think About Things",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/1HU7ocv3S2o",
+    "https://www.youtube-nocookie.com/embed/VFZNvj-HfBU",
+    "https://www.youtube-nocookie.com/embed/2S-l37j5Y2o",
+    "https://www.youtube-nocookie.com/embed/F5pEtZGon9I",
+    "https://www.youtube-nocookie.com/embed/17aI2WKjHcQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Think About Things",
+      "content": "Baby I can't wait to know\nBelieve me  I'll  always be there so\n\nThough I know I love you\nI find it hard to see how you feel about me\n'Cause I don't understand you\nOh you are yet to learn how to speak\n\nWhen we first met\nI will never forget\n'Cause even though I didn't know you yet\nWe were bound together then and forever\nAnd I could never let you go\n\nBaby I can't wait to know\nWhat do you think about things\nBelieve me I will always be there so\nYou can tell me anything and I'll listen\n\nWhen we are together\nThere isn't anywhere that I would rather be\nThree birds of a feather\nI just hope you enjoy our company\n\nIt's been some time\nAnd though hard to define\nAs if the stars have started to align\nWe are bound together\nNow and forever\nAnd I will never let you go\n\nBaby I can't wait to know\nWhat do you think about things\nBelieve me I will always be there so\nYou can tell me anything and I'll listen\n\nI might even know what to say\nBut either way at least I'll be there\n\nBaby I can't wait to know\nWhat do you think about things\nBelieve me I will always be there so\nYou can tell me anything аnd I'll liѕten"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Pensar sobre cosas",
+      "content": "Bebé, no puedo esperar a saber\nCréeme siempre estaré allí entonces\n\nPiensa lo sé te amo\nEncuentro difícil ver que sientes por mí\nPorque no te entiendo\nOh todavía no has aprendido a hablar\n\nCuando nos vimos por primera vez\nNunca olvidaré\nPorque incluso pensé que no te conocía todavía\nEstaremos juntos ahora y siempre\nY nunca te dejaré ir\n\nBebé, no puedo esperar a saber\nQue piensas sobre las cosas\nCréeme siempre estaré allí entonces\nPuedes decirme cualquier cosa y te escucharé\n\nCuando estamos juntos\nNo hay nada que sea mejor\nTres pájaros de un tiro\nSolo espero que disfrutes de nuestra compañía\n\nHa pasado algo de tiempo\nY es difícil de definir\nComo si todas las estrellas se empezaran a alinear\nEstaremos juntos\nAhora y siempre\nY nunca te dejaré ir\n\nBebé, no puedo esperar a saber\nQue piensas sobre las cosas\nCréeme siempre estaré allí entonces\nPuedes decirme cualquier cosa y te escucharé\n\nIncluso creo saber que decir\nPero al menos estaré allí\n\nBebé, no puedo esperar a saber\nQue piensas sobre las cosas\nCréeme siempre estaré allí entonces\nPuedes decirme cualquier cosa y te eѕcuchаré"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "icelandic"
+      ],
+      "displayedLanguages": null,
+      "title": "Gagnamagnið",
+      "content": "Svona, síðan svona hér\nBara ef allir dansa með\n\nHæ, við erum komin\nÚr framtíðinni og líka utan úr geim\nÞví eitthvað þarf að breytast\nEf þið viljið halda í þennan heim\n\nVið höfum séð\nHvað getur skeð\nÞað gæti verið stutt í dánarbeð\nEn ef við dönsum saman hreyfum líkamann\nÞað væri gaman. Dansinn er:\n\nSvona, síðan svona hér\nOg eftir það kemur þetta\nBara ef að allir dansa með\nÞá ætti þetta mögulega að sleppa\n\nÞetta er allt annað\nNú þurfum við að snúa við blaðinu\nÞvílíkt vel mannað\nVið erum öll í Gagnamagninu\n\nOg hvað með það\nÞó sumir muni afneita að\nÞið hafið engan annan felustað\nEn ef við dönsum saman\nHreyfum líkamann\nÞað væri gaman. Dansinn er:\n\nSvona, síðan svona hér\nOg eftir það kemur þetta\nBara ef að allir dansa með\nÞá ætti þetta mögulega að sleppa\n\nVið erum líka að tala um þig og þig og þig\nOg þig og þig og þig\n\nSvona, síðan svona hér\nOg eftir það kemur þetta\nBara ef að allir dansa með\nÞá ætti þetta mögulega að ѕleppа"
+    }
+  ],
+  "bpm": 127,
+  "tone": "Eb minor",
+  "artistPeople": [
+    "Daði Freyr Pétursson"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Daði Freyr Pétursson"
+  ],
+  "broadcaster": "RÚV",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": null
+}

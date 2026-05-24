@@ -1,0 +1,54 @@
+{
+  "id": 5,
+  "country": "IT",
+  "artist": "Betty Curtis",
+  "song": "Al di là",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/yUt5XlrAAY4",
+    "https://www.youtube-nocookie.com/embed/jAooPFd--HA",
+    "https://www.youtube-nocookie.com/embed/vLWR6rPFvng",
+    "https://www.youtube-nocookie.com/embed/kcFXZBIWDLQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Al di là",
+      "content": "Non credevo possibile si potessero dire queste parole:\n\nAl di là del bene più prezioso, ci sei tu\nAl di là del sogno più ambizioso, ci sei tu\nAl di là delle cose più belle\nAl di là delle stelle, ci sei tu\nAl di là, ci sei tu per me, per me, soltanto per me\n\nAl di là del mare più profondo, ci sei tu\nAl di là dei limiti del mondo, ci sei tu\nAl di là della volta infinita\nAl di là della vita, ci sei tu\nAl di là, ci sei tu per me\n\nCi sei tu\n(Ci sei tu)\nAl di là delle cose più belle\nAl di là delle stelle, ci sei tu\nAl di là ci sei tu per me, per me, soltanto per me\n\nAl di là del mare più profondo, ci sei tu\nAl di là dei limiti del mondo, ci sei tu\nAl di là della volta infinita\nAl di là della vitа, ci sei tu\nAl di là ci ѕei tu per me\n\nAl di là"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Beyond",
+      "content": "I didn't believe it was possible that these words could be said:\n\nBeyond the most precious good, there is you\nBeyond the most ambitious dream, there is you\nBeyond the most beautiful things\nBeyond the stars, there is you\nBeyond, there is you for me, for me, only for me\n\nBeyond the deepest sea, there is you\nBeyond the borders of the world, there is you\nBeyond the endless circle\nBeyond the life, there is you\nBeyond, there is you for me\n\nThere is you\n(There is you)\nBeyond the most beautiful things\nBeyond the stars, there is you\nBeyond, there is you for me, for me, only for me\n\nBeyond the deepest oceаn, there is you\nBeyond the borders of the world, there is you\nBeyond the endless circle\nBeyond life, there is you\nBeyond, there iѕ you for me\n\nBeyond"
+    }
+  ],
+  "bpm": 108,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Roberta Corti"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Carlo Donida"
+  ],
+  "conductor": "Gianfranco Intra",
+  "lyricists": [
+    "Mogol"
+  ],
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Corrado Mantoni"
+  ],
+  "jury": null,
+  "spokesperson": "Enzo Tortora"
+}

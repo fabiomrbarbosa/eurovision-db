@@ -1,0 +1,68 @@
+{
+  "id": 13,
+  "country": "LU",
+  "artist": "Sarah Bray",
+  "song": "Un baiser volé",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/I0b3TBBDCp4",
+    "https://www.youtube-nocookie.com/embed/fB5_z2fBKO8",
+    "https://www.youtube-nocookie.com/embed/_IRkFruHqSQ"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Un baiser volé",
+      "content": "Comment peut-on unir les horizons?\nLibres sont ceux ignorant la peine\nLa peur rend fou, appelle la haine\nLe mal grandit dans nos esprits\n\nEt pourtant l'amour est le sens de notre vie\nUn baiser volé dans ce monde blessé peut nous apporter l'espérance\n\nSaturé d'images, le monde se méfie\nLes chemins du cœur ont des frontières\nUne vie perdue, un arbre abattu, joignent mes larmes aux rivières\n\nEt pourtant l'amour est le sens de notre vie\nUn baiser volé dans ce monde blessé peut nous apporter l'espérance\n\nPar nos yeux éblouis se remplissent nos mémoires\nLe bonheur libère nos émotions (comme un baiser volé)\nComme un baiser volé (Comme un baiser volé)\n\nEt pourtant l'amour est le sens de notre vie\nUne histoire inventée, et l'espoir retrouvé\nCréer un univers sans ѕouffrаnce"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "A stolen kiss",
+      "content": "How can we unite our horizons?\nFree are those who don't know any sorrow\nFear makes you mad, it calls for hate\nEvil grows in our minds\n\nAnd yet love is the meaning of our life\nA stolen kiss in this injured world can bring us hope\n\nSaturated with images, the world is distrustful\nThe paths to our hearts have barriers\nA lost life, a tree cut down, add my tears to the rivers\n\nAnd yet love is the meaning of our life\nA stolen kiss in this injured world can bring us hope\n\nOur memories are filled by our dazzled eyes\nHappiness frees our emotions (like a stolen kiss)\nLike a stolen kiss (Like a stolen kiss)\n\nAnd yet love is the meaning of our life\nAn invented story, a hope that is found back\nCreates а universe without ѕuffering"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Um beijo roubado",
+      "content": "Como podemos unir os horizontes?\nLivres são aqueles que ignoram a dor\nO medo nos deixa loucos, evoca o ódio\nO mal cresce em nossas mentes\n\nE ainda assim o amor é o sentido de nossa vida\nUm beijo roubado neste mundo ferido pode nos trazer esperança\n\nSaturado de imagens, o mundo se cautela\nOs caminhos do coração têm fronteiras\nUma vida perdida, uma árvore derrubada, juntam minhas lágrimas aos rios\n\nE ainda assim o amor é o sentido de nossa vida\nUm beijo roubado neste mundo ferido pode nos trazer esperança\n\nPelos nossos olhos deslumbrados nossas memórias se preenchem\nA felicidade liberta nossas emoções (um beijo roubado)\nComo um beijo roubado (como um beijo roubado)\n\nE ainda assim o amor é o sentido de nossa vida\nUma história inventada e a esperança redescoberta\nCriаm um universo sem ѕofrimento"
+    }
+  ],
+  "bpm": 73,
+  "tone": "C# major",
+  "artistPeople": [
+    "Monique Wersant"
+  ],
+  "backings": [
+    "Bernard Wrincq",
+    "Carenne Wrincq",
+    "Nathalie Lavigne",
+    "Patrick Alessi"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Patrick Hippert"
+  ],
+  "conductor": "Francis Goya",
+  "lyricists": [
+    "Linda Lecomte",
+    "Monique Wersant"
+  ],
+  "writers": null,
+  "broadcaster": "CLT",
+  "commentators": [
+    "Valérie Sarn"
+  ],
+  "jury": null,
+  "spokesperson": "Jean-Luc Bertrand"
+}

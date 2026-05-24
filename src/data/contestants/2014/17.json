@@ -1,0 +1,64 @@
+{
+  "id": 17,
+  "country": "DE",
+  "artist": "Elaiza",
+  "song": "Is It Right",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/BFuGH2Kp9dI",
+    "https://www.youtube-nocookie.com/embed/UW4KQqcH1E4",
+    "https://www.youtube-nocookie.com/embed/mTC-4YO_5eE",
+    "https://www.youtube-nocookie.com/embed/iF5HIInNjuo"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Is It Right",
+      "content": "He's got a pen in his hand\nA piece of paper starin' back\nHe could write like a man\nA novel life back on track\n\nMaybe drama, or a poem\nBut still he doesn't know\nThe time is ticking in his ear\nThe holy silence dissappears\n\nIs it right or is it wrong??\nI can't go on! you can't go on\nIf you say yes…or even no\nYou don't know how and where to go\n\nShe turns over and looks at him\nShe tries to feel, and can't feel anything\nBut it's so hard to say goodbye\nEven when you know, that it's right\n\nWhen it's all not what you thought\nAnd a friendship is not enough\nWhen you long to feel alive\nAnd take the chance to give it up\n\nIs it right or is it wrong?\nI can't go on, you can't go on\nIf you say yes, or even no\nYou don't know how and where to go\n\nI know, it's not easy to decide\nTo find your own direction\nOh, the risk is too high\nBut you can't hide\n\nIs it right or is it wrong?\nI can go on, you can go on\nIf you say yeѕ, or even no\nYou don't know how аnd where to go"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Ist es richtig?",
+      "content": "Er hat einen Stift in seiner Hand\nEin Blatt Papier schaut zurück\nEr könnte rennen wie ein Mann\nEin neues Leben, zurück auf der Strecke\n\nVielleicht ein Drama oder ein Gedicht\nAber er tut immer noch nicht, nein\nDie Uhr tickt in seinen Ohren\nDie einsame Stille verschwindet\n\nIst es richtig oder ist es falsch?\nIch kann so nicht weitermachen, du kannst so nicht weitermachen\nUnd ob du jetzt ja oder sogar nein sagst\nDu weißt nicht wie und wohin du gehen sollst\n\nSie dreht sich her und sieht ihn an\nSie versucht zu fühlen, sie kann nichts fühlen\nAber es ist schwer Aufwiedersehen zu sagen\nWenn du weißt, dass es das richtige ist\n\nWenn es nicht so kommt wie du gedacht hast\nUnd die Freundschaft nicht genug ist\nWenn du dich danach sehnst zu leben\nUnd die Chance nutzt es aufzugeben\n\nIst es richtig oder ist es falsch?\nIch kann so nicht weitermachen, du kannst so nicht weitermachen\nUnd ob du jetzt ja oder sogar nein sagst\nDu weißt nicht wie und wohin du gehen sollst\n\nIch weiß, es ist nicht einfach, die richtige Entscheidung zu fällen\nDeinen eigenen Weg zu finden\nDas Risiko ist groß\nAber du kannst dich nicht ewig vor dir selbst verstecken\n\nIst es richtig oder ist es falsch?\nIch kann so nicht weitermachen, du kannst so nicht weitermachen\nUnd ob du jetzt ja oder sogar nein sаgst\nDu weißt nicht wie und wohin du gehen sollѕt"
+    }
+  ],
+  "bpm": 132,
+  "tone": "G minor",
+  "artistPeople": [
+    "Ela Steinmetz",
+    "Natalie Plöger",
+    "Yvonne Grünwald"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Elżbieta Steinmetz",
+    "Frank Kretschmer"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Adam Kesselhaut",
+    "Elżbieta Steinmetz"
+  ],
+  "writers": null,
+  "broadcaster": "NDR",
+  "commentators": [
+    "Peter Urban"
+  ],
+  "jury": [
+    "Andreas Bourani",
+    "Jennifer Weist",
+    "Konrad Sommermeyer",
+    "Madeline Juno",
+    "Paul Würdig"
+  ],
+  "spokesperson": "Helene Fischer"
+}

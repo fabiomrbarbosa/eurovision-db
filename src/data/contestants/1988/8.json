@@ -1,0 +1,59 @@
+{
+  "id": 8,
+  "country": "NL",
+  "artist": "Gerard Joling",
+  "song": "Shangri-La",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/2cWqCYJbzOQ",
+    "https://www.youtube-nocookie.com/embed/dxoCM7RgDtc",
+    "https://www.youtube-nocookie.com/embed/p3SU_VdGd44",
+    "https://www.youtube-nocookie.com/embed/ZOgXTgPg1a4",
+    "https://www.youtube-nocookie.com/embed/D2XF2aS1LAY"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "Shangri-La",
+      "content": "Leven\nLiefde\n'k Ben op zoek naar Shangri-la\n\nIn een nacht van neon en de geur van schralend bier\nStaat daar een kamerscherm van rijstpapier\nDe wereld is wat iemand eigenlijk wil zien\nIn een jungle van beton voel je haast de liefde niet\n\nWie kan leven zonder liefde?\n'k Ben op zoek naar Shangri-la\nWie kan leven zonder liefde\n'k Ben op zoek naar Shangri-la\n\nJa, leef maar op gevoel\nJe dagen zonder doel\nTot morgen weer voorbij is\n\nLangs ieder flatgebouw\nZie ik een bamboetouw\nLeven zonder liefde\n'k Ben op zoek naar Shangri-la\n\nJa, leef maar op gevoel\nJe dromen zonder doel\nTot morgen weer voorbij iѕ\n\nLeven\nLiefde\n'k Ben op zoek naar Shangri-la\n\nLeven\nLiefde\n'k Ben op zoek naar Shangri-la\n'k Ben op zoek naar Shangri-lа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Shangri-La",
+      "content": "Life\nLove\nI'm in search of Shangri-la\n\nIn a night of neon and the smell of thin beer\nThere's a folding screen of rice paper standing there\nThe world is what someone actually wants to see\nIn a jungle of concrete you almost can't feel love\n\nWho can live without love?\nI'm in search of Shangri-la\nWho can live without love?\nI'm in search of Shangri-la\n\nYes, just live by feel\nYour days are aimless\nUntil tomorrow's over again\n\nAlong every block of flats\nI see a bamboo rope\nLife without love\nI'm in search of Shangri-la\n\nYes, just live by feel\nYour dreams are aimless\nUntil tomorrow's over again\n\nLife\nLove\nI'm in search of Shangri-la\n\nLife\nLove\nI'm in search of Shangri-la\nI'm in ѕearch of Shangri-lа"
+    }
+  ],
+  "bpm": 143,
+  "tone": "E major",
+  "artistPeople": [
+    "Gerard Jan Joling"
+  ],
+  "backings": [
+    "Johan Hoogland",
+    "Justine Pelmelay",
+    "Lisa Boray",
+    "Pim Roos",
+    "Sonia Pelgrims"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Harry van Hoof",
+  "lyricists": null,
+  "writers": [
+    "Peter de Wijn"
+  ],
+  "broadcaster": "NOS",
+  "commentators": [
+    "Willem van Beusekom"
+  ],
+  "jury": null,
+  "spokesperson": "Joop van Os"
+}

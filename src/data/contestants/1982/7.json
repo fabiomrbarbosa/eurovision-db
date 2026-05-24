@@ -1,0 +1,58 @@
+{
+  "id": 7,
+  "country": "SE",
+  "artist": "Chips",
+  "song": "Dag efter dag",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/SWrHV-r5adQ",
+    "https://www.youtube-nocookie.com/embed/HCzT4dAvTQY",
+    "https://www.youtube-nocookie.com/embed/ytOcXG29Aec",
+    "https://www.youtube-nocookie.com/embed/RO6dTEUyKVo"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Dag efter dag",
+      "content": "Nu är det nåt stort på gång, ja, snart ska nånting hända\nIngenting kan ändra det och nu är det för sent att vända\nLika bra att det blir sagt för du har ändå märkt det\nHur som helst så känns det helt okej\nDet är nånting som jag vill säga dig\n\nDag efter dag, gång på gång var jag på väg\nDag efter dag, gång på gång, tog steg för steg\nMen nu var det nåt som sa mig\nWow wow wow… vill ha dig\nSå ska det vara, du och jag, dag efter dag\n\nSatsar allt på samma kort har inget att förlora\nSäger vad jag känner nu och inga ord kan bli för stora\nSen den dag jag såg dig här, förstod jag vad jag saknat\nHör nu på, ja, lyssna nu på mig\nDet är nånting som jag vill säga dig\n\nDag efter dag, gång på gång var jag på väg\nDag efter dag, gång på gång, tog steg för steg\nMen nu var det nåt som sa mig\nWow wow wow… vill ha dig\nSå ska det vara, du och jag, dag efter dag\n\nJag kände nånting inom mig\nWow wow wow… vill ha dig\nSå ѕka det vara, du och jag, dag efter dag\nDu och jag, dag efter dag, dag efter dаg"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Day after day",
+      "content": "Now something big is on its way, yes, soon something is going to happen\nNothing can change it and now it's too late to turn back\nI might as well say it, because you've already noticed it\nAnyway, it feels completely OK\nThere's something I want to tell you\n\nDay after day, time after time I was on my way\nDay after day, time after time, took step by step\nBut now there was something telling me\nWow wow wow… I want you\nThat's how it should be, you and I, day after day\n\nI place all my bets on the same card, I have nothing to lose\nI'm telling you what I'm feeling now, and no words can be too big\nSince the day I saw you here, I understand what I've been missing\nNow listen, yes, listen to me now\nThere's something I want to tell you\n\nDay after day, time after time I was on my way\nDay after day, time after time, took step by step\nBut now there was something telling me\nWow wow wow… I want you\nThat's how it should be, you and I, day after day\n\nI felt something inside of me\nWow wow wow… I want you\nThat's how it ѕhould be, you and I, day after day\nYou and I, day after day, day after dаy"
+    }
+  ],
+  "bpm": 132,
+  "tone": "F# minor",
+  "artistPeople": [
+    "Elisabeth Gunilla Andreassen",
+    "Kikki Danielsson"
+  ],
+  "backings": [
+    "Lasse Holm",
+    "Rutger Gunnarsson"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Lasse Holm"
+  ],
+  "conductor": "Anders Berglund",
+  "lyricists": [
+    "Monica Forsberg"
+  ],
+  "writers": null,
+  "broadcaster": "SVT",
+  "commentators": [
+    "Ulf Elfving"
+  ],
+  "jury": null,
+  "spokesperson": "Arne Weise"
+}

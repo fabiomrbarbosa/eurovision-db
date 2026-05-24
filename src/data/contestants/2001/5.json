@@ -1,0 +1,58 @@
+{
+  "id": 5,
+  "country": "ES",
+  "artist": "David Civera",
+  "song": "Dile que la quiero",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/iwM-FH9tabs",
+    "https://www.youtube-nocookie.com/embed/2_JnPtcwAw4",
+    "https://www.youtube-nocookie.com/embed/kAaENJMo77c"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Dile que la quiero",
+      "content": "Si la ves, pregúntale qué siente\nSi aún le queda algo de ese amor que nos unió\nSi la encuentras algo indiferente\nÉntrala en razón, y hazme este favor\nHáblale, insístele que nos han hecho daño\nQue todo es mentira\n\nDile que la quiero, que siempre fui sincero\nDile que me estoy volviendo loco con una tontería\nDile que navego entre el amor y el miedo\nDile que me está matando esta melancolía\n\n(Dile) que la quiero\n(Dile) que soy sincero\n(Dile) Dile que me está matando esta melancolía\n\nSi la ves recuérdale que tiene\nDe par en par las puertas de mi corazón\nDile que mis lágrimas no entienden\nPorque no está conmigo en esta habitación\nHáblale, insístele que nos han hecho daño\nQue todo es mentira\n\nDile que la quiero, que siempre fui sincero\nDile que me estoy volviendo loco con una tontería\nDile que navego entre el amor y el miedo\nDile que me está matando esta melancolía\n\n(Dile, dile, dile) Dile que me estoy volviendo loco\n(Dile, dile, dile)\n\nDile que la quiero, que siempre fui sincero\nDile que me estoy volviendo loco con una tontería\nDile que navego entre el amor y el miedo\nDile que me está matando esta melancolía\n\nDile que la quiero, que siempre fui sincero\nDile que me estoy volviendo loco con una tontería\nDile que navego entre el amor y el miedo\nDile que me está matando eѕta melancolíа\n\nDile"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Tell her that I love her",
+      "content": "If you see her, ask her what she feels\nIf still something remains of that love that united us\nIf you find her quite indifferent\nMake her see reason, and do me this favour\nTalk to her, insist on her that they've done us damage\nThat everything is a lie\n\nTell her that I love her, that I was always sincere\nTell her that I'm going crazy because of this nonsense\nTell her that I'm sailing between love and fear\nTell her that this melancholy is killing me\n\n(Tell her) that I love her\n(Tell her) that I'm sincere\n(Tell her) Tell her that this melancholy is killing me\n\nIf you see her, remind her that she has\nThe doors of my heart wide open\nTell her that my tears don't understand\nWhy she isn't with me in this room\nTalk to her, insist on her that that they've done us damage\nThat everything is a lie\n\nTell her that I love her, that I was always sincere\nTell her that I'm going crazy because of this nonsense\nTell her that I'm sailing between love and fear\nTell her that this melancholy is killing me\n\n(Tell her, tell her, tell her) Tell her that I'm going crazy\n(Tell her, tell her, tell her)\n\nTell her that I love her, that I was always sincere\nTell her that I'm going crazy because of this nonsense\nTell her that I'm sailing between love and fear\nTell her that this melancholy is killing me\n\nTell her that I love her, that I was always sincere\nTell her that I'm going crazy because of this nonsense\nTell her that I'm sailing between love and fear\nTell her that this melаncholy iѕ killing me\n\nTell her"
+    }
+  ],
+  "bpm": 105,
+  "tone": "C major",
+  "artistPeople": [
+    "David Civera"
+  ],
+  "backings": [
+    "Belinda Sánchez Leal",
+    "Eva Gomariz",
+    "Susana Ribalta"
+  ],
+  "dancers": [
+    "Irina Grusza",
+    "Irina Riatchancheva"
+  ],
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Alejandro Abad"
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "José Luis Uribarri"
+  ],
+  "jury": null,
+  "spokesperson": "Jennifer Rope"
+}

@@ -1,0 +1,60 @@
+{
+  "id": 14,
+  "country": "SI",
+  "artist": "Sestre",
+  "song": "Samo ljubezen",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/xgpZDGvNEOE",
+    "https://www.youtube-nocookie.com/embed/Ky39WCD5vDc",
+    "https://www.youtube-nocookie.com/embed/Wmb3X9_mf8c",
+    "https://www.youtube-nocookie.com/embed/4copwW5X-zw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "slovene"
+      ],
+      "displayedLanguages": null,
+      "title": "Samo ljubezen",
+      "content": "Srce veliko kakor svet\nNasmeh in iskrica v očeh\nIn beseda poznaš jo tudi ti\n\nV življenju mnogo je poti\nNe išči sreče kjer je ni\nLe poslušaj kar srce ti govori\n\nLahko ti podarim samo ljubezen\nEno in edino upanje\nPoglej me v oči in lahko si brez skrbi\nVem, da isto čutiš tudi ti\n\nKar želiš si to ni greh\nTo je ljubezen v očeh\n\nPoznaš me bolj kot se ti zdi\nČeprav zatiskaš si oči\nKo me gledaš, vidiš to kar si\n\nDolgo časa si iskal\nKar si mislil, da je prav\nA, a, a na koncu le eno boš izbral\n\nLahko ti podarim samo ljubezen\nEno in edino upanje\nPoglej me v oči in lahko si brez skrbi\nVem, da isto čutiš tudi ti\n\nWhoa… lahko ti podarim samo ljubezen\nEno in edino upanje\nPoglej me v oči in lahko si brez skrbi\n(Poglej me v oči in lahko brez skrbi)\nSaj jo v srcu čutiš tudi ti\nOh… sаj jo v ѕrcu čutiš tudi ti"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Only love",
+      "content": "A heart as big as the world\nA smile and a sparkle in the eyes\nAnd the word you know so well\n\nIn life there are many roads\nDon't look for happiness where there is none\nJust listen to what your heart says\n\nI can offer you only love\nOne and only hope\nJust look me in the eyes, and you're easily carefree\nI know you feel the same\n\nWhat you want is not a sin\nThat's love in your eyes\n\nYou know me better than you think\nEven though you're shutting your eyes\nWhen you look at me, you see what you are\n\nYou've been searching for so long\nFor what you thought was right\nBut, but, but in the end, you'll choose only one\n\nI can offer you only love\nOne and only hope\nJust look me in the eyes, and you're easily carefree\nI know you feel the same\n\nWhoa… I can offer you only love\nOne and only hope\nJust look me in the eyes, and you're easily carefree\n(Just look me in the eyes, and you're easily carefree)\nI know you feel the same\nOh… I know you feel the ѕаme"
+    }
+  ],
+  "bpm": 140,
+  "tone": "D major",
+  "artistPeople": [
+    "Srečko Blas",
+    "Damjan Levec",
+    "Tomaž Mihelič"
+  ],
+  "backings": [
+    "Anže Langus",
+    "Jadranka Juras",
+    "Mate Brodar"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Magnifico"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Barbara Pešut"
+  ],
+  "writers": null,
+  "broadcaster": "RTVSLO",
+  "commentators": [
+    "Andrea F"
+  ],
+  "jury": null,
+  "spokesperson": "Nuša Derenda"
+}

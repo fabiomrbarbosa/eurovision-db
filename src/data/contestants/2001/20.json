@@ -1,0 +1,41 @@
+{
+  "id": 20,
+  "country": "IE",
+  "artist": "Gary O'Shaughnessy",
+  "song": "Without Your Love",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/1SLEkOX9ZLY",
+    "https://www.youtube-nocookie.com/embed/8zz1BoU30Aw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Without Your Love",
+      "content": "I don't want to live my life without you\nI don't ever want to say goodbye\n'Cause you're the only one that I am here for\nNever want to see you cry\n\nBut I can't go on (Can't go on)\nOh no\nNo, I can't go on (I can't go on)\nOh no\n\nWithout your love, without your heart\nI'd be lost here, in the dark\nI just don't know\nWhere would I be without your love?\nYou're the light in the dark\n\nI want to wake up with you beside me\nI will never let this feeling die\nI just want to be here in the morning\nTo see the sunlight in your eyes\n\nBut I can't go on (Can't go on)\nOh no\nNo, I can't go on (I can't go on)\nOh no\n\nWithout your love, without your heart\nI'd be lost here, in the dark\nI just don't know\nWhere would I be without your love?\n\nWithout your love, without your heart\nI'd be lost here, in the dark\nI juѕt don't know\nWhere would I be without your love?\nYou're the light in the dаrk"
+    }
+  ],
+  "bpm": 154,
+  "tone": "Bb major",
+  "artistPeople": [
+    "Gary O'Shaughnessy"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Pat Sheridan"
+  ],
+  "broadcaster": "RTÉ",
+  "commentators": [
+    "Marty Whelan"
+  ],
+  "jury": null,
+  "spokesperson": "Bláthnaid Ní Chofaigh"
+}

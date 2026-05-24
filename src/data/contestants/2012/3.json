@@ -1,0 +1,59 @@
+{
+  "id": 3,
+  "country": "AZ",
+  "artist": "Sabina Babayeva",
+  "song": "When The Music Dies",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/yzT7O3Fnwpk",
+    "https://www.youtube-nocookie.com/embed/WUSwAGvn32g"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "When the music dies",
+      "content": "You, you are my best friend\nYou are my everything, so don't leave me now\nYou, you are the best of me\nThe reason that I believe, so don't leave me now\n\nAnd I try to keep us alive\nBut you're cold, cold, cold\nNow every second that my heart skips, it ends\n\nBut I still wanna keep us alive\nBut it's cold, cold, cold, cold when the music dies\nIt's all black and white and there's no sunrise\nWhen the music dies\n\nNo you, you can't even look at me\nStill not gonna speak to me\nWhoa oh oh oh…\n\nAnd I try to keep us alive\nBut you're cold, cold, cold\nNow every second that my heart skips, it ends\n\nBut I try to keep us alive\nBut it's cold, cold, cold, cold\nWhen the music dies (Cold, cold, cold)\nIt gets cold and there's no sunrise\n\nSo cold, now every second that my heart skips, it ends\n\nI try to keep us alive\nBut you're cold, cold, so cold\nEvery second my heartbeat ends\n\nStill I try to keep us аlive\nBut you're cold, cold, cold\nWhen the music dieѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "turkish"
+      ],
+      "displayedLanguages": null,
+      "title": "Müzik öldüğünde",
+      "content": "Seni sen benim en iyi arkadaşımsın\nSen benim her şeyimsin, bu yüzden beni şimdi bırakma\nSen, sen benim en iyimsin\nİnanmamdaki sebep, bu yüzden beni şimdi bırakma\n\nVe ben bizi hayatta tutmaya çalışıyorum\nAma sen soğuk,soğuk, soğuksun\nArtık kalbimin atladığı her saniye bitiyor\n\nAma ben bizi hala hayatta tutmak istiyorum\nAma bu şarkı öldüğündeki soğuk, soğuk, soğuk\nHer şey siyah ve beyaz ve gündoğumu yok\nMüzik öldüğünde\n\nHayır sen, bana bakamıyorsun bile\nHala benimle konuşmacaksın\nWhoa oh oh oh…\n\nVe ben bizi hayatta tutmaya çalışıyorum\nAma sen soğuk,soğuk, soğuksun\nArtık kalbimin atladığı her saniye bitiyor\n\nVe ben bizi hayatta tutmaya çalışıyorum\nAma sen soğuk, soğuk, soğuk, soğuksun\nMüzik öldüğünde (soğuk, soğuk, soğuk)\nSoğuyor ve burada gündoğumu yok\n\nYani soğuk,şimdi kalbimin atladığı her saniye bitiyor\n\nBizi hayatta tutmaya çalışıyorum\nAma sen soğuk,soğuk, çok soğuksun\nHer saniye kalp atışım duruyor\n\nHala bizi hayatta tutmaya çalışıyorum\nAmа sen soğuk, soğuk, soğukѕun\nMüzik öldüğünde"
+    }
+  ],
+  "bpm": 126,
+  "tone": "C# minor",
+  "artistPeople": [
+    "Sabina Babayeva"
+  ],
+  "backings": [
+    "Alim Qasimov",
+    "Anna Nilsson",
+    "Jennie Jahns",
+    "Marie Nordmark Sjöström"
+  ],
+  "dancers": null,
+  "stageDirector": "Lars Bethke",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Anders Bagge",
+    "Johan Kronlund",
+    "Sandra Bjurman",
+    "Stefan Örn"
+  ],
+  "broadcaster": "İctimai",
+  "commentators": [
+    "Konul Arifgizi",
+    "Saleh Bagirov"
+  ],
+  "jury": null,
+  "spokesperson": "Safura Alizadeh"
+}

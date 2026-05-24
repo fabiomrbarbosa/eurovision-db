@@ -1,0 +1,69 @@
+{
+  "id": 32,
+  "country": "HR",
+  "artist": "Feminnem",
+  "song": "Lako je sve",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/x2M9zNayOF0",
+    "https://www.youtube-nocookie.com/embed/tkl4YU5oHB8",
+    "https://www.youtube-nocookie.com/embed/9v0yv1zyIp8",
+    "https://www.youtube-nocookie.com/embed/QCJJeJnQFRw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "croatian"
+      ],
+      "displayedLanguages": null,
+      "title": "Lako je sve",
+      "content": "Lako, lako je sve, uvijek kad imam te\nVjeruj bilo gdje sam znam da tvoja jesam\nTo ti kaže sjaj u mojim očima\n\nLako, lako je sve, jer ti ne ostavljaš me\nKad ti se ne smiješim, znam da tada griješim\nJa sam samo žena što se prepušta\n\nZadnjim snagama sad stojim tu pred tobom\nDušu razdiru mi bure nemira\nTeže mi je riješit ovu bol sa sobom\nJer ti si prevaren a mene ubija\n\nLako, lako je sve, jer ti najbolje poznaješ me\nDok pred tobom stojim, vidis da se bojim\nJer na licu mome piše izdaja\n\nDok pred tobom stojim, vidiš da se bojim\nMolim te oprosti, ja te volim, stvarno volim\nJa bez tebe ne znam to više nisam ja\nTo više nisam ja\n\nVjeruj bilo gdje sam znam da tvoja jesam\nTo ti kaže sjaj u mojim očima\nLako, lаko je ѕve"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Everything is easy",
+      "content": "Easy, everything is easy, whenever I have you\nBelieve me, wherever I am, I know that I'm yours\nYou can see it by the glow in my eyes\n\nEasy, everything is easy, because you're not leaving me\nWhen I'm not smiling at you, I know I'm making a mistake\nBecause I'm just a woman who surrenders\n\nWith last shred of strength now, I'm standing here before you\nMy soul is being torn up by storms of unrest\nIt's harder to come to terms with this pain\nBecause you were cheated and it's killing me\n\nEasy, everything is easy, because you know me best\nWhile I'm standing here before you, you can see I'm scared\nBecause betrayal is written on my face\n\nWhile I'm standing here before you, you can see I'm scared\nPlease forgive me, I love you, really love you\nI can't live without you, I'm no longer myself\nI'm no longer myself\n\nBelieve me, wherever I am, I know that I'm yours\nYou can see it by the glow in my eyes\nEasy, everything is eаѕy"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "turkish"
+      ],
+      "displayedLanguages": null,
+      "title": "Her Şey Kolay",
+      "content": "Kolay, her şey kolay, sen benim olduğun sürece\nİnan, nerde olursam olayım, senin olduğumu biliyorum\nBunu sana gözlerimdeki ışıltı söylüyor\n\nHer şey kolay, öyle kolay ki, çünkü sen beni terk etmiyorsun\nSana gülümsemediğimde, o anda hata ettiğimi biliyorum\nBen sadece kendini teslim eden bir kadınım\n\nSon gücümle şimdi tam karşında duruyorum\nRuhumu huzursuzluğun fırtınaları parçalıyor\nBu acıyla tek başıma baş etmek daha da zor geliyor\nÇünkü sen aldatıldın ve bu beni içten içe yok ediyor\n\nHer şey kolay, çok kolay, çünkü beni en iyi sen tanıyorsun\nÖnünde dururken korktuğumu görüyorsun\nÇünkü yüzümde ihanetin izi yazılı\n\nÖnünde dururken korktuğumu görüyorsun\nLütfen affet, seni seviyorum, gerçekten seviyorum\nSensiz ben ne yapacağımı bilmiyorum, artık eski ben değilim\nEskisi gibi ben değilim artık\n\nİnan, nerde olursam olayım, senin olduğumu biliyorum\nBunu sana gözlerimdeki ışıltı ѕöylüyor\nHer şey kolay, öyle kolаy ki…"
+    }
+  ],
+  "bpm": 152,
+  "tone": "Eb minor",
+  "artistPeople": [
+    "Neda Parmać",
+    "Nika Antolos",
+    "Pamela Ramljak"
+  ],
+  "backings": [
+    "Irma",
+    "Lydia Ivekovic"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Branimir Mihaljević"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Neda Parmać",
+    "Pamela Ramljak"
+  ],
+  "writers": null,
+  "broadcaster": "HRT",
+  "commentators": [
+    "Duško Ćurlić"
+  ],
+  "jury": null,
+  "spokesperson": "Mila Horvat"
+}

@@ -1,0 +1,56 @@
+{
+  "id": 12,
+  "country": "LU",
+  "artist": "Jeane Manson",
+  "song": "J'ai déjà vu ça dans tes yeux",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/xH7tCl1liAQ",
+    "https://www.youtube-nocookie.com/embed/CSJ4uHWaDZ0",
+    "https://www.youtube-nocookie.com/embed/p1GtzK_JGSI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "J'ai déjà vu ça dans tes yeux",
+      "content": "Un grand bateau qui s'éloigne\nVers un horizon de ciel bleu\nDes ruisseaux courant la montagne\nJ'ai déjà vu ça dans tes yeux\n\nDes ciels d'azur ou d'orage\nNous, main dans la main, silencieux\nTous les deux nus sur une plage\nJ'ai déjà vu ça dans tes yeux\n\nDans tes yeux je vois\nLe reflet de toute ma vie\nMa vie qui s'en va\nIrrésistiblement vers un bonheur infini\n\nOh, combien d'hivers à croire\nQue demain tu vas t'en aller?\nMais attends un peu ma victoire\nEt je te promets un été\n\nUn tout petit coin de terre\nDeux ou trois enfants au milieu\nNous, assis sur un banc de pierre\nJ'ai déjà vu ça dans tes yeux\n\nUn tout petit coin de terre\nSous un grand morceau de ciel bleu\nNous, assis sur un bаnc de pierre\nEt nous vieillirons tous les deux\n\nTous les deux, tous les deux\nTous les deux, ѕi tu veux"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I've already seen that in your eyes",
+      "content": "A big boat that moves away\nTowards a blue-sky horizon\nStreams flowing from the mountain\nI've already seen that in your eyes\n\nBlue or stormy skies\nWe, hand in hand, quietly\nBoth naked on a beach\nI've already seen that in your eyes\n\nIn your eyes I see\nThe reflection of my whole life\nMy life that goes away\nIrresistibly towards a neverending happiness\n\nOh, how many winters to think\nYou were going to leave the next day?\nBut wait a bit for my victory\nAnd I promise you a summer\n\nA very little land corner\nTwo or three children in the middle\nWe're sitting on a stone bench\nI've already seen that in your eyes\n\nA very little land corner\nUnder a big piece of blue sky\nWe're sitting on a ѕtone bench\nAnd we will both get old\n\nWe both, we both\nWe both, if you wаnt"
+    }
+  ],
+  "bpm": 137,
+  "tone": "F major",
+  "artistPeople": [
+    "Jeane Manson"
+  ],
+  "backings": [
+    "Catherine Bonnevay",
+    "Francine Chantereau",
+    "Georges Costa",
+    "Michel Costa"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Hervé Roy",
+  "lyricists": null,
+  "writers": [
+    "Jean Renard"
+  ],
+  "broadcaster": "CLT",
+  "commentators": [
+    "Jacques Navadic"
+  ],
+  "jury": null,
+  "spokesperson": "Jacques Harvey"
+}

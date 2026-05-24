@@ -1,0 +1,61 @@
+{
+  "id": 6,
+  "country": "ES",
+  "artist": "Rosa",
+  "song": "Europe's Living A Celebration",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/hZC-SD7jZ-U",
+    "https://www.youtube-nocookie.com/embed/7HdAV1z0sJY",
+    "https://www.youtube-nocookie.com/embed/kyR-dpml1UY",
+    "https://www.youtube-nocookie.com/embed/xBHcyuK1c2I"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish",
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Europe's Living A Celebration",
+      "content": "(Celebration, celebration)\n\n(Celebration, celebration)\n(Celebration, celebration)\n(Celebration, celebration)\n(Celebration, celebration)\n\nEstoy feliz de encontrarme hoy aquí\nY no me preguntes más porqué\nYa corre en mis venas la emoción\nY nace en mí una ilusión\n\nSiento algo nuevo en mi interior\nQue me llega a ti\nUn camino por hacer (camino por hacer)\nSin nada que esconder\n\nEurope's living a celebration\nTodos juntos, vamos a cantar\nEurope's living a celebration\nNuestro sueño - una realidad\n\nNo se oirán jamás las voces que no\nNos dejen dar el paso final\nSi existe en nosotros la pasión\nY brilla una luz en tu interior\n\nAhora el tiempo nos cambió\nY será para siempre\nNo dudes por favor\nLo dice el corazón\n\nEurope's living a celebration\nTodos juntos, vamos a cantar\nEurope's living a celebration\nNuestro sueño - una realidad\n\nNo nos dejes amor\n(No lo hagas, por favor)\nNo digas adiós\n(Nunca jamás)\nY crece, va creciendo\nLa fuerza y la ilusión\n\nOh\n(Celebration, celebration)\nOh hoh yeah hey, yeah hey\n(Celebration, celebration)\nOoh\n(Celebration, celebration)\n(Celebration, celebration)\n\nEurope's living a celebration\nTodos juntos, vamos a cantar\nEurope's living a celebration\nNuestro sueño - una realidad\n\nEurope's living a celebration\nNuevos tiempos - la necesidad\nEurope's living a celebration\nEs tu fiesta y no hay vuelta atráѕ\n\nCelebration, celebrаtion"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Europe's Living A Celebration",
+      "content": "(Celebration, celebration)\n\n(Celebration, celebration)\n(Celebration, celebration)\n(Celebration, celebration)\n(Celebration, celebration)\n\nI'm happy to be here today\nAnd don't you ask me why again\nThe emotion already runs through my veins\nAnd an illusion is born inside of me\n\nI feel something new inside of me\nThat leads me to you\nA path to be made (path to be made)\nWith nothing to hide\n\nEurope's living a celebration\nAll of us, we're going to sing\nEurope's living a celebration\nOur dream - a reality\n\nWe'll never hear the voices that stop us\nFrom making the last step\nIf passion exists within us\nAnd a light shines inside of you\n\nNow the times have changed\nAnd it will be forever\nDon't hesitate, please\nYour heart says it\n\nEurope's living a celebration\nAll of us, we're going to sing\nEurope's living a celebration\nOur dream - a reality\n\nLove, don't leave us\n(Don't do it, please)\nDon't say goodbye\n(Never ever)\nAnd the strength and the illusion\nWill keep growing and growing\n\nOh\n(Celebration, celebration)\nOh hoh yeah hey, yeah hey\n(Celebration, celebration)\nOoh\n(Celebration, celebration)\n(Celebration, celebration)\n\nEurope's living a celebration\nAll of us, we're going to sing\nEurope's living a celebration\nOur dream - a reality\n\nEurope's living a celebration\nNew times - we need\nEurope's living a celebration\nIt's your party and there'ѕ no going back\n\nCelebration, celebrаtion"
+    }
+  ],
+  "bpm": 135,
+  "tone": "C# minor",
+  "artistPeople": [
+    "Rosa María López Cortés"
+  ],
+  "backings": [
+    "Chenoa",
+    "David Bisbal",
+    "David Bustamante",
+    "Geno",
+    "Gisela"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Toni Ten"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Xasqui Ten"
+  ],
+  "writers": null,
+  "broadcaster": "TVE",
+  "commentators": [
+    "José Luis Uribarri"
+  ],
+  "jury": null,
+  "spokesperson": "Anne Igartiburu"
+}

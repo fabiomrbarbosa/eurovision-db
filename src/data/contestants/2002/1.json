@@ -1,0 +1,51 @@
+{
+  "id": 1,
+  "country": "MT",
+  "artist": "Ira Losco",
+  "song": "7th Wonder",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/S4fHMmPqC80",
+    "https://www.youtube-nocookie.com/embed/h2Qsr-8WWl4",
+    "https://www.youtube-nocookie.com/embed/r2ndoMm0xnc",
+    "https://www.youtube-nocookie.com/embed/klIVZeUl0h4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "7th wonder",
+      "content": "Seven degrees\nI'm down on my knees\nWaiting for the man to put me under his spell\n\nSeven o' five\nHe walks into sight\nGivin' me the eye, he lifts my spirits high\n\nHis passion burns and my luck takes a turn\nI'm reborn and alive with his love to survive\n\nIs it good? Is it bad?\nAm I simply going mad?\nIs it fiction or fact?\nAm I really losing tact?\nIs he magical, logical, natural? I wonder\nHe's got the makings of my seventh wonder\nOoh hoo… hoo… hoo…\n\nSeventy three kisses for me\nThat whisper through the silence his feelings for me\nSoftly he dips my cherry-red lips\nIn the essence of a hope on which my love can float\n\nHis passion burns and my luck takes a turn\nI'm reborn and alive with his love to survive\n\nIs it good? Is it bad?\nAm I simply going mad?\nIs it fiction or fact?\nAm I really losing tact?\nIs he magical, logical, natural? I wonder\nHe's got the makings of my seventh wonder\n\nOn seven seas we sail on this dream\nTurning it into virtual reality\nReality\n\nIs it good? Is it bad?\nAm I simply going mad?\nIs it fiction or fact?\nAm I really losing tact?\n(Is he magical?) Magical\n(Logical, natural? I wonder)\nHe's got the makings of my seventh wonder\n\nAm I weak? Am I strong?\nIn his arms do I belong?\nI could climb mountain high\nFor his love I'd learn to fly\nIs he magical, logical, natural? I wonder\nHe's got the makings of my seventh wonder\n(Is he fiction or a matter of fact?)\nSeventh wonder\n(Iѕ he fiction or a matter of fаct?)\nSeventh wonder"
+    }
+  ],
+  "bpm": 105,
+  "tone": "D major",
+  "artistPeople": [
+    "Ira Losco"
+  ],
+  "backings": [
+    "Airi Allvee",
+    "Dagmar Oja",
+    "Jelena Juzvik",
+    "Kaire Vilgats",
+    "Liisi Koikson"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Philip Vella"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Gerard James Borg"
+  ],
+  "writers": null,
+  "broadcaster": "TVM",
+  "commentators": [
+    "John Bundy"
+  ],
+  "jury": null,
+  "spokesperson": "Yvette Portelli"
+}

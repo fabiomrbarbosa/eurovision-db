@@ -1,0 +1,67 @@
+{
+  "id": 8,
+  "country": "CY",
+  "artist": "Constantinos",
+  "song": "Mono Gia Mas",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/rrodyvd710A",
+    "https://www.youtube-nocookie.com/embed/kspGN8H4XZc",
+    "https://www.youtube-nocookie.com/embed/qUaQlywFRew",
+    "https://www.youtube-nocookie.com/embed/mmMFD1mHC3Q"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ellinika"
+      ],
+      "title": "Mono Gia Mas",
+      "content": "Apopse glikia mu, fengari miso\nMia kunia pu mas pai os ton urano\nAs figum' ap' ti yi, kathe tis pliyi\n\nAs perimeni os tin avyi\nTut' i niht', agapi mu, in' erotiki\n\nMono yia mas\nOla t' asteria ston urano\nFtiahnune varkules ki' istera peftun sto yialo\nKane lipon oses thes efhes\nDhe hora i nihta mas enohes\nZise ta skirtimata tis haras\nIne mono yia mas\n\nMono yia mas\n\nMono yia mas\nOla t' asteria ston urano\nFtiahnune varkules ki' istera peftun sto yialo\nKane lipon oses thes efhes\nDhe hora i nihta mas enohes\nZise ta skirtimata tis haras\nIne mono yia mas\n\nMono yia mas\nMono yia mаѕ"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ελληνικά"
+      ],
+      "title": "Μόνο για μας",
+      "content": "Απόψε γλυκειά μου, φεγγάρι μισό\nΜιά κούνια που μας πάει ως τον ουρανό\nΑς φύγουμ' απ' τη γη, κάθε της πληγή\n\nΑς περιμένει ως την αυγή\nΤούτ' η νύχτ', αγάπη μου, ειν' ερωτική\n\nΜόνο για μας\nΌλα τ' αστέρια στον ουρανό\nΦτιάχνουνε βαρκούλες κι' ύστερα πέφτουν στο γιαλό\nΚάνε λοιπόν όσες θες ευχές\nΔε χωρά η νύχτα μας ενοχές\nΖήσε τα σκιρτήματα της χαράς\nΕίναι μόνο για μας\n\nΜόνο για μας\n\nΜόνο για μας\nΌλα τ' αστέρια στον ουρανό\nΦτιάχνουνε βαρκούλες κι' ύστερα πέφτουν στο γιαλό\nΚάνε λοιπόν όσες θες ευχές\nΔε χωρά η νύχτα μας ενοχές\nΖήσε τα σκιρτήματα της χαράς\nΕίναι μόνο για μας\n\nΜόνο για μας\nΜόνο για μας"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Only for us",
+      "content": "Tonight my sweetheart, the half moon\nA cradle taking us to the sky\nLet's leave the earth, and all its wounds\n\nLet it wait till the dawn\nThis night, my darling, is a night of love\n\nOnly for us\nAll the stars of the sky\nTurn into boats and fall into the ocean\nSo, make as many wishes you want\nThere's no room for guilts in our night\nLive the thrills of joy\nThey're only for us\n\nOnly for us\n\nOnly for us\nAll the stars of the sky\nTurn into boats and fall into the ocean\nSo, make as many wishes you wаnt\nThere's no room for guilts in our night\nLive the thrills of joy\nThey're only for us\n\nOnly for us\nOnly for uѕ"
+    }
+  ],
+  "bpm": 133,
+  "tone": "F major",
+  "artistPeople": [
+    "Constantinos Christoforou"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Andreas Giorgallis"
+  ],
+  "conductor": "Stavros Lantsias",
+  "lyricists": [
+    "Rodoula Papalambrianou"
+  ],
+  "writers": null,
+  "broadcaster": "CyBC",
+  "commentators": [
+    "Evi Papamichail"
+  ],
+  "jury": null,
+  "spokesperson": "Marios Skordis"
+}

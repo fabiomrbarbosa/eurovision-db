@@ -1,0 +1,72 @@
+{
+  "id": 40,
+  "country": "CH",
+  "artist": "Rykka",
+  "song": "The Last of Our Kind",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/HZI0_aR7BuA",
+    "https://www.youtube-nocookie.com/embed/S4s8UdJmgQc",
+    "https://www.youtube-nocookie.com/embed/96ENe3EYBE0",
+    "https://www.youtube-nocookie.com/embed/ZyrVrJFoPq4",
+    "https://www.youtube-nocookie.com/embed/y7kxmMyFB9I"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The Last of Our Kind",
+      "content": "Soldier, take off your armor\nShow me your heart\nThis is home\n\nAnd it's stronger, stronger than water\nDeeper than reason, longer than time\nHere we are at the end of the movie\nI never felt more alive\nIt's time to rise\n\nWe're the last of our kind\nIt's a whole new world\nAnd we're facing the fire\nNot afraid of our own ghosts\nWe're the last of our kind\nAnd we're all that we know\nAnd were out of our minds\nNot afraid to be brave though\n\nWe're the last of our kind, last of our kind\nWe're the last of our kind\nNot afraid to be brave\nWe're the last of our kind\n\nThis is paradise, turn off the search light\nWe're where we belong\nStanding tall at the end of the story\nWatching worlds collide\nIt's time to rise\n\nWe're the last of our kind\nIt's a whole new world\nAnd we're facing the fire\nNot afraid of our own ghosts\nWe're the last of our kind\nAnd we're all that we know\nAnd were out of our minds\nNot afraid to be brave though\n\nHere we are now with nothing to loose\nI know without love we wont pull through\nCause deep in the night\nThere is a light, and it guides us to truth\n\nIt's a whole new world\nAnd we're facing the fire\nNot afraid of our own ghosts\n\nWe're the last of our kind\nAnd we're all that we know\nAnd we're out of our minds\nNot afraid to be brave though\n\nWe're the last of our kind, last of our kind\nWe're the last of our kind\nNot afraid to be brave\nWe're the lаѕt of our kind"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "L'ultimo Della Nostra Specie",
+      "content": "Soldato, togliti l'armatura\nMostrami il tuo cuore\nQuesta è casa\n\nEd è più forte, più forte dell'acqua\nPiù profondo della ragione, più lungo del tempo\nEccoci alla fine del film\nNon mi sono mai sentito più vivo\nÈ ora di alzarsi\n\nSiamo gli ultimi della nostra specie\nÈ un mondo completamente nuovo\nE siamo di fronte al fuoco\nNon abbiamo paura dei nostri fantasmi\nSiamo gli ultimi della nostra specie\nE noi siamo tutto ciò che sappiamo\nEd erano fuori di testa\nNon ha paura di essere coraggioso però\n\nSiamo gli ultimi della nostra specie, gli ultimi della nostra specie\nSiamo gli ultimi della nostra specie\nNon ha paura di essere coraggioso\nSiamo gli ultimi della nostra specie\n\nQuesto è il paradiso, spegnere la luce di ricerca\nSiamo dove apparteniamo\nIn piedi alla fine della storia\nGuardare i mondi scontrarsi\nÈ ora di alzarsi\n\nSiamo gli ultimi della nostra specie\nÈ un mondo completamente nuovo\nE siamo di fronte al fuoco\nNon abbiamo paura dei nostri fantasmi\nSiamo gli ultimi della nostra specie\nE noi siamo tutto ciò che sappiamo\nEd erano fuori di testa\nNon ha paura di essere coraggioso però\n\nEccoci qui con niente da perdere\nSo che senza amore non ce la faremo\nPerché nel profondo della notte\nC'è una luce che ci guida alla verità\n\nÈ un mondo completamente nuovo\nE siamo di fronte al fuoco\nNon abbiamo paura dei nostri fantasmi\n\nSiamo gli ultimi della nostra specie\nE noi siamo tutto ciò che sappiamo\nE siamo fuori di testa\nNon ha paura di essere coraggioso però\n\nSiamo gli ultimi della nostra specie, gli ultimi della nostra specie\nSiamo gli ultimi della nostra specie\nNon ha paura di essere coraggioso\nSiamo gli ultimi della nostrа ѕpecie"
+    }
+  ],
+  "bpm": 162,
+  "tone": "A major",
+  "artistPeople": [
+    "Christina Maria Rieder"
+  ],
+  "backings": [
+    "Brandy Butler",
+    "Nyssina Swerissen",
+    "Tanja Dankner"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Jeff Dawson",
+    "Mike James",
+    "Rykka",
+    "Warne Livesey"
+  ],
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Clarissa Tami",
+    "Gabriel Vetter",
+    "Jean-Marc Richard",
+    "Michele Carobbio",
+    "Nicolas Tanner",
+    "Peter Schneider",
+    "Sven Epiney"
+  ],
+  "jury": [
+    "Charlie Roe",
+    "Luca Hänni",
+    "Ramon Rey",
+    "Tshanda Sangwa",
+    "Viola Tami"
+  ],
+  "spokesperson": "Sebalter"
+}

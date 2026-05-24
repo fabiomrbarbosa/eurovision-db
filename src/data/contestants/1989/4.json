@@ -1,0 +1,58 @@
+{
+  "id": 4,
+  "country": "AT",
+  "artist": "Thomas Forstner",
+  "song": "Nur ein Lied",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/IsAUqpXiw58",
+    "https://www.youtube-nocookie.com/embed/Ctj5_cqEpkc",
+    "https://www.youtube-nocookie.com/embed/CIAm36-1kFI",
+    "https://www.youtube-nocookie.com/embed/IdonzmCBxps"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Nur ein Lied",
+      "content": "Damit morgen früh die Sonne wieder scheint\nUnd es Tränen nur noch gibt, wenn man sich freut\nDamit jedes Kind noch Hoffnung haben kann\nAuf ein Leben ohne Kriege, ohne Angst\nDafür lohnt es sich, ein Träumer zu sein\n\nIch singe nur ein Lied heut' Nacht\nEin Lied, das uns zu Freunden macht\nIch singe nur ein Lied und weiß\nMit jedem Wort zerbricht das Eis\n\nDamit keiner mehr allein im Dunkeln steht\nUnd sie wiederkommt, die Liebe auf der Welt\nDamit jeder Mensch in Freiheit leben kann\nUnd die Waffen werden Blumen irgendwann\nDafür lohnt es sich, ein Träumer zu sein\n\nIch singe nur ein Lied heut' Nacht\nEin Lied, das uns zu Freunden macht\nIch singe nur ein Lied und weiß\nMit jedem Wort zerbricht das Eis\n\nIch singe nur ein Lied heut' Nacht\nEin Lied, das wie ein Feuer macht\nIch singe eѕ für dich und mich\nUnd für die gаnze Welt"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Just a song",
+      "content": "To make the sun shine again tomorrow\nAnd to make tears only be for laughter\nFor every child to have hope inside\nFor a life without war and fear\nFor this reason it's good to be a dreamer\n\nI'm singing just a song tonight\nA song to make friends\nI'm singing just a song and I know\nThat with every word the ice breaks\n\nSo that nobody will have to standing alone in the darkness\nAnd love returns to the earth\nTo let every human being live in freedom\nAnd turn guns into flowers sometime\nFor this reason it's good to be a dreamer\n\nI'm singing just a song tonight\nA song to make friends\nI'm singing just a song and I know\nThat with every word the ice breaks\n\nI'm singing just a song tonight\nA song that does like fire\nI'm ѕinging it for you аnd me\nAnd for the whole world"
+    }
+  ],
+  "bpm": 148,
+  "tone": "E major",
+  "artistPeople": [
+    "Thomas Forstner"
+  ],
+  "backings": [
+    "Detlef Wiedeke",
+    "Michael Scholz",
+    "Rolf Köhler"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Dieter Bohlen"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Joachim Horn-Bernges"
+  ],
+  "writers": null,
+  "broadcaster": "ORF",
+  "commentators": [
+    "Ernst Grissemann"
+  ],
+  "jury": null,
+  "spokesperson": "Tilia Herold"
+}

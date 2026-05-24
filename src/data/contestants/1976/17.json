@@ -1,0 +1,49 @@
+{
+  "id": 17,
+  "country": "NO",
+  "artist": "Anne-Karine Ström",
+  "song": "Mata Hari",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Ygdpc0cRxno",
+    "https://www.youtube-nocookie.com/embed/JPVJKdu0BuY",
+    "https://www.youtube-nocookie.com/embed/awW9ARtSX_8",
+    "https://www.youtube-nocookie.com/embed/geU7xTrx6bA"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Mata Hari",
+      "content": "There are days I just can't make it even though I try to fake it\nWhen I wish that I could take it, turn a page and start anew\nIn a world with no tomorrow, I could throw away my sorrow\nAnd pretend you'd let me borrow all the magic and wonder of you\nAnd for a while feel alive\n\nMata Hari, any man would pay the price of sweet surrender\nMata Hari, for the promise in your eyes – it was so tender\nThose you conquered with your dance never did have a chance\nYou walked away laughing and left them alone with their shame\n\nAs our dreams are slowly dyin', we find no escape in lyin'\nWhy should we go on denyin' life is never what it seems?\nBut in times when I am lonely, I keep thinkin' of you only\nEven though you'd never known me, can't you visit me once in my life\nAnd let me feel you were real?\n\nMata Hari, any man would pay the price of sweet surrender\nMata Hari, for the promise in your eyes – it was so tender\nThose you conquered with your dance – they never did have a chance\nYou walked away laughing and left them alone with their shame\n\nMata Hari, any man would pay the price of sweet surrender\nMata Hari, for the promise in your eyes – it was so tender\nAll the secrets sealed with their lips, they gave away for a kiss\nThe eye of the morning and star of the night waѕ your nаme"
+    }
+  ],
+  "bpm": 131,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Anne Karine"
+  ],
+  "backings": [
+    "Judith Damsté",
+    "Titia Dekker",
+    "Wanda Stellaard"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Frode Thingnæs"
+  ],
+  "conductor": "Frode Thingnæs",
+  "lyricists": [
+    "Philip A. Kruse"
+  ],
+  "writers": null,
+  "broadcaster": "NRK",
+  "commentators": [
+    "Jo Vestly"
+  ],
+  "jury": null,
+  "spokesperson": "Sverre Christophersen"
+}

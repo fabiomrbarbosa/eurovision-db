@@ -1,0 +1,51 @@
+{
+  "id": 39,
+  "country": "SI",
+  "artist": "Omar Naber",
+  "song": "On My Way",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vbGub2klcV4",
+    "https://www.youtube-nocookie.com/embed/fj9ssc-7Zzo",
+    "https://www.youtube-nocookie.com/embed/QWGNLoQ9Am4",
+    "https://www.youtube-nocookie.com/embed/rMmD2Ug2kYs",
+    "https://www.youtube-nocookie.com/embed/Es8N8GfAtHs",
+    "https://www.youtube-nocookie.com/embed/8hDPp1u0UQE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "On My Way",
+      "content": "You've all been very kind\nBut I made up my mind\nNow I'm about to leave you all behind\nI'm feeling so alone\nI'm turning down my town\nBefore the rise of sun I will be gone\n\nOn my way\nI'm never coming back\nAnd I pray\nI never gonna cry\nWorld is calling now tonight\nTelling me I'll be alright\nLights will guide you through the night\n\nStill hiding in my shell\nAnd keeping to myself\nI cannot count on anybody else\nI'm burning deep inside\nI'm giving up the fight\nBefore the break of dawn\nI will be gone\n\nOn my way\nI'm never coming back\nAnd I pray\nYou'll never gonna cry\nWorld is calling now tonight\nTelling me I'll be alright\nLights will guide you through the night\n\nOn my way\nI'm never coming back\nAnd I pray\nYou'll never gonna cry\nWorld is calling now tonight\nTelling me I'll be alright\nWorld is calling now tonight\nTelling me I'll be alright\nLightѕ will guide you through the night\n\nOn my wаy"
+    }
+  ],
+  "bpm": 135,
+  "tone": "D minor",
+  "artistPeople": [
+    "Omar Kareem Naber"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": "Nejc Levstik",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Omar Naber"
+  ],
+  "broadcaster": "RTVSLO",
+  "commentators": [
+    "Andrej Hofer"
+  ],
+  "jury": [
+    "Aleksander Lavrini",
+    "Darja Švajger",
+    "Gaber Radojevič",
+    "Jernej Dirnbek",
+    "Nika Zorjan"
+  ],
+  "spokesperson": "Katarina Čas"
+}

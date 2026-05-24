@@ -1,0 +1,48 @@
+{
+  "id": 16,
+  "country": "GR",
+  "artist": "Michalis Rakintzis",
+  "song": "S.A.G.A.P.O.",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/m78_J5riBMk",
+    "https://www.youtube-nocookie.com/embed/Y3Ucf0Bip6Q",
+    "https://www.youtube-nocookie.com/embed/1_lHJlPNdtI",
+    "https://www.youtube-nocookie.com/embed/RO3yaOd_7Pw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "S.A.G.A.P.O.",
+      "content": "Hey (Hey, hey, hey, hey…)\nEvery time you need my love (Love, love, love, love)\nBefore you enter in my world (World, world, world, world, world)\nGive the password (Give the password, the password, the password, the password)\n\nHey (Hey, hey, hey, hey…)\nIf you wanna get my love (Love, love, love, love)\nIf you pray for me and hope (Hope, hope, hope, hope, hope)\nGive the password (Give the password, the password, the password, the password)\n\nSay (say, say), say the magic word\nS' agapo – S.A.G.A.P.O.\nSay (say, say), say the magic word\nS' agapo – S.A.G.A.P.O.\n\nSay (say, say), say the magic word\nS' agapo – S.A.G.A.P.O.\nSay (say, say), say the magic word\nS' agapo – S.A.G.A.P.O.\n\nHey (Hey, hey, hey, hey…)\nWhen you see me down and sad (Sad, sad, sad, sad)\nWhen I'm out of my mind (Mind, mind, mind, mind, mind)\nGive the password (Give the password, the password, the password, the password)\n\nHey (Hey, hey, hey, hey…)\nBaby, you're the only one (One, one, one, one)\nWho can turn me up or down (Down, down, down, down, down)\nGive the password (Give the password, the password, the password, the password)\n\nSay (say, say), say the magic word\nS' agapo – S.A.G.A.P.O.\nSay (say, say), say the magic word\nS' agapo – S.A.G.A.P.O.\n\nSay (say, say), say the magic word\nS' agapo – S.A.G.A.P.O.\nSay (say, say), ѕay the magic word\nS' agapo – S.A.G.A.P.O.\n\nSаy"
+    }
+  ],
+  "bpm": 102,
+  "tone": "F minor",
+  "artistPeople": [
+    "Michalis Rakintzis"
+  ],
+  "backings": [
+    "Michalis Kyriakides",
+    "Nikos Menem",
+    "Terry Mavridis",
+    "Yiannis Karmas"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Michalis Rakintzis"
+  ],
+  "broadcaster": "ERT",
+  "commentators": [
+    "Dafni Bokota"
+  ],
+  "jury": null,
+  "spokesperson": "Alexis Kostalas"
+}

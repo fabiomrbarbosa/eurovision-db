@@ -1,0 +1,61 @@
+{
+  "id": 17,
+  "country": "PT",
+  "artist": "Nevada",
+  "song": "Neste barco à vela",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/H9OWxZ_Cuso",
+    "https://www.youtube-nocookie.com/embed/XgybCCT7dOE",
+    "https://www.youtube-nocookie.com/embed/r3H0zgW-beU",
+    "https://www.youtube-nocookie.com/embed/_DjNsgaNG5k"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Neste barco à vela",
+      "content": "No meu país há um rio\nQue corre sem parar\nNo meu país, o navio\nNem sempre se faz ao mar\nNo meu país a tristeza tem um nome solidão\nNo meu país a beleza invento-a na minha mão\n\nNavego um barco vazio\nQue atravessa o rio p'ró cais da saudade\nVou numa onda tão bela\nNeste barco à vela que não tem idade\n\nNavego um barco tão cheio\nContigo no meio no rumo da esperança\nVou numa onda tão bela\nNeste barco à vela com ar de criança\n\nNo meu país há um rio\nQue corre sem parar\nNo meu país, o navio\nNem sempre se faz ao mar\nO meu país é um sol de raiva e alecrim\nE mesmo assim tem uns olhos negros\nQue esperam por mim\n\nNavego um barco tão cheio\nContigo no meio no rumo da esperança\nVou numa onda tão bela\nNeste barco à vela com ar de criança\n\nNavego um barco tão cheio\nContigo no meio no rumo da esperança\nVou numa onda tão bela\nNeste barco à vela com ar de criança\n\nNavego um barco tão cheio\nContigo no meio no rumo da esperança\nVou numa onda tão bela\nNeste barco à vela com ar de criança\n\nNavego um barco tão cheio\nContigo no meio no rumo da esperança\nVou numa onda tão bela\nNeѕte barco à vela com ar de criançа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "In this sailing boat",
+      "content": "In my country, there's a river\nThat runs non-stop\nIn my country, there's a ship\nThat doesn't always go out to sea\nIn my country, sadness is called loneliness\nIn my country, beauty is invented in my hand\n\nI'm sailing an empty boat\nThat crosses the river to the dock of longing\nI'm sailing on a very beautiful wave\nIn this ageless sailing boat\n\nI'm sailing an overfull boat\nIn the middle of the path of hope\nI'm sailing on a very beautiful wave\nIn this sailing boat with a childish look\n\nIn my country, there's a river\nThat runs non-stop\nIn my country, there's a ship\nThat doesn't always go out to sea\nMy country is a sun of anger and flowers\nEven tough it has dark eyes\nThat are waiting for me\n\nI'm sailing an overfull boat\nIn the middle of the path of hope\nI'm sailing on a very beautiful wave\nIn this sailing boat with a childish look\n\nI'm sailing an overfull boat\nIn the middle of the path of hope\nI'm sailing on a very beautiful wave\nIn this sailing boat with a childish look\n\nI'm sailing an overfull boat\nIn the middle of the path of hope\nI'm sailing on a very beautiful wave\nIn this sailing boat with a childish look\n\nI'm sailing an overfull boat\nIn the middle of the path of hope\nI'm sailing on a very beautiful wave\nIn this sailing boat with а childiѕh look"
+    }
+  ],
+  "bpm": 146,
+  "tone": "C# minor",
+  "artistPeople": [
+    "Alfredo Azinheira",
+    "Jorge Mendes"
+  ],
+  "backings": [
+    "Carla Burity",
+    "Fernanda Lopes",
+    "Mário Pacheco",
+    "Zé Braga"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Alfredo Azinheira",
+    "Jorge Mendes"
+  ],
+  "conductor": "Jaime Oliveira",
+  "lyricists": [
+    "Alfredo Azinheira"
+  ],
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Maria Margarida Gaspar"
+  ],
+  "jury": null,
+  "spokesperson": "Ana Zanatti"
+}

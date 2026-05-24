@@ -1,0 +1,61 @@
+{
+  "id": 19,
+  "country": "PT",
+  "artist": "Nucha",
+  "song": "Há sempre alguém",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/n-UJicNjoFg",
+    "https://www.youtube-nocookie.com/embed/Y8b3IMQaRh4",
+    "https://www.youtube-nocookie.com/embed/DSLsSGbDRWI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Há sempre alguém",
+      "content": "Oo…\n\nSempre, há sempre alguém\nQue ainda não tem o tanto que temos\nSempre, há sempre alguém\nNo canto do mundo que sonha também\n\nSempre, há sempre alguém\nQue ainda não tem o tanto que temos\nSempre, há sempre alguém\nNo canto do mundo que sonha também\n\nA vida corria diante de nós\nSem cores nem harmonia\nUm passo era um muro que calava a voz\nE a verdade nada valia\nQuantos momentos perdemos então?\nO medo da vida, o sonho era em vão, aha…\n\nSempre, há sempre alguém\nQue ainda não tem o tanto que temos\nSempre, há sempre alguém\nNo canto do mundo que sonha também\n\nAs vozes do vento e as ondas do mar\nTrouxeram este novo dia\nAgora vivemos sem ter de sonhar\nMomentos de louca alegria\nCantemos unidos sem olhar p'ra trás\nNada detém o amor e a paz\n\nSempre, há sempre alguém\nQue ainda não tem o tanto que temos\nSempre, há sempre alguém\nNo canto do mundo que sonha também\n\nSempre, há sempre alguém\nQue ainda não tem o tanto que temos\nSempre, há sempre alguém\nNo canto do mundo que sonha também\n\nSempre, há ѕempre аlguém"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "There's always someone",
+      "content": "Ooh…\n\nAlways, there's always someone\nWho still doesn't have as much as we do\nAlways, there's always someone\nIn the corner of the world who also dreams\n\nAlways, there's always someone\nWho still doesn't have as much as we do\nAlways, there's always someone\nIn the corner of the world who also dreams\n\nLife was running in front of us\nNo colours and harmony\nA step was a wall that silenced the voice\nAnd truth meant nothing\nHow many moments did we lose?\nAfraid of life, the dream was in vain, aha…\n\nAlways, there's always someone\nWho still doesn't have as much as we do\nAlways, there's always someone\nIn the corner of the world who also dreams\n\nThe voices of the wind and the waves of the sea\nBrought this new day\nNow we came without having to dream\nMoments of mad joy\nLet's sing together without looking backwards\nNothing can stop love and peace\n\nAlways, there's always someone\nWho still doesn't have as much as we do\nAlways, there's always someone\nIn the corner of the world who also dreams\n\nAlways, there's always someone\nWho still doesn't have as much as we do\nAlways, there's always someone\nIn the corner of the world who also dreams\n\nAlways, there's alwаys ѕomeone"
+    }
+  ],
+  "bpm": 115,
+  "tone": "D major",
+  "artistPeople": [
+    "Cristina Baldaia"
+  ],
+  "backings": [
+    "Carla Burity",
+    "Fernanda Lopes",
+    "José Carvalho",
+    "Octávio de Sousa",
+    "Paula Monteiro"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jan van Dijck",
+    "Luís Filipe"
+  ],
+  "conductor": "Carlos Alberto Moniz",
+  "lyricists": [
+    "Francisco Teotónio Pereira",
+    "Frederico Teotónio Pereira"
+  ],
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Ana do Carmo"
+  ],
+  "jury": null,
+  "spokesperson": "João Abel da Fonseca"
+}

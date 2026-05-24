@@ -1,0 +1,61 @@
+{
+  "id": 14,
+  "country": "IT",
+  "artist": "Matia Bazar",
+  "song": "Raggio di luna",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/TmZjRDy5-ds",
+    "https://www.youtube-nocookie.com/embed/gNANszOGVe0",
+    "https://www.youtube-nocookie.com/embed/v5D5IYxL5cE",
+    "https://www.youtube-nocookie.com/embed/7YBJJ97mOVM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Raggio di luna",
+      "content": "Se a volte ti sembro bugiardo, non sai\nC'è un mondo sincero che non mente mai\n\nQuando un raggio di luna\nTra il cielo e le stelle, si accorge di me\nEd un soffio di vento\nFa perdere al tempo la fretta che ha\n\nQuando un raggio di luna\nCancella ogni ombra di dubbio e di falsità\nIo più libero e vero, io volo sincero da te\n\nTi sbagli se pensi che non creda in te\nSe a volte, è normale, non vedo che me\n\nMa c'è un raggio di luna\nChe aspetto ogni sera impaziente perché\nMi riporta in un tempio\nInnalzato all'amore che è solo per te\n\nQuando un raggio di luna\nSa dare al pensiero\nLe ali più grandi che ha\nE più libera e vera, io volo sincera da te\n\nBasta un raggio di luna\nPer fare del mare una musica jazz\nE restare da soli sia in casa che fuori\nMa sempre io e te\n\nQuando un raggio di luna\nImprovvisa ogni volta una nota diversa per noi\nChe sera per sera la nostra canzone sarà\nChe sera per sera la nostra canzone ѕаrà"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Moon beam",
+      "content": "If I sometimes seem to be deceitful, you don't know\nThere's a sincere world, which never lies\n\nWhen a moon beam\nBetween the sky and the stars acknowledges me\nAnd a gust of wind\nMakes time lose its haste\n\nWhen a moon beam\nErases every shade of doubt and falseness\nI'll be freer and true, I'll fly sincerely to you\n\nYou're wrong if you think that I don't believe in you\nIf sometimes, it's normal, I can see only myself\n\nBut there's a moon beam\nWaiting impatiently each evening because\nIt takes me back to a temple\nBuilt for love which is only for you\n\nWhen a moon beam\nCan provide thought\nWith its biggest wings\nI'll be freer and true, I'll fly sincerely to you\n\nA moon beam is enough\nTo transform the sea into some jazz music\nAnd stay on our own, both at home and outside\nBut always you and I\n\nWhen a moon beam\nImprovises each time a different note for us\nIt'll be our song, evening after evening\nIt'll be our ѕong, evening аfter evening"
+    }
+  ],
+  "bpm": 100,
+  "tone": "E major",
+  "artistPeople": [
+    "Aldo Stellita",
+    "Antonietta Ruggiero",
+    "Carlo Marrale",
+    "Giancarlo Golzi",
+    "Piero Cassano"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Antonella Ruggiero",
+    "Carlo Marrale",
+    "Piero Cassano"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Giancarlo Golzi",
+    "Salvatore Stellita"
+  ],
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Rosanna Vaudetti"
+  ],
+  "jury": null,
+  "spokesperson": "Paola Perissi"
+}

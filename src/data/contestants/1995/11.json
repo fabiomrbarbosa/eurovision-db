@@ -1,0 +1,69 @@
+{
+  "id": 11,
+  "country": "GR",
+  "artist": "Elina Constantopoulou",
+  "song": "Pia prosefhi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/SrTLEZZEChw",
+    "https://www.youtube-nocookie.com/embed/iUp8bcq-yMc",
+    "https://www.youtube-nocookie.com/embed/Mfkn45_0FLg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ellinika"
+      ],
+      "title": "Pia prosefhi",
+      "content": "Ke gar evulodo miane ti yin taftin\nMi yignoskodes tin ivrin, in epiun…\n\nIha mia periusia, ti gatahrastikane\nKanan ierosilia ki ute pu drapikane\nTi istoria tis zois mu the skeftikane\n\nPia prosefhi ego na kano yia ta krimata tus\nPia prosefhi boro na po yia na sothun\nStazo krasi yia na xeplino t' amartimata tus\nPia prosefhi na po yi' aftus, pu me ponun\n\nNa mu parune to throno kaphi prospathisane\nEn' asteri iha mono ke to apetisane\nTo poso adexa sto hrono agnoisane\n\nPia prosefhi ego na kano yia ta krimata tus\nPia prosefhi boro na po yia na sothun\nStazo krasi yia na xeplino t' amartimata tus\nPia prosefhi na po yi' aftus, pu me ponun\n\nPia prosefhi ego na kano yia ta krimata tus\nPia prosefhi boro na po yia na sothun\nStazo krasi yia na xeplino t' amartimata tus\nPia prosefhi na po yi' аftuѕ, pu me ponun"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ελληνικά"
+      ],
+      "title": "Ποια προσευχή",
+      "content": "\"Και γαρ εβούλοντο μυάναι την γην ταύτην\nΜη γιγνώσκοντες την ύβριν, ην εποίουν…\"\n\nΕίχα μια περιουσία, την καταχραστήκανε\nΚάναν ιεροσυλία κι ούτε που ντραπήκανε\nΤην ιστορία της ζωής μου δε σκεφτήκανε\n\nΠοια προσευχή εγώ να κάνω για τα κρίματά τους\nΠοια προσευχή μπορώ να πω για να σωθούν\nΣτάζω κρασί για να ξεπλύνω τ' αμαρτήματά τους\nΠοια προσευχή να πω γι' αυτούς, που με πονούν\n\nΝα μου πάρουνε το θρόνο κάποιοι προσπαθήσανε\nΈν' αστέρι είχα μόνο και το απαιτήσανε\nΤο πόσο άντεξα στο χρόνο αγνοήσανε\n\nΠοια προσευχή εγώ να κάνω για τα κρίματά τους\nΠοια προσευχή μπορώ να πω για να σωθούν\nΣτάζω κρασί για να ξεπλύνω τ' αμαρτήματά τους\nΠοια προσευχή να πω γι' αυτούς, που με πονούν\n\nΠοια προσευχή εγώ να κάνω για τα κρίματά τους\nΠοια προσευχή μπορώ να πω για να σωθούν\nΣτάζω κρασί για να ξεπλύνω τ' αμαρτήματά τους\nΠοια προσευχή να πω γι' αυτούς, που με πονούν"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Which prayer?",
+      "content": "They wanted to remove this land's honour\nWithout realising the insolence they were committing…\n\nI had a fortune and they abused it\nThey committed sacrilege and they weren't even ashamed\nThey didn't think of my life's history\n\nWhich prayer shall I say for their sins?\nWhich prayer can I say so they can be saved?\nI drop wine to purify their sins\nWhich prayer shall I say for those who make me suffer?\n\nSome tried to take my throne\nI had only one star and they claimed it\nThey ignored how long I will resist\n\nWhich prayer shall I say for their sins?\nWhich prayer can I say so they can be saved?\nI drop wine to purify their sins\nWhich prayer shall I say for those who make me suffer?\n\nWhich prayer shall I say for their sins?\nWhich prayer can I say so they can be saved?\nI drop wine to purify their sins\nWhich prayer shall I say for those who mаke me ѕuffer?"
+    }
+  ],
+  "bpm": 89,
+  "tone": "G minor",
+  "artistPeople": [
+    "Elina Konstantopoulou"
+  ],
+  "backings": [
+    "Marianta Pieridi",
+    "Stelios Zachariou"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Nikos Terzis"
+  ],
+  "conductor": "Haris Andreadis",
+  "lyricists": [
+    "Antonis Pappas"
+  ],
+  "writers": null,
+  "broadcaster": "ERT",
+  "commentators": [
+    "Dafni Bokota"
+  ],
+  "jury": null,
+  "spokesperson": "Fotini Giannoulatou"
+}

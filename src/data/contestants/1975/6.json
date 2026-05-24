@@ -1,0 +1,60 @@
+{
+  "id": 6,
+  "country": "FI",
+  "artist": "Pihasoittajat",
+  "song": "Old Man Fiddle",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/luNTJefNlKU",
+    "https://www.youtube-nocookie.com/embed/Ucw19Mjz6mk",
+    "https://www.youtube-nocookie.com/embed/ngsCzudYO6c",
+    "https://www.youtube-nocookie.com/embed/_v-1F7E_nv8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Old-man fiddle",
+      "content": "The door opens wide – every head turns round to stare\nHe steps inside with raindrops on his hair\nA grey old man with legs a-limping, he finds himself a chair\nThen he lifts a fiddle and bow with gentle care\n\nAnd just like sunlight out of the rain, old man fiddle's come to play again\nAnd light this night up into flame\nJust his dancing fiddling bow brings to life all sleepy toes\nIn this old heart till morning glows\n\nSo kiss the blues goodbye\nLet the mountain melody brighten the night and make the good times fly\nFeet are dancing free in ragtime reverie\nPick up your lazy legs and give it a try\n\nWe sang along into the dawn till our cares were just memories\nDanced in time to country tunes\nIn some valley he lives free, where his notes ripen on the trees\nUnderneath the harvest moon\n\nSo kiss the blues goodbye\nLet the mountain melody brighten the night and make the good times fly\nFeet are dancing free in ragtime reverie\nPick up your lazy legs and give it a try\n\nIn the gentle falling rain, you could still hear the loving sound\nThat filled the night with memories\nAnd when the skies are turning grey, bring him back here to play again\nHe'll waken blossoms on the trees\n\nSo kiss the blues goodbye\nLet the mountain melody brighten the night and make the good times fly\nFeet are dancing free in ragtime reverie\nPick up your lazy legѕ and give it а try"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Viulu-ukko",
+      "content": "Ovi aukaistaan, kaikki kääntyy katsomaan\nUkko rähjäinen, vettä valuen\nOvesta astuu hiukan ontuen, penkille istahtaa\nNostaa poskellensa viulun laukustaan\n\nHei, kapakkaan tulipa taas ukko vanha soittamaan\nHän missä on luuraillutkaan\nHän viulullaan vetelee vaan\nNousee jengi tunnelmaan, myös bluesin saa taas svengaamaan\n\nHei kundit, kuunnelkaa tuota vanhaa jammaajaa\nVie nuoret mukanansa vuosien taa\nJalka jyskyttää ja vuodet häviää\nUkko soittaa biisiänsä sytyttävää\n\nMe laulettiin, mitäpä niin jää taas päivän murheisiin\nKun jousi käy ja viulu soi\nMies jostakin tullut on\nMissä blues soi rajaton\nSen viulullaan kertoa voi\n\nHei kundit, kuunnelkaa tuota vanhaa jammaajaa\nVie nuoret mukanansa vuosien taa\nJalka jyskyttää ja vuodet häviää\nUkko soittaa biisiänsä sytyttävää\n\nTaas sateeseen kuului tuo soitto oudon iloinen\nSe hiljaiseen kaupunkiin soi\nKun hämärään kaupunki jää\nLaulu vanhan soittajan saa muistoissa muut heräämään\n\nHei kundit, kuunnelkaa tuota vanhaa jammaajaa\nVie nuoret mukanansa vuosien taa\nJalka jyskyttää ja vuodet häviää\nUkko soittaа biisiänѕä"
+    }
+  ],
+  "bpm": 108,
+  "tone": "G major",
+  "artistPeople": [
+    "Arja Karlsson",
+    "Hannu Karlsson",
+    "Harry Lindahl",
+    "Henrik Bergendahl",
+    "Kim Kuusi",
+    "Seppo Sillanpää"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Kim Kuusi"
+  ],
+  "conductor": "Ossi Runne",
+  "lyricists": [
+    "Arthur Ridgway Spencer",
+    "Hannu Karlsson"
+  ],
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Heikki Seppälä"
+  ],
+  "jury": null,
+  "spokesperson": "Kaarina Pönniö"
+}

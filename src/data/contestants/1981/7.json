@@ -1,0 +1,77 @@
+{
+  "id": 7,
+  "country": "GR",
+  "artist": "Yiannis Dimitras",
+  "song": "Feggari kalokerino",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/-cuf1yoHO0Y",
+    "https://www.youtube-nocookie.com/embed/rkAmapeCN_4",
+    "https://www.youtube-nocookie.com/embed/pncsRsgfk1E"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ellinika"
+      ],
+      "title": "Feggari kalokerino",
+      "content": "Fegari kalokerino, ston iskio su tha triyirno\nSti mayemeni astrofegia, luluthia tha 'ne ta filia\nIrtha konda su na statho, mikro karavi sto yialo\nTremo tus iskius tis nihtias, yi' afto fegari mu na m' agapas\n\nFegari kalokerino, stu erota ton urano\nI mayemeni astrofegia, luluthia kani ta filia\n\nKita ton erimo yialo, su psithirizo s' agapo\nTora tha htiso eklisia, yia tis agapis ta trela pethia\n\nFegari kalokerino, stu erota ton urano\nI mayemeni aѕtrofegia, luluthia kani ta filiа"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": [
+        "ελληνικά"
+      ],
+      "title": "Φεγγάρι καλοκαιρινό",
+      "content": "Φεγγάρι καλοκαιρινό, στον ίσκιο σου θα τριγυρνώ\nΣτη μαγεμένη αστροφεγγιά, λουλούδια θά 'ναι τα φιλιά\nΉρθα κοντά σου να σταθώ, μικρό καράβι στο γυαλό\nΤρέμω τους ίσκιους της νυχτιάς, γι' αυτό φεγγάρι μου να μ' αγαπάς\n\nΦεγγάρι καλοκαιρινό, στου έρωτα τον ουρανό\nΗ μαγεμένη αστροφεγγιά, λουλούδια κάνει τα φιλιά\n\nΚοίτα τον έρημο γυαλό, σου ψιθυρίζω σ' αγαπώ\nΤώρα θα χτίσω εκκλησιά, για της αγάπης τα τρελά παιδιά\n\nΦεγγάρι καλοκαιρινό, στου έρωτα τον ουρανό\nΗ μαγεμένη αστροφεγγιά, λουλούδια κάνει τα φιλιά"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Lune estivale",
+      "content": "Lune estivale, à ton ombre je vais errer\nSous la lumière ensorcelée des étoiles, les baisers seront des fleurs\nJe suis venu près de toi pour me tenir debout, comme un petit bateau sur la mer\nJe tremble sous l'ombre nocturne, donc ma lune, aime-moi\n\nLune estivale, au ciel d'amour\nLa lumière ensorcelée des étoiles, rend les baisers fleurs\n\nRegarde, la mer deserté, je te chuchote que je t'aime\nMaintenant, je vais bâtir une église, pour les enfants fous, de l'amour\n\nLune estivale, au ciel d'amour\nLa lumière ensorcelée des étoiles, rend les bаisers fleurѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Summer moon",
+      "content": "Summer moon, in your shade I'll wander\nIn the bewitched starlight, flowers will be kisses\nI came standing near you, small ship on the seashore\nI tremble the shades of the night, therefore love me, my moon\n\nSummer moon, on the sky of love\nThe bewitched starlight, flowers make kisses\n\nLook at the desolate seashore, I whisper you \"I love you\"\nNow I'll build a church, for the crazy children of love\n\nSummer moon, on the sky of love\nThe bewitched starlight, flowers mаke kisseѕ"
+    }
+  ],
+  "bpm": 91,
+  "tone": "B minor",
+  "artistPeople": [
+    "Yiannis Dimitras"
+  ],
+  "backings": [
+    "Sofia Houndra"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Giorgos Niachros"
+  ],
+  "conductor": "Giorgos Niachros",
+  "lyricists": [
+    "Yiannis Dimitras"
+  ],
+  "writers": null,
+  "broadcaster": "ERT",
+  "commentators": [
+    "Mako Georgiadou"
+  ],
+  "jury": null,
+  "spokesperson": "Tatiana Darra"
+}

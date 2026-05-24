@@ -1,0 +1,61 @@
+{
+  "id": 10,
+  "country": "DE",
+  "artist": "Freddy Quinn",
+  "song": "So geht das jede Nacht",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/DJFGwPVKfyk",
+    "https://www.youtube-nocookie.com/embed/1ABQpAW2Z3c"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "So geht das jede Nacht",
+      "content": "Am Sonntag mit Jimmy, am Montag mit Jack\nAm Dienstag, da gehst du mit Johnny weg\n\nSo geht das jede Nacht (So geht das jede Nacht)\nSo geht das jede Nacht (So geht das jede Nacht)\nDas hätt ich nie, nie, nie von dir gedacht\n\nIch schenk dir Blumen und fahr dich ins Büro\nFühr deine Mutter jeden Sonntag in den Zoo\nDoch dich bringt am Mittwoch der Billy nach Haus\nAm Donnerstag gehst du mit Tommy aus\n\nSo geht das jede Nacht (So geht das jede Nacht)\nSo geht das jede Nacht (So geht das jede Nacht)\nDas hätt ich nie, nie, nie von dir gedacht\n\nIch hab dich damals als Baby schon geliebt\nJetzt hab ich Boogie und den Cha Cha Cha geübt\nDoch du tanzt am Freitag, am Freitag mit Ben\nSamstag mit einem, den ich nicht mal kenn\n\nSo geht das jede Nacht (So geht das jede Nacht)\nSo geht das jede Nacht (So geht das jede Nacht)\nDas hätt ich nie, nie, nie von dir gedacht\n\nDoch wenn du gedacht hast, ich sitze zuhaus\nIch geh jeden Tag mit 'ner andren aus\n\nSo geht das jede Nacht (So geht das jede Nacht)\nSo geht das jede Nacht (So geht das jede Nacht)\nDas hätt'ѕt du nie, nie, nie von mir gedаcht"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "That's how it is every night",
+      "content": "On Sunday with Jimmy, on Monday with Jack\nOn Tuesday you go off with Johnny\n\nThat's how it is every night (That's how it is every night)\nThat's how it is every night (That's how it is every night)\nI've never, never thought that of you\n\nI give you flowers and drive you to the office\nTake your mother every Sunday to the zoo\nBut on Wednesday Billy brings you home\nAnd on Thursday you go out with Tommy\n\nThat's how it is every night (That's how it is every night)\nThat's how it is every night (That's how it is every night)\nI've never, never thought that of you\n\nI've loved you since you were a baby\nNow I've been practicing the boogie and the cha-cha-cha\nBut on Friday, on Friday you're dancing with Ben\nSaturday with someone I don't even know\n\nThat's how it is every night (That's how it is every night)\nThat's how it is every night (That's how it is every night)\nI've never, never thought that of you\n\nBut if you were thinking I've been sitting at home\nI've been going out with someone else every day\n\nThat's how it is every night (That's how it is every night)\nThat's how it is every night (That's how it iѕ every night)\nYou've never, never thought thаt of me"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Так проходит каждый вечер",
+      "content": "В воскресенье с Джимми, в понедельник с Джеком\nВо вторник ты встречаешься с Джонни\n\nТак проходит каждый вечер (Так проходит каждый вечер)\nТак проходит каждая ночь (Так проходит каждая ночь)\nЯ бы никогда, никогда, никогда не подумал о тебе такого\n\nЯ буду дарить тебе цветы и возить тебя в офис\nВожу твою маму в зоопарк каждое воскресенье\nНо Билли привозит тебя домой в среду\nВ четверг ты идешь на свидание с Томми\n\nТак проходит каждый вечер (Так проходит каждый вечер)\nТак проходит каждая ночь (Так проходит каждая ночь)\nЯ бы никогда, никогда, никогда не подумал о тебе такого\n\nЯ любил тебя, когда ты была ребенком\nТеперь я практикуюсь в буги и ча-ча-ча\nНо ты танцуешь в пятницу, в пятницу с Беном\nВ субботу с кем-то, кого я даже не знаю\n\nТак проходит каждая ночь (Так проходит каждая ночь)\nТак проходит каждая ночь (Так проходит каждая ночь)\nЯ бы никогда, никогда, никогда не подумал о тебе такого\n\nНо если ты думала, что я буду сидеть дома\nЯ каждый день встречаюсь с кем-то другим\n\nТак проходит каждая ночь (Так проходит каждая ночь)\nТак проходит каждая ночь (Так проходит каждая ночь)\nТы бы никогда, никогда, никогда не подумала обо мне такого"
+    }
+  ],
+  "bpm": 185,
+  "tone": "F major",
+  "artistPeople": [
+    "Franz Eugen Helmut Manfred Niedl-Petz"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Lotar Olias"
+  ],
+  "conductor": "Fernando Paggi",
+  "lyricists": [
+    "Peter Moesser"
+  ],
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Irene Koss"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

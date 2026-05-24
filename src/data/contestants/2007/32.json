@@ -1,0 +1,53 @@
+{
+  "id": 32,
+  "country": "DK",
+  "artist": "DQ",
+  "song": "Drama Queen",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/T_gQOqKJ9ck",
+    "https://www.youtube-nocookie.com/embed/0ABs8nbDV6I"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Drama queen",
+      "content": "When the sun is setting at the end of the day\nAnd the city fills with shades of grey\nIn between the streetlight and the moonlit snow\nThere's a place I go\nWhere I do my show\n\nI'm your drama queen tonight\nAll my troubles are out of sight\nWhen the lights are on\nI will be your shining star\nI'm your drama queen tonight\nEverything's gonna be alright\nWhen I get on the stage tonight\n\nIt's a space in time where every dream comes true\nAnd tomorrow's sorrows just won't do\nIn between reality and fantasy\nI will make you see\nIf you just believe\n\nI'm your drama queen tonight\nAll my troubles are out of sight\nWhen the lights are on\nI will be your shining star\nI'm your drama queen tonight\nEverything's gonna be alright\nWhen I get on the stage tonight\n\nNo more use pretending\nNo more reason to run and hide\nLet's make all our dreams come true tonight\n\nI'm you drama queen tonight\nAll my troubles are out of sight\nWhen the lights are far\nI will be your shining star\nI'm your drama queen tonight\nEverything's gonna be alright\nWhen I get on the stage tonight\nOh… 'cauѕe I'm your dramа queen tonight"
+    }
+  ],
+  "bpm": 138,
+  "tone": "A major",
+  "artistPeople": [
+    "Peter Andersen"
+  ],
+  "backings": [
+    "Christina Birksøe",
+    "Christina Boelskifte",
+    "Claus Storgaard"
+  ],
+  "dancers": [
+    "David Boyd",
+    "René Winther"
+  ],
+  "stageDirector": "Birgitte Næss-Schmidt",
+  "composers": [
+    "Peter Andersen",
+    "Simon Munk"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Claus Christensen",
+    "Peter Andersen"
+  ],
+  "writers": null,
+  "broadcaster": "DR",
+  "commentators": [
+    "Adam Duvå Hall",
+    "Søren Rasted"
+  ],
+  "jury": null,
+  "spokesperson": "Susanne Georgi"
+}

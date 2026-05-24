@@ -1,0 +1,67 @@
+{
+  "id": 1,
+  "country": "CH",
+  "artist": "Daniela Simons",
+  "song": "Pas pour moi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/vGwXT_fHT0Q",
+    "https://www.youtube-nocookie.com/embed/fFQvPTEx120",
+    "https://www.youtube-nocookie.com/embed/FfivDJwnEGw",
+    "https://www.youtube-nocookie.com/embed/ceJY4qjcztE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Pas pour moi",
+      "content": "Pas pour moi, toutes les aventures\nPas pour moi, rendez-vous faciles\nPas pour moi\nLes combines au bout d'un soir au disco\nPas pour moi\nJe suis intolérante avec qui me fait des avances\nN'importe où, soit à l'opéra ou dans le métro\n\nMoi, je veux un amour écrit en majuscules\nMoi, je veux une histoire pour une vie\nCe n'est pas ça qui me fait décrocher les ailes\nUn jeu pour une nuit\nNon, ce n'est pas ça\nJe veux l'amour, l'amour comme il était une fois\nSublime sentiment, c'est ça que je veux de toi\n\nPas pour moi, les extravagances\nDes partys, de certaines vacances\nDes folies qu'on regrettera d'avoir faites dans la vie\n\nPas pour moi\nJe suis méfiante de ceux qui ont des expériences\nNon merci, tout cela n'est vraiment pas fait pour moi\n\nMoi, je veux un amour écrit en majuscules\nMoi, je veux une histoire pour une vie\nCe n'est pas ça qui me fait décrocher les ailes\nUn jeu pour une nuit\nNon, ce n'est pas ça\nJe veux l'amour, l'amour comme il était une fois\nSublime sentiment, c'est ça que je veux de toi\n\nJe veux l'amour, l'amour comme il était une fois\nSublime sentiment, c'est ça que je veux de toi\nEt pourquoi ce n'est paѕ çа?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Not for me",
+      "content": "Not for me, all those adventures\nNot for me, easy come and easy go\nNot for me\nThose tricks after evenings at the disco\nNot for me\nI can't stand advances anywhere\nBe it at the opera or in the underground\n\nI want a love written in capitals\nI want a story that lasts a lifetime\nI won't unfold my wings\nFor a one night stand\nNo that's not it\nI want love, love the way it used to be\nTender feelings, that's what I want from you\n\nNot for me, all those extravagances\nThe parties, certain holidays\nThe follies that one regrets later in life\n\nNot for me\nI don't trust those with experience\nNo thanks, all that was not really made for me\n\nI want a love written in capitals\nI want a story that lasts a lifetime\nI won't unfold my wings\nFor a one night stand\nNo, that's not it\nI want love, love the way it used to be\nTender feelings, that's what I want from you\n\nI want love, love the way it used to be\nTender feelings, that's what I want from you\nAnd why iѕn't it thаt?"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Geh nicht vorbei",
+      "content": "Ich und du, wir war'n wie Kometen\nIch und du, war'n wie Leuchtraketen\nHell und laut, wie zwei Sonnen in der Nacht um uns rum\nIrgendwann schien ich auszubrennen\nIrgendwie wollt' ich von dir rennen\nIrgendwo, in mir uns're Melodie war verstummt\n\nHeute klingt unser Lied in mir so stark und klar\nAber du, du bist lang schon nicht mehr da\n\nGeh' nicht vorbei, wenn wir uns einmal wiederseh'n\nIch werd' dein Herz berühr'n, wie am ersten Tag\nGeh' nicht vorbei, vorbei an dem was gestern war\nAn dem was vor uns liegt, geh' bitte nicht vorbei\n\nJede Nacht hab' ich wach gelegen\nHeute Nacht tu' ich was dagegen\nKeine Macht dieser Welt hält uns zurück, sag' ich mir\nWeisst du noch, wie wir drüber lachten\nÜber das, was die ander'n dahten\nWeisst du noch, alles was die Liebe gibt hatten wir\n\nIch und du, dieses Bild ist wie ein Dauertraum\nDu und ich, sowas überlebt man kaum\n\nGeh' nicht vorbei, wenn wir uns einmal wiederseh'n\nIch werd' dein Herz berühr'n, wie am ersten Tag\nGeh' nicht vorbei, vorbei an dem was gestern war\nAn dem was vor uns liegt, geh' bitte nicht vorbei\n\nGeh' nicht vorbei, vorbei an dem was gestern war\nAn dem wаs vor unѕ liegt, geh' bitte nicht vorbei\nNicht vorbei, geh' nicht vorbei"
+    }
+  ],
+  "bpm": 85,
+  "tone": "G minor",
+  "artistPeople": [
+    "Daniela Simons"
+  ],
+  "backings": [
+    "Frank Dostal"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Atilla Şereftuğ"
+  ],
+  "conductor": "Atilla Şereftuğ",
+  "lyricists": [
+    "Nella Martinetti"
+  ],
+  "writers": null,
+  "broadcaster": "SSR SRG",
+  "commentators": [
+    "Bernard Thurnheer",
+    "Ezio Guidi",
+    "Serge Moisson"
+  ],
+  "jury": null,
+  "spokesperson": "Michel Stocker"
+}

@@ -1,0 +1,73 @@
+{
+  "id": 21,
+  "country": "FI",
+  "artist": "Beat",
+  "song": "Fri?",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/7EEw7xAvjjE",
+    "https://www.youtube-nocookie.com/embed/MJSLJwUmXdc",
+    "https://www.youtube-nocookie.com/embed/gzN5R7lie2Y",
+    "https://www.youtube-nocookie.com/embed/RTzzHBwIguY",
+    "https://www.youtube-nocookie.com/embed/nsColJCHkaM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "swedish"
+      ],
+      "displayedLanguages": null,
+      "title": "Fri?",
+      "content": "Oo yeah…\n\nFri, om jag frågar dig, säger du ej nej\nFrihet har vi väl\nMen, om du frågar mig, vad vår frihet är\nSvarar jag så här:\n\nFri, vem av oss är fri?\nFri att tänka själv, att ärligt och stolt vara den vi är, whoa…\nRädd, rädd att göra fel, fångad i ett spel\nDär de som är lika får leka med, whoa…\n\nSäg, varför dessa krav\nVad gör mig så svag för ditt yttre skal?\nVem ger behoven fart?\nVem gör mig till slav under all reklam?\n\nFri, vem av oss är fri?\nFri att tänka själv, att ärligt och stolt vara den vi är, whoa…\nRädd, rädd att göra fel, fångad i ett spel\nDär de som är lika får leka med, whoa…\n\nWhoa… vem av oss är fri?\nFri att tänka själv, att ärligt och stolt vara den vi är, whoa…\nRädd, rädd att göra fel, fångad i ett spel\nDär de som är lika får leka med, whoa…\n\nFri, vem av oss är fri?\nFri att tänka själv, att ärligt och stolt vara den vi är, whoa…\nRädd, rädd att göra fel, fångad i ett spel\nDär de ѕom är lika får leka med, whoа…\n\nFri?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Free?",
+      "content": "Oo yeah…\n\nFree, if I ask you, you won't say no\nDon't we have any freedom\nBut, if you ask me, what our freedom is\nMy answer is like this:\n\nFree, which of us are free?\nFree to think for ourselves, being honest and proud of yourself, whoa…\nAfraid, afraid of doing wrong, caught in a game\nWhere those that are alike are allowed to join the game, whoa…\n\nTell me, why all these demands\nWhat make me so weak in front of your outer shell?\nWho generates the speed of needs?\nWho makes me a slave to publicity?\n\nFree, which of us are free?\nFree to think for ourselves, being honest and proud of yourself, whoa…\nAfraid, afraid of doing wrong, caught in a game\nWhere those that are alike are allowed to join the game, whoa…\n\nWhoa… which of us are free?\nFree to think for ourselves, being honest and proud of yourself, whoa…\nAfraid, afraid of doing wrong, caught in a game\nWhere those that are alike are allowed to join the game, whoa…\n\nFree, which of us are free?\nFree to think for ourselves, being honest and proud of yourself, whoa…\nAfraid, afraid of doing wrong, caught in a game\nWhere thoѕe that are alike are allowed to join the game, whoа…\n\nFree?"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Vapaa?",
+      "content": "Free, kuulisitkohan kuiskauksia, vapaan maailman\nJos multa kysyisit, mitä vapaus on, vastaisinkohan\n\nFree, kuka vapaa oisi\nAjattelemaan ja omana itsenään seisomaan, whoa…\nFree, peliin vangittuina aivan niin kuin muut\nJa ehtona on samankaltaisuus, whoa…\n\nJos hymyllesi sun, mmm… hetkeks antaudun, kuka oisinkaan?\nKen loistees mainosten, iskulauseiden tuntee vapauden\n\nFree, kuka vapaa oisi\nAjattelemaan ja omana itsenään seisomaan, whoa…\nFree, peliin vangittuina aivan niin kuin muut\nJa ehtona on samankaltaisuus, whoa…\n\nWhoa… kuka vapaa oisi\nAjattelemaan ja omana itsenään seisomaan, whoa…\nFree? Peliin vangittuina aivan niin kuin muut\nJa ehtona on samankaltaisuus, whoa…\n\nFree, kuka vapaa oisi\nAjattelemaan ja omana itsenään seisomaan, whoa…\nFree, peliin vangittuina aivan niin kuin muut\nJa ehtona on samankaltaisuuѕ, whoа…"
+    }
+  ],
+  "bpm": 106,
+  "tone": "C major",
+  "artistPeople": [
+    "Janne Engblom",
+    "Kim Engblom",
+    "Tina Krause",
+    "Tina Petersson"
+  ],
+  "backings": [
+    "Kari Ilmari Kuivalainen",
+    "Robinson"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Janne Engblom",
+    "Kim Engblom",
+    "Tina Krause"
+  ],
+  "conductor": "Olli Ahvenlahti",
+  "lyricists": [
+    "Stina Engblom"
+  ],
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Erkki Pohjanheimo",
+    "Ossi Runne"
+  ],
+  "jury": null,
+  "spokesperson": "Solveig Herlin"
+}

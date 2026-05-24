@@ -1,0 +1,79 @@
+{
+  "id": 28,
+  "country": "BY",
+  "artist": "Ivan",
+  "song": "Help You Fly",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/pM07r57QqGg",
+    "https://www.youtube-nocookie.com/embed/-13I_VF5d4k",
+    "https://www.youtube-nocookie.com/embed/2TN4qlUy8gE",
+    "https://www.youtube-nocookie.com/embed/7WzHg-RIw1M",
+    "https://www.youtube-nocookie.com/embed/gQ0JAvLF-MM",
+    "https://www.youtube-nocookie.com/embed/4sMTY2QOKgo"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Help You Fly",
+      "content": "I will help you learn how to fly, how to fly\n\nDo you remember when you were younger\nYou didn't worry for a day\nNow all the questions and no direction\nThey make our reasons insane\n\nIt's time you released yourself\nBefore you can let go\n\nI will help you learn how to fly, how to fly\nFree, leave all the madness behind, far behind\n\nYou feel like you are the poison\nIt's time to heal you from the pain\nI know that you've been the hunted\nI want to free you again\n\nIt's time you released yourself\nBefore you can let go\n\nI will help you learn how to fly, how to fly\nFree, leave all the madness behind, far behind\n\nIf I can fly then you can\nIf I can fly then you can fly\nIf I can fly then you can fly\nIf I can fly (If I can fly)\nIf I can fly\n\nI will help you learn how to fly, how to fly\nFree, leave all the madnesѕ behind, fаr behind\nAll behind"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Помочь тебе летать",
+      "content": "Я помогу тебе научиться летать, научится летать\n\nПомнишь когда ты был младше\nТы был беззаботным каждый день\nСейчас же одни сплошные вопросы и ни намёка на ответ\nОни сводят нас с ума\n\nНастала пара освободиться\nА перед этим, дерзай\n\nЯ помогу тебе научиться летать, научится летать\nСвободны, оставь всё безумие позади, далеко позади\n\nТы чувствуешь словно яд себе самому\nПора излечить тебя от боли\nЗнаю, тебя преследует мрак\nЯ хочу освободить тебя вновь\n\nНастала пара освободиться\nА перед этим, дерзай\n\nЯ помогу тебе научиться летать, научится летать\nСвободны, оставь всё безумие позади, далеко позади\n\nЕсли я могу летать, то и ты можешь\nЕсли я могу летать, то и ты можешь летать\nЕсли я могу летать, то и ты можешь летать\nЕсли я могу летать (Если я могу летать)\nЕсли я могу летать\n\nЯ помогу тебе научиться летать, научится летать\nСвободны, оставь всё безумие позади, далеко позади\nВсё позади"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Ajudar Você A Voar",
+      "content": "Eu vou te ajudar a aprender a voar, a voar\n\nVocê se lembra de quando era mais jovem?\nVocê não se preocupava por um dia sequer\nAgora, são tantas perguntas e nenhuma direção\nEles enlouquecem nossas razões\n\nÉ hora de você se libertar\nAntes que possa deixar tudo para trás\n\nEu vou te ajudar a aprender a voar, a voar\nLivre, deixar toda a loucura para trás, bem para trás\n\nVocê sente como se tivesse ingerido veneno\nÉ hora de te curar da dor\nEu sei que você foi a presa\nEu quero te libertar de novo\n\nÉ hora de você se libertar\nAntes que possa deixar tudo para trás\n\nEu vou te ajudar a aprender a voar, a voar\nLivre, deixar toda a loucura para trás, bem para trás\n\nSe eu posso voar, então você pode\nSe eu posso voar, então você pode voar\nSe eu posso voar, então você pode voar\nSe eu posso voar (Se eu posso voar)\nSe eu posso voar\n\nEu vou te ajudar a aprender a voar, a voar\nLivre, deixar toda a loucura para trás\nBem parа tráѕ"
+    }
+  ],
+  "bpm": 93,
+  "tone": "D minor",
+  "artistPeople": [
+    "Alexander Ivanov (Алякса́ндр Івано́ў)"
+  ],
+  "backings": [
+    "Anna Linnéa Isbäck",
+    "Herman Gardarfve",
+    "Jimmy Claeson",
+    "Ksenia Pavroz",
+    "Melanie My Rosas"
+  ],
+  "dancers": null,
+  "stageDirector": "Viktor Drobysh",
+  "composers": [
+    "Viktor Drobysh"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Alexander Ivanov",
+    "Mary Susan Applegate",
+    "Timofei Leontiev"
+  ],
+  "writers": null,
+  "broadcaster": "BTRC",
+  "commentators": [
+    "Evgeny Perlin"
+  ],
+  "jury": [
+    "Alexander Kapyonkin",
+    "Gennady Markevich",
+    "Olga Drozdova",
+    "Olga Plotnikova",
+    "Teo"
+  ],
+  "spokesperson": "Uzari"
+}

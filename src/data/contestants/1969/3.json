@@ -1,0 +1,74 @@
+{
+  "id": 3,
+  "country": "FR",
+  "artist": "Frida Boccara",
+  "song": "Un jour, un enfant",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/27YMkBlba68",
+    "https://www.youtube-nocookie.com/embed/xVzmGk6letg",
+    "https://www.youtube-nocookie.com/embed/qgosEo1AQmc",
+    "https://www.youtube-nocookie.com/embed/M04_fQDRRDw",
+    "https://www.youtube-nocookie.com/embed/n7yCrrI_pVY",
+    "https://www.youtube-nocookie.com/embed/dHAVYABUlU8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Un jour, un enfant",
+      "content": "Un jour se lèvera sur trois branches de lilas\nQu'un enfant regardera comme un livre d'images\nLe monde autour de lui sera vide, et c'est ainsi\nQu'il inventera la vie à sa première page:\n\nEn dessinant la forme d'une orange\nIl donnera au ciel son premier soleil\nEn dessinant l'oiseau, il inventera la fleur\nEn cherchant le bruit de l'eau, il entendra le cri du cœur\n\nEn dessinant les branches d'une étoile\nIl trouvera, l'enfant, le chemin des grands\nDes grands qui ont gardé un regard émerveillé\nPour les fruits de chaque jour et pour les roseѕ de l'аmour"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "indonesian"
+      ],
+      "displayedLanguages": null,
+      "title": "Suatu hari, seorang anak",
+      "content": "Suatu hari akan menyingsing di atas tiga cabang bunga seruni ungu muda\nAnak itu akan mengamatinya seperti buku bergambar\nDunia di sekitarnya akan kosong, dan seperti ini\nBahwa ia akan menciptakan kehidupan di halaman pertamanya:\n\nMenggambar bentuk sebuah jeruk\nIa akan memberi langit matahari pertamanya\nMenggambar burung, ia akan menciptakan bunga\nMencari suara air, ia akan mendengar tangisan hati\n\nMenggambar sinar bintang\nAnak itu akan menemukan jalan orang dewasa\nOrang dewasa yang menyimpan tatapan mengejutkan\nUntuk buah-buahan ѕehari-hari dan untuk mawar cintа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": null,
+      "title": "Μία μέρα, ένα παιδί",
+      "content": "Μία μέρα θα ξημερώσει πάνω σε τρία κλαδιά πασχαλιάς\nΠου ένα παιδί θα δει σαν ένα εικονογραφημένο βιβλίο\nΟ κόσμος γύρω του θα είναι άδειος, και είναι κάπως έτσι\nΌτι θα εφεύρει ζωή στην πρώτη του σελίδα:\n\nΖωγραφίζοντας ένα σχήμα ενός πορτοκαλιού\nΘα δώσει στον ουρανό τον πρώτο του ήλιο\nΖωγραφίζοντας το πουλί, θα εφεύρει το λουλούδι\nΑναζητώντας τον ήχο του νερού, θα ακούσει την εγκάρδια κραυγή\n\nΖωγραφίζοντας τις αχτίδες ενός αστεριού\nΤο παιδί θα βρει τον δρόμο των μεγάλων\nΜεγάλοι που κράτησαν μια έκπληκτη εμφάνιση\nΓια τα καθημερινά φρούτα και για τα τριαντάφυλλα της αγάπης"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "A day, a child",
+      "content": "A day will dawn upon three branches of lilac\nThat a child will watch like a picture book\nThe world around him will be empty, and it's like this\nThat he'll invent life on his first page:\n\nDrawing the shape of an orange\nHe'll give the sky its first sun\nDrawing the bird, he'll invent the flower\nLooking for the sound of water, he'll hear the heartfelt cry\n\nDrawing the rays of a star\nThe child will find the road of grown-ups\nGrown-ups who kept a surprising look\nFor everyday fruit аnd for the roseѕ of love"
+    }
+  ],
+  "bpm": 170,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Frida Boccara"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Émile Stern"
+  ],
+  "conductor": "Franck Pourcel",
+  "lyricists": [
+    "Eddy Marnay"
+  ],
+  "writers": null,
+  "broadcaster": "ORTF",
+  "commentators": [
+    "Pierre Tchernia"
+  ],
+  "jury": null,
+  "spokesperson": "Jean-Claude Massoulier"
+}

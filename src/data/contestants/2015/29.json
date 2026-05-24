@@ -1,0 +1,67 @@
+{
+  "id": 29,
+  "country": "BY",
+  "artist": "Uzari & Maimuna",
+  "song": "Time",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/Cwjm1lRV4N4",
+    "https://www.youtube-nocookie.com/embed/M8ZADtaAvDA",
+    "https://www.youtube-nocookie.com/embed/jdUUNyisa5s",
+    "https://www.youtube-nocookie.com/embed/Vf9HXt2rhME",
+    "https://www.youtube-nocookie.com/embed/fhJjfaES94M"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Time",
+      "content": "Tell me where I belong\nI've been trying for so long\nBreaking out through the night\nMade me see the bright light\nNow I'm willing to fight\nAnd I know that time is on my side\n\nTime is like thunder ah-ah\nHear it like thunder ah-ah\nAll we've got are some days\nAnd I try not to waste\n\nTime is like thunder ah-ah\nBeating like thunder in our heads\nTime is like thunder ah-ah\nAh-ah ah-ah\n\nI don't wanna wait any longer\nI don't wanna wait any longer\nI don't wanna wait any longer\nI don't wanna wait any longer\n\nAt the end of your rope\nKeep on hoping against the hope\nOh-oh\nTime is fading away\nSo don't you lose a day\nWe can do what we say\n\nTime is like thunder\nNo more\nTime is like thunder\nI know, you know\nTime is like thunder\nI don't want to wait\n\nOoh, like thunder, like thunder\nYou know, I know\nDon't you lose a day\n\nTime is like thunder ah-ah\nHear it like thunder ah-ah\nAll we've got are some days\nAnd I try not to waste\n\nTime is like thunder ah-ah\nBeating like thunder\nTime iѕ like thunder ah-ah\nAh-ah ah-ah\n\nI don't wanna wait аny longer"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Время",
+      "content": "Скажи мне, где мое место\nЯ пытался его найти так долго\nСломлен в ночи\nПозволь мне увидеть свет\nЯ готов к бою\nИ я знаю, что время на моей стороне\n\nВремя, как гром а-а\nУслышь этот гром а-а\nВсе, что у нас есть - это несколько дней\nИ постарайся не тратить их впустую\n\nВремя, как гром а-а\nЗвучит, как гром в наших головах\nВремя, как гром а-а\nА-а, а-а\n\nЯ больше не могу ждать\nЯ больше не могу ждать\nЯ больше не могу ждать\nЯ больше не могу ждать\n\nВ конце нашего пути\nНам остается лишь надеется\nО-о\nВремя истекает\nНе теряй его\nЭто все, что можно сказать\n\nВремя, как гром\nБольше нет\nВремя, как гром\nЯ и ты знаем\nВремя, как гром\nЯ не могу ждать\n\nО-о, как гром, как гром\nЯ и ты знаем\nНе теряй время\n\nВремя, как гром а-а\nУслышь этот гром а-а\nВсе, что у нас есть - это несколько дней\nИ постарайся не тратить их впустую\n\nВремя, как гром а-а\nЗвучит, как гром в наших головах\nВремя, как гром а-а\nА-а, а-а\n\nЯ больше не могу ждать"
+    }
+  ],
+  "bpm": 130,
+  "tone": "F minor",
+  "artistPeople": [
+    "Maimuna Amadu Murasjko",
+    "Yuri Navrotsky (Юрый Наўроцкі)"
+  ],
+  "backings": [
+    "Artyom Akhmash",
+    "Denis Lis",
+    "Yuriy Seleznyov"
+  ],
+  "dancers": null,
+  "stageDirector": "Olga Shamrova",
+  "composers": [
+    "Yuri Navrotsky"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Maimuna",
+    "Svetlana Geraskova"
+  ],
+  "writers": null,
+  "broadcaster": "BTRC",
+  "commentators": [
+    "Evgeny Perlin"
+  ],
+  "jury": [
+    "Alexey Gross",
+    "Iskui Abalyan",
+    "Nataliya Marinova",
+    "Oksana Artushevskaya",
+    "Vitaly Karpanov"
+  ],
+  "spokesperson": "Teo"
+}

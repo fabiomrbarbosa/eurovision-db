@@ -1,0 +1,59 @@
+{
+  "id": 15,
+  "country": "FI",
+  "artist": "Riki Sorsa",
+  "song": "Reggae O.K.",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/uJgkzYWbee8",
+    "https://www.youtube-nocookie.com/embed/MEhFbP8zMkQ",
+    "https://www.youtube-nocookie.com/embed/o2DAvtjP6uE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "finnish"
+      ],
+      "displayedLanguages": null,
+      "title": "Reggae O.K.",
+      "content": "Täs on teille yksi juttu ehkä outo homma täällä\nReggae OK\nJa jos ei kaikille viel tuttu silti koko ajan päällä\nReggae OK\nNo niin rastat kun kundit kulmilla\nTätä biittiä pitää jo omanaan\n\nJa mätti joka sanoo kiitti mulle riitti\nReggae OK\nTää rytmi menee tajuntaan se soundi on kuin pommi\nReggae OK\nSen opit kyllä tosta vaan se tuttu on kuin rommi\nReggae OK\n\nJa jos kiinnostaa tää meno nyt\nNiin nauti siitä kunnes menetyt\nJa kohta säkin sanot tää biitti mulle kiitti\nReggae OK\nReggae OK, reggae\n\nTää rytmi menee tajuntaan se soundi on kuin pommi\nReggae OK\nSen opit kyllä tosta vaan se tuttu on kuin rommi\nReggae OK\n\nJa jos kiinnostaa tää meno nyt\nNiin nauti siitä kunnes läkähdyt\nJa kohta säkin ѕanot tää biitti mulle kiitti\nReggae OK, Reggae OK\nReggae OK, Reggаe OK\n\nOK?"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Reggae OK",
+      "content": "Here's something for you, maybe strange thing so far\nReggae OK\nAnd even if it's not familiar to everyone, it's playing all the time\nReggae OK\nBoth rastas and people all around the world\nConsider this beat to be their own\n\nAnd a jerk is the one who says thanks I've had enough\nReggae OK\nThe rhythm will entrance you, its sound is like a bomb\nReggae OK\nYou'll learn it easily, as it's as familiar as rhyme\nReggae OK\n\nAnd if you're interested in what's going on\nEnjoy it until you die\nAnd soon you'll say this beat is for me thanks\nReggae OK\nReggae OK, reggae\n\nThe rhythm will entrance you, its sound is like a bomb\nReggae OK\nYou'll learn it easily, as it's as familiar as rhyme\nReggae OK\n\nAnd if you're interested in what's going on\nSo enjoy it until you stifle\nAnd soon you'll say this beat is for me thankѕ\nReggae OK, Reggae OK\nReggae OK, Reggаe OK\n\nOK?"
+    }
+  ],
+  "bpm": 131,
+  "tone": "C major",
+  "artistPeople": [
+    "Esko Sorsa"
+  ],
+  "backings": [
+    "Heikki Hietanen",
+    "Jim Pembroke",
+    "Jukka Orma",
+    "Keimo Hirvonen",
+    "Risto Hankala"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jim Pembroke"
+  ],
+  "conductor": "Otto Donner",
+  "lyricists": [
+    "Olli Ojala"
+  ],
+  "writers": null,
+  "broadcaster": "YLE",
+  "commentators": [
+    "Ossi Runne"
+  ],
+  "jury": null,
+  "spokesperson": "Annemi Genetz"
+}

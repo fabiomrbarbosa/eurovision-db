@@ -1,0 +1,80 @@
+{
+  "id": 0,
+  "country": "FR",
+  "artist": "Marie Myriam",
+  "song": "L'Oiseau et l'Enfant",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/XQG8dtWClc8",
+    "https://www.youtube-nocookie.com/embed/mFpff2NY3VM",
+    "https://www.youtube-nocookie.com/embed/ih9_1SWSATw",
+    "https://www.youtube-nocookie.com/embed/8iN-LWFqU3I",
+    "https://www.youtube-nocookie.com/embed/qfDUUOf41GQ",
+    "https://www.youtube-nocookie.com/embed/1oXhZQyVrmw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "L'Oiseau et l'Enfant",
+      "content": "Comme un enfant aux yeux de lumière\nQui voit passer au loin les oiseaux\nComme l'oiseau bleu survolant la terre\nVois comme le monde… le monde est beau\n\nBeau, le bateau dansant sur les vagues\nIvre de vie, d'amour et de vent\nBelle, la chanson naissante des vagues\nAbandonnée au sable blanc\n\nBlanc, l'innocent, le sang du poète\nQui en chantant invente l'amour\nPour que la vie s'habille de fête\nEt que la nuit se change en jour\n\nJour d'une vie où l'aube se lève\nPour réveiller la ville aux yeux lourds\nOù les matins effeuillent les rêves\nPour nous donner un monde d'amour\n\nL'amour, c'est toi; l'amour, c'est moi\nL'oiseau, c'est toi; l'enfant, c'est moi\n\nMoi, je ne suis qu'une fille de l'ombre\nQui voit briller l'étoile du soir\nToi, mon étoile, qui tisses ma ronde\nViens allumer mon soleil noir\n\nNoirs, la misère, les hommes et la guerre\nQui croient tenir les rênes du temps\nPays d'amour n'a pas de frontière\nPour ceux qui ont un cœur d'enfant\n\nComme un enfant aux yeux de lumière\nQui voit passer au loin les oiseaux\nComme l'oiseau bleu survolant la terre\nNous trouverons ce monde d'amour\n\nL'amour, c'est toi; l'amour, c'est moi\nL'oiseau, c'est toi; l'enfant, c'est moi\n\nL'oiseau, c'est toi; l'enfant, c'est moi\nL'oiseau, c'est toi; l'enfаnt, c'eѕt moi"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "hebrew"
+      ],
+      "displayedLanguages": null,
+      "title": "הציפור והילד",
+      "content": "כמו ילד עם עיניים מאירות\nשרואה את הציפורים חולפות במרחק\nכמו ציפור כחולה שמרחפת מעל הארץ\nורואה כמה שהעולם… העולם יפה\n\nיפה הסירה המרקדת על הגלים\nפראית מחיים, אהבה ורוח\nיפה השיר שנולד מהגלים\nונותר על החול הלבן\n\nלבן, התמים, דמו של המשורר\nשבעודו משורר, ממציא את האהבה\nכי החיים מתחפשים לנשף\nוכך הלילה הופך ליום\n\nיום בחיים כשהשחר מפציע\nכדי להעיר את העיר טרוטת העיניים\nכשהבקרים אוספים את החלומות\nכדי להעניק לנו עולם של אהבה\n\nהאהבה זה אתה, האהבה זו אני\nהציפור זה אתה, הילד זו אני\n\nאני אינני אלא ילדת צללים\nשרואה כוכב מנצנץ בלילה\nאתה הכוכב שלי, שחג במעגל\nובא להאיר את השמש השחורה שלי\n\nשחורות הן האומללות, האנשים והמלחמה\nהמאמינות שהן מחזיקות את ממלכת הזמן\nלארץ האהבה אין גבול\nלמי שיש לב של ילד\n\nכמו ילד עם עיניים מאירות\nשרואה את הציפורים חולפות במרחק\nכמו ציפור כחולה שמרחפת מעל הארץ\nאנחנו מוצאים עולם של אהבה\n\nהאהבה זה אתה, האהבה זו אני\nהציפור זה אתה, הילד זו אני\n\nהציפור זה אתה, הילד זו אני\nהציפור זה אתה, הילד זו אני"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "greek"
+      ],
+      "displayedLanguages": null,
+      "title": "Το Πουλί και το Παιδί",
+      "content": "Σαν το παιδί με μάτια γεμάτα φως\nΠου βλέπει να περνούν μακριά τα πουλιά\nΣαν το μπλε πουλί που πετά πάνω απ' τη Γη\nΒλέπεις πως ο κόσμος… ο κόσμος είναι όμορφος\n\nΌμορφη, η βάρκα που χορεύει στα κύματα\nΤρελή απ' τη ζωή, την αγάπη και τον άνεμο\nΌμορφο, το τραγούδι γεννημένο στα κύματα\nΑφημένο στη λευκή άμμο\n\nΛευκό το αθώο, το αίμα του ποιητή\nΠου τραγουδώντας εφεύρει την αγάπη\nΓια να ντύνεται η ζωή γιορτινά\nΚαι για να γίνεται η νύχτα μέρα\n\nΜέρα μιας ζωής καθώς βγαίνει η αυγή\nΓια να ξυπνήσει τη πόλη με βαριά μάτια\nΌπου τα πρωινά μαζεύουν τα όνειρα\nΓια να μας δώσουν ένα κόσμο αγάπης\n\nΗ αγάπη είσαι εσύ, η αγάπη είμαι εγώ\nΤο παιδί είσαι εσύ, το πουλί είμαι εγώ\n\nΕγώ, δεν είναι παρά ένα κορίτσι της σκιάς\nΠου βλέπει να φωτίζει τ' άστρο του βραδιού\nΕσύ, το άστρο μου, που σχηματίζεις ένα κύκλο\nΈλα ν΄ανάψεις τον μαύρο μου τον ήλιο\n\nΜαύρη, η μιζέρια, οι άντρες και ο πόλεμος\nΠου πιστεύουν πως κρατούν τα ηνία του καιρού\nΗ χώρα της αγάπης δεν έχει σύνορα\nΓι' αυτούς που έχουν τη καρδιά ενός παιδιού\n\nΣαν το παιδί με μάτια γεμάτα φως\nΠου βλέπει να περνούν μακριά τα πουλιά\nΣαν το μπλε πουλί που πετά πάνω απ' τη Γη\nΘα βρούμε αυτόν τον κόσμο της αγάπης\n\nΗ αγάπη είσαι εσύ, η αγάπη είμαι εγώ\nΤο παιδί είσαι εσύ, το πουλί είμαι εγώ\n\nΤο πουλί είσαι εσύ, το παιδί είμαι εγώ\nΤο πουλί είσαι εσύ, το παιδί είμαι εγώ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The bird and the child",
+      "content": "Like a child with eyes full of light\nThat sees the birds passing by in the distance\nLike the blue bird flying over the earth\nSee how the world… the world is beautiful\n\nBeautiful is the boat, dancing on the waves\nWild of life, love and wind\nBeautiful is the song, coming from the waves\nAbandoned to the white sand\n\nWhite is the innocent, the blood from the poet\nWho invents love by singing\nSo that life gets dressed in party\nAnd so that night changes to day\n\nDay from a life when dawn breaks\nTo wake up the town with heavy eyes\nWhen mornings gather the dreams\nTo give us a world of love\n\nLove, it's you; love, it's me\nThe bird, it's you; the child, it's me\n\nI'm just a girl of the shade\nThat sees the evening star shining\nYou, my star that forms a circle\nCome to light my dark sun\n\nDark are the misery, the men and the war\nWhich believe that they hold the time's reins\nThe country of love doesn't have a border\nFor the ones who have a child's heart\n\nLike a child with eyes full of light\nThat sees the birds passing by in the distance\nLike the blue bird flying over the eаrth\nWe will find this world of love\n\nLove, it's you; love, it's me\nThe bird, it's you; the child, it's me\n\nThe bird, it's you; the child, it's me\nThe bird, it's you; the child, it'ѕ me"
+    }
+  ],
+  "bpm": 125,
+  "tone": "C minor",
+  "artistPeople": [
+    "Myriam Lopes"
+  ],
+  "backings": [
+    "Dominique Poulain",
+    "Francine Chantereau",
+    "Georges Costa",
+    "Jean-Claude Briodin",
+    "Michel Costa"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jean-Paul Cara"
+  ],
+  "conductor": "Raymond Donnez",
+  "lyricists": [
+    "Joe Gracy"
+  ],
+  "writers": null,
+  "broadcaster": "TF1",
+  "commentators": [
+    "Georges de Caunes"
+  ],
+  "jury": null,
+  "spokesperson": "Michel Drucker"
+}

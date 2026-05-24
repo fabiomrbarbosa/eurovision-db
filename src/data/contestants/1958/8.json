@@ -1,0 +1,51 @@
+{
+  "id": 8,
+  "country": "NL",
+  "artist": "Corry Brokken",
+  "song": "Heel de wereld",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/jbrqR2E8WUk",
+    "https://www.youtube-nocookie.com/embed/p4d5WIIV1HY",
+    "https://www.youtube-nocookie.com/embed/8iZf7LYiIAg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "dutch"
+      ],
+      "displayedLanguages": null,
+      "title": "Heel de wereld",
+      "content": "Heel de wereld moet ik m'n geheim vertellen\nOmdat ik gelukkig ben\nHeel de wereld gaat voor mij nu dubbel tellen\nOmdat ik 't geluk nu ken\n\nMaar heeft deze wereld het niet te druk?\nWie heeft er nog tijd voor geluk?\nToch wil ik juichen want\nHeel de wereld moet ik m'n geheim vertellen\nOmdat ik gelukkig ben\n\nZal ik via kaarten kennis geven?\nZal ik adverteren in de krant?\nHoe ik het vertel iѕ mij om 't even\nMaar het moet door 't land\n\nMaar heeft deze wereld het niet te druk?\nWie heeft er nog tijd voor geluk?\nToch wil ik juichen want\nHeel de wereld moet ik m'n geheim vertellen\nOmdаt ik gelukkig ben"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The whole world",
+      "content": "I must tell my secret to the whole world\nBecause I'm happy\nThe whole world is now twice as important to me\nBecause now I know what happiness is\n\nBut isn't this world too busy?\nWho still has time for happiness?\nYet I want to cheer because\nI must tell my secret to the whole world\nBecause I'm happy\n\nShall I write cards to let everyone know?\nShall I advertise in the paper?\nIt doesn't matter for me how I tell it\nBut it must be known throughout the country\n\nBut isn't this world too busy?\nWho still has time for happiness?\nYet I want to cheer because\nI must tell my secret to the whole world\nBecauѕe I'm hаppy"
+    }
+  ],
+  "bpm": 164,
+  "tone": "Ab major",
+  "artistPeople": [
+    "Corry Brokken"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Dolf van der Linden",
+  "lyricists": null,
+  "writers": [
+    "Benny Vreden"
+  ],
+  "broadcaster": "NTS",
+  "commentators": [
+    "Siebe van der Zee"
+  ],
+  "jury": null,
+  "spokesperson": "Piet te Nuyl Jr."
+}

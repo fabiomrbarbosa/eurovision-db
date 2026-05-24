@@ -1,0 +1,73 @@
+{
+  "id": 5,
+  "country": "IT",
+  "artist": "Nunzio Gallo",
+  "song": "Corde della mia chitarra",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/uUPzp2XJIyo",
+    "https://www.youtube-nocookie.com/embed/fZC25hJw7Ao",
+    "https://www.youtube-nocookie.com/embed/DcjKQCKVYOw"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "italian"
+      ],
+      "displayedLanguages": null,
+      "title": "Corde della mia chitarra",
+      "content": "È tornata\nL'hanno accolta le stesse cose\nL'hanno attesa le stesse rose\nDolce sogno dagli occhi verdi\nÈ tornata ma è troppo tardi\nTroppo tardi per chi aspettò\n\nCorde della mia chitarra\nSe la mano trema sull'accordo\nSe la musica si perde\nNell'indifferenza di uno sguardo\n\nCorde della mia chitarra\nPerché vi fermate, perché non suonate?\nVoi sole per me\nAh, com'era dolce questa musica\nAh, e come adesso sembra inutile\nSe non ci ascolterà, non vi fermate\nCorde della mia chitarra\nSuonate per me\n\nCorde della mia chitarra\nPerché vi fermate, perché non suonate?\nVoi sole per me\nAh, com'era dolce questa musica\nAh, e come adesso sembra inutile\nSe non ci ascolterà, non vi fermate\nCorde della mia chitarra\nSuonate per me\n\nSuonate, ѕuonate\nCorde della mia chitarrа"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Strings of my guitar",
+      "content": "She's back\nThe same things welcomed her\nThe same roses welcomed her\nSweet green eyed dream\nShe's back, but it's too late\nToo late for the one who waited\n\nStrings of my guitar\nIf my hand is trembling on a chord\nIf music fades away\nIn the indifference of a glance\n\nStrings of my guitar\nWhy do you stop, why don't you play?\nOnly you, for me\nAh, how sweet this music was\nAh, and useless it seems now\nIf she won't listen to us, don't stop\nStrings of my guitar\nPlay for me\n\nStrings of my guitar\nWhy do you stop, why don't you play?\nOnly you, for me\nAh, how sweet this music was\nAh, and useless it seems now\nIf she won't listen to us, don't stop\nStrings of my guitar\nPlay for me\n\nPlay, play\nStringѕ of my guitаr"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "russian"
+      ],
+      "displayedLanguages": null,
+      "title": "Струны моей гитары",
+      "content": "Она вернулась\nТе же вещи встретили ее\nТе же розы ждали ее\nСладкий зеленоглазый сон\nОна вернулась, но слишком поздно\nСлишком поздно для тех, кто ждал\n\nСтруны моей гитары\nЕсли рука дрожит на аккорде\nЕсли музыка потеряна\nВ безразличии взгляда\n\nСтруны моей гитары\nПочему вы останавливаетесь, почему вы не играете?\nТы одна для меня\nАх, как сладка была эта музыка\nИ какой бесполезной она кажется теперь\nЕсли ты не хочешь слушать, не останавливайся\nСтруны моей гитары\nИграйте для меня\n\nСтруны моей гитары\nПочему вы останавливаетесь, почему вы не играете?\nТы одна для меня\nАх, как сладка была эта музыка\nИ какой бесполезной она кажется сейчас\nЕсли ты не хочешь слушать, не останавливайся\nСтруны моей гитары\nИграйте для меня\n\nИграйте, играйте\nСтруны моей гитары"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Cordas da minha guitarra",
+      "content": "Ela voltou\nFoi recebida pelas mesmas coisas\nFoi esperada pelas mesmas rosas\nDoce sonho de olhos verdes\nEla voltou, mas é tarde demais\nTarde demais para quem esperou\n\nCordas da minha guitarra\nSe a mão treme sobre o acorde\nSe a música se perde\nNa indiferença de um olhar\n\nCordas da minha guitarra\nPor que param, por que não tocam?\nSomente para mim\nAh, como era doce esta música\nAh, e como agora parece inútil\nSe ela não nos ouvirá, não parem\nCordas da minha guitarra\nToquem para mim\n\nCordas da minha guitarra\nPor que param, por que não tocam?\nSomente para mim\nAh, como era doce esta música\nAh, e como agora parece inútil\nSe ela não nos ouvirá, não parem\nCordas da minha guitarra\nToquem para mim\n\nToquem, toquem\nCordaѕ da minha guitarrа"
+    }
+  ],
+  "bpm": 132,
+  "tone": "C minor",
+  "artistPeople": [
+    "Nunzio Gallo"
+  ],
+  "backings": [
+    "Piero Gozio"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Mario Ruccione"
+  ],
+  "conductor": "Armando Trovajoli",
+  "lyricists": [
+    "Giuseppe Fiorelli"
+  ],
+  "writers": null,
+  "broadcaster": "RAI",
+  "commentators": [
+    "Bianca Maria Piccinino"
+  ],
+  "jury": null,
+  "spokesperson": "Nunzio Filogamo"
+}

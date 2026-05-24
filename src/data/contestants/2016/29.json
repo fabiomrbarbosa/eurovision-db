@@ -1,0 +1,59 @@
+{
+  "id": 29,
+  "country": "SM",
+  "artist": "Serhat",
+  "song": "I Didn't Know",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/HzPkDb2FSeg",
+    "https://www.youtube-nocookie.com/embed/KYKFKgwVbV4",
+    "https://www.youtube-nocookie.com/embed/Pj_BmGy-TV8",
+    "https://www.youtube-nocookie.com/embed/JpOVI7Hz7Lk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "I Didn't Know",
+      "content": "I want to stay with you tonight\nFar from every sight and every fear\nI got to be inside your mind\nAnd hide into your arms\n\nYou have to see this love is real\nCome along and live with my emotions\nFrom now on we'll make a deal\nTo feel everything we feel\n\nI want to slip upon your skin\nRun against the wind to reach your passion\nI lay my future in your hands\nWe'll dance under the stars\n\nI need you more and more each day\nI've got to say I'm addicted\nWe'll sail together through the skies\nYour eyes never told me lies\n\nI didn't know that I'm falling for you\nAnd my dreams could come true\nI didn't know that you're warm like the sun\nOur life has just begun\n\nI didn't know you're the one for me\nI thought I'd never find\nI didn't know that you wished for the moon\nTo provide me the light\n\nI didn't know that I'm falling for you\nAnd my dreams could come true\nI didn't know that you're warm like the sun\nOur life has just begun\n\nI didn't know that you freeze into time\nJust to make you mind\nI didn't know with every beat of your heart\nI'm melting into you\n\nI didn't know that I'm falling for you\nAnd my dreams could come true\nI didn't know that you're warm like the sun\nOur life hаs juѕt begun\n\nI didn't know you're the one for me\nI thought I'd never find\nI didn't know, I didn't know, I didn't know\n\nI didn't know"
+    }
+  ],
+  "bpm": 123,
+  "tone": "A major",
+  "artistPeople": [
+    "Ahmet Serhat Hacıpaşalıoğlu"
+  ],
+  "backings": [
+    "Caroline Hauwel",
+    "Ellia Palazzi",
+    "Emilie Weber",
+    "Jessica Fagniot",
+    "Ophelie Crispin"
+  ],
+  "dancers": null,
+  "stageDirector": "Thierry Mugler",
+  "composers": [
+    "Olcayto Ahmet Tuğsuz"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Nektarios Tyrakis"
+  ],
+  "writers": null,
+  "broadcaster": "SMRTV",
+  "commentators": [
+    "Gigi Restivo",
+    "John Kennedy O'Connor",
+    "Lia Fiorio"
+  ],
+  "jury": [
+    "Carlo Chiaruzzi",
+    "Edoardo Monti",
+    "Gea Gasperoni",
+    "Leonardo Bollini",
+    "Monica Moroni"
+  ],
+  "spokesperson": "Irol MC"
+}

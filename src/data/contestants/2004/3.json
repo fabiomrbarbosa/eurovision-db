@@ -1,0 +1,57 @@
+{
+  "id": 3,
+  "country": "TR",
+  "artist": "Athena",
+  "song": "For Real",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/pipamUl14A4",
+    "https://www.youtube-nocookie.com/embed/DzzRrd3F7GA",
+    "https://www.youtube-nocookie.com/embed/9jrdko7VlJA",
+    "https://www.youtube-nocookie.com/embed/H2bD50ALMeE"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "For Real",
+      "content": "Oh… come on up, come on up, come on up now\nWhat you doin', what you waitin' for?\nOh… it's time to push it, break it, rush it\nDon't ever let life pass you by\n\nAll I know is you don't want to be part of the crowd\nRealise yourself\n\nYou say it but don't feel it\nWhat you sayin' has no meanin'\nDon't hide your soul\nFor real, I'm for real\nCome on up\n\nI wanna bring you up\nI wanna bring you up\nI wanna bring you up\nI wanna bring you up\nDo you want? Do you want?\nUp, I wanna bring you up, up\nI wanna bring you up\n\nPlease, please, no questions, no answers\nNo more running around in circles\nAre you in? Are you out?\nDo you know your way out?\nLet me take you up in the sky\n\nFor real, I'm for real\nCome on up\n\nI wanna bring you up\nI wanna bring you up\nI wanna bring you up\nI wanna bring you up\nDo you want? Do you want?\nUp, I wanna bring you up, up\nI wanna bring you up\n\nI wanna bring you up\nI wanna bring you up\nI wanna bring you up\nI wanna bring you up\nDo you want? Do you want?\nUp, I wanna bring you up, up\nI wannа bring you…\n\nCome on, come on\nRisin' up now, riѕin' up now"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "turkish"
+      ],
+      "displayedLanguages": null,
+      "title": "İst",
+      "content": "Zehrin ikramı var o da başka of dahası var beter\nBedeninden fazlası gerek\nİsyan ne ki komik olma yeter\nYoksun yine ortalarda\nNasıl olucak? Nasıl olucak?\nYalandan güler miyiz var hergüne\nCan sıkar o başka\n\nAsılsızım kimi zaman burda\nİstanbul'da kafasını alsan yeter\nSeni senden alır gider\nKal burda İstanbul'da İstanbul'da\n\nMerhamet deli olmuş yatacak yeri yokmuş\nUtanmam bilmesem\nAnlayan var derim yalan olur\nGören var mı hiç zannetmem\nSoran bulur aklını yolun ha\nZerre kadar hatrı nolucak\nZaten kabul tanesi her biri\nSoranı bulun ne bilirim ben\n\nAsılsızım kimi zaman burda\nBazen olur öyle şeyler kulak asma\nİstanbul'da kafasını alsan yeter\nSeni senden alır gider\n\nKal burda İstanbul'da İstanbul'da\nAhh bir kafasıni alsan yeter\nSeni senden alır gider\nKal burda İstanbul'da İѕtanbul'dа"
+    }
+  ],
+  "bpm": 126,
+  "tone": "C minor",
+  "artistPeople": [
+    "Doğaç Titiz",
+    "Gökhan Özoğuz",
+    "Hakan Özoğuz",
+    "Ozan Musluoğlu"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Gökhan Özoğuz",
+    "Hakan Özoğuz"
+  ],
+  "broadcaster": "TRT",
+  "commentators": [
+    "Bülend Özveren",
+    "Didem Tolunay"
+  ],
+  "jury": null,
+  "spokesperson": "Meltem Ersan Yazgan"
+}

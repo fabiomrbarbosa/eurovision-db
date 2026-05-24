@@ -1,0 +1,57 @@
+{
+  "id": 1,
+  "country": "GB",
+  "artist": "The New Seekers",
+  "song": "Beg, Steal or Borrow",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/so2LUz73WS0",
+    "https://www.youtube-nocookie.com/embed/tP36ftaMXJk",
+    "https://www.youtube-nocookie.com/embed/V6TAhNFkitM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Beg, Steal or Borrow",
+      "content": "You know I'll beg, steal or borrow\nI'll bring you love\n\nI look at you (I look at you)\nAnd I see what I've been looking for (I'm looking for)\nNow it's very clear to me\nWe should be together\n\nYou make me feel (You make me feel)\nI could reach for the impossible\nAnd knowing how much you care\nI'll be there forever\n\nYou know I'll beg, steal or borrow\nTo give you sunny days\nAnd in a hundred ways\nI'll bring you love\n\nYou know I'll beg, steal or borrow (Yes, I will)\nTo make your garden grow\nAnd most of all you know\nI'll bring you love, love\n\nI always knew (I always knew)\nThat the world could be a finer place (A finer place)\nSo what if I have to wait?\nBetter late than never\n\nYou, you're like me (You're so like me)\n'Cause you believe love makes it all worthwhile (All worthwhile)\nAnd although we've just begun\nWe'll go on forever\n\nYou know I'll beg, steal or borrow\nTo give you sunny days\nAnd in a hundred ways\nI'll bring you love\n\nYou know I'll beg, steal or borrow\nTo make your garden grow\nAnd most of all you know\nI'll bring you love, yeah… love\n\nYou know I'll beg, steal or borrow\nTo give you sunny days\nAnd in a hundred wayѕ\nI'll bring you love, love, love, yeаh\nLove, love, love"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Suplicar, Robar o Pedir Prestado",
+      "content": "Sabes que suplicaré, robaré o pediré prestado\nTe traeré amor\n\nTe miro (te miro)\nY veo lo que he estado buscando (lo que estoy buscando)\nAhora está muy claro para mí\nDeberíamos estar juntos\n\nMe haces sentir (me haces sentir)\nQue podría alcanzar lo imposible\nY sabiendo cuánto te importa\nEstaré allí para siempre\n\nSabes que suplicaré, robaré o pediré prestado\nPara darte días soleados\nY de cien maneras\nTe traeré amor\n\nSabes que suplicaré, robaré o pediré prestado (Sí, lo haré)\nPara hacer crecer tu jardín\nY sobre todo sabes\nTe traeré amor, amor\n\nSiempre supe (siempre supe)\nQue el mundo podría ser un lugar mejor (un lugar mejor)\nEntonces, ¿qué importa si tengo que esperar?\nMejor tarde que nunca\n\nTú, eres como yo (eres tan como yo)\nPorque crees que el amor hace que todo valga la pena (que todo valga la pena)\nY aunque recién comenzamos\nSeguiremos para siempre\n\nSabes que suplicaré, robaré o pediré prestado\nPara darte días soleados\nY de cien maneras\nTe traeré amor\n\nSabes que suplicaré, robaré o pediré prestado\nPara hacer crecer tu jardín\nY sobre todo sabes\nTe traeré amor, sí… amor\n\nSabes que suplicaré, robaré o pediré prestado\nPara darte días soleados\nY de cien maneras\nTe traeré amor, amor, amor, ѕí\nAmor, amor, аmor"
+    }
+  ],
+  "bpm": 137,
+  "tone": "C major",
+  "artistPeople": [
+    "Evelyn May Beatson",
+    "Lynda Susan Belcher",
+    "Martin Vanags",
+    "Paul Layton",
+    "Peter Doyle"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "David McKay",
+  "lyricists": null,
+  "writers": [
+    "Graeme Hall",
+    "Steve Wolfe",
+    "Tony Cole"
+  ],
+  "broadcaster": "BBC",
+  "commentators": [
+    "Tom Fleming"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

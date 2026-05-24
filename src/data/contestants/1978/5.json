@@ -1,0 +1,60 @@
+{
+  "id": 5,
+  "country": "DE",
+  "artist": "Ireen Sheer",
+  "song": "Feuer",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/WEZjOeBLu_Q",
+    "https://www.youtube-nocookie.com/embed/kHqEgMdEF10",
+    "https://www.youtube-nocookie.com/embed/dnUeP7oQqUU",
+    "https://www.youtube-nocookie.com/embed/IbyaUy7Qzk0"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Feuer",
+      "content": "Ich lass mich nie von den Männern dressieren\nHab ich geschworen\nWas sie auch reden, es macht mich nicht heiss\nIch lass sie schmoren\nDoch da kam einer, der sagte mir dann:\n\"Willst du denn leben als Rühr-mich-nicht-an?\"\n\"Denkst du denn nie daran?\"\n\nFeuer (Feuer)\nBrennt nicht nur im Kamin\nFeuer (Feuer)\nBrennt doch auch in mir drin\nUnd es wird heisser und heisser durch deine Liebe\n\nFeuer (Feuer)\nDem kann keiner entfliehn\nFeuer (Feuer)\nGibt dem Leben erst Sinn\nLauf nicht davon, wenn du fühlst, es ist da\nDu bist gar nicht in Gefahr\n\nWenn ich mir heut auch die Finger verbrenn\nEs tut mir gar nicht leid\nIst Feuer gefährlich?\nIch denke daran, mal bei Gelegenheit\nHeut will ich's wissen, es ist sonderbar\nMorgen werd ich nicht mehr sein, wie ich war\nUnd das machst du mir klar\n\nFeuer (Feuer)\nBrennt nicht nur im Kamin\nFeuer (Feuer)\nBrennt doch auch in mir drin\nUnd es wird heisser und heisser durch deine Liebe\n\nFeuer (Feuer)\nDem kann keiner entfliehn\nFeuer (Feuer)\nGibt dem Leben erst Sinn\nLauf nicht davon, wenn du fühlst, es ist da\nDu bist gar nicht in Gefahr\n\nFeuer (Feuer)\nDem kann keiner entfliehn\nFeuer (Feuer)\nGibt dem Leben erst Sinn\nLauf nicht davon, wenn du fühlst, es ist da\nDu biѕt gar nicht in Gefаhr\n(Feuer, Feuer, Feuer, Feuer)"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Fire",
+      "content": "I will never let myself be trained by the men\nThat's what I've sworn\nWhatever they say, it doesn't turn me on\nI let them wait\nBut once somebody came along telling me:\n\"Do you want to live as a touch-me-not?\"\n\"Do you never think about that?\"\n\nFire (Fire)\nDoesn't just burn in the fireplace\nFire (Fire)\nAlso burns inside of me\nAnd it's getting hotter and hotter through your love\n\nFire (Fire)\nThat no one can escape from\nFire (Fire)\nGives meaning to life\nDon't run away when you feel it's here\nYou're in no danger at all\n\nWhen I will burn my fingers today\nI won't be sorry about it at all\nIs fire dangerous?\nI will think about it, once, when it suits me\nI want to experience it today, it's strange\nTomorrow I won't be the same\nAnd that's what you make clear to me\n\nFire (Fire)\nDoesn't just burn in the fireplace\nFire (Fire)\nAlso burns inside of me\nAnd it's getting hotter and hotter through your love\n\nFire (Fire)\nThat no one can escape from\nFire (Fire)\nGives meaning to life\nDon't run away when you feel it's here\nYou're in no danger at all\n\nFire (Fire)\nThat no one can run away from\nFire (Fire)\nGives sense to your life\nDon't run away when you feel it'ѕ here\nYou're in no danger at аll\n(Fire, fire, fire, fire)"
+    }
+  ],
+  "bpm": 139,
+  "tone": "C minor",
+  "artistPeople": [
+    "Ireen Sheer"
+  ],
+  "backings": [
+    "Catherine Bonnevay",
+    "Dominique Poulain",
+    "Francine Chantereau",
+    "Georges Costa",
+    "Michel Costa"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jean Frankfurter"
+  ],
+  "conductor": "Jean Frankfurter",
+  "lyricists": [
+    "John Möring"
+  ],
+  "writers": null,
+  "broadcaster": "ARD",
+  "commentators": [
+    "Werner Veigel"
+  ],
+  "jury": null,
+  "spokesperson": "Sigi Harreis"
+}

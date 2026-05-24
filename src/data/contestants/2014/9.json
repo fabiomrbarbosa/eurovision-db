@@ -1,0 +1,65 @@
+{
+  "id": 9,
+  "country": "ES",
+  "artist": "Ruth Lorenzo",
+  "song": "Dancing in the rain",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/LY4n5FUlfDQ",
+    "https://www.youtube-nocookie.com/embed/P9R96ZoWJBU",
+    "https://www.youtube-nocookie.com/embed/_sUw6xOQ2uI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish",
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "",
+      "content": "Luz, yo quiero ver luz\nPoder pintar de color un nuevo amanecer\nVivir, amar, \nSentir y saber que \n\nHoy, puede que no salga el sol\nAunque llueva\nTú y yo sabremos bailar\nNadie nos puede parar\n\nWe're dancing in the rain\nDancing in the rain\n\nLife, gets you every time\nOpen up ,\nYou never know what you will find\nYou never know what waits inside\n\nSo, live\nLike you'll never stop\nTake this chance\nAnd give it everything you've got\nCome on and let the rhythm drop\n\nWe're dancing in the rain\nDancing in the rain\n\nKeep on like it's never ending\nKeep on till the light of day\nKeep on dancing in the rain\nThe rain, the rain\n\nDeja caer\nDeja la lluvia caer\nThe rain, the rain, the rain\n\nDeja caer\nDeja la lluvia caer\nThe rain, the rain, the rain\n\nThe Rain, the rain\n\nDancing \nDancing\nDancing \n\nDancing \n\nDeja caer\nDeja la lluvia caer\n\nAunque llueva y nos mojemos\nNo pararemoѕ de bailar\n\nKeep on dancing in the rain\nThe rain, the rаin"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "",
+      "content": "Light, I want to see light\nPaint the break of dawn\nLive, love\nFeel and know that\n\nToday, the sun may not rise\nBut even if it rains\nYou and I will dance\nNo one can stop us\n\nWe're dancing in the rain\nDancing in the rain\n\nLife, gets you every time\nOpen up ,\nYou never know what you will find\nYou never know what waits inside\n\nSo, live\nLike you'll never stop\nTake this chance\nAnd give it everything you've got\nCome on and let the rhythm drop\n\nWe're dancing in the rain\nDancing in the rain\n\nKeep on like it's never ending\nKeep on till the light of day\nKeep on dancing in the rain\nThe rain, the rain\n\nLet it come down\nLet the rain come down\nThe rain, the rain, the rain\n\nLet it come down\nLet the rain come down\nThe rain, the rain, the rain\n\nThe Rain, the rain\n\nDancing \nDancing\nDancing \n\nDancing \n\nLet it come down\nLet the rain come down\n\nEven if it rains and we get wet\nWe won't ѕtop dancing\n\nKeep on dancing in the rain\nThe rain, the rаin"
+    }
+  ],
+  "bpm": 130,
+  "tone": "C major",
+  "artistPeople": [
+    "Ruth Lorenzo Pascual"
+  ],
+  "backings": [
+    "Alana Sinkëy",
+    "Awinnie MyBaby",
+    "Mey Green",
+    "Sandra Borrego"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Jim Irvin",
+    "Julian Emery",
+    "Ruth Lorenzo"
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "José María Íñigo"
+  ],
+  "jury": [
+    "Damaris Abad",
+    "Francisco Rodríguez",
+    "Jorge González",
+    "Leticia Fuentes",
+    "Raúl Fuentes"
+  ],
+  "spokesperson": "Carolina Casado"
+}

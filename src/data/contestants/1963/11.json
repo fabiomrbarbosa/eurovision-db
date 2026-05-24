@@ -1,0 +1,52 @@
+{
+  "id": 11,
+  "country": "ES",
+  "artist": "José Guardiola",
+  "song": "Algo prodigioso",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/tu2zrI6esbU",
+    "https://www.youtube-nocookie.com/embed/-nEjjNrvJgI"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Algo prodigioso",
+      "content": "Alguien vela por el niño cuando se quedó dormido\nAlguien que un millón de estrellas puso sobre el infinito\nAlguien que a las golondrinas\nA lejanas tierras siempre guiará\nAlguien que al desesperado\nUn camino indica que le salvará\n\nEse algo prodigioso que a mi vida iluminó\nCon un sol maravilloso - la ternura de tu amor\nTú, sólo tú, que en mi vida eres rayo de luz\nTú, manantial de alegría, de calma y de paz\n\nEse algo prodigioso que a mi vida iluminó\nCon un sol maravilloso - la ternura de tu amor\nTú, sólo tú, que en mi vida eres rayo de luz\nTú, manantial de alegría, de calma y de paz\n\nAlguien vela por el niño cuando se quedo dormido\nAlguien que un millón de estrellаs puso ѕobre el infinto"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Something marvellous",
+      "content": "Someone who looks after the child when he fell asleep\nSomeone who puts a million stars in the infinity\nSomeone who will always guide\nThe swallows to faraway lands\nSomeone who shows to the desperate\nThe way that will save him\n\nThat something marvellous that lighted my life\nWith a wonderful sun - the tenderness of your love\nYou, only you, are a ray of light in my life\nYou, joy, calm and peace spring\n\nThat something marvellous that lighted my life\nWith a wonderful sun - the tenderness of your love\nYou, only you, are a ray of light in my life\nYou, joy, calm and peace spring\n\nSomeone looks after the child when he fell asleep\nSomeone that put a million stаrѕ on the infinity"
+    }
+  ],
+  "bpm": 163,
+  "tone": "G minor",
+  "artistPeople": [
+    "José Guardiola"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Fernando García Morcillo"
+  ],
+  "conductor": "Rafael de Ibarbia Serra",
+  "lyricists": [
+    "Camillo Murillo Janero"
+  ],
+  "writers": null,
+  "broadcaster": "TVE",
+  "commentators": [
+    "Federico Gallo"
+  ],
+  "jury": null,
+  "spokesperson": "Julio Rico"
+}

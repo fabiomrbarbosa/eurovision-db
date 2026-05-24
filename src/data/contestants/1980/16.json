@@ -1,0 +1,58 @@
+{
+  "id": 16,
+  "country": "BE",
+  "artist": "Telex",
+  "song": "Euro-vision",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/5zB6f3yIgwk",
+    "https://www.youtube-nocookie.com/embed/VNt5ZEPx-sc",
+    "https://www.youtube-nocookie.com/embed/5HEsHyHK_HY",
+    "https://www.youtube-nocookie.com/embed/v_lEwjOoFRA",
+    "https://www.youtube-nocookie.com/embed/d4wMCUXJ9pM"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "french"
+      ],
+      "displayedLanguages": null,
+      "title": "Euro-vision",
+      "content": "Beaux messieurs, belles dames\nMusique au programme\nChanteurs, à vos gammes\nQue le meilleur gagne\n\nLes frontières sont ouvertes\nQue déclarer si ce soir c'est la fête?\nLes vedettes sont inquiètes\nElles se maquillent\nFument une cigarette\nAvant d'aller sur la sellette\n\nEurovision, Eurovision, Eurovision\nEurovision, Eurovision, Eurovision\n\nVieille Europe acclame le pays qui gagne\nPuis verse une larme, c'est la fin du charme\n\nLes yeux du monde entier guettent, impatients\nLes flashs télévisés\nQui vont leur annoncer\nPar satellites et par câbles blindés\nCe qui se pаsse en leurs contrées\n\nEurovision, Eurovision, Eurovision\nEurovision, Eurovision, Eurovision\n\nEurovision, Eurovision, Euroviѕion"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Eurovision",
+      "content": "Beautiful ladies, beautiful gentlemen\nMusic on the programme\nSingers, get ready\nMay the best win\n\nThe borders are open\nWhat should I say if tonight is a party?\nThe stars are nervous\nThey do their make up\nSmoke a cigarette\nBefore going on stage\n\nEurovision, Eurovision, Eurovision\nEurovision, Eurovision, Eurovision\n\nOld Europe cheers the country that wins\nThen a tear, the spell is broken\n\nThe eyes of the whole world are waiting, impatiently\nFor news flashes\nThat are going to announce\nBy satellite and by shielded cables\nWhat's hаppening in their regions\n\nEurovision, Eurovision, Eurovision\nEurovision, Eurovision, Eurovision\n\nEurovision, Eurovision, Euroviѕion"
+    }
+  ],
+  "bpm": 137,
+  "tone": "D minor",
+  "artistPeople": [
+    "Dan Lacksman",
+    "Marc Moulin",
+    "Michel Moers"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Dan Lacksman",
+    "Marc Moulin",
+    "Michel Moers"
+  ],
+  "broadcaster": "RTBF",
+  "commentators": [
+    "Jacques Mercier",
+    "Luc Appermont"
+  ],
+  "jury": null,
+  "spokesperson": "Jacques Olivier"
+}

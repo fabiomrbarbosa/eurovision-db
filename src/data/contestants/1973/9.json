@@ -1,0 +1,59 @@
+{
+  "id": 9,
+  "country": "PT",
+  "artist": "Fernando Tordo",
+  "song": "Tourada",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/eMNIGliSArk",
+    "https://www.youtube-nocookie.com/embed/NioB6rdDMRs",
+    "https://www.youtube-nocookie.com/embed/Nbu4gZ298cY",
+    "https://www.youtube-nocookie.com/embed/3Is41ZFwdZ4",
+    "https://www.youtube-nocookie.com/embed/CQ6LQjlKjXk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "portuguese"
+      ],
+      "displayedLanguages": null,
+      "title": "Tourada",
+      "content": "Não importa sol ou sombra\nCamarotes ou barreiras\nToureamos ombro a ombro as feras\nNinguém nos leva ao engano\nToureamos mano a mano\nSó nos podem causar dano esperas\n\nEntram guizos, chocas e capotes\nE mantilhas pretas\nEntram espadas, chifres e derrotes\nE alguns poetas\nEntram bravos, cravos e dichotes\nPorque tudo mais são tretas\n\nEntram vacas depois dos forcados\nQue não pegam nada\nSoam brados e olés dos nabos\nQue não pagam nada\nE só ficam os peões de brega\nCuja profissão não pega\n\nCom bandarilhas de esperança\nAfugentamos a fera\nEstamos na praça da primavera\nNós vamos pegar o mundo\nPelos cornos da desgraça\nE fazermos da tristeza graça\n\nEntram velhas, doidas e turistas\nEntram excursões\nEntram benefícios e cronistas\nEntram aldrabões\nEntram marialvas e coristas\nEntram galifões de crista\n\nEntram cavaleiros à garupa\nDo seu heroísmo\nEntra aquela música maluca\nDo passodoblismo\nEntra a aficionada e a caduca\nMais o snobismo e cismo\n\nEntram empresários moralistas\nEntram frustrações\nEntram antiquários e fadistas\nE contradições\nE entra muito dólar, muita gente\nQue dá lucro aos milhões\n\nE diz o inteligente que acabaram as cançõeѕ\n\nLa la lа…"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Bullfight",
+      "content": "It doesn't matter, sun or shade\nCabins or barriers\nWe fight the beasts shoulder to shoulder\nNobody deceives us\nWe fight hand in hand\nOnly waiting can hurt us\n\nBells, cowbells and capes are coming in\nAnd black mantillas\nSwords, horns and derrotes are coming in\nAnd some poets\nBrave people, carnations and swear words are coming in\nBecause everything else is bullshit\n\nCows are coming in after the forcados\nWho don't catch at all\nShouts and olés of the idiots\nWho pay nothing are sounding\nAnd only the bullfighter's helpers are left\nWhose job doesn't fit\n\nWith hopeful banderillas\nWe keep off the beast\nWe're in the spring bullring\nWe're going to grab the world\nBy the horns of misfortune\nAnd let's make fun of sadness\n\nOld women, crazy women and tourists are coming in\nExcursions are coming in\nBenefits and columnists are coming in\nTricksters are coming in\nMarialvas and choristers are coming in\nCockies with combs are coming in\n\nKnights are coming in on the back\nOf their heroism\nThat crazy music is coming in\nCalled Paso Doble\nThe fan and the decrepit are coming in\nAnd also the snobbery and the daydreaming\n\nMoralistic business people are coming in\nFrustrations are coming in\nAntiquaries and fado singers are coming in\nAnd contradictions\nA lot of dollars are coming in, many people\nWho make a profit of millions\n\nAnd the intelligent man says that songѕ are over\n\nLa la lа…"
+    }
+  ],
+  "bpm": 98,
+  "tone": "A major",
+  "artistPeople": [
+    "Fernando Tordo"
+  ],
+  "backings": [
+    "Jaime Queimado",
+    "Luís Waddington",
+    "Vítor Mamede"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Fernando Tordo"
+  ],
+  "conductor": "Jorge Costa Pinto",
+  "lyricists": [
+    "José Carlos Ary dos Santos"
+  ],
+  "writers": null,
+  "broadcaster": "RTP",
+  "commentators": [
+    "Artur Agostinho"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

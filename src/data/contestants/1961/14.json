@@ -1,0 +1,48 @@
+{
+  "id": 14,
+  "country": "AT",
+  "artist": "Jimmy Makulis",
+  "song": "Sehnsucht",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/GYYr9pLQNOQ",
+    "https://www.youtube-nocookie.com/embed/0qos-tYgPhg"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "german"
+      ],
+      "displayedLanguages": null,
+      "title": "Sehnsucht",
+      "content": "Wenn du wieder kehrst zu mir zurück\nWenn du wieder kehrst zu mir, mein Glück\nWerden alle Märchen Wahrheit sein\nUnd ich bin für immer dein\n\nEs werden dir Glocken erklingen\nFür dich und für mich ganz allein\nDas Lied unserer Liebe singen\nUnd die Welt wird voller Seligkeit sein\n\nDarum denke daran\nBin ich auch fern von dir\nDenke daran, ich bin immer bei dir\n\nDenke daran, ich bin immer bei dir\n\nEs werden dir Glocken erklingen\nFür dich und für mich ganz allein\nDas Lied unserer Liebe singen\nUnd die Welt wird voller Seligkeit ѕein\n\nDarum denke daran\nBin ich auch fern von dir\nDenke daran, ich bin immer bei dir\n\nDenke daran, ich bin immer bei dir\n\nDenke darаn, ich bin immer bei dir"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Longing",
+      "content": "When you come back to me again\nWhen you come back to me again, my luck\nThen all fairy tales become true\nAnd I will always be yours\n\nThe bells will ring for you\nThey just sing for me and for you\nThe song of our love\nAnd the world will be full of longing\n\nSo think of it\nEven I'm far away from you\nThink of it, I will always be with you\n\nThink of it, I will always be with you\n\nThe bells will ring for you\nThey just sing for me and for you\nThe song of our love\nAnd the world will be full of longing\n\nSo think of it\nEven I'm far away from you\nThink of it, I will always be with you\n\nThink of it, I will always be with you\n\nThink of it, I will alwаyѕ be with you"
+    }
+  ],
+  "bpm": 148,
+  "tone": "C major",
+  "artistPeople": [
+    "Jimmy Makulis"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Franck Pourcel",
+  "lyricists": null,
+  "writers": [
+    "Leopold Andrejewitsch"
+  ],
+  "broadcaster": "ORF",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Emil Kollpacher"
+}

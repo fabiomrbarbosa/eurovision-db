@@ -1,0 +1,50 @@
+{
+  "id": 3,
+  "country": "GB",
+  "artist": "Clodagh Rodgers",
+  "song": "Jack in the Box",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/7IadDY3-sOM",
+    "https://www.youtube-nocookie.com/embed/87Gpn3wq5pc",
+    "https://www.youtube-nocookie.com/embed/Ppik9fWU7rg",
+    "https://www.youtube-nocookie.com/embed/JdsPOpvCdJ4"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Jack in the Box",
+      "content": "Stop - don't say you'll put me down\nLove - don't go away\nDrop - my feet back on the ground\nOpen your arms, let me stay\n\nHold me like you know you should\nDon't leave me on the shelf\nLike a doll you throw away\nSo sad and lonely all by myself\n\nI'm just your Jack-in-the-Box\nYou know whenever love knocks\nI'm gonna bounce up and down on my spring\nA toy you start when it stops\nI'm just your Jack-in-the-Box\nBecause for your love I'd do anything\n\nWho - just keeps my heart around?\nLoves - to pull the strings?\nYou - and when it's upside down\nLook at the way that it swings\n\nI can't help the way I feel\nIt's you and no one else\nComes the tune, but all too soon\nI'm just a doll put back on the shelf\n\nI'm just your Jack-in-the-Box\nYou know whenever love knocks\nI'm gonna bounce up and down on my spring\nA toy you start when it stops\nI'm just your Jack-in-the-Box\nBecause for your love I'd do anything\n\nLa la la la la la la…\nLa la la la la la la…\nLa la la la la la la la la la…\nLa la la la la la la…\nLa la la la la la la…\nLa la la la la la la la la la…\n\nHey, hear what I say\nYou'll find someday that I walked away from you\nSo say I've got to stay\nAnd from today it's love that's gonna break through\n\nI'm just your Jack-in-the-Box\nYou know whenever love knocks\nI'm gonna bounce up and down on my spring\nA toy you start when it stops\nI'm just your Jack-in-the-Box\nBecauѕe for your love I'd do аnything\n\nHey hey…"
+    }
+  ],
+  "bpm": 121,
+  "tone": "C major",
+  "artistPeople": [
+    "Clodagh Rodgers"
+  ],
+  "backings": [
+    "Barbara Moore",
+    "Betty Prescott",
+    "Lavinia Rodgers",
+    "Margo Quantrell"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "John Worsley"
+  ],
+  "conductor": "Johnny Arthey",
+  "lyricists": [
+    "David Myers"
+  ],
+  "writers": null,
+  "broadcaster": "BBC",
+  "commentators": [
+    "Dave Lee Travis"
+  ],
+  "jury": null,
+  "spokesperson": null
+}

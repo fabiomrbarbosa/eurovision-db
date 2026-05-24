@@ -1,0 +1,59 @@
+{
+  "id": 5,
+  "country": "DK",
+  "artist": "Anne-Cathrine Herdorf",
+  "song": "En lille melodi",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/8fvRYKSTNJM",
+    "https://www.youtube-nocookie.com/embed/h5YxMiDBtog",
+    "https://www.youtube-nocookie.com/embed/HLUl8TyxGXk",
+    "https://www.youtube-nocookie.com/embed/9iwbWA8Nl4Y"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "danish"
+      ],
+      "displayedLanguages": null,
+      "title": "En lille melodi",
+      "content": "Jorden er din og min\nUh... det sted vi holder af\nPas godt på den, det er en fælles sag\n\nDer skal mere til, end blot at si' vi ved\nPrøv engang med denne sang\n\nDet var en lille melodi\nVi synger her\nMen syng kun med og se så hvad der sker\nTil sammen ka' vi sikkert bli' det største kor\nEn sang kan bli' til mere end du tror\n\nLigegyldigt hvem vi er\nOg ligegyldigt hvor vi bor\nSå har vi alle lånt den samme jord\nUh yeah...\n\nMen husk alligevel\nDet starter altid med dig selv\nPrøv engang, uh... med denne sang\n\nDet var en lille melodi\nEt nemt refrain\nSom godt kan synges om og om, uh yeah... igen\nTil sammen ka' vi sikkert bli' det største kor\nEn sang kan bli' til mere end du tror\n\n<i style=\"color:#789\">Syng en sang og bli' alles ven\nLad os synge igen\nSyng en sang om en bedre jord\nDet hjælper mere, end du tror</i>\n\nDet var en lille melodi\nEt nemt refrain\nSom godt kan synges om og om, uh yeah... igen\nTil sammen ka' vi sikkert bli' det største kor\nEn ѕang kаn bli' til mere end du tror"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "A little tune",
+      "content": "The earth is yours and mine\nOoh... the place we love\nTake good care of it, that's a common matter\n\nIt takes more, than just saying we know\nTry with this song\n\nIt was a little tune\nWe sing here\nBut just sing along and see what happens\nTogether we could be the biggest choir\nA song can become more than you think\n\nNo matter who we are\nAnd no matter where we live\nWe've all borrowed the same earth\nOoh yeah...\n\nBut remember, still\nIt always starts with yourself\nTry once, ooh... with this song\n\nIt was a little tune\nAn easy refrain\nThat can be sung over and over, ooh yeah... again\nTogether we could be the biggest choir\nA song can become more than you think\n\n<i style=\"color:#789\">Sing a song and be everybody's friend\nLet us sing again\nSing a song about a better earth\nIt helps more than you think</i>\n\nIt was a little tune\nAn easy refrain\nThat can be sung over and over, ooh yeah... again\nTogether we could be the biggest choir\nA ѕong can become more thаn you think"
+    }
+  ],
+  "bpm": 134,
+  "tone": "F# minor",
+  "artistPeople": [
+    "Anders Tind",
+    "Anne-Cathrine Herdorf",
+    "Brian Thomsen",
+    "Carsten Kolster",
+    "Helge Engelbrecht",
+    "Peter Stub"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Helge Engelbrecht"
+  ],
+  "conductor": "Henrik Krogsgaard",
+  "lyricists": [
+    "Jacob Jonia"
+  ],
+  "writers": null,
+  "broadcaster": "DR",
+  "commentators": [
+    "Jørgen de Mylius"
+  ],
+  "jury": null,
+  "spokesperson": "Bent Henius"
+}

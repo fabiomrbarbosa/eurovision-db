@@ -1,0 +1,64 @@
+{
+  "id": 36,
+  "country": "AL",
+  "artist": "Eneda Tarifa",
+  "song": "Fairytale",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/jdT5EGcTjYw",
+    "https://www.youtube-nocookie.com/embed/je1ICZiKT4g",
+    "https://www.youtube-nocookie.com/embed/u6ySpdlWEdA",
+    "https://www.youtube-nocookie.com/embed/ONNJWW0rVIk",
+    "https://www.youtube-nocookie.com/embed/ixCwm_ExniA",
+    "https://www.youtube-nocookie.com/embed/pVBEzzDPl5U"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Fairytale",
+      "content": "This tale of love, larger than dreams\nIt may take a lifetime, to understand what it means\nSo many the tears, all the craziness and rage\nTale of love\nThe message is love can bring change\n\nCos it's you, only you\nYou I feel\nAnd I, oh I\nI know in my soul this is real\n\nAnd that's why I love you, oh-oh\nYes I love you, oh-oh\nAnd I'd fight for you, give my life for you\nMy heart\n\nBut comes a day when it's not enough\nWhat you have, and the time is up\nBut it's hard to turn a new page\nIn this tale, sweet tale of love\nYou will find peace in your heart that you crave\n\n(Oh-oh, oh-oh)\n\nAnd that's why I love you, oh-oh\nYes I love you, oh-oh\nAnd I'd fight for you, give my life for you\nMy heart\n\nAnd that's why I love you, oh-oh\nYeѕ I love you, oh-oh\nAnd I'd fight for you, give my life for you\nMy heart\nAnd I'd fight for you, give my life for you\nMy heаrt"
+    },
+    {
+      "type": 2,
+      "languages": [
+        "albanian"
+      ],
+      "displayedLanguages": null,
+      "title": "Përrallë",
+      "content": "Kjo përrallë e do\nNjë shpërblim\nNjë fund nga ato\nSiç vetëm unë e ti dimë\n\nMe shumë lot\nSe akoma ka shumë çmenduri\nMe shpirt dhe vetëm, vetëm dashuri\n\nOh ti je ajo ndjenjë\nQë unë kam besim\nEdhe frikën s'e ndjej\n\nUnë ndaj të dua\nUnë të dua\nEdhe vdes për ty e harroj për ty\nS'ka natë\n\nUnë ndaj të dua\nUnë të dua\nEdhe vdes për ty e harroj për ty\nS'ka natë\n\nVjen një kohë kur s'të mjafton\nAjo që ke, dhe përfundon\nVeten bosh ti e gjen\nDhe aty unë vij tek ty\nËshtë vendi ku shpirti im gjehet\n\nUnë ndaj të dua\nUnë të dua\nEdhe vdes për ty e harroj për ty\nS'ka natë\n\nUnë ndaj të dua\nUnë të dua\nEdhe vdeѕ për ty e harroj për ty\nS'ka nаtë"
+    }
+  ],
+  "bpm": 97,
+  "tone": "G minor",
+  "artistPeople": [
+    "Eneda Tarifa"
+  ],
+  "backings": [
+    "Ambra Devolli",
+    "Venera Lumani",
+    "Xhoni Jesku"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Olsa Toqi"
+  ],
+  "broadcaster": "RTSH",
+  "commentators": [
+    "Andri Xhahu"
+  ],
+  "jury": [
+    "Agim Doçi",
+    "Edison Misso",
+    "Flamur Shehu",
+    "Kejsi Tola",
+    "Nisida Tufa"
+  ],
+  "spokesperson": "Andri Xhahu"
+}

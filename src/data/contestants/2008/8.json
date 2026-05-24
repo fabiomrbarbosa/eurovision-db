@@ -1,0 +1,74 @@
+{
+  "id": 8,
+  "country": "IL",
+  "artist": "Boaz",
+  "song": "The Fire In Your Eyes",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/rkTOM4ySrmM",
+    "https://www.youtube-nocookie.com/embed/mM6LloqTipw",
+    "https://www.youtube-nocookie.com/embed/WfsN43-K3hU",
+    "https://www.youtube-nocookie.com/embed/7UOdO4yqq_k"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "hebrew",
+        "english"
+      ],
+      "displayedLanguages": [
+        "ke'ilu kan"
+      ],
+      "title": "The Fire In Your Eyes",
+      "content": "Nafshi meyachelet litfilat halev hacham\n\nZe kashe, ze kashe\nKshega'agu'a mul yareach\nKan lerega uvoreach\nAcharav rodef habechi\n\nZe kashe, ze kashe\nKshega'agu'a mul yareach\nKan lerega uvoreach\nAcharav rodef habechi\n\nLif'amim mevi haruach reach tov, mukar\nMelatef, achshav shome'a otcha shar\n\nLo or kochav\nAta achshav\nIti, iti, ke'ilu amiti\nKmo az mizman\n\nCome along, come along\nSee the fire in your eyes\nAnd you come with me\nWith me\n\nLif'amim mevi haruach reach tov, mukar\nMelatef, achshav shome'a\n\nLo or kochav\nAta achshav\nIti, iti, ke'ilu amiti\nKmo az mizman\n\nNafshi meyachalat litfilot halev wacham\nNafѕhi meyachalat litfilot halev wacham\n\nLo or kochav\nIti, iti, ke'ilu amiti\nKmo az mizmаn"
+    },
+    {
+      "type": 0,
+      "languages": [
+        "hebrew",
+        "english"
+      ],
+      "displayedLanguages": [
+        "כאילו כאן"
+      ],
+      "title": "כאילו כאן",
+      "content": "נפשי מייחלת לתפילת הלב החם\n\nזה קשה, זה קשה\nכשגעגוע מול ירח\nכאן לרגע ובורח\nאחריו רודף הבכי\n\nזה קשה, זה קשה\nכשגעגוע מול ירח\nכאן לרגע ובורח\nאחריו רודף הבכי\n\nלפעמים מביא הרוח ריח טוב, מוכר\nמלטף, עכשיו שומע אותך שר\n\nלא אור כוכב\nאתה עכשיו\nאיתי, איתי, כאילו אמיתי\nכמו אז מזמן\n\n\n\n\n\nלפעמים מביא הרוח ריח טוב מוכר\nמלטף, עכשיו שומע\n\nלא אור כוכב\nאתה עכשיו\nאיתי, איתי, כאילו אמיתי\nכמו אז מזמן\n\nנפשי מייחלת לתפילת הלב וואחם\nנפשי מייחלת לתפילת הלב וואחם\n\nלא אור כוכב\nאיתי, איתי, כאילו אמיתי\nכמו אז מזמן"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The Fire In Your Eyes",
+      "content": "My soul is longing for the warm heart's prayer\n\nIt is hard, it is hard\nWhen a longing by moonlight\nIs here for a moment and then flees\nThe tears go after it\n\nIt is hard, it is hard\nWhen a longing by moonlight\nIs here for a moment and then flees\nThe tears go after it\n\nSometimes the wind brings a good, familiar scent\nIt caresses, listens to you sing now\n\nNot starlight\nYou are now\nWith me, with me, as if real\nLike back then long ago\n\nCome along, come along\nSee the fire in your eyes\nAnd you come with me\nWith me\n\nSometimes the wind brings a good, familiar scent\nIt caresses, listens now\n\nNot starlight\nYou are now\nWith me, with me, as if real\nLike back then long ago\n\nMy soul is longing for the warm heart's prayer\nMy soul is longing for the warm heart's prayer\n\nNot starlight\nWith me, with me, aѕ if real\nLike back then long аgo"
+    }
+  ],
+  "bpm": 78,
+  "tone": "F# minor",
+  "artistPeople": [
+    "Boaz Mauda"
+  ],
+  "backings": [
+    "Adam Yosef",
+    "Ariel Zohar",
+    "Eran Mazor Hecht",
+    "Lior Ashkenazi",
+    "Zach Eshel"
+  ],
+  "dancers": null,
+  "stageDirector": "Doron Medalie",
+  "composers": [
+    "Dana International"
+  ],
+  "conductor": null,
+  "lyricists": [
+    "Dana International",
+    "Shai Kerem"
+  ],
+  "writers": null,
+  "broadcaster": "IBA",
+  "commentators": null,
+  "jury": null,
+  "spokesperson": "Noa Barak-Weshler"
+}

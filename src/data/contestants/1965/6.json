@@ -1,0 +1,52 @@
+{
+  "id": 6,
+  "country": "DK",
+  "artist": "Birgit Brüel",
+  "song": "For din skyld",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/8BQQF8u0K0k",
+    "https://www.youtube-nocookie.com/embed/USFkXookcMk"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "danish"
+      ],
+      "displayedLanguages": null,
+      "title": "For din skyld",
+      "content": "For din skyld bru'r jeg brusende skørter\nFor din skyld er jeg pigelig, sart og koket\nFor din skyld skal jeg hver gang erobres\nFor din drøm er at tæmme mig, svage og bly\nMens jeg tappert gør modstand\n\nHver gang skal det være som dengang\nHver gang jeg vil gi', vil du hellere ta'\nMen min drøm er at elske i venskab\nJeg er træt af min kvindelighed\nFor den bli'r du så bredskuldret af\nJeg syn's ikke om mænd, der er mænd\nMen om mænd, der er menn'sker\n\nFor din skyld er det slut med komedien\nFor din skyld er det tid at ta' maskerne af\nFor din skyld gør din elskede oprør\nJeg er ikke dit bytte, men ligemаnd\nMenn'ske, jeg si'r det for din skyld\n\nFor ellerѕ glider jeg"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "For your sake",
+      "content": "For your sake I wear rustling skirts\nFor your sake I'm girlish, sensitive and coy\nFor your sake I have to be conquered every time\nFor your dream is to tame me, weak and shy\nWhile I bravely resist\n\nEvery time, must be like then\nEvery time I give, you'd rather take\nBut my dream is to love in friendship\nI'm tired of my femininity\nFor it makes you so broad-shouldered\nI don't care for men, who are men\nBut for men, who are human\n\nFor your sake the comedy's over\nFor your sake it's time to take off the masks\nFor your sake your lover revolts\nI'm not your prey, but peer\nHuman, I say it for your sake\n\nFor otherwise I'll ѕlide awаy"
+    }
+  ],
+  "bpm": 172,
+  "tone": "C major",
+  "artistPeople": [
+    "Birgit Brüel"
+  ],
+  "backings": null,
+  "dancers": null,
+  "stageDirector": null,
+  "composers": [
+    "Jørgen Jersild"
+  ],
+  "conductor": "Arne Lamberth",
+  "lyricists": [
+    "Poul Henningsen"
+  ],
+  "writers": null,
+  "broadcaster": "DR",
+  "commentators": [
+    "Skat Nørrevig"
+  ],
+  "jury": null,
+  "spokesperson": "Claus Toksvig"
+}

@@ -1,0 +1,69 @@
+{
+  "id": 21,
+  "country": "ES",
+  "artist": "Miki",
+  "song": "La venda",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/lWXuohnM14U",
+    "https://www.youtube-nocookie.com/embed/vMBRFLBRStA",
+    "https://www.youtube-nocookie.com/embed/pEaS6atxFgc",
+    "https://www.youtube-nocookie.com/embed/1JLtDWvIXNY",
+    "https://www.youtube-nocookie.com/embed/noBOEHp2Xfc",
+    "https://www.youtube-nocookie.com/embed/TQS_t8ZfBi0",
+    "https://www.youtube-nocookie.com/embed/qG-JkzFf9j8"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "La venda",
+      "content": "Te compran porque te vendes\nTe vendes porque te sobras\nTe pierdes porque hay camino\nTe digo: hay otras cosas\nTe sales porque te quieres\nTe quieres, tu mente en forma\nTe eliges porque hay camino\nTe digo: hay otras cosas\n\nLa venda ya cayó y solo quedó la alegría\nLa venda ya cayó y empezaran nuevos días\nLa venda ya cayó avivando fantasías\nLa venda ya cayó y serás como querías\n\nTe rezas porque confías\nTe sientes que ya tenías\nTe vives, alto voltaje\nTe traje buenas noticias\nTe vales y ya no fuerzas\nTe vives y te interesas\nTe saltas, no quedan normas\nAhora, la vida loca\n\nLa venda ya cayó y solo quedó la alegría\nLa venda ya cayó y empezarán nuevos días\nLa venda ya cayó avivando fantasías\nLa venda ya cayó y serás como querías\n\nLo que ere, lo que ere, ere, e\nLo que ere, lo que ere, ere, e\nLo que ere, lo que ere, ere, e\nLo que ere, lo que ere, ere, e\nLo que ere, lo que ere, ere, e\nLo que ere, lo que ere, ere, e\n\nLa venda ya cayó y solo quedó la alegría\nLa venda ya cayó y empezaran nuevos días\nLa venda ya cayó avivando fantasías\nLa venda ya cayó y serás como queríаѕ"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "The Blindfold",
+      "content": "They buy you because you sell yourself\nYou sell yourself because you're more than enough for you\nYou get lost because there's a way\nI can tell you: there are other options\nYou do it so well because you love yourself\nYou love yourself and your sharp mind\nYou choose yourself because there's a way\nI can tell you: there are other options\n\nThe blindfold fell down and joy is the only thing left\nThe blindfold fell down and new days will now come\nThe blindfold fell down, fueling fantasies\nThe blindfold fell down and you'll be just like you wanted\n\nYou pray to yourself because you trust yourself\nYou feel like you already had it\nYou live in high voltage\nI brought you some good news\nYou are enough and you don't have to force it anymore\nYou live and you like yourself\nYou ignore the rules because there are no more\nNow, only the crazy life\n\nThe blindfold fell down and joy is the only thing left\nThe blindfold fell down and new days will now come\nThe blindfold fell down, fueling fantasies\nThe blindfold fell down and you'll be just like you wanted\n\nWhat you are, what you are, are, are\nWhat you are, what you are, are, are\nWhat you are, what you are, are, are\nWhat you are, what you are, are, are\nWhat you are, what you are, are, are\nWhat you are, what you are, are, are\n\nThe blindfold fell down and joy is the only thing left\nThe blindfold fell down and new days will now come\nThe blindfold fell down, fueling fantasies\nThe blindfold fell down and you'll be juѕt like you wаnted"
+    }
+  ],
+  "bpm": 74,
+  "tone": "Eb major",
+  "artistPeople": [
+    "Miguel Núñez Pozo"
+  ],
+  "backings": [
+    "Ernesto Santos",
+    "Fran Guerrero",
+    "Mikel"
+  ],
+  "dancers": [
+    "María Acosta Colubi",
+    "Mary Martínez"
+  ],
+  "stageDirector": "Fokas Evangelinos",
+  "composers": null,
+  "conductor": null,
+  "lyricists": null,
+  "writers": [
+    "Adrià Salas"
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "Julia Varela",
+    "Tony Aguilar"
+  ],
+  "jury": [
+    "David Feito",
+    "Elena Gómez",
+    "Raúl Gómez García",
+    "Ricky Merino",
+    "Sole Giménez"
+  ],
+  "spokesperson": "Nieves Álvarez"
+}

@@ -1,0 +1,57 @@
+{
+  "id": 11,
+  "country": "ES",
+  "artist": "Trigo Limpio",
+  "song": "Quédate esta noche",
+  "videoUrls": [
+    "https://www.youtube-nocookie.com/embed/SjfcjhM-DRg",
+    "https://www.youtube-nocookie.com/embed/AdAQ-d-Iqgk",
+    "https://www.youtube-nocookie.com/embed/k2gcuVl_x-I"
+  ],
+  "lyrics": [
+    {
+      "type": 0,
+      "languages": [
+        "spanish"
+      ],
+      "displayedLanguages": null,
+      "title": "Quédate esta noche",
+      "content": "Duérmete junto a mí esta noche\nQuédate junto a mí esta noche\nQuiéreme mucho a mí esta noche\nYo seré para ti esta noche\n\nDuérmete junto a mí esta noche\nQuédate junto a mí esta noche\nQuiéreme mucho a mí esta noche\nYo seré para ti esta noche\n\nSuelta las llaves y pon la maleta\nDe nuevo en su sitio otra vez\nPiensa que no hay que enfadarse\nY menos marcharse sin decir porqué\n\nVen a mis brazos y dime qué pasa\nQue quiero salvar nuestro amor\nSi acaso tal vez cometí una falta\nYo quiero pedirte perdón\n\nDuérmete junto a mí esta noche\nQuédate junto a mí esta noche\nQuiéreme mucho a mí esta noche\nYo seré para ti esta noche\n\nDeja tus cosas y ven\nQue ya hablaremos después\nY ahora quédate aquí\nQue te quiero decir cuánto te necesito, mi amor\n\nJuntos veremos los dos\nPor este gran ventanal\nLa mañana llegar y sentarse a tus pies\nCuando estés disfrutando, mi amor\n\nDuérmete junto a mí esta noche\nQuédate junto a mí esta noche\nQuiéreme mucho a mí esta noche\nYo seré para ti esta noche\n\nDuérmete junto a mí esta noche\nQuédate junto a mí esta noche\nQuiéreme mucho a mí esta noche\nYo seré para ti esta noche\n\nDuérmete junto a mí esta noche\nQuédate junto a mí esta noche\nQuiéreme mucho a mí esta noche\nYo seré para ti eѕtа noche"
+    },
+    {
+      "type": 1,
+      "languages": [
+        "english"
+      ],
+      "displayedLanguages": null,
+      "title": "Stay tonight",
+      "content": "Sleep beside me tonight\nStay beside me tonight\nLove me a lot tonight\nI'll be yours tonight\n\nSleep beside me tonight\nStay beside me tonight\nLove me a lot tonight\nI'll be yours tonight\n\nPut away the keys and put the suitcase\nBack in its place again\nThink you don't have to get angry\nAnd even less about leaving without saying why\n\nCome into my arms and tell me what happened\nI want to save our love\nIf perhaps maybe I made a mistake\nI want to say I'm sorry\n\nSleep beside me tonight\nStay beside me tonight\nLove me a lot tonight\nI'll be yours tonight\n\nLeave your things and come\nWe'll talk later\nAnd now stay here\nI want to tell you how much I need you, my love\n\nTogether we'll see\nThrough this large window\nThe morning coming and sitting down on your feet\nWhen you're enjoying, my love\n\nSleep beside me tonight\nStay beside me tonight\nLove me a lot tonight\nI'll be yours tonight\n\nSleep beside me tonight\nStay beside me tonight\nLove me a lot tonight\nI'll be yours tonight\n\nSleep beside me tonight\nStay beside me tonight\nLove me а lot tonight\nI'll be yourѕ tonight"
+    }
+  ],
+  "bpm": 128,
+  "tone": "E minor",
+  "artistPeople": [
+    "Iñaki de Pablo",
+    "Luis Carlos Gil",
+    "Patricia Fernández"
+  ],
+  "backings": [
+    "José María Guzmán",
+    "María Caneda",
+    "María Ovelar"
+  ],
+  "dancers": null,
+  "stageDirector": null,
+  "composers": null,
+  "conductor": "Javier Iturralde",
+  "lyricists": null,
+  "writers": [
+    "José Antonio Martin"
+  ],
+  "broadcaster": "TVE",
+  "commentators": [
+    "Miguel de los Santos"
+  ],
+  "jury": null,
+  "spokesperson": "Alfonso Lapeña"
+}
