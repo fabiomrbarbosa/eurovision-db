@@ -243,33 +243,39 @@ const semiRounds = contest.rounds
 						)}
 					</p>
 					{contest.contestants.length > 0 && (
-						<table class="results-table selected-acts">
-							<thead>
-								<tr>
-									<th>Country</th>
-									<th>Artist</th>
-									<th>Song</th>
-								</tr>
-							</thead>
-							<tbody>
-								{contest.contestants.map((c) => (
+						<div class="table-scroll">
+							<table class="results-table">
+								<thead>
 									<tr>
-										<td>
-											<a href={`/country/${c.country}/`} class="country-link">
+										<th>Country</th>
+										<th>Artist</th>
+										<th>Song</th>
+									</tr>
+								</thead>
+								<tbody>
+									{contest.contestants.map((c) => (
+										<tr>
+											<td>
 												<img
 													class="flag"
 													src={countryFlagUrl(c.country)}
 													alt=""
 												/>
-												{getCountryName(c.country, countries)}
-											</a>
-										</td>
-										<td>{c.artist}</td>
-										<td class="song-cell">{c.song}</td>
-									</tr>
-								))}
-							</tbody>
-						</table>
+												<a href={`/country/${c.country}/`} class="country-link">
+													{getCountryName(c.country, countries)}
+												</a>
+											</td>
+											<td>{c.artist}</td>
+											<td class="song-cell">
+												<a href={`/contest/${year}/song/${c.id + 1}/`}>
+													{c.song}
+												</a>
+											</td>
+										</tr>
+									))}
+								</tbody>
+							</table>
+						</div>
 					)}
 				</section>
 			) : (
@@ -396,7 +402,6 @@ const semiRounds = contest.rounds
 
 	/* ── Cancelled notice ──────────────────────────────────────── */
 	.cancelled-notice {
-		padding-block: 2rem 4rem;
 		display: flex;
 		flex-direction: column;
 		gap: 0.75rem;
@@ -412,8 +417,5 @@ const semiRounds = contest.rounds
 		color: var(--c-muted);
 		max-width: 60ch;
 		margin-bottom: 1rem;
-	}
-	.selected-acts {
-		opacity: 0.65;
 	}
 </style>

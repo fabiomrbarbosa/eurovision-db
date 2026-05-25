@@ -137,10 +137,8 @@ const hasJuryTele = year > 2015;
 
 const videoUrl = detail.videoUrls?.[0] ?? null;
 
-// Country song navigation: prev/next year this country appeared (skip cancelled)
-const countryHistory = getCountryHistory(detail.country).filter(
-	(a) => !a.cancelled,
-);
+// Country song navigation: prev/next year this country appeared
+const countryHistory = getCountryHistory(detail.country);
 const histIdx = countryHistory.findIndex(
 	(a) => a.year === year && a.contestantId === id,
 );
@@ -429,7 +427,7 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
 			margin-bottom: 1.5rem;
 			border-bottom: 1px solid var(--c-border);
 		}
-		@media (min-width: 900px) {
+		@media (min-width: 600px) {
 			.contestant-header {
 				flex-direction: row;
 			}
@@ -444,7 +442,6 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
 		.country-link {
 			display: inline-flex;
 			align-items: center;
-			gap: 0.3em;
 			color: var(--c-text);
 			font-weight: 500;
 			text-decoration: underline;
@@ -520,7 +517,6 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
 			display: grid;
 			grid-template-columns: 1fr;
 			gap: 3rem;
-			padding-bottom: 3rem;
 		}
 		@media (min-width: 900px) {
 			.contestant-body {
@@ -551,8 +547,7 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
 		}
 
 		/* ── Sections ─────────────────────────────────────────────── */
-		.section-lyrics {
-		}
+
 		.section-heading {
 			font-family: var(--f-mono);
 			font-size: 0.72rem;
@@ -598,6 +593,7 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
 
 		/* ── Votes section ───────────────────────────────────────── */
 		.votes-section {
+			padding-top: 3rem;
 			padding-bottom: 4rem;
 		}
 		.votes-section .section-heading {

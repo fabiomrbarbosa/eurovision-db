@@ -34,21 +34,19 @@
 	});
 </script>
 
-{#if rounds.length > 1}
-	<div class="tab-bar" role="tablist">
-		{#each rounds as round, i}
-			<button
-				role="tab"
-				aria-selected={active === i}
-				class="tab-btn"
-				class:active={active === i}
-				onclick={() => (active = i)}
-			>
-				{round.label}
-			</button>
-		{/each}
-	</div>
-{/if}
+<div class="tab-bar" role="tablist">
+	{#each rounds as round, i}
+		<button
+			role="tab"
+			aria-selected={active === i}
+			class="tab-btn"
+			class:active={active === i}
+			onclick={() => (active = i)}
+		>
+			{round.label}
+		</button>
+	{/each}
+</div>
 
 <div class="table-scroll">
 	<table class="votes-table">

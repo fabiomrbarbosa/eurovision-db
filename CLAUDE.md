@@ -173,8 +173,10 @@ official Eurovision website and museum catalogues.
 - Heart flag SVGs were downloaded from `https://www.eurovision.com/static/images/flags/flag_{code}.svg`
   using `npm run fetch:flags`. Defunct countries (Yugoslavia `yu`, Serbia & Montenegro `cs`) have SVGs.
   Wales (`gb-wls`) falls back to a flagcdn.com PNG as Eurovision.com doesn't carry it.
-- The global `.flag` rule sets `display: inline-block; height: 1.2em; vertical-align: -0.15em`
+- The global `.flag` rule sets `display: inline-block; height: 1.2em; vertical-align: -0.15em; margin-right: 0.3em`
   so flags sit inline with text without the parent `<a>` underline bleeding under them.
+- **Flags must always sit outside `<a>` tags in table cells** — flag inside the link causes
+  an underline under the blank space between the image and the text. Pattern: `<img class="flag" ...><a class="country-link">Name</a>`.
 
 ---
 
@@ -270,7 +272,10 @@ npm run build
   default sort: alphabetical by country name; flag sits outside the country name `<a>` link
   so the underline doesn't bleed under the blank space between flag and text
 - `contest/[year].astro` — full contest page: unified round tab group via ContestTabs;
-  contest logo capped at `max-height: 175px; max-width: 240px` with `height: auto; width: auto`
+  contest logo capped at `max-height: 175px; max-width: 240px` with `height: auto; width: auto`;
+  cancelled editions show a selected-acts table (full `.results-table` styling from `global.css`)
+  with song links to individual song pages (which do generate for cancelled years) and flags
+  outside the `<a>` tag; table wrapped in `.table-scroll`
 - `country/[code].astro` — country history; sortable columns; Run column removed (not useful
   per-country); DNQ and Cancelled both use `<span class="badge badge--magenta">`; "Active years"
   stat shows actual consecutive participation ranges (not a simple A–B span), deduped to handle
@@ -293,7 +298,9 @@ npm run build
   ScoreBreakdown hidden for years with no score data (e.g. 1956); place numbers render
   in full text colour (only the trophy 🏆 uses `--c-gold` for 1st place);
   both SF and Final tables wrapped in `.table-scroll` for mobile; song cells have no
-  `<em>` — `.song-cell a` is muted with underline (via global `td a` rule), turning cyan on hover
+  `<em>` — `.song-cell a` is muted with underline (via global `td a` rule), turning cyan on hover;
+  core table styles (`.results-table`, `.song-cell a`, `.country-link`) live in `global.css` —
+  do not re-declare them locally in Svelte components or Astro pages
 - ESC 2026 data — hand-crafted `src/data/contests/2026.json` with aggregate jury/tele
   totals; per-country vote breakdowns pending official API update; semi running order
   not yet available (shows `—`)
@@ -312,7 +319,7 @@ npm run build
   only generates static paths for songs that have a local detail file; URL id is 1-based
   (`contestantId + 1` in links; page subtracts 1 internally to load the JSON file);
   song nav below the header links to the same country's song in the previous/next year
-  it appeared, skipping cancelled editions (uses `getCountryHistory` filtered by `!cancelled`);
+  it appeared, including cancelled editions (cancelled ≠ country withdrew);
   typography: artist h1 uses `clamp(2rem, 5vw, 3rem)` (global min+slope, 3rem cap); song title
   uses exact global h2 values `clamp(1.4rem, 3vw, 2rem)` at `font-weight: 400` — subtitle reads
   lighter than heading (600) without introducing new scale numbers;
@@ -322,8 +329,8 @@ npm run build
   eyebrow links (country + edition) have dim underline at rest, full on hover;
   section headings use `--c-text` (white), not `--c-muted`;
   voting breakdown section after `.contestant-body`: `VoteTabs` island with per-round voter
-  tables; defaults to Grand Final tab; single-round songs (Big 5/host/pre-semi era) show no
-  tab bar; only rounds with `votes` data are included (pre-split years show Total only)
+  tables; defaults to Grand Final tab; tab bar always shown (even single-round songs) so the
+  round name is always visible; only rounds with `votes` data are included (pre-split years show Total only)
 - `LyricsTabs.svelte` — wrapping tab bar (flex-wrap) for original + translations + versions;
   tab label uses language name(s) (capitalised), type badge colour-coded gold/cyan/magenta;
   single-lyric songs skip the tab bar entirely; `\n\n` stanzas rendered as `<p>` with
@@ -337,9 +344,10 @@ npm run build
   `commentators`, `jury` etc.) with `toArr()` helper — API occasionally returns a bare string
   for single-value entries instead of a `string[]`
 - `VoteTabs.svelte` — per-song voter breakdown island used on `[id].astro`; accepts `rounds`
-  (label + voters array) and `hasJuryTele`; tab bar hidden when only one round; listens to
-  `vote-round` CustomEvent (dispatched by result pill clicks) to switch the active tab;
-  voter rows sorted by total descending; jury/tele columns only shown when `hasJuryTele`
+  (label + voters array) and `hasJuryTele`; tab bar always shown so the round name is visible
+  even for single-round songs; listens to `vote-round` CustomEvent (dispatched by result pill
+  clicks) to switch the active tab; voter rows sorted by total descending; jury/tele columns
+  only shown when `hasJuryTele`
 - `SearchModal.svelte` — modal backdrop uses plain navy overlay (`color-mix` 85%); no
   `backdrop-filter: blur()` (removed — amplified pre-existing gradient dithering in the
   background spheres by re-sampling the composited pixel buffer); ⌘K / Ctrl+K global
@@ -401,4 +409,4 @@ npm run build
 
 ---
 
-*Last updated: 2026-05-25 (session 9).*
+*Last updated: 2026-05-25 (session 10).*

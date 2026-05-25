@@ -550,41 +550,7 @@
 		margin-bottom: 1rem;
 	}
 
-	/* ── Table ──────────────────────────────────────────────────── */
-	.results-table {
-		width: 100%;
-		border-collapse: collapse;
-		font-size: 0.9rem;
-		margin-bottom: 2.5rem;
-	}
-	.results-table th {
-		font-family: var(--f-mono);
-		font-size: 0.68rem;
-		text-transform: uppercase;
-		letter-spacing: 0.08em;
-		color: var(--c-muted);
-		font-weight: 400;
-		padding: 0.6rem 0.75rem;
-		text-align: left;
-		border-bottom: 1px solid var(--c-border);
-		white-space: nowrap;
-	}
-	.results-table th.right {
-		text-align: right;
-	}
-	.results-table td {
-		padding: 0.6rem 0.75rem;
-		border-bottom: 1px solid
-			color-mix(in srgb, var(--c-border) 50%, transparent);
-		vertical-align: middle;
-	}
-	.results-table tr:hover td {
-		background: var(--c-surface);
-	}
-	.results-table .right {
-		text-align: right;
-	}
-
+	/* ── Table (base styles live in global.css) ─────────────────── */
 	.col-place {
 		width: 2.5rem;
 	}
@@ -601,13 +567,6 @@
 	.run-cell {
 		width: 2.5rem;
 	}
-	.song-cell a {
-		color: var(--c-muted);
-	}
-	.song-cell a:hover {
-		color: var(--c-link);
-	}
-
 	/* Grand Final winner row */
 	.row--winner td {
 		background: var(--c-surface-gold);
@@ -657,20 +616,6 @@
 	.pts--gold {
 		color: var(--c-gold);
 		font-weight: 500;
-	}
-
-	/* ── Links ──────────────────────────────────────────────────── */
-	.country-link {
-		font-weight: 500;
-		color: var(--c-text);
-	}
-	.country-link:hover {
-		color: var(--c-link);
-		text-decoration: none;
-	}
-	.flag {
-		font-family: sans-serif;
-		margin-right: 0.3em;
 	}
 
 	/* ── Breakdown ──────────────────────────────────────────────── */

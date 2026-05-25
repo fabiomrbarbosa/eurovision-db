@@ -144,6 +144,57 @@ img {
 	height: 1.2em;
 	width: auto;
 	vertical-align: -0.15em;
+	margin-right: 0.3em;
+}
+
+/* ── Country link ────────────────────────────────────────────── */
+.country-link {
+	font-weight: 500;
+	color: var(--c-text);
+}
+.country-link:hover {
+	color: var(--c-link);
+	text-decoration: none;
+}
+
+/* ── Results table ───────────────────────────────────────────── */
+.results-table {
+	width: 100%;
+	border-collapse: collapse;
+	font-size: 0.9rem;
+	margin-bottom: 2.5rem;
+}
+.results-table th {
+	font-family: var(--f-mono);
+	font-size: 0.68rem;
+	text-transform: uppercase;
+	letter-spacing: 0.08em;
+	color: var(--c-muted);
+	font-weight: 400;
+	padding: 0.6rem 0.75rem;
+	text-align: left;
+	border-bottom: 1px solid var(--c-border);
+	white-space: nowrap;
+}
+.results-table th.right {
+	text-align: right;
+}
+.results-table td {
+	padding: 0.6rem 0.75rem;
+	border-bottom: 1px solid color-mix(in srgb, var(--c-border) 50%, transparent);
+	vertical-align: middle;
+}
+.results-table tr:hover td {
+	background: var(--c-surface);
+}
+.results-table .right {
+	text-align: right;
+}
+.song-cell a {
+	color: var(--c-muted);
+}
+.song-cell a:hover {
+	color: var(--c-link);
 }
 
 /* ── Layout ─────────────────────────────────────────────────── */
