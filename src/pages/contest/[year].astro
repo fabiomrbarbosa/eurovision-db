@@ -210,7 +210,7 @@ const semiRounds = contest.rounds
 		<nav class="edition-nav">
 			{
 				prevYear ? (
-					<a href={`/contest/${prevYear}`} class="edition-nav-link">
+					<a href={`/contest/${prevYear}/`} class="edition-nav-link">
 						← ESC {prevYear}
 					</a>
 				) : (
@@ -219,7 +219,7 @@ const semiRounds = contest.rounds
 			}
 			{
 				nextYear ? (
-					<a href={`/contest/${nextYear}`} class="edition-nav-link">
+					<a href={`/contest/${nextYear}/`} class="edition-nav-link">
 						ESC {nextYear} →
 					</a>
 				) : (
@@ -255,7 +255,7 @@ const semiRounds = contest.rounds
 								{contest.contestants.map((c) => (
 									<tr>
 										<td>
-											<a href={`/country/${c.country}`} class="country-link">
+											<a href={`/country/${c.country}/`} class="country-link">
 												<img
 													class="flag"
 													src={countryFlagUrl(c.country)}

@@ -154,13 +154,13 @@ const [yearsLine1, yearsLine2] = splitForDisplay(ranges);
 										data-points={h.finalPoints ?? ""}
 									>
 										<td>
-											<a href={`/contest/${h.year}`} class="year-link mono">
+											<a href={`/contest/${h.year}/`} class="year-link mono">
 												{h.year}
 											</a>
 										</td>
 										<td>{h.artist}</td>
 										<td class="song-cell">
-											<a href={`/contest/${h.year}/song/${h.contestantId + 1}`}>
+											<a href={`/contest/${h.year}/song/${h.contestantId + 1}/`}>
 												{h.song}
 											</a>
 										</td>

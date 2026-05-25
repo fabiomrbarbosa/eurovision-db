@@ -54,7 +54,7 @@ const contests = getContestIndex()
 								data-entries={c.contestantCount}
 							>
 								<td>
-									<a href={`/contest/${c.year}`} class="year-link mono">
+									<a href={`/contest/${c.year}/`} class="year-link mono">
 										{c.year}
 									</a>
 								</td>
@@ -64,7 +64,7 @@ const contests = getContestIndex()
 										src={countryFlagUrl(c.countryCode)}
 										alt=""
 									/>
-									<a href={`/contest/${c.year}`} class="host-link">
+									<a href={`/contest/${c.year}/`} class="host-link">
 										{c.city}
 										<span class="muted">, {c.country}</span>
 									</a>
@@ -86,7 +86,7 @@ const contests = getContestIndex()
 												alt=""
 											/>
 											<a
-												href={`/country/${c.winner.country}`}
+												href={`/country/${c.winner.country}/`}
 												class="winner-country"
 											>
 												{c.winner.countryName}
@@ -102,7 +102,7 @@ const contests = getContestIndex()
 											<strong>{c.winner.artist}</strong>
 											{" · "}
 											<a
-												href={`/contest/${c.year}/song/${c.winner.contestantId + 1}`}
+												href={`/contest/${c.year}/song/${c.winner.contestantId + 1}/`}
 												class="song-link"
 											>
 												{c.winner.song}

@@ -92,7 +92,7 @@
 						flag: countryFlagUrl(code),
 						label: name,
 						sublabel: "",
-						href: `/country/${code}`,
+						href: `/country/${code}/`,
 					});
 				}
 			}
@@ -116,7 +116,7 @@
 						flag: countryFlagUrl(entry.country),
 						label: `${entry.year} · ${entry.city}`,
 						sublabel: countryName(entry.country),
-						href: `/contest/${entry.year}`,
+						href: `/contest/${entry.year}/`,
 					});
 					if (contestTitleMatch) continue; // title match → skip song scan for this edition
 				}
@@ -132,7 +132,7 @@
 							flag: countryFlagUrl(c.country),
 							label: `${c.artist} — ${c.song}`,
 							sublabel: `${countryName(c.country)} · ${entry.year}`,
-							href: `/contest/${entry.year}/song/${c.id + 1}`,
+							href: `/contest/${entry.year}/song/${c.id + 1}/`,
 						});
 					}
 				}

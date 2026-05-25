@@ -158,13 +158,13 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
 		<header class="contestant-header">
 			<div class="contestant-meta">
 				<div class="contestant-eyebrow">
-					<a href={`/country/${detail.country}`} class="country-link">
+					<a href={`/country/${detail.country}/`} class="country-link">
 						<img class="flag" src={countryFlagUrl(detail.country)} alt="" />{
 							countryName
 						}
 					</a>
 					<span class="muted">·</span>
-					<a href={`/contest/${year}`} class="edition-link muted"
+					<a href={`/contest/${year}/`} class="edition-link muted"
 						>Eurovision {year}</a
 					>
 				</div>
@@ -203,7 +203,7 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
 			{
 				prevEntry ? (
 					<a
-						href={`/contest/${prevEntry.year}/song/${prevEntry.contestantId + 1}`}
+						href={`/contest/${prevEntry.year}/song/${prevEntry.contestantId + 1}/`}
 						class="song-nav-link"
 					>
 						← {countryName} {prevEntry.year}
@@ -215,7 +215,7 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
 			{
 				nextEntry ? (
 					<a
-						href={`/contest/${nextEntry.year}/song/${nextEntry.contestantId + 1}`}
+						href={`/contest/${nextEntry.year}/song/${nextEntry.contestantId + 1}/`}
 						class="song-nav-link"
 					>
 						{countryName} {nextEntry.year} →

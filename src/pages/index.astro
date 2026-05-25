@@ -68,7 +68,7 @@ const hasData = recentWinners.length > 0;
 				<h2>Recent editions</h2>
 				<div class="winners-grid">
 					{recentWinners.map((e) => (
-						<a href={`/contest/${e.year}`} class="winner-card">
+						<a href={`/contest/${e.year}/`} class="winner-card">
 							<div class="card-top">
 								<span class="winner-year">
 									<img
@@ -104,10 +104,10 @@ const hasData = recentWinners.length > 0;
 					))}
 				</div>
 				<div class="cta-row">
-					<a href="/contests" class="link-all">
+					<a href="/contests/" class="link-all">
 						All contests →
 					</a>
-					<a href="/countries" class="link-all">
+					<a href="/countries/" class="link-all">
 						Browse by country →
 					</a>
 				</div>

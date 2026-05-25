@@ -326,7 +326,7 @@
 								</td>
 								<td class="run-cell mono muted">{r.running ?? "—"}</td>
 								<td>
-									<a href={`/country/${r.country}`} class="country-link">
+									<a href={`/country/${r.country}/`} class="country-link">
 										<img
 											class="flag"
 											src={countryFlagUrl(r.country)}
@@ -336,7 +336,7 @@
 								</td>
 								<td>{r.artist}</td>
 								<td class="song-cell"
-									><a href={`/contest/${year}/song/${r.id + 1}`}>{r.song}</a
+									><a href={`/contest/${year}/song/${r.id + 1}/`}>{r.song}</a
 									></td
 								>
 								{#if hasJuryTele}
@@ -454,7 +454,7 @@
 							<td class="place-cell mono muted">{entry.place ?? "—"}</td>
 							<td class="run-cell mono muted">{entry.running ?? "—"}</td>
 							<td>
-								<a href={`/country/${entry.country}`} class="country-link">
+								<a href={`/country/${entry.country}/`} class="country-link">
 									<img
 										class="flag"
 										src={countryFlagUrl(entry.country)}
@@ -464,7 +464,7 @@
 							</td>
 							<td>{entry.artist}</td>
 							<td class="song-cell"
-								><a href={`/contest/${year}/song/${entry.id + 1}`}
+								><a href={`/contest/${year}/song/${entry.id + 1}/`}
 									>{entry.song}</a
 								></td
 							>
