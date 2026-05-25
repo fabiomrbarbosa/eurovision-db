@@ -158,6 +158,10 @@
   const semiHasScores = $derived(
     !isGrandFinal && semiRounds[activeIdx].entries.some(e => e.scores.length > 0)
   );
+
+  function onThKey(e: KeyboardEvent, key: SortKey) {
+    if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); sortBy(key); }
+  }
 </script>
 
 <div class="contest-tabs">
@@ -182,16 +186,16 @@
       <table class="results-table">
         <thead>
           <tr>
-            <th class="col-place th-sort" class:sorted={sortKey === 'place'} class:sorted-desc={sortKey === 'place' && sortDir === 'desc'} onclick={() => sortBy('place')}>#</th>
-            <th class="col-run th-sort" class:sorted={sortKey === 'running'} class:sorted-desc={sortKey === 'running' && sortDir === 'desc'} onclick={() => sortBy('running')}>Run</th>
-            <th class="th-sort" class:sorted={sortKey === 'country'} class:sorted-desc={sortKey === 'country' && sortDir === 'desc'} onclick={() => sortBy('country')}>Country</th>
-            <th class="th-sort" class:sorted={sortKey === 'artist'} class:sorted-desc={sortKey === 'artist' && sortDir === 'desc'} onclick={() => sortBy('artist')}>Artist</th>
-            <th class="th-sort" class:sorted={sortKey === 'song'} class:sorted-desc={sortKey === 'song' && sortDir === 'desc'} onclick={() => sortBy('song')}>Song</th>
+            <th class="col-place th-sort" class:sorted={sortKey === 'place'} class:sorted-desc={sortKey === 'place' && sortDir === 'desc'} tabindex="0" onclick={() => sortBy('place')} onkeydown={(e) => onThKey(e, 'place')}>#</th>
+            <th class="col-run th-sort" class:sorted={sortKey === 'running'} class:sorted-desc={sortKey === 'running' && sortDir === 'desc'} tabindex="0" onclick={() => sortBy('running')} onkeydown={(e) => onThKey(e, 'running')}>Run</th>
+            <th class="th-sort" class:sorted={sortKey === 'country'} class:sorted-desc={sortKey === 'country' && sortDir === 'desc'} tabindex="0" onclick={() => sortBy('country')} onkeydown={(e) => onThKey(e, 'country')}>Country</th>
+            <th class="th-sort" class:sorted={sortKey === 'artist'} class:sorted-desc={sortKey === 'artist' && sortDir === 'desc'} tabindex="0" onclick={() => sortBy('artist')} onkeydown={(e) => onThKey(e, 'artist')}>Artist</th>
+            <th class="th-sort" class:sorted={sortKey === 'song'} class:sorted-desc={sortKey === 'song' && sortDir === 'desc'} tabindex="0" onclick={() => sortBy('song')} onkeydown={(e) => onThKey(e, 'song')}>Song</th>
             {#if hasJuryTele}
-              <th class="right th-sort" class:sorted={sortKey === 'jury'} class:sorted-desc={sortKey === 'jury' && sortDir === 'desc'} onclick={() => sortBy('jury')}>Jury</th>
-              <th class="right th-sort" class:sorted={sortKey === 'tele'} class:sorted-desc={sortKey === 'tele' && sortDir === 'desc'} onclick={() => sortBy('tele')}>Tele</th>
+              <th class="right th-sort" class:sorted={sortKey === 'jury'} class:sorted-desc={sortKey === 'jury' && sortDir === 'desc'} tabindex="0" onclick={() => sortBy('jury')} onkeydown={(e) => onThKey(e, 'jury')}>Jury</th>
+              <th class="right th-sort" class:sorted={sortKey === 'tele'} class:sorted-desc={sortKey === 'tele' && sortDir === 'desc'} tabindex="0" onclick={() => sortBy('tele')} onkeydown={(e) => onThKey(e, 'tele')}>Tele</th>
             {/if}
-            <th class="right th-sort" class:sorted={sortKey === 'total'} class:sorted-desc={sortKey === 'total' && sortDir === 'desc'} onclick={() => sortBy('total')}>Total</th>
+            <th class="right th-sort" class:sorted={sortKey === 'total'} class:sorted-desc={sortKey === 'total' && sortDir === 'desc'} tabindex="0" onclick={() => sortBy('total')} onkeydown={(e) => onThKey(e, 'total')}>Total</th>
           </tr>
         </thead>
         <tbody>
@@ -245,16 +249,16 @@
     <table class="results-table">
       <thead>
         <tr>
-          <th class="col-place th-sort" class:sorted={sortKey === 'place'} class:sorted-desc={sortKey === 'place' && sortDir === 'desc'} onclick={() => sortBy('place')}>#</th>
-          <th class="col-run th-sort" class:sorted={sortKey === 'running'} class:sorted-desc={sortKey === 'running' && sortDir === 'desc'} onclick={() => sortBy('running')}>Run</th>
-          <th class="th-sort" class:sorted={sortKey === 'country'} class:sorted-desc={sortKey === 'country' && sortDir === 'desc'} onclick={() => sortBy('country')}>Country</th>
-          <th class="th-sort" class:sorted={sortKey === 'artist'} class:sorted-desc={sortKey === 'artist' && sortDir === 'desc'} onclick={() => sortBy('artist')}>Artist</th>
-          <th class="th-sort" class:sorted={sortKey === 'song'} class:sorted-desc={sortKey === 'song' && sortDir === 'desc'} onclick={() => sortBy('song')}>Song</th>
+          <th class="col-place th-sort" class:sorted={sortKey === 'place'} class:sorted-desc={sortKey === 'place' && sortDir === 'desc'} tabindex="0" onclick={() => sortBy('place')} onkeydown={(e) => onThKey(e, 'place')}>#</th>
+          <th class="col-run th-sort" class:sorted={sortKey === 'running'} class:sorted-desc={sortKey === 'running' && sortDir === 'desc'} tabindex="0" onclick={() => sortBy('running')} onkeydown={(e) => onThKey(e, 'running')}>Run</th>
+          <th class="th-sort" class:sorted={sortKey === 'country'} class:sorted-desc={sortKey === 'country' && sortDir === 'desc'} tabindex="0" onclick={() => sortBy('country')} onkeydown={(e) => onThKey(e, 'country')}>Country</th>
+          <th class="th-sort" class:sorted={sortKey === 'artist'} class:sorted-desc={sortKey === 'artist' && sortDir === 'desc'} tabindex="0" onclick={() => sortBy('artist')} onkeydown={(e) => onThKey(e, 'artist')}>Artist</th>
+          <th class="th-sort" class:sorted={sortKey === 'song'} class:sorted-desc={sortKey === 'song' && sortDir === 'desc'} tabindex="0" onclick={() => sortBy('song')} onkeydown={(e) => onThKey(e, 'song')}>Song</th>
           {#if semiHasJuryTele}
-            <th class="right th-sort" class:sorted={sortKey === 'jury'} class:sorted-desc={sortKey === 'jury' && sortDir === 'desc'} onclick={() => sortBy('jury')}>Jury</th>
-            <th class="right th-sort" class:sorted={sortKey === 'tele'} class:sorted-desc={sortKey === 'tele' && sortDir === 'desc'} onclick={() => sortBy('tele')}>Tele</th>
+            <th class="right th-sort" class:sorted={sortKey === 'jury'} class:sorted-desc={sortKey === 'jury' && sortDir === 'desc'} tabindex="0" onclick={() => sortBy('jury')} onkeydown={(e) => onThKey(e, 'jury')}>Jury</th>
+            <th class="right th-sort" class:sorted={sortKey === 'tele'} class:sorted-desc={sortKey === 'tele' && sortDir === 'desc'} tabindex="0" onclick={() => sortBy('tele')} onkeydown={(e) => onThKey(e, 'tele')}>Tele</th>
           {/if}
-          <th class="right th-sort" class:sorted={sortKey === 'total'} class:sorted-desc={sortKey === 'total' && sortDir === 'desc'} onclick={() => sortBy('total')}>Total</th>
+          <th class="right th-sort" class:sorted={sortKey === 'total'} class:sorted-desc={sortKey === 'total' && sortDir === 'desc'} tabindex="0" onclick={() => sortBy('total')} onkeydown={(e) => onThKey(e, 'total')}>Total</th>
           <th class="col-q">Q</th>
         </tr>
       </thead>
