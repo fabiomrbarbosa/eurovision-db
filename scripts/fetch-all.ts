@@ -64,6 +64,16 @@ function log(msg: string) {
 }
 
 // ---------------------------------------------------------------------------
+// Manual corrections for known upstream API data errors.
+// Applied after every fetch so they survive re-runs.
+// ---------------------------------------------------------------------------
+
+const CONTEST_PATCHES: Record<number, Record<string, unknown>> = {
+  2005: { city: "Kyiv" },   // API returns "Kiev" (outdated romanisation)
+  2006: { city: "Athens" }, // API returns "Athen" (truncated)
+};
+
+// ---------------------------------------------------------------------------
 // Main
 // ---------------------------------------------------------------------------
 
@@ -100,7 +110,8 @@ async function main() {
     : allDetails;
 
   for (const detail of filteredDetails) {
-    writeJson(join(contestsDir, `${detail.year}.json`), detail);
+    const patch = CONTEST_PATCHES[detail.year];
+    writeJson(join(contestsDir, `${detail.year}.json`), patch ? { ...detail, ...patch } : detail);
   }
 
   console.log(`\n  ✓ ${filteredDetails.length} contest files written`);
