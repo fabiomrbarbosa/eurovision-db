@@ -346,6 +346,10 @@ npm run build
   shortcut opens the modal (always-on `$effect`, `e.preventDefault()` to suppress browser
   defaults); `⌘K` kbd hint shown in trigger button, hidden on mobile; `modal-panel` has
   `tabindex="-1"` and an Escape `onkeydown` handler to satisfy Svelte a11y rules
+- `LyricsTabs.svelte` — lyric content is stripped of HTML tags (`/<[^>]*>/g`) before
+  splitting into stanzas; the upstream API embeds Font Awesome `<span>`/`<i>` markup
+  in some translations (e.g. Czech lyrics for Israel 2023) that would otherwise render
+  as literal text
 
 ### 🔲 Still to build
 

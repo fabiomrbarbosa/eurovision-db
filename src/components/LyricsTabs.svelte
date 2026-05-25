@@ -12,7 +12,11 @@
 	let activeIdx = $state(0);
 
 	const current = $derived(lyrics[activeIdx]);
-	const paragraphs = $derived(current?.content.split("\n\n") ?? []);
+	const paragraphs = $derived(
+		current?.content
+			.replace(/<[^>]*>/g, "")
+			.split("\n\n") ?? [],
+	);
 
 	function tabLabel(lyric: Lyrics): string {
 		const langs = lyric.displayedLanguages ?? lyric.languages;
