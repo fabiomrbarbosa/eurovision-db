@@ -1,10 +1,12 @@
-import type { APIRoute } from 'astro';
-import { readFileSync, existsSync } from 'fs';
-import { join } from 'path';
+import type { APIRoute } from "astro";
+import { readFileSync, existsSync } from "fs";
+import { join } from "path";
 
-const dataPath = join(process.cwd(), 'src/data/countries.json');
+const dataPath = join(process.cwd(), "src/data/countries.json");
 
 export const GET: APIRoute = () => {
-  const body = existsSync(dataPath) ? readFileSync(dataPath, 'utf-8') : '{}';
-  return new Response(body, { headers: { 'Content-Type': 'application/json' } });
+	const body = existsSync(dataPath) ? readFileSync(dataPath, "utf-8") : "{}";
+	return new Response(body, {
+		headers: { "Content-Type": "application/json" },
+	});
 };

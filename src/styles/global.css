@@ -155,13 +155,12 @@ img {
 /* ── Typography ─────────────────────────────────────────────── */
 h1,
 h2 {
-	font-family: var(--f-display);
 	line-height: 1.15;
 	font-weight: 600;
 	letter-spacing: -0.035em;
 }
 h1 {
-	font-size: clamp(2rem, 5vw, 3.5rem);
+	font-size: clamp(2.5rem, 6vw, 4rem);
 }
 h2 {
 	font-size: clamp(1.4rem, 3vw, 2rem);

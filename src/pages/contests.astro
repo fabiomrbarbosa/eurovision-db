@@ -1,191 +1,282 @@
 ---
 // src/pages/contests.astro
-import Base from '../layouts/Base.astro';
-import { getContestIndex, getCountryName, getCountries } from '../lib/data.ts';
-import { countryFlagUrl } from '../lib/utils.ts';
+import Base from "../layouts/Base.astro";
+import { getContestIndex, getCountryName, getCountries } from "../lib/data.ts";
+import { countryFlagUrl } from "../lib/utils.ts";
 
 const countries = getCountries();
 const contests = getContestIndex()
-  .sort((a, b) => b.year - a.year)
-  .map(e => ({
-    year: e.year,
-    city: e.city,
-    countryCode: e.country,
-    country: getCountryName(e.country, countries),
-    intendedCountry: e.intendedCountry
-      ? getCountryName(e.intendedCountry, countries)
-      : null,
-    slogan: e.slogan,
-    winner: e.winner
-      ? { ...e.winner, countryName: getCountryName(e.winner.country, countries) }
-      : null,
-    contestantCount: e.contestants.length,
-  }));
+	.sort((a, b) => b.year - a.year)
+	.map((e) => ({
+		...e,
+		countryCode: e.country,
+		country: getCountryName(e.country, countries),
+		intendedCountry: e.intendedCountry
+			? getCountryName(e.intendedCountry, countries)
+			: null,
+		winner: e.winner
+			? {
+					...e.winner,
+					countryName: getCountryName(e.winner.country, countries),
+				}
+			: null,
+		contestantCount: e.contestants.length,
+	}));
 ---
 
 <Base title="All Contests">
-  <div class="container">
-    <header class="page-header">
-      <h1>All Contests</h1>
-      <p class="muted">{contests.length} editions · 1956–present</p>
-    </header>
+	<div class="container">
+		<header class="page-header">
+			<h1>All Contests</h1>
+			<p class="muted">{contests.length} editions · 1956–present</p>
+		</header>
 
-    <div class="table-scroll">
-    <table class="contest-table">
-      <thead>
-        <tr>
-          <th data-sort="year">Year</th>
-          <th data-sort="host">Host</th>
-          <th data-sort="winner">Winner</th>
-          <th>Winning song</th>
-          <th class="right" data-sort="score">Winning score</th>
-          <th class="right" data-sort="entries">Entries</th>
-        </tr>
-      </thead>
-      <tbody>
-        {contests.map(c => (
-          <tr
-            data-year={c.year}
-            data-host={c.country}
-            data-winner={c.winner?.countryName ?? ''}
-            data-score={c.winner?.points ?? 0}
-            data-entries={c.contestantCount}
-          >
-            <td>
-              <a href={`/contest/${c.year}`} class="year-link mono">
-                {c.year}
-              </a>
-            </td>
-            <td>
-              <img class="flag" src={countryFlagUrl(c.countryCode)} alt="" />
-              <span>{c.city}</span>
-              <span class="muted">, {c.country}</span>
-              {c.intendedCountry && (
-                <span class="badge" title={`Intended host: ${c.intendedCountry}`}>
-                  ↳ {c.intendedCountry}
-                </span>
-              )}
-            </td>
-            <td>
-              {c.winner
-                ? <><img class="flag" src={countryFlagUrl(c.winner.country)} alt="" /><a href={`/country/${c.winner.country}`} class="winner-country">{c.winner.countryName}</a></>
-                : <span class="muted">—</span>
-              }
-            </td>
-            <td class="song-cell">
-              {c.winner
-                ? <><strong>{c.winner.artist}</strong> · <a href={`/contest/${c.year}/song/${c.winner.contestantId + 1}`}><em>{c.winner.song}</em></a></>
-                : <span class="muted">—</span>
-              }
-            </td>
-            <td class="right mono">
-              {c.winner?.points
-                ? <span class="badge badge--gold">{c.winner.points}</span>
-                : <span class="muted">—</span>
-              }
-            </td>
-            <td class="right mono muted">{c.contestantCount}</td>
-          </tr>
-        ))}
-      </tbody>
-    </table>
-    </div>
-  </div>
+		<div class="table-scroll">
+			<table class="contest-table">
+				<thead>
+					<tr>
+						<th data-sort="year">Year</th>
+						<th data-sort="host">Host</th>
+						<th data-sort="winner">Winner</th>
+						<th>Winning song</th>
+						<th class="right" data-sort="score">Winning score</th>
+						<th class="right" data-sort="entries">Entries</th>
+					</tr>
+				</thead>
+				<tbody>
+					{
+						contests.map((c) => (
+							<tr
+								data-year={c.year}
+								data-host={c.country}
+								data-winner={c.winner?.countryName ?? ""}
+								data-score={c.winner?.points ?? 0}
+								data-entries={c.contestantCount}
+							>
+								<td>
+									<a href={`/contest/${c.year}`} class="year-link mono">
+										{c.year}
+									</a>
+								</td>
+								<td>
+									<img
+										class="flag"
+										src={countryFlagUrl(c.countryCode)}
+										alt=""
+									/>
+									<a href={`/contest/${c.year}`} class="host-link">
+										{c.city}
+										<span class="muted">, {c.country}</span>
+									</a>
+									{c.intendedCountry && (
+										<span
+											class="badge"
+											title={`Intended host: ${c.intendedCountry}`}
+										>
+											↳ {c.intendedCountry}
+										</span>
+									)}
+								</td>
+								<td>
+									{c.winner ? (
+										<>
+											<img
+												class="flag"
+												src={countryFlagUrl(c.winner.country)}
+												alt=""
+											/>
+											<a
+												href={`/country/${c.winner.country}`}
+												class="winner-country"
+											>
+												{c.winner.countryName}
+											</a>
+										</>
+									) : (
+										<span class="muted">—</span>
+									)}
+								</td>
+								<td class="song-cell">
+									{c.winner ? (
+										<>
+											<strong>{c.winner.artist}</strong>
+											{" · "}
+											<a
+												href={`/contest/${c.year}/song/${c.winner.contestantId + 1}`}
+												class="song-link"
+											>
+												{c.winner.song}
+											</a>
+										</>
+									) : (
+										<span class="muted">—</span>
+									)}
+								</td>
+								<td class="right mono">
+									{c.winner?.points ? (
+										<span class="badge badge--gold">{c.winner.points}</span>
+									) : c.cancelled ? (
+										<span class="badge badge--magenta">Cancelled</span>
+									) : (
+										<span class="muted">—</span>
+									)}
+								</td>
+								<td class="right mono muted">{c.contestantCount}</td>
+							</tr>
+						))
+					}
+				</tbody>
+			</table>
+		</div>
+	</div>
 </Base>
 
 <style>
-  .page-header {
-    padding-block: 3rem 2rem;
-    border-bottom: 1px solid var(--c-border);
-    margin-bottom: 0;
-  }
-  .page-header h1 { margin-bottom: 0.25rem; }
+	.page-header {
+		padding-block: 3rem 2rem;
+		border-bottom: 1px solid var(--c-border);
+		margin-bottom: 0;
+	}
+	.page-header h1 {
+		margin-bottom: 0.25rem;
+	}
 
-  .contest-table {
-    width: 100%;
-    border-collapse: collapse;
-    font-size: 0.9rem;
-  }
-  .contest-table th {
-    font-family: var(--f-mono);
-    font-size: 0.72rem;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-    color: var(--c-muted);
-    font-weight: 400;
-    padding: 0.75rem 1rem;
-    text-align: left;
-    border-bottom: 1px solid var(--c-border);
-  }
-  .contest-table th.right { text-align: right; }
-  .contest-table th[data-sort] { cursor: pointer; user-select: none; }
-  .contest-table th[data-sort]:hover { color: var(--c-text); }
-  .contest-table th.th-sorted { color: var(--c-gold); }
-  .contest-table th.th-sorted::after { content: ' ↑'; }
-  .contest-table th.th-sorted.th-sorted-desc::after { content: ' ↓'; }
+	.contest-table {
+		width: 100%;
+		border-collapse: collapse;
+		font-size: 0.9rem;
+	}
+	.contest-table th {
+		font-family: var(--f-mono);
+		font-size: 0.72rem;
+		text-transform: uppercase;
+		letter-spacing: 0.08em;
+		color: var(--c-muted);
+		font-weight: 400;
+		padding: 0.75rem 1rem;
+		text-align: left;
+		border-bottom: 1px solid var(--c-border);
+	}
+	.contest-table th.right {
+		text-align: right;
+	}
+	.contest-table th[data-sort] {
+		cursor: pointer;
+		user-select: none;
+	}
+	.contest-table th[data-sort]:hover {
+		color: var(--c-text);
+	}
+	.contest-table th.th-sorted {
+		color: var(--c-gold);
+	}
+	.contest-table th.th-sorted::after {
+		content: " ↑";
+	}
+	.contest-table th.th-sorted.th-sorted-desc::after {
+		content: " ↓";
+	}
 
-  .contest-table td {
-    padding: 0.7rem 1rem;
-    border-bottom: 1px solid color-mix(in srgb, var(--c-border) 60%, transparent);
-    vertical-align: middle;
-  }
-  .contest-table tr:hover td { background: var(--c-surface); }
-  .contest-table .right { text-align: right; }
+	.contest-table td {
+		padding: 0.7rem 1rem;
+		border-bottom: 1px solid
+			color-mix(in srgb, var(--c-border) 60%, transparent);
+		vertical-align: middle;
+	}
+	.contest-table tr:hover td {
+		background: var(--c-surface);
+	}
+	.contest-table .right {
+		text-align: right;
+	}
 
-  .year-link {
-    font-size: 1rem;
-    font-weight: 500;
-    color: var(--c-link);
-    white-space: nowrap;
-  }
-  .winner-country { color: var(--c-text); }
-  .song-cell { max-width: 280px; }
-  .song-cell em { color: var(--c-muted); font-style: italic; }
-  .song-cell a { color: inherit; text-decoration: none; }
-  .song-cell a:hover em { color: var(--c-link); }
-  .flag { margin-right: 0.35em; }
+	.year-link {
+		font-size: 1rem;
+		font-weight: 500;
+		color: var(--c-link);
+		white-space: nowrap;
+	}
+	.host-link {
+		color: var(--c-text);
+		text-decoration: underline;
+		text-decoration-color: color-mix(in srgb, currentColor 35%, transparent);
+	}
+	.host-link:hover {
+		color: var(--c-link);
+		text-decoration-color: currentColor;
+	}
+	.host-link:hover .muted {
+		color: inherit;
+	}
+	.winner-country {
+		color: var(--c-text);
+	}
+	.song-cell {
+		max-width: 280px;
+	}
+	.song-link {
+		color: var(--c-muted);
+	}
+	.song-link:hover {
+		color: var(--c-link);
+	}
+	.flag {
+		margin-right: 0.35em;
+	}
 </style>
 
 <script>
-  const table = document.querySelector('.contest-table') as HTMLTableElement | null;
-  if (table) {
-    const tbody = table.querySelector('tbody') as HTMLTableSectionElement;
-    let col = 'year', dir = 'desc';
-    const numCols = new Set(['year', 'score', 'entries']);
-    const defaults: Record<string, string> = { year: 'desc', host: 'asc', winner: 'asc', score: 'desc', entries: 'desc' };
+	const table = document.querySelector(
+		".contest-table",
+	) as HTMLTableElement | null;
+	if (table) {
+		const tbody = table.querySelector("tbody") as HTMLTableSectionElement;
+		let col = "year",
+			dir = "desc";
+		const numCols = new Set(["year", "score", "entries"]);
+		const defaults: Record<string, string> = {
+			year: "desc",
+			host: "asc",
+			winner: "asc",
+			score: "desc",
+			entries: "desc",
+		};
 
-    function refresh() {
-      table!.querySelectorAll('th[data-sort]').forEach(el => {
-        const th = el as HTMLElement;
-        const key = th.dataset.sort;
-        th.classList.toggle('th-sorted', key === col);
-        th.classList.toggle('th-sorted-desc', key === col && dir === 'desc');
-      });
-    }
+		function refresh() {
+			table!.querySelectorAll("th[data-sort]").forEach((el) => {
+				const th = el as HTMLElement;
+				const key = th.dataset.sort;
+				th.classList.toggle("th-sorted", key === col);
+				th.classList.toggle("th-sorted-desc", key === col && dir === "desc");
+			});
+		}
 
-    function sort() {
-      const rows = [...tbody.querySelectorAll('tr')] as HTMLElement[];
-      rows.sort((a, b) => {
-        const av = a.dataset[col] ?? '';
-        const bv = b.dataset[col] ?? '';
-        const raw = numCols.has(col)
-          ? Number(av) - Number(bv)
-          : av.localeCompare(bv);
-        return dir === 'asc' ? raw : -raw;
-      });
-      rows.forEach(r => tbody.appendChild(r));
-      refresh();
-    }
+		function sort() {
+			const rows = [...tbody.querySelectorAll("tr")] as HTMLElement[];
+			rows.sort((a, b) => {
+				const av = a.dataset[col] ?? "";
+				const bv = b.dataset[col] ?? "";
+				const raw = numCols.has(col)
+					? Number(av) - Number(bv)
+					: av.localeCompare(bv);
+				return dir === "asc" ? raw : -raw;
+			});
+			rows.forEach((r) => tbody.appendChild(r));
+			refresh();
+		}
 
-    table.querySelectorAll('th[data-sort]').forEach(el =>
-      el.addEventListener('click', () => {
-        const next = (el as HTMLElement).dataset.sort ?? '';
-        if (col === next) dir = dir === 'asc' ? 'desc' : 'asc';
-        else { col = next; dir = defaults[next] ?? 'desc'; }
-        sort();
-      })
-    );
+		table.querySelectorAll("th[data-sort]").forEach((el) =>
+			el.addEventListener("click", () => {
+				const next = (el as HTMLElement).dataset.sort ?? "";
+				if (col === next) dir = dir === "asc" ? "desc" : "asc";
+				else {
+					col = next;
+					dir = defaults[next] ?? "desc";
+				}
+				sort();
+			}),
+		);
 
-    refresh();
-  }
+		refresh();
+	}
 </script>

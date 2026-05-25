@@ -67,8 +67,8 @@ const countryList = Object.entries(statsMap)
 							data-last={c.lastYear}
 						>
 							<td>
+								<img class="flag" src={countryFlagUrl(c.code)} alt="" />
 								<a href={`/country/${c.code}`} class="country-link">
-									<img class="flag" src={countryFlagUrl(c.code)} alt="" />
 									{c.name}
 								</a>
 							</td>
@@ -134,7 +134,6 @@ const countryList = Object.entries(statsMap)
 	.country-link {
 		color: var(--c-text);
 		font-weight: 500;
-		margin-right: 0.5rem;
 	}
 	.flag {
 		margin-right: 0.35em;

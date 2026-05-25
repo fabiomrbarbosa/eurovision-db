@@ -25,10 +25,10 @@ No backend. No database. Data lives as local JSON files fetched at build time.
 - Dataset repo: `https://github.com/EurovisionAPI/dataset`
 - Coverage: Senior ESC 1956–2026
 - **ESC 2026** (Vienna, Bulgaria won with "Bangaranga" by Dara, 516 pts)
-  — hand-crafted `src/data/contests/2026.json` exists with aggregate jury/tele
-  totals (cross-checked from EurovisionWorld, ESCCovers, ESC Insight, Eurovoix).
-  Per-country vote breakdowns are **not yet available** (stored as empty objects).
-  Replace with official data once the API dataset updates: `npm run fetch:year -- 2026`.
+  — hand-crafted `src/data/contests/2026.json` exists with full aggregate jury/tele
+  totals and per-country vote breakdowns for all rounds (cross-checked from
+  EurovisionWorld, ESCCovers, ESC Insight, Eurovoix). Data is complete.
+  Replace with official API data once available: `npm run fetch:year -- 2026`.
 - Data quality: independently verified against Wikipedia 2024+2025, zero diffs.
 - The API is hobbyist-hosted on a free ASP.NET tier. May go down. The local
   JSON snapshots in `src/data/` are the source of truth for the running app.
@@ -88,7 +88,8 @@ eurovision-app/
     │   ├── Search.svelte            ← client-side search island (fetches /data/index.json)
     │   ├── ScoreBreakdown.svelte    ← interactive vote detail (click country → voters)
     │   ├── ContestTabs.svelte       ← SF1/SF2/Final tab group for contest page
-    │   └── LyricsTabs.svelte        ← wrapping tab group for original + translations/versions
+    │   ├── LyricsTabs.svelte        ← wrapping tab group for original + translations/versions
+    │   └── VoteTabs.svelte          ← per-song voter breakdown with SF/Final tabs
     └── pages/
         ├── index.astro              ← homepage: hero + recent winners grid
         ├── contests.astro           ← all editions table
@@ -238,7 +239,9 @@ npm run build
   `finalPlace`, `finalPoints`, `participatedInFinal`, `cancelled`;
   `getCountryName()` maps `WLD` → "Rest of the World";
   `ContestIndexEntry` includes `cancelled: boolean` (derived from all rounds having null performances)
-- `utils.ts` — `countryFlagUrl()` (heart flag image URL from ISO code) + `ordinal()` suffix helper
+- `utils.ts` — `countryFlagUrl()` (heart flag image URL from ISO code) + `ordinal(n)` returns
+  the full string ("1st", "2nd", "3rd", "4th"…) — **not** just the suffix; all call sites use
+  `ordinal(n)` alone, never `{n}{ordinal(n)}`, to avoid JSX whitespace bugs
 - `Base.astro` — layout shell; nav logo "🩷 Eurovision DB" in `--c-magenta`
 - `global.css` — design tokens; Eurovision-inspired palette; `.flag` global rule for inline images;
   content links (td a, p a, footer) have always-visible underlines via `color-mix`;
@@ -258,20 +261,27 @@ npm run build
   and `card-bottom` (winner song + score badge, or `badge--magenta` "Cancelled" for 2020)
 - `contests.astro` — all editions table; columns: Year, Host, Winner, Winning song, Winning score,
   Entries; sortable by Year (default desc), Host country, Winner country, Winning score, Entries;
-  table wrapped in `.table-scroll` for mobile
+  table wrapped in `.table-scroll` for mobile; host city+country text is a link to the contest
+  (flag stays outside the link); winning song is muted and linked; Cancelled editions show a
+  `badge badge--magenta` in the Winning Score column instead of a dash; the `.map()` spreads
+  the full `ContestIndexEntry` (`...e`) and only adds derived fields on top — so `cancelled` and
+  any future index fields flow through automatically without needing to be listed explicitly
 - `countries.astro` — country listing with win/appearance stats; all columns sortable;
-  default sort: alphabetical by country name
+  default sort: alphabetical by country name; flag sits outside the country name `<a>` link
+  so the underline doesn't bleed under the blank space between flag and text
 - `contest/[year].astro` — full contest page: unified round tab group via ContestTabs;
   contest logo capped at `max-height: 175px; max-width: 240px` with `height: auto; width: auto`
-- `country/[code].astro` — country history; sortable columns; "Cancelled" badge for 2020;
-  Run column shows grand final draw number (null for DNQ); "Active years" stat shows
-  actual consecutive participation ranges (not a simple A–B span), deduped to handle
+- `country/[code].astro` — country history; sortable columns; Run column removed (not useful
+  per-country); DNQ and Cancelled both use `<span class="badge badge--magenta">`; "Active years"
+  stat shows actual consecutive participation ranges (not a simple A–B span), deduped to handle
   1956 two-songs-per-country correctly; two-line display kicks in when visible year-number
-  count > 5 (`yearNumberCount = ranges.reduce(sum + r.split('–').length, 0) <= 5`); comma
-  is preserved before the line break; single-line histories render at full stat size;
-  Wins stat hidden when 0 (shows Best place ordinal instead, hidden if no final place known);
-  Final column shows `—` (not "DNQ") for contestants who appeared in the final round but have
-  no recorded place (1956); table wrapped in `.table-scroll` for mobile
+  count > 5; `splitForDisplay` includes the trailing comma **inside** the returned `yearsLine1`
+  string — never in JSX — to prevent whitespace before the comma; single-line histories render
+  at full stat size; Wins stat hidden when 0 (shows Best place ordinal instead, hidden if no
+  final place known); Final column shows `—` (not "DNQ") for contestants who appeared in the
+  final round but have no recorded place (1956); table wrapped in `.table-scroll` for mobile;
+  song links are muted (`--c-muted`) with underline, turning cyan on hover (uses global `td a` rule,
+  no local `text-decoration: none` override)
 - `Search.svelte` — live search island (queries /data/index.json and /data/countries.json);
   `listEl` declared with `$state()` for reactive binding; a11y `onkeydown` handler on result `<li>`
 - `ScoreBreakdown.svelte` — interactive voter detail panel; `WLD` voter shown as
@@ -282,7 +292,8 @@ npm run build
   when data contains split scores (e.g. 2022, 2026); Run column shows draw/lineup order;
   ScoreBreakdown hidden for years with no score data (e.g. 1956); place numbers render
   in full text colour (only the trophy 🏆 uses `--c-gold` for 1st place);
-  both SF and Final tables wrapped in `.table-scroll` for mobile
+  both SF and Final tables wrapped in `.table-scroll` for mobile; song cells have no
+  `<em>` — `.song-cell a` is muted with underline (via global `td a` rule), turning cyan on hover
 - ESC 2026 data — hand-crafted `src/data/contests/2026.json` with aggregate jury/tele
   totals; per-country vote breakdowns pending official API update; semi running order
   not yet available (shows `—`)
@@ -304,7 +315,15 @@ npm run build
   it appeared, skipping cancelled editions (uses `getCountryHistory` filtered by `!cancelled`);
   typography: artist h1 uses `clamp(2rem, 5vw, 3rem)` (global min+slope, 3rem cap); song title
   uses exact global h2 values `clamp(1.4rem, 3vw, 2rem)` at `font-weight: 400` — subtitle reads
-  lighter than heading (600) without introducing new scale numbers
+  lighter than heading (600) without introducing new scale numbers;
+  result pills: 1st-place ordinal rendered in `--c-gold`; clicking a pill with vote data scrolls
+  to `#votes-section` (90px offset for fixed header) and switches `VoteTabs` to the matching round
+  via a `vote-round` CustomEvent on `window`; pills without vote data are inert;
+  eyebrow links (country + edition) have dim underline at rest, full on hover;
+  section headings use `--c-text` (white), not `--c-muted`;
+  voting breakdown section after `.contestant-body`: `VoteTabs` island with per-round voter
+  tables; defaults to Grand Final tab; single-round songs (Big 5/host/pre-semi era) show no
+  tab bar; only rounds with `votes` data are included (pre-split years show Total only)
 - `LyricsTabs.svelte` — wrapping tab bar (flex-wrap) for original + translations + versions;
   tab label uses language name(s) (capitalised), type badge colour-coded gold/cyan/magenta;
   single-lyric songs skip the tab bar entirely; `\n\n` stanzas rendered as `<p>` with
@@ -317,6 +336,10 @@ npm run build
 - Build fix: contestant page guards all nullable array fields (`dancers`, `backings`,
   `commentators`, `jury` etc.) with `toArr()` helper — API occasionally returns a bare string
   for single-value entries instead of a `string[]`
+- `VoteTabs.svelte` — per-song voter breakdown island used on `[id].astro`; accepts `rounds`
+  (label + voters array) and `hasJuryTele`; tab bar hidden when only one round; listens to
+  `vote-round` CustomEvent (dispatched by result pill clicks) to switch the active tab;
+  voter rows sorted by total descending; jury/tele columns only shown when `hasJuryTele`
 - `SearchModal.svelte` — modal backdrop uses plain navy overlay (`color-mix` 85%); no
   `backdrop-filter: blur()` (removed — amplified pre-existing gradient dithering in the
   background spheres by re-sampling the composited pixel buffer); ⌘K / Ctrl+K global
@@ -328,7 +351,6 @@ npm run build
 
 - Error/404 page
 - Pagination or virtual scroll for the contests table (70+ rows is fine for now)
-- Per-country vote breakdowns for 2026 — run `npm run fetch:year -- 2026` once API updates
 - **Semifinal + final score columns on country page** — `country/[code].astro` history
   table shows only the final result. Add SF place/points columns for years with semis.
   Extend `getCountryHistory()` to return `semifinalPlace` and `semifinalPoints`.
@@ -353,6 +375,14 @@ npm run build
 - `WLD` is a special voter code meaning "Rest of the World" (used in some scoring systems).
   `getCountryName('WLD')` returns "Rest of the World"; `public/images/flags/wld.svg` exists
   and is shown like any other voter flag in `ScoreBreakdown`.
+- **JSX whitespace rule**: two separate JSX expressions on adjacent lines produce a text node
+  (space) between them. Prevent this by: (a) using template literals or single expressions
+  (`ordinal(n)` returns the full "1st" string, never `{n}{ordinal(n)}`); (b) moving punctuation
+  into the data layer (`splitForDisplay` includes the trailing comma in `yearsLine1`).
+- **Prettier** is installed (`prettier`, `prettier-plugin-astro`, `prettier-plugin-svelte`).
+  Config in `.prettierrc` — uses tabs. Format-on-save works in VS Code. HTML comments inside
+  JSX expressions (`{condition ? (<!-- comment --> <el>`) are invalid — use regular comments
+  outside the JSX block or remove them.
 
 ---
 
@@ -367,4 +397,4 @@ npm run build
 
 ---
 
-*Last updated: 2026-05-25 (session 8).*
+*Last updated: 2026-05-25 (session 9).*

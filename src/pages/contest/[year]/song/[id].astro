@@ -2,6 +2,7 @@
 // src/pages/contest/[year]/song/[id].astro
 import Base from "../../../../layouts/Base.astro";
 import LyricsTabs from "../../../../components/LyricsTabs.svelte";
+import VoteTabs from "../../../../components/VoteTabs.svelte";
 import {
 	getYears,
 	getContest,
@@ -65,6 +66,9 @@ const performances = contest.rounds
 		const total = perf.scores.find((s) => s.name === "total")?.points ?? null;
 		const jury = perf.scores.find((s) => s.name === "jury")?.points ?? null;
 		const tele = perf.scores.find((s) => s.name === "public")?.points ?? null;
+		const totalVotes = perf.scores.find((s) => s.name === "total")?.votes ?? {};
+		const juryVotes = perf.scores.find((s) => s.name === "jury")?.votes ?? {};
+		const teleVotes = perf.scores.find((s) => s.name === "public")?.votes ?? {};
 		return {
 			round: round.name,
 			label: roundLabelMap[round.name] ?? round.name,
@@ -72,6 +76,9 @@ const performances = contest.rounds
 			total,
 			jury,
 			tele,
+			totalVotes,
+			juryVotes,
+			teleVotes,
 		};
 	})
 	.filter(Boolean)
@@ -84,7 +91,32 @@ const performances = contest.rounds
 	total: number | null;
 	jury: number | null;
 	tele: number | null;
+	totalVotes: Record<string, number>;
+	juryVotes: Record<string, number>;
+	teleVotes: Record<string, number>;
 }[];
+
+// Per-round voter rows: sorted by total desc, only voters who gave points
+const votesByRound = performances
+	.filter((p) => Object.keys(p.totalVotes).length > 0)
+	.map((p) => ({
+		round: p.round,
+		label: p.label,
+		voters: Object.entries(p.totalVotes)
+			.map(([code, pts]) => ({
+				code,
+				name: code === "WLD" ? "Rest of the World" : (countries[code] ?? code),
+				total: pts,
+				jury: p.juryVotes[code] ?? null,
+				tele: p.teleVotes[code] ?? null,
+			}))
+			.sort((a, b) => b.total - a.total),
+	}));
+
+// Maps round name → tab index in votesByRound (used by result pills)
+const roundToVoteIdx: Record<string, number> = Object.fromEntries(
+	votesByRound.map((r, i) => [r.round, i]),
+);
 
 // API occasionally returns a bare string instead of string[] for single-value fields
 const toArr = (v: string | string[] | null | undefined): string[] =>
@@ -145,10 +177,12 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
 				performances.length > 0 && (
 					<div class="results-row">
 						{performances.map((p) => (
-							<div class="result-pill">
+							<div class="result-pill" data-vote-idx={roundToVoteIdx[p.round]}>
 								<span class="result-label">{p.label}</span>
-								<span class="result-place mono">
-									{p.place != null ? `${p.place}${ordinal(p.place)}` : "—"}
+								<span
+									class={`result-place mono${p.place === 1 ? " gold" : ""}`}
+								>
+									{p.place != null ? ordinal(p.place) : "—"}
 								</span>
 								{p.total != null && (
 									<span class="result-pts mono muted">{p.total} pts</span>
@@ -351,6 +385,15 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
 				}
 			</aside>
 		</div>
+
+		{
+			votesByRound.length > 0 && (
+				<section id="votes-section" class="votes-section">
+					<h2 class="section-heading">Voting breakdown</h2>
+					<VoteTabs rounds={votesByRound} {hasJuryTele} client:load />
+				</section>
+			)
+		}
 	</div>
 
 	<style>
@@ -395,7 +438,7 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
 			display: flex;
 			align-items: center;
 			gap: 0.5rem;
-			margin-bottom: 0.75rem;
+			margin-bottom: 1rem;
 			font-size: 0.9rem;
 		}
 		.country-link {
@@ -404,20 +447,23 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
 			gap: 0.3em;
 			color: var(--c-text);
 			font-weight: 500;
+			text-decoration: underline;
+			text-decoration-color: color-mix(in srgb, currentColor 35%, transparent);
 		}
 		.country-link:hover {
 			color: var(--c-link);
-			text-decoration: none;
+			text-decoration-color: currentColor;
 		}
 		.edition-link {
-			text-decoration: none;
+			text-decoration: underline;
+			text-decoration-color: color-mix(in srgb, currentColor 35%, transparent);
 		}
 		.edition-link:hover {
 			color: var(--c-link);
+			text-decoration-color: currentColor;
 		}
 
 		.contestant-header h1 {
-			font-family: var(--f-body);
 			font-size: clamp(2rem, 5vw, 3rem);
 			line-height: 1;
 			margin-bottom: 0.3rem;
@@ -455,7 +501,6 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
 			font-size: 1.4rem;
 			font-weight: 600;
 			line-height: 1;
-			color: var(--c-text);
 		}
 		.result-pts {
 			font-size: 0.8rem;
@@ -463,13 +508,20 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
 		.result-split {
 			font-size: 0.75rem;
 		}
+		.result-pill[data-vote-idx] {
+			cursor: pointer;
+		}
+		.result-pill[data-vote-idx]:hover {
+			border-color: var(--c-gold-dim);
+			background: rgba(0, 0, 0, 0.7);
+		}
 
 		/* ── Body layout ──────────────────────────────────────────── */
 		.contestant-body {
 			display: grid;
 			grid-template-columns: 1fr;
 			gap: 3rem;
-			padding-bottom: 4rem;
+			padding-bottom: 3rem;
 		}
 		@media (min-width: 900px) {
 			.contestant-body {
@@ -507,7 +559,7 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
 			font-size: 0.72rem;
 			text-transform: uppercase;
 			letter-spacing: 0.1em;
-			color: var(--c-muted);
+			color: var(--c-text);
 			margin-bottom: 1rem;
 			padding-bottom: 0.5rem;
 			border-bottom: 1px solid var(--c-border);
@@ -545,6 +597,14 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
 			margin-bottom: 2rem;
 		}
 
+		/* ── Votes section ───────────────────────────────────────── */
+		.votes-section {
+			padding-bottom: 4rem;
+		}
+		.votes-section .section-heading {
+			margin-bottom: 1.5rem;
+		}
+
 		/* ── Meta list (dt/dd pairs) ──────────────────────────────── */
 		.meta-list {
 			display: grid;
@@ -566,4 +626,18 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
 			line-height: 1.5;
 		}
 	</style>
+
+	<script>
+		document.querySelectorAll<HTMLElement>("[data-vote-idx]").forEach((el) => {
+			el.addEventListener("click", () => {
+				const idx = parseInt(el.dataset.voteIdx!);
+				const section = document.getElementById("votes-section");
+				if (section) {
+					const top = section.getBoundingClientRect().top + window.scrollY - 90;
+					window.scrollTo({ top, behavior: "smooth" });
+				}
+				window.dispatchEvent(new CustomEvent("vote-round", { detail: idx }));
+			});
+		});
+	</script>
 </Base>

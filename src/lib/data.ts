@@ -14,13 +14,13 @@
 import { readFileSync, readdirSync } from "fs";
 import { join } from "path";
 import type {
-  ContestantDetail,
-  ContestantReference,
-  ContestantWithResults,
-  ContestDetail,
-  CountryMap,
-  ResolvedContest,
-  RoundName,
+	ContestantDetail,
+	ContestantReference,
+	ContestantWithResults,
+	ContestDetail,
+	CountryMap,
+	ResolvedContest,
+	RoundName,
 } from "./api/types.ts";
 
 // ---------------------------------------------------------------------------
@@ -30,11 +30,11 @@ import type {
 const DATA_DIR = join(process.cwd(), "src/data");
 
 function readJson<T>(filePath: string): T {
-  return JSON.parse(readFileSync(filePath, "utf-8")) as T;
+	return JSON.parse(readFileSync(filePath, "utf-8")) as T;
 }
 
 function dataPath(...parts: string[]): string {
-  return join(DATA_DIR, ...parts);
+	return join(DATA_DIR, ...parts);
 }
 
 // ---------------------------------------------------------------------------
@@ -44,19 +44,16 @@ function dataPath(...parts: string[]): string {
 let _countries: CountryMap | null = null;
 
 export function getCountries(): CountryMap {
-  if (!_countries) {
-    _countries = readJson<CountryMap>(dataPath("countries.json"));
-  }
-  return _countries;
+	if (!_countries) {
+		_countries = readJson<CountryMap>(dataPath("countries.json"));
+	}
+	return _countries;
 }
 
-export function getCountryName(
-  code: string,
-  countries?: CountryMap,
-): string {
-  if (code === 'WLD') return 'Rest of the World';
-  const map = countries ?? getCountries();
-  return map[code] ?? code;
+export function getCountryName(code: string, countries?: CountryMap): string {
+	if (code === "WLD") return "Rest of the World";
+	const map = countries ?? getCountries();
+	return map[code] ?? code;
 }
 
 // ---------------------------------------------------------------------------
@@ -64,11 +61,11 @@ export function getCountryName(
 // ---------------------------------------------------------------------------
 
 export function getYears(): number[] {
-  return readdirSync(dataPath("contests"))
-    .filter((f) => f.endsWith(".json"))
-    .map((f) => parseInt(f, 10))
-    .filter((n) => !isNaN(n))
-    .sort((a, b) => a - b);
+	return readdirSync(dataPath("contests"))
+		.filter((f) => f.endsWith(".json"))
+		.map((f) => parseInt(f, 10))
+		.filter((n) => !isNaN(n))
+		.sort((a, b) => a - b);
 }
 
 // ---------------------------------------------------------------------------
@@ -76,76 +73,80 @@ export function getYears(): number[] {
 // ---------------------------------------------------------------------------
 
 export interface ContestIndexEntry {
-  year: number;
-  city: string;
-  country: string;
-  intendedCountry: string | null;
-  slogan: string | null;
-  logoUrl: string;
-  broadcasters: string[];
-  presenters: string[];
-  contestants: Array<{
-    id: number;
-    country: string;
-    artist: string;
-    song: string;
-  }>;
-  winner: {
-    contestantId: number;
-    country: string;
-    artist: string;
-    song: string;
-    points: number | null;
-  } | null;
-  cancelled: boolean;
+	year: number;
+	city: string;
+	country: string;
+	intendedCountry: string | null;
+	slogan: string | null;
+	logoUrl: string;
+	broadcasters: string[];
+	presenters: string[];
+	contestants: Array<{
+		id: number;
+		country: string;
+		artist: string;
+		song: string;
+	}>;
+	winner: {
+		contestantId: number;
+		country: string;
+		artist: string;
+		song: string;
+		points: number | null;
+	} | null;
+	cancelled: boolean;
 }
 
 let _index: ContestIndexEntry[] | null = null;
 
 export function getContestIndex(): ContestIndexEntry[] {
-  if (_index) return _index;
+	if (_index) return _index;
 
-  const contestsDir = dataPath("contests");
-  const files = readdirSync(contestsDir).filter((f) => f.endsWith(".json"));
+	const contestsDir = dataPath("contests");
+	const files = readdirSync(contestsDir).filter((f) => f.endsWith(".json"));
 
-  _index = files
-    .map((file) => {
-      const detail = readJson<ContestDetail>(join(contestsDir, file));
-      const final = detail.rounds.find((r) => r.name === "final");
-      const winnerPerf = final?.performances?.find((p) => p.place === 1) ?? null;
-      const winnerContestant = winnerPerf
-        ? detail.contestants.find((c) => c.id === winnerPerf.contestantId) ?? null
-        : null;
-      return {
-        year: detail.year,
-        city: detail.city,
-        country: detail.country,
-        intendedCountry: detail.intendedCountry,
-        slogan: detail.slogan,
-        logoUrl: detail.logoUrl,
-        broadcasters: detail.broadcasters,
-        presenters: detail.presenters,
-        contestants: detail.contestants.map((c) => ({
-          id: c.id,
-          country: c.country,
-          artist: c.artist,
-          song: c.song,
-        })),
-        winner: winnerContestant
-          ? {
-              contestantId: winnerContestant.id,
-              country: winnerContestant.country,
-              artist: winnerContestant.artist,
-              song: winnerContestant.song,
-              points: winnerPerf!.scores.find((s) => s.name === "total")?.points ?? null,
-            }
-          : null,
-        cancelled: detail.rounds.every((r) => r.performances === null),
-      };
-    })
-    .sort((a, b) => a.year - b.year);
+	_index = files
+		.map((file) => {
+			const detail = readJson<ContestDetail>(join(contestsDir, file));
+			const final = detail.rounds.find((r) => r.name === "final");
+			const winnerPerf =
+				final?.performances?.find((p) => p.place === 1) ?? null;
+			const winnerContestant = winnerPerf
+				? (detail.contestants.find((c) => c.id === winnerPerf.contestantId) ??
+					null)
+				: null;
+			return {
+				year: detail.year,
+				city: detail.city,
+				country: detail.country,
+				intendedCountry: detail.intendedCountry,
+				slogan: detail.slogan,
+				logoUrl: detail.logoUrl,
+				broadcasters: detail.broadcasters,
+				presenters: detail.presenters,
+				contestants: detail.contestants.map((c) => ({
+					id: c.id,
+					country: c.country,
+					artist: c.artist,
+					song: c.song,
+				})),
+				winner: winnerContestant
+					? {
+							contestantId: winnerContestant.id,
+							country: winnerContestant.country,
+							artist: winnerContestant.artist,
+							song: winnerContestant.song,
+							points:
+								winnerPerf!.scores.find((s) => s.name === "total")?.points ??
+								null,
+						}
+					: null,
+				cancelled: detail.rounds.every((r) => r.performances === null),
+			};
+		})
+		.sort((a, b) => a.year - b.year);
 
-  return _index;
+	return _index;
 }
 
 // ---------------------------------------------------------------------------
@@ -153,7 +154,7 @@ export function getContestIndex(): ContestIndexEntry[] {
 // ---------------------------------------------------------------------------
 
 export function getContest(year: number): ContestDetail {
-  return readJson<ContestDetail>(dataPath("contests", `${year}.json`));
+	return readJson<ContestDetail>(dataPath("contests", `${year}.json`));
 }
 
 /**
@@ -161,58 +162,63 @@ export function getContest(year: number): ContestDetail {
  * and a results array merging contestant references with their performances.
  */
 export function getResolvedContest(year: number): ResolvedContest {
-  const detail = getContest(year);
+	const detail = getContest(year);
 
-  // Build O(1) lookup map
-  const contestantsById: Record<number, ContestantReference> = {};
-  for (const c of detail.contestants) {
-    contestantsById[c.id] = c;
-  }
+	// Build O(1) lookup map
+	const contestantsById: Record<number, ContestantReference> = {};
+	for (const c of detail.contestants) {
+		contestantsById[c.id] = c;
+	}
 
-  // Merge all round performances per contestant
-  const performancesByContestant: Record<
-    number,
-    ContestantWithResults["performances"]
-  > = {};
+	// Merge all round performances per contestant
+	const performancesByContestant: Record<
+		number,
+		ContestantWithResults["performances"]
+	> = {};
 
-  for (const round of detail.rounds) {
-    for (const perf of (round.performances ?? [])) {
-      if (!performancesByContestant[perf.contestantId]) {
-        performancesByContestant[perf.contestantId] = [];
-      }
-      performancesByContestant[perf.contestantId].push({
-        round: round.name as RoundName,
-        running: perf.running,
-        place: perf.place,
-        scores: perf.scores,
-      });
-    }
-  }
+	for (const round of detail.rounds) {
+		for (const perf of round.performances ?? []) {
+			if (!performancesByContestant[perf.contestantId]) {
+				performancesByContestant[perf.contestantId] = [];
+			}
+			performancesByContestant[perf.contestantId].push({
+				round: round.name as RoundName,
+				running: perf.running,
+				place: perf.place,
+				scores: perf.scores,
+			});
+		}
+	}
 
-  const results: ContestantWithResults[] = detail.contestants.map((c) => ({
-    ...c,
-    performances: performancesByContestant[c.id] ?? [],
-  }));
+	const results: ContestantWithResults[] = detail.contestants.map((c) => ({
+		...c,
+		performances: performancesByContestant[c.id] ?? [],
+	}));
 
-  // Sort by final placement (nulls/disqualified last)
-  results.sort((a, b) => {
-    const aFinal = a.performances.find((p) => p.round === "final");
-    const bFinal = b.performances.find((p) => p.round === "final");
-    const aPlace = aFinal?.place ?? Infinity;
-    const bPlace = bFinal?.place ?? Infinity;
-    return aPlace - bPlace;
-  });
+	// Sort by final placement (nulls/disqualified last)
+	results.sort((a, b) => {
+		const aFinal = a.performances.find((p) => p.round === "final");
+		const bFinal = b.performances.find((p) => p.round === "final");
+		const aPlace = aFinal?.place ?? Infinity;
+		const bPlace = bFinal?.place ?? Infinity;
+		return aPlace - bPlace;
+	});
 
-  const cancelled = detail.rounds.every((r) => r.performances === null);
-  return { ...detail, contestantsById, results, cancelled };
+	const cancelled = detail.rounds.every((r) => r.performances === null);
+	return { ...detail, contestantsById, results, cancelled };
 }
 
 // ---------------------------------------------------------------------------
 // Contestant detail (requires fetch:contestants to populate src/data/contestants/)
 // ---------------------------------------------------------------------------
 
-export function getContestantDetail(year: number, id: number): ContestantDetail {
-  return readJson<ContestantDetail>(dataPath("contestants", String(year), `${id}.json`));
+export function getContestantDetail(
+	year: number,
+	id: number,
+): ContestantDetail {
+	return readJson<ContestantDetail>(
+		dataPath("contestants", String(year), `${id}.json`),
+	);
 }
 
 // ---------------------------------------------------------------------------
@@ -220,15 +226,15 @@ export function getContestantDetail(year: number, id: number): ContestantDetail 
 // ---------------------------------------------------------------------------
 
 export interface CountryAppearance {
-  year: number;
-  artist: string;
-  song: string;
-  contestantId: number;
-  finalRunning: number | null;
-  finalPlace: number | null;
-  finalPoints: number | null;
-  participatedInFinal: boolean;
-  cancelled: boolean;
+	year: number;
+	artist: string;
+	song: string;
+	contestantId: number;
+	finalRunning: number | null;
+	finalPlace: number | null;
+	finalPoints: number | null;
+	participatedInFinal: boolean;
+	cancelled: boolean;
 }
 
 /**
@@ -236,40 +242,42 @@ export interface CountryAppearance {
  * sorted chronologically.
  */
 export function getCountryHistory(countryCode: string): CountryAppearance[] {
-  const index = getContestIndex();
-  const appearances: CountryAppearance[] = [];
+	const index = getContestIndex();
+	const appearances: CountryAppearance[] = [];
 
-  for (const entry of index) {
-    const contestants = entry.contestants.filter(
-      (c) => c.country === countryCode,
-    );
-    if (contestants.length === 0) continue;
+	for (const entry of index) {
+		const contestants = entry.contestants.filter(
+			(c) => c.country === countryCode,
+		);
+		if (contestants.length === 0) continue;
 
-    // To get placement we need the full contest detail
-    const detail = getContest(entry.year);
-    const cancelled = detail.rounds.every((r) => r.performances === null);
-    const finalRound = detail.rounds.find((r) => r.name === "final");
+		// To get placement we need the full contest detail
+		const detail = getContest(entry.year);
+		const cancelled = detail.rounds.every((r) => r.performances === null);
+		const finalRound = detail.rounds.find((r) => r.name === "final");
 
-    for (const contestant of contestants) {
-      const finalPerf = finalRound?.performances?.find(
-        (p) => p.contestantId === contestant.id,
-      );
+		for (const contestant of contestants) {
+			const finalPerf = finalRound?.performances?.find(
+				(p) => p.contestantId === contestant.id,
+			);
 
-      appearances.push({
-        year: entry.year,
-        artist: contestant.artist,
-        song: contestant.song,
-        contestantId: contestant.id,
-        finalRunning: finalPerf?.running ?? null,
-        finalPlace: finalPerf?.place ?? null,
-        finalPoints:
-          finalPerf?.scores.find((s) => s.name === "total")?.points ?? null,
-        participatedInFinal: !!finalPerf,
-        cancelled,
-      });
-    }
-  }
+			appearances.push({
+				year: entry.year,
+				artist: contestant.artist,
+				song: contestant.song,
+				contestantId: contestant.id,
+				finalRunning: finalPerf?.running ?? null,
+				finalPlace: finalPerf?.place ?? null,
+				finalPoints:
+					finalPerf?.scores.find((s) => s.name === "total")?.points ?? null,
+				participatedInFinal: !!finalPerf,
+				cancelled,
+			});
+		}
+	}
 
-  // Sort chronologically; within the same year preserve contestant ID order
-  return appearances.sort((a, b) => a.year - b.year || a.contestantId - b.contestantId);
+	// Sort chronologically; within the same year preserve contestant ID order
+	return appearances.sort(
+		(a, b) => a.year - b.year || a.contestantId - b.contestantId,
+	);
 }
