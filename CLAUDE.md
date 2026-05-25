@@ -244,7 +244,9 @@ npm run build
 - `utils.ts` — `countryFlagUrl()` (heart flag image URL from ISO code) + `ordinal(n)` returns
   the full string ("1st", "2nd", "3rd", "4th"…) — **not** just the suffix; all call sites use
   `ordinal(n)` alone, never `{n}{ordinal(n)}`, to avoid JSX whitespace bugs
-- `Base.astro` — layout shell; nav logo "🩷 Eurovision DB" in `--c-magenta`
+- `Base.astro` — layout shell; nav logo "Eurovision DB" in `--c-magenta`; `title` prop is optional
+  (omitting it renders just "Eurovision Database" with no separator); favicon links point to PNG
+  variants and `site.webmanifest` for PWA support
 - `global.css` — design tokens; Eurovision-inspired palette; `.flag` global rule for inline images;
   content links (td a, p a, footer) have always-visible underlines via `color-mix`;
   fonts self-hosted via `@font-face` from `/public/fonts/` (Geist Sans, Geist Mono — no Pixel font);
@@ -306,7 +308,18 @@ npm run build
   not yet available (shows `—`)
 - `src/pages/data/index.json.ts` and `countries.json.ts` — Astro endpoints serving the
   two JSON files the browser needs; replaces the old `public/data` symlink
-- `public/favicon.svg` — 🩷 emoji SVG favicon
+- PWA support — `@vite-pwa/astro` wired into `astro.config.mjs`; `registerType: "autoUpdate"`;
+  Workbox pre-caches only the app shell (JS/CSS bundles, woff2 fonts, heart flags, contest logos,
+  favicon PNGs) — the ~1900 HTML pages are too numerous to pre-cache and are instead cached
+  on first visit via a `NetworkFirst` runtime rule (`networkTimeoutSeconds: 5`); search JSON
+  (`/data/index.json`, `/data/countries.json`) cached with `StaleWhileRevalidate` so search works
+  offline; `devOptions.enabled: false` keeps the dev server clean — test PWA with
+  `npm run build && npm run preview`; `manifest: false` because we supply our own `site.webmanifest`
+- `public/site.webmanifest` — PWA manifest: name "Eurovision Database", standalone display,
+  `theme_color: #000c54`, `background_color: #05041a`; icons: 192×192 and 512×512 PNG (maskable)
+- `public/favicon.ico`, `public/favicon-96x96.png`, `public/favicon-192x192.png`,
+  `public/favicon-512x512.png`, `public/apple-touch-icon.png` — multi-format favicon set;
+  replaces the old `public/favicon.svg` emoji SVG
 - `public/images/logos/{year}.png` — offline contest logos; `npm run fetch:logos` downloads all
 - `public/images/flags/{code}.svg` — Eurovision heart flags; `npm run fetch:flags` downloads all
 - `scripts/fetch-flags.ts` — downloads heart flags from eurovision.com with browser headers;
@@ -409,4 +422,4 @@ npm run build
 
 ---
 
-*Last updated: 2026-05-25 (session 10).*
+*Last updated: 2026-05-25 (session 11).*

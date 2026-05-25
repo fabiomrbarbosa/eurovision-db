@@ -3,7 +3,7 @@ import "../styles/global.css";
 import SearchModal from "../components/SearchModal.svelte";
 
 interface Props {
-	title: string;
+	title?: string;
 	description?: string;
 }
 
@@ -18,14 +18,25 @@ const {
 	<head>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<title>{title} · Eurovision Database</title>
+		<title>
+			{title ? `${title} · Eurovision Database` : "Eurovision Database"}
+		</title>
 		<meta name="description" content={description} />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png" />
+		<link
+			rel="icon"
+			type="image/png"
+			sizes="192x192"
+			href="/favicon-192x192.png"
+		/>
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+		<link rel="manifest" href="/site.webmanifest" />
 	</head>
 	<body>
 		<header class="site-header">
 			<nav class="container nav-inner">
-				<a href="/" class="nav-logo">🩷 Eurovision DB</a>
+				<a href="/" class="nav-logo">Eurovision DB</a>
 				<ul class="nav-links">
 					<li><a href="/contests/">Contests</a></li>
 					<li><a href="/countries/">Countries</a></li>

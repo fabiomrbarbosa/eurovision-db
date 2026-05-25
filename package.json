@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "@astrojs/svelte": "^8.1.1",
+    "@vite-pwa/astro": "^1.2.0",
     "astro": "^6.3.7",
     "geist": "^1.7.1",
     "svelte": "^5.0.0"
