@@ -246,7 +246,8 @@ npm run build
   `ordinal(n)` alone, never `{n}{ordinal(n)}`, to avoid JSX whitespace bugs
 - `Base.astro` — layout shell; nav logo "Eurovision DB" in `--c-magenta`; `title` prop is optional
   (omitting it renders just "Eurovision Database" with no separator); favicon links point to PNG
-  variants and `site.webmanifest` for PWA support
+  variants and `site.webmanifest` for PWA support; SW registered inline with `is:inline` script
+  (Astro's bundler can't process a `src="/registerSW.js"` reference — must be inlined)
 - `global.css` — design tokens; Eurovision-inspired palette; `.flag` global rule for inline images;
   content links (td a, p a, footer) have always-visible underlines via `color-mix`;
   fonts self-hosted via `@font-face` from `/public/fonts/` (Geist Sans, Geist Mono — no Pixel font);
@@ -296,7 +297,7 @@ npm run build
   label uses `--c-cyan`
 - `ContestTabs.svelte` — unified tab group: SF1 → SF2 → Grand Final (default); all
   columns sortable (sort resets on tab switch); jury/tele columns appear automatically
-  when data contains split scores (e.g. 2022, 2026); Run column shows draw/lineup order;
+  when data contains split scores (e.g. 2022, 2026); Draw column shows running order;
   ScoreBreakdown hidden for years with no score data (e.g. 1956); place numbers render
   in full text colour (only the trophy 🏆 uses `--c-gold` for 1st place);
   both SF and Final tables wrapped in `.table-scroll` for mobile; song cells have no
@@ -326,7 +327,7 @@ npm run build
   falls back to flagcdn.com PNG for unsupported codes (gb-wls)
 - Contest logo `<img>` on `[year].astro` uses local `/images/logos/{year}.png`
 - `contest/[year]/song/[id].astro` — song detail page: hero with performance
-  result pills (place, pts, jury/tele split), YouTube embed, `LyricsTabs` island, sidebar
+  result pills (round label, "Draw #N" running order, place, pts, jury/tele split), YouTube embed, `LyricsTabs` island, sidebar
   with song metadata (BPM, key, members), credits (writers, stage director, backings,
   dancers, conductor), and broadcast info (broadcaster, spokesperson, commentators, jury);
   only generates static paths for songs that have a local detail file; URL id is 1-based
@@ -336,7 +337,7 @@ npm run build
   typography: artist h1 uses `clamp(2rem, 5vw, 3rem)` (global min+slope, 3rem cap); song title
   uses exact global h2 values `clamp(1.4rem, 3vw, 2rem)` at `font-weight: 400` — subtitle reads
   lighter than heading (600) without introducing new scale numbers;
-  result pills: 1st-place ordinal rendered in `--c-gold`; clicking a pill with vote data scrolls
+  result pills: 1st-place ordinal rendered in `--c-gold` only for Grand Final (not semis); clicking a pill with vote data scrolls
   to `#votes-section` (90px offset for fixed header) and switches `VoteTabs` to the matching round
   via a `vote-round` CustomEvent on `window`; pills without vote data are inert;
   eyebrow links (country + edition) have dim underline at rest, full on hover;
@@ -422,4 +423,4 @@ npm run build
 
 ---
 
-*Last updated: 2026-05-25 (session 11).*
+*Last updated: 2026-05-25 (session 12).*

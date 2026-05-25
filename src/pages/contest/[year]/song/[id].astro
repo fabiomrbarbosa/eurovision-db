@@ -72,6 +72,7 @@ const performances = contest.rounds
 		return {
 			round: round.name,
 			label: roundLabelMap[round.name] ?? round.name,
+			running: perf.running ?? null,
 			place: perf.place,
 			total,
 			jury,
@@ -87,6 +88,7 @@ const performances = contest.rounds
 	) as {
 	round: string;
 	label: string;
+	running: number | null;
 	place: number | null;
 	total: number | null;
 	jury: number | null;
@@ -177,13 +179,20 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
 						{performances.map((p) => (
 							<div class="result-pill" data-vote-idx={roundToVoteIdx[p.round]}>
 								<span class="result-label">{p.label}</span>
+								{p.running != null && (
+									<span class="result-label">Draw #{p.running}</span>
+								)}
 								<span
-									class={`result-place mono${p.place === 1 ? " gold" : ""}`}
+									class={`result-place mono${p.place === 1 && p.round === "final" ? " gold" : ""}`}
 								>
 									{p.place != null ? ordinal(p.place) : "—"}
 								</span>
 								{p.total != null && (
-									<span class="result-pts mono muted">{p.total} pts</span>
+									<span
+										class={`result-pts mono${p.place === 1 && p.round === "final" ? " gold" : ""}`}
+									>
+										{p.total} pts
+									</span>
 								)}
 								{hasJuryTele && p.jury != null && (
 									<span class="result-split mono muted">
@@ -496,7 +505,8 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
 		.result-place {
 			font-size: 1.4rem;
 			font-weight: 600;
-			line-height: 1;
+			line-height: 1.2;
+			margin-top: 0.5rem;
 		}
 		.result-pts {
 			font-size: 0.8rem;

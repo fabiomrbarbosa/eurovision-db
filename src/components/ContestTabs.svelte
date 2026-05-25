@@ -260,7 +260,7 @@
 								class:sorted-desc={sortKey === "running" && sortDir === "desc"}
 								tabindex="0"
 								onclick={() => sortBy("running")}
-								onkeydown={(e) => onThKey(e, "running")}>Run</th
+								onkeydown={(e) => onThKey(e, "running")}>Draw</th
 							>
 							<th
 								class="th-sort"
@@ -393,7 +393,7 @@
 							class:sorted-desc={sortKey === "running" && sortDir === "desc"}
 							tabindex="0"
 							onclick={() => sortBy("running")}
-							onkeydown={(e) => onThKey(e, "running")}>Run</th
+							onkeydown={(e) => onThKey(e, "running")}>Draw</th
 						>
 						<th
 							class="th-sort"
