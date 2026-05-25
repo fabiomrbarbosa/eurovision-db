@@ -98,8 +98,8 @@ eurovision-app/
         │   └── countries.json.ts    ← Astro endpoint: serves src/data/countries.json
         ├── contest/
         │   ├── [year].astro         ← full contest page: scoreboard + ScoreBreakdown
-        │   └── [year]/contestant/
-        │       └── [id].astro       ← contestant detail: video, lyrics, credits, results
+        │   └── [year]/song/
+        │       └── [id].astro       ← song detail: video, lyrics, credits, results; id is 1-based (contestantId + 1)
         └── country/
             └── [code].astro         ← country page: stats + full history table
 ```
@@ -294,11 +294,14 @@ npm run build
 - `scripts/fetch-flags.ts` — downloads heart flags from eurovision.com with browser headers;
   falls back to flagcdn.com PNG for unsupported codes (gb-wls)
 - Contest logo `<img>` on `[year].astro` uses local `/images/logos/{year}.png`
-- `contest/[year]/contestant/[id].astro` — contestant detail page: hero with performance
+- `contest/[year]/song/[id].astro` — song detail page: hero with performance
   result pills (place, pts, jury/tele split), YouTube embed, `LyricsTabs` island, sidebar
   with song metadata (BPM, key, members), credits (writers, stage director, backings,
   dancers, conductor), and broadcast info (broadcaster, spokesperson, commentators, jury);
-  only generates static paths for contestants that have a local detail file
+  only generates static paths for songs that have a local detail file; URL id is 1-based
+  (`contestantId + 1` in links; page subtracts 1 internally to load the JSON file);
+  song nav below the header links to the same country's song in the previous/next year
+  it appeared, skipping cancelled editions (uses `getCountryHistory` filtered by `!cancelled`)
 - `LyricsTabs.svelte` — wrapping tab bar (flex-wrap) for original + translations + versions;
   tab label uses language name(s) (capitalised), type badge colour-coded gold/cyan/magenta;
   single-lyric songs skip the tab bar entirely; `\n\n` stanzas rendered as `<p>` with
@@ -361,4 +364,4 @@ npm run build
 
 ---
 
-*Last updated: 2026-05-25 (session 6).*
+*Last updated: 2026-05-25 (session 7).*

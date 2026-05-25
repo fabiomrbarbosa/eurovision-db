@@ -122,7 +122,7 @@
               flag: countryFlagUrl(c.country),
               label: `${c.artist} — ${c.song}`,
               sublabel: `${countryName(c.country)} · ${entry.year}`,
-              href: `/contest/${entry.year}/contestant/${c.id}`,
+              href: `/contest/${entry.year}/song/${c.id + 1}`,
             });
           }
         }

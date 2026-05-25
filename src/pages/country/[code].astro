@@ -138,7 +138,7 @@ const [yearsLine1, yearsLine2] = splitForDisplay(ranges);
 									</td>
 									<td>{h.artist}</td>
 									<td class="song-cell">
-										<a href={`/contest/${h.year}/contestant/${h.contestantId}`}><em>{h.song}</em></a>
+										<a href={`/contest/${h.year}/song/${h.contestantId + 1}`}><em>{h.song}</em></a>
 									</td>
 									<td class="right mono">
 										{h.finalPlace === 1 ? (

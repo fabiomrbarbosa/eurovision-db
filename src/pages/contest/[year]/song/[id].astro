@@ -1,5 +1,5 @@
 ---
-// src/pages/contest/[year]/contestant/[id].astro
+// src/pages/contest/[year]/song/[id].astro
 import Base from "../../../../layouts/Base.astro";
 import LyricsTabs from "../../../../components/LyricsTabs.svelte";
 import {
@@ -8,6 +8,7 @@ import {
 	getContestantDetail,
 	getCountryName,
 	getCountries,
+	getCountryHistory,
 } from "../../../../lib/data.ts";
 import { countryFlagUrl, ordinal } from "../../../../lib/utils.ts";
 import { existsSync } from "fs";
@@ -26,7 +27,7 @@ export function getStaticPaths() {
 				`${c.id}.json`,
 			);
 			if (existsSync(filePath)) {
-				paths.push({ params: { year: String(year), id: String(c.id) } });
+				paths.push({ params: { year: String(year), id: String(c.id + 1) } });
 			}
 		}
 	}
@@ -35,7 +36,7 @@ export function getStaticPaths() {
 
 const { year: yearParam, id: idParam } = Astro.params;
 const year = parseInt(yearParam, 10);
-const id = parseInt(idParam, 10);
+const id = parseInt(idParam, 10) - 1;
 
 const countries = getCountries();
 const detail = getContestantDetail(year, id);
@@ -104,6 +105,17 @@ const hasJuryTele = year > 2015;
 
 const videoUrl = detail.videoUrls?.[0] ?? null;
 
+// Country song navigation: prev/next year this country appeared (skip cancelled)
+const countryHistory = getCountryHistory(detail.country).filter(
+	(a) => !a.cancelled,
+);
+const histIdx = countryHistory.findIndex(
+	(a) => a.year === year && a.contestantId === id,
+);
+const prevEntry = histIdx > 0 ? countryHistory[histIdx - 1] : null;
+const nextEntry =
+	histIdx < countryHistory.length - 1 ? countryHistory[histIdx + 1] : null;
+
 const title = `${detail.artist} — ${detail.song} · ESC ${year}`;
 const description = `${detail.artist} represented ${countryName} at Eurovision ${year} with "${detail.song}".`;
 ---
@@ -152,6 +164,33 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
 				)
 			}
 		</header>
+
+		<nav class="song-nav">
+			{
+				prevEntry ? (
+					<a
+						href={`/contest/${prevEntry.year}/song/${prevEntry.contestantId + 1}`}
+						class="song-nav-link"
+					>
+						← {countryName} {prevEntry.year}
+					</a>
+				) : (
+					<span />
+				)
+			}
+			{
+				nextEntry ? (
+					<a
+						href={`/contest/${nextEntry.year}/song/${nextEntry.contestantId + 1}`}
+						class="song-nav-link"
+					>
+						{countryName} {nextEntry.year} →
+					</a>
+				) : (
+					<span />
+				)
+			}
+		</nav>
 
 		<div class="contestant-body">
 			<!-- Left column: video + lyrics -->
@@ -315,6 +354,27 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
 	</div>
 
 	<style>
+		/* ── Song navigation ──────────────────────────────────────── */
+		.song-nav {
+			display: flex;
+			justify-content: space-between;
+			margin-bottom: 3rem;
+			padding-bottom: 1.5rem;
+			border-bottom: 1px solid var(--c-border);
+		}
+		.song-nav-link {
+			font-family: var(--f-mono);
+			font-size: 0.75rem;
+			text-transform: uppercase;
+			letter-spacing: 0.08em;
+			color: var(--c-muted);
+			text-decoration: none;
+			transition: color 0.12s;
+		}
+		.song-nav-link:hover {
+			color: var(--c-link);
+		}
+
 		/* ── Header ───────────────────────────────────────────────── */
 		.contestant-header {
 			display: flex;
@@ -324,7 +384,6 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
 			padding-top: 2rem;
 			padding-bottom: 2rem;
 			margin-bottom: 1.5rem;
-			margin-bottom: 2.5rem;
 			border-bottom: 1px solid var(--c-border);
 		}
 		@media (min-width: 900px) {

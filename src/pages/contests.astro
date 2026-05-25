@@ -74,7 +74,7 @@ const contests = getContestIndex()
             </td>
             <td class="song-cell">
               {c.winner
-                ? <><strong>{c.winner.artist}</strong> · <a href={`/contest/${c.year}/contestant/${c.winner.contestantId}`}><em>{c.winner.song}</em></a></>
+                ? <><strong>{c.winner.artist}</strong> · <a href={`/contest/${c.year}/song/${c.winner.contestantId + 1}`}><em>{c.winner.song}</em></a></>
                 : <span class="muted">—</span>
               }
             </td>

@@ -215,7 +215,7 @@
                 </a>
               </td>
               <td>{r.artist}</td>
-              <td class="song-cell"><a href={`/contest/${year}/contestant/${r.id}`}><em>{r.song}</em></a></td>
+              <td class="song-cell"><a href={`/contest/${year}/song/${r.id + 1}`}><em>{r.song}</em></a></td>
               {#if hasJuryTele}
                 <td class="right mono muted">{r.finalJury ?? '—'}</td>
                 <td class="right mono muted">{r.finalTele ?? '—'}</td>
@@ -273,7 +273,7 @@
               </a>
             </td>
             <td>{entry.artist}</td>
-            <td class="song-cell"><a href={`/contest/${year}/contestant/${entry.id}`}><em>{entry.song}</em></a></td>
+            <td class="song-cell"><a href={`/contest/${year}/song/${entry.id + 1}`}><em>{entry.song}</em></a></td>
             {#if semiHasJuryTele}
               <td class="right mono muted">{entry.scores.find(s => s.name === 'jury')?.points ?? '—'}</td>
               <td class="right mono muted">{entry.scores.find(s => s.name === 'public')?.points ?? '—'}</td>
