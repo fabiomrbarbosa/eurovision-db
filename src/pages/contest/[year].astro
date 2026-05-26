@@ -155,20 +155,20 @@ const semiRounds = contest.rounds
 				<div class="meta-row">
 					<span class="meta-item">
 						<span class="meta-label">Venue</span>
-						{contest.arena} · {hostCountryName}
-						{
-							intendedName && (
-								<>
-									on behalf of <strong>{intendedName}</strong>
-								</>
-							)
-						}
+						<span class="meta-content">
+							{contest.arena} · {hostCountryName}
+							{
+								intendedName && (
+									<> on behalf of <strong>{intendedName}</strong></>
+								)
+							}
+						</span>
 					</span>
 					{
 						contestDates && (
 							<span class="meta-item">
 								<span class="meta-label">Dates</span>
-								{contestDates}
+								<span class="meta-content">{contestDates}</span>
 							</span>
 						)
 					}
@@ -176,7 +176,7 @@ const semiRounds = contest.rounds
 						contest.slogan && (
 							<span class="meta-item">
 								<span class="meta-label">Slogan</span>
-								<em>"{contest.slogan}"</em>
+								<span class="meta-content"><em>"{contest.slogan}"</em></span>
 							</span>
 						)
 					}
@@ -186,7 +186,7 @@ const semiRounds = contest.rounds
 						contest.presenters.length > 0 && (
 							<span class="meta-item">
 								<span class="meta-label">Hosted by</span>
-								{contest.presenters.join(" · ")}
+								<span class="meta-content">{contest.presenters.join(" · ")}</span>
 							</span>
 						)
 					}
@@ -194,7 +194,7 @@ const semiRounds = contest.rounds
 						contest.broadcasters.length > 0 && (
 							<span class="meta-item">
 								<span class="meta-label">Broadcaster</span>
-								{contest.broadcasters.join(" · ")}
+								<span class="meta-content">{contest.broadcasters.join(" · ")}</span>
 							</span>
 						)
 					}
