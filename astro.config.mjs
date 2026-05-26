@@ -26,6 +26,7 @@ export default defineConfig({
       registerType: "autoUpdate",
       manifest: false,
       workbox: {
+        navigateFallback: null,
         globPatterns: [
           // App shell
           "**/*.{js,css,woff2,ico}",
