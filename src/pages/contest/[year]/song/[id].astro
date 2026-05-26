@@ -97,7 +97,34 @@ const performances = contest.rounds
 	totalVotes: Record<string, number>;
 	juryVotes: Record<string, number>;
 	teleVotes: Record<string, number>;
+	disqualified?: boolean;
 }[];
+
+// Qualified from a semi but DQ'd from the final: contestant has a semi performance
+// AND appears in that round's disqualifieds (i.e. they earned their spot but were pulled).
+const disqualifiedFromFinal =
+	!performances.some((p) => p.round === "final") &&
+	contest.rounds.some(
+		(r) =>
+			(r.disqualifieds ?? []).includes(id) &&
+			r.performances?.some((p) => p.contestantId === id),
+	);
+
+if (disqualifiedFromFinal) {
+	performances.push({
+		round: "final",
+		label: "Grand Final",
+		running: null,
+		place: null,
+		total: null,
+		jury: null,
+		tele: null,
+		totalVotes: {},
+		juryVotes: {},
+		teleVotes: {},
+		disqualified: true,
+	});
+}
 
 // Per-round voter rows: sorted by total desc, only voters who gave points
 const votesByRound = performances
@@ -178,27 +205,36 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
 				performances.length > 0 && (
 					<div class="results-row">
 						{performances.map((p) => (
-							<div class="result-pill" data-vote-idx={roundToVoteIdx[p.round]}>
+							<div
+								class="result-pill"
+								data-vote-idx={p.disqualified ? undefined : roundToVoteIdx[p.round]}
+							>
 								<span class="result-label">{p.label}</span>
-								{p.running != null && (
-									<span class="result-label">Draw #{p.running}</span>
-								)}
-								<span
-									class={`result-place mono${p.place === 1 && p.round === "final" ? " gold" : ""}`}
-								>
-									{p.place != null ? ordinal(p.place) : "—"}
-								</span>
-								{p.total != null && (
-									<span
-										class={`result-pts mono${p.place === 1 && p.round === "final" ? " gold" : ""}`}
-									>
-										{p.total} pts
-									</span>
-								)}
-								{hasJuryTele && p.jury != null && (
-									<span class="result-split mono muted">
-										J {p.jury} · T {p.tele}
-									</span>
+								{p.disqualified ? (
+									<span class="result-place mono result-dq">Disqualified</span>
+								) : (
+									<>
+										{p.running != null && (
+											<span class="result-label">Draw #{p.running}</span>
+										)}
+										<span
+											class={`result-place mono${p.place === 1 && p.round === "final" ? " gold" : ""}`}
+										>
+											{p.place != null ? ordinal(p.place) : "—"}
+										</span>
+										{p.total != null && (
+											<span
+												class={`result-pts mono${p.place === 1 && p.round === "final" ? " gold" : ""}`}
+											>
+												{p.total} pts
+											</span>
+										)}
+										{hasJuryTele && p.jury != null && (
+											<span class="result-split mono muted">
+												J {p.jury} · T {p.tele}
+											</span>
+										)}
+									</>
 								)}
 							</div>
 						))}
@@ -505,6 +541,10 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
 			font-weight: 600;
 			line-height: 1.2;
 			margin-top: 0.5rem;
+		}
+		.result-dq {
+			font-size: 0.85rem;
+			color: var(--c-magenta);
 		}
 		.result-pts {
 			font-size: 0.8rem;

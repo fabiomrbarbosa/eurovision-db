@@ -250,6 +250,7 @@ export interface CountryAppearance {
 	finalPoints: number | null;
 	participatedInFinal: boolean;
 	cancelled: boolean;
+	disqualified: boolean;
 }
 
 /**
@@ -275,6 +276,13 @@ export function getCountryHistory(countryCode: string): CountryAppearance[] {
 			const finalPerf = finalRound?.performances?.find(
 				(p) => p.contestantId === contestant.id,
 			);
+			const disqualified =
+				!finalPerf &&
+				detail.rounds.some(
+					(r) =>
+						(r.disqualifieds ?? []).includes(contestant.id) &&
+						r.performances?.some((p) => p.contestantId === contestant.id),
+				);
 
 			appearances.push({
 				year: entry.year,
@@ -287,6 +295,7 @@ export function getCountryHistory(countryCode: string): CountryAppearance[] {
 					finalPerf?.scores.find((s) => s.name === "total")?.points ?? null,
 				participatedInFinal: !!finalPerf,
 				cancelled,
+				disqualified,
 			});
 		}
 	}

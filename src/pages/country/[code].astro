@@ -171,6 +171,8 @@ const [yearsLine1, yearsLine2] = splitForDisplay(ranges);
 												<span class="muted">{ordinal(h.finalPlace)}</span>
 											) : h.cancelled ? (
 												<span class="badge badge--magenta">Cancelled</span>
+											) : h.disqualified ? (
+												<span class="badge badge--magenta">DQ</span>
 											) : h.participatedInFinal ? (
 												<span class="muted">—</span>
 											) : (

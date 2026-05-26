@@ -123,6 +123,7 @@ const semiRounds = contest.rounds
 			.sort((a, b) => (a.running ?? 0) - (b.running ?? 0))
 			.map((perf) => {
 				const c = contest.contestantsById[perf.contestantId];
+				const disqualified = (round.disqualifieds ?? []).includes(perf.contestantId);
 				return {
 					id: c.id,
 					running: perf.running,
@@ -133,6 +134,7 @@ const semiRounds = contest.rounds
 					song: c.song,
 					total: perf.scores.find((s) => s.name === "total")?.points ?? null,
 					qualified: qualifiedToFinalIds.has(perf.contestantId),
+					disqualified,
 					scores: perf.scores,
 				};
 			}),

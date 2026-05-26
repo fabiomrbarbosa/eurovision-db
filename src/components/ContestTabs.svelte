@@ -21,6 +21,7 @@
 		song: string;
 		total: number | null;
 		qualified: boolean;
+		disqualified?: boolean;
 		scores: Score[];
 	}
 
@@ -481,6 +482,8 @@
 							<td class="col-q">
 								{#if entry.qualified}
 									<span class="q-badge">Q</span>
+								{:else if entry.disqualified}
+									<span class="dq-badge">DQ</span>
 								{/if}
 							</td>
 						</tr>
@@ -595,6 +598,13 @@
 		font-size: 0.68rem;
 		font-weight: 500;
 		color: var(--c-green);
+		letter-spacing: 0.05em;
+	}
+	.dq-badge {
+		font-family: var(--f-mono);
+		font-size: 0.68rem;
+		font-weight: 500;
+		color: var(--c-magenta);
 		letter-spacing: 0.05em;
 	}
 	.pts-gold {
