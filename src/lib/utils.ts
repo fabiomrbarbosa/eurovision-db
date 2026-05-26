@@ -1,5 +1,9 @@
-// Returns the path to an offline heart-flag image (run npm run fetch:flags first).
-// SVG from Eurovision for all current + defunct countries; PNG fallback for others.
+/**
+ * Utility helpers safe to import on both server (Astro) and client (Svelte) sides.
+ * No Node.js APIs — nothing here touches the filesystem or the network.
+ */
+
+// SVG from Eurovision.com for all countries; PNG fallback for codes it doesn't carry.
 const FLAG_PNG_CODES = new Set(["gb-wls"]);
 
 export function countryFlagUrl(code: string): string {

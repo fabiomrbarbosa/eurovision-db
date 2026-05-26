@@ -1,3 +1,9 @@
+/**
+ * HTTP client for https://eurovisionapi.runasp.net.
+ * Used only by the fetch scripts (scripts/fetch-all.ts) — never imported at build time by
+ * Astro pages, which read from local JSON files via src/lib/data.ts instead.
+ */
+
 import type {
 	ContestantDetail,
 	ContestDetail,

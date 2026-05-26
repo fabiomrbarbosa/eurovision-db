@@ -37,7 +37,7 @@
 	}
 
 	// Voters who gave points to the selected country
-	const voterDetails = $derived(() => {
+	const voterDetails = $derived.by(() => {
 		if (!selected) return [];
 		const row = results.find((r) => r.country === selected);
 		if (!row) return [];
@@ -122,7 +122,7 @@
 				</div>
 			</div>
 
-			{#if voterDetails().length > 0}
+			{#if voterDetails.length > 0}
 				<table class="voter-table">
 					<thead>
 						<tr>
@@ -135,7 +135,7 @@
 						</tr>
 					</thead>
 					<tbody>
-						{#each voterDetails() as voter}
+						{#each voterDetails as voter}
 							<tr>
 								<td
 									><img class="flag" src={countryFlagUrl(voter.code)} alt="" />

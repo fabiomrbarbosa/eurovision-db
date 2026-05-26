@@ -1,3 +1,5 @@
+// Astro build config. PWA pre-cache list is derived dynamically from src/data/contests/
+// so the set of cached years rotates automatically as new contest data is added.
 import { defineConfig } from "astro/config";
 import svelte from "@astrojs/svelte";
 import AstroPWA from "@vite-pwa/astro";

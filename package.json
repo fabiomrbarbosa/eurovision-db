@@ -10,7 +10,8 @@
     "fetch:contestants": "npx tsx scripts/fetch-all.ts --contestants",
     "fetch:year": "npx tsx scripts/fetch-all.ts --year",
     "fetch:logos": "npx tsx scripts/fetch-logos.ts",
-    "fetch:flags": "npx tsx scripts/fetch-flags.ts"
+    "fetch:flags": "npx tsx scripts/fetch-flags.ts",
+    "docs": "npx --yes serve docs"
   },
   "dependencies": {
     "@astrojs/svelte": "^8.1.1",

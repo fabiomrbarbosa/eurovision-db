@@ -1,4 +1,6 @@
 <script lang="ts">
+	// Renders lyrics with a tab per language/version. Strips HTML tags from content
+	// because the API embeds Font Awesome markup in some translated lyrics.
 	interface Lyrics {
 		type: 0 | 1 | 2;
 		languages: string[];

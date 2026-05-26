@@ -1,4 +1,6 @@
 <script lang="ts">
+	// Renders the SF1 → SF2 → Grand Final tab group for a contest year.
+	// Receives pre-shaped data from contest/[year].astro — does no data fetching itself.
 	import { untrack } from "svelte";
 	import ScoreBreakdown from "./ScoreBreakdown.svelte";
 	import { countryFlagUrl } from "../lib/utils.ts";
