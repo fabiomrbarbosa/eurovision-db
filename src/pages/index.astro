@@ -12,6 +12,7 @@ let recentWinners: Array<{
 	city: string;
 	country: string;
 	countryCode: string;
+	intendedCountryCode: string | null;
 	cancelled: boolean;
 	winner: {
 		artist: string;
@@ -33,6 +34,7 @@ try {
 			city: e.city,
 			country: getCountryName(e.country, countries),
 			countryCode: e.country,
+			intendedCountryCode: e.intendedCountry ?? null,
 			cancelled: e.cancelled,
 			winner: e.winner
 				? {
@@ -73,7 +75,7 @@ const hasData = recentWinners.length > 0;
 								<span class="winner-year">
 									<img
 										class="flag"
-										src={countryFlagUrl(e.countryCode)}
+										src={countryFlagUrl(e.intendedCountryCode ?? e.countryCode)}
 										alt=""
 									/>
 									{e.city}

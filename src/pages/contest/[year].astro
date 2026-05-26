@@ -148,7 +148,7 @@ const semiRounds = contest.rounds
 		<header class="contest-header">
 			<div class="contest-meta">
 				<h1>
-					<img class="flag" src={countryFlagUrl(contest.country)} alt="" />
+					<img class="flag" src={countryFlagUrl(contest.intendedCountry ?? contest.country)} alt="" />
 					{contest.city}
 					{year}
 				</h1>

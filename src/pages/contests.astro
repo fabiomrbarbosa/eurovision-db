@@ -10,6 +10,7 @@ const contests = getContestIndex()
 	.map((e) => ({
 		...e,
 		countryCode: e.country,
+		intendedCountryCode: e.intendedCountry ?? null,
 		country: getCountryName(e.country, countries),
 		intendedCountry: e.intendedCountry
 			? getCountryName(e.intendedCountry, countries)
@@ -61,7 +62,7 @@ const contests = getContestIndex()
 								<td>
 									<img
 										class="flag"
-										src={countryFlagUrl(c.countryCode)}
+										src={countryFlagUrl(c.intendedCountryCode ?? c.countryCode)}
 										alt=""
 									/>
 									<a href={`/contest/${c.year}/`} class="host-link">
