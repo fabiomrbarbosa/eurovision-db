@@ -201,10 +201,6 @@
 		})),
 	);
 
-	const activeSemiDate = $derived(
-		!isGrandFinal ? semiRounds[activeIdx]?.date : null,
-	);
-
 	const semiHasJuryTele = $derived(
 		!isGrandFinal &&
 			semiRounds[activeIdx].entries.some((e) =>
@@ -373,9 +369,6 @@
 		{/if}
 	{:else}
 		<!-- Semi-final tab -->
-		{#if activeSemiDate}
-			<p class="semi-date mono muted">{activeSemiDate}</p>
-		{/if}
 
 		<div class="table-scroll">
 			<table class="results-table">
@@ -543,13 +536,6 @@
 	.tab-btn.active {
 		color: var(--c-gold);
 		border-bottom-color: var(--c-gold);
-	}
-
-	/* ── Date ───────────────────────────────────────────────────── */
-	.semi-date {
-		font-size: 0.72rem;
-		letter-spacing: 0.08em;
-		margin-bottom: 1rem;
 	}
 
 	/* ── Table (base styles live in global.css) ─────────────────── */
