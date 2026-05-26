@@ -11,9 +11,19 @@
 
 	let { lyrics }: { lyrics: Lyrics[] } = $props();
 
+	const TYPE_ORDER: Record<number, number> = { 0: 0, 2: 1, 1: 2 };
+	const sorted = $derived(
+		[...lyrics].sort((a, b) => {
+			const diff = TYPE_ORDER[a.type] - TYPE_ORDER[b.type];
+			if (diff !== 0) return diff;
+			if (a.type === 1) return tabLabel(a).localeCompare(tabLabel(b));
+			return 0;
+		}),
+	);
+
 	let activeIdx = $state(0);
 
-	const current = $derived(lyrics[activeIdx]);
+	const current = $derived(sorted[activeIdx]);
 	const paragraphs = $derived(
 		current?.content
 			.replace(/<[^>]*>/g, "")
@@ -32,9 +42,9 @@
 </script>
 
 <div class="lyrics-tabs">
-	{#if lyrics.length > 1}
+	{#if sorted.length > 1}
 		<div class="tab-bar" role="tablist" aria-label="Lyrics versions">
-			{#each lyrics as lyric, i}
+			{#each sorted as lyric, i}
 				<button
 					role="tab"
 					id="lyrics-tab-{i}"
