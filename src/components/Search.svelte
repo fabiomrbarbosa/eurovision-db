@@ -11,6 +11,8 @@
 		country: string;
 		artist: string;
 		song: string;
+		finalPlace: number | null;
+		finalPoints: number | null;
 	}
 	interface IndexEntry {
 		year: number;
@@ -66,27 +68,36 @@
 		return countryMap[code] ?? code;
 	}
 
+	function normalize(s: string) {
+		return s.normalize("NFD").replace(/\p{Diacritic}/gu, "").toLowerCase();
+	}
+
 	$effect(() => {
-		const q = query.trim().toLowerCase();
+		const qNorm = normalize(query.trim());
 		if (debounceTimer) clearTimeout(debounceTimer);
 
-		if (!q || q.length < 2) {
+		if (!qNorm || qNorm.length < 2) {
 			hits = [];
 			open = false;
 			return;
 		}
 
 		debounceTimer = setTimeout(() => {
+			const tokens = qNorm.split(/\s+/).filter(Boolean);
+
+			// Every token must appear somewhere in the joined fields string.
+			function matchAll(...fields: string[]): boolean {
+				const combined = fields.join(" ");
+				return tokens.every((t) => combined.includes(t));
+			}
+
 			const countryHits: SearchHit[] = [];
 			const contestHits: SearchHit[] = [];
 			const songHits: SearchHit[] = [];
 
-			// Pass 1 — country pages (highest priority, one hit per matching country name)
-			// Also collect the matching country codes for use in Pass 2.
-			const matchingCodes = new Set<string>();
+			// Country pages — match all tokens against the country name.
 			for (const [code, name] of Object.entries(countryMap)) {
-				if (name.toLowerCase().includes(q)) {
-					matchingCodes.add(code);
+				if (matchAll(normalize(name))) {
 					countryHits.push({
 						type: "country",
 						flag: countryFlagUrl(code),
@@ -98,19 +109,12 @@
 			}
 			countryHits.sort((a, b) => a.label.localeCompare(b.label));
 
-			// Pass 2 — contests and songs.
-			// Contest matches: year/city title OR the country hosted it (from Pass 1).
-			// Song matches: artist/title OR the country sent it (from Pass 1).
-			// When a contest matches by title we skip its song loop (one hit per edition
-			// for title searches like "2022"); country-code matches don't trigger that skip
-			// so all of a country's songs still appear.
 			for (const entry of index) {
-				const contestTitleMatch =
-					String(entry.year).includes(q) ||
-					entry.city.toLowerCase().includes(q);
-				const hostMatch = matchingCodes.has(entry.country);
+				const yearStr = String(entry.year);
+				const cityNorm = normalize(entry.city);
+				const hostNorm = normalize(countryName(entry.country));
 
-				if (contestTitleMatch || hostMatch) {
+				if (matchAll(yearStr, cityNorm, hostNorm)) {
 					contestHits.push({
 						type: "contest",
 						flag: countryFlagUrl(entry.country),
@@ -118,15 +122,23 @@
 						sublabel: countryName(entry.country),
 						href: `/contest/${entry.year}/`,
 					});
-					if (contestTitleMatch) continue; // title match → skip song scan for this edition
 				}
 
-				for (const c of entry.contestants) {
-					const songTitleMatch =
-						c.artist.toLowerCase().includes(q) ||
-						c.song.toLowerCase().includes(q);
-					const sentByMatch = matchingCodes.has(c.country);
-					if (songTitleMatch || sentByMatch) {
+				// Single year/city token → show all songs for that edition sorted by place.
+				// Multi-token → filter to songs where all tokens match the combined song text.
+				const isYearCityOnly =
+					tokens.length === 1 &&
+					(yearStr.includes(tokens[0]) || cityNorm.includes(tokens[0]));
+
+				if (isYearCityOnly) {
+					const sorted = [...entry.contestants].sort((a, b) => {
+						if (a.finalPlace !== null && b.finalPlace !== null)
+							return a.finalPlace - b.finalPlace;
+						if (a.finalPlace !== null) return -1;
+						if (b.finalPlace !== null) return 1;
+						return (b.finalPoints ?? -1) - (a.finalPoints ?? -1);
+					});
+					for (const c of sorted) {
 						songHits.push({
 							type: "song",
 							flag: countryFlagUrl(c.country),
@@ -134,6 +146,26 @@
 							sublabel: `${countryName(c.country)} · ${entry.year}`,
 							href: `/contest/${entry.year}/song/${c.id + 1}/`,
 						});
+					}
+				} else {
+					for (const c of entry.contestants) {
+						if (
+							matchAll(
+								normalize(c.artist),
+								normalize(c.song),
+								normalize(countryName(c.country)),
+								yearStr,
+								cityNorm,
+							)
+						) {
+							songHits.push({
+								type: "song",
+								flag: countryFlagUrl(c.country),
+								label: `${c.artist} — ${c.song}`,
+								sublabel: `${countryName(c.country)} · ${entry.year}`,
+								href: `/contest/${entry.year}/song/${c.id + 1}/`,
+							});
+						}
 					}
 				}
 			}

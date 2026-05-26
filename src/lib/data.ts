@@ -86,6 +86,8 @@ export interface ContestIndexEntry {
 		country: string;
 		artist: string;
 		song: string;
+		finalPlace: number | null;
+		finalPoints: number | null;
 	}>;
 	winner: {
 		contestantId: number;
@@ -124,12 +126,25 @@ export function getContestIndex(): ContestIndexEntry[] {
 				logoUrl: detail.logoUrl,
 				broadcasters: detail.broadcasters,
 				presenters: detail.presenters,
-				contestants: detail.contestants.map((c) => ({
-					id: c.id,
-					country: c.country,
-					artist: c.artist,
-					song: c.song,
-				})),
+				contestants: (() => {
+					const finalPerfs = new Map(
+						(final?.performances ?? [])
+							.filter((p) => p !== null)
+							.map((p) => [p.contestantId, p]),
+					);
+					return detail.contestants.map((c) => {
+						const perf = finalPerfs.get(c.id);
+						return {
+							id: c.id,
+							country: c.country,
+							artist: c.artist,
+							song: c.song,
+							finalPlace: perf?.place ?? null,
+							finalPoints:
+								perf?.scores.find((s) => s.name === "total")?.points ?? null,
+						};
+					});
+				})(),
 				winner: winnerContestant
 					? {
 							contestantId: winnerContestant.id,
