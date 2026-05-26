@@ -66,8 +66,7 @@ const BROADCASTER_FULL: Record<string, string> = {
 
 // Typos / encoding errors in the upstream API data that would recur on re-fetch.
 const BROADCASTER_ALIASES: Record<string, string> = {
-	MKRTV: "MRT",  // North Macedonia rebranded from MKRTV to MRT in 2019
-	RTÈ:   "RTÉ",  // 1981: È (grave) should be É (acute)
+	RTÈ: "RTÉ",  // 1981: È (grave) should be É (acute)
 };
 
 // Per-year broadcaster overrides. The API sometimes reports only the consortium
