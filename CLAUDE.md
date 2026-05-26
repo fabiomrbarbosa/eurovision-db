@@ -367,6 +367,7 @@ npm run build
 - Build fix: contestant page guards all nullable array fields (`dancers`, `backings`,
   `commentators`, `jury` etc.) with `toArr()` helper — API occasionally returns a bare string
   for single-value entries instead of a `string[]`
+- `VideoPlayer.svelte` — video embed island used on `[id].astro`; accepts `videoUrls: string[]` and `title`; renders the active video as a 16:9 `aspect-ratio` iframe; shows a horizontally-scrollable thumbnail strip below when there are 2+ videos (YouTube `mqdefault.jpg` thumbnails, active highlighted with `--c-cyan` border); the parent grid column must have `min-width: 0` to prevent iframe overflow
 - `VoteTabs.svelte` — per-song voter breakdown island used on `[id].astro`; accepts `rounds`
   (label + voters array) and `hasJuryTele`; tab bar always shown so the round name is visible
   even for single-round songs; listens to `vote-round` CustomEvent (dispatched by result pill

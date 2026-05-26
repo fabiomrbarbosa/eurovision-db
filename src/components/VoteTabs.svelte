@@ -1,5 +1,6 @@
 <script lang="ts">
 	// src/components/VoteTabs.svelte
+	import { untrack } from "svelte";
 	import { countryFlagUrl } from "../lib/utils.ts";
 
 	interface Voter {
@@ -23,7 +24,7 @@
 		hasJuryTele: boolean;
 	} = $props();
 
-	let active = $state(rounds.length - 1); // default to last (Grand Final)
+	let active = $state(untrack(() => rounds.length - 1)); // default to last (Grand Final)
 
 	$effect(() => {
 		const handler = (e: Event) => {

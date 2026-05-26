@@ -3,6 +3,7 @@
 import Base from "../../../../layouts/Base.astro";
 import LyricsTabs from "../../../../components/LyricsTabs.svelte";
 import VoteTabs from "../../../../components/VoteTabs.svelte";
+import VideoPlayer from "../../../../components/VideoPlayer.svelte";
 import {
 	getYears,
 	getContest,
@@ -137,7 +138,7 @@ const allWriters = [
 ];
 const hasJuryTele = year > 2015;
 
-const videoUrl = detail.videoUrls?.[0] ?? null;
+const videoUrls = detail.videoUrls ?? [];
 
 // Country song navigation: prev/next year this country appeared
 const countryHistory = getCountryHistory(detail.country);
@@ -237,16 +238,13 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
 			<!-- Left column: video + lyrics -->
 			<div class="col-main">
 				{
-					videoUrl && (
+					videoUrls.length > 0 && (
 						<section class="section-video">
-							<div class="video-embed">
-								<iframe
-									src={videoUrl + "?vq=hd720"}
-									title={`${detail.artist} — ${detail.song}`}
-									allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-									allowfullscreen
-								/>
-							</div>
+							<VideoPlayer
+								{videoUrls}
+								title={`${detail.artist} — ${detail.song}`}
+								client:load
+							/>
 						</section>
 					)
 				}
@@ -528,6 +526,9 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
 			grid-template-columns: 1fr;
 			gap: 3rem;
 		}
+		.col-main {
+			min-width: 0;
+		}
 		@media (min-width: 900px) {
 			.contestant-body {
 				grid-template-columns: 1fr 22rem;
@@ -538,22 +539,6 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
 		/* ── Video ────────────────────────────────────────────────── */
 		.section-video {
 			margin-bottom: 2.5rem;
-		}
-		.video-embed {
-			position: relative;
-			padding-bottom: 56.25%;
-			height: 0;
-			overflow: hidden;
-			border-radius: 4px;
-			background: #000;
-		}
-		.video-embed iframe {
-			position: absolute;
-			top: 0;
-			left: 0;
-			width: 100%;
-			height: 100%;
-			border: 0;
 		}
 
 		/* ── Sections ─────────────────────────────────────────────── */
