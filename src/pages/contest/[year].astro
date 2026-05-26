@@ -9,7 +9,7 @@ import {
 	getCountryName,
 	getCountries,
 } from "../../lib/data.ts";
-import { countryFlagUrl } from "../../lib/utils.ts";
+import { countryFlagUrl, resolveContestBroadcasters } from "../../lib/utils.ts";
 
 export async function getStaticPaths() {
 	const years = getYears();
@@ -196,7 +196,7 @@ const semiRounds = contest.rounds
 						contest.broadcasters.length > 0 && (
 							<span class="meta-item">
 								<span class="meta-label">Broadcaster</span>
-								<span class="meta-content">{contest.broadcasters.join(" · ")}</span>
+								<span class="meta-content">{resolveContestBroadcasters(contest.year, contest.broadcasters).join(" · ")}</span>
 							</span>
 						)
 					}

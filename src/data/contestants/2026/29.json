@@ -1,54 +1,57 @@
 {
-  "id": 29,
-  "country": "LU",
-  "artist": "Eva Marija",
-  "song": "Mother Nature",
+  "id": 32,
+  "country": "SM",
+  "artist": "Senhit",
+  "song": "Superstar",
   "videoUrls": [
-    "https://www.youtube-nocookie.com/embed/-oTfj9ysTJ0",
-    "https://www.youtube-nocookie.com/embed/4WA162bl1Fo",
-    "https://www.youtube-nocookie.com/embed/bXIOlWnDzaY",
-    "https://www.youtube-nocookie.com/embed/YR9vbRsfCsY",
-    "https://www.youtube-nocookie.com/embed/sXCy2umOUkM",
-    "https://www.youtube-nocookie.com/embed/aCRP5ue6cTI",
-    "https://www.youtube-nocookie.com/embed/YeA_FwR_mzs"
+    "https://www.youtube-nocookie.com/embed/VhwoT8ah9R8",
+    "https://www.youtube-nocookie.com/embed/tC3eHYO38do",
+    "https://www.youtube-nocookie.com/embed/xR33DSWLiv8",
+    "https://www.youtube-nocookie.com/embed/84ZJdkqcaDw",
+    "https://www.youtube-nocookie.com/embed/MY7i16XYfOw",
+    "https://www.youtube-nocookie.com/embed/jTRTXKI7YmI",
+    "https://www.youtube-nocookie.com/embed/leReQ27F8Us"
   ],
-  "bpm": 114,
-  "tone": "C major",
+  "bpm": 129,
+  "tone": "C# major",
   "artistPeople": [
-    "Eva Marija"
+    "Senhit Zadik Zadik"
   ],
   "backings": [
-    "Christina Kerschner",
-    "Helena May",
-    "Maria Broberg",
-    "Marina Zettl",
-    "Susanne Georgi"
+    "Anders Deeno Nielsen",
+    "Boy George",
+    "James Mulford",
+    "Kate Ivory Jordan",
+    "Marion Fagbemi"
   ],
   "dancers": null,
-  "stageDirector": "Mariia Hrygorashchenko, Nataliia Lysenkova, Nataliia Rovenska",
+  "stageDirector": "Dan Shipton, Ross Nicholson",
   "composers": null,
   "conductor": null,
   "lyricists": null,
   "writers": [
-    "Eva Marija",
+    "Anderz Wrethov",
+    "Boy George",
+    "John Emil Johansson",
+    "Jonathan Bellini",
     "Kill J",
-    "Maria Broberg",
+    "Senhit ",
     "Thomas Stengaard"
   ],
-  "broadcaster": "RTL",
+  "broadcaster": "SMRTV",
   "commentators": [
-    "Raoul Roos",
-    "Roger Saurfeld"
+    "Anna Gaspari",
+    "Gigi Restivo"
   ],
   "jury": [
-    "Charel Storn",
-    "Laura Thorn",
-    "Letizia Lovece",
-    "Marie Gales",
-    "Melvyn Schartz",
-    "Naomi Ayé Vaidovics Suárez",
-    "Paul Bradshaw"
+    "Alberto Carlo Braschi",
+    "Amalia Gozi",
+    "Elia Rinaldi",
+    "Fabrizio Raggi",
+    "Martin Minotti",
+    "Sara Raschi",
+    "Sofia Checcetti"
   ],
-  "spokesperson": "Hana Sofia Lopes",
+  "spokesperson": "Kelly Joyce",
   "lyrics": []
 }
