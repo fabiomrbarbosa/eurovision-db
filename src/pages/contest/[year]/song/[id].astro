@@ -148,7 +148,7 @@ const prevEntry = histIdx > 0 ? countryHistory[histIdx - 1] : null;
 const nextEntry =
 	histIdx < countryHistory.length - 1 ? countryHistory[histIdx + 1] : null;
 
-const title = `${detail.artist} — ${detail.song} · ESC ${year}`;
+const title = `${detail.artist} - ${detail.song} (${countryName} ${year})`;
 const description = `${detail.artist} represented ${countryName} at Eurovision ${year} with "${detail.song}".`;
 ---
 

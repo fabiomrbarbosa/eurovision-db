@@ -65,8 +65,7 @@ const contests = getContestIndex()
 										alt=""
 									/>
 									<a href={`/contest/${c.year}/`} class="host-link">
-										{c.city}
-										<span class="muted">, {c.country}</span>
+										{`${c.city},`}<span class="muted">{` ${c.country}`}</span>
 									</a>
 									{c.intendedCountry && (
 										<span

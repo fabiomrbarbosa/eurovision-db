@@ -5,6 +5,7 @@ import ContestTabs from "../../components/ContestTabs.svelte";
 import {
 	getYears,
 	getResolvedContest,
+	getContestIndex,
 	getCountryName,
 	getCountries,
 } from "../../lib/data.ts";
@@ -23,6 +24,10 @@ const yearIdx = years.indexOf(year);
 const prevYear = yearIdx > 0 ? years[yearIdx - 1] : null;
 const nextYear = yearIdx < years.length - 1 ? years[yearIdx + 1] : null;
 
+const contestIndex = getContestIndex();
+const prevCity = prevYear ? (contestIndex.find((e) => e.year === prevYear)?.city ?? null) : null;
+const nextCity = nextYear ? (contestIndex.find((e) => e.year === nextYear)?.city ?? null) : null;
+
 const countries = getCountries();
 const contest = getResolvedContest(year);
 const hasJuryTele = year > 2015;
@@ -40,7 +45,7 @@ const results = contest.results.map((r) => {
 		...r,
 		countryName: getCountryName(r.country, countries),
 		inFinal: finalPerf !== undefined,
-		finalRunning: finalPerf?.running ?? null,
+		running: finalPerf?.running ?? null,
 		finalPlace: finalPerf?.place ?? null,
 		finalTotal:
 			finalPerf?.scores.find((s) => s.name === "total")?.points ?? null,
@@ -60,8 +65,6 @@ const hostCountryName = getCountryName(contest.country, countries);
 const intendedName = contest.intendedCountry
 	? getCountryName(contest.intendedCountry, countries)
 	: null;
-
-const cancelled = contest.cancelled;
 
 // Date list from round dates (sorted ascending, deduped)
 const roundDates = [
@@ -99,9 +102,7 @@ if (roundDates.length > 0) {
 }
 
 // Build semifinal round data for SemifinalsView
-const qualifiedToFinalIds = new Set(
-	results.filter((r) => r.finalPlace !== null).map((r) => r.id),
-);
+const qualifiedToFinalIds = new Set(finalist.map((r) => r.id));
 const semiRoundOrder: Record<string, number> = {
 	semifinal: 0,
 	semifinal1: 1,
@@ -139,7 +140,7 @@ const semiRounds = contest.rounds
 ---
 
 <Base
-	title={`${year} Eurovision`}
+	title={`${contest.city} ${year}`}
 	description={`Eurovision Song Contest ${year} in ${contest.city}. Full results, scores and voting breakdown.`}
 >
 	<div class="container">
@@ -211,7 +212,7 @@ const semiRounds = contest.rounds
 			{
 				prevYear ? (
 					<a href={`/contest/${prevYear}/`} class="edition-nav-link">
-						← ESC {prevYear}
+						← {prevCity ?? "ESC"} {prevYear}
 					</a>
 				) : (
 					<span />
@@ -220,7 +221,7 @@ const semiRounds = contest.rounds
 			{
 				nextYear ? (
 					<a href={`/contest/${nextYear}/`} class="edition-nav-link">
-						ESC {nextYear} →
+						{nextCity ?? "ESC"} {nextYear} →
 					</a>
 				) : (
 					<span />
@@ -229,7 +230,7 @@ const semiRounds = contest.rounds
 		</nav>
 
 		{
-			cancelled ? (
+			contest.cancelled ? (
 				<section class="cancelled-notice">
 					<p class="cancelled-label mono">Contest cancelled</p>
 					<p class="cancelled-desc">
@@ -284,19 +285,7 @@ const semiRounds = contest.rounds
 						<ContestTabs
 							client:load
 							semiRounds={semiRounds}
-							finalists={finalist.map((r) => ({
-								id: r.id,
-								country: r.country,
-								countryName: r.countryName,
-								artist: r.artist,
-								song: r.song,
-								running: r.finalRunning,
-								finalPlace: r.finalPlace,
-								finalTotal: r.finalTotal,
-								finalJury: r.finalJury,
-								finalTele: r.finalTele,
-								scores: r.scores,
-							}))}
+							finalists={finalist}
 							countries={countries}
 							hasJuryTele={hasJuryTele}
 							year={year}

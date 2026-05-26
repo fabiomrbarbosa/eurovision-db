@@ -267,10 +267,12 @@ npm run build
 - `contests.astro` — all editions table; columns: Year, Host, Winner, Winning song, Winning score,
   Entries; sortable by Year (default desc), Host country, Winner country, Winning score, Entries;
   table wrapped in `.table-scroll` for mobile; host city+country text is a link to the contest
-  (flag stays outside the link); winning song is muted and linked; Cancelled editions show a
-  `badge badge--magenta` in the Winning Score column instead of a dash; the `.map()` spreads
-  the full `ContestIndexEntry` (`...e`) and only adds derived fields on top — so `cancelled` and
-  any future index fields flow through automatically without needing to be listed explicitly
+  (flag stays outside the link); city and country rendered as `{city,}<span>{country}</span>`
+  (comma inside first expression, space inside second) — no JSX whitespace nodes around the comma;
+  winning song is muted and linked; Cancelled editions show a `badge badge--magenta` in the
+  Winning Score column instead of a dash; the `.map()` spreads the full `ContestIndexEntry`
+  (`...e`) and only adds derived fields on top — so `cancelled` and any future index fields flow
+  through automatically without needing to be listed explicitly
 - `countries.astro` — country listing with win/appearance stats; all columns sortable;
   default sort: alphabetical by country name; flag sits outside the country name `<a>` link
   so the underline doesn't bleed under the blank space between flag and text
@@ -310,12 +312,15 @@ npm run build
 - `src/pages/data/index.json.ts` and `countries.json.ts` — Astro endpoints serving the
   two JSON files the browser needs; replaces the old `public/data` symlink
 - PWA support — `@vite-pwa/astro` wired into `astro.config.mjs`; `registerType: "autoUpdate"`;
-  Workbox pre-caches only the app shell (JS/CSS bundles, woff2 fonts, heart flags, contest logos,
-  favicon PNGs) — the ~1900 HTML pages are too numerous to pre-cache and are instead cached
-  on first visit via a `NetworkFirst` runtime rule (`networkTimeoutSeconds: 5`); search JSON
-  (`/data/index.json`, `/data/countries.json`) cached with `StaleWhileRevalidate` so search works
-  offline; `devOptions.enabled: false` keeps the dev server clean — test PWA with
-  `npm run build && npm run preview`; `manifest: false` because we supply our own `site.webmanifest`
+  Workbox pre-caches the app shell (JS/CSS bundles, woff2 fonts, heart flags, contest logos,
+  favicon PNGs) plus key navigation pages (`/`, `/contests/`, `/countries/`) and the most recent
+  4 contest years (contest page + all song pages) — years are derived dynamically at build time
+  from `src/data/contests/` so the set rotates automatically each year (`PRECACHE_YEARS = 4`);
+  all other HTML pages cache on first visit via a `NetworkFirst` runtime rule
+  (`networkTimeoutSeconds: 5`); search JSON (`/data/index.json`, `/data/countries.json`) cached
+  with `StaleWhileRevalidate` so search works offline; `devOptions.enabled: false` keeps the dev
+  server clean — test PWA with `npm run build && npm run preview`; `manifest: false` because we
+  supply our own `site.webmanifest`
 - `public/site.webmanifest` — PWA manifest: name "Eurovision Database", standalone display,
   `theme_color: #000c54`, `background_color: #05041a`; icons: 192×192 and 512×512 PNG (maskable)
 - `public/favicon.ico`, `public/favicon-96x96.png`, `public/favicon-192x192.png`,
@@ -325,7 +330,12 @@ npm run build
 - `public/images/flags/{code}.svg` — Eurovision heart flags; `npm run fetch:flags` downloads all
 - `scripts/fetch-flags.ts` — downloads heart flags from eurovision.com with browser headers;
   falls back to flagcdn.com PNG for unsupported codes (gb-wls)
-- Contest logo `<img>` on `[year].astro` uses local `/images/logos/{year}.png`
+- Contest logo `<img>` on `[year].astro` uses local `/images/logos/{year}.png`; logos compressed
+- `contest/[year].astro` — prev/next edition nav shows "City Year" (e.g. "← Turin 2022") using
+  `getContestIndex()` to look up city at build time; falls back to "ESC Year" if city missing;
+  `finalist.map()` reshape removed — `finalist` passed directly to `ContestTabs` after renaming
+  `finalRunning` → `running` in the `results.map()`; `qualifiedToFinalIds` derived from `finalist`
+  instead of re-filtering `results`; `cancelled` alias removed, `contest.cancelled` used directly
 - `contest/[year]/song/[id].astro` — song detail page: hero with performance
   result pills (round label, "Draw #N" running order, place, pts, jury/tele split), YouTube embed, `LyricsTabs` island, sidebar
   with song metadata (BPM, key, members), credits (writers, stage director, backings,
@@ -337,7 +347,7 @@ npm run build
   typography: artist h1 uses `clamp(2rem, 5vw, 3rem)` (global min+slope, 3rem cap); song title
   uses exact global h2 values `clamp(1.4rem, 3vw, 2rem)` at `font-weight: 400` — subtitle reads
   lighter than heading (600) without introducing new scale numbers;
-  result pills: 1st-place ordinal rendered in `--c-gold` only for Grand Final (not semis); clicking a pill with vote data scrolls
+  page title format: `Artist - Song (Country Year)`; result pills: 1st-place ordinal rendered in `--c-gold` only for Grand Final (not semis); clicking a pill with vote data scrolls
   to `#votes-section` (90px offset for fixed header) and switches `VoteTabs` to the matching round
   via a `vote-round` CustomEvent on `window`; pills without vote data are inert;
   eyebrow links (country + edition) have dim underline at rest, full on hover;
@@ -423,4 +433,4 @@ npm run build
 
 ---
 
-*Last updated: 2026-05-25 (session 12).*
+*Last updated: 2026-05-26 (session 13).*
