@@ -56,7 +56,7 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	RTBF:       { full: "Radio-Télévision belge de la Communauté française",  src: ACT + "Belgium_RTBF.png",                       dest: "/images/broadcasters/rtbf.png" },
 	RTCG:       { full: "Radio-televizija Crne Gore",                         src: ACT + "Montenegro%20-%20RTCG.png",              dest: "/images/broadcasters/rtcg.png" },
 	RTF:        { full: "Radiodiffusion-Télévision Française" },
-	RTL:        { full: "Radio Télé Luxembourg" },
+	RTL:        { full: "Radio Télé Luxembourg",                               dest: "/images/broadcasters/rtl.png" },
 	RTP:        { full: "Rádio e Televisão de Portugal",                      src: ACT + "Portugal_RTP.png",                       dest: "/images/broadcasters/rtp.png" },
 	RTÉ:        { full: "Raidió Teilifís Éireann",                            src: ACT + "Ireland%20-%20RTE.jpg",                  dest: "/images/broadcasters/rte.jpg" },
 	RTS:        { full: "Radio Televizija Srbije",                            src: ACT + "Serbie_rts.png",                         dest: "/images/broadcasters/rts.png" },
