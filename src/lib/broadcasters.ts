@@ -74,8 +74,7 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	},
 	GPB: {
 		full: "Georgian Public Broadcasting",
-		src: ACT + "Georgia-GPB.png",
-		dest: "/images/broadcasters/gpb.png",
+		dest: "/images/broadcasters/gpb.svg",
 	},
 	HR: { full: "Hessischer Rundfunk", dest: "/images/broadcasters/hr.svg" },
 	HRT: {
@@ -97,8 +96,7 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	},
 	LTV: {
 		full: "Latvijas Televīzija",
-		src: ACT + "Latvia%20-%20LSM.png",
-		dest: "/images/broadcasters/ltv.png",
+		dest: "/images/broadcasters/ltv.svg",
 	},
 	MKRTV: {
 		src: ACT + "FYR%20of%20Macedonia%20-%20MKRTV.jpg",
@@ -211,8 +209,7 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	},
 	"UA:PBC": {
 		full: "National Public Broadcasting Company of Ukraine",
-		src: ACT + "Ukraine_Suspilne.png",
-		dest: "/images/broadcasters/ua-pbc.png",
+		dest: "/images/broadcasters/ua-pbc.svg",
 	},
 	VRT: {
 		full: "Vlaamse Radio- en Televisieomroeporganisatie",
