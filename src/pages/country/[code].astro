@@ -78,12 +78,7 @@ function computeRanges(years: number[]): string[] {
 }
 
 function splitForDisplay(ranges: string[]): [string, string] {
-	if (ranges.length === 0) return ["", ""];
-	if (ranges.length === 1) {
-		const parts = ranges[0].split("–");
-		if (parts.length === 1) return [parts[0], ""];
-		return [parts[0] + "–", parts[1]];
-	}
+	if (ranges.length <= 1) return [ranges[0] ?? "", ""];
 	const total =
 		ranges.reduce((sum, r) => sum + r.length, 0) + (ranges.length - 1) * 2;
 	const half = total / 2;
@@ -105,9 +100,7 @@ function splitForDisplay(ranges: string[]): [string, string] {
 }
 
 const ranges = computeRanges(history.map((h) => h.year));
-// Count individual 4-digit year numbers visible: "1956–1965" → 2, "1956" → 1
-const yearNumberCount = ranges.reduce((sum, r) => sum + r.split("–").length, 0);
-const oneLiner = yearNumberCount <= 5;
+const oneLiner = ranges.length === 1;
 const [yearsLine1, yearsLine2] = splitForDisplay(ranges);
 ---
 
