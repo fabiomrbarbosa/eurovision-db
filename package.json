@@ -12,7 +12,6 @@
     "fetch:logos": "npx tsx scripts/fetch-logos.ts",
     "fetch:eurodex-logos": "npx tsx scripts/fetch-eurodex-logos.ts",
     "fetch:flags": "npx tsx scripts/fetch-flags.ts",
-    "fetch:broadcaster-logos": "npx tsx scripts/fetch-broadcaster-logos.ts",
     "docs": "npx --yes serve docs"
   },
   "dependencies": {

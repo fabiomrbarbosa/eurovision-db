@@ -1,11 +1,9 @@
 /**
  * Single source of truth for all broadcaster metadata:
  *   full  — expanded name shown in the UI (absent = display code as-is)
- *   src   — EBU download URL (absent = no logo to fetch)
  *   dest  — public path served by Astro (absent = no logo available)
  *
  * Consumed by:
- *   scripts/fetch-broadcaster-logos.ts → downloads src → dest
  *   src/lib/utils.ts → expandBroadcaster(), broadcasterLogoUrl()
  *
  * Keys match the raw broadcaster string from ContestantDetail.broadcaster
@@ -15,13 +13,9 @@
 
 export interface BroadcasterEntry {
 	full?: string;
-	src?: string;
 	dest?: string;
 	square?: true;
 }
-
-const ACT =
-	"https://www.ebu.ch/files/live/sites/ebu/files/Logos/Members/Active%20Members/";
 
 export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	ARD: {
@@ -47,6 +41,10 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	BNT: {
 		full: "Bulgarian National Television",
 		dest: "/images/broadcasters/bnt.svg",
+	},
+	BTRC: {
+		full: "Bielaruskaje telebachannie i radyjo",
+		dest: "/images/broadcasters/btrc.svg",
 	},
 	BR: {
 		full: "Bayerischer Rundfunk",
@@ -101,8 +99,7 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	},
 	IBA: { full: "Israeli Broadcasting Authority" },
 	İctimai: {
-		src: ACT + "Azerbaijan_ITV.png",
-		dest: "/images/broadcasters/itv.png",
+		dest: "/images/broadcasters/itv.svg",
 		square: true,
 	},
 	JRT: {
@@ -121,13 +118,14 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 		full: "Latvijas Televīzija",
 		dest: "/images/broadcasters/ltv.svg",
 	},
-	MKRTV: {
-		src: ACT + "FYR%20of%20Macedonia%20-%20MKRTV.jpg",
-		dest: "/images/broadcasters/mkrtv.jpg",
+	MTV: {
+		full: "Magyar Televízió",
+		dest: "/images/broadcasters/mtv.svg",
+		square: true,
 	},
-	MRT: {
+	MKRTV: {
 		full: "Macedonian Radio-Television",
-		dest: "/images/broadcasters/mrt.png",
+		dest: "/images/broadcasters/mrt.svg",
 	},
 	NDR: {
 		full: "Norddeutscher Rundfunk",
@@ -166,8 +164,7 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	},
 	RTCG: {
 		full: "Radio-televizija Crne Gore",
-		src: ACT + "Montenegro%20-%20RTCG.png",
-		dest: "/images/broadcasters/rtcg.png",
+		dest: "/images/broadcasters/rtcg.svg",
 	},
 	RTF: { full: "Radiodiffusion-Télévision Française" },
 	RTL: { full: "Radio Télé Luxembourg", dest: "/images/broadcasters/rtl.svg" },
@@ -193,8 +190,7 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	},
 	RTVA: {
 		full: "Ràdio i Televisió d'Andorra",
-		src: ACT + "Andorre_RTVA.png",
-		dest: "/images/broadcasters/rtva.png",
+		dest: "/images/broadcasters/rtva.svg",
 	},
 	RTVSLO: {
 		full: "Radiotelevizija Slovenija",
@@ -213,14 +209,22 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 		dest: "/images/broadcasters/smrtv.svg",
 		square: true,
 	},
+	SNRT: {
+		full: "Société Nationale de Radiodiffusion et de Télévision",
+		dest: "/images/broadcasters/snrt.svg",
+		square: true,
+	},
 	"SRG SSR": {
 		full: "Swiss Broadcasting Corporation",
 		dest: "/images/broadcasters/srg-ssr.svg",
 	},
 	SR: {
 		full: "Sveriges Radio",
-		src: ACT + "Sweden_SR.jpg",
-		dest: "/images/broadcasters/sr.jpg",
+		dest: "/images/broadcasters/sr.svg",
+	},
+	STVR: {
+		full: "Slovenská televízia a rozhlas",
+		dest: "/images/broadcasters/stv.png",
 	},
 	SVT: {
 		full: "Sveriges Television",
@@ -231,6 +235,10 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 		dest: "/images/broadcasters/swr.svg",
 	},
 	TF1: { full: "Télévision Française 1" },
+	TMC: {
+		full: "Télé Monte-Carlo",
+		dest: "/images/broadcasters/tmc.svg",
+	},
 	TRM: {
 		full: "Teleradio-Moldova",
 		dest: "/images/broadcasters/trm.png",
@@ -254,6 +262,10 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	"UA:PBC": {
 		full: "National Public Broadcasting Company of Ukraine",
 		dest: "/images/broadcasters/ua-pbc.svg",
+	},
+	UJRT: {
+		full: "Udruženje javnih radija i televizija",
+		dest: "/images/broadcasters/ujrt.svg",
 	},
 	VRT: {
 		full: "Vlaamse Radio- en Televisieomroeporganisatie",

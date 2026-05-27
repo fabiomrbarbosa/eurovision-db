@@ -21,6 +21,8 @@ const BROADCASTER_ALIASES: Record<string, string> = {
 	RTB:          "RTBF",              // 2022: API returns pre-1977 name instead of current acronym
 	TVE:          "RTVE",              // API uses channel name; canonical key is the corporation acronym
 	"SSR SRG":    "SRG SSR",           // API consistently returns French-order acronym; canonical key is German-order
+	RTM:          "SNRT",              // 1980: Radiodiffusion-Télévision Marocaine (Morocco); RTM ≠ TRM (Moldova)
+	STV:          "STVR",              // Slovakia last competed in 2012 as STV; STVR is the 2025 rebrand
 };
 
 // Extracts the acronym from "Full Name (ACRONYM)" strings; returns the input unchanged otherwise.
@@ -42,6 +44,15 @@ export function broadcasterLogoUrl(raw: string): string | null {
 export function broadcasterLogoSquare(raw: string): boolean {
 	return resolveEntry(raw)?.square ?? false;
 }
+
+// Per-country broadcaster overrides for country/all-countries pages.
+// Use when the underlying contestant detail files correctly name the channel
+// that produced the entry, but the country-level display should show a
+// consortium or successor organisation instead.
+// Keyed by the country code as it appears in the contest data (uppercase).
+export const COUNTRY_BROADCASTER_OVERRIDES: Record<string, string[]> = {
+	CS: ["UJRT"], // Serbia & Montenegro: RTS/TVCG alternated per year, but UJRT was the consortium
+};
 
 // Per-year broadcaster overrides. The API sometimes reports only the consortium
 // label (e.g. "ARD") instead of the regional broadcaster that produced the show,

@@ -10,9 +10,8 @@ import {
 import {
 	countryFlagUrl,
 	ordinal,
-	expandBroadcaster,
 	broadcasterLogoUrl,
-	broadcasterLogoSquare,
+	COUNTRY_BROADCASTER_OVERRIDES,
 } from "../../lib/utils.ts";
 
 export async function getStaticPaths() {
@@ -33,33 +32,30 @@ const wins = history.filter((h) => h.finalPlace === 1).length;
 const appearances = history.length;
 const bestPlace = Math.min(...history.map((h) => h.finalPlace ?? Infinity));
 
-const recentEntries = [...history]
-	.reverse()
-	.filter((h) => !h.cancelled)
-	.slice(0, 4);
-const recentBroadcasters: string[] = [];
-for (const entry of recentEntries) {
-	try {
-		const b = getContestantDetail(entry.year, entry.contestantId).broadcaster;
-		if (b) recentBroadcasters.push(b);
-	} catch {
-		// detail file unavailable
+const currentBroadcasters = (() => {
+	if (COUNTRY_BROADCASTER_OVERRIDES[code]) return COUNTRY_BROADCASTER_OVERRIDES[code];
+	const recentEntries = [...history]
+		.reverse()
+		.filter((h) => !h.cancelled)
+		.slice(0, 4);
+	const raw: string[] = [];
+	for (const entry of recentEntries) {
+		try {
+			const b = getContestantDetail(entry.year, entry.contestantId).broadcaster;
+			if (b) raw.push(b);
+		} catch {
+			// detail file unavailable
+		}
 	}
-}
-// Show multiple broadcasters only when the pattern is truly rotating:
-// the most recent broadcaster reappears at index 2+ (non-consecutive),
-// as Belgium does (RTBF→VRT→RTBF→VRT). A permanent switch (NewBC→NewBC→OldBC)
-// would not satisfy this and correctly shows only the new broadcaster.
-const isRotating =
-	recentBroadcasters.length >= 3 &&
-	recentBroadcasters[0] !== recentBroadcasters[1] &&
-	recentBroadcasters.slice(2).includes(recentBroadcasters[0]);
-const allBroadcasters = isRotating
-	? [...new Set(recentBroadcasters)]
-	: recentBroadcasters.slice(0, 1);
-const currentBroadcasters = allBroadcasters.filter(
-	(b) => broadcasterLogoUrl(b) !== null,
-);
+	// Show multiple broadcasters only when the pattern is truly rotating:
+	// the most recent broadcaster reappears at index 2+ (non-consecutive),
+	// as Belgium does (RTBF→VRT→RTBF→VRT). A permanent switch (NewBC→NewBC→OldBC)
+	// would not satisfy this and correctly shows only the new broadcaster.
+	const isRotating =
+		raw.length >= 3 && raw[0] !== raw[1] && raw.slice(2).includes(raw[0]);
+	const all = isRotating ? [...new Set(raw)] : raw.slice(0, 1);
+	return all.filter((b) => broadcasterLogoUrl(b) !== null);
+})();
 
 function computeRanges(years: number[]): string[] {
 	if (years.length === 0) return [];
@@ -120,17 +116,13 @@ const [yearsLine1, yearsLine2] = splitForDisplay(ranges);
 					currentBroadcasters.length > 0 && (
 						<div class="stat">
 							<div class="broadcaster-logos">
-								{currentBroadcasters.map((b) =>
-									broadcasterLogoUrl(b) ? (
-										<img
-											src={broadcasterLogoUrl(b)!}
-											alt=""
-											class="broadcaster-logo"
-										/>
-									) : (
-										<span class="stat-value">{expandBroadcaster(b)}</span>
-									),
-								)}
+								{currentBroadcasters.map((b) => (
+									<img
+										src={broadcasterLogoUrl(b)!}
+										alt=""
+										class="broadcaster-logo"
+									/>
+								))}
 							</div>
 							<span class="stat-label muted">
 								{currentBroadcasters.length > 1
