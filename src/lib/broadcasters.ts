@@ -61,7 +61,11 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 		full: "Belgische Radio en Televisieomroep Nederlandstalig",
 		dest: "/images/broadcasters/brt.png",
 	},
-	C1R: { full: "Channel One Russia" },
+	C1R: {
+		full: "Channel One Russia",
+		dest: "/images/broadcasters/c1r.svg",
+		square: true,
+	},
 	CLT: { full: "Compagnie Luxembourgeoise de Télévision" },
 	CyBC: {
 		full: "Cyprus Broadcasting Corporation",
@@ -167,6 +171,10 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	},
 	RTF: { full: "Radiodiffusion-Télévision Française" },
 	RTL: { full: "Radio Télé Luxembourg", dest: "/images/broadcasters/rtl.svg" },
+	RTR: {
+		full: "All-Russia State Television and Radio Broadcasting Company",
+		dest: "/images/broadcasters/rtr.svg",
+	},
 	RTP: {
 		full: "Rádio e Televisão de Portugal",
 		dest: "/images/broadcasters/rtp.svg",
