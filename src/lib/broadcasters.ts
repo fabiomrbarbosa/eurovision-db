@@ -63,13 +63,11 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	},
 	ERR: {
 		full: "Eesti Rahvusringhääling",
-		src: ACT + "Estonia_ERR.png",
-		dest: "/images/broadcasters/err.png",
+		dest: "/images/broadcasters/err.svg",
 	},
 	ERT: {
 		full: "Ellinikí Radiofonía Tileórasi",
-		src: ACT + "Greece%20-%20ERT.png",
-		dest: "/images/broadcasters/ert.png",
+		dest: "/images/broadcasters/ert.svg",
 	},
 	"France Télévisions": {
 		dest: "/images/broadcasters/francetv.svg",
@@ -82,8 +80,7 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	HR: { full: "Hessischer Rundfunk", dest: "/images/broadcasters/hr.svg" },
 	HRT: {
 		full: "Hrvatska Radiotelevizija",
-		src: ACT + "Croatia_HRT.png",
-		dest: "/images/broadcasters/hrt.png",
+		dest: "/images/broadcasters/hrt.svg",
 	},
 	IBA: { full: "Israeli Broadcasting Authority" },
 	İctimai: {
@@ -115,8 +112,7 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	},
 	NPO: {
 		full: "Nederlandse Publieke Omroep",
-		src: ACT + "Netherlands%20-%20NPO.png",
-		dest: "/images/broadcasters/npo.png",
+		dest: "/images/broadcasters/npo.svg",
 	},
 	NRK: {
 		full: "Norsk rikskringkasting",
@@ -156,8 +152,7 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	},
 	RTS: {
 		full: "Radio Televizija Srbije",
-		src: ACT + "Serbie_rts.png",
-		dest: "/images/broadcasters/rts.png",
+		dest: "/images/broadcasters/rts.svg",
 	},
 	RTSH: {
 		full: "Radio Televizioni Shqiptar",
@@ -171,8 +166,7 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	},
 	RTVSLO: {
 		full: "Radiotelevizija Slovenija",
-		src: ACT + "Slovenie_RTVSLO.jpg",
-		dest: "/images/broadcasters/rtvslo.jpg",
+		dest: "/images/broadcasters/rtvslo.svg",
 	},
 	RÚV: {
 		full: "Ríkisútvarpið",
@@ -184,8 +178,7 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	},
 	SMRTV: {
 		full: "San Marino RTV",
-		src: ACT + "SanMarino-RTV.jpg",
-		dest: "/images/broadcasters/smrtv.jpg",
+		dest: "/images/broadcasters/smrtv.svg",
 	},
 	"SRG SSR": {
 		full: "Swiss Broadcasting Corporation",
