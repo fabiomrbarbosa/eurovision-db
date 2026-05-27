@@ -119,8 +119,7 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	},
 	NRK: {
 		full: "Norsk rikskringkasting",
-		src: ACT + "Norway_NRK.jpg",
-		dest: "/images/broadcasters/nrk.jpg",
+		dest: "/images/broadcasters/nrk.svg",
 	},
 	ORF: {
 		full: "Österreichischer Rundfunk",
@@ -200,8 +199,7 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	},
 	SVT: {
 		full: "Sveriges Television",
-		src: ACT + "Sweden_SVT.png",
-		dest: "/images/broadcasters/svt.png",
+		dest: "/images/broadcasters/svt.svg",
 	},
 	SWR: { full: "Südwestrundfunk", dest: "/images/broadcasters/swr.svg" },
 	TF1: { full: "Télévision Française 1" },
