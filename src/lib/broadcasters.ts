@@ -102,7 +102,10 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 		src: ACT + "FYR%20of%20Macedonia%20-%20MKRTV.jpg",
 		dest: "/images/broadcasters/mkrtv.jpg",
 	},
-	MRT: { full: "Macedonian Radio-Television", dest: "/images/broadcasters/mrt.png" },
+	MRT: {
+		full: "Macedonian Radio-Television",
+		dest: "/images/broadcasters/mrt.png",
+	},
 	NDR: { full: "Norddeutscher Rundfunk", dest: "/images/broadcasters/ndr.svg" },
 	NOS: {
 		full: "Nederlandse Omroep Stichting",
@@ -154,8 +157,7 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	},
 	RTSH: {
 		full: "Radio Televizioni Shqiptar",
-		src: ACT + "Albanie-RTSH.png",
-		dest: "/images/broadcasters/rtsh.png",
+		dest: "/images/broadcasters/rtsh.svg",
 	},
 	RTVA: {
 		full: "Ràdio i Televisió d'Andorra",
