@@ -66,7 +66,7 @@ function resolveCurrentBroadcasters(
 ): string[] {
 	if (COUNTRY_BROADCASTER_OVERRIDES[code])
 		return COUNTRY_BROADCASTER_OVERRIDES[code];
-	const entries = [...recentEntries].reverse().slice(0, 4);
+	const entries = [...recentEntries].slice(0, 4);
 	const raw: string[] = [];
 	for (const e of entries) {
 		try {
