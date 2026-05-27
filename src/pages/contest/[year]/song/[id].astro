@@ -415,7 +415,11 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
 												<dt>Broadcaster</dt>
 												<dd>
 													{logo && (
-														<img src={logo} alt="" class={`broadcaster-logo${square ? " broadcaster-logo--square" : ""}`} />
+														<img
+															src={logo}
+															alt=""
+															class={`broadcaster-logo${square ? " broadcaster-logo--square" : ""}`}
+														/>
 													)}
 													{expandBroadcaster(detail.broadcaster)}
 												</dd>
@@ -683,7 +687,7 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
 			margin-bottom: 0.75rem;
 		}
 		.broadcaster-logo--square {
-			height: 3rem;
+			height: 4rem;
 		}
 	</style>
 
