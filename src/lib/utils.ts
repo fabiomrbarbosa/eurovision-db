@@ -11,10 +11,16 @@ export function countryFlagUrl(code: string): string {
 
 // Typos / encoding errors in the upstream API data that would recur on re-fetch.
 const BROADCASTER_ALIASES: Record<string, string> = {
-	RTÈ:       "RTÉ",    // 1981: È (grave) should be É (acute)
-	RTB:       "RTBF",   // 2022: API returns pre-1977 name instead of current acronym
-	TVE:       "RTVE",   // API uses channel name; canonical key is the corporation acronym
-	"SSR SRG": "SRG SSR", // API consistently returns French-order acronym; canonical key is German-order
+	A2F:          "Antenne 2",          // 1983–1992: API code for Antenne 2 France
+	FR:           "France Télévisions", // some years: API shorthand
+	FT2:          "France Télévisions", // 1993–1998, 2022: France Télévisions 2 (France 2)
+	FT3:          "France Télévisions", // 2014: France Télévisions 3 (France 3)
+	"France 2":   "France Télévisions", // channel name used directly by API
+	"France 3":   "France Télévisions", // channel name used directly by API
+	RTÈ:          "RTÉ",               // 1981: È (grave) should be É (acute)
+	RTB:          "RTBF",              // 2022: API returns pre-1977 name instead of current acronym
+	TVE:          "RTVE",              // API uses channel name; canonical key is the corporation acronym
+	"SSR SRG":    "SRG SSR",           // API consistently returns French-order acronym; canonical key is German-order
 };
 
 // Extracts the acronym from "Full Name (ACRONYM)" strings; returns the input unchanged otherwise.

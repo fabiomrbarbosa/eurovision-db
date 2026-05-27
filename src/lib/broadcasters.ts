@@ -71,6 +71,9 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 		src: ACT + "Greece%20-%20ERT.png",
 		dest: "/images/broadcasters/ert.png",
 	},
+	"France Télévisions": {
+		dest: "/images/broadcasters/francetv.svg",
+	},
 	GPB: {
 		full: "Georgian Public Broadcasting",
 		src: ACT + "Georgia-GPB.png",
@@ -119,14 +122,14 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 		full: "Norsk rikskringkasting",
 		dest: "/images/broadcasters/nrk.svg",
 	},
+	ORTF: { full: "Office de Radiodiffusion Télévision Française" },
 	ORF: {
 		full: "Österreichischer Rundfunk",
 		dest: "/images/broadcasters/orf.svg",
 	},
 	PBS: {
 		full: "Public Broadcasting Services",
-		src: ACT + "Malta%20-%20PBS.png",
-		dest: "/images/broadcasters/pbs.png",
+		dest: "/images/broadcasters/pbs.svg",
 	},
 	RAI: {
 		full: "Radiotelevisione Italiana",
@@ -142,15 +145,14 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 		dest: "/images/broadcasters/rtcg.png",
 	},
 	RTF: { full: "Radiodiffusion-Télévision Française" },
-	RTL: { full: "Radio Télé Luxembourg", dest: "/images/broadcasters/rtl.png" },
+	RTL: { full: "Radio Télé Luxembourg", dest: "/images/broadcasters/rtl.svg" },
 	RTP: {
 		full: "Rádio e Televisão de Portugal",
 		dest: "/images/broadcasters/rtp.svg",
 	},
 	RTÉ: {
 		full: "Raidió Teilifís Éireann",
-		src: ACT + "Ireland%20-%20RTE.jpg",
-		dest: "/images/broadcasters/rte.jpg",
+		dest: "/images/broadcasters/rte.svg",
 	},
 	RTS: {
 		full: "Radio Televizija Srbije",
@@ -207,8 +209,7 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	},
 	TVP: {
 		full: "Telewizja Polska",
-		src: ACT + "Pologne_TVP.jpg",
-		dest: "/images/broadcasters/tvp.jpg",
+		dest: "/images/broadcasters/tvp.svg",
 	},
 	TVR: {
 		full: "Televiziunea Română",
