@@ -21,8 +21,6 @@ export interface BroadcasterEntry {
 
 const ACT =
 	"https://www.ebu.ch/files/live/sites/ebu/files/Logos/Members/Active%20Members/";
-const ASC =
-	"https://www.ebu.ch/files/live/sites/ebu/files/Logos/Members/Associate%20Members%20Logos/";
 
 export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	ARD: {
@@ -86,8 +84,7 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	},
 	JRT: { full: "Jugoslovenska Radiotelevizija" },
 	KAN: {
-		src: ACT + "Israel%20-%20IPBC.jpg",
-		dest: "/images/broadcasters/kan.jpg",
+		dest: "/images/broadcasters/kan.svg",
 	},
 	LRT: {
 		full: "Lietuvos nacionalinis radijas ir televizija",
@@ -135,8 +132,7 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	},
 	RTBF: {
 		full: "Radio-Télévision belge de la Communauté française",
-		src: ACT + "Belgium_RTBF.png",
-		dest: "/images/broadcasters/rtbf.png",
+		dest: "/images/broadcasters/rtbf.svg",
 	},
 	RTCG: {
 		full: "Radio-televizija Crne Gore",
@@ -181,8 +177,7 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	},
 	SBS: {
 		full: "Special Broadcasting Service",
-		src: ASC + "Australia-SBS.png",
-		dest: "/images/broadcasters/sbs.png",
+		dest: "/images/broadcasters/sbs.svg",
 	},
 	SMRTV: {
 		full: "San Marino RTV",
@@ -228,8 +223,7 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	},
 	VRT: {
 		full: "Vlaamse Radio- en Televisieomroeporganisatie",
-		src: ACT + "Belgium_VRT.png",
-		dest: "/images/broadcasters/vrt.png",
+		dest: "/images/broadcasters/vrt.svg",
 	},
 	YLE: {
 		full: "Yleisradio",
