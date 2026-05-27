@@ -17,6 +17,7 @@ import {
 	ordinal,
 	expandBroadcaster,
 	broadcasterLogoUrl,
+	broadcasterLogoSquare,
 } from "../../../../lib/utils.ts";
 import { existsSync } from "fs";
 import { join } from "path";
@@ -408,12 +409,13 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
 								{detail.broadcaster &&
 									(() => {
 										const logo = broadcasterLogoUrl(detail.broadcaster);
+										const square = broadcasterLogoSquare(detail.broadcaster);
 										return (
 											<>
 												<dt>Broadcaster</dt>
 												<dd>
 													{logo && (
-														<img src={logo} alt="" class="broadcaster-logo" />
+														<img src={logo} alt="" class={`broadcaster-logo${square ? " broadcaster-logo--square" : ""}`} />
 													)}
 													{expandBroadcaster(detail.broadcaster)}
 												</dd>
@@ -679,6 +681,9 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
 			width: auto;
 			max-width: 8rem;
 			margin-bottom: 0.75rem;
+		}
+		.broadcaster-logo--square {
+			height: 3rem;
 		}
 	</style>
 

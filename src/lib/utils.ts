@@ -29,10 +29,18 @@ function broadcasterCode(raw: string): string {
 	return m ? m[1] : raw;
 }
 
-export function broadcasterLogoUrl(raw: string): string | null {
+function resolveEntry(raw: string) {
 	const code = broadcasterCode(raw);
 	const normalised = BROADCASTER_ALIASES[code] ?? code;
-	return BROADCASTERS[normalised]?.dest ?? null;
+	return BROADCASTERS[normalised];
+}
+
+export function broadcasterLogoUrl(raw: string): string | null {
+	return resolveEntry(raw)?.dest ?? null;
+}
+
+export function broadcasterLogoSquare(raw: string): boolean {
+	return resolveEntry(raw)?.square ?? false;
 }
 
 // Per-year broadcaster overrides. The API sometimes reports only the consortium

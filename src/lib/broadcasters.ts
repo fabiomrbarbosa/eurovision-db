@@ -17,6 +17,7 @@ export interface BroadcasterEntry {
 	full?: string;
 	src?: string;
 	dest?: string;
+	square?: true;
 }
 
 const ACT =
@@ -33,6 +34,7 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	},
 	AVROTROS: {
 		dest: "/images/broadcasters/avrotros.svg",
+		square: true,
 	},
 	BBC: {
 		full: "British Broadcasting Corporation",
@@ -42,7 +44,7 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 		full: "Bulgarian National Television",
 		dest: "/images/broadcasters/bnt.svg",
 	},
-	BR: { full: "Bayerischer Rundfunk", dest: "/images/broadcasters/br.svg" },
+	BR: { full: "Bayerischer Rundfunk", dest: "/images/broadcasters/br.svg", square: true },
 	BRT: {
 		full: "Belgische Radio en Televisie",
 		dest: "/images/broadcasters/brt.png",
@@ -76,7 +78,7 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 		full: "Georgian Public Broadcasting",
 		dest: "/images/broadcasters/gpb.svg",
 	},
-	HR: { full: "Hessischer Rundfunk", dest: "/images/broadcasters/hr.svg" },
+	HR: { full: "Hessischer Rundfunk", dest: "/images/broadcasters/hr.svg", square: true },
 	HRT: {
 		full: "Hrvatska Radiotelevizija",
 		dest: "/images/broadcasters/hrt.svg",
@@ -85,6 +87,7 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	İctimai: {
 		src: ACT + "Azerbaijan_ITV.png",
 		dest: "/images/broadcasters/itv.png",
+		square: true,
 	},
 	JRT: { full: "Jugoslovenska Radiotelevizija" },
 	KAN: {
@@ -106,7 +109,7 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 		full: "Macedonian Radio-Television",
 		dest: "/images/broadcasters/mrt.png",
 	},
-	NDR: { full: "Norddeutscher Rundfunk", dest: "/images/broadcasters/ndr.svg" },
+	NDR: { full: "Norddeutscher Rundfunk", dest: "/images/broadcasters/ndr.svg", square: true },
 	NOS: {
 		full: "Nederlandse Omroep Stichting",
 		dest: "/images/broadcasters/nos.svg",
@@ -131,6 +134,7 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	RAI: {
 		full: "Radiotelevisione Italiana",
 		dest: "/images/broadcasters/rai.svg",
+		square: true,
 	},
 	RTBF: {
 		full: "Radio-Télévision belge de la Communauté française",
@@ -179,6 +183,7 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	SMRTV: {
 		full: "San Marino RTV",
 		dest: "/images/broadcasters/smrtv.svg",
+		square: true,
 	},
 	"SRG SSR": {
 		full: "Swiss Broadcasting Corporation",
@@ -223,6 +228,7 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	YLE: {
 		full: "Yleisradio",
 		dest: "/images/broadcasters/yle.svg",
+		square: true,
 	},
 	ČT: {
 		full: "Česká televize",
