@@ -12,7 +12,7 @@ import {
 	getCountries,
 	getCountryHistory,
 } from "../../../../lib/data.ts";
-import { countryFlagUrl, ordinal, expandBroadcaster } from "../../../../lib/utils.ts";
+import { countryFlagUrl, ordinal, expandBroadcaster, broadcasterLogoUrl } from "../../../../lib/utils.ts";
 import { existsSync } from "fs";
 import { join } from "path";
 
@@ -396,12 +396,18 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
 						<section class="side-section">
 							<h2 class="section-heading">Broadcast</h2>
 							<dl class="meta-list">
-								{detail.broadcaster && (
-									<>
-										<dt>Broadcaster</dt>
-										<dd>{expandBroadcaster(detail.broadcaster)}</dd>
-									</>
-								)}
+								{detail.broadcaster && (() => {
+									const logo = broadcasterLogoUrl(detail.broadcaster);
+									return (
+										<>
+											<dt>Broadcaster</dt>
+											<dd>
+												{logo && <img src={logo} alt="" class="broadcaster-logo" />}
+												{expandBroadcaster(detail.broadcaster)}
+											</dd>
+										</>
+									);
+								})()}
 								{detail.spokesperson && (
 									<>
 										<dt>Spokesperson</dt>
@@ -654,6 +660,15 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
 		.meta-list dd {
 			color: var(--c-text);
 			line-height: 1.5;
+		}
+		.broadcaster-logo {
+			display: block;
+			max-height: 2rem;
+			max-width: 7rem;
+			width: auto;
+			margin-bottom: 0.35rem;
+			object-fit: contain;
+			object-position: left center;
 		}
 	</style>
 
