@@ -1,7 +1,7 @@
 /**
  * Single source of truth for all broadcaster metadata:
  *   full  — expanded name shown in the UI (absent = display code as-is)
- *   dest  — public path served by Astro (absent = no logo available)
+ *   logo  — public path served by Astro (absent = no logo available)
  *
  * Consumed by:
  *   src/lib/utils.ts → expandBroadcaster(), broadcasterLogoUrl()
@@ -13,43 +13,43 @@
 
 export interface BroadcasterEntry {
 	full?: string;
-	dest?: string;
+	logo?: string;
 	square?: true;
 	logoRef?: string; // borrow logo from another entry (historical → successor)
 }
 
 export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	ARD: {
-		dest: "/images/broadcasters/ard.svg",
+		logo:"/images/broadcasters/ard.svg",
 	},
 	AMPTV: {
 		full: "Armenian Public Television",
-		dest: "/images/broadcasters/amptv.svg",
+		logo:"/images/broadcasters/amptv.svg",
 		square: true,
 	},
 	AVROTROS: {
-		dest: "/images/broadcasters/avrotros.svg",
+		logo:"/images/broadcasters/avrotros.svg",
 		square: true,
 	},
 	BBC: {
 		full: "British Broadcasting Corporation",
-		dest: "/images/broadcasters/bbc.svg",
+		logo:"/images/broadcasters/bbc.svg",
 	},
 	BHRT: {
 		full: "Radiotelevizija Bosne i Hercegovine",
-		dest: "/images/broadcasters/bhrt.svg",
+		logo:"/images/broadcasters/bhrt.svg",
 	},
 	BNT: {
 		full: "Bulgarian National Television",
-		dest: "/images/broadcasters/bnt.svg",
+		logo:"/images/broadcasters/bnt.svg",
 	},
 	BTRC: {
 		full: "Bielaruskaje telebachannie i radyjo",
-		dest: "/images/broadcasters/btrc.svg",
+		logo:"/images/broadcasters/btrc.svg",
 	},
 	BR: {
 		full: "Bayerischer Rundfunk",
-		dest: "/images/broadcasters/br.svg",
+		logo:"/images/broadcasters/br.svg",
 		square: true,
 	},
 	BRT: {
@@ -62,25 +62,25 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	},
 	C1R: {
 		full: "Channel One Russia",
-		dest: "/images/broadcasters/c1r.svg",
+		logo:"/images/broadcasters/c1r.svg",
 		square: true,
 	},
 	CLT: { full: "Compagnie Luxembourgeoise de Télévision" },
 	CyBC: {
 		full: "Cyprus Broadcasting Corporation",
-		dest: "/images/broadcasters/cybc.svg",
+		logo:"/images/broadcasters/cybc.svg",
 	},
 	DR: {
 		full: "Danmarks Radio",
-		dest: "/images/broadcasters/dr.svg",
+		logo:"/images/broadcasters/dr.svg",
 	},
 	ERR: {
 		full: "Eesti Rahvusringhääling",
-		dest: "/images/broadcasters/err.svg",
+		logo:"/images/broadcasters/err.svg",
 	},
 	ERT: {
 		full: "Ellinikí Radiofonía Tileórasi",
-		dest: "/images/broadcasters/ert.svg",
+		logo:"/images/broadcasters/ert.svg",
 	},
 	"Antenne 2": {
 		logoRef: "France Télévisions",
@@ -92,70 +92,70 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 		logoRef: "France Télévisions",
 	},
 	"France Télévisions": {
-		dest: "/images/broadcasters/francetv.svg",
+		logo:"/images/broadcasters/francetv.svg",
 	},
 	GPB: {
 		full: "Georgian Public Broadcasting",
-		dest: "/images/broadcasters/gpb.svg",
+		logo:"/images/broadcasters/gpb.svg",
 	},
 	HR: {
 		full: "Hessischer Rundfunk",
-		dest: "/images/broadcasters/hr.svg",
+		logo:"/images/broadcasters/hr.svg",
 		square: true,
 	},
 	HRT: {
 		full: "Hrvatska Radiotelevizija",
-		dest: "/images/broadcasters/hrt.svg",
+		logo:"/images/broadcasters/hrt.svg",
 	},
 	IBA: {
 		full: "Israeli Broadcasting Authority",
 		logoRef: "KAN",
 	},
 	İctimai: {
-		dest: "/images/broadcasters/itv.svg",
+		logo:"/images/broadcasters/itv.svg",
 		square: true,
 	},
 	JRT: {
 		full: "Jugoslovenska Radiotelevizija",
-		dest: "/images/broadcasters/jrt.svg",
+		logo:"/images/broadcasters/jrt.svg",
 		square: true,
 	},
 	KAN: {
-		dest: "/images/broadcasters/kan.svg",
+		logo:"/images/broadcasters/kan.svg",
 	},
 	LRT: {
 		full: "Lietuvos nacionalinis radijas ir televizija",
-		dest: "/images/broadcasters/lrt.svg",
+		logo:"/images/broadcasters/lrt.svg",
 	},
 	LTV: {
 		full: "Latvijas Televīzija",
-		dest: "/images/broadcasters/ltv.svg",
+		logo:"/images/broadcasters/ltv.svg",
 	},
 	MTV: {
 		full: "Magyar Televízió",
-		dest: "/images/broadcasters/mtv.svg",
+		logo:"/images/broadcasters/mtv.svg",
 		square: true,
 	},
 	MKRTV: {
 		full: "Macedonian Radio-Television",
-		dest: "/images/broadcasters/mrt.svg",
+		logo:"/images/broadcasters/mrt.svg",
 	},
 	NDR: {
 		full: "Norddeutscher Rundfunk",
-		dest: "/images/broadcasters/ndr.svg",
+		logo:"/images/broadcasters/ndr.svg",
 		square: true,
 	},
 	NOS: {
 		full: "Nederlandse Omroep Stichting",
-		dest: "/images/broadcasters/nos.svg",
+		logo:"/images/broadcasters/nos.svg",
 	},
 	NPO: {
 		full: "Nederlandse Publieke Omroep",
-		dest: "/images/broadcasters/npo.svg",
+		logo:"/images/broadcasters/npo.svg",
 	},
 	NRK: {
 		full: "Norsk rikskringkasting",
-		dest: "/images/broadcasters/nrk.svg",
+		logo:"/images/broadcasters/nrk.svg",
 	},
 	ORTF: {
 		full: "Office de Radiodiffusion Télévision Française",
@@ -163,24 +163,24 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	},
 	ORF: {
 		full: "Österreichischer Rundfunk",
-		dest: "/images/broadcasters/orf.svg",
+		logo:"/images/broadcasters/orf.svg",
 	},
 	PBS: {
 		full: "Public Broadcasting Services",
-		dest: "/images/broadcasters/pbs.svg",
+		logo:"/images/broadcasters/pbs.svg",
 	},
 	RAI: {
 		full: "Radiotelevisione Italiana",
-		dest: "/images/broadcasters/rai.svg",
+		logo:"/images/broadcasters/rai.svg",
 		square: true,
 	},
 	RTBF: {
 		full: "Radio-Télévision belge de la Communauté française",
-		dest: "/images/broadcasters/rtbf.svg",
+		logo:"/images/broadcasters/rtbf.svg",
 	},
 	RTCG: {
 		full: "Radio-televizija Crne Gore",
-		dest: "/images/broadcasters/rtcg.svg",
+		logo:"/images/broadcasters/rtcg.svg",
 	},
 	TVCG: {
 		full: "Televizija Crne Gore",
@@ -194,14 +194,14 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 		full: "Radiodiffusion-Télévision Française",
 		logoRef: "France Télévisions",
 	},
-	RTL: { full: "Radio Télé Luxembourg", dest: "/images/broadcasters/rtl.svg" },
+	RTL: { full: "Radio Télé Luxembourg", logo: "/images/broadcasters/rtl.svg" },
 	RTR: {
 		full: "All-Russia State Television and Radio Broadcasting Company",
-		dest: "/images/broadcasters/rtr.svg",
+		logo:"/images/broadcasters/rtr.svg",
 	},
 	RTP: {
 		full: "Rádio e Televisão de Portugal",
-		dest: "/images/broadcasters/rtp.svg",
+		logo:"/images/broadcasters/rtp.svg",
 	},
 	RÉ: {
 		full: "Radio Éireann",
@@ -209,46 +209,46 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	},
 	RTÉ: {
 		full: "Raidió Teilifís Éireann",
-		dest: "/images/broadcasters/rte.svg",
+		logo:"/images/broadcasters/rte.svg",
 	},
 	RTS: {
 		full: "Radio Televizija Srbije",
-		dest: "/images/broadcasters/rts.svg",
+		logo:"/images/broadcasters/rts.svg",
 	},
 	RTSH: {
 		full: "Radio Televizioni Shqiptar",
-		dest: "/images/broadcasters/rtsh.svg",
+		logo:"/images/broadcasters/rtsh.svg",
 	},
 	RTVA: {
 		full: "Ràdio i Televisió d'Andorra",
-		dest: "/images/broadcasters/rtva.svg",
+		logo:"/images/broadcasters/rtva.svg",
 	},
 	RTVSLO: {
 		full: "Radiotelevizija Slovenija",
-		dest: "/images/broadcasters/rtvslo.svg",
+		logo:"/images/broadcasters/rtvslo.svg",
 		square: true,
 	},
 	RÚV: {
 		full: "Ríkisútvarpið",
-		dest: "/images/broadcasters/ruv.svg",
+		logo:"/images/broadcasters/ruv.svg",
 	},
 	SBS: {
 		full: "Special Broadcasting Service",
-		dest: "/images/broadcasters/sbs.svg",
+		logo:"/images/broadcasters/sbs.svg",
 	},
 	SMRTV: {
 		full: "San Marino RTV",
-		dest: "/images/broadcasters/smrtv.svg",
+		logo:"/images/broadcasters/smrtv.svg",
 		square: true,
 	},
 	SNRT: {
 		full: "Société Nationale de Radiodiffusion et de Télévision",
-		dest: "/images/broadcasters/snrt.svg",
+		logo:"/images/broadcasters/snrt.svg",
 		square: true,
 	},
 	"SRG SSR": {
 		full: "Swiss Broadcasting Corporation",
-		dest: "/images/broadcasters/srg-ssr.svg",
+		logo:"/images/broadcasters/srg-ssr.svg",
 	},
 	SR: {
 		full: "Sveriges Radio",
@@ -260,60 +260,64 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	},
 	STVR: {
 		full: "Slovenská televízia a rozhlas",
-		dest: "/images/broadcasters/stv.png",
+		logo:"/images/broadcasters/stv.png",
 	},
 	SVT: {
 		full: "Sveriges Television",
-		dest: "/images/broadcasters/svt.svg",
+		logo:"/images/broadcasters/svt.svg",
 	},
 	SWR: {
 		full: "Südwestrundfunk",
-		dest: "/images/broadcasters/swr.svg",
+		logo:"/images/broadcasters/swr.svg",
 	},
 	TF1: { full: "Télévision Française 1" },
 	TMC: {
 		full: "Télé Monte-Carlo",
-		dest: "/images/broadcasters/tmc.svg",
+		logo:"/images/broadcasters/tmc.svg",
 	},
 	TRM: {
 		full: "Teleradio-Moldova",
-		dest: "/images/broadcasters/trm.png",
+		logo:"/images/broadcasters/trm.png",
 	},
 	RTVE: {
 		full: "Radiotelevisión Española",
-		dest: "/images/broadcasters/rtve.svg",
+		logo:"/images/broadcasters/rtve.svg",
 	},
 	TVP: {
 		full: "Telewizja Polska",
-		dest: "/images/broadcasters/tvp.svg",
+		logo:"/images/broadcasters/tvp.svg",
 	},
 	TRT: {
 		full: "Türkiye Radyo ve Televizyon Kurumu",
-		dest: "/images/broadcasters/trt.svg",
+		logo:"/images/broadcasters/trt.svg",
 	},
 	TVR: {
 		full: "Televiziunea Română",
-		dest: "/images/broadcasters/tvr.svg",
+		logo:"/images/broadcasters/tvr.svg",
+	},
+	NTU: {
+		full: "National Television Company of Ukraine",
+		logoRef: "UA:PBC", // television predecessor of NSTU; role transferred when public broadcaster formed in 2017
 	},
 	"UA:PBC": {
 		full: "National Public Broadcasting Company of Ukraine",
-		dest: "/images/broadcasters/ua-pbc.svg",
+		logo:"/images/broadcasters/ua-pbc.svg",
 	},
 	UJRT: {
 		full: "Udruženje javnih radija i televizija",
-		dest: "/images/broadcasters/ujrt.svg",
+		logo:"/images/broadcasters/ujrt.svg",
 	},
 	VRT: {
 		full: "Vlaamse Radio- en Televisieomroeporganisatie",
-		dest: "/images/broadcasters/vrt.svg",
+		logo:"/images/broadcasters/vrt.svg",
 	},
 	YLE: {
 		full: "Yleisradio",
-		dest: "/images/broadcasters/yle.svg",
+		logo:"/images/broadcasters/yle.svg",
 		square: true,
 	},
 	ČT: {
 		full: "Česká televize",
-		dest: "/images/broadcasters/ct.svg",
+		logo:"/images/broadcasters/ct.svg",
 	},
 };

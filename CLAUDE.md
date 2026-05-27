@@ -243,7 +243,15 @@ npm run build
   `ContestIndexEntry` includes `cancelled: boolean` (derived from all rounds having null performances)
 - `utils.ts` — `countryFlagUrl()` (heart flag image URL from ISO code) + `ordinal(n)` returns
   the full string ("1st", "2nd", "3rd", "4th"…) — **not** just the suffix; all call sites use
-  `ordinal(n)` alone, never `{n}{ordinal(n)}`, to avoid JSX whitespace bugs
+  `ordinal(n)` alone, never `{n}{ordinal(n)}`, to avoid JSX whitespace bugs;
+  `broadcasterLogoUrl(raw)` resolves a raw broadcaster string to its public logo path via
+  `src/lib/broadcasters.ts`; `expandBroadcaster(raw)` returns the full display name
+- `src/lib/broadcasters.ts` — single source of truth for broadcaster metadata; `BroadcasterEntry`
+  has `full?` (display name), `logo?` (public asset path in `public/images/broadcasters/`),
+  `square?: true` (aspect-ratio hint), and `logoRef?` (borrow logo from another entry —
+  used for historical names that predate a rebrand, e.g. NTU → UA:PBC, TVCG → RTCG);
+  historical aliases should set `full` to their own name and `logoRef` to the successor key —
+  the successor's logo is displayed but the original name is shown in the UI
 - `Base.astro` — layout shell; nav logo "Eurovision DB" in `--c-magenta`; `title` prop is optional
   (omitting it renders just "Eurovision Database" with no separator); favicon links point to PNG
   variants and `site.webmanifest` for PWA support; SW registered inline with `is:inline` script

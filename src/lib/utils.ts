@@ -36,7 +36,7 @@ function resolveEntry(raw: string) {
 }
 
 export function broadcasterLogoUrl(raw: string): string | null {
-	return resolveEntry(raw)?.dest ?? null;
+	return resolveEntry(raw)?.logo ?? null;
 }
 
 export function broadcasterLogoSquare(raw: string): boolean {
