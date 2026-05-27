@@ -6,7 +6,11 @@ import {
 	getContestIndex,
 	getContestantDetail,
 } from "../lib/data.ts";
-import { countryFlagUrl, broadcasterLogoUrl, COUNTRY_BROADCASTER_OVERRIDES } from "../lib/utils.ts";
+import {
+	countryFlagUrl,
+	broadcasterLogoUrl,
+	COUNTRY_BROADCASTER_OVERRIDES,
+} from "../lib/utils.ts";
 
 const countries = getCountries();
 const index = getContestIndex();
@@ -60,7 +64,8 @@ function resolveCurrentBroadcasters(
 	code: string,
 	recentEntries: Array<{ year: number; contestantId: number }>,
 ): string[] {
-	if (COUNTRY_BROADCASTER_OVERRIDES[code]) return COUNTRY_BROADCASTER_OVERRIDES[code];
+	if (COUNTRY_BROADCASTER_OVERRIDES[code])
+		return COUNTRY_BROADCASTER_OVERRIDES[code];
 	const entries = [...recentEntries].reverse().slice(0, 4);
 	const raw: string[] = [];
 	for (const e of entries) {
@@ -99,7 +104,7 @@ const countryList = Object.entries(statsMap)
 <Base title="Countries">
 	<div class="container">
 		<header class="page-header">
-			<h1>Countries</h1>
+			<h1>All Countries</h1>
 			<p class="muted">
 				{countryList.length} countries have participated in the Eurovision Song Contest
 			</p>
