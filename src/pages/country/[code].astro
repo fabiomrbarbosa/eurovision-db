@@ -5,8 +5,15 @@ import {
 	getCountries,
 	getCountryHistory,
 	getContestIndex,
+	getContestantDetail,
 } from "../../lib/data.ts";
-import { countryFlagUrl, ordinal } from "../../lib/utils.ts";
+import {
+	countryFlagUrl,
+	ordinal,
+	expandBroadcaster,
+	broadcasterLogoUrl,
+	broadcasterLogoSquare,
+} from "../../lib/utils.ts";
 
 export async function getStaticPaths() {
 	const index = getContestIndex();
@@ -25,6 +32,20 @@ const history = getCountryHistory(code);
 const wins = history.filter((h) => h.finalPlace === 1).length;
 const appearances = history.length;
 const bestPlace = Math.min(...history.map((h) => h.finalPlace ?? Infinity));
+
+const currentEntry = [...history].reverse().find((h) => !h.cancelled);
+let currentBroadcaster: string | null = null;
+if (currentEntry) {
+	try {
+		const detail = getContestantDetail(
+			currentEntry.year,
+			currentEntry.contestantId,
+		);
+		currentBroadcaster = detail.broadcaster ?? null;
+	} catch {
+		// detail file unavailable
+	}
+}
 
 function computeRanges(years: number[]): string[] {
 	if (years.length === 0) return [];
@@ -65,7 +86,10 @@ function splitForDisplay(ranges: string[]): [string, string] {
 			best = i;
 		}
 	}
-	return [ranges.slice(0, best).join(", ") + ",", ranges.slice(best).join(", ")];
+	return [
+		ranges.slice(0, best).join(", ") + ",",
+		ranges.slice(best).join(", "),
+	];
 }
 
 const ranges = computeRanges(history.map((h) => h.year));
@@ -115,11 +139,34 @@ const [yearsLine1, yearsLine2] = splitForDisplay(ranges);
 								) : (
 									<>
 										{yearsLine1}
-										{yearsLine2 && <><br />{yearsLine2}</>}
+										{yearsLine2 && (
+											<>
+												<br />
+												{yearsLine2}
+											</>
+										)}
 									</>
 								)}
 							</span>
 							<span class="stat-label muted">Active years</span>
+						</div>
+					)
+				}
+				{
+					currentBroadcaster && (
+						<div class="stat stat--end">
+							{broadcasterLogoUrl(currentBroadcaster) ? (
+								<img
+									src={broadcasterLogoUrl(currentBroadcaster)!}
+									alt=""
+									class={`broadcaster-logo${broadcasterLogoSquare(currentBroadcaster) ? " broadcaster-logo--square" : ""}`}
+								/>
+							) : (
+								<span class="stat-value">
+									{expandBroadcaster(currentBroadcaster)}
+								</span>
+							)}
+							<span class="stat-label muted">Participating Broadcaster</span>
 						</div>
 					)
 				}
@@ -160,7 +207,9 @@ const [yearsLine1, yearsLine2] = splitForDisplay(ranges);
 										</td>
 										<td>{h.artist}</td>
 										<td class="song-cell">
-											<a href={`/contest/${h.year}/song/${h.contestantId + 1}/`}>
+											<a
+												href={`/contest/${h.year}/song/${h.contestantId + 1}/`}
+											>
 												{h.song}
 											</a>
 										</td>
@@ -240,6 +289,24 @@ const [yearsLine1, yearsLine2] = splitForDisplay(ranges);
 	}
 	.stat-label {
 		font-size: 0.75rem;
+	}
+	.stat--end {
+		align-items: flex-start;
+	}
+	@media (min-width: 768px) {
+		.stat--end {
+			margin-inline-start: auto;
+			align-items: flex-end;
+		}
+	}
+	.broadcaster-logo {
+		display: block;
+		height: 2.25rem;
+		width: auto;
+		max-width: 10rem;
+	}
+	.broadcaster-logo--square {
+		height: 3.5rem;
 	}
 
 	/* ── History section ────────────────────────────────────────── */
