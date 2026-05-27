@@ -102,7 +102,7 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 		src: ACT + "FYR%20of%20Macedonia%20-%20MKRTV.jpg",
 		dest: "/images/broadcasters/mkrtv.jpg",
 	},
-	MRT: { full: "Macedonian Radio-Television" },
+	MRT: { full: "Macedonian Radio-Television", dest: "/images/broadcasters/mrt.png" },
 	NDR: { full: "Norddeutscher Rundfunk", dest: "/images/broadcasters/ndr.svg" },
 	NOS: {
 		full: "Nederlandse Omroep Stichting",
@@ -202,10 +202,13 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 		full: "Telewizja Polska",
 		dest: "/images/broadcasters/tvp.svg",
 	},
+	TRT: {
+		full: "Türkiye Radyo ve Televizyon Kurumu",
+		dest: "/images/broadcasters/trt.svg",
+	},
 	TVR: {
 		full: "Televiziunea Română",
-		src: ACT + "Roumanie_TVR.jpg",
-		dest: "/images/broadcasters/tvr.jpg",
+		dest: "/images/broadcasters/tvr.svg",
 	},
 	"UA:PBC": {
 		full: "National Public Broadcasting Company of Ukraine",
