@@ -33,15 +33,20 @@ const wins = history.filter((h) => h.finalPlace === 1).length;
 const appearances = history.length;
 const bestPlace = Math.min(...history.map((h) => h.finalPlace ?? Infinity));
 
-const currentEntry = [...history].reverse().find((h) => !h.cancelled);
-let currentBroadcaster: string | null = null;
-if (currentEntry) {
+const recentEntries = [...history]
+	.reverse()
+	.filter((h) => !h.cancelled)
+	.slice(0, 4);
+const seen = new Set<string>();
+const currentBroadcasters: string[] = [];
+for (const entry of recentEntries) {
 	try {
-		const detail = getContestantDetail(
-			currentEntry.year,
-			currentEntry.contestantId,
-		);
-		currentBroadcaster = detail.broadcaster ?? null;
+		const detail = getContestantDetail(entry.year, entry.contestantId);
+		const b = detail.broadcaster;
+		if (b && !seen.has(b)) {
+			seen.add(b);
+			currentBroadcasters.push(b);
+		}
 	} catch {
 		// detail file unavailable
 	}
@@ -153,20 +158,26 @@ const [yearsLine1, yearsLine2] = splitForDisplay(ranges);
 					)
 				}
 				{
-					currentBroadcaster && (
+					currentBroadcasters.length > 0 && (
 						<div class="stat stat--end">
-							{broadcasterLogoUrl(currentBroadcaster) ? (
-								<img
-									src={broadcasterLogoUrl(currentBroadcaster)!}
-									alt=""
-									class={`broadcaster-logo${broadcasterLogoSquare(currentBroadcaster) ? " broadcaster-logo--square" : ""}`}
-								/>
-							) : (
-								<span class="stat-value">
-									{expandBroadcaster(currentBroadcaster)}
-								</span>
-							)}
-							<span class="stat-label muted">Broadcaster</span>
+							<div class="broadcaster-logos">
+								{currentBroadcasters.map((b) =>
+									broadcasterLogoUrl(b) ? (
+										<img
+											src={broadcasterLogoUrl(b)!}
+											alt=""
+											class={`broadcaster-logo${broadcasterLogoSquare(b) ? " broadcaster-logo--square" : ""}`}
+										/>
+									) : (
+										<span class="stat-value">{expandBroadcaster(b)}</span>
+									),
+								)}
+							</div>
+							<span class="stat-label muted">
+								{currentBroadcasters.length > 1
+									? "Broadcasters"
+									: "Broadcaster"}
+							</span>
 						</div>
 					)
 				}
@@ -271,7 +282,7 @@ const [yearsLine1, yearsLine2] = splitForDisplay(ranges);
 	.stats-row {
 		display: flex;
 		flex-wrap: wrap;
-		gap: 2.5rem;
+		gap: 1rem 2.5rem;
 	}
 	.stat {
 		display: flex;
@@ -290,18 +301,22 @@ const [yearsLine1, yearsLine2] = splitForDisplay(ranges);
 	.stat-label {
 		font-size: 0.75rem;
 	}
-	.stat--end {
-		align-items: flex-start;
-	}
 	@media (min-width: 768px) {
 		.stat--end {
 			margin-inline-start: auto;
-			align-items: flex-end;
 		}
+	}
+	.broadcaster-logos {
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		gap: 1rem;
+		align-items: center;
 	}
 	.broadcaster-logo {
 		display: block;
-		height: 2.25rem;
+		margin-top: 0.5rem;
+		height: 1.75rem;
 		width: auto;
 		max-width: 10rem;
 	}
