@@ -15,6 +15,7 @@ export interface BroadcasterEntry {
 	full?: string;
 	dest?: string;
 	square?: true;
+	logoRef?: string; // borrow logo from another entry (historical → successor)
 }
 
 export const BROADCASTERS: Record<string, BroadcasterEntry> = {
@@ -53,11 +54,11 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	},
 	BRT: {
 		full: "Belgische Radio en Televisie",
-		dest: "/images/broadcasters/brt.png",
+		logoRef: "VRT", // predecessor to VRT; show the living successor logo
 	},
 	BRTN: {
 		full: "Belgische Radio en Televisieomroep Nederlandstalig",
-		dest: "/images/broadcasters/brt.png",
+		logoRef: "VRT", // predecessor to VRT; show the living successor logo
 	},
 	C1R: {
 		full: "Channel One Russia",
@@ -81,6 +82,15 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 		full: "Ellinikí Radiofonía Tileórasi",
 		dest: "/images/broadcasters/ert.svg",
 	},
+	"Antenne 2": {
+		logoRef: "France Télévisions",
+	},
+	"France 2": {
+		logoRef: "France Télévisions",
+	},
+	"France 3": {
+		logoRef: "France Télévisions",
+	},
 	"France Télévisions": {
 		dest: "/images/broadcasters/francetv.svg",
 	},
@@ -97,7 +107,10 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 		full: "Hrvatska Radiotelevizija",
 		dest: "/images/broadcasters/hrt.svg",
 	},
-	IBA: { full: "Israeli Broadcasting Authority" },
+	IBA: {
+		full: "Israeli Broadcasting Authority",
+		logoRef: "KAN",
+	},
 	İctimai: {
 		dest: "/images/broadcasters/itv.svg",
 		square: true,
@@ -144,7 +157,10 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 		full: "Norsk rikskringkasting",
 		dest: "/images/broadcasters/nrk.svg",
 	},
-	ORTF: { full: "Office de Radiodiffusion Télévision Française" },
+	ORTF: {
+		full: "Office de Radiodiffusion Télévision Française",
+		logoRef: "France Télévisions",
+	},
 	ORF: {
 		full: "Österreichischer Rundfunk",
 		dest: "/images/broadcasters/orf.svg",
@@ -166,7 +182,14 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 		full: "Radio-televizija Crne Gore",
 		dest: "/images/broadcasters/rtcg.svg",
 	},
-	RTF: { full: "Radiodiffusion-Télévision Française" },
+	RTB: {
+		full: "Radio Télévision Belge",
+		logoRef: "RTBF",
+	},
+	RTF: {
+		full: "Radiodiffusion-Télévision Française",
+		logoRef: "France Télévisions",
+	},
 	RTL: { full: "Radio Télé Luxembourg", dest: "/images/broadcasters/rtl.svg" },
 	RTR: {
 		full: "All-Russia State Television and Radio Broadcasting Company",
@@ -175,6 +198,10 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	RTP: {
 		full: "Rádio e Televisão de Portugal",
 		dest: "/images/broadcasters/rtp.svg",
+	},
+	RÉ: {
+		full: "Radio Éireann",
+		logoRef: "RTÉ", // pre-1962 name; RTÉ is the direct TV-era successor
 	},
 	RTÉ: {
 		full: "Raidió Teilifís Éireann",
@@ -195,6 +222,7 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	RTVSLO: {
 		full: "Radiotelevizija Slovenija",
 		dest: "/images/broadcasters/rtvslo.svg",
+		square: true,
 	},
 	RÚV: {
 		full: "Ríkisútvarpið",
@@ -220,7 +248,11 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	},
 	SR: {
 		full: "Sveriges Radio",
-		dest: "/images/broadcasters/sr.svg",
+		logoRef: "SVT", // old SR was the unified TV+radio org; SVT is the TV successor
+	},
+	STV: {
+		full: "Slovenská televízia",
+		logoRef: "STVR", // 2012 and earlier name; STVR is the 2025 rebrand
 	},
 	STVR: {
 		full: "Slovenská televízia a rozhlas",
