@@ -29,8 +29,8 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	},
 	AMPTV: {
 		full: "Armenian Public Television",
-		src: ACT + "Armenia_AMPTV.png",
-		dest: "/images/broadcasters/amptv.png",
+		dest: "/images/broadcasters/amptv.svg",
+		square: true,
 	},
 	AVROTROS: {
 		dest: "/images/broadcasters/avrotros.svg",
@@ -44,7 +44,11 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 		full: "Bulgarian National Television",
 		dest: "/images/broadcasters/bnt.svg",
 	},
-	BR: { full: "Bayerischer Rundfunk", dest: "/images/broadcasters/br.svg", square: true },
+	BR: {
+		full: "Bayerischer Rundfunk",
+		dest: "/images/broadcasters/br.svg",
+		square: true,
+	},
 	BRT: {
 		full: "Belgische Radio en Televisie",
 		dest: "/images/broadcasters/brt.png",
@@ -78,7 +82,11 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 		full: "Georgian Public Broadcasting",
 		dest: "/images/broadcasters/gpb.svg",
 	},
-	HR: { full: "Hessischer Rundfunk", dest: "/images/broadcasters/hr.svg", square: true },
+	HR: {
+		full: "Hessischer Rundfunk",
+		dest: "/images/broadcasters/hr.svg",
+		square: true,
+	},
 	HRT: {
 		full: "Hrvatska Radiotelevizija",
 		dest: "/images/broadcasters/hrt.svg",
@@ -109,7 +117,11 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 		full: "Macedonian Radio-Television",
 		dest: "/images/broadcasters/mrt.png",
 	},
-	NDR: { full: "Norddeutscher Rundfunk", dest: "/images/broadcasters/ndr.svg", square: true },
+	NDR: {
+		full: "Norddeutscher Rundfunk",
+		dest: "/images/broadcasters/ndr.svg",
+		square: true,
+	},
 	NOS: {
 		full: "Nederlandse Omroep Stichting",
 		dest: "/images/broadcasters/nos.svg",
