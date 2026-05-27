@@ -22,6 +22,7 @@ export function broadcasterLogoUrl(raw: string): string | null {
 // Typos / encoding errors in the upstream API data that would recur on re-fetch.
 const BROADCASTER_ALIASES: Record<string, string> = {
 	RTÈ: "RTÉ",  // 1981: È (grave) should be É (acute)
+	RTB:  "RTBF", // 2022: API returns pre-1977 name instead of current acronym
 };
 
 // Per-year broadcaster overrides. The API sometimes reports only the consortium
