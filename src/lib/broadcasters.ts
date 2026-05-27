@@ -26,8 +26,7 @@ const ASC =
 
 export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	ARD: {
-		src: ACT + "Germany%20-%20ARD.png",
-		dest: "/images/broadcasters/ard.png",
+		dest: "/images/broadcasters/ard.svg",
 	},
 	AMPTV: {
 		full: "Armenian Public Television",
@@ -108,8 +107,7 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	NDR: { full: "Norddeutscher Rundfunk", dest: "/images/broadcasters/ndr.svg" },
 	NOS: {
 		full: "Nederlandse Omroep Stichting",
-		src: ACT + "Netherlands%20-%20NOS.jpg",
-		dest: "/images/broadcasters/nos.jpg",
+		dest: "/images/broadcasters/nos.svg",
 	},
 	NPO: {
 		full: "Nederlandse Publieke Omroep",
