@@ -45,11 +45,11 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	BR: { full: "Bayerischer Rundfunk", dest: "/images/broadcasters/br.svg" },
 	BRT: {
 		full: "Belgische Radio en Televisie",
-		dest: "/images/broadcasters/brt.svg",
+		dest: "/images/broadcasters/brt.png",
 	},
 	BRTN: {
 		full: "Belgische Radio en Televisieomroep Nederlandstalig",
-		dest: "/images/broadcasters/brt.svg",
+		dest: "/images/broadcasters/brt.png",
 	},
 	C1R: { full: "Channel One Russia" },
 	CLT: { full: "Compagnie Luxembourgeoise de Télévision" },
