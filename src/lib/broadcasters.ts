@@ -40,10 +40,17 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	},
 	BNT: {
 		full: "Bulgarian National Television",
-		src: ACT + "Bulgaria%20-%20BNT.png",
-		dest: "/images/broadcasters/bnt.png",
+		dest: "/images/broadcasters/bnt.svg",
 	},
 	BR: { full: "Bayerischer Rundfunk", dest: "/images/broadcasters/br.svg" },
+	BRT: {
+		full: "Belgische Radio en Televisie",
+		dest: "/images/broadcasters/brt.svg",
+	},
+	BRTN: {
+		full: "Belgische Radio en Televisieomroep Nederlandstalig",
+		dest: "/images/broadcasters/brt.svg",
+	},
 	C1R: { full: "Channel One Russia" },
 	CLT: { full: "Compagnie Luxembourgeoise de Télévision" },
 	CyBC: {
@@ -88,8 +95,7 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	},
 	LRT: {
 		full: "Lietuvos nacionalinis radijas ir televizija",
-		src: ACT + "Lithuania%20-%20LRT.png",
-		dest: "/images/broadcasters/lrt.png",
+		dest: "/images/broadcasters/lrt.svg",
 	},
 	LTV: {
 		full: "Latvijas Televīzija",
@@ -172,8 +178,7 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	},
 	RÚV: {
 		full: "Ríkisútvarpið",
-		src: ACT + "Iceland%20-%20RUV.jpg",
-		dest: "/images/broadcasters/ruv.jpg",
+		dest: "/images/broadcasters/ruv.svg",
 	},
 	SBS: {
 		full: "Special Broadcasting Service",
@@ -185,8 +190,8 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 		dest: "/images/broadcasters/smrtv.jpg",
 	},
 	"SRG SSR": {
-		src: ACT + "Suisse_SSRSRG.png",
-		dest: "/images/broadcasters/srg-ssr.png",
+		full: "Swiss Broadcasting Corporation",
+		dest: "/images/broadcasters/srg-ssr.svg",
 	},
 	SR: {
 		full: "Sveriges Radio",
