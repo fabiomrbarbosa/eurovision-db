@@ -3,7 +3,7 @@
  * No Node.js APIs — nothing here touches the filesystem or the network.
  */
 
-import { BROADCASTERS } from "./broadcaster-logos.ts";
+import { BROADCASTERS } from "./broadcasters.ts";
 
 export function countryFlagUrl(code: string): string {
 	return `/images/flags/${code.toLowerCase()}.svg`;

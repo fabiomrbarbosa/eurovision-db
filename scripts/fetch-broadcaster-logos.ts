@@ -18,7 +18,7 @@
 import { writeFileSync, mkdirSync, existsSync } from "fs";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
-import { BROADCASTERS } from "../src/lib/broadcaster-logos.ts";
+import { BROADCASTERS } from "../src/lib/broadcasters.ts";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const PUBLIC_DIR = join(__dirname, "../public");

@@ -5,7 +5,7 @@
  *   dest  — public path served by Astro (absent = no logo available)
  *
  * Consumed by:
- *   scripts/fetch-broadcaster-logos.ts  → downloads src → dest
+ *   scripts/fetch-broadcaster-logos.ts → downloads src → dest
  *   src/lib/utils.ts → expandBroadcaster(), broadcasterLogoUrl()
  *
  * Keys match the raw broadcaster string from ContestantDetail.broadcaster
