@@ -9,6 +9,13 @@ export function countryFlagUrl(code: string): string {
 	return `/images/flags/${code.toLowerCase()}.svg`;
 }
 
+// Typos / encoding errors in the upstream API data that would recur on re-fetch.
+const BROADCASTER_ALIASES: Record<string, string> = {
+	RTÈ:       "RTÉ",    // 1981: È (grave) should be É (acute)
+	RTB:       "RTBF",   // 2022: API returns pre-1977 name instead of current acronym
+	"SSR SRG": "SRG SSR", // API consistently returns French-order acronym; canonical key is German-order
+};
+
 // Extracts the acronym from "Full Name (ACRONYM)" strings; returns the input unchanged otherwise.
 function broadcasterCode(raw: string): string {
 	const m = raw.match(/\(([^)]+)\)$/);
@@ -16,15 +23,10 @@ function broadcasterCode(raw: string): string {
 }
 
 export function broadcasterLogoUrl(raw: string): string | null {
-	return BROADCASTERS[broadcasterCode(raw)]?.dest ?? null;
+	const code = broadcasterCode(raw);
+	const normalised = BROADCASTER_ALIASES[code] ?? code;
+	return BROADCASTERS[normalised]?.dest ?? null;
 }
-
-// Typos / encoding errors in the upstream API data that would recur on re-fetch.
-const BROADCASTER_ALIASES: Record<string, string> = {
-	RTÈ:     "RTÉ",    // 1981: È (grave) should be É (acute)
-	RTB:     "RTBF",   // 2022: API returns pre-1977 name instead of current acronym
-	"SSR SRG": "SRG SSR", // API consistently returns French-order acronym; canonical key is German-order
-};
 
 // Per-year broadcaster overrides. The API sometimes reports only the consortium
 // label (e.g. "ARD") instead of the regional broadcaster that produced the show,
