@@ -55,13 +55,11 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	CLT: { full: "Compagnie Luxembourgeoise de Télévision" },
 	CyBC: {
 		full: "Cyprus Broadcasting Corporation",
-		src: ACT + "Cyprus%20-%20CY_CBC.png",
-		dest: "/images/broadcasters/cybc.png",
+		dest: "/images/broadcasters/cybc.svg",
 	},
 	DR: {
 		full: "Danmarks Radio",
-		src: ACT + "Denmark%20-%20DR.png",
-		dest: "/images/broadcasters/dr.png",
+		dest: "/images/broadcasters/dr.svg",
 	},
 	ERR: {
 		full: "Eesti Rahvusringhääling",
@@ -123,8 +121,7 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	},
 	ORF: {
 		full: "Österreichischer Rundfunk",
-		src: ACT + "Autriche_ORF.png",
-		dest: "/images/broadcasters/orf.png",
+		dest: "/images/broadcasters/orf.svg",
 	},
 	PBS: {
 		full: "Public Broadcasting Services",
@@ -233,7 +230,6 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	},
 	ČT: {
 		full: "Česká televize",
-		src: ACT + "Czech_Republic_CT.png",
-		dest: "/images/broadcasters/ct.png",
+		dest: "/images/broadcasters/ct.svg",
 	},
 };
