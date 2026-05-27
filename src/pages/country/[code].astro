@@ -57,7 +57,9 @@ const isRotating =
 const allBroadcasters = isRotating
 	? [...new Set(recentBroadcasters)]
 	: recentBroadcasters.slice(0, 1);
-const currentBroadcasters = allBroadcasters.filter((b) => broadcasterLogoUrl(b) !== null);
+const currentBroadcasters = allBroadcasters.filter(
+	(b) => broadcasterLogoUrl(b) !== null,
+);
 
 function computeRanges(years: number[]): string[] {
 	if (years.length === 0) return [];
@@ -142,7 +144,7 @@ const [yearsLine1, yearsLine2] = splitForDisplay(ranges);
 					wins > 0 ? (
 						<div class="stat">
 							<span class="stat-value mono gold">{wins}</span>
-							<span class="stat-label muted">Win{wins !== 1 ? "s" : ""}</span>
+							<span class="stat-label gold">Win{wins !== 1 ? "s" : ""}</span>
 						</div>
 					) : (
 						bestPlace !== Infinity && (
