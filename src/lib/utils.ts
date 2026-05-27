@@ -13,6 +13,7 @@ export function countryFlagUrl(code: string): string {
 const BROADCASTER_ALIASES: Record<string, string> = {
 	RTÈ:       "RTÉ",    // 1981: È (grave) should be É (acute)
 	RTB:       "RTBF",   // 2022: API returns pre-1977 name instead of current acronym
+	TVE:       "RTVE",   // API uses channel name; canonical key is the corporation acronym
 	"SSR SRG": "SRG SSR", // API consistently returns French-order acronym; canonical key is German-order
 };
 

@@ -206,10 +206,9 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	SWR: { full: "Südwestrundfunk", dest: "/images/broadcasters/swr.svg" },
 	TF1: { full: "Télévision Française 1" },
 	TRM: { full: "Teleradio-Moldova" },
-	TVE: {
-		full: "Televisión Española",
-		src: ACT + "Spain_RTVE.png",
-		dest: "/images/broadcasters/tve.png",
+	RTVE: {
+		full: "Radiotelevisión Española",
+		dest: "/images/broadcasters/rtve.svg",
 	},
 	TVP: {
 		full: "Telewizja Polska",
@@ -232,8 +231,7 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	},
 	YLE: {
 		full: "Yleisradio",
-		src: ACT + "Finland-YLE.png",
-		dest: "/images/broadcasters/yle.png",
+		dest: "/images/broadcasters/yle.svg",
 	},
 	ČT: {
 		full: "Česká televize",
