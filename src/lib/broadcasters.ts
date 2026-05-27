@@ -182,6 +182,10 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 		full: "Radio-televizija Crne Gore",
 		dest: "/images/broadcasters/rtcg.svg",
 	},
+	TVCG: {
+		full: "Televizija Crne Gore",
+		logoRef: "RTCG", // historical name used during Serbia & Montenegro era (e.g. 2005); successor is RTCG
+	},
 	RTB: {
 		full: "Radio Télévision Belge",
 		logoRef: "RTBF",
