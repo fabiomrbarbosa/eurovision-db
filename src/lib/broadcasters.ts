@@ -40,6 +40,10 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 		full: "British Broadcasting Corporation",
 		dest: "/images/broadcasters/bbc.svg",
 	},
+	BHRT: {
+		full: "Radiotelevizija Bosne i Hercegovine",
+		dest: "/images/broadcasters/bhrt.svg",
+	},
 	BNT: {
 		full: "Bulgarian National Television",
 		dest: "/images/broadcasters/bnt.svg",
