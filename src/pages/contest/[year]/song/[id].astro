@@ -12,7 +12,12 @@ import {
 	getCountries,
 	getCountryHistory,
 } from "../../../../lib/data.ts";
-import { countryFlagUrl, ordinal, expandBroadcaster, broadcasterLogoUrl } from "../../../../lib/utils.ts";
+import {
+	countryFlagUrl,
+	ordinal,
+	expandBroadcaster,
+	broadcasterLogoUrl,
+} from "../../../../lib/utils.ts";
 import { existsSync } from "fs";
 import { join } from "path";
 
@@ -207,7 +212,9 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
 						{performances.map((p) => (
 							<div
 								class="result-pill"
-								data-vote-idx={p.disqualified ? undefined : roundToVoteIdx[p.round]}
+								data-vote-idx={
+									p.disqualified ? undefined : roundToVoteIdx[p.round]
+								}
 							>
 								<span class="result-label">{p.label}</span>
 								{p.disqualified ? (
@@ -333,7 +340,9 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
 							detail.artistPeople && detail.artistPeople.length > 0 && (
 								<>
 									<dt>
-										{detail.artistPeople.length === 1 ? "Artist name" : "Members"}
+										{detail.artistPeople.length === 1
+											? "Artist name"
+											: "Members"}
 									</dt>
 									<dd>{detail.artistPeople.join(", ")}</dd>
 								</>
@@ -396,18 +405,21 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
 						<section class="side-section">
 							<h2 class="section-heading">Broadcast</h2>
 							<dl class="meta-list">
-								{detail.broadcaster && (() => {
-									const logo = broadcasterLogoUrl(detail.broadcaster);
-									return (
-										<>
-											<dt>Broadcaster</dt>
-											<dd>
-												{logo && <img src={logo} alt="" class="broadcaster-logo" />}
-												{expandBroadcaster(detail.broadcaster)}
-											</dd>
-										</>
-									);
-								})()}
+								{detail.broadcaster &&
+									(() => {
+										const logo = broadcasterLogoUrl(detail.broadcaster);
+										return (
+											<>
+												<dt>Broadcaster</dt>
+												<dd>
+													{logo && (
+														<img src={logo} alt="" class="broadcaster-logo" />
+													)}
+													{expandBroadcaster(detail.broadcaster)}
+												</dd>
+											</>
+										);
+									})()}
 								{detail.spokesperson && (
 									<>
 										<dt>Spokesperson</dt>
@@ -663,8 +675,8 @@ const description = `${detail.artist} represented ${countryName} at Eurovision $
 		}
 		.broadcaster-logo {
 			display: block;
-			max-height: 2rem;
-			max-width: 7rem;
+			max-height: 3rem;
+			max-width: 8rem;
 			width: auto;
 			margin-bottom: 0.35rem;
 			object-fit: contain;
