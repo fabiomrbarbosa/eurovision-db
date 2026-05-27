@@ -37,20 +37,26 @@ const recentEntries = [...history]
 	.reverse()
 	.filter((h) => !h.cancelled)
 	.slice(0, 4);
-const seen = new Set<string>();
-const currentBroadcasters: string[] = [];
+const recentBroadcasters: string[] = [];
 for (const entry of recentEntries) {
 	try {
-		const detail = getContestantDetail(entry.year, entry.contestantId);
-		const b = detail.broadcaster;
-		if (b && !seen.has(b)) {
-			seen.add(b);
-			currentBroadcasters.push(b);
-		}
+		const b = getContestantDetail(entry.year, entry.contestantId).broadcaster;
+		if (b) recentBroadcasters.push(b);
 	} catch {
 		// detail file unavailable
 	}
 }
+// Show multiple broadcasters only when the pattern is truly rotating:
+// the most recent broadcaster reappears at index 2+ (non-consecutive),
+// as Belgium does (RTBF→VRT→RTBF→VRT). A permanent switch (NewBC→NewBC→OldBC)
+// would not satisfy this and correctly shows only the new broadcaster.
+const isRotating =
+	recentBroadcasters.length >= 3 &&
+	recentBroadcasters.slice(2).includes(recentBroadcasters[0]);
+const allBroadcasters = isRotating
+	? [...new Set(recentBroadcasters)]
+	: recentBroadcasters.slice(0, 1);
+const currentBroadcasters = allBroadcasters.filter((b) => broadcasterLogoUrl(b) !== null);
 
 function computeRanges(years: number[]): string[] {
 	if (years.length === 0) return [];
@@ -115,6 +121,30 @@ const [yearsLine1, yearsLine2] = splitForDisplay(ranges);
 			</h1>
 			<div class="stats-row">
 				{
+					currentBroadcasters.length > 0 && (
+						<div class="stat">
+							<div class="broadcaster-logos">
+								{currentBroadcasters.map((b) =>
+									broadcasterLogoUrl(b) ? (
+										<img
+											src={broadcasterLogoUrl(b)!}
+											alt=""
+											class="broadcaster-logo"
+										/>
+									) : (
+										<span class="stat-value">{expandBroadcaster(b)}</span>
+									),
+								)}
+							</div>
+							<span class="stat-label muted">
+								{currentBroadcasters.length > 1
+									? "Broadcasters"
+									: "Broadcaster"}
+							</span>
+						</div>
+					)
+				}
+				{
 					wins > 0 ? (
 						<div class="stat">
 							<span class="stat-value mono gold">{wins}</span>
@@ -154,30 +184,6 @@ const [yearsLine1, yearsLine2] = splitForDisplay(ranges);
 								)}
 							</span>
 							<span class="stat-label muted">Active years</span>
-						</div>
-					)
-				}
-				{
-					currentBroadcasters.length > 0 && (
-						<div class="stat stat--end">
-							<div class="broadcaster-logos">
-								{currentBroadcasters.map((b) =>
-									broadcasterLogoUrl(b) ? (
-										<img
-											src={broadcasterLogoUrl(b)!}
-											alt=""
-											class={`broadcaster-logo${broadcasterLogoSquare(b) ? " broadcaster-logo--square" : ""}`}
-										/>
-									) : (
-										<span class="stat-value">{expandBroadcaster(b)}</span>
-									),
-								)}
-							</div>
-							<span class="stat-label muted">
-								{currentBroadcasters.length > 1
-									? "Broadcasters"
-									: "Broadcaster"}
-							</span>
 						</div>
 					)
 				}
@@ -300,11 +306,6 @@ const [yearsLine1, yearsLine2] = splitForDisplay(ranges);
 	}
 	.stat-label {
 		font-size: 0.75rem;
-	}
-	@media (min-width: 768px) {
-		.stat--end {
-			margin-inline-start: auto;
-		}
 	}
 	.broadcaster-logos {
 		display: flex;
