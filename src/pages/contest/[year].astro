@@ -25,8 +25,12 @@ const prevYear = yearIdx > 0 ? years[yearIdx - 1] : null;
 const nextYear = yearIdx < years.length - 1 ? years[yearIdx + 1] : null;
 
 const contestIndex = getContestIndex();
-const prevCity = prevYear ? (contestIndex.find((e) => e.year === prevYear)?.city ?? null) : null;
-const nextCity = nextYear ? (contestIndex.find((e) => e.year === nextYear)?.city ?? null) : null;
+const prevCity = prevYear
+	? (contestIndex.find((e) => e.year === prevYear)?.city ?? null)
+	: null;
+const nextCity = nextYear
+	? (contestIndex.find((e) => e.year === nextYear)?.city ?? null)
+	: null;
 
 const countries = getCountries();
 const contest = getResolvedContest(year);
@@ -123,7 +127,9 @@ const semiRounds = contest.rounds
 			.sort((a, b) => (a.running ?? 0) - (b.running ?? 0))
 			.map((perf) => {
 				const c = contest.contestantsById[perf.contestantId];
-				const disqualified = (round.disqualifieds ?? []).includes(perf.contestantId);
+				const disqualified = (round.disqualifieds ?? []).includes(
+					perf.contestantId,
+				);
 				return {
 					id: c.id,
 					running: perf.running,
@@ -150,7 +156,11 @@ const semiRounds = contest.rounds
 		<header class="contest-header">
 			<div class="contest-meta">
 				<h1>
-					<img class="flag" src={countryFlagUrl(contest.intendedCountry ?? contest.country)} alt="" />
+					<img
+						class="flag"
+						src={countryFlagUrl(contest.intendedCountry ?? contest.country)}
+						alt=""
+					/>
 					{contest.city}
 					{year}
 				</h1>
@@ -161,7 +171,10 @@ const semiRounds = contest.rounds
 							{contest.arena} · {hostCountryName}
 							{
 								intendedName && (
-									<> on behalf of <strong>{intendedName}</strong></>
+									<>
+										{" "}
+										on behalf of <strong>{intendedName}</strong>
+									</>
 								)
 							}
 						</span>
@@ -178,7 +191,9 @@ const semiRounds = contest.rounds
 						contest.slogan && (
 							<span class="meta-item">
 								<span class="meta-label">Slogan</span>
-								<span class="meta-content"><em>"{contest.slogan}"</em></span>
+								<span class="meta-content">
+									<em>"{contest.slogan}"</em>
+								</span>
 							</span>
 						)
 					}
@@ -188,7 +203,9 @@ const semiRounds = contest.rounds
 						contest.presenters.length > 0 && (
 							<span class="meta-item">
 								<span class="meta-label">Hosted by</span>
-								<span class="meta-content">{contest.presenters.join(" · ")}</span>
+								<span class="meta-content">
+									{contest.presenters.join(" · ")}
+								</span>
 							</span>
 						)
 					}
@@ -196,7 +213,12 @@ const semiRounds = contest.rounds
 						contest.broadcasters.length > 0 && (
 							<span class="meta-item">
 								<span class="meta-label">Broadcaster</span>
-								<span class="meta-content">{resolveContestBroadcasters(contest.year, contest.broadcasters).join(" · ")}</span>
+								<span class="meta-content">
+									{resolveContestBroadcasters(
+										contest.year,
+										contest.broadcasters,
+									).join(" · ")}
+								</span>
 							</span>
 						)
 					}
@@ -204,7 +226,7 @@ const semiRounds = contest.rounds
 			</div>
 
 			<img
-				src={`/images/logos/${year}.png`}
+				src={`/images/logos/artwork/${year}.png`}
 				alt={`ESC ${year} logo`}
 				class="contest-logo"
 			/>

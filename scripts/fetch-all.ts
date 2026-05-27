@@ -69,8 +69,9 @@ function log(msg: string) {
 // ---------------------------------------------------------------------------
 
 const CONTEST_PATCHES: Record<number, Record<string, unknown>> = {
-  2005: { city: "Kyiv" },   // API returns "Kiev" (outdated romanisation)
-  2006: { city: "Athens" }, // API returns "Athen" (truncated)
+  2002: { city: "Tallinn" }, // API returns "Tallin" (single n)
+  2005: { city: "Kyiv" },    // API returns "Kiev" (outdated romanisation)
+  2006: { city: "Athens" },  // API returns "Athen" (truncated)
 };
 
 // ---------------------------------------------------------------------------
