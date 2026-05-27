@@ -97,7 +97,11 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 		dest: "/images/broadcasters/itv.png",
 		square: true,
 	},
-	JRT: { full: "Jugoslovenska Radiotelevizija" },
+	JRT: {
+		full: "Jugoslovenska Radiotelevizija",
+		dest: "/images/broadcasters/jrt.svg",
+		square: true,
+	},
 	KAN: {
 		dest: "/images/broadcasters/kan.svg",
 	},
