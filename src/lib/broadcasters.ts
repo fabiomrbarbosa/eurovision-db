@@ -69,7 +69,7 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 		logo: "/images/broadcasters/c1r.svg",
 		logoSquare: true,
 	},
-	CLT: { full: "Compagnie Luxembourgeoise de Télévision" },
+	CLT: { full: "Compagnie Luxembourgeoise de Télévision", logoRef: "RTL" },
 	CyBC: {
 		full: "Cyprus Broadcasting Corporation",
 		logo: "/images/broadcasters/cybc.svg",

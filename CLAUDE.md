@@ -249,7 +249,7 @@ npm run build
 - `src/lib/broadcasters.ts` — single source of truth for broadcaster metadata; `BroadcasterEntry`
   has `full?` (display name), `logo?` (public asset path in `public/images/broadcasters/`),
   `logoSquare?: true` (aspect-ratio hint), and `logoRef?` (borrow logo from another entry —
-  used for historical names that predate a rebrand, e.g. NTU → UA:PBC, TVCG → RTCG);
+  used for historical names that predate a rebrand, e.g. NTU → UA:PBC, TVCG → RTCG, CLT → RTL);
   historical aliases should set `full` to their own name and `logoRef` to the successor key —
   the successor's logo is displayed but the original name is shown in the UI
 - `Base.astro` — layout shell; nav logo "Eurovision DB" in `--c-magenta`; `title` prop is optional
