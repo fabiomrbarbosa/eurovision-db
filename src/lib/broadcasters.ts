@@ -109,7 +109,7 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	},
 	IBA: {
 		full: "Israeli Broadcasting Authority",
-		logoRef: "KAN",
+		logo: "/images/broadcasters/iba.svg",
 	},
 	İctimai: {
 		logo:"/images/broadcasters/itv.svg",
