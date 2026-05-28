@@ -40,7 +40,7 @@ export function broadcasterLogoUrl(raw: string): string | null {
 }
 
 export function broadcasterLogoSquare(raw: string): boolean {
-	return resolveEntry(raw)?.square ?? false;
+	return resolveEntry(raw)?.logoSquare ?? false;
 }
 
 // Per-country broadcaster overrides for country/all-countries pages.
