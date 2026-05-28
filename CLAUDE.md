@@ -381,6 +381,12 @@ npm run build
   even for single-round songs; listens to `vote-round` CustomEvent (dispatched by result pill
   clicks) to switch the active tab; voter rows sorted by total descending; jury/tele columns
   only shown when `hasJuryTele`
+- `countries.astro` — countries table wrapped in `.table-scroll` for mobile horizontal scroll (same
+  fix as contests and country-history tables); `padding-bottom` removed from local `.container` block
+- `global.css` — `main { padding-bottom: 4rem }` is the single source of bottom spacing before the
+  footer; removed redundant per-page declarations from `index.astro` (.recent), `contests.astro`
+  (.container), `countries.astro` (.container), `country/[code].astro` (.container), and
+  `song/[id].astro` (.votes-section)
 - `SearchModal.svelte` — modal backdrop uses plain navy overlay (`color-mix` 85%); no
   `backdrop-filter: blur()` (removed — amplified pre-existing gradient dithering in the
   background spheres by re-sampling the composited pixel buffer); ⌘K / Ctrl+K global

@@ -110,7 +110,8 @@ const countryList = Object.entries(statsMap)
 			</p>
 		</header>
 
-		<table class="countries-table">
+		<div class="table-scroll">
+			<table class="countries-table">
 			<thead>
 				<tr>
 					<th data-sort="name">Country</th>
@@ -166,13 +167,11 @@ const countryList = Object.entries(statsMap)
 				}
 			</tbody>
 		</table>
+		</div>
 	</div>
 </Base>
 
 <style>
-	.container {
-		padding-bottom: 4rem;
-	}
 	.page-header {
 		padding-block: 3rem 2rem;
 		border-bottom: 1px solid var(--c-border);
