@@ -245,13 +245,19 @@ npm run build
   the full string ("1st", "2nd", "3rd", "4th"…) — **not** just the suffix; all call sites use
   `ordinal(n)` alone, never `{n}{ordinal(n)}`, to avoid JSX whitespace bugs;
   `broadcasterLogoUrl(raw)` resolves a raw broadcaster string to its public logo path via
-  `src/lib/broadcasters.ts`; `expandBroadcaster(raw)` returns the full display name
+  `src/lib/broadcasters.ts`; `broadcasterLogoSquare(raw)` returns the square hint;
+  `expandBroadcaster(raw)` returns the full display name;
+  `resolveContestBroadcasterCodes(year, broadcasters)` returns raw broadcaster codes after
+  applying year overrides (without name expansion) — use for logo lookups on the contest page
 - `src/lib/broadcasters.ts` — single source of truth for broadcaster metadata; `BroadcasterEntry`
   has `full?` (display name), `logo?` (public asset path in `public/images/broadcasters/`),
   `logoSquare?: true` (aspect-ratio hint), and `logoRef?` (borrow logo from another entry —
   used for historical names that predate a rebrand, e.g. NTU → UA:PBC, TVCG → RTCG, CLT → RTL);
   historical aliases should set `full` to their own name and `logoRef` to the successor key —
-  the successor's logo is displayed but the original name is shown in the UI
+  the successor's logo is displayed but the original name is shown in the UI;
+  `BROADCASTER_ALIASES` in `utils.ts` handles API encoding quirks and full-name forms that
+  don't match BROADCASTERS keys (e.g. `İTV → İctimai`, `SRG SSR idée suisse → SRG SSR`,
+  `IPBC` is a BROADCASTERS entry with `logoRef: "KAN"` — rebranded to KAN in 2017)
 - `Base.astro` — layout shell; nav logo "Eurovision DB" in `--c-magenta`; `title` prop is optional
   (omitting it renders just "Eurovision Database" with no separator); favicon links point to PNG
   variants and `site.webmanifest` for PWA support; SW registered inline with `is:inline` script
@@ -288,7 +294,11 @@ npm run build
   contest logo capped at `max-height: 175px; max-width: 240px` with `height: auto; width: auto`;
   cancelled editions show a selected-acts table (full `.results-table` styling from `global.css`)
   with song links to individual song pages (which do generate for cancelled years) and flags
-  outside the `<a>` tag; table wrapped in `.table-scroll`
+  outside the `<a>` tag; table wrapped in `.table-scroll`;
+  header meta: row 1 = broadcaster logo(s) + venue; row 2 = dates + hosted by + slogan;
+  broadcaster items pre-computed in frontmatter (`broadcasterItems`) to avoid block-body arrow
+  functions inside Astro JSX (language server trips on `const` declarations inside `.map()`);
+  wide logos `1.25rem`, square logos `1.75rem`
 - `country/[code].astro` — country history; sortable columns; Run column removed (not useful
   per-country); DNQ and Cancelled both use `<span class="badge badge--magenta">`; "Active years"
   stat shows actual consecutive participation ranges (not a simple A–B span), deduped to handle
@@ -299,7 +309,10 @@ npm run build
   final place known); Final column shows `—` (not "DNQ") for contestants who appeared in the
   final round but have no recorded place (1956); table wrapped in `.table-scroll` for mobile;
   song links are muted (`--c-muted`) with underline, turning cyan on hover (uses global `td a` rule,
-  no local `text-decoration: none` override)
+  no local `text-decoration: none` override);
+  broadcaster logo(s) rendered as last stat in the stats-row; `.stat` uses
+  `justify-content: space-between` so labels align across mixed-height stat blocks; wide logos
+  `1.35rem`, square logos `1.6rem` with `padding-top: 0.65rem` to align top edge with number cap height
 - `Search.svelte` — live search island (queries /data/index.json and /data/countries.json);
   `listEl` declared with `$state()` for reactive binding; a11y `onkeydown` handler on result `<li>`
 - `ScoreBreakdown.svelte` — interactive voter detail panel; `WLD` voter shown as
