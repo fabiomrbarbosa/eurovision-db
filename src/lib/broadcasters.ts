@@ -21,6 +21,7 @@ export interface BroadcasterEntry {
 export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	ARD: {
 		logo: "/images/broadcasters/ard.svg",
+		logoSquare: true,
 	},
 	AMPTV: {
 		full: "Armenian Public Television",
