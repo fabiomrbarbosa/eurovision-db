@@ -352,7 +352,9 @@ npm run build
 - `scripts/fetch-flags.ts` — downloads heart flags from eurovision.com with browser headers;
   falls back to flagcdn.com PNG for unsupported codes (gb-wls)
 - Contest logo `<img>` on `[year].astro` uses local `/images/logos/{year}.png`; logos compressed
-- `contest/[year].astro` — prev/next edition nav shows "City Year" (e.g. "← Turin 2022") using
+- `contest/[year].astro` — Venue meta row: host country and intended host country are linked to
+  their `/country/{code}/` pages; `.meta-content a` white + dim underline at rest, `--c-link` on
+  hover/focus; prev/next edition nav shows "City Year" (e.g. "← Turin 2022") using
   `getContestIndex()` to look up city at build time; falls back to "ESC Year" if city missing;
   `finalist.map()` reshape removed — `finalist` passed directly to `ContestTabs` after renaming
   `finalRunning` → `running` in the `results.map()`; `qualifiedToFinalIds` derived from `finalist`

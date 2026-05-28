@@ -208,12 +208,15 @@ const semiRounds = contest.rounds
 					<span class="meta-item">
 						<span class="meta-label">Venue</span>
 						<span class="meta-content">
-							{contest.arena} · {hostCountryName}
+							{contest.arena} · <a href={`/country/${contest.country}/`}>{hostCountryName}</a>
 							{
 								intendedName && (
 									<>
 										{" "}
-										on behalf of <strong>{intendedName}</strong>
+										on behalf of{" "}
+										<strong>
+											<a href={`/country/${contest.intendedCountry}/`}>{intendedName}</a>
+										</strong>
 									</>
 								)
 							}
@@ -415,6 +418,18 @@ const semiRounds = contest.rounds
 		letter-spacing: 0.08em;
 		color: var(--c-muted);
 	}
+	.meta-content a {
+		color: var(--c-text);
+		text-decoration: underline;
+		text-decoration-color: color-mix(in srgb, var(--c-text) 35%, transparent);
+		transition: color 0.12s, text-decoration-color 0.12s;
+	}
+	.meta-content a:hover,
+	.meta-content a:focus-visible {
+		color: var(--c-link);
+		text-decoration-color: var(--c-link);
+	}
+
 	.broadcaster-logos {
 		display: flex;
 		flex-wrap: wrap;
