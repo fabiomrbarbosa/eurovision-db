@@ -33,7 +33,8 @@ const appearances = history.length;
 const bestPlace = Math.min(...history.map((h) => h.finalPlace ?? Infinity));
 
 const currentBroadcasters = (() => {
-	if (COUNTRY_BROADCASTER_OVERRIDES[code]) return COUNTRY_BROADCASTER_OVERRIDES[code];
+	if (COUNTRY_BROADCASTER_OVERRIDES[code])
+		return COUNTRY_BROADCASTER_OVERRIDES[code];
 	const recentEntries = [...history]
 		.reverse()
 		.filter((h) => !h.cancelled)
@@ -119,7 +120,7 @@ const [yearsLine1, yearsLine2] = splitForDisplay(ranges);
 								{currentBroadcasters.map((b) => (
 									<img
 										src={broadcasterLogoUrl(b)!}
-										alt=""
+										alt={b}
 										class="broadcaster-logo"
 									/>
 								))}
