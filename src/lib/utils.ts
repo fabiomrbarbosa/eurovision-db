@@ -18,7 +18,9 @@ const BROADCASTER_ALIASES: Record<string, string> = {
 	RTÈ:       "RTÉ",                // 1981: È (grave) should be É (acute)
 	TVE:       "RTVE",               // API uses channel name; canonical key is the corporation acronym
 	"SSR SRG": "SRG SSR",            // API consistently returns French-order acronym; canonical key is German-order
+	"SRG SSR idée suisse": "SRG SSR", // full legal name used in older API entries
 	RTM:       "SNRT",               // 1980: Radiodiffusion-Télévision Marocaine (Morocco); RTM ≠ TRM (Moldova)
+	İTV:       "İctimai",            // 2012: API returns full "İctimai Television (İTV)"; canonical key is first word
 };
 
 // Extracts the acronym from "Full Name (ACRONYM)" strings; returns the input unchanged otherwise.
@@ -70,6 +72,10 @@ export function expandBroadcaster(name: string): string {
 
 export function resolveContestBroadcasters(year: number, broadcasters: string[]): string[] {
 	return (BROADCASTER_YEAR_OVERRIDES[year] ?? broadcasters).map(expandBroadcaster);
+}
+
+export function resolveContestBroadcasterCodes(year: number, broadcasters: string[]): string[] {
+	return BROADCASTER_YEAR_OVERRIDES[year] ?? broadcasters;
 }
 
 export function ordinal(n: number): string {

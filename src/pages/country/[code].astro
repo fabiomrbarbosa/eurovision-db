@@ -11,6 +11,7 @@ import {
 	countryFlagUrl,
 	ordinal,
 	broadcasterLogoUrl,
+	broadcasterLogoSquare,
 	COUNTRY_BROADCASTER_OVERRIDES,
 } from "../../lib/utils.ts";
 
@@ -121,7 +122,11 @@ const [yearsLine1, yearsLine2] = splitForDisplay(ranges);
 									<img
 										src={broadcasterLogoUrl(b)!}
 										alt={b}
-										class="broadcaster-logo"
+										class={
+											broadcasterLogoSquare(b)
+												? "broadcaster-logo broadcaster-logo--sq"
+												: "broadcaster-logo"
+										}
 									/>
 								))}
 							</div>
@@ -282,6 +287,7 @@ const [yearsLine1, yearsLine2] = splitForDisplay(ranges);
 	.stat {
 		display: flex;
 		flex-direction: column;
+		justify-content: space-between;
 		gap: 0.1rem;
 	}
 	.stat-value {
@@ -298,17 +304,19 @@ const [yearsLine1, yearsLine2] = splitForDisplay(ranges);
 	}
 	.broadcaster-logos {
 		display: flex;
-		flex-direction: row;
 		flex-wrap: wrap;
-		gap: 1rem;
 		align-items: center;
+		gap: 0.75rem;
 	}
 	.broadcaster-logo {
 		display: block;
-		margin: 0.2rem 0;
-		height: 1.85rem;
+		height: 1.35rem;
 		width: auto;
 		max-width: 10rem;
+		margin-top: 0.35rem;
+	}
+	.broadcaster-logo--sq {
+		height: 1.6rem;
 	}
 
 	/* ── History section ────────────────────────────────────────── */

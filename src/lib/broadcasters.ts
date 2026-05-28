@@ -125,6 +125,10 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 		logo: "/images/broadcasters/jrt.svg",
 		logoSquare: true,
 	},
+	IPBC: {
+		full: "Israeli Public Broadcasting Corporation",
+		logoRef: "KAN", // IPBC rebranded to KAN in 2017
+	},
 	KAN: {
 		logo: "/images/broadcasters/kan.svg",
 	},

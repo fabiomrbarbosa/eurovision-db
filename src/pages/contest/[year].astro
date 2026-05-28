@@ -9,7 +9,13 @@ import {
 	getCountryName,
 	getCountries,
 } from "../../lib/data.ts";
-import { countryFlagUrl, resolveContestBroadcasters } from "../../lib/utils.ts";
+import {
+	countryFlagUrl,
+	broadcasterLogoUrl,
+	broadcasterLogoSquare,
+	expandBroadcaster,
+	resolveContestBroadcasterCodes,
+} from "../../lib/utils.ts";
 
 export async function getStaticPaths() {
 	const years = getYears();
@@ -105,6 +111,19 @@ if (roundDates.length > 0) {
 	}
 }
 
+// Broadcaster logo items for the header
+const broadcasterCodes = resolveContestBroadcasterCodes(
+	contest.year,
+	contest.broadcasters,
+);
+const broadcasterLabel =
+	broadcasterCodes.length === 1 ? "Broadcaster" : "Broadcasters";
+const broadcasterItems = broadcasterCodes.map((raw) => ({
+	logo: broadcasterLogoUrl(raw),
+	square: broadcasterLogoSquare(raw),
+	name: expandBroadcaster(raw),
+}));
+
 // Build semifinal round data for SemifinalsView
 const qualifiedToFinalIds = new Set(finalist.map((r) => r.id));
 const semiRoundOrder: Record<string, number> = {
@@ -165,6 +184,27 @@ const semiRounds = contest.rounds
 					{year}
 				</h1>
 				<div class="meta-row">
+					{
+						broadcasterItems.length > 0 && (
+							<span class="meta-item">
+								<span class="meta-label">{broadcasterLabel}</span>
+								<span class="meta-content broadcaster-logos">
+									{broadcasterItems.map(({ logo, square, name }) =>
+										logo ? (
+											<img
+												src={logo}
+												alt={name}
+												title={name}
+												class={square ? "bc-logo bc-logo--sq" : "bc-logo"}
+											/>
+										) : (
+											<span>{name}</span>
+										),
+									)}
+								</span>
+							</span>
+						)
+					}
 					<span class="meta-item">
 						<span class="meta-label">Venue</span>
 						<span class="meta-content">
@@ -179,26 +219,18 @@ const semiRounds = contest.rounds
 							}
 						</span>
 					</span>
+				</div>
+				<div class="meta-row">
 					{
 						contestDates && (
 							<span class="meta-item">
-								<span class="meta-label">{roundDates.length === 1 ? "Date" : "Dates"}</span>
+								<span class="meta-label">
+									{roundDates.length === 1 ? "Date" : "Dates"}
+								</span>
 								<span class="meta-content">{contestDates}</span>
 							</span>
 						)
 					}
-					{
-						contest.slogan && (
-							<span class="meta-item">
-								<span class="meta-label">Slogan</span>
-								<span class="meta-content">
-									<em>"{contest.slogan}"</em>
-								</span>
-							</span>
-						)
-					}
-				</div>
-				<div class="meta-row">
 					{
 						contest.presenters.length > 0 && (
 							<span class="meta-item">
@@ -210,14 +242,11 @@ const semiRounds = contest.rounds
 						)
 					}
 					{
-						contest.broadcasters.length > 0 && (
+						contest.slogan && (
 							<span class="meta-item">
-								<span class="meta-label">Broadcaster</span>
+								<span class="meta-label">Slogan</span>
 								<span class="meta-content">
-									{resolveContestBroadcasters(
-										contest.year,
-										contest.broadcasters,
-									).join(" · ")}
+									<em>"{contest.slogan}"</em>
 								</span>
 							</span>
 						)
@@ -370,7 +399,7 @@ const semiRounds = contest.rounds
 	.meta-row {
 		display: flex;
 		flex-wrap: wrap;
-		gap: 1.5rem;
+		gap: 1rem 1.5rem;
 		margin-top: 1rem;
 	}
 	.meta-item {
@@ -385,6 +414,21 @@ const semiRounds = contest.rounds
 		text-transform: uppercase;
 		letter-spacing: 0.08em;
 		color: var(--c-muted);
+	}
+	.broadcaster-logos {
+		display: flex;
+		flex-wrap: wrap;
+		align-items: center;
+		gap: 1rem;
+		margin-top: 0.1rem;
+	}
+	.bc-logo {
+		display: block;
+		height: 1.25rem;
+		width: auto;
+	}
+	.bc-logo--sq {
+		height: 1.75rem;
 	}
 
 	/* ── Edition navigation ─────────────────────────────────────── */
