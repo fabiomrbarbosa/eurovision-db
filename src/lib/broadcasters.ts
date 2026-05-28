@@ -133,6 +133,7 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	},
 	KAN: {
 		logo: "/images/broadcasters/kan.svg",
+		logoSquare: true,
 	},
 	LRT: {
 		full: "Lietuvos nacionalinis radijas ir televizija",
