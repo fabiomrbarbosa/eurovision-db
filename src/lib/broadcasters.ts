@@ -34,7 +34,8 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	},
 	TROS: {
 		full: "Televisie Radio Omroep Stichting",
-		logoRef: "AVROTROS", // merged with AVRO in 2014 to form AVROTROS
+		logo: "/images/broadcasters/tros.svg",
+		logoSquare: true,
 	},
 	BBC: {
 		full: "British Broadcasting Corporation",
