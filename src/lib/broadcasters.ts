@@ -247,6 +247,7 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	SBS: {
 		full: "Special Broadcasting Service",
 		logo: "/images/broadcasters/sbs.svg",
+		logoSquare: true,
 	},
 	SMRTV: {
 		full: "San Marino RTV",
