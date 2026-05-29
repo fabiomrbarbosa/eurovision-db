@@ -99,13 +99,13 @@ const contests = getContestIndex()
 								<td class="song-cell">
 									{c.winner ? (
 										<>
-											<strong>{c.winner.artist}</strong>
-											{" · "}
 											<a
 												href={`/contest/${c.year}/song/${c.winner.contestantId + 1}/`}
 												class="song-link"
 											>
-												{c.winner.song}
+												<strong>{c.winner.artist}</strong>
+												{" · "}
+												<span class="muted">{c.winner.song}</span>
 											</a>
 										</>
 									) : (
@@ -215,9 +215,10 @@ const contests = getContestIndex()
 		max-width: 280px;
 	}
 	.song-link {
-		color: var(--c-muted);
+		color: var(--c-text);
 	}
-	.song-link:hover {
+	.song-link:hover,
+	.song-link:hover .muted {
 		color: var(--c-link);
 	}
 	.flag {

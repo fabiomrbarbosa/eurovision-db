@@ -283,7 +283,8 @@ npm run build
   table wrapped in `.table-scroll` for mobile; host city+country text is a link to the contest
   (flag stays outside the link); city and country rendered as `{city,}<span>{country}</span>`
   (comma inside first expression, space inside second) — no JSX whitespace nodes around the comma;
-  winning song is muted and linked; Cancelled editions show a `badge badge--magenta` in the
+  winning artist and song title are both linked to the song page (single `<a>`); artist renders
+  in `--c-text` (white), song title in `.muted`; both go cyan on hover; Cancelled editions show a `badge badge--magenta` in the
   Winning Score column instead of a dash; the `.map()` spreads the full `ContestIndexEntry`
   (`...e`) and only adds derived fields on top — so `cancelled` and any future index fields flow
   through automatically without needing to be listed explicitly
