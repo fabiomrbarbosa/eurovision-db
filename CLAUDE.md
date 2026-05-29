@@ -303,9 +303,10 @@ npm run build
   functions inside Astro JSX (language server trips on `const` declarations inside `.map()`);
   wide logos `1.25rem`, square logos `1.75rem`
 - `country/[code].astro` — country history; sortable columns; Run column removed (not useful
-  per-country); DNQ and Cancelled both use `<span class="badge badge--magenta">`; "Active years"
-  stat shows actual consecutive participation ranges (not a simple A–B span), deduped to handle
-  1956 two-songs-per-country correctly; two-line display kicks in when visible year-number
+  per-country); DNQ and Cancelled both use `<span class="badge badge--magenta">`; appearances
+  counted as distinct years (`new Set(history.map(h => h.year)).size`) to avoid double-counting
+  1956; "Active years" stat shows actual consecutive participation ranges (not a simple A–B span),
+  deduped to handle 1956 two-songs-per-country correctly; two-line display kicks in when visible year-number
   count > 5; `splitForDisplay` includes the trailing comma **inside** the returned `yearsLine1`
   string — never in JSX — to prevent whitespace before the comma; single-line histories render
   at full stat size; Wins stat hidden when 0 (shows Best place ordinal instead, hidden if no

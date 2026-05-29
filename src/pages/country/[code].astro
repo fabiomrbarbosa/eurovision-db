@@ -30,7 +30,7 @@ const countryName = countries[code] ?? code;
 const history = getCountryHistory(code);
 
 const wins = history.filter((h) => h.finalPlace === 1).length;
-const appearances = history.length;
+const appearances = new Set(history.map((h) => h.year)).size;
 const bestPlace = Math.min(...history.map((h) => h.finalPlace ?? Infinity));
 
 const currentBroadcasters = (() => {
