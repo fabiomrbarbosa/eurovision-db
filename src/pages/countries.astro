@@ -23,6 +23,7 @@ const statsMap: Record<
 		wins: number;
 		lastYear: number;
 		recentEntries: Array<{ year: number; contestantId: number }>;
+		seenYears: Set<number>;
 	}
 > = {};
 for (const entry of index) {
@@ -33,8 +34,12 @@ for (const entry of index) {
 				wins: 0,
 				lastYear: 0,
 				recentEntries: [],
+				seenYears: new Set(),
 			};
-		statsMap[c.country].appearances++;
+		if (!statsMap[c.country].seenYears.has(entry.year)) {
+			statsMap[c.country].appearances++;
+			statsMap[c.country].seenYears.add(entry.year);
+		}
 		statsMap[c.country].lastYear = Math.max(
 			statsMap[c.country].lastYear,
 			entry.year,
@@ -54,6 +59,7 @@ for (const entry of index) {
 				wins: 0,
 				lastYear: 0,
 				recentEntries: [],
+				seenYears: new Set(),
 			};
 		statsMap[code].wins++;
 	}

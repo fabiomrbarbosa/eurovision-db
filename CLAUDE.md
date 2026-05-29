@@ -289,7 +289,9 @@ npm run build
   through automatically without needing to be listed explicitly
 - `countries.astro` — country listing with win/appearance stats; all columns sortable;
   default sort: alphabetical by country name; flag sits outside the country name `<a>` link
-  so the underline doesn't bleed under the blank space between flag and text
+  so the underline doesn't bleed under the blank space between flag and text;
+  appearances counted per year (not per contestant) via a `seenYears: Set<number>` to avoid
+  double-counting 1956 where each country sent two songs
 - `contest/[year].astro` — full contest page: unified round tab group via ContestTabs;
   contest logo capped at `max-height: 175px; max-width: 240px` with `height: auto; width: auto`;
   cancelled editions show a selected-acts table (full `.results-table` styling from `global.css`)
