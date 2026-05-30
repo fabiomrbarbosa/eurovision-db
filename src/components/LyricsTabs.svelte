@@ -24,10 +24,27 @@
 	let activeIdx = $state(0);
 
 	const current = $derived(sorted[activeIdx]);
+
+	function decodeEntities(str: string): string {
+		if (typeof document === "undefined") {
+			// SSR path (Astro build-time render): cover the entities the API actually emits
+			return str
+				.replace(/&amp;/g, "&")
+				.replace(/&lt;/g, "<")
+				.replace(/&gt;/g, ">")
+				.replace(/&quot;/g, '"')
+				.replace(/&#39;/g, "'")
+				.replace(/&nbsp;/g, " ");
+		}
+		const el = document.createElement("textarea");
+		el.innerHTML = str;
+		return el.value;
+	}
+
 	const paragraphs = $derived(
 		current?.content
-			.replace(/<[^>]*>/g, "")
-			.split("\n\n") ?? [],
+			? decodeEntities(current.content.replace(/<[^>]*>/g, "")).split("\n\n")
+			: [],
 	);
 
 	function tabLabel(lyric: Lyrics): string {
