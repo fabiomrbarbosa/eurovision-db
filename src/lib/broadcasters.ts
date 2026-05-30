@@ -48,6 +48,7 @@ export const BROADCASTERS: Record<string, BroadcasterEntry> = {
 	BNT: {
 		full: "Bulgarian National Television",
 		logo: "/images/broadcasters/bnt.svg",
+		logoSquare: true,
 	},
 	BTRC: {
 		full: "Bielaruskaje telebachannie i radyjo",
